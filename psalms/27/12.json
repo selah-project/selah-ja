@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "私を、私を圧迫する者たちの・ nefesh に渡さないでください。偽りの証人たちが私に向かって立ち上がり、暴力を吐き出しているからです。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "私を渡さないで"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "〜の・ nefesh に"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "私を圧迫する者たちの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "立ち上がった"
+    },
+    {
+      "surface": "בי",
+      "gloss": "私に向かって"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "証人たちが"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りの"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "そして吐き出す"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "暴力を"
+    }
+  ],
+  "timestamp": "2026-08-07T18:39:30.999059396Z",
+  "model": "glm-5.2"
+}

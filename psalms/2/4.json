@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "天に座する方は笑う。アドナイは彼らを嘲笑う。",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "座する方"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "天に"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "笑う"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "嘲笑う"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼らを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:09.035039106Z",
+  "model": "glm-5.2"
+}

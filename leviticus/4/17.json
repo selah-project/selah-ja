@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして祭司はその指を血の一部に浸し、ヤハウェの前、垂れ幕の正面に⟨את⟩その表面に七回振りかける。",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "そして…浸す"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "その祭司は"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "彼の指を"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "その血の"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "そして…振りかける"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "回"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "垂れ幕の表面"
+    },
+    {
+      "surface": "פני",
+      "gloss": "〜の表面に"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "その垂れ幕の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:50.780645702Z",
+  "model": "glm-5.2"
+}

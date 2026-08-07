@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼は私に言った、人の子よ、⟨את⟩あなたが見つけるものを食べよ、この巻物を食べよ、そして行ってイスラエルの家に語れ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたが見つけるもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "あなたが〜するもの"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "見つける"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "食べよ"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "食べよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この巻物"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "巻物"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "そして行け"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:01:33.340268820Z",
+  "model": "glm-5.2"
+}

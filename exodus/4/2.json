@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "ヤハウェは彼に言われた――あなたの手にあるのは何か。彼は言った――杖です。",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֧אמֶר",
+      "gloss": "言われた"
+    },
+    {
+      "surface": "אֵלָ֛יו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "これは何か"
+    },
+    {
+      "surface": "בְיָדֶ֑ךָ",
+      "gloss": "あなたの手にある"
+    },
+    {
+      "surface": "וַיֹּ֖אמֶר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "מַטֶּֽה",
+      "gloss": "杖"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:24.417571975Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてペリシテ人は見つめ、⟨את⟩ ダビデを見て、彼を軽蔑した。彼は若者であり、赤みを帯びて、美しい容貌であったからである。",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "そして見つめ"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ペリシテ人は"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "そして見て"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダビデ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデを"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "彼を軽蔑した"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨であった⟩"
+    },
+    {
+      "surface": "נער",
+      "gloss": "若者"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "赤みを帯びて"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "美しい"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "容貌"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:05.179616899Z",
+  "model": "glm-5.2"
+}

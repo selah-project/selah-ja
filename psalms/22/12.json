@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "私から遠ざからないで、狭苦しみが近いのだから、というのは助ける者がいないからである。",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "〜ないで"
+    },
+    {
+      "surface": "תִּרְחַ֣ק",
+      "gloss": "遠ざかる"
+    },
+    {
+      "surface": "מִ֭מֶּנִּי",
+      "gloss": "私から"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "צָרָ֣ה",
+      "gloss": "狭苦しみ"
+    },
+    {
+      "surface": "קְרוֹבָ֑ה",
+      "gloss": "近い"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "〜がない"
+    },
+    {
+      "surface": "עוֹזֵֽר",
+      "gloss": "助ける者"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:07.594386182Z",
+  "model": "glm-5.2"
+}

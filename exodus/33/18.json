@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "すると⟨彼は⟩言った——どうか、⟨את⟩あなたの栄光をわたしにお見せください、と。",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמַר",
+      "gloss": "すると言った"
+    },
+    {
+      "surface": "הַרְאֵנִי",
+      "gloss": "わたしにお見せください"
+    },
+    {
+      "surface": "נָא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの栄光"
+    },
+    {
+      "surface": "כְּבֹדֶךָ",
+      "gloss": "あなたの栄光"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:22.828508613Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして彼は⟨את⟩イスラエルの子らの若者たちを遣わし、彼らは全焼の献げ物を献げ、ヤハウェに和解の献げ物として雄牛を屠った。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして彼は遣わした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子らの若者たち"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "若者たち"
+    },
+    {
+      "surface": "בני",
+      "gloss": "の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "彼らは献げた"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "全焼の献げ物"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "彼らは屠った"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "献げ物"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "和解の"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "雄牛"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:23.617271323Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "その時、ヤラブアムの子アビヤは病んだ。",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "…の時に"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "その"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "病んだ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "アビヤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ヤラブアム"
+    }
+  ],
+  "timestamp": "2026-08-07T11:04:02.158370189Z",
+  "model": "glm-5.2"
+}

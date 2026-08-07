@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "私たちは十二人の兄弟であり、一人の父の息子です。あの一人はいなくなり、そして一番下の弟は今日、⟨את⟩ 私たちの父とともにケナンの地にいます。」」",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "私たちは〜である"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "בני",
+      "gloss": "息子"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "私たちの父の"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "あの一人は"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "いなくなった"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "そして一番下の者は"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私たちの父"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "私たちの父"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ケナン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:48.478500565Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "「聞け、そして耳を傾けよ。高ぶってはならない。ヤハウェが語られたのだから。」",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "そして耳を傾けよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "高ぶって"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:45:54.178232571Z",
+  "model": "glm-5.2"
+}

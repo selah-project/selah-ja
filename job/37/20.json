@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 37:20",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "私が語るということが彼に告げられるだろうか。人が語れば、彼は確かに呑み込まれるのだろうか。",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "告げられるだろうか"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということを"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "私が語る"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "語れば"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人が"
+    },
+    {
+      "surface": "כי",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "呑み込まれる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:29:28.397971358Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてわたしは、そこに⟨את⟩箱を置いた。その中にはヤハウェの契約がある。すなわちイスラエルの子らと結ばれたもの。」",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "そしてわたしは置いた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "箱"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ある"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "結ばれた"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:11:11.349570935Z",
+  "model": "glm-5.2"
+}

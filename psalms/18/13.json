@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "輝きの前から、⟨彼の⟩厚い雲は通り過ぎた — 雹と火の燃えさし。",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "輝きから"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "⟨彼の⟩前に"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "⟨彼の⟩厚い雲"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "通り過ぎた"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "雹"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "と燃えさし"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:34.681054811Z",
+  "model": "glm-5.2"
+}

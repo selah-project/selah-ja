@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "あなたの父とあなたの母は喜び、あなたを産んだ者は楽しめ。",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "喜べ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父は"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "あなたの母と"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "楽しめ"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "あなたを産んだ者は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:16.095216771Z",
+  "model": "glm-5.2"
+}

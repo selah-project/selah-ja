@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "だがもし、野で⟨一人の⟩男が婚約したおとめを見つけ、その男が彼女を力ずくで押さえ、彼女と寝たなら、彼女と寝たその男だけが死なねばならない。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "だがもし"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "野で"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "見つけ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "男が"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "婚約したおとめ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "おとめを"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "婚約した"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "力ずくで押さえ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "彼女を"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "男が"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "寝た"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "彼女と"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "死なねばならない"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "男が"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "寝た"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "彼女と"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "彼だけで"
+    }
+  ],
+  "timestamp": "2026-08-07T10:17:41.346338630Z",
+  "model": "glm-5.2"
+}

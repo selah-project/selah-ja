@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "彼こそヤハウェ、私たちのエロヒム、全地に⟨渡る⟩彼の裁き",
+  "tokens": [
+    {
+      "surface": "ה֭וּא",
+      "gloss": "彼こそ"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֱלֹהֵ֑ינוּ",
+      "gloss": "私たちのエロヒム"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "全…に"
+    },
+    {
+      "surface": "הָ֝אָ֗רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מִשְׁפָּטָֽיו",
+      "gloss": "彼の裁き"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:55.412474457Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてモシェはパロのもとから出て行き、ヤハウェに嘆願した。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て行った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "〜のもとから"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "そして嘆願した"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:30.377482937Z",
+  "model": "glm-5.2"
+}

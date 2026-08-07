@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "彼の美味しいものを切望してはならない。それは偽りのパンだからだ。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "切望しては"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "彼の美味しいものを"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "偽りの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:14.364629528Z",
+  "model": "glm-5.2"
+}

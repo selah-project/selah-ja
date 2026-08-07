@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして⟨את⟩ダチョウ、および⟨את⟩タフマス、および⟨את‬‬ שׁחף、および⟨את⟩タカを、その種類にしたがって。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ダチョウ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ダチョウ"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "（ヤアナ）"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "タフマス"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "タフマス"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "シャハフ"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "シャハフ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "タカ"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "タカ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "その種類にしたがって"
+    }
+  ],
+  "timestamp": "2026-08-07T18:28:01.447039483Z",
+  "model": "glm-5.2"
+}

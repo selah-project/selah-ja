@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 29:18",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして⟨את⟩あの雄羊のすべてを祭壇の上で燔祭として炊き上げなさい。それはヤハウェへの全焼の捧げ物、ヤハウェへの安らぎの香り、火による捧げ物である。",
+  "tokens": [
+    {
+      "surface": "והקטרת",
+      "gloss": "そして炊き上げなさい"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "あの雄羊"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "祭壇の上で"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェへの"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "香り"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "安らぎの"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火による捧げ物"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェへの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それである"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:05.276476652Z",
+  "model": "glm-5.2"
+}

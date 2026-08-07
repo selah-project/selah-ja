@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 74,
+  "translation": "あなたが地のすべての境界を据えられた。夏と冬を、あなたが ⟨それらを⟩ 造り上げられた。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "据えられた"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "境界を"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "夏と"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "冬を"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "⟨それらを⟩ 造り上げられた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:03.035567031Z",
+  "model": "glm-5.2"
+}

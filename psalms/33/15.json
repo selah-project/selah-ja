@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "造り主は⟨彼らの⟩心を一つに形造る、すべてのわざを理解する方。",
+  "tokens": [
+    {
+      "surface": "הַיֹּצֵ֣ר",
+      "gloss": "造り主"
+    },
+    {
+      "surface": "יַ֣חַד",
+      "gloss": "一つに"
+    },
+    {
+      "surface": "לִבָּ֑ם",
+      "gloss": "心を"
+    },
+    {
+      "surface": "הַ֝מֵּבִ֗ין",
+      "gloss": "理解する方"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מַעֲשֵׂיהֶֽם",
+      "gloss": "わざ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:10.121183526Z",
+  "model": "glm-5.2"
+}

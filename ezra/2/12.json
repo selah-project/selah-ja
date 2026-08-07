@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "アズガドの子ら、千二百二十二。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "アズガド"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "二百"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "と二"
+    }
+  ],
+  "timestamp": "2026-08-07T13:49:29.867260252Z",
+  "model": "glm-5.2"
+}

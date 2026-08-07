@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 114,
+  "translation": "岩を水の池に、燧石を水の泉に ⟨変えられた⟩ ⟨かた⟩。",
+  "tokens": [
+    {
+      "surface": "הַהֹפְכִ֣י",
+      "gloss": "変えられた ⟨かた⟩"
+    },
+    {
+      "surface": "הַצּ֣וּר",
+      "gloss": "岩を"
+    },
+    {
+      "surface": "אֲגַם",
+      "gloss": "池に"
+    },
+    {
+      "surface": "מָ֑יִם",
+      "gloss": "水の"
+    },
+    {
+      "surface": "חַ֝לָּמִ֗ישׁ",
+      "gloss": "燧石を"
+    },
+    {
+      "surface": "לְמַעְיְנוֹ",
+      "gloss": "泉に"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "水の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:28.891221490Z",
+  "model": "glm-5.2"
+}

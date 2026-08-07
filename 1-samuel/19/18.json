@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 19:18",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "ダビデは逃げ、無事に逃れ、シュムエルのところ、ラマテへ行き、シャウルが自分にしたことをすべて彼に告げた。そして彼とシュムエルは行ってナヨトに住んだ。",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "そしてダビデは"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "逃げ"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "無事に逃れた"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエル"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "ラマテへ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのこと"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "した"
+    },
+    {
+      "surface": "לו",
+      "gloss": "自分に"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルが"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼自身"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "そしてシュムエル"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "そして住んだ"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "ナヨトに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:00.594917489Z",
+  "model": "glm-5.2"
+}

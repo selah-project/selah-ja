@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 33:50",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そしてヤハウェはモシェに語られた、モアブのアラバにおいて、ヨルダン川のほとり、エリホの〈方〉において、告げて、",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして〜は語られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "〜のアラバにおいて"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のほとりに"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "ヨルダン川"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "エリホ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "告げて"
+    }
+  ],
+  "timestamp": "2026-08-07T10:04:37.646033180Z",
+  "model": "glm-5.2"
+}

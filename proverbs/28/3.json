@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "貧しい男が弱い者たちを虐げるのは、パンがない押し流す雨のようだ。",
+  "tokens": [
+    {
+      "surface": "גֶּ֣בֶר",
+      "gloss": "男"
+    },
+    {
+      "surface": "רָ֭שׁ",
+      "gloss": "貧しい"
+    },
+    {
+      "surface": "וְעֹשֵׁ֣ק",
+      "gloss": "虐げる"
+    },
+    {
+      "surface": "דַּלִּ֑ים",
+      "gloss": "弱い者たちを"
+    },
+    {
+      "surface": "מָטָ֥ר",
+      "gloss": "雨"
+    },
+    {
+      "surface": "סֹחֵ֗ף",
+      "gloss": "押し流す"
+    },
+    {
+      "surface": "וְאֵ֣ין",
+      "gloss": "〜がない"
+    },
+    {
+      "surface": "לָֽחֶם",
+      "gloss": "パン"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:10.862536376Z",
+  "model": "glm-5.2"
+}

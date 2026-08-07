@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 15:24",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "もし男が⟨את⟩彼女と寝て、彼女の汚れが彼の上にあるなら、彼は七日間汚れ、彼がその上に寝るすべての寝床は汚れる。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "寝る"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "寝るなら"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男が"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "彼女"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "そしてある"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "彼女の汚れが"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼の上に"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "そして汚れている"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "寝床"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "寝る"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "汚れる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:14.626750160Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "ヤハウェのトーラーは完全、 nephesh を回復させる。ヤハウェの証しは確か、 pethi を知恵ある者とする。",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "トーラー（指示）は"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "完全"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "回復させる"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "נפש"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "証しは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "確か"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "知恵ある者とする"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "pethi（単純な者）"
+    }
+  ],
+  "timestamp": "2026-08-07T18:39:21.575766856Z",
+  "model": "glm-5.2"
+}

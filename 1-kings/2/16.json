@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "今、一つの願いを私はあなたに求めています——私の顔を⟨את⟩退けないでください」。彼女は彼に言った、「語りなさい」。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "願い"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私は"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "求めている"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ないでください"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "退けないで"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の顔"
+    },
+    {
+      "surface": "פני",
+      "gloss": "私の顔を"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "彼女は言った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語りなさい"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:02.230666281Z",
+  "model": "glm-5.2"
+}

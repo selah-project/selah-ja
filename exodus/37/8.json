@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "一方の端に一つのケルブ、他方の端に一つのケルブ。贖い蓋から彼は⟨את⟩ケルブたちを、その両端から⟨一体ずつ⟩造った。",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "ケルブを"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "端に"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "こちらの"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "そしてケルブを"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "端に"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "あちらの"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "贖い蓋"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "彼は造った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ケルブたち"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ケルブたちを"
+    },
+    {
+      "surface": "משני",
+      "gloss": "〜の両"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "端から"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:24.318182775Z",
+  "model": "glm-5.2"
+}

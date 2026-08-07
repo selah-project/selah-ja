@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "あなたは私の心に喜びを与えられた。彼らの穀物と新酒が増し加えられた時に⟨も及ぶ⟩。",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "与えられた"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "喜び"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "私の心に"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "〜の時にも"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "彼らの穀物"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "と彼らの新酒"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "増し加えられた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:33:56.757781689Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 37:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "見よ、わたしは彼に霊を授ける。彼は報告を聞いて自分の地に帰る。わたしは彼を剣によって彼の地で倒れさせる。」",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "見よ、わたしは"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "授ける"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "そして聞く"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "報告"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "そして帰る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～へ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "自分の地"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "わたしは彼を倒れさせる"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "剣によって"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "彼の地で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:29:36.196083426Z",
+  "model": "glm-5.2"
+}

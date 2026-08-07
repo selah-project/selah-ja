@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 7:2",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして私は命じた — ⟨את⟩私の兄弟ハナニと、⟨את⟩ハナンヤ、要塞の長を、イェルシャライムの上に。彼は真実の人のようであり、多くの者からエロヒムを恐れていた者⟨だった⟩から。",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "そして私は命じた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の兄弟ハナニ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ハナニ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "私の兄弟"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ハナンヤ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ハナンヤ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "要塞の"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライム"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "〜の人のようで"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真実"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "そして恐れる者"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エロヒム"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムを"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "多くの者から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:56:17.918261863Z",
+  "model": "glm-5.2"
+}

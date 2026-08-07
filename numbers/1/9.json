@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ゼブルンには、エリアブ、ヘロンの子。",
+  "tokens": [
+    {
+      "surface": "לִזְבוּלֻ֕ן",
+      "gloss": "ゼブルンには"
+    },
+    {
+      "surface": "אֱלִיאָ֖ב",
+      "gloss": "エリアブ"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "～の子"
+    },
+    {
+      "surface": "חֵלֹֽן",
+      "gloss": "ヘロン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:24.778898558Z",
+  "model": "glm-5.2"
+}

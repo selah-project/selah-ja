@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして⟨את⟩ 燭台と、そのともしびを — 定めに従って聖所の前で燃やすための — 精金で。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "燭台"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "燭台"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "そのともしび"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "燃やすための"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "定めに従って"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金で"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "精製された"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:35.029548057Z",
+  "model": "glm-5.2"
+}

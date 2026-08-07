@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして彼は彼らの言に、この言葉について聴き入れ、彼らを十日試した。",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמַ֥ע",
+      "gloss": "そして…聴き入れ"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "לַדָּבָ֣ר",
+      "gloss": "…ことについて"
+    },
+    {
+      "surface": "הַזֶּ֑ה",
+      "gloss": "この"
+    },
+    {
+      "surface": "וַיְנַסֵּ֖ם",
+      "gloss": "そして…試した"
+    },
+    {
+      "surface": "יָמִ֥ים",
+      "gloss": "日々"
+    },
+    {
+      "surface": "עֲשָׂרָֽה",
+      "gloss": "十"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:10.392121061Z",
+  "model": "glm-5.2"
+}

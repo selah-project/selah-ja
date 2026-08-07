@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "なまけ者の欲望は彼を死なせる、彼の手が働くことを拒んだからである。",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "欲望は"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "なまけ者の"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "彼を死なせる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "拒んだからである"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "彼の手が"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "働くことを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:30.304042220Z",
+  "model": "glm-5.2"
+}

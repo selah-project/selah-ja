@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 93,
+  "translation": "多くの水の轟きよりも、海の砕ける波の力強いものよりも、高きにおられるヤハウェは力強い。",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "轟きよりも"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "力強いものよりも"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "砕ける波の"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海の"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "力強い"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "高きにおられる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:38.087639817Z",
+  "model": "glm-5.2"
+}

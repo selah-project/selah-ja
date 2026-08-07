@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "חמץ ⟨על⟩ דם זבחי לא תשחט, ולא ילין לבקר זבח חג הפסח.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תִשְׁחַ֥ט",
+      "gloss": "屠る"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "חָמֵ֖ץ",
+      "gloss": "パン種"
+    },
+    {
+      "surface": "דַּם",
+      "gloss": "血"
+    },
+    {
+      "surface": "זִבְחִ֑י",
+      "gloss": "わたしの犠牲の"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יָלִ֣ין",
+      "gloss": "夜を過ごす"
+    },
+    {
+      "surface": "לַבֹּ֔קֶר",
+      "gloss": "朝まで"
+    },
+    {
+      "surface": "זֶ֖בַח",
+      "gloss": "犠牲"
+    },
+    {
+      "surface": "חַ֥ג",
+      "gloss": "祭りの"
+    },
+    {
+      "surface": "הַפָּֽסַח",
+      "gloss": "ペサハの"
+    }
+  ],
+  "timestamp": "2026-08-07T18:26:26.905997522Z",
+  "model": "glm-5.2"
+}

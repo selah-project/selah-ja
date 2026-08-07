@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "われわれ — われわれは背き、反抗した。あなたは、赦さなかった。",
+  "tokens": [
+    {
+      "surface": "נַחְנוּ",
+      "gloss": "われわれは"
+    },
+    {
+      "surface": "פָּשַׁעְנוּ",
+      "gloss": "背いた"
+    },
+    {
+      "surface": "וּמָרִינוּ",
+      "gloss": "そして反抗した"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "סָלָחְתָּ",
+      "gloss": "赦した"
+    }
+  ],
+  "timestamp": "2026-08-07T13:36:20.185842182Z",
+  "model": "glm-5.2"
+}

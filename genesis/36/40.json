@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "これらはエサウのアルフェの名前で、彼らの氏族ごとに、彼らの場所ごとに、彼らの名によって〈記す〉。アルフェ・ティムナ、アルペ・アルワ、アルペ・イテテト。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名前"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "アルフェの"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウの"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "彼らの氏族ごとに"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "彼らの場所ごとに"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "彼らの名によって"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "アルペ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ティムナ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "アルペ"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "アルワ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "アルペ"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "イテテト"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:32.138471989Z",
+  "model": "glm-5.2"
+}

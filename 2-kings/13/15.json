@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "エリシャは彼に言った、「弓と矢を取れ」。彼は彼のもとに弓と矢を取った。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "エリシャ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "と矢"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "取った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼のもとに"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "と矢"
+    }
+  ],
+  "timestamp": "2026-08-07T11:14:50.010053593Z",
+  "model": "glm-5.2"
+}

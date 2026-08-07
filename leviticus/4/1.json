@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてヤハウェはモーシェに語りかけて言われた、",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "語りかけた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言われた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:31:08.600739230Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 1:19",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "イスラエルの栄光よ、あなたの高き所で刺し殺されて。勇士はどうして倒れたのか！",
+  "tokens": [
+    {
+      "surface": "הצבי",
+      "gloss": "栄光よ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜で"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "あなたの高き所"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "刺し殺されて"
+    },
+    {
+      "surface": "איך",
+      "gloss": "どうして"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "倒れたのか"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "勇士は"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:21.430718983Z",
+  "model": "glm-5.2"
+}

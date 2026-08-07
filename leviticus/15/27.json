@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 15:27",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そしてそれらに触れるすべての者は汚れる。そしてその衣を洗い、水で身を洗い、夕方まで汚れている。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "הנוגע",
+      "gloss": "触れる者"
+    },
+    {
+      "surface": "בם",
+      "gloss": "それらに"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "汚れる"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "そして洗う"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "その衣を"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "そして身を洗う"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水で"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "そして汚れている"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "夕方"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:09.234850300Z",
+  "model": "glm-5.2"
+}

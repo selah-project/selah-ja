@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 7:15",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "パロの⟨もとへ⟩行け、朝の⟨うちに⟩。見よ、彼は水辺へ出てくる。あなたは彼の出迎えに、川の岸辺に立て。そして蛇に変わった杖を、あなたの手に取れ。",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "行け"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の⟨もとへ⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝の⟨うちに⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出てくる"
+    },
+    {
+      "surface": "המימה",
+      "gloss": "水辺へ"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "そして立て"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "彼の出迎えに"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "岸辺"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "川"
+    },
+    {
+      "surface": "והמטה",
+      "gloss": "そして杖"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "変わった"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "蛇に"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "あなたの手に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:10.414824401Z",
+  "model": "glm-5.2"
+}

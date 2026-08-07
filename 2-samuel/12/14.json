@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "ただ、あなたはこの事によって ⟨את⟩ ヤハウェの敵たちを侮ったのだから、あなたに生まれた子もまた、必ず死ぬ。」",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～だから"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "侮る（不定形）"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "あなたは侮った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの敵たちを"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "敵たち"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "この事によって"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "子は"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死に"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "必ず～"
+    }
+  ],
+  "timestamp": "2026-08-07T10:52:33.600659208Z",
+  "model": "glm-5.2"
+}

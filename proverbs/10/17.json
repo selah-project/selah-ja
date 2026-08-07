@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "命への道は、訓戒を守る⟨者⟩、そして戒めを捨てる⟨者⟩は迷い出る。",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "道は"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "命への"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "守る"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "訓戒を"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "そして…捨てる"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "戒めを"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "迷い出る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:27.000638889Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 77,
+  "translation": "あなたは私のまぶたの見張りを捕らえておられる、私は打ち震え、⟨そして⟩語らない。",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "あなたは捕らえておられる"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "見張り"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "私のまぶたの"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "私は打ち震え"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "語る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:37.194519630Z",
+  "model": "glm-5.2"
+}

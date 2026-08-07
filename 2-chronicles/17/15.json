@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そして彼の手元には長エホハナン、および彼とともに二十八万。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "エホハナン"
+    },
+    {
+      "surface": "השר",
+      "gloss": "その長"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "そして彼とともに"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "二十万"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "八万"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:51.748146477Z",
+  "model": "glm-5.2"
+}

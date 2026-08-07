@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そしてモーセは急いで、地に向かって身をかがめ、ひれ伏した。",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "そして急いで"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセは"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "身をかがめ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地に向かって"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ひれ伏した"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:43.847991001Z",
+  "model": "glm-5.2"
+}

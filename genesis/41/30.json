@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "七つの飢饉の年がその後に立ち上がり、全エレツ・ミツライムの飽食は忘れられ、飢饉はそのエレツ ⟨את⟩ を食い尽くすからである。",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "そして立ち上がり"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七つの"
+    },
+    {
+      "surface": "שני",
+      "gloss": "年（の）"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "飢饉"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "その後に"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "そして忘れられ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "その飽食"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "エレツに"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "そして食い尽くす"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "その飢饉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "そのエレツ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "そのエレツ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:07:45.817360177Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "その君たち〈は〉ツォアンにおり、その使者たち〈は〉ハネスに至ったからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "היו",
+      "gloss": "いた"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "ツォアンに"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "その君たち"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "その使者たち"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "ハネス"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "至った"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:36.938055301Z",
+  "model": "glm-5.2"
+}

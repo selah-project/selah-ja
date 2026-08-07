@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして地へ目を向ける——見よ、苦難と闇、苦悶の闇、追い払われる暗黒⟨がある⟩。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "そして～へ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "目を向ける"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "苦難"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "と闇"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "の闇"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "苦悶"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "暗黒"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "追い払われる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:55.745894086Z",
+  "model": "glm-5.2"
+}

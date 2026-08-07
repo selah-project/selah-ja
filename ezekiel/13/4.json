@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 13:4",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "廃墟の中の狐のように、あなたの預言者たちは、イスラエルよ、そのようであった。",
+  "tokens": [
+    {
+      "surface": "כשעלים",
+      "gloss": "狐のように"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "廃墟の中で"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "あなたの預言者たちは"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルよ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "そのようであった"
+    }
+  ],
+  "timestamp": "2026-08-07T12:03:03.427465241Z",
+  "model": "glm-5.2"
+}

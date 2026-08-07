@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "咎なくして彼らは走り、⟨身構える⟩。わたしに出会うために目を覚まし、見よ。",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "なくして"
+    },
+    {
+      "surface": "עון",
+      "gloss": "咎"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "彼らは走る"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "⟨身構える⟩"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "目を覚ませ"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "わたしに出会うために"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "見よ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:48.275392250Z",
+  "model": "glm-5.2"
+}

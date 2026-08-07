@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "ナタンは王に言った — 「あなたの心にあるすべてのことを、行って行いなさい。ヤハウェはあなたと共におられるのだから。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ナタンは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ことを"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "あなたの心にある"
+    },
+    {
+      "surface": "לך",
+      "gloss": "行って"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行いなさい"
+    },
+    {
+      "surface": "כי",
+      "gloss": "のだから"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたと共におられる"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:04.647380264Z",
+  "model": "glm-5.2"
+}

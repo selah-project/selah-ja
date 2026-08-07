@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "多く洗ってください、私を私の咎から。そして私の罪から、私を清めてください。",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "多く"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "洗ってください、私を"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "私の咎から"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "そして私の罪から"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "私を清めてください"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:51.513688536Z",
+  "model": "glm-5.2"
+}

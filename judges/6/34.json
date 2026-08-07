@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 6:34",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてヤハウェの霊がギデオンを着た。彼はショファルを吹き、アビエゼルが彼の後に召集された。",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "そして〜の霊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לבשה",
+      "gloss": "着た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ギデオン"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ギデオン"
+    },
+    {
+      "surface": "ויתקע",
+      "gloss": "吹き"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "ショファルを"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "召集された"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "アビエゼル"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "彼の後に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:33:27.736769609Z",
+  "model": "glm-5.2"
+}

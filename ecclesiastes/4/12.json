@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてもし ⟨一人の男が⟩ 打ち負かせば、⟨その⟩ 二人は彼に立ち向かえる。そして三重の糸は速やかに断ち切られることはない。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "打ち負かせば"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "その一人"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "その二人"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "立つであろう"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "彼に向かって"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "そしてその糸"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "三重の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "速やかにには"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "断ち切られる"
+    }
+  ],
+  "timestamp": "2026-08-07T17:30:30.453738657Z",
+  "model": "glm-5.2"
+}

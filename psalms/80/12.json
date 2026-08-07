@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 80,
+  "translation": "その若枝を海にまで、川にまで送り出した。",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "送り出す"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "その枝"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜にまで"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜へ"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "川"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "その若枝"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:03.396848383Z",
+  "model": "glm-5.2"
+}

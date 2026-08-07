@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 6:27",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "試金師としてわたしはあなたを置いた、わたしの民のうちに、砦として。そしてあなたは知り、⟨את⟩ 彼らの道を試す。",
+  "tokens": [
+    {
+      "surface": "בחון",
+      "gloss": "試金師として"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "わたしはあなたを置いた"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "わたしの民のうちに"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "砦として"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "そしてあなたは知り"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "試す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの道"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "彼らの道"
+    }
+  ],
+  "timestamp": "2026-08-07T14:31:18.938328665Z",
+  "model": "glm-5.2"
+}

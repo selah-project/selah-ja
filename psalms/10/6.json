@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "彼は自分の心の中で言う、「私は揺り動かされない、代々にわたり私は災いの中に⟨ない⟩」と。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "言う"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "彼の心の中で"
+    },
+    {
+      "surface": "בל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "私は揺り動かされる"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "代々に"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "わたり"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ことは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "災いの中に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:26.482485727Z",
+  "model": "glm-5.2"
+}

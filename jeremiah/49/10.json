@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "しかし、わたしが⟨את⟩エサウを裸にした、わたしが⟨את⟩彼の隠れ場を暴いた。そして彼は隠れることができない。彼の種も、彼の兄弟たちも、彼の隣人たちも略奪され、彼はもはやいない。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "しかし"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "裸にした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エサウ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "暴いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の隠れ場"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "彼の隠れ場"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "隠れる"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "できる"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "略奪された"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "彼の種"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "彼の兄弟たち"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "彼の隣人たち"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "彼はいない"
+    }
+  ],
+  "timestamp": "2026-08-07T11:58:25.404201262Z",
+  "model": "glm-5.2"
+}

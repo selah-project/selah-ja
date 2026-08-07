@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "知恵ある者のトーラーは命の泉、死の罠を避けるためのもの。",
+  "tokens": [
+    {
+      "surface": "תּוֹרַ֣ת",
+      "gloss": "トーラー"
+    },
+    {
+      "surface": "חָ֭כָם",
+      "gloss": "知恵ある者の"
+    },
+    {
+      "surface": "מְק֣וֹר",
+      "gloss": "泉"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "命の"
+    },
+    {
+      "surface": "לָ֝ס֗וּר",
+      "gloss": "避けるため"
+    },
+    {
+      "surface": "מִמֹּ֥קְשֵׁי",
+      "gloss": "〜の罠を"
+    },
+    {
+      "surface": "מָֽוֶת",
+      "gloss": "死の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:10.375696634Z",
+  "model": "glm-5.2"
+}

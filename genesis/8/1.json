@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてエロヒムはノアを思い出し、⟨את⟩ ⟨彼と⟩共に箱舟の中にいたすべての生き物と、⟨את⟩ すべての家畜を⟨思い出された⟩。エロヒムが地の上を風が通り過ぎさせると、水は引いた。",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "そして…思い出した"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ノア"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノアを"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "かつ ⟨את⟩",
+      "marks": "すべての生き物とすべての家畜"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "生き物と"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "かつ ⟨את⟩",
+      "marks": "すべての家畜"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "家畜を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…もの"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "箱舟の中にいた"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "そして…通り過ぎさせた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムが"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風を"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上を"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "そして…引いた"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水は"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:01.239711640Z",
+  "model": "glm-5.2"
+}

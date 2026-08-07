@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "あなたはそれで会見の天幕と、あかしの箱⟨את⟩に油を塗りなさい。",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "あなたは…に油を塗りなさい"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それで"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "会見の天幕"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "あかしの箱"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "あかしの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:40.997243971Z",
+  "model": "glm-5.2"
+}

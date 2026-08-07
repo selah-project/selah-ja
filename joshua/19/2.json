@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして彼らの嗣业 ⟨のうち⟩ に、彼らの ⟨もの⟩ は ⟨次の通り⟩ であった — ベエル・シェバ、シェバ、およびモラダ。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてあった"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "彼らの嗣業において"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ベエル・"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "シェバ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "およびシェバ"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "およびモラダ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:29:08.505687621Z",
+  "model": "glm-5.2"
+}

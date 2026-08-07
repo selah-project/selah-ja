@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 70,
+  "translation": "引き返せ、恥のゆえに。「ああ、ああ」と言う者たちは。",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "引き返せ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "果て"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "彼らの恥"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "〜と言う者たちは"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ああ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:00.131017259Z",
+  "model": "glm-5.2"
+}

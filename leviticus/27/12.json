@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そして祭司はそれを評価しなければならない——良いものか悪いものかを⟨⟩の間で。祭司よ、あなたの評価のとおりに、そうそれはなる。",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "そして、彼は評価する"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司は"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それ（評価の対象・良いか悪いかの判定）"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間で"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "そして〜の間で"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "あなたの評価のとおりに"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司よ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そう"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "それはなる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:48:49.646753071Z",
+  "model": "glm-5.2"
+}

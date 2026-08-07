@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてペリシテ人たちはこちら側の山の上に立ち、イスラエルはあちら側の山の上に立っていた。そして谷が ⟨彼らの⟩ 間にあった。",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "そしてペリシテ人たちは"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "立って"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のほうに"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "こちら側の"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "そしてイスラエルは"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "立って"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のほうに"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "あちら側の"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "そして谷は"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "彼らの間に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:56.433721570Z",
+  "model": "glm-5.2"
+}

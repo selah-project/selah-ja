@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 20:21",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "生き残り⟨はいない⟩、⟨彼の⟩食べ物⟨として⟩。それゆえ、⟨彼の⟩良いものは続かない。",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "⟨いない⟩"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "生き残り"
+    },
+    {
+      "surface": "לאכלו",
+      "gloss": "⟨彼の⟩食べ物⟨として⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "続かない"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "⟨彼の⟩良いもの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:25:34.715736207Z",
+  "model": "glm-5.2"
+}

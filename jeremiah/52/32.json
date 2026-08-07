@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "そして彼は彼に良いことを語り、⟨彼は⟩⟨את⟩彼の玉座を、バビロンで彼と共にいた王たちの玉座よりも高く置いた。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして⟨彼は⟩語った"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "良いことを"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして⟨彼は⟩置いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の玉座"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "彼の玉座を"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "高く"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "…の玉座の"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である者たちの"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "バビロンで"
+    }
+  ],
+  "timestamp": "2026-08-07T12:00:27.376041105Z",
+  "model": "glm-5.2"
+}

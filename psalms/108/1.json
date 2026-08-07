@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 108,
+  "translation": "歌、続唱、ダヴィデのもの",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "続唱"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダヴィデのもの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:53.781274456Z",
+  "model": "glm-5.2"
+}

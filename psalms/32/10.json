@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "悪者には苦しみが多い、しかしヤハウェに信頼する者を、ヘセドは囲む",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "多い"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "苦しみが"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "悪者には"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "しかし〜信頼する者を"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ヘセドは"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "囲む"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:25.718226557Z",
+  "model": "glm-5.2"
+}

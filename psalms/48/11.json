@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "あなたの御名のとおり、エロヒムよ、そのようにあなたの誉れは地の果てにまで⟨及ぶ⟩。義があなたの右の手を満たしている。",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "あなたの御名のとおり"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "あなたの誉れは"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "果てに"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "義が"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "満たしている"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "あなたの右の手を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:50.039768093Z",
+  "model": "glm-5.2"
+}

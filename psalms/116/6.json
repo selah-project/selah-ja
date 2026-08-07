@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 116,
+  "translation": "ヤハウェは単純な者を守られる。私は低くされていた、そして私には⟨彼が⟩救いを与えてくださった。",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "守られる"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "単純な者を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "私は低くされていた"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "そして私には"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "救いを与えてくださった"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:26.109073591Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "彼らはホレブで子牛を造り、鋳造した像にひれ伏した。",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "彼らは造った"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "子牛を"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ホレブで"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "そしてひれ伏した"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "鋳造した像に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:11.198605209Z",
+  "model": "glm-5.2"
+}

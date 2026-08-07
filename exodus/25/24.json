@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "あなたはそれを純金で覆い、⟨את⟩それに金の冠飾りを周囲に造らなければならない。",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "あなたは覆う"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "あなたは造る"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "זר",
+      "gloss": "冠飾り"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:29.191058354Z",
+  "model": "glm-5.2"
+}

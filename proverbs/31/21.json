@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "彼女の家は雪を恐れない。彼女の家のすべての者は緋色の衣を着ているからだ。",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "תִירָ֣א",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "לְבֵיתָ֣הּ",
+      "gloss": "彼女の家は"
+    },
+    {
+      "surface": "מִשָּׁ֑לֶג",
+      "gloss": "雪を"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "因为"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בֵּ֝יתָ֗הּ",
+      "gloss": "彼女の家の者"
+    },
+    {
+      "surface": "לָבֻ֥שׁ",
+      "gloss": "着ている"
+    },
+    {
+      "surface": "שָׁנִֽים",
+      "gloss": "緋色の衣"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:32.283446218Z",
+  "model": "glm-5.2"
+}

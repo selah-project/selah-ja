@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 2:3",
+  "book": "habakkuk",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "なぜなら幻はなお定められた時のため、そして終わりに向かって息吹き、嘘をつかないからだ。もしそれが滞るなら、それを待て。なぜならそれは必ず来るからだ、遅れることはない。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "なお"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "幻"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "定められた時に"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "そして息吹く"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "終わりに向かって"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "嘘をつく"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יתמהמה",
+      "gloss": "滞る"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "待て"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それを"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "それは来る"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יאחר",
+      "gloss": "遅れる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:28:41.312829771Z",
+  "model": "glm-5.2"
+}

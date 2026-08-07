@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "若い者は何をもって自分の道を清めるのか。あなたのことばに従ってそれを守るためである。",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "何をもって"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "清める"
+    },
+    {
+      "surface": "נער",
+      "gloss": "若い者"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の道"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "自分の道"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "守るために"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "あなたのことばに従って"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:36.982593214Z",
+  "model": "glm-5.2"
+}

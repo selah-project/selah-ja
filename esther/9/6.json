@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "シュシャン ⟨の⟩ 王宮では、ユダヤ人が五百人の男を殺し、滅ぼした。",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "シュシャンでは"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "王宮"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "殺し"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ユダヤ人は"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "滅ぼした"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の男を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:36.420178355Z",
+  "model": "glm-5.2"
+}

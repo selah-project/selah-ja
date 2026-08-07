@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 23:5",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そして三分の一は王の宮殿⟨に⟩、三分の一は土台の門⟨に⟩、民はすべてヤハウェの家の庭⟨に⟩⟨いる⟩。",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "そして三分の一は"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "〜の家⟨に⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "そして三分の一は"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "〜の門⟨に⟩"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "土台の"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そして〜のすべては"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "庭⟨に⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "〜の家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:16:26.996650805Z",
+  "model": "glm-5.2"
+}

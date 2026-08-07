@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "苦境の中で私はヤハウェを呼び、私のエロヒムに呼びかけた。そして⟨彼⟩はその宮から私の声を聞き、その叫びは彼の耳に⟨届いた⟩。",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "苦境の中で"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "私は呼び"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェを"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "私のエロヒム"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "私は呼びかけた"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "そして⟨彼⟩は聞いた"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "その宮から"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "私の声を"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "そして私の叫びは"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "彼の耳に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:14.252896600Z",
+  "model": "glm-5.2"
+}

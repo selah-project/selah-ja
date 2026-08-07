@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてダビデは全会衆の目の前で ⟨את⟩ ヤハウェを賛美した。ダビデは言った。「賛美されますように、あなたは、ヤハウェ、イスラエルの私たちの父のエロヒム、永遠から永遠まで。」",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "そして…賛美した"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェを"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "…の目の前で"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "会衆の"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "賛美されますように"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…のエロヒム"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "私たちの父の"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "永遠から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:01.942729792Z",
+  "model": "glm-5.2"
+}

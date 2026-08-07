@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "エリシャは家に入った。見よ、少年は死んでおり、自分の寝床の上に横たえられていた。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして彼は入った"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "エリシャは"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "家へ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "少年は"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死んでいた"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "横たえられて"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "自分の寝床の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:11:07.991301643Z",
+  "model": "glm-5.2"
+}

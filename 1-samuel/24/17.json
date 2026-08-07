@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 24:17",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "こうして、ダビデがこれらの言葉をサウルに語り終えたとき、サウルは言った。「これはあなたの声か、わたしの子ダビデ。」そしてサウルは声を上げ、泣いた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "こうして…になった"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "…が終えたとき"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "語る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらの言葉"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウル"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…は言った"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウル"
+    },
+    {
+      "surface": "הקלך",
+      "gloss": "これはあなたの声か"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "わたしの子"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "そして…は上げた"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウル"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "声"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "そして…は泣いた"
+    }
+  ],
+  "timestamp": "2026-08-07T14:26:34.635575206Z",
+  "model": "glm-5.2"
+}

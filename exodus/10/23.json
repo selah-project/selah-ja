@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "人は⟨את⟩自分の兄弟を見なかった。人は自分の場所から立ち上がらなかった。三日間。そしてイスラエルの子らすべてには、彼らの住処に光があった。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "見"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の兄弟を"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "自分の兄弟を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "立ち上がら"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "自分の場所から"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "そして〜すべてには"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "היה",
+      "gloss": "〜があった"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "彼らの住処に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:37.350040955Z",
+  "model": "glm-5.2"
+}

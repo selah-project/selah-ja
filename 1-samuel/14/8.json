@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "ヨナタンは言った。「見よ、 ⟨私たち⟩はあの人々のところへ渡る。そして私たちは彼らに自分を明け示す。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ヨナタンは"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": " ⟨私たち⟩は"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "渡る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "あの人々"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "自分を明け示す"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:25.450272488Z",
+  "model": "glm-5.2"
+}

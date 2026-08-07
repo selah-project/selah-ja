@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "彼の口の言葉の初めは愚かさ、そして彼の口の終わりは悪の狂気。",
+  "tokens": [
+    {
+      "surface": "תְּחִלַּ֥ת",
+      "gloss": "初め"
+    },
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "言葉の"
+    },
+    {
+      "surface": "פִ֖יהוּ",
+      "gloss": "彼の口の"
+    },
+    {
+      "surface": "סִכְל֑וּת",
+      "gloss": "愚かさ"
+    },
+    {
+      "surface": "וְאַחֲרִ֣ית",
+      "gloss": "そして終わり"
+    },
+    {
+      "surface": "פִּ֔יהוּ",
+      "gloss": "彼の口の"
+    },
+    {
+      "surface": "הוֹלֵל֖וּת",
+      "gloss": "狂気"
+    },
+    {
+      "surface": "רָעָֽה",
+      "gloss": "悪の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:07.565638865Z",
+  "model": "glm-5.2"
+}

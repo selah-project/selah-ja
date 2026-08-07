@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして木々はイチジクの木に言った——「来い、あなた、私たちの上に王となれ。」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "木々"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "イチジクの木に"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "来い"
+    },
+    {
+      "surface": "את",
+      "gloss": "あなた",
+      "marks": "あなたが王となる"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王となれ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "私たちの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:34:46.309781849Z",
+  "model": "glm-5.2"
+}

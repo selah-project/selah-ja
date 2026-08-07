@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "ダビデの⟨の⟩。教訓の詩。幸いなこと、⟨その⟩背きが⟨持ち去られた⟩者、覆われた⟨その⟩罪。",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "教訓の詩"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "幸いなこと"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "⟨持ち去られた⟩"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "背き"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "覆われた"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "罪"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:29.229856556Z",
+  "model": "glm-5.2"
+}

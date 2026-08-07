@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "世代は去り、そして世代は来る。そして地はとこしえに立っている。",
+  "tokens": [
+    {
+      "surface": "דּ֤וֹר",
+      "gloss": "世代"
+    },
+    {
+      "surface": "הֹלֵךְ֙",
+      "gloss": "去る"
+    },
+    {
+      "surface": "וְד֣וֹר",
+      "gloss": "そして世代"
+    },
+    {
+      "surface": "בָּ֔א",
+      "gloss": "来る"
+    },
+    {
+      "surface": "וְהָאָ֖רֶץ",
+      "gloss": "そして地は"
+    },
+    {
+      "surface": "לְעוֹלָ֥ם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "עֹמָֽדֶת",
+      "gloss": "立っている"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:09.645568636Z",
+  "model": "glm-5.2"
+}

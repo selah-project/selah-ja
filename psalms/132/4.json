@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 132,
+  "translation": "もし私が私の目に眠りを与えず、私のまぶたにまどろみを与えないなら、",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "私が与えないなら"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "眠りを"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "私の目に"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "私のまぶたに"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "まどろみを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:27.634314054Z",
+  "model": "glm-5.2"
+}

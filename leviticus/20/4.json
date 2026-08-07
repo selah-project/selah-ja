@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そして国の民が隠すなら — 彼らがその男から⟨את⟩目を隠し、彼がその子孫をモレクに与えるときに、彼を殺さないために —",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "そしてもし〜なら"
+    },
+    {
+      "surface": "הַעְלֵם",
+      "gloss": "隠す"
+    },
+    {
+      "surface": "יַעְלִימוּ",
+      "gloss": "彼らが隠す"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "国の"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "目"
+    },
+    {
+      "surface": "עֵינֵיהֶם",
+      "gloss": "彼らの目"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הָאִישׁ",
+      "gloss": "その男"
+    },
+    {
+      "surface": "הַהוּא",
+      "gloss": "その"
+    },
+    {
+      "surface": "בְּתִתּוֹ",
+      "gloss": "彼が与えるとき"
+    },
+    {
+      "surface": "מִזַּרְעוֹ",
+      "gloss": "その子孫を"
+    },
+    {
+      "surface": "לַמֹּלֶךְ",
+      "gloss": "モレクに"
+    },
+    {
+      "surface": "לְבִלְתִּי",
+      "gloss": "〜しないために"
+    },
+    {
+      "surface": "הָמִית",
+      "gloss": "殺す"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩彼を",
+      "marks": "彼"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:43.573404041Z",
+  "model": "glm-5.2"
+}

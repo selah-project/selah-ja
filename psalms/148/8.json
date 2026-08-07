@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 148,
+  "translation": "火と雹、雪と煙、荒れ狂う風、そのみことばを行うもの。",
+  "tokens": [
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "火"
+    },
+    {
+      "surface": "וּ֭בָרָד",
+      "gloss": "と雹"
+    },
+    {
+      "surface": "שֶׁ֣לֶג",
+      "gloss": "雪"
+    },
+    {
+      "surface": "וְקִיט֑וֹר",
+      "gloss": "と煙"
+    },
+    {
+      "surface": "ר֥וּחַ",
+      "gloss": "風"
+    },
+    {
+      "surface": "סְ֝עָרָ֗ה",
+      "gloss": "荒れ狂う"
+    },
+    {
+      "surface": "עֹשָׂ֥ה",
+      "gloss": "行う"
+    },
+    {
+      "surface": "דְבָרֽוֹ",
+      "gloss": "そのみことばを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:53.315467741Z",
+  "model": "glm-5.2"
+}

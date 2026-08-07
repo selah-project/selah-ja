@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 15:28",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そしてバアシャは彼を殺した。ユダの王アサの第三年に。そして彼の代わりに王となった。",
+  "tokens": [
+    {
+      "surface": "וימתהו",
+      "gloss": "そして彼を殺した"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "バアシャ"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "の年に"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "アサ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "そして王となった"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼の代わりに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:27:19.751850857Z",
+  "model": "glm-5.2"
+}

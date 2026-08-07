@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "そして彼らの種を国々のうちに散らし、彼らを地々にまき散らすためであった。",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "そして…に散らすため"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "彼らの種を"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "国々のうちに"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "そして彼らをまき散らすため"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "地々に"
+    }
+  ],
+  "timestamp": "2026-08-07T17:21:38.355657577Z",
+  "model": "glm-5.2"
+}

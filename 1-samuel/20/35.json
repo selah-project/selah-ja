@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 20:35",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "朝になった。そしてイェホナタンはダビデとの約束の時に野に出て行き、小さな若者が彼と共にいた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜になった"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て行った"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "イェホナタン"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "約束の時に"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "そして若者が"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "小さな"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:24.086586781Z",
+  "model": "glm-5.2"
+}

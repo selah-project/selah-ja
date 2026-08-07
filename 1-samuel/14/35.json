@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてサウルはヤハウェのために祭壇を築いた。⟨את⟩それ⟨を⟩、築き始めた — ヤハウェのために祭壇を。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "そして築いた"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウルは"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇を"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェのために"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ（築き始めたこと）"
+    },
+    {
+      "surface": "החל",
+      "gloss": "築き始めた"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "築くことを"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇を"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェのために"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:58.237848982Z",
+  "model": "glm-5.2"
+}

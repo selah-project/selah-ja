@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして⟨את⟩ アシャンと⟨את⟩ その牧草地、そして⟨את⟩ ベテ・シェメシュと⟨את⟩ その牧草地を。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アシャン"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "アシャン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その牧草地"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "その牧草地"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ベテ・シェメシュ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベテ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "シェメシュ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その牧草地"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "その牧草地"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:00.453590307Z",
+  "model": "glm-5.2"
+}

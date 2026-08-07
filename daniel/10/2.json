@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "その日々に、私、ダニエルは、喪に服していた — 三週間、日々の。",
+  "tokens": [
+    {
+      "surface": "בַּיָּמִ֖ים",
+      "gloss": "〜の日々に"
+    },
+    {
+      "surface": "הָהֵ֑ם",
+      "gloss": "その"
+    },
+    {
+      "surface": "אֲנִ֤י",
+      "gloss": "私"
+    },
+    {
+      "surface": "דָֽנִיֵּאל֙",
+      "gloss": "ダニエルは"
+    },
+    {
+      "surface": "הָיִ֣יתִי",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "מִתְאַבֵּ֔ל",
+      "gloss": "喪に服して"
+    },
+    {
+      "surface": "שְׁלֹשָׁ֥ה",
+      "gloss": "三"
+    },
+    {
+      "surface": "שָׁבֻעִ֖ים",
+      "gloss": "週間"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "日々の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:42:45.940867112Z",
+  "model": "glm-5.2"
+}

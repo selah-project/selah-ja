@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 72,
+  "translation": "彼らはあなたを太陽とともに恐れ、月の前で、世代々々にわたり⟨恐れよう⟩。",
+  "tokens": [
+    {
+      "surface": "יִֽירָא֥וּךָ",
+      "gloss": "彼らはあなたを恐れる"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "שָׁ֑מֶשׁ",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "וְלִפְנֵ֥י",
+      "gloss": "〜の前で"
+    },
+    {
+      "surface": "יָ֝רֵ֗חַ",
+      "gloss": "月"
+    },
+    {
+      "surface": "דּ֣וֹר",
+      "gloss": "世代"
+    },
+    {
+      "surface": "דּוֹרִֽים",
+      "gloss": "世代々"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:01.798022131Z",
+  "model": "glm-5.2"
+}

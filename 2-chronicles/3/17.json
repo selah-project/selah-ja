@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼は⟨את⟩柱を神殿の前に立てた。一つを右に、一つを左に。そして彼は右の柱の名をヤキンと呼び、左の柱の名をボアズと⟨呼んだ⟩。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして彼は立てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "柱"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "柱を"
+    },
+    {
+      "surface": "על",
+      "gloss": "の前に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔の／前に"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "神殿の"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つを"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "右に"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "と一つを"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "左に"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして彼は呼んだ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名を"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "右の"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ヤキン"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "と名を"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "左の"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ボアズ"
+    }
+  ],
+  "timestamp": "2026-08-07T18:44:45.315592152Z",
+  "model": "glm-5.2"
+}

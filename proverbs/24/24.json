@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "悪者に「あなたは正しい」と言う者、諸民は彼をのろう、諸国民は彼を激しく怒る。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "言う者"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "悪者に"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しい"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "彼をのろう"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "諸民は"
+    },
+    {
+      "surface": "יזעמוהו",
+      "gloss": "彼を激しく怒る"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "諸国民は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:23.728373820Z",
+  "model": "glm-5.2"
+}

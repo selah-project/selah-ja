@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてこうなった — 戦士たちがすべて、民の中から死ぬことを終えた時に。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうなった"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜の時に"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "彼らが終えた"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "〜の男たち"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戦争"
+    },
+    {
+      "surface": "למות",
+      "gloss": "死ぬことを"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "〜の中から"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:34.521839163Z",
+  "model": "glm-5.2"
+}

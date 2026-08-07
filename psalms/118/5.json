@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 118,
+  "translation": "苦しみの中から私はヤハを呼んだ、ヤハは広い所で私に答えてくださった。",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "苦しみ"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "私は呼んだ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "私に答えてくださった"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "広い所で"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:50.128169492Z",
+  "model": "glm-5.2"
+}

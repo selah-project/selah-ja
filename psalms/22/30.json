@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "地の豊かな者たちはすべて食べて、ひれ伏した。ちりのすべての下る者は ⟨彼の⟩前にひざまずき、 ⟨彼の⟩ネフェシュは生かさなかった。",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "食べた"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ひれ伏した"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "豊かな者たちは"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "彼の前に"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ひざまずく"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "下る者"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ちりの"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "彼のネフェシュ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "生かした"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:24.887092130Z",
+  "model": "glm-5.2"
+}

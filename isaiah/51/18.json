@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 51:18",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "彼女が産んだすべての子らのうち、彼女を導く者はいない。彼女が育てたすべての子らのうち、彼女の手を支える者もいない。",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "מנהל",
+      "gloss": "導く者"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女を"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "すべての〜のうち"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "彼女が産んだ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "またいない"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "支える者"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "彼女の手を"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "すべての〜のうち"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "彼女が育てた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:09.331389315Z",
+  "model": "glm-5.2"
+}

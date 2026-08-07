@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "覚えよ、必ず覚えよ、そして私の⟨נפשי⟩は私の上に沈み下る。",
+  "tokens": [
+    {
+      "surface": "זָכ֣וֹר",
+      "gloss": "覚えよ"
+    },
+    {
+      "surface": "תִּזְכּ֔וֹר",
+      "gloss": "必ず覚えよ"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "そして沈み下る"
+    },
+    {
+      "surface": "עָלַ֖י",
+      "gloss": "私の上に"
+    },
+    {
+      "surface": "נַפְשִֽׁי",
+      "gloss": "私のנפשי"
+    }
+  ],
+  "timestamp": "2026-08-07T18:43:25.593706071Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして彼は⟨את⟩祭司たちと⟨את⟩レビ人たちを連れて来て、彼らを東の広場に集めた。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして連れて来た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭司たちを"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たちを"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "レビ人たちを"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人たちを"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "彼らを集めた"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "広場に"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "東の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:17:19.137882986Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "エロヒムは、その宮殿のうちに、⟨自らを⟩高き塔として知らせた。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "その宮殿のうちに"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "知らせた"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "高き塔として"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:10.927650606Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてカアト、および⟨את⟩ラハマ、および⟨את⟩シャラクを。",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "そしてカアト"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ラハマ"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "ラハマ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "シャラク"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "シャラク"
+    }
+  ],
+  "timestamp": "2026-08-07T16:37:02.608443944Z",
+  "model": "glm-5.2"
+}

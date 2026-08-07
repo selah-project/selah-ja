@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 14:16",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして祭司は自分の左のひらの上にある油から、⟨את⟩自分の右の指を浸し、その指で油を七回ヤハウェの前で散らす。",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "そして…浸す"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の右の指"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "自分の指"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右の"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこにある"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "自分のひら"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "左の"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "そして…散らす"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…の"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "その指で"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "回"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前で"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:58.059676110Z",
+  "model": "glm-5.2"
+}

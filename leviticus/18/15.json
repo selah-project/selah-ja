@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "あなたの嫁の裸を、あなたは露わにしてはならない。彼女はあなたの息子の妻〈である〉 — その裸をあなたは露わにしてはならない。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "…の裸"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "あなたの嫁の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "あなたは露わにする"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "…の妻"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "あなたの息子"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼女は〈…である〉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "あなたは露わにする"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "彼女の裸を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:00.982254074Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "貧しい者を奪ってはならない、彼が貧しいからといって。かつ門のところで苦しむ者を粉砕してはならない。",
+  "tokens": [
+    {
+      "surface": "אַֽל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תִּגְזָל",
+      "gloss": "奪っては"
+    },
+    {
+      "surface": "דָּ֭ל",
+      "gloss": "貧しい者を"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "〜だからといって"
+    },
+    {
+      "surface": "דַּל",
+      "gloss": "貧しい"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תְּדַכֵּ֖א",
+      "gloss": "粉砕しては"
+    },
+    {
+      "surface": "עָנִ֣י",
+      "gloss": "苦しむ者を"
+    },
+    {
+      "surface": "בַשָּֽׁעַר",
+      "gloss": "門のところで"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:08.480582219Z",
+  "model": "glm-5.2"
+}

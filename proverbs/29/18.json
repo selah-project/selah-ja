@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 29:18",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "幻がないところでは、民は裸にされる。しかしトーラーを守る者、その人は幸いである。",
+  "tokens": [
+    {
+      "surface": "בְּאֵ֣ין",
+      "gloss": "ないところでは"
+    },
+    {
+      "surface": "חָ֭זוֹן",
+      "gloss": "幻が"
+    },
+    {
+      "surface": "יִפָּ֣רַֽע",
+      "gloss": "裸にされる"
+    },
+    {
+      "surface": "עָ֑ם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "וְשֹׁמֵ֖ר",
+      "gloss": "しかし守る者"
+    },
+    {
+      "surface": "תּוֹרָ֣ה",
+      "gloss": "トーラーを"
+    },
+    {
+      "surface": "אַשְׁרֵֽהוּ",
+      "gloss": "その人は幸いである"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:47.552808873Z",
+  "model": "glm-5.2"
+}

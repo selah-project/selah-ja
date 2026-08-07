@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして地はエロヒムの御前で損なわれ、地は暴虐で満ちた。",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "そして…損なわれた"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の御前で"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "そして…満ちた"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "暴虐で"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:41.659959633Z",
+  "model": "glm-5.2"
+}

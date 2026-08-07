@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "老いに至るまで、私がそれである。白髪に至るまで、私が担う。私が造り、私が担い、私が負い、私が救い出す。",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "老い"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私が"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それである"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "白髪"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私が"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "担う"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私が"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "造った"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "そして私が"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "担ぐ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "そして私が"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "負う"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "そして救い出す"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:19.631875829Z",
+  "model": "glm-5.2"
+}

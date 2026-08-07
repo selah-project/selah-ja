@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてその柱は二十、その台座は二十、青銅 ⟨製⟩。柱の鉤とその帯輪は銀 ⟨製⟩。",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "そしてその柱は"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "そしてその台座は"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅"
+    },
+    {
+      "surface": "והוי",
+      "gloss": "そして〜の鉤"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "柱の"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "そしてその帯輪は"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:21.084048849Z",
+  "model": "glm-5.2"
+}

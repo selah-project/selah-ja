@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 25:5",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "見よ、月に至っても⟨輝かず⟩、星々も彼の目に清くはない。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "～に至っても"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "月"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "יאהיל",
+      "gloss": "輝く"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "星々"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "זכו",
+      "gloss": "清い"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "彼の目に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:40:40.912281836Z",
+  "model": "glm-5.2"
+}

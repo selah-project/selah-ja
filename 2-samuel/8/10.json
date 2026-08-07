@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 8:10",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてトアはヨラムその子を遣わした、ダビド王のもとへ、彼の安否を問い、彼を祝福するため、ハダデゼルと戦って彼を打ったことについて。ハダデゼルはトアの戦争の男であったから。そしてその手には銀の器、金の器、青銅の器があった。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして遣わした"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "トアは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨラム"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "ヨラムを"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとへ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "問うため"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼の"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "安否を"
+    },
+    {
+      "surface": "ולברכו",
+      "gloss": "そして彼を祝福するため"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜したこと"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "戦った"
+    },
+    {
+      "surface": "בהדדעזר",
+      "gloss": "ハダデゼルと"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "そして彼を打った"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "戦争の"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "トアの"
+    },
+    {
+      "surface": "היה",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ハダデゼルは"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "そしてその手には"
+    },
+    {
+      "surface": "היו",
+      "gloss": "あった"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀の"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "そして器"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "そして器"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:20.700314974Z",
+  "model": "glm-5.2"
+}

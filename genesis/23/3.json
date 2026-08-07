@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そしてアブラハムは自分の死者の前から立ち上がり、ヘトの子らに語って言った。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして…は立ち上がった"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハムは"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…から"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…の前"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "自分の死者の"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "そして…は語った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ヘトの"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:47.296085816Z",
+  "model": "glm-5.2"
+}

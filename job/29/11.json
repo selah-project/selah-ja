@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 29:11",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "耳が聞けば、それが私を幸いな者とした。目が見れば、それが私を証しした。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜ので"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳が"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "聞けば"
+    },
+    {
+      "surface": "ותאשרני",
+      "gloss": "私を幸いな者とした"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "目が"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "見れば"
+    },
+    {
+      "surface": "ותעידני",
+      "gloss": "私を証しした"
+    }
+  ],
+  "timestamp": "2026-08-07T13:27:05.301127085Z",
+  "model": "glm-5.2"
+}

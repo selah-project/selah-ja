@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "もしその身一筋で入って来たのなら、その身一筋で出る。もしその人が妻の主人であるなら、その妻は彼と共に出て行く。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "その身一筋で"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "彼が入って来たなら"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "その身一筋で"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "彼は出る"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "主人である"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "妻の"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "その人は"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "そして〜は出て行く"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "彼の妻"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:08.677903523Z",
+  "model": "glm-5.2"
+}

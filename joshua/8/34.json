@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてその後、彼は⟨את⟩律法の書にしるされているすべてのこと — 祝福と呪い — に従って、律法のすべてのことばを読み上げた。",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "そして〜の後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "その"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "彼は読み上げた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのことば"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "律法の"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "と呪い"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "〜のすべてに従って"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "しるされている"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "書に"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "律法の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:25:15.079020484Z",
+  "model": "glm-5.2"
+}

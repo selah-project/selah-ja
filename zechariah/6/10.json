@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 6:10",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "捕囚の民⟨の者⟩から取れ ― ヘルダイから、⟨את⟩トビヤから、そして⟨את⟩エダヤから。あなたはその日、来て、バビロンから来たツファヌヤの子ヨシヤの家に入れ。",
+  "tokens": [
+    {
+      "surface": "לקוח",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "から"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "捕囚の民"
+    },
+    {
+      "surface": "מחלדי",
+      "gloss": "ヘルダイから"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "そして⟨את⟩から",
+      "marks": "トビヤ"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "トビヤ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "そして⟨את⟩から",
+      "marks": "エダヤ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "エダヤ"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "そして来て"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "その日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "そして入って"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יאשיה",
+      "gloss": "ヨシヤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "の子"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "ツファヌヤ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "באו",
+      "gloss": "来た"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "バビロンから"
+    }
+  ],
+  "timestamp": "2026-08-07T12:30:41.182530175Z",
+  "model": "glm-5.2"
+}

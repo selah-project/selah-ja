@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "どうか私に渡らせ、⟨את⟩その良い地を、すなわちヨルデンの向こう側にある⟨の⟩を見させてください。この良い山と、レバノンを。",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "私に渡らせ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "そして見させて"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その良い地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "良い"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは〜にある"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "向こう側に"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルデンの"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "その山"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "そしてレバノン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:10.400159479Z",
+  "model": "glm-5.2"
+}

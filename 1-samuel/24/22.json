@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして今、ヤハウェによって私に誓え。もしあなたが ⟨את⟩ 私の子孫を私の後で断ち切るなら、そしてもしあなたが ⟨את⟩ 私の名を私の父の家から滅ぼし尽くすなら。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "誓え"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェによって"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "あなたが断ち切る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の子孫を"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "私の子孫"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "私の後で"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ともしあなたが"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "滅ぼし尽くす"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の名を"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "私の名"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "〜の家から"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "私の父の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:00.356234602Z",
+  "model": "glm-5.2"
+}

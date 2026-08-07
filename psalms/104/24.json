@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "何と数多いことか、ヤハウェ、あなたのわざは。あなたはそれらをすべて知恵において造られた。地はあなたの獲物で満ちている。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "何と"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "数多いことか"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "あなたのわざは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "それらをすべて"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "知恵において"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "あなたは造られた"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "満ちている"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "あなたの獲物で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:59:00.134191719Z",
+  "model": "glm-5.2"
+}

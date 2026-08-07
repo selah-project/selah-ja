@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "彼は高い所から遣わし、私を取られた。彼は多くの水から私を引き上げられた。",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "彼は遣わされた"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "高い所から"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "私を取られた"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "私を引き出された"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "水から"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:33.349350592Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "シャバートの日を守れ——それを聖別するために。あなたのエロヒム、ヤハウェがあなたに命じたように。",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "守れ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "〜日を"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日を"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "シャバートの"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "それを聖別するために"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜ように"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "あなたに命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:52.092153299Z",
+  "model": "glm-5.2"
+}

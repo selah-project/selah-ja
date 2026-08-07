@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "私の恋人の声。見よ、彼が来る。山々を跳び越え、丘々を躍り越えて。",
+  "tokens": [
+    {
+      "surface": "קוֹל",
+      "gloss": "声"
+    },
+    {
+      "surface": "דּוֹדִי",
+      "gloss": "私の恋人の"
+    },
+    {
+      "surface": "הִנֵּה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "זֶה",
+      "gloss": "この方は"
+    },
+    {
+      "surface": "בָּא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "מְדַלֵּג",
+      "gloss": "跳び越え"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "הֶהָרִים",
+      "gloss": "山々"
+    },
+    {
+      "surface": "מְקַפֵּץ",
+      "gloss": "躍り越えて"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "הַגְּבָעוֹת",
+      "gloss": "丘々"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:08.651800201Z",
+  "model": "glm-5.2"
+}

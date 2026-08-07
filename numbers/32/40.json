@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そしてモーシェは ⟨את⟩ ギルアドをマキル・マンッセの子に与えた、そして彼はそのうちに住んだ。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして彼は与えた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ギルアド"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ギルアド"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "マキルに"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "マンッセ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして彼は住んだ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "そのうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:03:28.260751079Z",
+  "model": "glm-5.2"
+}

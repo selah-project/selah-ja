@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 108,
+  "translation": "エロヒム、天の上に高く ⟨いらせたまえ⟩、あなたの栄光 ⟨が⟩ 全地の上に ⟨あるように⟩",
+  "tokens": [
+    {
+      "surface": "ר֣וּמָה",
+      "gloss": "高く〈いらせたまえ〉"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ש׸מַ֣יִם",
+      "gloss": "天"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "וְֽעַ֖ל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הָאָ֣רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כְּבוֹדֶֽךָ",
+      "gloss": "あなたの栄光"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:58.943000808Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 7:23",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして⟨彼は⟩拭い消した ⟨את⟩ 地の面の上にあるすべての存立するものを——人から家畜まで、這うものまで、そして天の鳥まで。それらは地から拭い消された。そして残ったのはノアと、箱舟の中で彼と共にいた者たちだけ⟨であった⟩。",
+  "tokens": [
+    {
+      "surface": "וימח",
+      "gloss": "そして拭い消した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての存立するもの"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "היקום",
+      "gloss": "存立するもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地の"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "人から"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "這うもの"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "そして〜まで"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "וימחו",
+      "gloss": "そして拭き消された"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "וישאר",
+      "gloss": "そして残った"
+    },
+    {
+      "surface": "אך",
+      "gloss": "だけ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノア"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "そして〜者たち"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "箱舟の中で"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:15.490844891Z",
+  "model": "glm-5.2"
+}

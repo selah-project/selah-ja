@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "そして⟨את⟩奉仕の衣と、祭司アハロンの聖なる衣と、⟨את⟩その子らが祭司として仕えるためのその子らの衣を、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "奉仕の衣"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "衣"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "奉仕の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "聖なる衣"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "衣"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "アハロンのための"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "その子らの衣"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "衣"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "その子らの"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "祭司として仕えるため"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:22.771143210Z",
+  "model": "glm-5.2"
+}

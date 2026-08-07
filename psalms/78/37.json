@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "そして彼らの心は彼と共に堅く立たず、彼の契約において誠実でなかった。",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "そして彼らの心は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "堅く立った"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "誠実であった"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "彼の契約において"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:46.646417658Z",
+  "model": "glm-5.2"
+}

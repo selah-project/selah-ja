@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして横たわり、一本のロテムの木の下で眠った。見よ、これ⟨が⟩一人の御使いが⟨彼に⟩触れ、彼に言った。「起きて食べよ。」",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "そして横たわった"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "そして眠った"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下で"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "ロテム（エニシダ）の木"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一本の"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "御使い"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "触れた"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "קום",
+      "gloss": "起きよ"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "食べよ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:15.945286823Z",
+  "model": "glm-5.2"
+}

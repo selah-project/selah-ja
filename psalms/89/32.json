@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "もし彼らがわたしのフッコートをけがし、わたしのミツォットを守らないなら、",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "わたしのフッコートを"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "彼らがけがす"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "そしてわたしのミツォットを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "守らない"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:41.453352590Z",
+  "model": "glm-5.2"
+}

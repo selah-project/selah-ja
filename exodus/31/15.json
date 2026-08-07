@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "六日の間、仕事がなされる。しかし第七の日は安息の安息、ヤハウェへの聖なるものである。安息の日に仕事をするすべての者は必ず死なされる。",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "六"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日の"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "なされる"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "仕事が"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "しかし〜の日に"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "安息"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "完全な安息"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェへの"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "する者"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "仕事を"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "安息"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "死なされる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:34.733971899Z",
+  "model": "glm-5.2"
+}

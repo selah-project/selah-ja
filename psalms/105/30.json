@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "彼らの地を群がらせた、カエルを — 彼らの王たちの寝室に。",
+  "tokens": [
+    {
+      "surface": "שָׁרַ֣ץ",
+      "gloss": "群がらせた"
+    },
+    {
+      "surface": "אַרְצָ֣ם",
+      "gloss": "彼らの地を"
+    },
+    {
+      "surface": "צְפַרְדְּעִ֑ים",
+      "gloss": "カエルを"
+    },
+    {
+      "surface": "בְּ֝חַדְרֵ֗י",
+      "gloss": "〜の寝室に"
+    },
+    {
+      "surface": "מַלְכֵיהֶֽם",
+      "gloss": "彼らの王たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:56.202653017Z",
+  "model": "glm-5.2"
+}

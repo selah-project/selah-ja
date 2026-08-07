@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 17:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてエホシュアは、モーセが彼に告げた通りにして、アマレクと戦うために出て行った。そしてモーシェ、アハロン、そしてフルは⟨その⟩丘の頂に上った。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…した"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "エホシュア"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "～通りに"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "戦うために"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "アマレクと"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "そしてモーシェ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "そしてフル"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "上った"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頂"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "その丘の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:44.154860193Z",
+  "model": "glm-5.2"
+}

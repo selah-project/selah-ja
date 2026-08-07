@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "彼らに聞き従ってはならない。バビロンの王に仕えよ、そうすれば生き延びる。なぜこの都は荒れ果てた廃墟となるのか。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "聞き従っては"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "仕えよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "バビロンの王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロン"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "そうすれば生き延びる"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "となるのか"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "この都"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "荒れ果てた廃墟"
+    }
+  ],
+  "timestamp": "2026-08-07T11:50:50.842891625Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてヤハウェはモシェに語って言われた、",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:45.454713190Z",
+  "model": "glm-5.2"
+}

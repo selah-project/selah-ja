@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして⟨את⟩ペヌエルのやぐらを打ち倒し、⟨את⟩その町の人々を打ち殺した。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ペヌエルのやぐら"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "やぐら"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ペヌエル"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "打ち倒した"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "そして打ち殺した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その町の人々"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "人々"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:34:29.309669965Z",
+  "model": "glm-5.2"
+}

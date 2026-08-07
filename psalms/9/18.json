@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "悪者どもはシェオルへ退く、エロヒムを忘れるすべての国々は⟨⟩。",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "退く"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者どもは"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "シェオルへ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々は"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "忘れる"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:22.386690787Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 28:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そしてエサウはイシュマエルのところへ行き、イシュマエルの娘、アブラハムの子イシュマエルの娘、ネバヨテの姉妹マハラテを、⟨את⟩自分の妻たちに加えて、自分の妻として娶った。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "イシュマエル"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして娶った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "マハラテ"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "マハラテ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "〜の娘"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "イシュマエル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "姉妹"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "ネバヨテ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "彼の妻たち"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼自身の"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "妻として"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:19.860634511Z",
+  "model": "glm-5.2"
+}

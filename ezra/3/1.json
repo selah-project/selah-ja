@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして第七の月が来たとき、イスラエルの子らは町々にいた。そして民は一人の人のようにエルシャライム（エルサレム）に集まった。",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "そして…来た"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "その月"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七の"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "町々に"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "そして…集まった"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "一人の人のように"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "エルシャライム"
+    }
+  ],
+  "timestamp": "2026-08-07T13:50:51.022646362Z",
+  "model": "glm-5.2"
+}

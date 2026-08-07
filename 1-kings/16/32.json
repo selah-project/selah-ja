@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そして彼はバアルのための祭壇を立てた。シャムロンに彼が建てたバアルの家に。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして彼は立てた"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇を"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "バアルのための"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "バアルの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "彼が建てた"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "シャムロンに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:28.572104075Z",
+  "model": "glm-5.2"
+}

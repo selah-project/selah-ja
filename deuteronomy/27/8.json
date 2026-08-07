@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そして石の上に、このトーラーのすべての言葉を ⟨את⟩ 書き記さなければならない — くっきりと、明確に。",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "そして書き記す"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "その石"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての言葉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "そのトーラー"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "באר",
+      "gloss": "明確にする"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "くっきりと"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:17.518244027Z",
+  "model": "glm-5.2"
+}

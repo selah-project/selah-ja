@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "兄弟は決して贖い払いできず、人はエロヒムに⟨その⟩身代金を与えられない。",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "兄弟は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "贖い払い"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "できず"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与えられ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "エロヒムに"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "身代金"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:56.317530906Z",
+  "model": "glm-5.2"
+}

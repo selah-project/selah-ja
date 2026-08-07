@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして彼は⟨את⟩門の玄関室を — 内側から⟨の⟩⟨ものを⟩測った — 竿一本。",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "そして彼は測った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "門の玄関室"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "玄関室"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門の"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "内側から"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "竿"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一本"
+    }
+  ],
+  "timestamp": "2026-08-07T12:14:25.852663688Z",
+  "model": "glm-5.2"
+}

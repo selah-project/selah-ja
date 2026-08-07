@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 20:10",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "モーシェとアハロンは ⟨את⟩ 会衆を岩の前に集めた。そして彼らに言った。「聞け、今、逆らう者たちよ。この岩からあなたたちのために水を引き出そうか。」",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "集めた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "とアハロン"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "会衆"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "会衆"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔の前"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "岩の"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "逆らう者たちよ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "岩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "נוציא",
+      "gloss": "引き出そうか"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちのために"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:59:06.859772616Z",
+  "model": "glm-5.2"
+}

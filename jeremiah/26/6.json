@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 26:6",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そして、わたしは ⟨את⟩ この家をシロのようにする。また ⟨את⟩ この都を、地のすべての国々ののろいとして与える。」",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "そしてわたしは…与える"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "シロのように"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "この都"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "都"
+    },
+    {
+      "surface": "הזאתה",
+      "gloss": "この"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "わたしは与える"
+    },
+    {
+      "surface": "לקללה",
+      "gloss": "のろいとして"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての…の"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "国々"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T11:48:34.842169985Z",
+  "model": "glm-5.2"
+}

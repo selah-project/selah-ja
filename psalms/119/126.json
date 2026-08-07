@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "ヤハウェの ⟨ために⟩ 行う時。彼らはあなたのトーラーを無効にした。",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行う"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェの ⟨ために⟩"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "彼らは無効にした"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "あなたのトーラーを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:59.417233658Z",
+  "model": "glm-5.2"
+}

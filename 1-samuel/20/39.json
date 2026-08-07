@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "しかし、その少年は何も知らなかった。ただヨナタンとダビデだけが⟨את⟩その事柄を知っていた。",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "しかし、その少年は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知った"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "何も"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ヨナタンと"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ダビイド"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知っていた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その事柄"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "その事柄を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:28.956533223Z",
+  "model": "glm-5.2"
+}

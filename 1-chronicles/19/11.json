@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 19:11",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして⟨את⟩民の残りを彼は兄弟アブシャイの手に与えた。そして彼らはアンモンの子らに向かって陣を敷いた。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "民の残りを"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "残りを"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…の手に"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "アブシャイ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄弟"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "そして陣を敷いた"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "…に向かって"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アンモン"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:11.192349161Z",
+  "model": "glm-5.2"
+}

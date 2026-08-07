@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして彼はそのように彼らに行い、イスラエルの子らの⟨手の⟩中から彼らを救い出したので、彼らは彼らを殺さなかった。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は行った"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "そして彼は救い出した"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "〜の⟨手の⟩中から"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "彼らは彼らを殺した"
+    }
+  ],
+  "timestamp": "2026-08-07T10:25:38.402082517Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてダニエルは⟨おった⟩、コレシュ⟨王⟩の第一年まで。",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִי֙",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "דָּֽנִיֵּ֔אל",
+      "gloss": "ダニエル"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "שְׁנַ֥ת",
+      "gloss": "年"
+    },
+    {
+      "surface": "אַחַ֖ת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "לְכ֥וֹרֶשׁ",
+      "gloss": "コレシュの"
+    },
+    {
+      "surface": "הַמֶּֽלֶךְ",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-08-07T17:31:32.844033009Z",
+  "model": "glm-5.2"
+}

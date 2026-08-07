@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "来い、聞け、エロヒムを畏れるすべての者よ、私は語ろう、彼が私のネフェシュになしたことを。",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "来い"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "私は語ろう"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "畏れる者"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "なした"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "私のネフェシュに"
+    }
+  ],
+  "timestamp": "2026-08-07T18:40:26.026885713Z",
+  "model": "glm-5.2"
+}

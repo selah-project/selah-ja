@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "すべての労苦においては利益がある。しかし唇の言葉は、ただ欠乏のみに⟨至る⟩。",
+  "tokens": [
+    {
+      "surface": "בְּכָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עֶ֭צֶב",
+      "gloss": "労苦において"
+    },
+    {
+      "surface": "יִהְיֶ֣ה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "מוֹתָ֑ר",
+      "gloss": "利益が"
+    },
+    {
+      "surface": "וּדְבַר",
+      "gloss": "しかし言葉は"
+    },
+    {
+      "surface": "שְׂ֝פָתַ֗יִם",
+      "gloss": "唇の"
+    },
+    {
+      "surface": "אַךְ",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "לְמַחְסֽוֹר",
+      "gloss": "欠乏のみに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:27.089016005Z",
+  "model": "glm-5.2"
+}

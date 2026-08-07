@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして⟨את⟩豚を。それは蹄を割るものであり、反芻しないからである。それはあなたがたにとって汚れている。彼らの肉から食べてはならない。そして彼らの死骸に触れてはならない。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "豚"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "豚"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "割るもの"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "蹄"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "反芻"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れている"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたにとって"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "彼らの肉から"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "そして彼らの死骸に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "触れる"
+    }
+  ],
+  "timestamp": "2026-08-07T14:24:59.538996959Z",
+  "model": "glm-5.2"
+}

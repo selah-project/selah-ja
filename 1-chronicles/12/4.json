@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてイシュマヤ、ハギブオン人。三十のうちの勇士、そして三十の上に⟨立つ者⟩。",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "そしてイシュマヤ"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "ハギブオン人"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "三十のうちに"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "三十"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:02.610867085Z",
+  "model": "glm-5.2"
+}

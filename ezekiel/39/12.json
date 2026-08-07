@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そしてイスラエルの家は彼らを葬る — 地をきよめるために。七か月の間。",
+  "tokens": [
+    {
+      "surface": "וּקְבָרוּם֙",
+      "gloss": "そして彼らは彼らを葬る"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "〜の家は"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לְמַ֖עַן",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "טַהֵ֣ר",
+      "gloss": "きよめる"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "地を"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "שִׁבְעָ֖ה",
+      "gloss": "七"
+    },
+    {
+      "surface": "חֳדָשִֽׁים",
+      "gloss": "か月"
+    }
+  ],
+  "timestamp": "2026-08-07T12:13:56.525272700Z",
+  "model": "glm-5.2"
+}

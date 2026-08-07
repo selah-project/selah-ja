@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 4:6",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "見よ、彼らは小麦を取る者たちとして家の中央まで入った。そして彼を腹に打ち据えた。レカブとその兄弟バアナは逃げ延びた。",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "…入った"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "中央"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "取る者たちとして"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "小麦を"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "そして彼を打ち据えた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "החמש",
+      "gloss": "腹"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "そしてレカブ"
+    },
+    {
+      "surface": "ובענה",
+      "gloss": "とバアナ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "その兄弟"
+    },
+    {
+      "surface": "נמלטו",
+      "gloss": "逃げ延びた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:22.674106602Z",
+  "model": "glm-5.2"
+}

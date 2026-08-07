@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 122,
+  "translation": "建てられたイェルシャライム — 一つにまとめられた町のように。",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムは"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "建てられた"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "町のように"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "一つにまとめられた"
+    },
+    {
+      "surface": "לה",
+      "gloss": "それ自身"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "共に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:57.408256497Z",
+  "model": "glm-5.2"
+}

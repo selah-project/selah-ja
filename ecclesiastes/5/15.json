@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "これもまた病める悪である。すべて来た通りに去って行く。そして風のために労する彼に、何の利潤があるのか。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪である"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "病める"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "〜の通りに"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "去って行く"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "そして何の"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "利潤"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "労する者が"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "風のために"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:35.168594009Z",
+  "model": "glm-5.2"
+}

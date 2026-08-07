@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "エロヒムに言え。「あなたの御業は何と恐るべきか。あなたの力の豊かさにより、あなたの敵はあなたに偽りの服従を捧げる。」",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "言え"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "エロヒムに"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何と"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "恐るべき"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "あなたの御業は"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "〜の豊かさにより"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "あなたの力の"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "偽りの服従を捧げる"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "あなたの敵は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:58.382194644Z",
+  "model": "glm-5.2"
+}

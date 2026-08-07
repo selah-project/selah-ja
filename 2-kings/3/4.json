@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてメシャ、モアブの王は、羊の飼い主であった。そしてイスラエルの王に、十万の「雌の子羊」⟨את⟩と、十万の「雄羊」⟨את⟩羊毛を返していた。",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "そしてメシャ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブの"
+    },
+    {
+      "surface": "היה",
+      "gloss": "であった"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "羊の飼い主"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "そして返していた"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "「雌の子羊」"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "「雌の子羊」"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "と百"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "「雄羊」"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "羊毛"
+    }
+  ],
+  "timestamp": "2026-08-07T16:52:04.749066128Z",
+  "model": "glm-5.2"
+}

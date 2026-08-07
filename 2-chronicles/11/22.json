@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 11:22",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "レハブアムはマアカの息子アビヤを ⟨את⟩ 兄弟たちのかしらとして、彼を王位につけるために、立てた。",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "そして立てた"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "かしらとして"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "レハブアム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アビヤ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "アビヤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "マアカ"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "君主として"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "彼の兄弟たちの中で"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "להמליכו",
+      "gloss": "彼を王位につける"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:19.879946326Z",
+  "model": "glm-5.2"
+}

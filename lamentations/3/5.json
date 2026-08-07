@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "わたしに向かって ⟨壁を⟩積み、毒 ⟨草本⟩でわたしを囲まれた、苦難とともに。",
+  "tokens": [
+    {
+      "surface": "בָּנָ֥ה",
+      "gloss": "積まれた"
+    },
+    {
+      "surface": "עָלַ֛י",
+      "gloss": "わたしに向かって"
+    },
+    {
+      "surface": "וַיַּקַּ֖ף",
+      "gloss": "囲まれた"
+    },
+    {
+      "surface": "רֹ֥אשׁ",
+      "gloss": "毒（草本）"
+    },
+    {
+      "surface": "וּתְלָאָֽה",
+      "gloss": "苦難とともに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:36:09.259857292Z",
+  "model": "glm-5.2"
+}

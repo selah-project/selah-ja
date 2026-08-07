@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 7:20",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "その日に、アドナイは、川の向こう側から、アシュルの王によって、雇われた剃刀で、頭と、足の毛を剃り、そしてまた髭をもそぎ落とすであろう。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "その日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "あの"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "剃るであろう"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイは"
+    },
+    {
+      "surface": "בתער",
+      "gloss": "剃刀で"
+    },
+    {
+      "surface": "השכירה",
+      "gloss": "雇われた"
+    },
+    {
+      "surface": "בעברי",
+      "gloss": "の向こう側から"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "川"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "王によって"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アシュルの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "頭"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "と毛"
+    },
+    {
+      "surface": "הרגלים",
+      "gloss": "足の"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "髭"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "髭を"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "そぎ落とす"
+    }
+  ],
+  "timestamp": "2026-08-07T14:28:36.429958615Z",
+  "model": "glm-5.2"
+}

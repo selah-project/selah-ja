@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてミツライムは⟨את⟩ルディム、⟨את⟩アナミム、⟨את⟩レハビム、⟨את⟩ナフツヒムを生んだ。",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "そしてミツライムは"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ルディム"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "ルディム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アナミム"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "アナミム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "レハビム"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "レハビム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ナフツヒム"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "ナフツヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:21.629581313Z",
+  "model": "glm-5.2"
+}

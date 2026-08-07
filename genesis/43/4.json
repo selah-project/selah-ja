@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "もしあなたがわたしたちの兄弟をわたしたちと一緒に遣わすなら、わたしたちは下って行き、あなたのために食物を買おう。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "あなたが…するなら"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "遣わす"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしたちの兄弟"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "わたしたちの兄弟"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "わたしたちと一緒に"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "わたしたちは下って行き"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "買おう"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食物"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:17.329803804Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "あなたは食べて、満ち足り、ヤハウェ・あなたのエロヒムを、⟨את⟩、その良い地について祝福する。⟨彼が⟩あなたに与えた。",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "あなたは食べて"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "満ち足り"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "あなたは祝福する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒムを"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "良い"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "その"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T16:35:59.363054036Z",
+  "model": "glm-5.2"
+}

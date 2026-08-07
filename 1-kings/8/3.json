@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてイスラエルのすべての長老たちが来た。そして祭司たちが⟨את⟩箱を担いだ。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老たちが"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "そして担いだ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たちが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "箱を"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "箱を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:48.967060282Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 2:14",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "知恵者の目は彼の頭にある、そして愚か者は闇の中を歩く。そして私、この私も知った — 一つの出来事がすべての者に ⟨את⟩ ひとしく起こるのを。",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "知恵者"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "彼の目は"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "彼の頭に"
+    },
+    {
+      "surface": "והכסיל",
+      "gloss": "そして愚か者は"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "闇の中を"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "歩く"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "そして私は知った"
+    },
+    {
+      "surface": "גם",
+      "gloss": "も"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私"
+    },
+    {
+      "surface": "שמקרה",
+      "gloss": "〜ということ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "出来事が"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての者"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "彼らすべてに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:17.136264742Z",
+  "model": "glm-5.2"
+}

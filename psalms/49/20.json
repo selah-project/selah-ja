@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "彼は⟨自分の⟩父祖たちの世代に至る、永遠に彼らは光を見ない⟨だろう⟩。",
+  "tokens": [
+    {
+      "surface": "תָּ֭בוֹא",
+      "gloss": "至る"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "דּ֣וֹר",
+      "gloss": "世代"
+    },
+    {
+      "surface": "אֲבוֹתָ֑יו",
+      "gloss": "彼の父祖たちの"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "נֵ֝֗צַח",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִרְאוּ",
+      "gloss": "彼らは見ない"
+    },
+    {
+      "surface": "אֽוֹר",
+      "gloss": "光を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:01.468026111Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "⟨彼⟩に向かって歌え、⟨彼⟩に向かって奏でよ、⟨彼⟩のすべてのくすしきみわざについて語れ。",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "歌え"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨彼⟩に向かって"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "奏でよ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨彼⟩に向かって"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての…について"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "⟨彼⟩のくすしきみわざ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:43.413183185Z",
+  "model": "glm-5.2"
+}

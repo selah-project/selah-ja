@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "「⟨את⟩証の箱を担ぐ祭司たちに命じよ。そして彼らにヤルデンから上がらせよ。」",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "命じよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "証の箱を担ぐ祭司たち"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "…を担ぐ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "証の"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "そして彼らに上がらせよ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヤルデン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:23:20.167246629Z",
+  "model": "glm-5.2"
+}

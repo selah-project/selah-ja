@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "アダムは百三十年生き、自分の似姿にかたどって ⟨את⟩ 彼の名をシェトと呼んだ。",
+  "tokens": [
+    {
+      "surface": "וַֽיְחִ֣י",
+      "gloss": "生き"
+    },
+    {
+      "surface": "אָדָ֗ם",
+      "gloss": "アダムは"
+    },
+    {
+      "surface": "שְׁלֹשִׁ֤ים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "וּמְאַת֙",
+      "gloss": "と百"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "年"
+    },
+    {
+      "surface": "וַיּ֥וֹלֶד",
+      "gloss": "生み"
+    },
+    {
+      "surface": "בִּדְמוּת֖וֹ",
+      "gloss": "自分の似姿に"
+    },
+    {
+      "surface": "כְּצַלְמ֑וֹ",
+      "gloss": "自分の影像のように"
+    },
+    {
+      "surface": "וַיִּקְרָ֥א",
+      "gloss": "呼んだ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "彼の名を"
+    },
+    {
+      "surface": "שְׁמ֖וֹ",
+      "gloss": "彼の名"
+    },
+    {
+      "surface": "שֵֽׁת",
+      "gloss": "シェト"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:16.127348111Z",
+  "model": "glm-5.2"
+}

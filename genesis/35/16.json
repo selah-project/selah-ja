@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 35:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そして彼らはベート・エルから旅立った。なおエフラタに到るために地の距離があったとき、ラヘルは産み、彼女は出産の時に苦しんだ。",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "そして旅立った"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "〜から、ベート"
+    },
+    {
+      "surface": "אל",
+      "gloss": "・エル"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そしてあった"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "なお"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "距離が"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "到るために"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "エフラタに"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "そして産んだ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ラヘルは"
+    },
+    {
+      "surface": "ותקש",
+      "gloss": "そして苦しんだ"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "彼女の出産の時に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:10.684465223Z",
+  "model": "glm-5.2"
+}

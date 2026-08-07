@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 4:20",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼女の死ぬ時になって、彼女のそばに立っていた女たちが言った。「恐れるな。あなたは男の子を産んだのだから。」しかし彼女は答えず、心を留めなかった。",
+  "tokens": [
+    {
+      "surface": "וכעת",
+      "gloss": "そして〜の時になって"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "彼女の死ぬ"
+    },
+    {
+      "surface": "ותדברנה",
+      "gloss": "言った"
+    },
+    {
+      "surface": "הנצבות",
+      "gloss": "立っていた女たちが"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "彼女のそばに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "בן",
+      "gloss": "男の子を"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "あなたは産んだ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜なかった"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "彼女は答え"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "留め"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "心を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:27.275646580Z",
+  "model": "glm-5.2"
+}

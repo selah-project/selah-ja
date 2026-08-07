@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてヤハウェは言われた——ユダが上れ。見よ、わたしは⟨את⟩その地を彼の手に与えた。",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יְהוּדָ֣ה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "יַעֲלֶ֑ה",
+      "gloss": "上れ"
+    },
+    {
+      "surface": "הִנֵּ֛ה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נָתַ֥תִּי",
+      "gloss": "わたしは与えた"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "その地"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "その地"
+    },
+    {
+      "surface": "בְּיָדֽוֹ",
+      "gloss": "彼の手に"
+    }
+  ],
+  "timestamp": "2026-08-07T16:41:50.247345919Z",
+  "model": "glm-5.2"
+}

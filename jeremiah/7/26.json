@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "しかし彼らはわたしに聞き従わず、耳を傾けなかった。彼らはうなじを強張らせ、彼らの父祖たちよりも悪を行った。",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "彼らは聞き従った"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "彼らは傾けた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの耳"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "彼らの耳"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "そして彼らは強張らせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らのうなじ"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "彼らのうなじ"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "彼らは悪を行った"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "彼らの父祖たちよりも"
+    }
+  ],
+  "timestamp": "2026-08-07T11:43:40.021458508Z",
+  "model": "glm-5.2"
+}

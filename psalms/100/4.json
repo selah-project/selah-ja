@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 100,
+  "translation": "感謝をもって⟨彼⟩の門に入れ。讃美をもって⟨彼⟩の中庭に入れ。⟨彼⟩に感謝をささげよ。⟨彼⟩の御名を祝福せよ。",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "入れ"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "⟨彼⟩の門に"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "感謝をもって"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "⟨彼⟩の中庭に"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "讃美をもって"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "感謝をささげよ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨彼⟩に"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "祝福せよ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨彼⟩の御名を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:17.660899672Z",
+  "model": "glm-5.2"
+}

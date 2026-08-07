@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そしてヤハウェはモシェに言われた。「わたしはこの民を⟨את⟩見た。見よ、強情な首の民である。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "わたしは見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この民を"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "強情な"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "首の"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "である"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:15.210098093Z",
+  "model": "glm-5.2"
+}

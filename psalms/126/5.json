@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 126,
+  "translation": "涙をもって種蒔く者々は、歓声をもって刈り入れる。",
+  "tokens": [
+    {
+      "surface": "הַזֹּרְעִ֥ים",
+      "gloss": "種蒔く者々は"
+    },
+    {
+      "surface": "בְּדִמְעָ֗ה",
+      "gloss": "涙をもって"
+    },
+    {
+      "surface": "בְּרִנָּ֥ה",
+      "gloss": "歓声をもって"
+    },
+    {
+      "surface": "יִקְצֹֽרוּ",
+      "gloss": "刈り入れる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:03.753475747Z",
+  "model": "glm-5.2"
+}

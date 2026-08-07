@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 116,
+  "translation": "死の縄がわたしを取り囲み、シェオルの苦しみがわたしを見つけた、苦難と悲哀をわたしは見つけた。",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "わたしを取り囲み"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "縄が"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死の"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "苦しみが"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シェオルの"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "わたしを見つけた"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "苦難と"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "悲哀を"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "わたしは見つけた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:09.613988314Z",
+  "model": "glm-5.2"
+}

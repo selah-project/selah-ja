@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 8:10",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてそのように、私は悪者が葬られるのを見た。彼らは⟨聖なる⟩所から出て来て、かの町で忘れられた。そこで彼らはそのように行った—これもまたヘブル（空しさ）である。",
+  "tokens": [
+    {
+      "surface": "ובכן",
+      "gloss": "そしてそのように"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たちが"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "葬られる"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "וממקום",
+      "gloss": "そして〜の場所から"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "歩いた"
+    },
+    {
+      "surface": "וישתכחו",
+      "gloss": "そして忘れられた"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町で"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "行った"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ヘブル（空しさ）"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:54.820737755Z",
+  "model": "glm-5.2"
+}

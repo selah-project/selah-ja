@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 1:15",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "アドナイは私のすべての勇士たちを軽んじた、私のうちで。アドナイは私に対して集会を呼び出された、私の若者たちを砕くために。アドナイは酒ぶねを踏まれた、ユダの娘おとめのために。",
+  "tokens": [
+    {
+      "surface": "סלה",
+      "gloss": "軽んじた"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "私の勇士たちを"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイは"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "私のうちで"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼び出された"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私に対して"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "集会を"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "砕くために"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "私の若者たちを"
+    },
+    {
+      "surface": "גת",
+      "gloss": "酒ぶねを"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "踏まれた"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイは"
+    },
+    {
+      "surface": "לבתולת",
+      "gloss": "おとめのために"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:42:12.422660175Z",
+  "model": "glm-5.2"
+}

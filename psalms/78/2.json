@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "わたしは、マシャルでわたしの口を開き、太古からの謎を湧き出させる。",
+  "tokens": [
+    {
+      "surface": "אֶפְתְּחָ֣ה",
+      "gloss": "わたしは開く"
+    },
+    {
+      "surface": "בְמָשָׁ֣ל",
+      "gloss": "マシャルで"
+    },
+    {
+      "surface": "פִּ֑י",
+      "gloss": "わたしの口を"
+    },
+    {
+      "surface": "אַבִּ֥יעָה",
+      "gloss": "わたしは湧き出させる"
+    },
+    {
+      "surface": "חִ֝יד֗וֹת",
+      "gloss": "謎を"
+    },
+    {
+      "surface": "מִנִּּֽי",
+      "gloss": "〜からの"
+    },
+    {
+      "surface": "קֶֽדֶם",
+      "gloss": "太古"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:40.799575014Z",
+  "model": "glm-5.2"
+}

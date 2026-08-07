@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 130,
+  "translation": "もしも不正を守るなら、ヤハ、アドナイ、誰が立つことを得るでしょうか。",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "もしも"
+    },
+    {
+      "surface": "עֲוֺנ֥וֹת",
+      "gloss": "不正を"
+    },
+    {
+      "surface": "תִּשְׁמָר",
+      "gloss": "守るなら"
+    },
+    {
+      "surface": "יָ֑הּ",
+      "gloss": "ヤハ"
+    },
+    {
+      "surface": "אֲדֹנָ֗י",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "מִ֣י",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "יַעֲמֹֽד",
+      "gloss": "立つことを得るでしょうか"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:41.984547431Z",
+  "model": "glm-5.2"
+}

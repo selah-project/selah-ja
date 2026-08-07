@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてヨシュアはその時、引き返し、⟨את⟩ハツォルを攻め取り、⟨את⟩その王を剣で打った。ハツォルは以前、これらすべての王国の頭であったからである。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして…引き返した"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュアは"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "…時に"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "その"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "そして…攻め取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ハツォル"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ハツォルを"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その王"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "その王を"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "打った"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "剣で"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だからである"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ハツォルは"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "以前"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨…であった⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "王国の"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これら"
+    }
+  ],
+  "timestamp": "2026-08-07T10:27:17.752146628Z",
+  "model": "glm-5.2"
+}

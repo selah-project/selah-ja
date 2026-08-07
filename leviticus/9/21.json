@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして⟨アハロンは⟩ ⟨את⟩ 胸部と ⟨את⟩ 右のももを、揺りの供え物として ヤハウェの前に揺り動かした。モーセが命じた通りに。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "胸部"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "胸部"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "もも"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "もも"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "右の"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "揺り動かした"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロンは"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "揺りの供え物として"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜通りに"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセが"
+    }
+  ],
+  "timestamp": "2026-08-07T16:30:20.592280582Z",
+  "model": "glm-5.2"
+}

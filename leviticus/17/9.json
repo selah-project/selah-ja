@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そして会見の天幕の入口にそれを持って来ず、ヤハウェのためにそれをささげない者、その人はその民から断ち切られる。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "…へ（持って来ない）"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "彼はそれを持って来"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行なうため"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェのために"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "断ち切られる"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その人"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "彼の民から"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:51.519490785Z",
+  "model": "glm-5.2"
+}

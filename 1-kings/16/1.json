@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてヤハウェのことばはハナニの子イェフに、バアシャに対して臨んだ、こう言われて。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…あった"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "イェフ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ハナニ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に対して"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "バアシャ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "こう言われて"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:22.112476842Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 88,
+  "translation": "死者たちの中で自由の身に、屍たちのように、墓に寝伏す者たちのように、あなたがもはや覚えず、あなたの御手から断ち切られた⟨者たち⟩。",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "死者たちの中で"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "自由の身に"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "屍たち"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "寝伏す者たち"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "墓に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "あなたが覚え"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "そして彼らは"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "あなたの御手から"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "断ち切られた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:04.247954860Z",
+  "model": "glm-5.2"
+}

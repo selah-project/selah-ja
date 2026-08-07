@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "十分の一、十分の一を、七匹の子羊のそれぞれ一匹について作らなければならない。",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "十分の一"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "十分の一"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "作らなければならない"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "子羊について"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一匹の"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "七匹の"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "子羊の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:02:23.519944995Z",
+  "model": "glm-5.2"
+}

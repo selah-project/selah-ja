@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "乳飲み子の舌は渇きのために口蓋に張りつく。幼子らはパンを乞うが、配る者は⟨いない⟩。",
+  "tokens": [
+    {
+      "surface": "דָּבַ֨ק",
+      "gloss": "張りつく"
+    },
+    {
+      "surface": "לְשׁ֥וֹן",
+      "gloss": "舌"
+    },
+    {
+      "surface": "יוֹנֵ֛ק",
+      "gloss": "乳飲み子の"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "חכּ֖וֹ",
+      "gloss": "口蓋"
+    },
+    {
+      "surface": "בַּצָּמָ֑א",
+      "gloss": "渇きのために"
+    },
+    {
+      "surface": "עֽוֹלָלִים֙",
+      "gloss": "幼子ら"
+    },
+    {
+      "surface": "שָׁ֣אֲלוּ",
+      "gloss": "乞う"
+    },
+    {
+      "surface": "לֶ֔חֶם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "פֹּרֵ֖שׂ",
+      "gloss": "配る者"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "⟨いない⟩"
+    },
+    {
+      "surface": "לָהֶֽם",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:07.537533452Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "そして彼らは減り、抑圧と悪と悲しみによって屈み込んだ。",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "そして彼らは減った"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "そして屈み込んだ"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "抑圧によって"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪と"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "悲しみと"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:32.508566262Z",
+  "model": "glm-5.2"
+}

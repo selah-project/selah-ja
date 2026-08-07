@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "するとミカヤフは言った。「ヤハウェは生きておられる。まことに、ヤハウェが私に語られる ⟨את⟩ ⟨そのこと⟩を、私が語るのだ。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "すると彼は言った"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ミカヤフは"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生きておられる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私に語られること"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜する"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "語られる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "私が語ること"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "私が語るのだ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:49.651776803Z",
+  "model": "glm-5.2"
+}

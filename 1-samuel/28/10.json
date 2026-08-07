@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そしてシャウルは彼女にヤハウェによって誓って言った。「ヤハウェは生きておられる。この事において罰があなたに臨むことはない。」",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "そして…誓った"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルは"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェによって"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生きておられる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…ことはない"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "臨む"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罰が"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "…において"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この事"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:17.518387727Z",
+  "model": "glm-5.2"
+}

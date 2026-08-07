@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "長老と顔を引き上げられる者、その者が頭であり、偽りを教える預言者、その者が尾である。",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "長老"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "引き上げられる"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "顔"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "その者"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "教える者"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽り"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "その者"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "尾"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:13.842202566Z",
+  "model": "glm-5.2"
+}

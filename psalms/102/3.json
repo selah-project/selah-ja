@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "あなたの御顔を私から隠さないでください。私の苦しみの日に。あなたの耳を私に傾けてください。私が呼ぶ日に、急いで私に答えてください。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "隠さないで"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの御顔を"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私から"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "צר",
+      "gloss": "苦しみ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私の"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "傾けてください"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "あなたの耳を"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "私が呼ぶ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "急いで"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "私に答えてください"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:49.132630297Z",
+  "model": "glm-5.2"
+}

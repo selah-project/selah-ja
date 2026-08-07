@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして町の人々はヨアシュに言った、「あなたの息子を引き出し、彼を死なせよ。彼は⟨את⟩バアルの祭壇を打ち倒し、かつその上にあるアシェラを切り倒したのだから」。",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "人々"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ヨアシュ"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "引き出せ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの息子"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "あなたの息子を"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして彼は死ぬであろう"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "彼は打ち倒した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "バアルの祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇を"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "バアルの"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "そして"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "切り倒した"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "アシェラを"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上にある"
+    }
+  ],
+  "timestamp": "2026-08-07T10:33:50.338157572Z",
+  "model": "glm-5.2"
+}

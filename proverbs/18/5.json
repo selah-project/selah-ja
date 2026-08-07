@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "悪者の顔を ⟨持ち上げる⟩ のは良くない、裁きにおいて正しい者を曲げるため ⟨に⟩。",
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "持ち上げる"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "曲げる"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しい者を"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "裁きにおいて"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:32.434888352Z",
+  "model": "glm-5.2"
+}

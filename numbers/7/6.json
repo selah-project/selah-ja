@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてモーシェは ⟨את⟩ 牛車と ⟨את⟩ 牛を取り、レビ人に与えた。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして…取った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "牛車を"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "牛車"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "牛を"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして…与えた"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "それらを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人"
+    }
+  ],
+  "timestamp": "2026-08-07T09:50:43.173138440Z",
+  "model": "glm-5.2"
+}

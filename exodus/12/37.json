@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 12:37",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてイスラエルの子らはラムセスからスコトへ旅立った。歩兵約六十万、幼子を除く男たち⟨が⟩。",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "そして旅立った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "ラムセスから"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "スコトへ"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "約六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "歩兵"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "男たち"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "…を除く"
+    },
+    {
+      "surface": "מטף",
+      "gloss": "幼子"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:28.588692873Z",
+  "model": "glm-5.2"
+}

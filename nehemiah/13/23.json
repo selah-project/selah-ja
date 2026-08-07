@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 13:23",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "また、その日々において、私は⟨את⟩ユダ人たちが、アシュドデの女、アンモンの女、モアブの女をめとっているのを見た。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "その日々において"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "その"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ユダ人たち"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ユダ人たちが"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "住まわせた"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "女を"
+    },
+    {
+      "surface": "אשדודיות",
+      "gloss": "アシュドデの"
+    },
+    {
+      "surface": "עמוניות",
+      "gloss": "アンモンの"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "モアブの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:43.080763507Z",
+  "model": "glm-5.2"
+}

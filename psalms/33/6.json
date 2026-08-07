@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "ヤハウェの言葉によって天は造られ、⟨⟩御口の息によってすべてのその万軍が⟨⟩。",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "言葉によって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天は"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "造られ"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "息によって"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "御口の"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "その万軍が"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:12.622103152Z",
+  "model": "glm-5.2"
+}

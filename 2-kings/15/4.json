@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "ただし、⟨その⟩高き所は除かれなかった。民はなお、⟨その⟩高き所でいけにえを屠り、香をたいていた。",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "高き所は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "……ない"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "除かれた"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "なお"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "いけにえを屠っている"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "そして香をたいている"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "高き所で"
+    }
+  ],
+  "timestamp": "2026-08-07T14:27:43.223473720Z",
+  "model": "glm-5.2"
+}

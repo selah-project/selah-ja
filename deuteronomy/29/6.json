@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 29:6",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてあなたがたはこの場所に来た。するとヘシュボンの王、スィホンとバシャンの王、オグが戦いのために私たちに向かって出て来たので、私たちは彼らを打ち破った。",
+  "tokens": [
+    {
+      "surface": "ותבאו",
+      "gloss": "そしてあなたがたは来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～へ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "その場所"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て来た"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "スィホン"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ヘシュボンの"
+    },
+    {
+      "surface": "ועוג",
+      "gloss": "そしてオグ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "バシャンの"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "私たちに向かって"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "戦いのために"
+    },
+    {
+      "surface": "ונכם",
+      "gloss": "そして私たちは打ち破った"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:22.931347034Z",
+  "model": "glm-5.2"
+}

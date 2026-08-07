@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "クシュは⟨את⟩ニムロデを生んだ。彼は地において勇士となることを始めた。",
+  "tokens": [
+    {
+      "surface": "וְכ֖וּשׁ",
+      "gloss": "クシュ"
+    },
+    {
+      "surface": "יָלַ֣ד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ニムロデ"
+    },
+    {
+      "surface": "נִמְרֹ֑ד",
+      "gloss": "ニムロデ"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "הֵחֵ֔ל",
+      "gloss": "始めた"
+    },
+    {
+      "surface": "לִֽהְי֥וֹת",
+      "gloss": "となることを"
+    },
+    {
+      "surface": "גִּבֹּ֖ר",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "地において"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:41.101195110Z",
+  "model": "glm-5.2"
+}

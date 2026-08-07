@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてエホシャファトは恐れ、彼の顔を ⟨את⟩ 向けてヤハウェを尋ね求めることに身をささげ、ユダの全域に断食を宣告した。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして彼は恐れ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ささげた"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "エホシャファトは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の顔"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "彼の顔を"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "尋ね求めることに"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェを"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "宣告した"
+    },
+    {
+      "surface": "צום",
+      "gloss": "断食を"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全域"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:15:25.229489514Z",
+  "model": "glm-5.2"
+}

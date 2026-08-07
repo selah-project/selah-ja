@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてモーセは言った — 「ヤハウェはこう言われる。夜の半ばに、わたしはミツライム（エジプト）のただ中に出て行く。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "〜の半ばに"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたし"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "出て行く"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "〜のただ中に"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:53.892844003Z",
+  "model": "glm-5.2"
+}

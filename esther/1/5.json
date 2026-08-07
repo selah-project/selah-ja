@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 1:5",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてこれらの日々が満ちると、王はシュシャン（スサ）の城にいるすべての民のために、大いなる者から小さき者に至るまで、七日間の宴を催した。王の宮殿の庭園の中庭において⟨⟩。",
+  "tokens": [
+    {
+      "surface": "ובמלואת",
+      "gloss": "そして…が満ちると"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "これらの日々"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "…を催した"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての…のために"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "…にいる"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "シュシャン（スサ）の"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "城に"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "大いなる者から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…に至るまで"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "小さき者"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "宴を"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七…の"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "…の中庭において"
+    },
+    {
+      "surface": "גנת",
+      "gloss": "庭園の"
+    },
+    {
+      "surface": "ביתן",
+      "gloss": "宮殿の"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:49.856190233Z",
+  "model": "glm-5.2"
+}

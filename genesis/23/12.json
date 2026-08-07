@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そしてアブラハムは、地の民の前に ⟨ひざまずいた⟩。",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "そして〜はひざまずいた"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:39.752497429Z",
+  "model": "glm-5.2"
+}

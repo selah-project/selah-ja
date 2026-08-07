@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "悪は悪者を死に至らせ、正しい者を憎む者たちは有罪とされる。",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "死に至らせる"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "憎む者たち"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しい者"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "有罪とされる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:38.491085290Z",
+  "model": "glm-5.2"
+}

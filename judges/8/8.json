@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 8:8",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして⟨彼は⟩そこからペヌエルに上り、彼らに同じように語りかけた。そしてペヌエルの男たちは ⟨את⟩ 彼に答えた、スッコトの男たちが答えたように。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "そして上った"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ペヌエルへ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "そして語りかけた"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "同じように"
+    },
+    {
+      "surface": "ויענו",
+      "gloss": "そして答えた"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "男たち"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ペヌエルの"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "答えた"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "男たち"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "スッコトの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:34:11.538459265Z",
+  "model": "glm-5.2"
+}

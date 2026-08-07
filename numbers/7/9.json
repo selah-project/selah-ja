@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてケハトの子らには与えなかった。聖なる務めが彼らの上にあったからである。彼らは肩でそれを担ぐからである。",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "そして…の子らに"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ケハト"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "務め"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "彼らの上に"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "肩で"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "彼らは担ぐ"
+    }
+  ],
+  "timestamp": "2026-08-07T16:32:38.486278514Z",
+  "model": "glm-5.2"
+}

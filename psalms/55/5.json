@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "わが心は⟨内に⟩よじれ、死の恐れがわたしの上に落ちた。",
+  "tokens": [
+    {
+      "surface": "לִ֭בִּי",
+      "gloss": "わが心は"
+    },
+    {
+      "surface": "יָחִ֣יל",
+      "gloss": "よじれ"
+    },
+    {
+      "surface": "בְּקִרְבִּ֑י",
+      "gloss": "⟨内に⟩"
+    },
+    {
+      "surface": "וְאֵימ֥וֹת",
+      "gloss": "そして死の恐れが"
+    },
+    {
+      "surface": "מָ֝֗וֶת",
+      "gloss": "死の"
+    },
+    {
+      "surface": "נָפְל֥וּ",
+      "gloss": "落ちた"
+    },
+    {
+      "surface": "עָלָֽי",
+      "gloss": "わたしの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:15.994411317Z",
+  "model": "glm-5.2"
+}

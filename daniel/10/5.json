@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして私は⟨את⟩目を上げて見た。見よ、ひとりの人がおり、麻の衣をまとい、その腰はウパズの純金で帯しめられていた。",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "そして私は上げた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の目"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "私の目"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "そして私は見た"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ひとりの"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "着ていた"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "麻の衣"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "そして彼の腰は"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "帯しめられて"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "純金で"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "ウパズの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:46:20.312644831Z",
+  "model": "glm-5.2"
+}

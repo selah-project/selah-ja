@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 35:14",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "⟨את⟩ 三つの町をあなたたちはヨルデンの向こう側に与え、⟨את⟩ 三つの町をあなたたちはクナアンの地に与える。逃れの町としてそれらはなるであろう。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "三つの町"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三つの"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "町"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "あなたたちは与える"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "向こう側に"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "ヨルデンの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "三つの町"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三つの"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "町"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "あなたたちは与える"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "クナアンの"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "町"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "逃れの"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "それらは〜となるであろう"
+    }
+  ],
+  "timestamp": "2026-08-07T10:05:32.385148391Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "あなたの出生については、あなたの生まれた日に、あなたの臍の緒は切られず、水で洗われず、柔らかにされるためにも塩でぬられず、塩づけにもされず、布で包まれもしなかった。",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "あなたの出生については"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…の日に"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "あなたを",
+      "marks": "あなた（直接目的語標識）"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ず"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "切られ"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "あなたの臍の緒"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "水で"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ず"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "洗われ"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "柔らかにされるために"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "塩で"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ず"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "塩づけにされ"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "布で"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ず"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "包まれもしなかった"
+    }
+  ],
+  "timestamp": "2026-08-07T12:04:27.745640732Z",
+  "model": "glm-5.2"
+}

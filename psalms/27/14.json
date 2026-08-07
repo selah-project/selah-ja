@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "ヤハウェを待ち望め。強くあれ、そしてあなたの心を奮い立たせよ。そしてヤハウェを待ち望め。",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "待ち望め"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "強くあれ"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "そして奮い立たせよ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "あなたの心を"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "そして待ち望め"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:36.183821767Z",
+  "model": "glm-5.2"
+}

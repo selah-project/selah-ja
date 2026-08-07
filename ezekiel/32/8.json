@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 32:8",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "天にある光のすべての光源を、わたしはあなたの上に暗くし、あなたの地の上に闇を置く — アドナイ・ヤハウェの御告げ。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מאורי",
+      "gloss": "光源を"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光の"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "天にある"
+    },
+    {
+      "surface": "אקדירם",
+      "gloss": "わたしは暗くする"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたの上に"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "わたしは置く"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "闇を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "あなたの地"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:35:52.647390099Z",
+  "model": "glm-5.2"
+}

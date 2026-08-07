@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 36:14",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そして彼は天幕の上のためのやぎの毛の幕を作った。十一の幕を彼はそれらを⟨את⟩作った。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は…作った"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "幕"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "やぎの毛の"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "天幕のための"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "十"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "一"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "幕"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "彼は…作った"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それらを"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:19.295357222Z",
+  "model": "glm-5.2"
+}

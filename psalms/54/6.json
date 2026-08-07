@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 54,
+  "translation": "見よ、エロヒムは私を助ける方、アドナイは私のנפש（いのち）を支える者たちのうちに ⟨おられる⟩。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "助ける方"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私を"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "支える者たちのうちに"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私のנפש（いのち）を"
+    }
+  ],
+  "timestamp": "2026-08-07T18:40:19.912336898Z",
+  "model": "glm-5.2"
+}

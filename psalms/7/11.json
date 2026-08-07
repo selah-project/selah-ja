@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "私の盾はエロヒムの〈上に⟩ある。直ぐな心の救い手である。",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "私の盾は"
+    },
+    {
+      "surface": "על",
+      "gloss": "の〈上に〉"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "救い手"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "直ぐな"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:29.107008545Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "しかし彼らの苦しみを⟨彼は⟩見、⟨את⟩ 彼らの叫びを聞かれたとき。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "苦しみを"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らの"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "聞かれたとき"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの叫びを"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "彼らの叫びを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:13.944258249Z",
+  "model": "glm-5.2"
+}

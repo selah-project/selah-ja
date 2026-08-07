@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "ナタンは自分の家へ行った。ヤハウェは ⟨את⟩ ウリヤの妻がダビデに産んだ子を打たれ、⟨その子は重く⟩患った。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ナタン"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～へ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "彼の家"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "そして打たれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その子を"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～ところの"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ウリヤの"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデに"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "そして患った"
+    }
+  ],
+  "timestamp": "2026-08-07T10:52:33.600785406Z",
+  "model": "glm-5.2"
+}

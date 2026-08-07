@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "聞け、⟨את⟩イスラエルの家よ、あなたがたについてヤハウェが語られたことばを。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ことば"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "あなたがたについて"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T17:44:17.251648201Z",
+  "model": "glm-5.2"
+}

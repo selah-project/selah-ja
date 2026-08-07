@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "彼は別の道を行き、ベート・エルに来た道を引き返さなかった。",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֖לֶךְ",
+      "gloss": "そして彼は行った"
+    },
+    {
+      "surface": "בְּדֶ֣רֶךְ",
+      "gloss": "⋯道を"
+    },
+    {
+      "surface": "אַחֵ֑ר",
+      "gloss": "別の"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "そして⋯なかった"
+    },
+    {
+      "surface": "שָׁ֣ב",
+      "gloss": "引き返した"
+    },
+    {
+      "surface": "בַּדֶּ֔רֶךְ",
+      "gloss": "⋯道を"
+    },
+    {
+      "surface": "אֲשֶׁ֛ר",
+      "gloss": "⋯ところの"
+    },
+    {
+      "surface": "בָּ֥א",
+      "gloss": "彼が来た"
+    },
+    {
+      "surface": "בָ֖הּ",
+      "gloss": "それによって"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⋯へ"
+    },
+    {
+      "surface": "בֵּֽית",
+      "gloss": "ベート"
+    },
+    {
+      "surface": "אֵֽל",
+      "gloss": "・エル"
+    }
+  ],
+  "timestamp": "2026-08-07T11:03:03.198418660Z",
+  "model": "glm-5.2"
+}

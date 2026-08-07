@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 9:21",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして四十年の間、あなたは荒野で彼らを養われた — 彼らは何一つ欠けることがなかった。彼らの衣服はすり切れず、彼らの足ははれ上がらなかった。",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "そして四十年"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "כלכלתם",
+      "gloss": "あなたは彼らを養われた"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野で"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "חסרו",
+      "gloss": "彼らは欠ける"
+    },
+    {
+      "surface": "שלמתיהם",
+      "gloss": "彼らの衣服"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "すり切れた"
+    },
+    {
+      "surface": "ורגליהם",
+      "gloss": "そして彼らの足"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "はれ上がった"
+    }
+  ],
+  "timestamp": "2026-08-07T13:57:39.901928363Z",
+  "model": "glm-5.2"
+}

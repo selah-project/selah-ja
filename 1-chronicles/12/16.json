@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "これらは、第一の月に ⟨את⟩ ヨルダンを渡った者たちである — それはすべてその岸に満ち溢れ、そして彼らは東にも西にも、すべての谷地に ⟨את⟩ 全域を逃走させた。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "הם",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの者"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "渡った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨルダン"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルダン"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "月に"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "第一の"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そしてそれは"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "満ち溢れ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "その岸"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "そして彼らは逃走させた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全域"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "谷地"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "東に"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "そして西に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:08.566088136Z",
+  "model": "glm-5.2"
+}

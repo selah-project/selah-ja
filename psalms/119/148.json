@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 148,
+  "ref": "psalms 119:148",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "わたしの目は夜の見張りに先立つ—あなたのことばに思いを潜めるために。",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "先立つ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "わたしの目は"
+    },
+    {
+      "surface": "אשמרות",
+      "gloss": "夜の見張りに"
+    },
+    {
+      "surface": "לשיח",
+      "gloss": "思いを潜めるために"
+    },
+    {
+      "surface": "באמרתך",
+      "gloss": "あなたのことばに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:47.272773651Z",
+  "model": "glm-5.2"
+}

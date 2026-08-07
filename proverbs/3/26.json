@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ヤハウェが ⟨あなたの⟩ 確かさとなり、あなたの足を捕獲から守られるからだ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "あなたの確かさ"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "守る"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "あなたの足を"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "捕獲から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:54.698728054Z",
+  "model": "glm-5.2"
+}

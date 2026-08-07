@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "歌え、彼⟨に⟩、新しい歌を。麗しく弾け、歓呼をもって。",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "歌え"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼⟨に⟩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌を"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新しい"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "麗しく弾け"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "（器楽演奏）"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "歓呼をもって"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:12.373698038Z",
+  "model": "glm-5.2"
+}

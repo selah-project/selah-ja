@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "昼も夜もあなたの手が私の上に重くのしかかったから、私の潤いは変えられた、夏の焼けつきによって。セラ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "昼も"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "夜も"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "重くのしかかった"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私の上に"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "変えられた"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "私の潤い"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "焼けつきによって"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "夏"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:29.230253983Z",
+  "model": "glm-5.2"
+}

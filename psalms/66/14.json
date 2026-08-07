@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "私の唇が開いた ⟨もの⟩、また私の口が苦しみの中で語った ⟨もの⟩、",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨もの⟩"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "開いた"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "私の唇が"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "また語った"
+    },
+    {
+      "surface": "פי",
+      "gloss": "私の口が"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "苦しみの中で"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:52.379980671Z",
+  "model": "glm-5.2"
+}

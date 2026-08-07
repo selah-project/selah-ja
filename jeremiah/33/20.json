@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "ヤハウェはこう仰る — もしあなたたちが⟨את⟩私の昼の契約と、⟨את⟩私の夜の契約を破り、昼と夜がその時に存在しなくなるようなことがあるならば。",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "仰る"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "あなたたちが破る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の昼の契約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "私の契約"
+    },
+    {
+      "surface": "היום",
+      "gloss": "昼の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "私の夜の契約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "私の契約"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "夜の"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "〜にならないために"
+    },
+    {
+      "surface": "היות",
+      "gloss": "存在する"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "昼が"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "と夜が"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "その時に"
+    }
+  ],
+  "timestamp": "2026-08-07T17:05:04.174146113Z",
+  "model": "glm-5.2"
+}

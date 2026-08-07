@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "ダビデはそのとき要塞にあり、ペリシテ人たちの駐屯地はそのときベイト・レヘムにあった。",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "そしてダビデは"
+    },
+    {
+      "surface": "אז",
+      "gloss": "そのとき"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "要塞に"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "そして駐屯地"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人たちの"
+    },
+    {
+      "surface": "אז",
+      "gloss": "そのとき"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ベイト・"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "レヘムに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:56.080275187Z",
+  "model": "glm-5.2"
+}

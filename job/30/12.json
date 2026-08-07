@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "右側から小群が立ち上がる。彼らは私の足を押し退け、自分たちの破滅の道を私に向けて盛り上げる。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "右側"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "小群"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "立ち上がる"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "私の足"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "押し退けた"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "盛り上げた"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私に向けて"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "道"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "破滅"
+    }
+  ],
+  "timestamp": "2026-08-07T13:27:47.582082547Z",
+  "model": "glm-5.2"
+}

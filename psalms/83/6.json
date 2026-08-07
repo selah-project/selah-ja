@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 83,
+  "translation": "彼らは共に心を盾突き合わせ、あなた⟨に対して⟩契約を結んだからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "彼らは相談した"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心を"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "共に"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなた⟨に対して⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約を"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "結んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:43.105853348Z",
+  "model": "glm-5.2"
+}

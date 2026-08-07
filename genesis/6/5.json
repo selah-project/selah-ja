@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてヤハウェは見られた、人の悪が地において多くなり、その心の思いの企てがすべて、いつもただ悪であることを。",
+  "tokens": [
+    {
+      "surface": "וַיַּ֣רְא",
+      "gloss": "そして…見た"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "רַבָּ֛ה",
+      "gloss": "多くなった"
+    },
+    {
+      "surface": "רָעַ֥ת",
+      "gloss": "…の悪"
+    },
+    {
+      "surface": "הָאָדָ֖ם",
+      "gloss": "人"
+    },
+    {
+      "surface": "בָּאָ֑רֶץ",
+      "gloss": "地において"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "יֵ֨צֶר֙",
+      "gloss": "企て"
+    },
+    {
+      "surface": "מַחְשְׁבֹ֣ת",
+      "gloss": "…の思い"
+    },
+    {
+      "surface": "לִבּ֔וֹ",
+      "gloss": "彼の心"
+    },
+    {
+      "surface": "רַ֥ק",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "רַ֖ע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "הַיּֽוֹם",
+      "gloss": "その日（いつも）"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:12.594608387Z",
+  "model": "glm-5.2"
+}

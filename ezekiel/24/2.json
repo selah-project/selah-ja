@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 24:2",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "人の子よ、自分のために書き記せ、この日の名を、まさにこの日そのものを ⟨את⟩。バビルの王がイェルシャライムに寄りかかった、まさにこの日そのものに ⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "書き記せ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "自分のために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この日の名を"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "היום",
+      "gloss": "この日の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "まさにこの日そのものを"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "まさに〜そのもの"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "סמך",
+      "gloss": "寄りかかった"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビル"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライム"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "まさに〜そのものに"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日に"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T12:08:46.748392547Z",
+  "model": "glm-5.2"
+}

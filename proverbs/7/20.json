@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "銀の入った袋を手に取った、満月の日に家に戻るのだ",
+  "tokens": [
+    {
+      "surface": "צְֽרוֹר",
+      "gloss": "袋"
+    },
+    {
+      "surface": "הַ֭כֶּסֶף",
+      "gloss": "銀の"
+    },
+    {
+      "surface": "לָקַ֣ח",
+      "gloss": "取った"
+    },
+    {
+      "surface": "בְּיָד֑וֹ",
+      "gloss": "手に"
+    },
+    {
+      "surface": "לְי֥וֹם",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "הַ֝כֵּ֗סֶא",
+      "gloss": "満月"
+    },
+    {
+      "surface": "יָבֹ֥א",
+      "gloss": "戻る"
+    },
+    {
+      "surface": "בֵיתֽוֹ",
+      "gloss": "彼の家に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:38.797314421Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして⟨את⟩エバル、そして⟨את⟩アビマエル、そして⟨את⟩シェバを、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "エバル"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "エバル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アビマエル"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "アビマエル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "シェバ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "シェバ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:58:54.072874148Z",
+  "model": "glm-5.2"
+}

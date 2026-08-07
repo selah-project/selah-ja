@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そしてヤハウェはマナセとその民に語られたが、彼らは耳を傾けなかった。",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֧ר",
+      "gloss": "そして…語られた"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "מְנַשֶּׁ֥ה",
+      "gloss": "マナセ"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "עַמּ֖וֹ",
+      "gloss": "その民"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "הִקְשִֽׁיבוּ",
+      "gloss": "耳を傾けた"
+    }
+  ],
+  "timestamp": "2026-08-07T14:19:09.661325900Z",
+  "model": "glm-5.2"
+}

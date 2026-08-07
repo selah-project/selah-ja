@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "シェムの子らは、エラム、アシュル、アルパクシャド、ルド、アルам。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "שם",
+      "gloss": "シェム"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "エラム"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "アシュル"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "アルパクシャド"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ルド"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "アルам"
+    }
+  ],
+  "timestamp": "2026-08-07T16:22:37.582548271Z",
+  "model": "glm-5.2"
+}

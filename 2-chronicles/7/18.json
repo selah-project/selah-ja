@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 7:18",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そうすれば私があなたの王座の王権を ⟨את⟩ 確立しよう、ダビデあなたの父と私は切ったように——すなわち「あなたから支配する者は切り取られない、イスラエルにおいて」と。",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "そして私が確立しよう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王座"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "王座"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "あなたの王権"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "私が切った"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ダビデに"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "こう言って"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "切り取られる"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたから"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "支配する者"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルにおいて"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:08.687787262Z",
+  "model": "glm-5.2"
+}

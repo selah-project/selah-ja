@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "そして彼らは草の中に芽吹き、水の流れのほとりの柳のよう⟨に生える⟩。",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "そして彼らは芽吹き"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "〜の中に"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "柳のよう"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のほとりに"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "流れの"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:32.211727291Z",
+  "model": "glm-5.2"
+}

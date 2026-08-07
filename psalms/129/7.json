@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 129,
+  "translation": "刈る者の手を満たさず、束ねる者の懐も⟨満たさない⟩⟨草のようだ⟩",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "満たした"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "刈る者の"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "そして彼の懐"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "束ねる者の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:26.130129323Z",
+  "model": "glm-5.2"
+}

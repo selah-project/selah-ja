@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ラバンはその場所のすべての人々を⟨את⟩集め、宴会を催した。",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "そして集めた"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ラバンは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての人々"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "人々を"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "その場所の"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "そして作った"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "宴会を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:18.992341849Z",
+  "model": "glm-5.2"
+}

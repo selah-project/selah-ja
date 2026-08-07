@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "私の〈נפשׁ〉はエロヒムに向かって渇く — 生けるエルに。いつ私は来て、エロヒムの顔を拝することができるのか。",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "渇く"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私の〈נפשׁ〉は"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "エロヒムに向かって"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "エルに"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生ける"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "いつ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "私は来て"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "そして拝することができる"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T18:39:47.811437308Z",
+  "model": "glm-5.2"
+}

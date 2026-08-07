@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ヤハウェはあなたがたの言葉の声を聞かれ、怒り、誓って言われた——",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "そして聞かれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがたの言葉の声"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "あなたがたの言葉"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "そして怒った"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "そして誓った"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:20.361688535Z",
+  "model": "glm-5.2"
+}

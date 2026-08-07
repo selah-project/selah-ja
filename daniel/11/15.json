@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 11:15",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして北の王は来て、攻城塁を注ぎ築き、要塞の町を捕らえる。そして南の腕は立たず、彼の選り抜きの民も、⟨立つ⟩力はない。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして来る"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "北の"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "そして注ぎ築く"
+    },
+    {
+      "surface": "סוללה",
+      "gloss": "攻城塁"
+    },
+    {
+      "surface": "ולכד",
+      "gloss": "そして捕らえる"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "מבצרות",
+      "gloss": "要塞の"
+    },
+    {
+      "surface": "וזרעות",
+      "gloss": "そして腕"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "南の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "そして民"
+    },
+    {
+      "surface": "מבחריו",
+      "gloss": "彼の選り抜きの"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "立つための"
+    }
+  ],
+  "timestamp": "2026-08-07T13:49:45.995420715Z",
+  "model": "glm-5.2"
+}

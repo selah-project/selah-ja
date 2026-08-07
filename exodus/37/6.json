@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして彼は純金の贖い蓋を造った。その長さは二キュビト半、その幅は一キュビト半⟨であった⟩。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は造った"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "贖い蓋を"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "二キュビト"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "と半"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "その長さ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "と一キュビト"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "と半"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "その幅"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:24.317871725Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "あなたがたの力はむなしく費やされ、あなたがたの地は ⟨את⟩ その産物を与えず、地の木も ⟨את⟩ その実を与えない。",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "費やされよう"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "むなしく"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "あなたがたの力は"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "あなたがたの地は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その産物を"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "その産物を"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "そして〜の木も"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "その実を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:23.678214328Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "ダビデはそのペリシュティ人⟨את⟩の首を取り、それをイェルシャライムに運び入れ、彼の武具⟨את⟩を彼自身の天幕に置いた。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "取った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "首"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "首"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "そのペリシュティ人の"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "それを運び入れた"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムに"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼の武具"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "彼の武具"
+    },
+    {
+      "surface": "שם",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "彼の天幕に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:26:33.347657082Z",
+  "model": "glm-5.2"
+}

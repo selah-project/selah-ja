@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "全員 ⟨が⟩ その民のことで辱めを受ける — 彼らに益 ⟨は⟩ 無い。助け ⟨ではなく⟩、益 ⟨ではなく⟩、恥、そしてまたそしり ⟨である⟩。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "全員"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "辱めを受ける"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のことで"
+    },
+    {
+      "surface": "עם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無い"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "益がある"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ではなく"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "助け"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ではなく"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "益"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "恥"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "そしり"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:32.958468976Z",
+  "model": "glm-5.2"
+}

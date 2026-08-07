@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 11:31",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "これらがあなたたちにとって⟨の⟩、すべての群がるもののうちの汚れたものである。それらの死骸に触れるすべての者は夕方まで汚れる。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "הטמאים",
+      "gloss": "汚れたもの"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちにとって"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての〜のうちに"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "群がるもの"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "触れる者"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "それらに"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "その死骸において"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "汚れる"
+    },
+    {
+      "surface": "עד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "夕方"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:41.874432106Z",
+  "model": "glm-5.2"
+}

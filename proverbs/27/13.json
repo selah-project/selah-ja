@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 27:13",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "彼の衣を取れ、なぜなら彼はよそ者の身元になったのだから、そして見知らぬ女のゆえに彼から質草を取れ。",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "彼の衣を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "身元になった"
+    },
+    {
+      "surface": "זר",
+      "gloss": "よそ者の"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "そして〜のゆえに"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "見知らぬ女の"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "彼から質草を取れ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:34.091354993Z",
+  "model": "glm-5.2"
+}

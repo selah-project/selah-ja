@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "立って、陶器師の家に下れ。そこでわたしはあなたに ⟨את⟩ わたしの言葉を聞かせる。」",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "立って"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "下れ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "陶器師の"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "わたしはあなたに聞かせる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの言葉"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "わたしの言葉"
+    }
+  ],
+  "timestamp": "2026-08-07T11:47:34.951664947Z",
+  "model": "glm-5.2"
+}

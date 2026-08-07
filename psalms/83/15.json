@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 83,
+  "translation": "火が森を燃やすように、炎が山々を焼き尽くすように。",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "火が〜のように"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "燃やす"
+    },
+    {
+      "surface": "יער",
+      "gloss": "森を"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "炎が〜のように"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "焼き尽くす"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山々を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:52.670655660Z",
+  "model": "glm-5.2"
+}

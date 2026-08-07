@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 115,
+  "translation": "死者がヤハを賛美することはない、沈黙に下る者はだれも⟨いない⟩。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "死者たち"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "賛美する"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "下る者たち"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "沈黙"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:43.805397244Z",
+  "model": "glm-5.2"
+}

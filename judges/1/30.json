@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ゼブルンは、キトロンの住民を⟨את⟩、ナハラルの住民を⟨את⟩追い払わず、カナン人は彼のうちに住み、貢ぎの民となった。",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "ゼブルンは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ず"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "追い払った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "キトロンの住民"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "住民"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "キトロンの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ナハラルの住民"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "住民"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "ナハラルの"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "住み"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "カナン人は"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "彼のうちに"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "なった"
+    },
+    {
+      "surface": "למס",
+      "gloss": "貢ぎの民と"
+    }
+  ],
+  "timestamp": "2026-08-07T10:31:55.244105781Z",
+  "model": "glm-5.2"
+}

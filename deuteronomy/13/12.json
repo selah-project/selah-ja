@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして全イスラエルは聞いて恐れ、もはやこのような悪い事をあなたたちの中で行わないであろう。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そして全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "聞いて"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "もはや〜しない"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行うことを"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "〜ような事を"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "あなたたちの中で"
+    }
+  ],
+  "timestamp": "2026-08-07T14:24:27.322233368Z",
+  "model": "glm-5.2"
+}

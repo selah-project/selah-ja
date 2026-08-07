@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "その嗉嚢とその内容物を取り除き、祭壇の東側、灰の置き場の傍らにそれを投げ捨てる。",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "取り除く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その嗉嚢"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "その嗉嚢"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "その内容物とともに"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "投げ捨てる"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "〜の傍らに"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "東側"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "置き場"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "灰の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:40.631184855Z",
+  "model": "glm-5.2"
+}

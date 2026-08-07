@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 24:17",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そしてヤハウェの栄光の姿は、山の頂上で、イスラエルの子らの目に、焼き尽くす火のようであった。",
+  "tokens": [
+    {
+      "surface": "ומראה",
+      "gloss": "そして…の姿"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "栄光"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "…のようであった、火"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "焼き尽くす（食べる）"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "…の頂上で"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "…の目に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:40.774068907Z",
+  "model": "glm-5.2"
+}

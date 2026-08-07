@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 134,
+  "translation": "聖所に向かってあなたたちの手を上げよ、⟨את⟩ ヤハウェを賛美せよ。",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "上げよ"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "あなたたちの手を"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "賛美せよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:08.720624737Z",
+  "model": "glm-5.2"
+}

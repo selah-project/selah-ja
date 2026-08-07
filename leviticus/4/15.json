@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして会衆の長老たちはヤハウェの前に⟨את⟩彼らの手を雄牛の頭の上に置き、そして⟨את⟩その雄牛をヤハウェの前に屠る。",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "そして置く"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老たち"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "会衆"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの手"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "彼らの手"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "その雄牛"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "そして屠る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その雄牛"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "その雄牛"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:50.798911209Z",
+  "model": "glm-5.2"
+}

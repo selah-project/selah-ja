@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして署名した者たちの上に⟨いる⟩: ネヘミヤ、ハティルシュタ、ハカルヤの子、およびツィドキヤ。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "署名した者たち"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "ネヘミヤ"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "ハティルシュタ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "ハカルヤ"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "およびツィドキヤ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:57:27.530378768Z",
+  "model": "glm-5.2"
+}

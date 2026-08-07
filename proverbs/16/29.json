@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 16:29",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "暴力的な人は隣人を唆し、彼を良くない道に導く。",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "暴力的な"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "唆す"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "隣人を"
+    },
+    {
+      "surface": "והוליכו",
+      "gloss": "そして彼を導く"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:13.048705731Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして彼は彼に良い言葉を語り、⟨את⟩彼の玉座を、彼と共にバヴェルにいた王たちの玉座の上に置いた。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "良い言葉を"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして置いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の玉座"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "彼の玉座を"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "玉座"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "王たちの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であった"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "バヴェル（バビロン）に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:31.926245915Z",
+  "model": "glm-5.2"
+}

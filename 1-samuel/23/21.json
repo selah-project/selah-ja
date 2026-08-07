@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そしてシャウルは言った——あなたがたはヤハウェに祝福された者たち、あなたがたが私を憐れんでくれたからだ。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルは"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "祝福された者たち"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたがたは"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "あなたがたが憐れんだ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:52.711355939Z",
+  "model": "glm-5.2"
+}

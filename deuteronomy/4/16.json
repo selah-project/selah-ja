@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "あなたがたが腐敗し、自分たちのために刻像を作らないために—どんな形の像も、雄または雌の型を。",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "〜しないために"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "あなたがたは腐敗する"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "そして作る"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたのために"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "刻像"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "〜の姿"
+    },
+    {
+      "surface": "כל",
+      "gloss": "いかなる"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "形"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "型"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "雄"
+    },
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "雌"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:52.753386521Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "もし、もしあなたがわたしの民を去らせることを拒むなら、見よ、わたしはあす、⟨את⟩イナゴをあなたの領域に持って来る。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "拒む"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "去らせることを"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの民"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民を"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "見よ、…である"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "わたしは…持って来る"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "あす"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "イナゴを"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "あなたの領域に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:13.996440511Z",
+  "model": "glm-5.2"
+}

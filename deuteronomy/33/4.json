@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "モーシェが私たちに命じた律法、ヤコブの会衆の嗣業である。",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "律法"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちに"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセが"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "嗣業"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "会衆の"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤコブの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:22:15.430354972Z",
+  "model": "glm-5.2"
+}

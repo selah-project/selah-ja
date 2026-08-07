@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "⟨את⟩ 子羊一匹を朝に〈作れ〉、そして⟨את⟩ 二匹目の子羊を夕暮れの間に〈作れ〉。",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "子羊"
+    },
+    {
+      "surface": "הַכֶּ֥בֶשׂ",
+      "gloss": "子羊"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "一匹"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֣ה",
+      "gloss": "〈作れ〉"
+    },
+    {
+      "surface": "בַבֹּ֑קֶר",
+      "gloss": "朝に"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "そして⟨את⟩",
+      "marks": "二匹目の子羊"
+    },
+    {
+      "surface": "הַכֶּ֣בֶשׂ",
+      "gloss": "子羊"
+    },
+    {
+      "surface": "הַשֵּׁנִ֔י",
+      "gloss": "二匹目の"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֖ה",
+      "gloss": "〈作れ〉"
+    },
+    {
+      "surface": "בֵּ֥ין",
+      "gloss": "〜の間に"
+    },
+    {
+      "surface": "הָֽעַרְבָּֽיִם",
+      "gloss": "夕暮れ"
+    }
+  ],
+  "timestamp": "2026-08-07T16:34:21.493074561Z",
+  "model": "glm-5.2"
+}

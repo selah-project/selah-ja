@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 19:2",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "三つの町をあなたは自分のために区別しなければならない。ヤハウェ・あなたのエロヒムがあなたに与えておられる、あなたの地のただ中に、あなたがそれを継承するために。",
+  "tokens": [
+    {
+      "surface": "שלוש",
+      "gloss": "三つの"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "町"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "あなたは区別する"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "〜のただ中に"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "あなたの地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えておられる"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "それを継承するために"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:24.393255938Z",
+  "model": "glm-5.2"
+}

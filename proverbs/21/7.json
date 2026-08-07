@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "悪者たちの暴虐は彼らを引きずり去る、彼らが公正を行うことを拒んだからである。",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "暴虐は"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たちの"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "彼らを引きずり去る"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "拒んだ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行うことを"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公正"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:45.003564427Z",
+  "model": "glm-5.2"
+}

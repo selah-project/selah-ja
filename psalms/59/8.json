@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "見よ、彼らは口で噴き出し、彼らの唇には剣がある。「だれが聞くのか」と。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "彼らは噴き出す"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "口で"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "剣（複数）"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "彼らの唇には"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "מי",
+      "gloss": "だれが"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞く"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:48.275752265Z",
+  "model": "glm-5.2"
+}

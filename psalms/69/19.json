@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "私のנַפְשִׁי（いのち）に近づき、それを贖ってください — 私の敵のゆえに、私を ransom してください。",
+  "tokens": [
+    {
+      "surface": "קָרְבָ֣ה",
+      "gloss": "近づいてください"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "נַפְשִׁ֣י",
+      "gloss": "私のנַפְשִׁי（いのち）"
+    },
+    {
+      "surface": "גְאָלָ֑הּ",
+      "gloss": "それを贖ってください"
+    },
+    {
+      "surface": "לְמַ֖עַן",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "אֹיְבַ֣י",
+      "gloss": "私の敵"
+    },
+    {
+      "surface": "פְּדֵֽנִי",
+      "gloss": "私を ransom してください"
+    }
+  ],
+  "timestamp": "2026-08-07T18:40:39.727611879Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "わたしは義を大いなる集会で告げ知らせた。見よ、わたしの唇をわたしは閉じなかった。ヤハウェ、あなたは知っておられる。",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "わたしは告げ知らせた"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "義を"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "集会で"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "わたしの唇を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "わたしは閉じなかった"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "知っておられる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:10.478656741Z",
+  "model": "glm-5.2"
+}

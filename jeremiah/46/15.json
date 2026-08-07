@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 46:15",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "なぜあなたの雄牛はかき落とされたのか。⟨彼らは⟩ 立っていられなかった。ヤハウェが ⟨彼らを⟩ 押しのけられたからだ。",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "נסחף",
+      "gloss": "かき落とされた"
+    },
+    {
+      "surface": "אביריך",
+      "gloss": "あなたの雄牛"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "立った"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "押しのけられた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:56:33.252762486Z",
+  "model": "glm-5.2"
+}

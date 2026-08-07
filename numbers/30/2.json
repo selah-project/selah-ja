@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 30:2",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "モーシェはイスラエルの子らの部族の長たちに向かって語り、言った。「これはヤハウェが命じられた事柄である。」",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "長たち"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "部族の"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "子らの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "事柄"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:03:54.051646913Z",
+  "model": "glm-5.2"
+}

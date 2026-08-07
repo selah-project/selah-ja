@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 10:23",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして彼らは走り、彼をそこから連れて来た。彼は民の真ん中に立った。そして彼は肩から上において、全民の中で最も高かった。",
+  "tokens": [
+    {
+      "surface": "וירצו",
+      "gloss": "そして彼らは走った"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "そして…彼を連れ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "そして…立った"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "…の真ん中に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "ויגבה",
+      "gloss": "そして…高かった"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "משכמו",
+      "gloss": "彼の肩から"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "上において"
+    }
+  ],
+  "timestamp": "2026-08-07T10:42:30.627336507Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "若者であった⟨⟩、また老いた、しかし⟨私は⟩見なかった — 正しい者が見捨てられたことを、また⟨彼の⟩子孫がパンを求めることを。",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "若者"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "私は〜であった"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "老いた"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しい者"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "見捨てられた"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "そして彼の子孫"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "求める"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:33.472009485Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてあなたは哀歌を取り上げよ。イスラエルの君主たちに向かって。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "そしてあなたは"
+    },
+    {
+      "surface": "שא",
+      "gloss": "取り上げよ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "哀歌"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "君主たちの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:06:26.227202975Z",
+  "model": "glm-5.2"
+}

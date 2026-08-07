@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼は言った、「お願いします、アドナイ、どうかあなたの送る⟨者⟩の手によって⟨を⟩お送りください」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "בי",
+      "gloss": "お願いします"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "送ってください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手によって"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "あなたが送る（者）"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:22.195929203Z",
+  "model": "glm-5.2"
+}

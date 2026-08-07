@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてノアはヤハウェの目に恵みを見いだした。",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "そしてノアは"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "見いだした"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恵み"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "〜の目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T18:25:06.869157017Z",
+  "model": "glm-5.2"
+}

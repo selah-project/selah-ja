@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして、あなたの隣人について偽りの証人として答えてはならない。",
+  "tokens": [
+    {
+      "surface": "וְלֹא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תַעֲנֶה",
+      "gloss": "答える"
+    },
+    {
+      "surface": "בְרֵעֲךָ",
+      "gloss": "あなたの隣人について"
+    },
+    {
+      "surface": "עֵד",
+      "gloss": "証人"
+    },
+    {
+      "surface": "שָׁוְא",
+      "gloss": "偽りの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:17.708093076Z",
+  "model": "glm-5.2"
+}

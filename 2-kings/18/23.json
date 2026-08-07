@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 18:23",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "だから今、どうか私の主、アシュルの王に⟨את⟩人質を差し出せ。そうすれば、私はあなたに二千頭の馬を与えよう。もしあなたにそのための騎手を用意する力があるならば。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "だから今"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "差し出せ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人質"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "私の主"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "〜の王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アシュル"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "私は与えよう"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "二千"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "あなたに力があるならば"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "用意する"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "騎手"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "その上に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:58.911754697Z",
+  "model": "glm-5.2"
+}

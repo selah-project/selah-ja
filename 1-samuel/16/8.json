@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 16:8",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてイシュサイはアビナダブを呼び、彼をシュムエルの前に通した。彼は言った、「この者にも、ヤハウェは選ばれなかった」。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "そして⋯は呼んだ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "イシュサイ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⋯に"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "アビナダブ"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "そして彼を通した"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⋯の前に"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエル"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⋯もまた"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "この者に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⋯ない"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "選ばれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:34.688581290Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "イスラエルの子らは海のただ中の乾いた地に入った。水は彼らの右と左にとって壁となった。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "入った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ただ中の"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "乾いた地"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "水は"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らにとって"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "壁"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "右"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "左"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:25.097134939Z",
+  "model": "glm-5.2"
+}

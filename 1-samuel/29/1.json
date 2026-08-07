@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてペリシュテ人は⟨את⟩すべての陣営をアフェクに集めた。そしてイスラエルはエズレルにある泉に宿営していた。",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "そして集めた"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシュテ人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての陣営"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "彼らの陣営"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "アフェクに"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "そしてイスラエルは"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "宿営していた"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "泉に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "エズレルにある"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:16.111971298Z",
+  "model": "glm-5.2"
+}

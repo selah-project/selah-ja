@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 16:17",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてアハズ王は⟨את⟩台の縁飾りを切り取り、それらから⟨את⟩洗盤を取り除き、その下にあった青銅の牛から⟨את⟩海を下ろして、それを石の敷石の上に置いた。",
+  "tokens": [
+    {
+      "surface": "ויקצץ",
+      "gloss": "切り取り"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "アハズ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "台の縁飾り"
+    },
+    {
+      "surface": "המסגרות",
+      "gloss": "縁飾り"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "台の"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "取り除き"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "それらから"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "洗盤"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "洗盤"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "下ろし"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "その下に"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ それ",
+      "marks": "それ（海）"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "מרצפת",
+      "gloss": "敷石"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:17.120080919Z",
+  "model": "glm-5.2"
+}

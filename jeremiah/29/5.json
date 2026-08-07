@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "家々を建てて、⟨そこに⟩住み着き、園を植えて、⟨את⟩その実を食べよ。",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "建てよ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "家々を"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "そして住み着け"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "そして植えよ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "園を"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "そして食べよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その実"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "その実を"
+    }
+  ],
+  "timestamp": "2026-08-07T14:33:47.121018781Z",
+  "model": "glm-5.2"
+}

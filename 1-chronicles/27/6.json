@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 27:6",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "この者は、三十人の勇士のベナヤであり、かつ三十人の上に⟨あった⟩。彼の部門には彼の子アミザバドが⟨いた⟩。",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "この者は"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "ベナヤ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "三十人の"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして⋯の上に"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "三十人の"
+    },
+    {
+      "surface": "ומחלקתו",
+      "gloss": "そして彼の部門には"
+    },
+    {
+      "surface": "עמיזבד",
+      "gloss": "アミザバド"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の子"
+    }
+  ],
+  "timestamp": "2026-08-07T14:09:09.780520837Z",
+  "model": "glm-5.2"
+}

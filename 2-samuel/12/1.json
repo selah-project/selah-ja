@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "ヤハウェはナタンを⟨את⟩ダヴィドのところに遣わした。彼はそのもとに来て、彼に言った。「ある一つの町にふたりの人がいた。ひとりは富んでおり、ひとりは貧しかった。」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "遣わした"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナタン"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ナタン"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところに"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼のもとに"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ふたりの"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人が"
+    },
+    {
+      "surface": "היו",
+      "gloss": "いた"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町に"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ひとりは"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "富んでおり"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ひとりは"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "貧しかった"
+    }
+  ],
+  "timestamp": "2026-08-07T10:52:36.205535708Z",
+  "model": "glm-5.2"
+}

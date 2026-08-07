@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 10:5",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてケルビムの翼の音は外の庭にまで聞こえた—エル・シャッダイが語られるときの声のようであった。",
+  "tokens": [
+    {
+      "surface": "וקול",
+      "gloss": "そして…音"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "翼の"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ケルビムの"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "聞こえた"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜にまで"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭"
+    },
+    {
+      "surface": "החיצנה",
+      "gloss": "外の"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "〜の声のよう"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "シャッダイ"
+    },
+    {
+      "surface": "בדברו",
+      "gloss": "彼が語られるとき"
+    }
+  ],
+  "timestamp": "2026-08-07T12:03:06.575737858Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして兄たちは彼をねたんだ。しかし父は⟨その⟩ことばを守った。",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "そして彼らはねたんだ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼を"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "兄たちは"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "しかし父は"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "守った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ことば"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ことばを"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:10.939384879Z",
+  "model": "glm-5.2"
+}

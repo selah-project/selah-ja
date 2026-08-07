@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 26:13",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "ダビデは⟨向こう側⟩に渡り、遠く離れた山の頂に立った。⟨彼ら⟩の間には距離が大きかった。",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "渡った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "⟨向こう側⟩に"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "立った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頂"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "その山の"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "遠く離れた"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大きかった"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "距離⟨は⟩"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "彼らの間に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:55.959061646Z",
+  "model": "glm-5.2"
+}

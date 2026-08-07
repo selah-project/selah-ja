@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "見よ、ヤハウェが地を空っぽにし、これを荒廃させ、その面を歪め、その住民を散らす。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "空っぽにし"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "これを荒廃させ"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "歪め"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "その面を"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "散らす"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "その住民を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:30.653887988Z",
+  "model": "glm-5.2"
+}

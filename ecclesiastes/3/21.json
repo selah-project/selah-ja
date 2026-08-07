@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "誰が知っているか、人の子らのルーアハが上へと上る ⟨のか⟩、そして獣のルーアハが下へと地へと下る ⟨のか⟩を。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "知っているか"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ルーアハ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "～の子らの"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "上る"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "上へと"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "そして～のルーアハ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "獣"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "下る"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "下へと"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "地へと"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:41.784809821Z",
+  "model": "glm-5.2"
+}

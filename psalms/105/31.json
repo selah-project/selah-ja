@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "ヤハウェは仰せになった、そして来た、アロブが — キニムが、彼らの全域の領土に。",
+  "tokens": [
+    {
+      "surface": "אָ֭מַר",
+      "gloss": "仰せになった"
+    },
+    {
+      "surface": "וַיָּבֹ֣א",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "עָרֹ֑ב",
+      "gloss": "アロブが"
+    },
+    {
+      "surface": "כִּ֝נִּ֗ים",
+      "gloss": "キニムが"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "〜のすべての"
+    },
+    {
+      "surface": "גְּבוּלָֽם",
+      "gloss": "領土に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:56.202732192Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 17:24",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "モーシェは ⟨את⟩ すべての杖をヤハウェの前からイスラエルのすべての子らのところへ持ち出した。彼らは見、そしておのおのその杖を取った。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "持ち出した"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての杖"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "杖"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "〜の前から"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "見"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "取った"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "その杖を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:57:50.889197339Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "彼らは自分たちの渇望から離れなかった。食物がなお彼らの口のうちにあった――",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "離れた"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "彼らの渇望から"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "なお"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "彼らの食物"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "彼らの口のうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:47.419198710Z",
+  "model": "glm-5.2"
+}

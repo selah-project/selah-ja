@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "「見よ、日々が来る、ヤハウェの御告げ。わたしはイスラエルの家 ⟨את⟩ とユダの家 ⟨את⟩ とに新しい契約を結ぶ。」",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々が"
+    },
+    {
+      "surface": "באים",
+      "gloss": "来る"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "〜の御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "わたしは結ぶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ユダの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約を"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "新しい"
+    }
+  ],
+  "timestamp": "2026-08-07T11:50:11.180073846Z",
+  "model": "glm-5.2"
+}

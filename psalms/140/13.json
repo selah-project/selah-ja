@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 140,
+  "translation": "私は知っている、ヤハウェが ⟨のために⟩ 裁きをなさると、苦しむ者の、貧しい者の ⟨ための⟩ 裁きを。",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "私は知っている"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "なさる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "דין",
+      "gloss": "裁きを"
+    },
+    {
+      "surface": "עני",
+      "gloss": "苦しむ者の"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "裁きを"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "貧しい者の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:10.099417718Z",
+  "model": "glm-5.2"
+}

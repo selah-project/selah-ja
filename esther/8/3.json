@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "エステルはさらに加えて王の前に語り、彼の足元にひれ伏した。そして泣き、彼に嘆願した――⟨את⟩ハマン・ハアガギ人の悪事と、彼がユダヤ人の上に企てたその謀議を取り除くために。",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "そして〜加えた"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "エステルは"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "そして〜語った"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "そして〜ひれ伏した"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "彼の足"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "そして〜泣いた"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "そして〜嘆願した"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "取り除くために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "悪事"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "悪事"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ハマンの"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "ハアガギ人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その謀議"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "その謀議"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "企てた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ユダヤ人"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:49.354404719Z",
+  "model": "glm-5.2"
+}

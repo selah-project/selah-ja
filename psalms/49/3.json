@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "アダムの子らも、イシュの子らも、ともに、富める者と乏しき者。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "アダム"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "איש",
+      "gloss": "イシュ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ともに"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "富める者"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "乏しき者"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:08.394649195Z",
+  "model": "glm-5.2"
+}

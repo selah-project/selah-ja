@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 34:20",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "瞬時に彼らは死に、真夜中に民は揺さぶられ、彼らは過ぎ去る。そして力ある者を、人の手 ⟨によらず⟩ 取り除く。",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "瞬時に"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "彼らは死に"
+    },
+    {
+      "surface": "וחצות",
+      "gloss": "そして真夜中に"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜の"
+    },
+    {
+      "surface": "יגעשו",
+      "gloss": "揺さぶられ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "そして彼らは過ぎ去る"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "そして取り除く"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "力ある者を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手によって"
+    }
+  ],
+  "timestamp": "2026-08-07T13:28:58.293799324Z",
+  "model": "glm-5.2"
+}

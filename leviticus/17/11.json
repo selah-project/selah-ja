@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 17:11",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "肉の命（ネフェシュ）は血のうちにあり、わたしはあなたがたの命（ネフェシュ）のために贖いをするため、それを祭壇の上にあなたがたに与えたからである。血こそ、命（ネフェシュ）によって贖いをする。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "命"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "肉の"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "血のうちに"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ある"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "そしてわたしは"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "それを与えた"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "贖いをするため"
+    },
+    {
+      "surface": "על",
+      "gloss": "…のため"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "あなたがたの命"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それが"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "命によって"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "贖いをする"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:51.519809344Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして雨が地の上に、四十日と四十夜あった。",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִ֥י",
+      "gloss": "そして〜があった"
+    },
+    {
+      "surface": "הַגֶּ֖שֶׁם",
+      "gloss": "雨"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אַרְבָּעִ֣ים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "י֔וֹם",
+      "gloss": "日"
+    },
+    {
+      "surface": "וְאַרְבָּעִ֖ים",
+      "gloss": "と四十"
+    },
+    {
+      "surface": "לָֽיְלָה",
+      "gloss": "夜"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:14.367693809Z",
+  "model": "glm-5.2"
+}

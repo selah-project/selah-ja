@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 14:2",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "シャウルはギブアの端、ミグロンにあるザクロの木の下に座していた。彼と共にいた民は約六百人であった。",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "そしてシャウルは"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "座していた"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "…の端に"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "ギブアの"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "…の下に"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "ザクロの木の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "ミグロンにある"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "そしてその民は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共にいた"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "約六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人であった"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:30.382380420Z",
+  "model": "glm-5.2"
+}

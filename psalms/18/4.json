@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "賛美されるお方、わたしはヤハウェを呼び求める — そしてわたしの敵から救われる。",
+  "tokens": [
+    {
+      "surface": "מְהֻלָּל",
+      "gloss": "賛美されるお方"
+    },
+    {
+      "surface": "אֶקְרָא",
+      "gloss": "わたしは呼び求める"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェを"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "そして〜から"
+    },
+    {
+      "surface": "אֹיְבַי",
+      "gloss": "わたしの敵"
+    },
+    {
+      "surface": "אִוָּשֵׁעַ",
+      "gloss": "救われる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:42.855542442Z",
+  "model": "glm-5.2"
+}

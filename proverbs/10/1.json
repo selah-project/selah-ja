@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "シェロモの格言。知恵ある子は父を喜ばせる、だが愚かの子は母の悲しみ⟨である⟩。",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "格言"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモの"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "知恵ある"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "喜ばせる"
+    },
+    {
+      "surface": "אב",
+      "gloss": "父を"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "だが子"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚かな"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "悲しみ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "母の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:17.464811238Z",
+  "model": "glm-5.2"
+}

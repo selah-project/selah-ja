@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "obadiah 1:17",
+  "book": "obadiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてツィヨンの山には、逃れた者たちが⟨いる⟩、それは聖なるものとなる。そしてヤアコブの家は⟨את⟩彼らの所有地を所有する。",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "そして〜の山に"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨン"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "逃れた者たち"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "そして彼らは所有する"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの所有地"
+    },
+    {
+      "surface": "מורשיהם",
+      "gloss": "彼らの所有地"
+    }
+  ],
+  "timestamp": "2026-08-07T12:23:47.172568601Z",
+  "model": "glm-5.2"
+}

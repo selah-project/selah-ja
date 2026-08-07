@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして男たちはヤハウェを⟨את⟩大いなる恐れをもって恐れた。そして彼らはヤハウェに犠牲をささげ、誓いを立てた。",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "そして彼らは恐れた"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "男たちは"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "恐れ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェを"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "そして彼らはささげた"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "犠牲を"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "そして誓いを立てた"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "誓いを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:24:31.922579446Z",
+  "model": "glm-5.2"
+}

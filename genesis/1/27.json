@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてエロヒムは⟨את⟩人をご自身の像に創造された。エロヒムの像に⟨彼は⟩創造した、⟨את⟩彼を。男と女に⟨彼は⟩創造した、⟨את⟩彼らを。",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "そして創造された"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人を"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "ご自身の像に"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "〜の像に"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "創造した"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男と"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "女に"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "創造した"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼らを"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:47.006030034Z",
+  "model": "glm-5.2"
+}

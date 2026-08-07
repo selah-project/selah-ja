@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして⟨את⟩預言者ナタンと、ベナヤフと、⟨את⟩勇士たちと、⟨彼の⟩兄弟シェロモを、⟨彼は⟩呼ばなかった。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "預言者ナタン"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ナタン"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "とベナヤフ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "勇士たち"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "勇士たち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "兄弟シェロモ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "⟨彼の⟩兄弟"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…なかった"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼ば"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:41.443701735Z",
+  "model": "glm-5.2"
+}

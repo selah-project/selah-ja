@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そしてウジは⟨את⟩ゼラフヤを生み、ゼラフヤは⟨את⟩メラヨトを生んだ。",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "そしてウジ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "…を生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ゼラフヤ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ゼラフヤ"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "そしてゼラフヤ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "…を生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "メラヨト"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "メラヨト"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:21.850684183Z",
+  "model": "glm-5.2"
+}

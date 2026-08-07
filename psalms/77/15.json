@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 77,
+  "translation": "あなたは、奇跡を行われるエル ⟨である⟩。あなたは諸国民のうちにあなたの力を知らされた。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "האל",
+      "gloss": "このエル"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行われる"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "奇跡を"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "あなたは知らされた"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "諸国民のうちに"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "あなたの力を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:41.093471711Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてヤハウェは大いなる風を海に投げ入れ、海に大いなる暴風が起こった。その船は、粉砕されようとしていた。",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "そしてヤハウェは"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "投げ入れられた"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風を"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "אל",
+      "gloss": "……に"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして……があった"
+    },
+    {
+      "surface": "סער",
+      "gloss": "暴風が"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "בים",
+      "gloss": "海に"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "そしてその船は"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "……と見なした"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "粉砕される"
+    }
+  ],
+  "timestamp": "2026-08-07T12:24:20.935715028Z",
+  "model": "glm-5.2"
+}

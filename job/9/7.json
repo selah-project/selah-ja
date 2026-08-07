@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "太陽に命じて、それは昇らないようにする方、そして星々を封じられる方、",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "命じて言われる方"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "太陽に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "それは昇る"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "そして〜について"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "星々を"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "封じられる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:12.970734835Z",
+  "model": "glm-5.2"
+}

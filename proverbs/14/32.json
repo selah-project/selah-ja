@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 14:32",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": " ⟨彼の⟩悪によって悪者は突き倒され、そして義人は死において避け所を得る。",
+  "tokens": [
+    {
+      "surface": "בְּֽ֭רָעָתוֹ",
+      "gloss": " ⟨彼の⟩悪において"
+    },
+    {
+      "surface": "יִדָּחֶ֣ה",
+      "gloss": "突き倒される"
+    },
+    {
+      "surface": "רָשָׁ֑ע",
+      "gloss": "悪者"
+    },
+    {
+      "surface": "וְחֹסֶ֖ה",
+      "gloss": "そして避け所を得る"
+    },
+    {
+      "surface": "בְמוֹת֣וֹ",
+      "gloss": " ⟨彼の⟩死において"
+    },
+    {
+      "surface": "צַדּֽיק",
+      "gloss": "義人"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:36.203380272Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 8:16",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてツェルヤの子ヨアブは軍の上に⟨あった⟩。そしてアヒルドの子エホシャファトはマズキール（記録官）であった。",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "そしてヨアブ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ツェルヤ"
+    },
+    {
+      "surface": "על",
+      "gloss": "上に"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "軍"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "そしてエホシャファト"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "アヒルド"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "マズキール（記録官）"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:10.388795489Z",
+  "model": "glm-5.2"
+}

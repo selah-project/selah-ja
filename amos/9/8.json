@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 9:8",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "見よ、アドナイ・ヤハウェの目は罪の王国の上にある。わたしは ⟨それ⟩を地の面から根絶させる。しかし、わたしはヤコブの家を完全に根絶させる ⟨ことはしない⟩、とヤハウェは ⟨仰る⟩。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "目は"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "〜の王国の上に"
+    },
+    {
+      "surface": "החטאה",
+      "gloss": "罪の"
+    },
+    {
+      "surface": "והשמדתי",
+      "gloss": "わたしは根絶させる"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨それ⟩を"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地の"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "しかし"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことはない"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "完全に"
+    },
+    {
+      "surface": "אשמיד",
+      "gloss": "根絶させる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤコブの家を"
+    },
+    {
+      "surface": "בית",
+      "gloss": "〜の家を"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤコブ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "仰る"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:23:47.046840938Z",
+  "model": "glm-5.2"
+}

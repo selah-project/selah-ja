@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして日々ののち、アンモンの人々がイスラエルと戦った。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "日々ののち"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "〜は戦った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の人々"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アンモンの"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:36:16.628981958Z",
+  "model": "glm-5.2"
+}

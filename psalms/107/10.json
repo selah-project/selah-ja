@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "闇と死の陰の座する者たち、苦しみと鉄の捕らわれ人たち。",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "居住者们"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "黑暗"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "与死荫"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "俘虏们"
+    },
+    {
+      "surface": "עני",
+      "gloss": "苦难"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "与铁"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:25.886680974Z",
+  "model": "glm-5.2"
+}

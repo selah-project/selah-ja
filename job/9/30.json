@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "もし私が雪で身を洗い、灰汁で手を白くしても、",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "私が身を洗い"
+    },
+    {
+      "surface": "במו",
+      "gloss": "〜で"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "雪"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "白くしても"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "灰汁で"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "手を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:44.381280968Z",
+  "model": "glm-5.2"
+}

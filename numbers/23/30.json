@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "バラクはビルアムが告げた通りに行い、雄牛と雄羊を⟨各⟩祭壇の上に献げた。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "バラク"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜通りに"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ビルアム"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "そして献げた"
+    },
+    {
+      "surface": "פר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "と雄羊"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "祭壇の上に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:59:49.406179532Z",
+  "model": "glm-5.2"
+}

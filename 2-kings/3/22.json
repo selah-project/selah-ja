@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼らは早朝に起き、太陽が水の上に照り輝いたとき、モアブは向かい側から ⟨את⟩その水を — 血のように赤いのを — 見た。",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "そして彼らは早く起きた"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝に"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "そして太陽は"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "照り輝いた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המים",
+      "gloss": "その水"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "そして彼らは見た"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "向かい側から"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その水"
+    },
+    {
+      "surface": "המים",
+      "gloss": "その水"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "赤い"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "血のように"
+    }
+  ],
+  "timestamp": "2026-08-07T11:11:16.983217485Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "彼らは食を求めてさまよい、もしその飽きることなく、夜を過ごすなら。",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "彼ら"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "さまよう"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "食を求めて"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "飽きる"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "夜を過ごす"
+    }
+  ],
+  "timestamp": "2026-08-07T14:45:25.170208657Z",
+  "model": "glm-5.2"
+}

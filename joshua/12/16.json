@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "マケダ⟨の⟩王、一。ベト・エル⟨の⟩王、一。",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "マケダ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベト"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    }
+  ],
+  "timestamp": "2026-08-07T10:26:46.655324817Z",
+  "model": "glm-5.2"
+}

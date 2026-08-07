@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "初めに、エロヒムが⟨את⟩天と⟨את⟩地を創造した。",
+  "tokens": [
+    {
+      "surface": "בְּרֵאשִׁ֖ית",
+      "gloss": "初めに"
+    },
+    {
+      "surface": "בָּרָ֣א",
+      "gloss": "創造した"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אֵ֥ת",
+      "gloss": "⟨את⟩",
+      "marks": "天"
+    },
+    {
+      "surface": "הַשָּׁמַ֖יִם",
+      "gloss": "天"
+    },
+    {
+      "surface": "וְאֵ֥ת",
+      "gloss": "と⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:40.945698268Z",
+  "model": "glm-5.2"
+}

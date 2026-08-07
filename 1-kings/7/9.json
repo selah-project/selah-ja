@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 7:9",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "これらすべては貴石で、切り石の寸法に従い、鋸で引き削られ、内側にも外側にも⟨施され⟩、土台から腕尺石に至るまで、また外側から大庭に至るまでであった。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "貴石"
+    },
+    {
+      "surface": "כמדת",
+      "gloss": "〜の寸法に従い"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "切り石"
+    },
+    {
+      "surface": "מגררות",
+      "gloss": "引き削られ"
+    },
+    {
+      "surface": "במגרה",
+      "gloss": "鋸で"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "内側に"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "外側にも"
+    },
+    {
+      "surface": "וממסד",
+      "gloss": "土台から"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "הטפחות",
+      "gloss": "腕尺石"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "外側から"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "大"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:36.857949712Z",
+  "model": "glm-5.2"
+}

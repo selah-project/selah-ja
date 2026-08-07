@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 135,
+  "translation": "ヤハウェの家に立つ者たち、私たちのエロヒムの家の庭に立つ者たちよ。",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "立つ者たち"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "〜の家に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "〜の庭に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "私たちのエロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:41.197345640Z",
+  "model": "glm-5.2"
+}

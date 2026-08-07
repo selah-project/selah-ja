@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "ヤハウェから ⟨את⟩ また イェルメヤフ に あった 言葉、すなわち これ：「…」",
+  "tokens": [
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "יִרְמְיָהוּ",
+      "gloss": "イェルメヤフ"
+    },
+    {
+      "surface": "מֵאֵת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "言って"
+    }
+  ],
+  "timestamp": "2026-08-07T18:35:14.830822479Z",
+  "model": "glm-5.2"
+}

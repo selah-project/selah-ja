@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 42:15",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "そして彼は⟨את⟩内部の家の測定を終えた。そして彼は私を、その面が東の方を向いている門の道を通って連れ出した。そして彼はそれを周囲ぐるりと測った。",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "そして彼は終えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "内部の家の測定"
+    },
+    {
+      "surface": "מדות",
+      "gloss": "測定"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "内部の"
+    },
+    {
+      "surface": "והוציאני",
+      "gloss": "そして彼は私を連れ出した"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "〜の道を通って"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "その面は"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "〜の方"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "東"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "そして彼は測った"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ぐるりと"
+    }
+  ],
+  "timestamp": "2026-08-07T12:15:09.693241417Z",
+  "model": "glm-5.2"
+}

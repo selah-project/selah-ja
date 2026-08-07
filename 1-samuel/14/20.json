@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "シャウルと共にいた民の全員が呼び集められ、戦いの場に至った。見よ、各自の剣がその仲間に向けられ、混乱が極めて大きかった。",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "そして呼び集められた"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と共にいた"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "そして至った"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戦いの場"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各自の"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "その仲間に"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "混乱"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大きい"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極めて"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:49.252645469Z",
+  "model": "glm-5.2"
+}

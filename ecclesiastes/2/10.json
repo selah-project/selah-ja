@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 2:10",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "私の目が求めたすべてのものを、私はそれらから拒まなかった。いかなる喜びからも⟨את⟩私の心を留めおかなかった。私の心が私のすべての労苦から喜んだからである。そしてこれが私のすべての労苦からの私の分け前であった。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "求めた"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "私の目が"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אצלתי",
+      "gloss": "私は拒んだ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "それらから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "私は留めた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の心を"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "私の心を"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "いかなる〜からも"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "喜び"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "私の心は"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "喜んだ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "〜すべてから"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "私の労苦"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "そしてこれが"
+    },
+    {
+      "surface": "היה",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "私の分け前"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "〜すべてからの"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "私の労苦"
+    }
+  ],
+  "timestamp": "2026-08-07T14:42:21.651990740Z",
+  "model": "glm-5.2"
+}

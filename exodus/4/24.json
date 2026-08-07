@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして道中、宿場で、ヤハウェは彼に出会い、彼を殺そうとされた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうあった"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道中で"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "宿場で"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "そして彼は彼に出会った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "そして彼は求めた"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "彼を殺すことを"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:52.011154100Z",
+  "model": "glm-5.2"
+}

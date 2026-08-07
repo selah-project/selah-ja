@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 17:1",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "ユダの王アハズの第十二年に、エラの子ホシェアがサマリヤでイスラエルの上に王となり、⟨在位した⟩九年間。",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "〜の年に"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "アハズの"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王となり"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ホシェア"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "エラの"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "サマリヤで"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "九"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-08-07T16:54:01.163366442Z",
+  "model": "glm-5.2"
+}

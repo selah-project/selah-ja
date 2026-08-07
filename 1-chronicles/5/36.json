@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 5:36",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ヨハナンは⟨את⟩アザルヤを生んだ。彼こそ、シュロモがイェルシャライムに建てた家で祭司として仕えた者である。",
+  "tokens": [
+    {
+      "surface": "ויוחנן",
+      "gloss": "そしてヨハナンは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アザルヤ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "アザルヤ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である者"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司として仕えた"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "家で"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライムに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:19.625450942Z",
+  "model": "glm-5.2"
+}

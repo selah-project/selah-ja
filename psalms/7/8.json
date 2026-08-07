@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして諸国民の集会があなたを囲むでしょう。そしてその上に、高き所へ、お戻りください。",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "そして〜の集会が"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "諸国民の"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "あなたを囲むでしょう"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "そしてその上に"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "高き所へ"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "お戻りください"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:09.143057234Z",
+  "model": "glm-5.2"
+}

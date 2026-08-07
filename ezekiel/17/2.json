@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "人の子よ、なぞを語れ、たとえをたとえよ、イスラエルの家に向かって。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "なぞ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "そして…たとえよ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "たとえ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:05:17.672572186Z",
+  "model": "glm-5.2"
+}

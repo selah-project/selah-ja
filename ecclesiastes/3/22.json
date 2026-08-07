@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 3:22",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして私は見た、善いものはいない、人が自分の行いにおいて喜ぶこと以上の ⟨ものは⟩。それは彼の分であるからだ。だからこそ、誰が彼を連れて行って見せよう、彼の後に何があるかを。",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "そして私は見た"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～ことを"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善いもの"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "～以上の"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "喜ぶ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人が"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "自分の行いにおいて"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "彼の分"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だからこそ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "彼を連れて行く"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見るために"
+    },
+    {
+      "surface": "במה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "～であるか"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "彼の後に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:41.785070472Z",
+  "model": "glm-5.2"
+}

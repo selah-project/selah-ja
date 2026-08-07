@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "もし角笛が町で吹き鳴らされ、民が震えないことがあるか。もし災いが町に起こることがあれば、それはヤハウェがなさったのではないか。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "吹き鳴らされる"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "角笛が"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町で"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "そして民が"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "震える"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "起こることがある"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "災いが"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町に"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "そしてヤハウェ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "なさった"
+    }
+  ],
+  "timestamp": "2026-08-07T12:21:17.230775642Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 99,
+  "translation": "ヤハウェは王座に就かれた、諸国の民は震える。ケルビムに座す方、地は揺れ動く。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王座に就かれた"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "震える"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "諸国の民"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "座す方"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ケルビム"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "揺れ動く"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T17:21:17.614429087Z",
+  "model": "glm-5.2"
+}

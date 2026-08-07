@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "ハマン — ハメダタの子、ユダヤ人の敵 — の十人の息子を殺した。しかし彼らは略奪品⟨に対して⟩手⟨を⟩差し伸べなかった。",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "十人の"
+    },
+    {
+      "surface": "בני",
+      "gloss": "息子"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ハマン"
+    },
+    {
+      "surface": "בן",
+      "gloss": "の子"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ハメダタ"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "敵"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ユダヤ人の"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "殺した"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "しかし略奪品⟨に対して⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "差し伸べた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "手"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "手"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:57.765608867Z",
+  "model": "glm-5.2"
+}

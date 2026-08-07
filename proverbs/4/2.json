@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "わたしはあなたがたに良い教えを与えた。わたしのトルァーを捨てるな。",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": " ибо\/因为"
+    },
+    {
+      "surface": "לֶ֣קַח",
+      "gloss": "教え"
+    },
+    {
+      "surface": "ט֭וֹב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "נָתַ֣תִּי",
+      "gloss": "わたしは与えた"
+    },
+    {
+      "surface": "לָכֶ֑ם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "תּֽ֝וֹרָתִ֗י",
+      "gloss": "わたしのトルァー"
+    },
+    {
+      "surface": "אַֽל",
+      "gloss": "〜するな"
+    },
+    {
+      "surface": "תַּעֲזֹֽבוּ",
+      "gloss": "捨てては"
+    }
+  ],
+  "timestamp": "2026-08-07T17:24:21.961732328Z",
+  "model": "glm-5.2"
+}

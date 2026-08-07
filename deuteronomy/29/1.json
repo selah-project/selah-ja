@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 29:1",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてモーシェは全イスラエルを呼び集め、彼らに言った。あなたたちは、ヤハウェがあなたたちの目の前でエジプトの地においてパロと、そのすべてのしもべたちと、そのすべての地に行なったこと、⟨את⟩すべてのことを見た。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "そして…呼び集めた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたたちは"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのこと"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…こと"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行なった"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "あなたたちの目の前で"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "…地において"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "エジプトの"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "パロに"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "そして…全…に"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "そのしもべたち"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "そして…全…に"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "その地"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:42.930356816Z",
+  "model": "glm-5.2"
+}

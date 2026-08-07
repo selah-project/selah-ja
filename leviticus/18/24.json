@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 18:24",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "すべてこれらのことで汚れてはならない。すべてこれらのことで、私があなたがたの前から追い払っている諸国の民が汚れたのだから。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "汚れてはならない"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべて〜において"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべて〜において"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "נטמאו",
+      "gloss": "汚れた"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "諸国の民"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私が"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "追い払っている"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "あなたがたの前から"
+    }
+  ],
+  "timestamp": "2026-08-07T16:31:06.809500626Z",
+  "model": "glm-5.2"
+}

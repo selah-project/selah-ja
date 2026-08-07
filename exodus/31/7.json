@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "⟨את⟩ 会見の天幕と、⟨את⟩ あかしの箱と、⟨את⟩ その上にある贖罪蓋と、⟨את⟩ 天幕のすべての器具を",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "会見の天幕"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "あかしの箱"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "箱"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "あかしの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "贖罪蓋"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "贖罪蓋"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上にある"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "天幕のすべての器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "天幕の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:59.302312765Z",
+  "model": "glm-5.2"
+}

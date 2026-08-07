@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "基が破壊されるとき — ⟨そのとき⟩正しい者は、何をなしたのか？」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "（というのは \/ 〜するとき）"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "基が"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "破壊される"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しい者は"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "なしたのか"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:17.068779577Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "かくてエロヒムは⟨את⟩あなたたちの父の家畜を奪い、⟨私に⟩与えてくださった。",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "奪った"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたたちの父の家畜"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "あなたたちの父の"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:02:16.456812152Z",
+  "model": "glm-5.2"
+}

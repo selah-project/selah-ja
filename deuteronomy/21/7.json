@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして答えて言う——「私たちの手はこの血を注がず、⟨את⟩この血を、そして私たちの目は見なかった。」",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "そして答えて"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "言う"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "私たちの手は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "注がず"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この血を"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "そして私たちの目は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～なかった"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "見"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:55.126766709Z",
+  "model": "glm-5.2"
+}

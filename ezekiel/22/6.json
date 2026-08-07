@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 22:6",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "見よ、イスラエルの君主たち、各々その腕に応じてあなたのうちにおり、血を流すために⟨⟩。",
+  "tokens": [
+    {
+      "surface": "הִנֵּה֙",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נְשִׂיאֵ֣י",
+      "gloss": "君主たちの"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "各々"
+    },
+    {
+      "surface": "לִזְרֹע֖וֹ",
+      "gloss": "その腕に応じて"
+    },
+    {
+      "surface": "הָ֣יוּ",
+      "gloss": "いた"
+    },
+    {
+      "surface": "בָ֑ךְ",
+      "gloss": "あなたのうちに"
+    },
+    {
+      "surface": "לְמַ֖עַן",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "שְׁפָךְ",
+      "gloss": "流す"
+    },
+    {
+      "surface": "דָּֽם",
+      "gloss": "血"
+    }
+  ],
+  "timestamp": "2026-08-07T12:07:27.363641795Z",
+  "model": "glm-5.2"
+}

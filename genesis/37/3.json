@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そしてイスラエルは愛した、⟨את⟩ ヨセフを、そのすべての子のうちで。彼は彼に年老いての子であったから。そして彼は彼のために作った、パスの衣を。",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "そしてイスラエル"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨセフ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "〜のすべての〜のうちで"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "老い"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "そして作った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "衣"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "パス"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:17.661446623Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてダビデの子である王シャロモは、エホヤダの子ベナヤフの手によって遣わした。そして彼は彼に撃ちかかり、彼は死んだ。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…遣わした"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シャロモ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…の手によって"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "ベナヤフ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "エホヤダ"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "そして彼は撃ちかかった"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして彼は死んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:56.422457881Z",
+  "model": "glm-5.2"
+}

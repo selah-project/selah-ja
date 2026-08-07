@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そしてヨアシュは、祭司エホヤダのすべての日の間、ヤハウェの目に正しいことを行った。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして⋯を行った"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ヨアシュ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "正しいこと"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⋯の目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "⋯の日"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "エホヤダ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    }
+  ],
+  "timestamp": "2026-08-07T14:15:52.028774736Z",
+  "model": "glm-5.2"
+}

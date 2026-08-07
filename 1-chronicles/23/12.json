@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "ケハトの子：アムラム、イツハル、ヘブロン、ウジエル、四人。",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "קְהָ֗ת",
+      "gloss": "ケハト"
+    },
+    {
+      "surface": "עַמְרָ֥ם",
+      "gloss": "アムラム"
+    },
+    {
+      "surface": "יִצְהָ֛ר",
+      "gloss": "イツハル"
+    },
+    {
+      "surface": "חֶבְר֥וֹן",
+      "gloss": "ヘブロン"
+    },
+    {
+      "surface": "וְעֻזִּיאֵ֖ל",
+      "gloss": "ウジエル"
+    },
+    {
+      "surface": "אַרְבָּעָֽה",
+      "gloss": "四人"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:51.092336041Z",
+  "model": "glm-5.2"
+}

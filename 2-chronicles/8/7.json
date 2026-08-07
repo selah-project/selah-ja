@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "イスラエルの⟨人々⟩ではない彼ら — すなわちヒッテ人、エモリ人、ペリジ人、ヒビ人、エブス人から残された民のすべて。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "残された"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ヒッテ人"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "およびエモリ人"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "およびペリジ人"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "およびヒビ人"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "およびエブス人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼ら"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:42.771843186Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 35:31",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そして身代金を受け取ってはならない ――死ぬべき者、その者こそ悪である殺人者の命のため ――なぜなら彼は必ず死ななければならないからである。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "あなたがたは受け取ってはならない"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "身代金"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "…の命のため"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "殺人者"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "その者こそ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "למות",
+      "gloss": "死ぬべき"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "מות",
+      "gloss": "必ず…死ぬ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "死ななければならない"
+    }
+  ],
+  "timestamp": "2026-08-07T10:05:33.494860032Z",
+  "model": "glm-5.2"
+}

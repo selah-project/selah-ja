@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "ルベンは生きよ、そして死ぬな。そして彼の男子⟨の数⟩は数（少人数）であるように。",
+  "tokens": [
+    {
+      "surface": "יְחִ֥י",
+      "gloss": "生きよ"
+    },
+    {
+      "surface": "רְאוּבֵ֖ן",
+      "gloss": "ルベンは"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "そして〜な"
+    },
+    {
+      "surface": "יָמֹ֑ת",
+      "gloss": "死ぬ"
+    },
+    {
+      "surface": "וִיהִ֥י",
+      "gloss": "そして〜であるように"
+    },
+    {
+      "surface": "מְתָ֖יו",
+      "gloss": "彼の男子"
+    },
+    {
+      "surface": "מִסְפָּֽר",
+      "gloss": "数"
+    }
+  ],
+  "timestamp": "2026-08-07T10:21:25.487561881Z",
+  "model": "glm-5.2"
+}

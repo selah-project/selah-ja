@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "もしそれが食べられることになって、三日目⟨に⟩食べられるなら、それは忌むべきものである。受け入れられない。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "食べること"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べられるなら"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三の"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "忌むべきもの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "受け入れられる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:36.709700190Z",
+  "model": "glm-5.2"
+}

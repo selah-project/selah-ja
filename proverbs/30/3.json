@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そしてわたしは知恵を学ばず、聖なる者たちの知識も、わたしは知らない。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "～ず"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "わたしは学んだ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵を"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "知識も"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "聖なる者たちの"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "わたしは知る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:36.757746752Z",
+  "model": "glm-5.2"
+}

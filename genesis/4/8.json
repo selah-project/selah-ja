@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 4:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてカインは兄弟ヘベルに言った。そして彼らが野にいたとき、カインは兄弟ヘベルに向かって立ち上がり、彼を殺した。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "קין",
+      "gloss": "カイン"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ヘベル"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄弟"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして…なった"
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "彼らが…いるとき"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "野に"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "そして…立ち上がった"
+    },
+    {
+      "surface": "קין",
+      "gloss": "カイン"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に向かって"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ヘベル"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄弟"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "そして彼を殺した"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:58.414014694Z",
+  "model": "glm-5.2"
+}

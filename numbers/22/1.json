@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 22:1",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そしてイスラエルの子らは旅立ち、ヨルダンの向こう、エリコの向こう岸のモアブの草原に宿営した。",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "そして旅立った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "そして宿営した"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "…の草原に"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "向こう"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "ヨルダンの"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "エリコの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:23:50.626786061Z",
+  "model": "glm-5.2"
+}

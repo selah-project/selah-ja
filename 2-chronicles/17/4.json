@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "すなわち、彼は彼の父のエロヒムに尋ね求め、その命令に歩んだからである。そしてイスラエルの行いのよう ⟨に⟩ ⟨では⟩ なかった。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "〜のエロヒムに"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "尋ね求めた"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "そしてその命令に"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "歩んだ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "〜の行いのように"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:45.796107349Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ゼルバベル、ユダの総督に告げて言え。わたしは⟨את⟩天と⟨את⟩地を揺り動かしている、と。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "告げよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "ゼルバベル"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "総督"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "揺り動かしている"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "天"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T12:29:37.355479863Z",
+  "model": "glm-5.2"
+}

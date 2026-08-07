@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そして彼に兄弟たちがなければ、あなたがたは⟨את⟩彼の嗣業を彼の父の兄弟たちに与えよ。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "兄弟たち"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "あなたがたは与えよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の嗣業"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "彼の嗣業"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "〜の兄弟たちに"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    }
+  ],
+  "timestamp": "2026-08-07T14:24:13.496196813Z",
+  "model": "glm-5.2"
+}

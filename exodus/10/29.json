@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "モーシェは言った。「そのように⟨あなたは⟩語った。私はもう二度とあなたの顔を見⟨ない⟩。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "あなたは語った"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "再加えない"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もう二度と"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "見ること"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの顔"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:20.107792927Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "祭壇の場所へ — ⟨そこ⟩に ⟨彼が⟩初めに作ったもの — そしてアブラムはそこでヤハウェの御名によって呼んだ。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "場所"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "彼が作った"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこ"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "初めに"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして…呼んだ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "アブラムは"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "…の御名によって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:53.222929153Z",
+  "model": "glm-5.2"
+}

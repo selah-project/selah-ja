@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてシェロモがすべてのイスラエルの上に、イェルシャライムにおいて王であった日数は、四十年であった。",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "そして日数"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王であった"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモが"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライムにおいて"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:28.635881545Z",
+  "model": "glm-5.2"
+}

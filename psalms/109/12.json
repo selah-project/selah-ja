@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 109,
+  "translation": "彼にヘセドを引き出す者がいないように。また彼の孤児たちに恵みを施す者がいないように。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "あれ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "משך",
+      "gloss": "引き出す者が"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ヘセドを"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜ないように"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "あれ"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "恵みを施す者が"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "彼の孤児たちに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:10.884149107Z",
+  "model": "glm-5.2"
+}

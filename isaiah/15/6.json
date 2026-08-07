@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 15:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "ニムリムの水は荒涼となるからだ。草は枯れ、若草は尽き、青草はもはやない。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "מי",
+      "gloss": "水"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "ニムリムの"
+    },
+    {
+      "surface": "משמות",
+      "gloss": "荒涼"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "となる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "枯れ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草は"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "尽き"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "若草は"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "青草"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "היה",
+      "gloss": "もはやない"
+    }
+  ],
+  "timestamp": "2026-08-07T11:24:40.513954493Z",
+  "model": "glm-5.2"
+}

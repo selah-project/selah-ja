@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてあなたがたは守り行う、⟨את⟩すべての掟と⟨את⟩定めを — これらを私があなたがたの前に置く、今日。",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "そしてあなたがたは守る"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行うために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての掟"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "掟"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "定め"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "定め"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "置く"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "あなたがたの前に"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    }
+  ],
+  "timestamp": "2026-08-07T10:10:45.598525774Z",
+  "model": "glm-5.2"
+}

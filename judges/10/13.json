@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 10:13",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてあなたたちは ⟨את⟩ わたしを捨て、他の エロヒム に仕えた。それゆえ、わたしはもはやあなたたちを救い出さない。",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "そしてあなたたちは"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "捨てた"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "わたしを"
+    },
+    {
+      "surface": "ותעבדו",
+      "gloss": "そして仕えた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "他の"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "もはや～しない"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "救い出す"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたたちを"
+    }
+  ],
+  "timestamp": "2026-08-07T14:25:11.631777461Z",
+  "model": "glm-5.2"
+}

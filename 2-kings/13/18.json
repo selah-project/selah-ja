@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして彼は言った。「矢を取れ。」そして彼は取った。そして彼はイスラエルの王に言った。「地を打て。」そして彼は三度打ち、立ち止まった。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "קח",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "矢を"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして彼は取った"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "הך",
+      "gloss": "打て"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地を"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "そして彼は打った"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "度"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "そして立ち止まった"
+    }
+  ],
+  "timestamp": "2026-08-07T11:15:15.319713733Z",
+  "model": "glm-5.2"
+}

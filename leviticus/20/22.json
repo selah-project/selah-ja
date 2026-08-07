@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 20:22",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "あなたたちはわたしのすべての掟とすべての裁きを守り、それを行わなければならない。そうすれば、わたしがあなたたちを導き入れてそこに住まわせる地は、あなたたちを吐き出さないであろう。",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "あなたたちは守れ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての掟"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "わたしの掟"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "すべての裁き"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "わたしの裁き"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "あなたたちは行え"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それら"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "吐き出す"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたたちを"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたし⟨が⟩"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "導き入れる"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたたちを"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこへ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "住むために"
+    },
+    {
+      "surface": "בה",
+      "gloss": "それ⟨に⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:14.131693368Z",
+  "model": "glm-5.2"
+}

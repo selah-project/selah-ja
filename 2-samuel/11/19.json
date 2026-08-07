@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして彼は⟨その⟩使者に命じて言った——「あなたが⟨その⟩戦のすべての事柄を語り終えたなら、⟨その⟩王に語るとき、",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "そして…命じた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その使者"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "その使者"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "…と言って"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "あなたが…終えるなら"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "…の事柄"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "その戦"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "…語るために"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "その王"
+    }
+  ],
+  "timestamp": "2026-08-07T10:52:14.812868030Z",
+  "model": "glm-5.2"
+}

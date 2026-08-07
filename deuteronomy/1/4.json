@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "彼が⟨打ち破った⟩後のことである――⟨את⟩ヘシュボンに住むアモリ人 の王シホン、および⟨את⟩アシュタロトのエドレイに住むバシャンの王オグを。",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "後のことである"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "⟨打ち破った⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シホン"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "シホン"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "アモリ人 の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "―"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "住む"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "ヘシュボンに"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "オグ"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "オグ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "バシャンの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "―"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "住む"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "アシュタロトの"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "エドレイに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:17.455388105Z",
+  "model": "glm-5.2"
+}

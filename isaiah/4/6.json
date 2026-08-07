@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして仮庵が昼の暑さからの陰となり、避難所また隠れ場となって、暴風と雨から⟨守る⟩。",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "そして仮庵"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "陰として"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "昼の"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "暑さからの"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "また避難所として"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "また隠れ場として"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "暴風からの"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "そして雨からの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:04.354189045Z",
+  "model": "glm-5.2"
+}

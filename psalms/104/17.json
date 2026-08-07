@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "そこに鳥たちは巣を作り、コウノトリは柏の木に⟨自分の⟩家とする。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "鳥たち"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "巣を作る"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "コウノトリ"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "柏の木"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "彼女の家"
+    }
+  ],
+  "timestamp": "2026-08-07T12:59:05.279581360Z",
+  "model": "glm-5.2"
+}

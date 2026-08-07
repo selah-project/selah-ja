@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてノアハ、土の人が、始めた。そして⟨彼は⟩ぶどう園を植えた。",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "そして始めた"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノアハ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土の"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "そして植えた"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ぶどう園"
+    }
+  ],
+  "timestamp": "2026-08-07T16:22:40.427596532Z",
+  "model": "glm-5.2"
+}

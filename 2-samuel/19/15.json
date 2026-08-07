@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして彼はユダのすべての人の心をひとりの人のようにかたむけた。そして彼らは王に遣わした。「あなた、およびあなたのすべてのしもべは、帰れ。」",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "そして彼はかたむけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ユダのすべての人の心"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ひとりの人のように"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ひとりの"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "そして彼らは遣わした"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "帰れ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "およびすべての"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "あなたのしもべ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:55:40.691888126Z",
+  "model": "glm-5.2"
+}

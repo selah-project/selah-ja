@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "わたしはあなたを、また ⟨את⟩ この都市をアシュルの王の手から救い出し、この都市を守る。」",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "そして〜の手から"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アシュル"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "わたしはあなたを救い出す"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "この都市"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "この都市"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "そしてわたしは守る"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "都市"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T11:29:26.921612974Z",
+  "model": "glm-5.2"
+}

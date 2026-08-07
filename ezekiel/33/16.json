@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 33:16",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "彼が犯したすべての罪は彼に覚えられない。裁きと義を行った、必ず生きる。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "彼の罪"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "…した"
+    },
+    {
+      "surface": "חָטָ֔א",
+      "gloss": "犯した"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "תִזָּכַ֖רְנָה",
+      "gloss": "覚えられ"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "מִשְׁפָּ֧ט",
+      "gloss": "裁き"
+    },
+    {
+      "surface": "וּצְדָקָ֛ה",
+      "gloss": "と義"
+    },
+    {
+      "surface": "עָשָׂ֖ה",
+      "gloss": "行った"
+    },
+    {
+      "surface": "חָי֥וֹ",
+      "gloss": "生きる"
+    },
+    {
+      "surface": "יִֽחְיֶֽה",
+      "gloss": "必ず…生きる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:12:24.164545886Z",
+  "model": "glm-5.2"
+}

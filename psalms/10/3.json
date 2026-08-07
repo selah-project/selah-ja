@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "悪しき者は自分の nefesh の欲望を誇り、利益を得る者は⟨それを⟩祝福し、ヤハウェを侮る。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "（というのは）"
+    },
+    {
+      "surface": "הִלֵּ֣ל",
+      "gloss": "誇る"
+    },
+    {
+      "surface": "רָ֭שָׁע",
+      "gloss": "悪しき者"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "תַּאֲוַ֣ת",
+      "gloss": "欲望"
+    },
+    {
+      "surface": "נַפְשׁ֑וֹ",
+      "gloss": "自分の nefesh"
+    },
+    {
+      "surface": "וּבֹצֵ֥עַ",
+      "gloss": "利益を得る者は"
+    },
+    {
+      "surface": "בֵּ֝רֵ֗ךְ",
+      "gloss": "祝福し"
+    },
+    {
+      "surface": "נִ֘אֵ֥ץ",
+      "gloss": "侮る"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T18:39:10.414777385Z",
+  "model": "glm-5.2"
+}

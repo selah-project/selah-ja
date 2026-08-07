@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 22:19",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "わざわいの日に彼らは私に先んじて襲いかかった。そしてヤハウェは私の支えとなられた。",
+  "tokens": [
+    {
+      "surface": "יקדמני",
+      "gloss": "私に先んじて襲いかかった"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "わざわい"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜となられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "משען",
+      "gloss": "支え"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:49.364613615Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして⟨את⟩私たちをそこから連れ出された、私たちを導き入れるため、私たちに与えるため⟨את⟩その地を、彼が私たちの父祖たちに誓った。」",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩",
+      "marks": "私たちを"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "連れ出された"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜のため"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "導き入れる"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "私たちを"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "与えるため"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その地を"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "誓われた"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "私たちの父祖たちに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:09:18.534517660Z",
+  "model": "glm-5.2"
+}

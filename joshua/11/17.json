@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 11:17",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "ハラク山から、すなわちセイルに上る⟨光滑な山⟩から、レバノンの渓谷の、バアル・ガドまで、ヘルモン山のふもとに。そして⟨את⟩彼らのすべての王たちを捕らえ、彼らを打ち、彼らを死させた。",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "その山"
+    },
+    {
+      "surface": "החלק",
+      "gloss": "ハラク（光滑な）"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "上る"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "セイル"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "バアル"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ガド"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "〜の渓谷に"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "レバノン"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜のふもとに"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ヘルモン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼らのすべての王たち"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "彼らの王たち"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "捕らえた"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "彼らを打った"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "彼らを死させた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:27:06.666703415Z",
+  "model": "glm-5.2"
+}

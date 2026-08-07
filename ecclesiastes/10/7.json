@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "わたしは見た — 奴隷たちが馬に乗り、高官たちが奴隷のように地の上を歩くのを。",
+  "tokens": [
+    {
+      "surface": "רָאִ֥יתִי",
+      "gloss": "わたしは見た"
+    },
+    {
+      "surface": "עֲבָדִ֖ים",
+      "gloss": "奴隷たちが"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "סוּסִ֑ים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "וְשָׂרִ֛ים",
+      "gloss": "高官たちが"
+    },
+    {
+      "surface": "הֹלְכִ֥ים",
+      "gloss": "歩く"
+    },
+    {
+      "surface": "כַּעֲבָדִ֖ים",
+      "gloss": "奴隷のように"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上を"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:17.427795232Z",
+  "model": "glm-5.2"
+}

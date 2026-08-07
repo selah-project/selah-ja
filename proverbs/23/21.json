@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 23:21",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "大酒飲みと大食いは貧しくなり、まどろみが⟨人を⟩ボロ衣で包むからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "大酒饮み"
+    },
+    {
+      "surface": "וזולל",
+      "gloss": "和大食い"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "贫穷になる"
+    },
+    {
+      "surface": "וקרעים",
+      "gloss": "ボロ衣"
+    },
+    {
+      "surface": "תלביש",
+      "gloss": "着せる"
+    },
+    {
+      "surface": "נומה",
+      "gloss": "まどろみ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:14.276913218Z",
+  "model": "glm-5.2"
+}

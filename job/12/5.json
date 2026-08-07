@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "松明は鄙棄、安逸の者の思惑のため⟨にある⟩、足のすべる者たちのため備えられた⟨ものである⟩。",
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "松明"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "鄙棄"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "思惑のため"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "安逸の者の"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "備えられた"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "…のために"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "足"
+    }
+  ],
+  "timestamp": "2026-08-07T13:23:24.251894693Z",
+  "model": "glm-5.2"
+}

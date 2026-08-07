@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "私は全身全霊であなたの御顔を求めた — あなたの約束の通りに私を恵んでください",
+  "tokens": [
+    {
+      "surface": "חליתי",
+      "gloss": "私は求めた"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの御顔"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全身全霊で"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "私を恵んでください"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "あなたの約束の通りに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:27.749432038Z",
+  "model": "glm-5.2"
+}

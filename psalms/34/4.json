@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "私と共にヤハウェを大いになさい。そして共に⟨その⟩名を高く上げよう。",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "大いになさい"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェを"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "私と共に"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "そして〜高く上げよう"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨その⟩名"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "共に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:06.324246107Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 34:14",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そして野の獣は⟨את⟩孤独の獣と出会い、毛深い者はその仲間に呼びかける。まことにそこにリリトは休み、自分のために安息の場を見いだす。",
+  "tokens": [
+    {
+      "surface": "ופגשו",
+      "gloss": "そして出会う"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "野の獣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "孤独の獣"
+    },
+    {
+      "surface": "איים",
+      "gloss": "孤独の獣"
+    },
+    {
+      "surface": "ושעיר",
+      "gloss": "と毛深い者"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "その仲間"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "呼びかける"
+    },
+    {
+      "surface": "אך",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "הרגיעה",
+      "gloss": "休む"
+    },
+    {
+      "surface": "לילית",
+      "gloss": "リリト（夜の精）"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "そして見いだす"
+    },
+    {
+      "surface": "לה",
+      "gloss": "自分のために"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "安息の場"
+    }
+  ],
+  "timestamp": "2026-08-07T11:29:44.558458505Z",
+  "model": "glm-5.2"
+}

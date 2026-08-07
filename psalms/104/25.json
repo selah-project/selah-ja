@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "そこに、海がある — 大いなる、そして両手のひらを広げたような海。そこ⟨に⟩這うものが⟨あり⟩、数がない。生き物、小さきもの、大いなるものとともに。",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "そして広い"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "両手のひら"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "這うもの"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そしてない"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "数"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "生き物"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "小さきもの"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "大いなるもの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:59:05.897382169Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてエロヒムは言われた。「大空が水の中間にあれ。そして大空が水と水の間を分けるものとなれ。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "…あれ"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "大空"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "…の中間に"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして…あれ"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "分けるもの"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…の間を"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "למים",
+      "gloss": "と水"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:39.882886957Z",
+  "model": "glm-5.2"
+}

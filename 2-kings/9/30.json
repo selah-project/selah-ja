@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "イェフーはイズレエルにやって来た。イゼベルは聞き、彼女の目にプークを塗り、頭を整え、窓の隙間から見下ろした。",
+  "tokens": [
+    {
+      "surface": "ובוא",
+      "gloss": "…はやって来た"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "イェフー"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "イズレエルに"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "イゼベルは"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "聞き"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "塗り"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "プークを"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "彼女の目に"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "整え"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼女の頭"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "頭を"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "見下ろした"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "…の隙間から"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "窓"
+    }
+  ],
+  "timestamp": "2026-08-07T11:12:40.576101546Z",
+  "model": "glm-5.2"
+}

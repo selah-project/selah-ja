@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして ⟨את⟩ イェウツと ⟨את⟩ シャフヤと ⟨את⟩ ミルマを。これらは彼の子ら、父祖たちのかしらである。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "イェウツ"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "イェウツ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "シャフヤ"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "シャフヤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "ミルマ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ミルマ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "彼の子ら"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "かしら"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "父祖たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:34.102853174Z",
+  "model": "glm-5.2"
+}

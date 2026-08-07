@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そしてミツライム人は ⟨את⟩ わたしたちに悪を働き、わたしたちを苦しめ、わたしたちの上に過酷な労役を負わせた。",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "悪を働き"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "わたしたちに"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "ミツライム人は"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "わたしたちを苦しめ"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "負わせた"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "わたしたちの上に"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "労役を"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "過酷な"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:12.801443170Z",
+  "model": "glm-5.2"
+}

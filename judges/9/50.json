@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "アビメレクはテベツ（テベズ）へ行き、テベツに対して陣を敷き、これを攻め取った。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "行った"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "アビメレク"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "テベツ"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "陣を敷いた"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "テベツに"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "これを攻め取った"
+    }
+  ],
+  "timestamp": "2026-08-07T10:35:12.701403024Z",
+  "model": "glm-5.2"
+}

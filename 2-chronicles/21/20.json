@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 21:20",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "彼が王となる時、三十二歳であった。そして八年間、イェルシャライムで治めた。彼は望まれぬ者として去り、人々は彼をダヴィデの町に葬ったが、王たちの墓には葬らなかった。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "歳で"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "と二"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "彼が王となる時"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "そして八"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年間"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "治めた"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライムで"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして去った"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "〜なく"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "望まれ"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "彼を葬った"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町に"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィデの"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "בקברות",
+      "gloss": "墓に"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "王たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:15:42.279295222Z",
+  "model": "glm-5.2"
+}

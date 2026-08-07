@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 103,
+  "translation": "ヤハウェは天に御座を確立された。その王国はすべてを支配する。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "天に"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "確立された"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "彼の御座"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "そして彼の王国"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべてを"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "支配する"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:51.454980606Z",
+  "model": "glm-5.2"
+}

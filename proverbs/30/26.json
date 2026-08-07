@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 30:26",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "岩石狸は力なき民、⟨彼ら⟩は岩に家を据えた。",
+  "tokens": [
+    {
+      "surface": "שְׁפַנִּים",
+      "gloss": "岩石狸"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "民"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "עָצוּם",
+      "gloss": "力ある"
+    },
+    {
+      "surface": "וַיָּשִׂימוּ",
+      "gloss": "そして⟨彼ら⟩は据えた"
+    },
+    {
+      "surface": "בַסֶּלַע",
+      "gloss": "岩に"
+    },
+    {
+      "surface": "בֵּיתָֽם",
+      "gloss": "彼らの家"
+    }
+  ],
+  "timestamp": "2026-08-07T17:46:36.463138001Z",
+  "model": "glm-5.2"
+}

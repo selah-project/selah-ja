@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 28:40",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "オリーブの木があなたの全域の至る所にあなた ⟨に⟩ある ⟨だろう⟩。しかし油を塗らない。あなたのオリーブが落ちる ⟨からである⟩。",
+  "tokens": [
+    {
+      "surface": "זיתים",
+      "gloss": "オリーブの木"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ある"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "〜の至る所に"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "あなたの全域"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "あなたは塗る"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜因为"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "落ちる"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "あなたのオリーブ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:22.213524661Z",
+  "model": "glm-5.2"
+}

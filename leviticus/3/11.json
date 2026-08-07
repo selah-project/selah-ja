@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして祭司はそれを祭壇の上で燔にして献げる — ヤハウェへの火による献げ物のパンとして。",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "そして祭司はそれを燔にして献げる"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "祭壇の上で"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンとして"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火による献げ物の"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェへの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:39.741034329Z",
+  "model": "glm-5.2"
+}

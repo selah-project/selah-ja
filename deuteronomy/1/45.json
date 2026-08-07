@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてあなたたちは引き返し、ヤハウェの前で泣いた。しかしヤハウェはあなたたちの声に耳を傾けず、あなたたちに聞き入ろうとされなかった。",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "そしてあなたたちは引き返し"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "泣いた"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前で"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜なかった"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "耳を傾け"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "あなたたちの声に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "聞き入ろうとされ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "あなたたちに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:06:51.495047529Z",
+  "model": "glm-5.2"
+}

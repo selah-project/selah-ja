@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "貧しくて知恵ある若者は、もはや ⟨の⟩ 注意を受けることを知らない老いて愚かな王よりも良い。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "若者"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "貧しい"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "知恵がある"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "〜よりも"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "老いた"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "愚かな"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "注意を受けること"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:29.072139223Z",
+  "model": "glm-5.2"
+}

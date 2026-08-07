@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "あなたたちはヤハウェ・あなたたちのエロヒムの子らである。あなたたちは身を切ってはならず、死者のため⟨あなたたち⟩の目の間に禿をつくってはならない。",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたたちは"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "あなたたちのエロヒム"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "切ってはならず"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "つくってはならない"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "禿を"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間に"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "あなたたちの目の"
+    },
+    {
+      "surface": "למת",
+      "gloss": "死者のため"
+    }
+  ],
+  "timestamp": "2026-08-07T10:12:56.476551806Z",
+  "model": "glm-5.2"
+}

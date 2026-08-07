@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてヤハウェはモシェに言われた。「民のもとに行き、今日と明日彼らを聖別せよ。そして彼らはその衣服を洗わなければならない。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "行け"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "そして聖別せよ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "と明日"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "そして洗わよ"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "彼らの衣服を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:49.369291616Z",
+  "model": "glm-5.2"
+}

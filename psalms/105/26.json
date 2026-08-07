@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "かれはモシェ、かれのしもべを遣わし、かれが選んだアハロンを。",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "遣わした"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "かれのしもべ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "選んだ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "かれを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:01.038986206Z",
+  "model": "glm-5.2"
+}

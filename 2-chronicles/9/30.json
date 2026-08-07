@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてシェロモはイェルシャライムで全イスラエルの上に、四十⟨年⟩王であった。",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "そして…は王であった"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモは"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライムで"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨年⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:28.595696735Z",
+  "model": "glm-5.2"
+}

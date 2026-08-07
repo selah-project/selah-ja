@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "偽りの唇が口を閉ざされますように、正しい者に対して、傲慢と軽蔑をもって語るもの ⟨が⟩。",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "口を閉ざされますように"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "唇が"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りの"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "語るもの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しい者"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "傲慢"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "誇りにおいて"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "軽蔑において"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:19.812638362Z",
+  "model": "glm-5.2"
+}

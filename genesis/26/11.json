@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そしてアビメレクは⟨את⟩すべての民に命じて言った、「この男に、またその妻に触れる者は、必ず殺されるであろう」。",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "そして…命じた"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "アビメレク"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "触れる者は"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "…男に"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "またその妻に"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "殺されるであろう"
+    }
+  ],
+  "timestamp": "2026-08-07T08:58:43.531657610Z",
+  "model": "glm-5.2"
+}

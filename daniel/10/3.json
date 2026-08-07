@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "美味しいパンを私は食べず、肉とぶどう酒は私の口に入らず、油を塗ることもしなかった — 三週間、すなわち日数が満ちるまで。",
+  "tokens": [
+    {
+      "surface": "לֶ֣חֶם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "חֲמֻד֞וֹת",
+      "gloss": "美味しい"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אָכַ֗לְתִּי",
+      "gloss": "私は食べた"
+    },
+    {
+      "surface": "וּבָשָׂ֥ר",
+      "gloss": "と肉"
+    },
+    {
+      "surface": "וָיַ֛יִן",
+      "gloss": "とぶどう酒"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "בָ֥א",
+      "gloss": "入った"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "פִּ֖י",
+      "gloss": "私の口"
+    },
+    {
+      "surface": "וְס֣וֹךְ",
+      "gloss": "そして油を塗ること"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "סָכְתִּ֑י",
+      "gloss": "私は塗った"
+    },
+    {
+      "surface": "עַ֖ד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "מְלֹ֥את",
+      "gloss": "満ちる"
+    },
+    {
+      "surface": "שְׁלֹ֛שֶׁת",
+      "gloss": "三"
+    },
+    {
+      "surface": "שָׁבֻעִ֖ים",
+      "gloss": "週"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "日々"
+    }
+  ],
+  "timestamp": "2026-08-07T14:45:59.113219026Z",
+  "model": "glm-5.2"
+}

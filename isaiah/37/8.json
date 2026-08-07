@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "ラブ・シャケは戻り、⟨את⟩アッシュル王がリブナに対して戦っているのを見つけた。彼がラキシュから出発したことを聞いたからである。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして戻った"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ラブ"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "シャケ"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "そして見つけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アッシュル王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アッシュル"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "戦っている"
+    },
+    {
+      "surface": "על",
+      "gloss": "～に対して"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "リブナ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～だから"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞いた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～ということを"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "出発した"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "ラキシュから"
+    }
+  ],
+  "timestamp": "2026-08-07T11:29:36.196168853Z",
+  "model": "glm-5.2"
+}

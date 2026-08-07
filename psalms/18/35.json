@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "私の両手を戦いのために教え、私の腕は青銅の弓を下ろさせる。",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "教える"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "私の両手"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "戦いのために"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "そして下ろさせる"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "私の腕"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:36.360413843Z",
+  "model": "glm-5.2"
+}

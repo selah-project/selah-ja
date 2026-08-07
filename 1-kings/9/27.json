@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 9:27",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてヒラムは船団において ⟨את⟩ 彼のしもべたちを遣わした。すなわち海を知る船乗りたち、シェロモのしもべたちと共に。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…遣わした"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ヒラムは"
+    },
+    {
+      "surface": "באני",
+      "gloss": "船団において"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼のしもべたち"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "彼のしもべたちを"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…の人々"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "船"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "知る者たち"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海を"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…と共に"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "しもべたち"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:01:59.241286276Z",
+  "model": "glm-5.2"
+}

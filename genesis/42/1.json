@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "ヤアコブは見た、ミツライムに穀物があるのを。そしてヤアコブは息子たちに言った。「なぜあなたたちは互いに見つめ合っているのか。」",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "見た"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということを"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ある"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "穀物が"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ミツライムに"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブは"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "息子たちに"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "互いに見つめ合っているのか"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:33.536502854Z",
+  "model": "glm-5.2"
+}

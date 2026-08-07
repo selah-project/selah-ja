@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "王は公正によって地を堅立する。寄進を求める者はそれを破壊する。",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "公正によって"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "堅立する"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "者"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "寄進"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "破壊する"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:56.820409528Z",
+  "model": "glm-5.2"
+}

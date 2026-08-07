@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "アムラムは、おばであるヨケベドを⟨彼は⟩妻として娶った。彼女は彼に⟨対して⟩⟨את⟩アハロンと⟨את⟩モーセを産んだ。アムラムのいのちの年数⟨は⟩、百三十七年。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "…は娶った"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "アムラム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨケベド"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "ヨケベド"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "彼のおば"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "妻として"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "…は産んだ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アハロン"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "モーセ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "…の年数"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "いのちの"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "アムラム"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "と三十"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "と百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:40.348562810Z",
+  "model": "glm-5.2"
+}

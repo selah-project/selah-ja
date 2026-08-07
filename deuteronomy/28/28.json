@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "ヤハウェはあなたを狂気と、盲目と、心の惑乱で打たれる。",
+  "tokens": [
+    {
+      "surface": "יַכְּכָ֣ה",
+      "gloss": "打たれる"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בְּשִׁגָּע֖וֹן",
+      "gloss": "狂気"
+    },
+    {
+      "surface": "וּבְעִוָּר֑וֹן",
+      "gloss": "および盲目"
+    },
+    {
+      "surface": "וּבְתִמְה֖וֹן",
+      "gloss": "および惑乱"
+    },
+    {
+      "surface": "לֵבָֽב",
+      "gloss": "心の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:50.233934924Z",
+  "model": "glm-5.2"
+}

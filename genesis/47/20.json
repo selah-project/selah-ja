@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 47:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "ヨセフはパロのために、ミツライムの全土を買い取った。ミツライム人はひとりひとり自分の畑を売ったからである — 飢饉が彼らに激しくのしかかったため。そして地はパロのものとなった。",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "そして買い取った"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全土"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "土地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "パロのために"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "売った"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム人は"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ひとりひとり"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "自分の畑を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "強かった"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "彼らの上に"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "飢饉が"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "パロのもの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:11:23.962636314Z",
+  "model": "glm-5.2"
+}

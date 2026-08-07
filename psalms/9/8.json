@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてヤハウェは永遠に座し、さばきのために御座を据えられた。",
+  "tokens": [
+    {
+      "surface": "וַֽ֭יהוָה",
+      "gloss": "そしてヤハウェは"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "יֵשֵׁ֑ב",
+      "gloss": "座し"
+    },
+    {
+      "surface": "כּוֹנֵ֖ן",
+      "gloss": "据えられた"
+    },
+    {
+      "surface": "לַמִּשְׁפָּ֣ט",
+      "gloss": "さばきのために"
+    },
+    {
+      "surface": "כִּסְאֽוֹ",
+      "gloss": "御座を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:24.681387757Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 124,
+  "translation": "上りの歌、ダヴィドの。ヤハウェが⟨私たちの⟩味方であったのではないなら、今やイスラエルが言え、と⟨言う⟩",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上りの"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダヴィドの"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "〜でなかったなら"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちの味方に"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "言え"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今や"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:59.576466654Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そして地はその口を開き、彼らと彼らの家々と、コラフのすべての人と、すべての財産を飲み込んだ。",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "そして開き"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その口"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "その口を"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "そして飲み込んだ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの家々"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "彼らの家々と"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "コラフのすべての人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人と"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "コラフの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "すべての財産"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "財産を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:57:23.786874929Z",
+  "model": "glm-5.2"
+}

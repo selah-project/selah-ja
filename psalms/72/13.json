@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 72,
+  "translation": "彼は弱き者と乏しき者とに慈しみをかけ、乏しき者たちの命を救うであろう。",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "慈しみをかける"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "דל",
+      "gloss": "弱き者"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "と乏しき者"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "そして命"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "乏しき者たちの"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "救う"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:21.896344845Z",
+  "model": "glm-5.2"
+}

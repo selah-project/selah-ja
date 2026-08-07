@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": " ⟨その⟩エル —— 私に力を帯びさせるかた、そして私の道を完全なものと⟨してくださる⟩。",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "私に帯びさせる"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "力"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして⟨与える⟩"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "完全な"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "私の道"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:36.360113166Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 7:16",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "彼らは帰る — しかし上 ⟨のほう⟩ へではない。彼らは欺瞞の弓のようになった。彼らの君主たちは剣によって倒れる、その舌の傲慢のゆえに。これ ⟨が⟩ エジプトの地で彼らの嘲笑 ⟨となる⟩。",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "彼らは帰る"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "על",
+      "gloss": "上"
+    },
+    {
+      "surface": "היו",
+      "gloss": "なった"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "弓のように"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "欺瞞の"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "倒れる"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "剣によって"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "彼らの君主たちは"
+    },
+    {
+      "surface": "מזעם",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "彼らの舌の"
+    },
+    {
+      "surface": "זו",
+      "gloss": "これ"
+    },
+    {
+      "surface": "לעגם",
+      "gloss": "彼らの嘲笑"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "〜の地で"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "エジプト"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:22.058636845Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "純金一タラントで彼は⟨את⟩それを、そして⟨את⟩そのすべての器具を作った。",
+  "tokens": [
+    {
+      "surface": "כִּכָּר",
+      "gloss": "タラント"
+    },
+    {
+      "surface": "זָהָב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טָהוֹר",
+      "gloss": "純"
+    },
+    {
+      "surface": "עָשָׂה",
+      "gloss": "彼は作った"
+    },
+    {
+      "surface": "אֹתָהּ",
+      "gloss": "⟨את⟩それ",
+      "marks": "燭台"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "そして⟨את⟩",
+      "marks": "そのすべての器具"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כֵּלֶיהָ",
+      "gloss": "その器具"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:42.756065152Z",
+  "model": "glm-5.2"
+}

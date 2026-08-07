@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "愚かな企ては罪であり、そしる者は人にとって忌むべきものである。",
+  "tokens": [
+    {
+      "surface": "זִמַּת",
+      "gloss": "愚かな企て"
+    },
+    {
+      "surface": "אִוֶּלֶת",
+      "gloss": "愚かさ"
+    },
+    {
+      "surface": "חַטָּאת",
+      "gloss": "罪"
+    },
+    {
+      "surface": "וְתוֹעֲבַת",
+      "gloss": "忌むべきもの"
+    },
+    {
+      "surface": "לְאָדָם",
+      "gloss": "人にとって"
+    },
+    {
+      "surface": "לֵץ",
+      "gloss": "そしる者"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:55.203580648Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 64,
+  "translation": "エロヒム、⟨私の⟩嘆きのうちに⟨私の⟩声を聞いてください。敵の恐怖から⟨私の⟩命を守ってください。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "聞いてください"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "私の声を"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "私の嘆きのうちに"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "〜の恐怖から"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "敵の"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "守ってください"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "私の命を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:48.796393405Z",
+  "model": "glm-5.2"
+}

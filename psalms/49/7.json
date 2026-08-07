@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "自分の富に信頼する者たち、その財宝の多さを誇る者たち——",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "信頼する者たち"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "彼らの富"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "そして〜の多さに"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "彼らの財宝"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "彼らは誇る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:56.317456561Z",
+  "model": "glm-5.2"
+}

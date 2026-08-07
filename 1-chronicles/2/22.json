@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "セグブは⟨את⟩ヤイルを生んだ。彼に二十三の都市がギルアドの地にあった。",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "セグブは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤイル"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ヤイル"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "〜があった"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "と三"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "都市"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ギルアドの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:36.634748219Z",
+  "model": "glm-5.2"
+}

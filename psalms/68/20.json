@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "ほむべきかな、アドナイ。日々、われらのために荷を負われる方。私たちの救いのエル。〔セラ〕",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ほむべきかな"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日々、"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日々、"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "荷を負われる方"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちのために"
+    },
+    {
+      "surface": "האל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "私たちの救いの"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "〔セラ〕"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:55.732329649Z",
+  "model": "glm-5.2"
+}

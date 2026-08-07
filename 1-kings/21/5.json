@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "彼のもとにイゼベル彼の妻が入り、彼に語りかけた——何だ、これは。あなたの霊が落ち込んでおり、あなたはパンを食べていないとは。」",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "そして……入った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼のもとに"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "イゼベル"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "彼の妻"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "そして彼女は語りかけた"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何だ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これは"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "あなたの霊が"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "落ち込んでいる"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "そしてあなたは……ない"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食べている"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:11.587989260Z",
+  "model": "glm-5.2"
+}

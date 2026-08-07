@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 30:34",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そしてヤハウェはモシェに仰せになった。あなたは香料を取れ — ナタフ、およびシェヘレト、およびヘルバナー — 香料、および純粋なレボナー。一品ごとに等量でなければならない。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして仰せになった"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "香料を"
+    },
+    {
+      "surface": "נטף",
+      "gloss": "ナタフ"
+    },
+    {
+      "surface": "ושחלת",
+      "gloss": "およびシェヘレト"
+    },
+    {
+      "surface": "וחלבנה",
+      "gloss": "およびヘルバナー"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "香料"
+    },
+    {
+      "surface": "ולבנה",
+      "gloss": "およびレボナー"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "純粋な"
+    },
+    {
+      "surface": "בד",
+      "gloss": "一品"
+    },
+    {
+      "surface": "בבד",
+      "gloss": "一品ごとに"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜でなければならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:18.325235911Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "南へ向かって歩み、北へ向かって巡る。巡りに巡りて風は歩み、その巡路を⟨めぐって⟩風は帰ってくる。",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "歩み"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ向かって"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "南"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "そして巡る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ向かって"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "巡り"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "巡りて"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "歩み"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "風は"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そしてその〜の上を"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "巡路"
+    },
+    {
+      "surface": "שב",
+      "gloss": "帰ってくる"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "風は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:05.451099119Z",
+  "model": "glm-5.2"
+}

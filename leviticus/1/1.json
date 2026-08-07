@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてヤハウェはモーシェを呼び、彼に語られた。会見の天幕から、こう言って。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "そして…呼んだ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…を"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "そして…語った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "天幕から"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "こう言って"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:55.737585457Z",
+  "model": "glm-5.2"
+}

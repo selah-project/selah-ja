@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "あなたを憎む者が飢えているなら、パンを食べさせてやり、渇いているなら、水を飲ませてやりなさい。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "飢えている"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "あなたを憎む者が"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "食べさせてやりなさい"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "渇いているなら"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "飲ませてやりなさい"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:34.064678504Z",
+  "model": "glm-5.2"
+}

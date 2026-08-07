@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "慟哭せよ、ヤハウェの日が近いから。シャッダイからの破滅として、それは来る。",
+  "tokens": [
+    {
+      "surface": "הֵילִ֕ילוּ",
+      "gloss": "慟哭せよ"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "קָר֖וֹב",
+      "gloss": "近い"
+    },
+    {
+      "surface": "י֣וֹם",
+      "gloss": "…日"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "כְּשֹׁ֖ד",
+      "gloss": "破滅として"
+    },
+    {
+      "surface": "מִשַּׁדַּ֥י",
+      "gloss": "シャッダイからの"
+    },
+    {
+      "surface": "יָבֽוֹא",
+      "gloss": "来る"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:32.255765520Z",
+  "model": "glm-5.2"
+}

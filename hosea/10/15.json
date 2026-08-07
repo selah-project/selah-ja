@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "このようにベイト・エルはあなたたちにする — あなたたちの悪の悪のゆえに。夜明けに、イスラエルの王は全く絶たれる。",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "このように"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "〜はする"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちに"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベイト"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エルは"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "悪の"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "あなたたちの悪の"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "夜明けに"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "全く"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "絶たれる"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:53.080062964Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして祭司は命じて、その患部のある石を取り除かせ、それらを都の外、汚れた場所に投げ捨てさせた。",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "そして命じた"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "そして取り除いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "石"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "その石"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "それらの中に"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "その患部"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "そして投げ捨てた"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "それら（石）"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "都の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "場所"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:15.775087693Z",
+  "model": "glm-5.2"
+}

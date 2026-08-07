@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 82,
+  "translation": "この私は言った、「あなたたちはエロヒム、あなたたちすべては至高者のの子らだ」と。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "言った"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたたちは"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "そして〜の子ら"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "至高者の"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "あなたたちすべて"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:35.434399321Z",
+  "model": "glm-5.2"
+}

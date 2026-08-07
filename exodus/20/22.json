@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "ヤハウェはモーシェに言われた。「あなたはイスラエルの子らにこう言いなさい。『あなたたちは、私が天からあなたたちと語りかけたのを見た。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "あなたは言いなさい"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたたちは"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "見た"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～ということを"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～から"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "私が語りかけた"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "あなたたちと"
+    }
+  ],
+  "timestamp": "2026-08-07T09:20:43.091786288Z",
+  "model": "glm-5.2"
+}

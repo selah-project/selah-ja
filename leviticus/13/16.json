@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "あるいは、生きた肉が戻り、白に変わったなら、彼は祭司のもとに来る。",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜なら"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "戻り"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "肉が"
+    },
+    {
+      "surface": "החי",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "そして変わった"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "白に"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "そして来る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:13.262660367Z",
+  "model": "glm-5.2"
+}

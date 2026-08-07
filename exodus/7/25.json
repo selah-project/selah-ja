@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "七日が満ちた、ヤハウェが⟨את⟩川を打たれて後。",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "満ちた"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七の"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "後"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "打たれて"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "川"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "川"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:27.973217213Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "高ぶる者たちが恥じ入りますように。彼らが偽りで私を歪めたのだから。私はあなたの戒めを思い巡らします。",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "恥じ入りますように"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "高ぶる者たち"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りで"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "私を歪めた"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "思い巡らす"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "あなたの戒めを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:34.273617207Z",
+  "model": "glm-5.2"
+}

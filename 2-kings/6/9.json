@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 6:9",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして神の人はイスラエルの王に遣わして言った。「この場所を通ることに用心せよ。そこにアラムが潜んでいるから。」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…遣わした"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "神の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "用心せよ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "通ることに"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "場所"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラム"
+    },
+    {
+      "surface": "נחתים",
+      "gloss": "潜んでいる"
+    }
+  ],
+  "timestamp": "2026-08-07T18:31:34.774063536Z",
+  "model": "glm-5.2"
+}

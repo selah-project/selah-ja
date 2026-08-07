@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 8:9",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "箱の中には何もなかった。ただ二枚の石の板だけであった。モーシェがホレブでそこに置いたものであり、イスラエルの子らがエジプトの地から出る際に、ヤハウェがイスラエルの子らと結んだものである。",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "箱の中に"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ただ〜だけ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二枚の"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "板"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "石の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェが"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ホレブで"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "結んだ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "出る際に"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "地から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "エジプトの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:44.368022940Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ダヴィドは王となるのに三十歳であった。四十年的治世であった。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "…歳"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "王となるのに"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "治めた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:59.919877409Z",
+  "model": "glm-5.2"
+}

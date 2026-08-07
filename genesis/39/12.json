@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 39:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "彼女は彼を捕らえた——彼の服 ⟨を⟩ ——言って。「私と寝なさい。」そして彼は服 ⟨を⟩ 彼女の手 ⟨に⟩ 残し、逃げ、外へ出た。",
+  "tokens": [
+    {
+      "surface": "ותתפשהו",
+      "gloss": "そして彼女は彼を捕らえた"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "彼の服（を）"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "寝よ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "私と"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "そして彼は残した"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "彼の服"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "彼女の手に"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "そして逃げた"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして出た"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "外へ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:19.652198950Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "彼らはあなたに平安を問い、二つのパンをあなたに与える。あなたは彼らの手から取る。",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "そして彼らは問う"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "平安を"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "そして与える"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "そしてあなたは取る"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "彼らの手から"
+    }
+  ],
+  "timestamp": "2026-08-07T10:42:43.661784220Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 1:23",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "あなたの君たちは背き、盗人たちの仲間だ。すべての者が賄賂を愛し、報酬を追い求める。みなしごを裁かず、やもめの訴えは彼らのもとに来ない。」",
+  "tokens": [
+    {
+      "surface": "שריך",
+      "gloss": "あなたの君たちは"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "背き"
+    },
+    {
+      "surface": "וחברי",
+      "gloss": "〜の仲間だ"
+    },
+    {
+      "surface": "גנבים",
+      "gloss": "盗人たちの"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "すべての者が"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛し"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "賄賂を"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "追い求める"
+    },
+    {
+      "surface": "שלמנים",
+      "gloss": "報酬を"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "みなしごを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "裁かず"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "〜の訴えは"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "やもめの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "来ない"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らのもとに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:04.381588066Z",
+  "model": "glm-5.2"
+}

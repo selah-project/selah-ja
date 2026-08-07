@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてイシイは⟨彼の⟩長子⟨את⟩エリアブを生み、アビナダブは第二、シマは第三⟨であった⟩。",
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "そしてイシイは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の長子"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "彼の長子"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エリアブ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "エリアブ"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "そしてアビナダブ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "そしてシマ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:26.764117512Z",
+  "model": "glm-5.2"
+}

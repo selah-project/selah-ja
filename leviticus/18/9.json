@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "あなたの姉妹の裸 — あなたの父の娘、あるいはあなたの母の娘、家で生まれた者であれ外で生まれた者であれ — その裸を明らかにしてはならない。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "裸"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "あなたの姉妹の"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父の"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "あなたの母の"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "生まれた者"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家で"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "生まれた者"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "外で"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "明らかにしては"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "彼女たちの裸を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:15.113455556Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "胎内で彼は⟨את⟩兄の踵を掴み、そしてその力で彼は⟨את⟩エロヒムと争った。",
+  "tokens": [
+    {
+      "surface": "בַּבֶּ֖טֶן",
+      "gloss": "胎内で"
+    },
+    {
+      "surface": "עָקַ֣ב",
+      "gloss": "掴んだ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "兄の"
+    },
+    {
+      "surface": "אָחִ֑יו",
+      "gloss": "兄の踵を"
+    },
+    {
+      "surface": "וּבְאוֹנ֖וֹ",
+      "gloss": "そしてその力で"
+    },
+    {
+      "surface": "שָׂרָ֥ה",
+      "gloss": "争った"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "エロヒム"
+    },
+    {
+      "surface": "אֱלֹהִֽים",
+      "gloss": "エロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:21.795317735Z",
+  "model": "glm-5.2"
+}

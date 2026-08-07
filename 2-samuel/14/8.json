@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "王は女に言われた、「お帰り、あなたの家へ。そして私があなたについて命じよう。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "行け"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "あなたの家へ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "そして私は"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "命じよう"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたについて"
+    }
+  ],
+  "timestamp": "2026-08-07T10:53:22.023742101Z",
+  "model": "glm-5.2"
+}

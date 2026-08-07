@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして各人は ⟨את⟩ 自らの聖なるものを ――それは彼のものとなるであろう―― 各人 ⟨が⟩ 祭司に与えるものは何であれ、それは彼のものとなるであろう",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "そして各人は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自らの聖なるもの"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "自らの聖なるもの"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼の"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "〜となるであろう"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "が与える"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "祭司に"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜となるであろう"
+    }
+  ],
+  "timestamp": "2026-08-07T09:50:38.975195975Z",
+  "model": "glm-5.2"
+}

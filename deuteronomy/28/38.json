@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "多くの種をあなたは畑 ⟨に⟩ 持ち出すが、少ししか集めない。まつ虫がそれを食い尽くす ⟨からである⟩。",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "種"
+    },
+    {
+      "surface": "רב",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "あなたは持ち出す"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "畑"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "少ししか"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "あなたは集めない"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜因为"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "それを食い尽くす"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "まつ虫"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:22.213301964Z",
+  "model": "glm-5.2"
+}

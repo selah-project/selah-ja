@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 50:3",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "一つの ──国民が ──北から彼女の ──上に ──上って来たからだ。それは ⟨את⟩ 彼女の地を荒廃と ──為す。そこに住む者はいなくなる。人から獣に至るまで、彼らはさまよい、去って行った。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上って来た"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "彼女の上に"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "国民"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "北から"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "〜を為す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼女の地"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "彼女の地"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "荒廃と"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "いる"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "住む者"
+    },
+    {
+      "surface": "בה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "人から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "獣"
+    },
+    {
+      "surface": "נדו",
+      "gloss": "さまよい"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "去って行った"
+    }
+  ],
+  "timestamp": "2026-08-07T11:58:50.221329485Z",
+  "model": "glm-5.2"
+}

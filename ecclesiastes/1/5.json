@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして太陽は昇り、太陽は沈み、その身を⟨向かっている⟩場所へと喘ぎつつ、そこで⟨また⟩昇ろうとする⟨の⟩である。",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "そして昇り"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽は"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "そして沈み"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽は"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜へ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "その場所"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "喘ぎつつ"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "昇ろうとする"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼は⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:05.450832146Z",
+  "model": "glm-5.2"
+}

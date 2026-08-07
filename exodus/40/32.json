@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "会見の天幕に入るとき、祭壇に近づくとき、彼らは洗った。ヤハウェが⟨את⟩モーシェに命じたように。",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "入るとき"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "そして近づくとき"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "彼らは洗った"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーシェ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:21.807048417Z",
+  "model": "glm-5.2"
+}

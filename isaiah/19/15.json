@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてミツライムには何のわざもない、頭も尾も、棕櫚の葉も葦も ⟨行いうる⟩。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ミツライムには"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "わざ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "行いうる"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭も"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "尾も"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "棕櫚の葉も"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "葦も"
+    }
+  ],
+  "timestamp": "2026-08-07T11:24:57.676685781Z",
+  "model": "glm-5.2"
+}

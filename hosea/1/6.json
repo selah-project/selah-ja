@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 1:6",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "彼女は再び身ごもって娘を産んだ。すると⟨彼⟩は彼に言った。「その名をロ・ルハマと呼べ。わたしはもはやイスラエルの家をあわれむことを加えない、⟨彼ら⟩を完全に取り去る⟨から⟩。」",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "彼女は身ごもった"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再び"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "彼女は産んだ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘を"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…は言った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼べ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "その名を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ルハマ（あわれまれぬ）"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "わたしは…加える"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "あわれむことを"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "持ち上げる（不定絶対形）"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "わたしは持ち上げる"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:17:36.824194124Z",
+  "model": "glm-5.2"
+}

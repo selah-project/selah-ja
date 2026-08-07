@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "全き心をもってわたしは呼び求めた—答えてください、ヤハウェ—あなたの定めをわたしは守る。",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "わたしは呼び求めた"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全き"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心をもって"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "答えてください"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "あなたの定めを"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "わたしは守る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:47.272343949Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "なまけ者の畑のかたわらを私は通り過ぎた、そして心の欠けた人のぶどう畑のかたわらを。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "〜のかたわらを"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "畑"
+    },
+    {
+      "surface": "איש",
+      "gloss": "者の"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "なまけ"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "私は通り過ぎた"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜のかたわらを"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ぶどう畑"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "欠けた"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:31.875650322Z",
+  "model": "glm-5.2"
+}

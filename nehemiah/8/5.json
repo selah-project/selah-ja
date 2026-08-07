@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 8:5",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "エズラはすべての民の目の前で書を開いた。彼はすべての民より高く〈あった〉からである。彼がそれを開くと、すべての民は立った。",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "開いた"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "エズラ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "その書"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "〜の目の前で"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜より高く"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "היה",
+      "gloss": "〈あった〉"
+    },
+    {
+      "surface": "וכפתחו",
+      "gloss": "彼が開くと"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "立った"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    }
+  ],
+  "timestamp": "2026-08-07T13:57:14.557863964Z",
+  "model": "glm-5.2"
+}

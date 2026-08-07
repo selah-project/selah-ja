@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 35:24",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "銀と青銅の奉納物をささげたすべての者は、⟨את⟩ ヤハウェの奉納物としてそれを持って来た。また、あらゆる作業の務めのためにアカシアの木材が彼のところに見つかったすべての者は、それを持って来た。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ささげた"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "奉納物"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "と青銅"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "持って来た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの奉納物"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "奉納物"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "またすべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "見つかった"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼のところに"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "…の木材"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "アカシア"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "あらゆる"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "作業の"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "務め"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "持って来た"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:57.960981213Z",
+  "model": "glm-5.2"
+}

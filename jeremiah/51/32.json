@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "渡し場は押さえられ、⟨את⟩ 沼地は火で焼かれ、戦士たちは恐怖に襲われた。」",
+  "tokens": [
+    {
+      "surface": "וְהַמַּעְבָּרוֹת",
+      "gloss": "渡し場は"
+    },
+    {
+      "surface": "נִתְפְּשׂוּ",
+      "gloss": "押さえられ"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "沼地"
+    },
+    {
+      "surface": "הָאֲגַמִּים",
+      "gloss": "沼地"
+    },
+    {
+      "surface": "שָׂרְפוּ",
+      "gloss": "焼かれ"
+    },
+    {
+      "surface": "בָּאֵשׁ",
+      "gloss": "火で"
+    },
+    {
+      "surface": "וְאַנְשֵׁי",
+      "gloss": "人々は"
+    },
+    {
+      "surface": "הַמִּלְחָמָה",
+      "gloss": "戦の"
+    },
+    {
+      "surface": "נִבְהָלוּ",
+      "gloss": "恐怖に襲われた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:00:01.479945054Z",
+  "model": "glm-5.2"
+}

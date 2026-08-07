@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "ただし泉と穴蔵、水の集まり場は、清いものである。しかし⟨彼らの死骸⟩に触れる者は汚れる。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "泉"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "そして穴蔵"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "集まり場"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清いもの"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "そして触れる者"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "彼らの死骸に"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "汚れる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:07.836475523Z",
+  "model": "glm-5.2"
+}

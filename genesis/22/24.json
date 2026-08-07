@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "彼の側女も — その名はルマ — 彼女もまた⟨את⟩ テバフと⟨את⟩ ガハムと⟨את⟩ タハシュと⟨את⟩ マアカを⟨産んだ⟩。",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "そして彼の側女"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "その名は"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "ルマ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "彼女は産んだ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼女"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "テバフ"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "テバフ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "ガハム"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "ガハム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "タハシュ"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "タハシュ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "マアカ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "マアカ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:23.521851814Z",
+  "model": "glm-5.2"
+}

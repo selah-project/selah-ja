@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 3:6",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてもし羊の群れから、ヤハウェへの平和の供え物としての彼の供物があるなら、雄であれ雌であれ、欠けのないものを彼は近づけなければならない。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊の群れ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "彼の供物"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "…への供え物として"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "平和の"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェへの"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "雄"
+    },
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "雌"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "欠けのない"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "彼は…近づけなければならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:31:01.899193037Z",
+  "model": "glm-5.2"
+}

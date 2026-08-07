@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてペレグは⟨את⟩レウを生んで後、九年と二百年生き、息子と娘たちを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "そして生きた"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ペレグ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…の後"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "彼が生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レウ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "レウ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "九"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "と二百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "そして生んだ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "と娘たち"
+    }
+  ],
+  "timestamp": "2026-08-07T16:23:07.610667770Z",
+  "model": "glm-5.2"
+}

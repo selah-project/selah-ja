@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "聞け、⟨את⟩このみことばを、イスラエルの家よ、私があなたがたの上に上げる哀歌を。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "このみことば"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "みことば"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私が"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "上げる"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "あなたがたの上に"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "哀歌"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:23:05.846378791Z",
+  "model": "glm-5.2"
+}

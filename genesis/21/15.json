@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "皮袋の水がなくなったとき、彼女は ⟨את⟩ 子供を、灌木の一つの下に投げ出した。",
+  "tokens": [
+    {
+      "surface": "וכלו",
+      "gloss": "そして〜は尽きた"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水が"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "皮袋"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "そして彼女は投げ出した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "子供"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "子供"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "灌木"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:02.998014578Z",
+  "model": "glm-5.2"
+}

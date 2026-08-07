@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ヤハウェの声は火の炎を刻み出す。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "刻み出す"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "炎を"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:29.446247830Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "煙が追い払われるように、⟨彼らを⟩追い払ってください。火の御前で蝋が溶けるように、悪者はエロヒムの御前から滅びる。",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "〜のように追い払われる"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "煙"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "追い払われる"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "〜のように溶ける"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "蝋"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "御前で"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火の"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "滅びる"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者は"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "御前から"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:49:02.087057393Z",
+  "model": "glm-5.2"
+}

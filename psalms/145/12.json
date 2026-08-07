@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 145,
+  "translation": "人の子らにその力を知らせるため、その王国の威光の栄光を。",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "知らせるため"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〜の子らに"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "その力"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "栄光"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "威光の"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "その王国の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:22.701335900Z",
+  "model": "glm-5.2"
+}

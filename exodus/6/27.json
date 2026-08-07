@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "エジプトの王パロに、イスラエルの子らをエジプトから出させるために語りかけた者たち — それがモシェとアハロンである。",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "語りかけた者たち"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "エジプト"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "出させるために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子ら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "エジプトから"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それが"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "とアハロン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:53.272604496Z",
+  "model": "glm-5.2"
+}

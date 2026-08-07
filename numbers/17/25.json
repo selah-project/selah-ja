@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 17:25",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてヤハウェはモーシェに仰せられた：「アハロンの杖を⟨את⟩証の箱の前に戻せ。反逆の子らへのしるしとして、守るために。そうすれば彼らのつぶやきは私から終わり、彼らは死なないであろう。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…仰せられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "השב",
+      "gloss": "戻せ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アハロンの杖"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "杖"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前に"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "証"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "守るために"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "しるしとして"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…の子らへ"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "反逆"
+    },
+    {
+      "surface": "ותכל",
+      "gloss": "そして…終わる"
+    },
+    {
+      "surface": "תלונתם",
+      "gloss": "彼らのつぶやき"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "私から"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "彼らは死なない"
+    }
+  ],
+  "timestamp": "2026-08-07T14:23:47.399310058Z",
+  "model": "glm-5.2"
+}

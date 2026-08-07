@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてこれが、あなたたちが食べてはならない彼らの中の⟨もの⟩である。ハゲタカ、およびハイイロヒゲワシ、およびミサゴ。",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "そしてこれが"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ではない"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたたちが食べてよい"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "彼らの中の"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ハゲタカ"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "およびハイイロヒゲワシ"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "およびミサゴ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:12:52.964502002Z",
+  "model": "glm-5.2"
+}

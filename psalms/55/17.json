@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "この私、エルに、私は呼ばわり、ヤハウェは私を救ってくださる。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "この私"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エルに"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "私は呼ばわり"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "そしてヤハウェは"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "私を救ってくださる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:27.422523816Z",
+  "model": "glm-5.2"
+}

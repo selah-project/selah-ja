@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "これらはエサウの息子たちの名である — エリファズ、エサウの妻アダの息子、レウエル、エサウの妻バセマテの息子。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "בני",
+      "gloss": "息子たちの"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "エリファズ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "アダ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "レウエル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "バセマテ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:50.027083714Z",
+  "model": "glm-5.2"
+}

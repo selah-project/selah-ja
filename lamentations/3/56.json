@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "「あなたは私の声を聞いてくださった。あなたの耳を隠さないでください、私の喘ぎに、私の叫びに。」",
+  "tokens": [
+    {
+      "surface": "קוֹלִ֖י",
+      "gloss": "私の声を"
+    },
+    {
+      "surface": "שָׁמָ֑עְתָּ",
+      "gloss": "あなたは聞いてくださった"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "…ないでください"
+    },
+    {
+      "surface": "תַּעְלֵ֧ם",
+      "gloss": "隠さ"
+    },
+    {
+      "surface": "אָזְנְךָ֛",
+      "gloss": "あなたの耳を"
+    },
+    {
+      "surface": "לְרַוְחָתִ֖י",
+      "gloss": "私の喘ぎに"
+    },
+    {
+      "surface": "לְשַׁוְעָתִֽי",
+      "gloss": "私の叫びに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:36:10.966038343Z",
+  "model": "glm-5.2"
+}

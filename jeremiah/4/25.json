@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "わたしは見た、見よ、人は⟨いな⟩、そして天のすべての鳥は飛び去った。",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "わたしは見た"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨いな⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人は"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "鳥は"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "飛び去った"
+    }
+  ],
+  "timestamp": "2026-08-07T11:43:03.204001851Z",
+  "model": "glm-5.2"
+}

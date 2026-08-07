@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "翌日になり、ペリシュテ人たちは死者を剥ぎ取るために来て、シャウルと、その三人の息子たちを、ギルボアの山に倒れているのを見つけた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "なり"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "翌日に"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "来て"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシュテ人たち"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "剥ぎ取るために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "死者"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "死者"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "見つけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シャウル"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "三人の息子たち"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三人の"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "倒れている"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山に"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "ギルボアの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:32.787404513Z",
+  "model": "glm-5.2"
+}

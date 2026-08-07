@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 24:11",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "死に引かれて行く者たちを救い出せ。屠り場へよろめく者たちを、⟨あなたが⟩差し控えるなら。",
+  "tokens": [
+    {
+      "surface": "הַצֵּל",
+      "gloss": "救い出せ"
+    },
+    {
+      "surface": "לְקֻחִים",
+      "gloss": "引かれて行く者たちを"
+    },
+    {
+      "surface": "לַמָּוֶת",
+      "gloss": "死に"
+    },
+    {
+      "surface": "וּמָטִים",
+      "gloss": "よろめく者たちを"
+    },
+    {
+      "surface": "לַהֶרֶג",
+      "gloss": "屠り場へ"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "〜なら"
+    },
+    {
+      "surface": "תַחְשׂוֹךְ",
+      "gloss": "差し控える"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:55.203824446Z",
+  "model": "glm-5.2"
+}

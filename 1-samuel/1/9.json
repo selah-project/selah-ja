@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 1:9",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてハンナは立った — シロで⟨彼女が⟩食べた後、そして⟨彼女が⟩飲んだ後。エリ⟨は⟩、祭司が、椅子に座っていた — ヤハウェの宮の門柱⟨のそば⟩に。",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "そして彼女は立った"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "ハンナ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "〜の後に"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "食べた"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "シロで"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "そして〜の後に"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "飲んだ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "そしてエリ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "座っていた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "椅子"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のそばに"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "門柱"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "宮"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:39:38.827610366Z",
+  "model": "glm-5.2"
+}

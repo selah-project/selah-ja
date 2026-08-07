@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 59:11",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "私たちは皆、熊のように唸り、ハトのように呻く。私たちはミシュパートを待つが、ない。イェシュアは私たちから遠い。",
+  "tokens": [
+    {
+      "surface": "נהמה",
+      "gloss": "私たちは唸る"
+    },
+    {
+      "surface": "כדבים",
+      "gloss": "熊のように"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "私たちは皆"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "そしてハトのように"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "呻く"
+    },
+    {
+      "surface": "נהגה",
+      "gloss": "私たちは呻く"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "私たちは待つ"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ミシュパートを"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "しかし〜はない"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "イェシュアは"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "遠い"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "私たちから"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:48.005513804Z",
+  "model": "glm-5.2"
+}

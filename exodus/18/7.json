@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 18:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてモシェは彼の義父を迎えに出て、ひれ伏し、彼に口づけし、彼らは互いに安否を問い、そして天幕に入った。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして出た"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "迎えに"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "彼の義父"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "そしてひれ伏し"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "口づけし"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "そして問うた"
+    },
+    {
+      "surface": "איש",
+      "gloss": "互いに"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "その隣人に"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "安否を"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "そして入った"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "天幕に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:44.330518880Z",
+  "model": "glm-5.2"
+}

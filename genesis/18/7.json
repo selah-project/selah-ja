@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 18:7",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてアブラハムは牛群のところへ走った。そして柔らかくて良い子牛を取り、若い者のところへ与えた。そして彼は急いで ⟨את⟩それを調理した。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "牛群の"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "走った"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハムは"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子を"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛の"
+    },
+    {
+      "surface": "רך",
+      "gloss": "柔らかくて"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして与えた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "若い者の"
+    },
+    {
+      "surface": "וימהר",
+      "gloss": "そして急いだ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "調理する"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ（子牛）"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:22.335857299Z",
+  "model": "glm-5.2"
+}

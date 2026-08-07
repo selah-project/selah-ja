@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そして貧しい者を、彼の訴訟において重んじてはならない。",
+  "tokens": [
+    {
+      "surface": "וְדָל",
+      "gloss": "そして貧しい者を"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜てはならない"
+    },
+    {
+      "surface": "תֶהְדַּר",
+      "gloss": "重んじては"
+    },
+    {
+      "surface": "בְּרִיבוֹ",
+      "gloss": "彼の訴訟において"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:37.189031430Z",
+  "model": "glm-5.2"
+}

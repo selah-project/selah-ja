@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてヘブロンの子ら: コラフ、タプアフ、レケム、シャマ。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "そして〜の子ら"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ヘブロン"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "コラフ"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "およびタプアフ"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "およびレケム"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "およびシャマ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:36.250237996Z",
+  "model": "glm-5.2"
+}

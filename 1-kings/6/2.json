@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして王シェロモがヤハウェのために建てた家、その長さは六十アンマ、その幅は二十、そしてその高さは三十アンマであった。",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "そして家は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…が"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェのために"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "その長さ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "と二十"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "その幅"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "と三十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "その高さ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:28.916440722Z",
+  "model": "glm-5.2"
+}

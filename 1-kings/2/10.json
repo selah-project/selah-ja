@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてダビデは彼の先祖たちと共に眠り、ダビデの市に葬られた。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "そして〜は眠った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の先祖たち"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "そして葬られた"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "〜の市に"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:05.184131564Z",
+  "model": "glm-5.2"
+}

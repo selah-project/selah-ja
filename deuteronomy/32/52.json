@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "というのは、あなたは向かい側からその地を見るであろうが、そこへ、あなたは入らない — ⟨私が⟩イスラエルの子らに与えているその地へ。",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "מִנֶּגֶד",
+      "gloss": "向かい側から"
+    },
+    {
+      "surface": "תִּרְאֶה",
+      "gloss": "あなたは見るであろう"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "その地"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "その地"
+    },
+    {
+      "surface": "וְשָׁמָּה",
+      "gloss": "しかし、そこへ"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תָבוֹא",
+      "gloss": "あなたは入る"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "その地"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "私が"
+    },
+    {
+      "surface": "נֹתֵן",
+      "gloss": "与えている"
+    },
+    {
+      "surface": "לִבְנֵי",
+      "gloss": "〜の子らに"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:25:41.258943194Z",
+  "model": "glm-5.2"
+}

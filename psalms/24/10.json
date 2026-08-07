@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "この栄光の王とは誰か。ヤハウェ・ツェヴァオト、⟨彼こそ⟩栄光の王。セラ。",
+  "tokens": [
+    {
+      "surface": "מִ֤י",
+      "gloss": "誰"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "⟨彼こそ⟩"
+    },
+    {
+      "surface": "זֶה֮",
+      "gloss": "この"
+    },
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "הַכָּ֫ב֥וֹד",
+      "gloss": "栄光の"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צְבָא֑וֹת",
+      "gloss": "ツェヴァオト"
+    },
+    {
+      "surface": "ה֤וּא",
+      "gloss": "⟨彼⟩"
+    },
+    {
+      "surface": "מֶ֖לֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "הַכָּב֣וֹד",
+      "gloss": "栄光の"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T17:17:25.937256727Z",
+  "model": "glm-5.2"
+}

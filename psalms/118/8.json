@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 118,
+  "translation": "良い、ヤハウェに身を避けることは、人に信頼を置くことよりも。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "身を避けることは"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "〜よりも"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "人に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:50.128675814Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "「ヤハウェは⟨私の⟩分」、と⟨私の⟩ナフシュが言った。それゆえ、⟨私⟩は彼に向かって待ち望む。",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "分"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "言った"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ナフシュ"
+    },
+    {
+      "surface": "על",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "（連語）"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "待ち望む"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に向かって"
+    }
+  ],
+  "timestamp": "2026-08-07T17:29:36.515335995Z",
+  "model": "glm-5.2"
+}

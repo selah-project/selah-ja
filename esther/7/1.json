@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして王がハマンと共にエステル王妃のもとに来た、飲むために。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王が"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "とハマンが"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "飲むために"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "エステル"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "王妃"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:44.234574315Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして ⟨את⟩ モーシェと ⟨את⟩ アハロンをパロのもとに戻した。そして彼は彼らに言った。「行け、⟨את⟩ あなたがたのエロヒムであるヤハウェに仕えよ。誰と誰が行くのか。」",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "そして…戻した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーシェ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "アハロン"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のもとに"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "行け"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "仕えよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "あなたがたのエロヒム"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "と誰"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "行く者たち"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:41.170202520Z",
+  "model": "glm-5.2"
+}

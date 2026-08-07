@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "手から手へ、悪は免罪されない、そして正しい者たちの種は逃れられる。",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "手へ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "免罪され"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "そして種"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "正しい者たちの"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "逃れられる"
+    }
+  ],
+  "timestamp": "2026-08-07T17:24:30.889646813Z",
+  "model": "glm-5.2"
+}

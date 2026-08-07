@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして彼は⟨את⟩薪を並べ、⟨את⟩雄牛を切り分け、それを薪の上に置いた。",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "そして彼は並べた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "薪"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "薪"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "そして彼は切り分けた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雄牛"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "そして彼は置いた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "薪"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:24.415263265Z",
+  "model": "glm-5.2"
+}

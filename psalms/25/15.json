@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "私の目は絶えずヤハウェに向かっている。彼が私の足を網から引き出すからだ。",
+  "tokens": [
+    {
+      "surface": "עֵינַ֣י",
+      "gloss": "私の目は"
+    },
+    {
+      "surface": "תָּ֭מִיד",
+      "gloss": "絶えず"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "因为"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "彼が"
+    },
+    {
+      "surface": "יוֹצִ֖יא",
+      "gloss": "引き出す"
+    },
+    {
+      "surface": "מֵרֶ֣שֶׁת",
+      "gloss": "網から"
+    },
+    {
+      "surface": "רַגְלָֽי",
+      "gloss": "私の足を"
+    }
+  ],
+  "timestamp": "2026-08-07T17:17:56.616724090Z",
+  "model": "glm-5.2"
+}

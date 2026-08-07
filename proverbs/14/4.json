@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "牛がいなければ飼い葉桶はきれいだ、しかし穀物の豊かな収穫は牛の力による。",
+  "tokens": [
+    {
+      "surface": "בְּאֵ֣ין",
+      "gloss": "〜がいなければ"
+    },
+    {
+      "surface": "אֲ֭לָפִים",
+      "gloss": "牛が"
+    },
+    {
+      "surface": "אֵב֣וּס",
+      "gloss": "飼い葉桶は"
+    },
+    {
+      "surface": "בָּ֑ר",
+      "gloss": "きれいだ"
+    },
+    {
+      "surface": "וְרָב",
+      "gloss": "しかし豊かな"
+    },
+    {
+      "surface": "תְּ֝בוּא֗וֹת",
+      "gloss": "収穫は"
+    },
+    {
+      "surface": "בְּכֹ֣חַ",
+      "gloss": "〜の力による"
+    },
+    {
+      "surface": "שֽׁוֹר",
+      "gloss": "牛の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:31.989952965Z",
+  "model": "glm-5.2"
+}

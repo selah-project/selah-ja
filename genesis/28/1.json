@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そしてイツハクはヤアコブを呼び、彼を祝福し、⟨את⟩彼に命じて彼に言った――カナンの娘たちから妻を取ってはならない、と。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "そして…呼んだ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イツハク"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "そして…祝福した"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "そして…彼に命じた"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "取ってはならない"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "妻"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "…の娘たちから"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "カナン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:24.572281974Z",
+  "model": "glm-5.2"
+}

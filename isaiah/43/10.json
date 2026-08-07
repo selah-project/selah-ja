@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 43:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "あなたたちは私の証人、ヤハウェの御告げ、そして私が選んだ私のしもべ。それはあなたたちは知り、私を信じ、私がその方であると悟るためだ。私の前に、造られたエルはなく、私の後にあっても存在しない。",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "あなたたちは"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "私の証人"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "そして私のしもべ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（関係詞）"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "私が選んだ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ために"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "あなたたちは知り"
+    },
+    {
+      "surface": "ותאמינו",
+      "gloss": "そして信じ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私を"
+    },
+    {
+      "surface": "ותבינו",
+      "gloss": "そして悟る"
+    },
+    {
+      "surface": "כי",
+      "gloss": "と（いうこと）"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私が"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "その方である"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "私の前に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "נוצר",
+      "gloss": "造られた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エルは"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "そして私の後に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "存在しない"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:05.934261578Z",
+  "model": "glm-5.2"
+}

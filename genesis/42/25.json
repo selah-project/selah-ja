@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 42:25",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "そしてヨセフは命じ、彼らは⟨את⟩彼らの器を穀物で満たした。また彼らの銀をそれぞれ自分の袋に返し、道中のための食糧を彼らに与えるために。そして彼は彼らにそのようにした。",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "そして命じた"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "וימלאו",
+      "gloss": "そして満たした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの器"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "彼らの器"
+    },
+    {
+      "surface": "בר",
+      "gloss": "穀物"
+    },
+    {
+      "surface": "ולהשיב",
+      "gloss": "そして返すために"
+    },
+    {
+      "surface": "כספיהם",
+      "gloss": "彼らの銀"
+    },
+    {
+      "surface": "איש",
+      "gloss": "それぞれ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "自分の袋"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "そして与えるために"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "道中の食糧"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "道のために"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "そしてした"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:43.372749056Z",
+  "model": "glm-5.2"
+}

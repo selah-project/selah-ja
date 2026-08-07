@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "幸いなこと、そのエロヒムがヤハウェであるその国は。彼が相続地として選ばれたその民は。",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֣י",
+      "gloss": "幸いなこと"
+    },
+    {
+      "surface": "הַ֭גּוֹי",
+      "gloss": "その国"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֱלֹהָ֑יו",
+      "gloss": "そのエロヒム"
+    },
+    {
+      "surface": "הָעָ֓ם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "בָּחַ֖ר",
+      "gloss": "選ばれた"
+    },
+    {
+      "surface": "לְנַחֲלָ֣ה",
+      "gloss": "相続地として"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "彼の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:55.486187549Z",
+  "model": "glm-5.2"
+}

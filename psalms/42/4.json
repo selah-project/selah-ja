@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "私の涙は私にとってパンとなった、昼も夜も。彼らが私に言うとき、「終日、あなたのエロヒムはどこにいるのか」と。",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "〜となった"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私にとって"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "私の涙は"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "昼も"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "夜も"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "〜が言うとき"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "〜の終日"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "איה",
+      "gloss": "どこにいるのか"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒムは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:13.264178030Z",
+  "model": "glm-5.2"
+}

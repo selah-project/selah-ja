@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして私のネフェシは非常に恐れ惑っている。あなた、ヤハウェよ、⟨את⟩—いつまでですか。",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "そして私のネフェシは"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "恐れ惑っている"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そしてあなた、⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "いつ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:35.430077640Z",
+  "model": "glm-5.2"
+}

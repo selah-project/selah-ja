@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 3:11",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてヤハウェは私に言われた——背きのイスラエルは裏切り者ユダより ⟨自分を⟩ 義と ⟨して⟩ しまった、と。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…は言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "…は義とした"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "彼女自身"
+    },
+    {
+      "surface": "משבה",
+      "gloss": "背きの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מבגדה",
+      "gloss": "裏切り者"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:39:48.099590693Z",
+  "model": "glm-5.2"
+}

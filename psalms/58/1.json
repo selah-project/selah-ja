@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 58,
+  "translation": "聖歌隊の指揮者に。「破壊するな」。ダビデのミクタム。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "聖歌隊の指揮者に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "「破壊するな」"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": ""
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ミクタム"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:53.457017941Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして⟨את⟩ハドラム、そして⟨את⟩ウザル、そして⟨את⟩ディクラを、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ハドラム"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ハドラム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ウザル"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ウザル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ディクラ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ディクラ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:58:54.072697061Z",
+  "model": "glm-5.2"
+}

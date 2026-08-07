@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 54,
+  "translation": "あなたは右にも左にも突破するからだ。あなたの子孫は国々を相続し、荒れ果てた町々を人が住まわせるだろう。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "右に"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "そして左に"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "あなたは突破する"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "そしてあなたの子孫は"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々を"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "相続する"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "そして町々を"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "荒れ果てた"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "人が住まわせる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:17.954851757Z",
+  "model": "glm-5.2"
+}

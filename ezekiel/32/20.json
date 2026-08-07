@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 32:20",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "剣に刺し貫かれた者たちの中に、彼らは倒れる。剣が与えられている。彼女を、そして彼女のすべての群れを、引きずれ。",
+  "tokens": [
+    {
+      "surface": "בתוך",
+      "gloss": "…の中に"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "刺し貫かれた者たち"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣に"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "彼らは倒れる"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣が"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "与えられている"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "引きずれ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "彼女を"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そして…のすべて"
+    },
+    {
+      "surface": "המוניה",
+      "gloss": "彼女の群れ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:11:01.414061412Z",
+  "model": "glm-5.2"
+}

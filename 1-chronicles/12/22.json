@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 12:22",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "彼らはダヴィドと共に略奪隊に対して助けた。彼らは全員勇士であり、軍⟨団⟩の指揮官となった。",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "彼ら"
+    },
+    {
+      "surface": "עזרו",
+      "gloss": "助けた"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "略奪隊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "勇猛の"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "全員"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "〜となった"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "指揮官"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "軍において"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:09.761619590Z",
+  "model": "glm-5.2"
+}

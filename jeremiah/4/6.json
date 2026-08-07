@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 4:6",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "ツィヨンに向かって旗を掲げよ、逃げよ、立ち止まるな、わたしが北からわざわいを、大いなる破滅をもたらしているからだ。",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "掲げよ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "旗を"
+    },
+    {
+      "surface": "ציונה",
+      "gloss": "ツィヨンに向かって"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "逃げよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "立ち止まる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "わざわいを"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "もたらしている"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "北から"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "破滅を"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:40:39.792690963Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "地は喪に服し、しおれ、地は衰え、しおれる。テーベルは衰え、地の民の高き者たちも衰えた。",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "喪に服し"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "しおれ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "衰え"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "しおれる"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "テーベルは"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "衰え"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "高き者たちも"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:30.654317177Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そしてイスラエルの子ら、⟨見出された⟩者たちは、その時に⟨את⟩ペサハを、そして⟨את⟩種入れパンの祭りを七日間行った。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "見出された者たち"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ペサハ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "そのペサハ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "…時に"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "その"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "祭り"
+    },
+    {
+      "surface": "חג",
+      "gloss": "祭り"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "種入れパンの"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七…間"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-08-07T14:20:16.296640732Z",
+  "model": "glm-5.2"
+}

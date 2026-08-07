@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして⟨את⟩エブス人、そして⟨את⟩エモリ人、そして⟨את⟩ギルガシ人を、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "エブス人"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "エブス人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "エモリ人"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "エモリ人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ギルガシ人"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ギルガシ人"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:15.557085458Z",
+  "model": "glm-5.2"
+}

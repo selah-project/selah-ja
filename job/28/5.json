@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "地、そこからパンが〈出る〉、その下は火のように覆されている。",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "〈出る〉"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "その下は"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "覆されている"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    }
+  ],
+  "timestamp": "2026-08-07T13:27:03.708680731Z",
+  "model": "glm-5.2"
+}

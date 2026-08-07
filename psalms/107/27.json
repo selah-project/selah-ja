@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "彼らはよろめき、酔いどれのように揺れる。彼らのすべての知恵は飲み込まれる。",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "よろめき"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "揺れる"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "酔いどれのように"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "彼らの知恵"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "飲み込まれる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:48.310022518Z",
+  "model": "glm-5.2"
+}

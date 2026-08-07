@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "ヤハウェはヨセフと共におられ、彼は成功する者となり、彼はその主人の家にいた、ミツリ人の。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨセフ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして彼は〜であった"
+    },
+    {
+      "surface": "איש",
+      "gloss": "者"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "成功する"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして彼は〜にいた"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "彼の主人の"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "そのミツリ人の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:46.547570122Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてミカル、シャウルの娘には、彼女の死の日まで子がなかった。",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "そしてミカルには"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "子"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "彼女の死の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:48.371852005Z",
+  "model": "glm-5.2"
+}

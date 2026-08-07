@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "エロヒムはツィヨンを救い、ユダの諸都市を建て直し、彼らはそこに住み、⟨それは⟩これを嗣業とするからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "救い"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨンを"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "建て直し"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "〜の諸都市"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "住み"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "これを嗣業とする"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:15.926247158Z",
+  "model": "glm-5.2"
+}

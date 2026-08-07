@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "パルオはヨセフに言った。見よ、わたしは⟨את⟩あなたを全ミツライムの地の上に置いた。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パルオ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "わたしは与えた"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "あなたを"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:25.814541183Z",
+  "model": "glm-5.2"
+}

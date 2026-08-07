@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして⟨あなたは⟩⟨את⟩注ぎの油を取り、それをその頭の上に注ぎ、彼に油を塗れ。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "そして⟨あなたは⟩取る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "注ぎの油"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "注ぎの"
+    },
+    {
+      "surface": "וצקת",
+      "gloss": "そして⟨あなたは⟩注ぐ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "その頭"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "そして⟨あなたは⟩油を塗る"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩彼",
+      "marks": "アハロン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:40.595168271Z",
+  "model": "glm-5.2"
+}

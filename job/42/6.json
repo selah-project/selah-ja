@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "それゆえ、⟨私は⟩拒み、かつ慰められる、塵と灰の上で。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "כן",
+      "gloss": "それ"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "私は拒む"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "そして私は慰められる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塵"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "と灰"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:57.974873579Z",
+  "model": "glm-5.2"
+}

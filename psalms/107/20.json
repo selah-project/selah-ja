@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "⟨彼は⟩ ⟨彼の⟩ み言葉を遣わし、彼らをいやし、彼らの滅びから ⟨彼らを⟩ 救い出される。",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "遣わす"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "彼の言葉を"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "そして彼らをいやす"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "そして救い出す"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "彼らの滅びから"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:36.354326291Z",
+  "model": "glm-5.2"
+}

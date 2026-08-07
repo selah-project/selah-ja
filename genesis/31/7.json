@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "「あなたがたの父は私を欺き、私の賃金を十回も変えた。しかしエロヒムは彼が私に害を加えるのを許さなかった。」",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "そしてあなたがたの父は"
+    },
+    {
+      "surface": "התל",
+      "gloss": "欺き"
+    },
+    {
+      "surface": "בי",
+      "gloss": "私を"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "変えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の賃金を"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "私の賃金を"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "十"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "回"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜なかった"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "許さ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "害を加えるのを"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "私に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:02:39.178180309Z",
+  "model": "glm-5.2"
+}

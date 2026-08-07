@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "見よ、あなたは美しい、わたしの伴らいよ、見よ、あなたは美しい、あなたの目は鳩の⟨ようだ⟩",
+  "tokens": [
+    {
+      "surface": "הִנָּךְ",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "יָפָה",
+      "gloss": "美しい"
+    },
+    {
+      "surface": "רַעְיָתִי",
+      "gloss": "わたしの伴らいよ"
+    },
+    {
+      "surface": "הִנָּךְ",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "יָפָה",
+      "gloss": "美しい"
+    },
+    {
+      "surface": "עֵינַיִךְ",
+      "gloss": "あなたの目は"
+    },
+    {
+      "surface": "יוֹנִים",
+      "gloss": "鳩"
+    }
+  ],
+  "timestamp": "2026-08-07T13:32:51.995615917Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "「箱舟から出よ、あなたと、あなたの妻と、あなたの息子たちと、あなたの息子たちの妻たちが、あなたと共に。」",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "出よ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "箱舟"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "とあなたの妻"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "とあなたの息子たち"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "と…の妻たち"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "あなたの息子たちの"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "あなたと共に"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:17.240049654Z",
+  "model": "glm-5.2"
+}

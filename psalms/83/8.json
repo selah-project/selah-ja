@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 83,
+  "translation": "ゲバル、アンモン、アマレク、ペレシェト、ツォルの住民たちと共に。",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "ゲバル"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "そしてアンモン"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "そしてアマレク"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "ペレシェト"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "住民たち"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ツォルの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:43.106126112Z",
+  "model": "glm-5.2"
+}

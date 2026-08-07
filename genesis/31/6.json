@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "「そしてあなたがたは知っている、私がすべての力をもって⟨あなたがたの⟩父に仕えてきたことを。」",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "そしてあなたがたは"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "知っている"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "私の力をもって"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "仕えてきた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがたの父に"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "あなたがたの父に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:02:39.178049422Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼は⟨את⟩家を貴重な石で覆い、飾りとし、その金はパルワイムの金であった。",
+  "tokens": [
+    {
+      "surface": "וציף",
+      "gloss": "そして彼は覆った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "貴重な"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "飾りのために"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "そしてその金"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "パルワイム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:42.592963070Z",
+  "model": "glm-5.2"
+}

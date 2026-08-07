@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "私は見た、⟨את⟩ その務めを、エロヒムが人の子らに与えたものを、その中で思い悩むために。",
+  "tokens": [
+    {
+      "surface": "רָאִ֣יתִי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "その務め"
+    },
+    {
+      "surface": "הָֽעִנְיָ֗ן",
+      "gloss": "その務め"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "〜ものを"
+    },
+    {
+      "surface": "נָתַ֧ן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "אֱלֹהִ֛ים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "לִבְנֵ֥י",
+      "gloss": "〜の子らに"
+    },
+    {
+      "surface": "הָאָדָ֖ם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לַעֲנ֥וֹת",
+      "gloss": "思い悩むために"
+    },
+    {
+      "surface": "בּֽוֹ",
+      "gloss": "その中で"
+    }
+  ],
+  "timestamp": "2026-08-07T17:30:05.582513048Z",
+  "model": "glm-5.2"
+}

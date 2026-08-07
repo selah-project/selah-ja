@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "⟨彼らは⟩叫び、ヤハウェは聞いてくださり、彼らのすべての苦しみから⟨彼らを⟩救い出された。",
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "叫び"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "そしてヤハウェは"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞かれた"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "そしてすべての⋯から"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "彼らの苦しみ"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "彼らを救い出された"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:42.715480112Z",
+  "model": "glm-5.2"
+}

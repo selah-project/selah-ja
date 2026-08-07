@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 5:9",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ダビデは要塞に住み、これを「ダビデの町」と名づけた。ダビデは周囲を、ミロから家の内側に向かって建てた。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして住んだ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "במצדה",
+      "gloss": "要塞に"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして名づけた"
+    },
+    {
+      "surface": "לה",
+      "gloss": "それを"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "そして建てた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲を"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "ミロ"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "家の内側に向かって"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:45.275220376Z",
+  "model": "glm-5.2"
+}

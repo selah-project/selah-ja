@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "すべてのことがネブカドネツァル、⟨その⟩王に臨んだ。",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "すべてのこと"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "臨んだ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "ネブカドネツァル"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-08-07T13:44:59.232474083Z",
+  "model": "glm-5.2"
+}

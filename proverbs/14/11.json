@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "悪者たちの家は荒廃される、そして直ぐな人々の天幕は花咲く。",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "家は"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たちの"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "荒廃される"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "そして天幕は"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "直ぐな人々の"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "花咲く"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:00.817167164Z",
+  "model": "glm-5.2"
+}

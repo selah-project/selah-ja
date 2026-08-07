@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 121,
+  "translation": "ヤハウェはあなたの出で立つことを守り、あなたの帰り来ることを守る、今からとこしえまでも。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "守る"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "あなたの出で立つこと"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "そしてあなたの帰り来ること"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "今から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "とこしえ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:52.477660645Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 3:33",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "王はアブネルのために哀歌を唱え、こう言った。愚か者の死にようでアブネルは死ぬのか。",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "哀歌を唱えた"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "アブネル"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "הכמות",
+      "gloss": "〜の死にようで"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "愚か者"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死ぬのか"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "アブネルは"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:31.202547497Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 44:14",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "彼は自らのために杉を伐り、糸杉と楢を取り、森の木のうちで自らを強くする。彼は松を植え、雨がそれを育てる。",
+  "tokens": [
+    {
+      "surface": "לכרת",
+      "gloss": "伐る"
+    },
+    {
+      "surface": "לו",
+      "gloss": "自らの"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "杉"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして取る"
+    },
+    {
+      "surface": "תרזה",
+      "gloss": "糸杉"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "と楢"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "そして強くする"
+    },
+    {
+      "surface": "לו",
+      "gloss": "自らを"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "木のうちで"
+    },
+    {
+      "surface": "יער",
+      "gloss": "森の"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "植える"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "松"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "そして雨"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "育てる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:59.513531683Z",
+  "model": "glm-5.2"
+}

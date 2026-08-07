@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 22:19",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして彼は言った。「それゆえ、ヤハウェのことばを聞け。私は見た、⟨את⟩ヤハウェが御座に着いておられるのを。そして天の万象がその前に、右からも左からも立っていた。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "着いておられる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "御座"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そして全"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "万象"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "立っていた"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その前に"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "その右から"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "そしてその左から"
+    }
+  ],
+  "timestamp": "2026-08-07T11:10:27.045679098Z",
+  "model": "glm-5.2"
+}

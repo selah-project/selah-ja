@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてヨシュアは朝早く起き、祭司たちは ヤハウェ の ⟨את⟩ 箱を担いだ。",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "そして朝早く起き"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュアは"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "担いだ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たちは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "箱"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:23:45.956318821Z",
+  "model": "glm-5.2"
+}

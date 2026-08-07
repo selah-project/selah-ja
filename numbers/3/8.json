@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼らは会見の天幕のすべての器具を守り、イスラエルの子らの務めを守る。幕屋の奉仕を奉仕するためである。",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "そして守る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "務め"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "務め"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "奉仕するため"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "奉仕"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "奉仕"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:45.455227955Z",
+  "model": "glm-5.2"
+}

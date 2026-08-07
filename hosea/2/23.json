@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "その日になると — ヤハウェの御告げ — わたしは応える、わたしは ⟨את⟩ 天に応え、そして天は ⟨את⟩ 地に応えるであろう。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "わたしは応える"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "わたしは応える"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "天"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "והם",
+      "gloss": "そして天は"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "応える"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T12:17:54.888035615Z",
+  "model": "glm-5.2"
+}

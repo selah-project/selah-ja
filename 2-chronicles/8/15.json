@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼らは、祭司たちとレビ人に対する、また宝物庫に対するすべての事にかかわる、王の命令から外れなかった。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして…なかった"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "外れなかった"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "…の命令"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に対する"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "またレビ人"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "また宝物庫"
+    }
+  ],
+  "timestamp": "2026-08-07T14:11:58.579334873Z",
+  "model": "glm-5.2"
+}

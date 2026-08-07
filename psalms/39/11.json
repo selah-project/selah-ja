@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "あなたの打ち傷をわたしの上から取り去ってください。あなたの手の激しい打撃により、わたしは滅び果てました。",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "取り去ってください"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "わたしの上から"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "あなたの打ち傷を"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "激しい打撃"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手の"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "滅び果てました"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:53.480758698Z",
+  "model": "glm-5.2"
+}

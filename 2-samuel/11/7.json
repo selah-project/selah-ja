@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてウリヤは彼のもとに来た。ダビデはヨアブの平安を、民の平安を、そして戦の平安を尋ねた。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ウリヤは"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼のもとに"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "そして尋ねた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "平安を"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブの"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "そして平安を"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "そして平安を"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戦の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:56.949236237Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 53,
+  "translation": "聖歌隊の指揮者に向けて。マハラテに応じて。教訓の詩。ダビデの。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "聖歌隊の指揮者に向けて"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に応じて"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "マハラテ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "教訓の詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:22.274981937Z",
+  "model": "glm-5.2"
+}

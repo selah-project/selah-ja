@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "ヤハウェのことばは純粋なことば。地のるつぼの中で精製された銀、七回にわたり浄化された⟨もの⟩。",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "ことばは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "純粋な"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "精製された"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "るつぼの中で"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "浄化された"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "七回にわたり"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:52.597904233Z",
+  "model": "glm-5.2"
+}

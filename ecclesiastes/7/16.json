@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "正しくありすぎるな。そして知恵を持ちすぎるな。なぜにあなたは荒れ果てるのか。",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תְּהִי",
+      "gloss": "ある"
+    },
+    {
+      "surface": "צַדִּיק",
+      "gloss": "正しく"
+    },
+    {
+      "surface": "הַרְבֵּה",
+      "gloss": "すぎる"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "そして〜な"
+    },
+    {
+      "surface": "תִּתְחַכַּם",
+      "gloss": "知恵を持つ"
+    },
+    {
+      "surface": "יוֹתֵר",
+      "gloss": "すぎる"
+    },
+    {
+      "surface": "לָמָּה",
+      "gloss": "なぜに"
+    },
+    {
+      "surface": "תִּשּׁוֹמֵם",
+      "gloss": "荒れ果てる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:20.287777210Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 58,
+  "translation": "彼らの毒は蛇の毒の〈ような〉もの、聞こえないコブラが耳を閉ざす〈かのよう〉。",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "彼らの毒"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼らの"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "〜の像"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "毒"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "コブラ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "聞こえない"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "閉ざす"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "その耳を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:47:00.701324517Z",
+  "model": "glm-5.2"
+}

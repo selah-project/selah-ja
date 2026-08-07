@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "エリは⟨את⟩叫び声の声を聞き、言った、「この騒ぎの声は何か」。 すると、その男は急いで来て、エリに告げた。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "そして聞いた"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "エリは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "叫び声の声"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "叫び声の"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何（か）"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "騒ぎの"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "そしてその男"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "急いで"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "エリに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:48.297526329Z",
+  "model": "glm-5.2"
+}

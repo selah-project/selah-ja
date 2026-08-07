@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして⟨את⟩雄牛と、⟨את⟩その皮と、⟨את⟩その肉と、⟨את⟩その排泄物を、宿営の外で火で焼き尽くした。ヤハウェがモーセに命じたとおりに。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "雄牛"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その皮"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "その皮"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その肉"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "その肉"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その排泄物"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "その排泄物"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "焼き尽くした"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外に"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "宿営の"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜とおりに"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーセ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:08.278563263Z",
+  "model": "glm-5.2"
+}

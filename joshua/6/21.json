@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして彼らは聖絶した — ⟨את⟩ すべての、町の中にあるものを、男から女まで、若者から老人まで、また牛と羊とろばまで、剣の口によって。",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "そして彼らは聖絶した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての、町の中にあるもの"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町の中にある"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "男から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "若者から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "老人"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "また〜まで"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "と羊"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "とろば"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "口によって"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:25:25.081569685Z",
+  "model": "glm-5.2"
+}

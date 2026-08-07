@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "ふたり目の者に余分な唇はふさわしくない。まして高貴な者に偽りの唇は⟨なおさら⟩ふさわしくない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ふさわしい"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "愚かな者に"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "唇は"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "余分な"
+    },
+    {
+      "surface": "אף",
+      "gloss": "まして"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜こと"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "高貴な者に"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "唇は"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:21.037329420Z",
+  "model": "glm-5.2"
+}

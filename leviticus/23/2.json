@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "イスラエルの子らに語り、彼らに言え。あなたたちが聖なる召集として召集すべきヤハウェの定めの祭、これらこそわたしの定めの祭である。",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "そして言え"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "定めの祭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "あなたたちが召集する"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "聖なる召集"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "召集として"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "הם",
+      "gloss": "それらは"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "わたしの定めの祭"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:05.380173933Z",
+  "model": "glm-5.2"
+}

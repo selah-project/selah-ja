@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてあなたはそれのために枠を、手幅のものを、周りに作り、あなたはその枠のために金の飾り縁を周りに作らなければならない。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "そしてあなたは作る"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それのために"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "枠"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "手幅"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周りに"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "そしてあなたは作る"
+    },
+    {
+      "surface": "זר",
+      "gloss": "飾り縁"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "その枠のために"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周りに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:52.894556025Z",
+  "model": "glm-5.2"
+}

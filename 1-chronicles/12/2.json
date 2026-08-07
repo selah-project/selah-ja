@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "弓を熟練して扱う者、右手と左手で石と矢を弓により用いる者たち——シャウルの同族、ベニヤミンから⟨の者たち⟩。",
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "扱いに熟練した者"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "右手を使う"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "左手を使う"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "石で"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "矢で"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "弓により"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "〜の同族から"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "ベニヤミンから"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:02.610656122Z",
+  "model": "glm-5.2"
+}

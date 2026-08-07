@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてダビデは再びイスラエルの選ばれた者すべてを、三万 ⟨את⟩ 集めた。",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "そして…加えた"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再び"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの選ばれた者すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "選ばれた者"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:11.559702391Z",
+  "model": "glm-5.2"
+}

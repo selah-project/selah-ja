@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "ヤハウェ、私の祈りを聞いてください。私の叫びがあなたの御もとに来ますように。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "聞いてください"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "私の祈りを"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "私の叫びが"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたの御もとに"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "来ますように"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:49.132550421Z",
+  "model": "glm-5.2"
+}

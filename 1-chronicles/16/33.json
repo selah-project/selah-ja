@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 16:33",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そのとき森の木々は歓呼の声をあげる、ヤハウェの御前から、ヤハウェが来て⟨את⟩地をさばくために。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "そのとき"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "歓呼の声をあげる"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木々は"
+    },
+    {
+      "surface": "היער",
+      "gloss": "森の"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "〜の御前から"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来て"
+    },
+    {
+      "surface": "לשפוט",
+      "gloss": "さばくために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地を"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地を"
+    }
+  ],
+  "timestamp": "2026-08-07T14:06:17.905770346Z",
+  "model": "glm-5.2"
+}

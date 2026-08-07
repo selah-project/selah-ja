@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "誓願を立てないほうが良い。誓願を立てて果たさないよりも。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ことは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "誓願を立てる"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "誓願を立てる"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "果たす"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:42.561492830Z",
+  "model": "glm-5.2"
+}

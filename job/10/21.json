@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 10:21",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "私が行って、帰らない前に、⟨⟩闇と死の陰の地へ——",
+  "tokens": [
+    {
+      "surface": "בְּטֶ֣רֶם",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "אֵ֭לֵךְ",
+      "gloss": "私が行く"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "אָשׁ֑וּב",
+      "gloss": "私が帰る"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "אֶ֖רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "חֹ֣שֶׁךְ",
+      "gloss": "闇"
+    },
+    {
+      "surface": "וְצַלְמָֽוֶת",
+      "gloss": "死の陰"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:57.297805455Z",
+  "model": "glm-5.2"
+}

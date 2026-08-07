@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 86,
+  "translation": "アドナイ、私を恵んでください。私⟨は⟩あなた⟨のところ⟩に呼び求めるから、一日中。",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "私を恵んでください"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "私は呼び求める"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:26.142829319Z",
+  "model": "glm-5.2"
+}

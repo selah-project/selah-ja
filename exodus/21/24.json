@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "目を目の代わり、歯を歯の代わり、手を手の代わり、足を足の代わり⟨としなければならない⟩。",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "目を"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わり"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目"
+    },
+    {
+      "surface": "שן",
+      "gloss": "歯を"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わり"
+    },
+    {
+      "surface": "שן",
+      "gloss": "歯"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手を"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わり"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "足を"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わり"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "足"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:23.843428044Z",
+  "model": "glm-5.2"
+}

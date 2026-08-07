@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてベニヤミンの子らから⟨は⟩、サルウ、メシュラムの子、ホダヴヤの子、ハスヌアの子。",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "そして〜から"
+    },
+    {
+      "surface": "בני",
+      "gloss": "の子ら"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ベニヤミン"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "サルウ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "メシュラム"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "ホダヴヤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "ハスヌア"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:58.331138355Z",
+  "model": "glm-5.2"
+}

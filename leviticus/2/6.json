@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "それを⟨את⟩裂いて、その上に油を注げ — それはミンハーである。",
+  "tokens": [
+    {
+      "surface": "פָּת֤וֹת",
+      "gloss": "裂いて"
+    },
+    {
+      "surface": "אֹתָהּ֙",
+      "gloss": "⟨את⟩",
+      "marks": "それ（裂かれるべき塊）"
+    },
+    {
+      "surface": "פִּתִּ֔ים",
+      "gloss": "欠片に"
+    },
+    {
+      "surface": "וְיָצַקְתָּ֥",
+      "gloss": "そして注げ"
+    },
+    {
+      "surface": "עָלֶ֖יהָ",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "שָׁ֑מֶן",
+      "gloss": "油"
+    },
+    {
+      "surface": "מִנְחָ֖ה",
+      "gloss": "ミンハー（穀物の捧げ物）"
+    },
+    {
+      "surface": "הִֽוא",
+      "gloss": "それは〜である"
+    }
+  ],
+  "timestamp": "2026-08-07T16:29:52.069195930Z",
+  "model": "glm-5.2"
+}

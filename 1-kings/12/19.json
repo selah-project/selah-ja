@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてイスラエルはダヴィデの家にそむき、この日に至るまで⟨そうである⟩。",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "そして…はそむいた"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "…の家に"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィデ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…に至るまで"
+    },
+    {
+      "surface": "היום",
+      "gloss": "この日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "これ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:54.114443935Z",
+  "model": "glm-5.2"
+}

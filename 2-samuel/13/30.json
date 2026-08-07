@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 13:30",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "彼らが道にある間に、伝聞がダヴィドのもとに来て言った、「アブシャロムは王の息子たち全員を打った。彼らのうち一人も残らなかった」。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "〜となった"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道に"
+    },
+    {
+      "surface": "והשמעה",
+      "gloss": "伝聞が"
+    },
+    {
+      "surface": "באה",
+      "gloss": "来て"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "打った"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "アブシャロムは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王の息子たち全員"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全員"
+    },
+    {
+      "surface": "בני",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "残った"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "彼らのうち"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一人も"
+    }
+  ],
+  "timestamp": "2026-08-07T10:53:02.367599382Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてヤハウェはモーセに語って、仰せられた。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして…語られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "仰せられた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:10.185369890Z",
+  "model": "glm-5.2"
+}

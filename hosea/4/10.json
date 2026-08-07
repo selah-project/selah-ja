@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "彼らは食べても満たされず、姦淫しても増え広がらない。まことに、彼らは⟨את⟩ヤハウェを捨てて、守ることをやめたからだ。",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "そして彼らは食べる"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "満たされる"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "彼らは姦淫する"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "増え広がる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "彼らは捨てた"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "守ることを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:17:23.101579335Z",
+  "model": "glm-5.2"
+}

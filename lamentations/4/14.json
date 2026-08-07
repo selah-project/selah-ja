@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 4:14",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "盲人たちは通りをさまよい、血によって汚れた — 彼らはその衣に触れることができなかった。",
+  "tokens": [
+    {
+      "surface": "נָע֤וּ",
+      "gloss": "さまよった"
+    },
+    {
+      "surface": "עִוְרִים֙",
+      "gloss": "盲人たちは"
+    },
+    {
+      "surface": "בַּֽחוּצ֔וֹת",
+      "gloss": "通りを"
+    },
+    {
+      "surface": "נְגֹֽאֲל֖וּ",
+      "gloss": "汚れた"
+    },
+    {
+      "surface": "בַּדָּ֑ם",
+      "gloss": "血によって"
+    },
+    {
+      "surface": "בְּלֹ֣א",
+      "gloss": "〜できず"
+    },
+    {
+      "surface": "יֽוּכְל֔וּ",
+      "gloss": "彼らはできた"
+    },
+    {
+      "surface": "יִגְּע֖וּ",
+      "gloss": "触れることは"
+    },
+    {
+      "surface": "בִּלְבֻשֵׁיהֶֽם",
+      "gloss": "彼らの衣に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:26.776288880Z",
+  "model": "glm-5.2"
+}

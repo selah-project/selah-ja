@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてオベデは⟨את⟩イシャイをもうけ、イシャイは⟨את⟩ダヴィデをもうけた。",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "そしてオベデは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "もうけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イシャイ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "イシャイ"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "そしてイシャイは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "もうけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダヴィデ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィデ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:34:29.536781515Z",
+  "model": "glm-5.2"
+}

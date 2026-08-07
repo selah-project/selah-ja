@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 44:4",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "そして私はあなたがたに向かって ⟨את⟩ すべての私のしもべ、預言者たちを遣わした — 早く立ち上がり、遣わして、こう言った — どうか ⟨את⟩ この忌み嫌うべき事を、私が憎んだ事を、行わないでほしい。",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "そして私は遣わした"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "私のしもべ"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "預言者たち"
+    },
+    {
+      "surface": "השכים",
+      "gloss": "早く立ち上がり"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "遣わして"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "こう言った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないで"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "あなたがたは行う"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "事"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "התעבה",
+      "gloss": "忌み嫌うべき"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "私が憎んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T17:06:18.374360084Z",
+  "model": "glm-5.2"
+}

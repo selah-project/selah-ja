@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして人はすべての家畜、天の鳥、野のすべての獣に名を与えた。しかし人には、彼に相応しい助け手が見つからなかった。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "そして名を与えた"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人は"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "〜すべての"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "〜鳥"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "そして〜すべての"
+    },
+    {
+      "surface": "חית",
+      "gloss": "獣"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野の"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "人には"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "見つから"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "助け手"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "彼に相応しい"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:18.560099680Z",
+  "model": "glm-5.2"
+}

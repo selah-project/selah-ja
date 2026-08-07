@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして彼は会見の天幕の中、垂れ幕の前に、⟨את⟩金の祭壇を置いた。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "そして置いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "金の祭壇を"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇を"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "天幕の中に"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "の前に"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "垂れ幕の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:51.588859568Z",
+  "model": "glm-5.2"
+}

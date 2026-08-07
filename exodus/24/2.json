@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そしてモーシェはひとりでヤハウェに近づく、彼らは近づいてはならない、そして民は彼と共に上ってはならない。",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "そして近づく"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ひとりで"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "そして彼ら"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "近づく"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "そして民"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "上る"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    }
+  ],
+  "timestamp": "2026-08-07T16:28:03.085171048Z",
+  "model": "glm-5.2"
+}

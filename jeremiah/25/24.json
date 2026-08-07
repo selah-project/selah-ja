@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして⟨את⟩ アラブのすべての王たち、そして⟨את⟩ 荒野に住む混住民のすべての王たちを、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アラブのすべての王たち"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "アラブ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "混住民のすべての王たち"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "混住民の"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "住む"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:48:45.383076468Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "彼女は商人の船のようである——遠くから彼女のパンを運んでくる。",
+  "tokens": [
+    {
+      "surface": "הָ֭יְתָה",
+      "gloss": "彼女は〜であった"
+    },
+    {
+      "surface": "כָּאֳנִיּ֣וֹת",
+      "gloss": "船のよう"
+    },
+    {
+      "surface": "סוֹחֵ֑ר",
+      "gloss": "商人の"
+    },
+    {
+      "surface": "מִ֝מֶּרְחָ֗ק",
+      "gloss": "遠くから"
+    },
+    {
+      "surface": "תָּבִ֥יא",
+      "gloss": "彼女は運んでくる"
+    },
+    {
+      "surface": "לַחְמָֽהּ",
+      "gloss": "彼女のパンを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:41.328359376Z",
+  "model": "glm-5.2"
+}

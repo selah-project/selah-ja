@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 20:19",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "わたしはヤハウェ、あなたがたのエロヒム。わたしの掟に歩め、⟨את⟩わたしの規範を守り、それを行え。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "あなたがたのエロヒム"
+    },
+    {
+      "surface": "בחקותי",
+      "gloss": "わたしの掟に"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "歩め"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "わたしの規範を"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "わたしの規範"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "守れ"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "そして行え"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "それを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:07:07.408138653Z",
+  "model": "glm-5.2"
+}

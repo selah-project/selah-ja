@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そして彼に娘がなければ、あなたがたは⟨את⟩彼の嗣業を彼の兄弟たちに与えよ。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "あなたがたは与えよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の嗣業"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "彼の嗣業"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "彼の兄弟たちに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:24:13.495981652Z",
+  "model": "glm-5.2"
+}

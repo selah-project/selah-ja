@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 4:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "ヤハウェは彼に言った。「それゆえ、カインを殺す者は皆、七倍の復讐がなされよう。」そしてヤハウェはカインにしるしを置かれた。それはカインを見つける者が皆、彼を打つことのないためであった。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "殺す者"
+    },
+    {
+      "surface": "קין",
+      "gloss": "カインを"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "七倍"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "復讐がなされよう"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "そして置かれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "カインに"
+    },
+    {
+      "surface": "אות",
+      "gloss": "しるし"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "〜のため（否定）"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "打つ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "彼を見つける者が"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:02.585427464Z",
+  "model": "glm-5.2"
+}

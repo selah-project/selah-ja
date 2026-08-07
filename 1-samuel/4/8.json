@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "私たちにとってわざわいだ。誰が私たちを救うのか、これらの力強いエロヒムの手から。これら ⟨は⟩、エジプトを ⟨את⟩ 荒野ですべての打撃で打ったエロヒムだ。",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "わざわいだ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちにとって"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "私たちを救うのか"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "手から"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "力強い"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "הם",
+      "gloss": "〜だ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エジプト"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "エジプトを"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "打撃で"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:18.278290214Z",
+  "model": "glm-5.2"
+}

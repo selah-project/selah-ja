@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "micah 7:16",
+  "book": "micah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "諸国の民は見て、恥じよう、彼らのすべての力ゆえに。彼らは手を口の上に置き、彼らの耳は聞こえなくなる。",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "見て"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "諸国の民は"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "恥じよう"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "〜のすべての"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "彼らの力"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "彼らは置く"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פה",
+      "gloss": "口"
+    },
+    {
+      "surface": "אזניהם",
+      "gloss": "彼らの耳は"
+    },
+    {
+      "surface": "תחרשנה",
+      "gloss": "聞こえなくなる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:28:09.033339653Z",
+  "model": "glm-5.2"
+}

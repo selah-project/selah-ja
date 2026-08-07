@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 8:7",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "大水は愛を消すことができず、大河もそれを押し流せない。たとえ人が ⟨⟨את⟩⟩ ⟨自分の⟩ 家のすべての財産を愛のために与えても、彼らはそれを蔑むであろう。",
+  "tokens": [
+    {
+      "surface": "מַ֣יִם",
+      "gloss": "水"
+    },
+    {
+      "surface": "רַבִּ֗ים",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יֽוּכְלוּ֙",
+      "gloss": "できる"
+    },
+    {
+      "surface": "לְכַבּ֣וֹת",
+      "gloss": "消す"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "愛"
+    },
+    {
+      "surface": "הָֽאַהֲבָ֔ה",
+      "gloss": "愛"
+    },
+    {
+      "surface": "וּנְהָר֖וֹת",
+      "gloss": "大河も"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִשְׁטְפ֑וּהָ",
+      "gloss": "押し流す"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "たとえ〜でも"
+    },
+    {
+      "surface": "יִתֵּ֨ן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "אִ֜ישׁ",
+      "gloss": "人が"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "ה֤וֹן",
+      "gloss": "財産"
+    },
+    {
+      "surface": "בֵּיתוֹ֙",
+      "gloss": "彼の家の"
+    },
+    {
+      "surface": "בָּאַהֲבָ֔ה",
+      "gloss": "愛のために"
+    },
+    {
+      "surface": "בּ֖וֹז",
+      "gloss": "蔑む"
+    },
+    {
+      "surface": "יָב֥וּזוּ",
+      "gloss": "彼らは〜するであろう"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "それを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:35:04.883601145Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "あなたが見た二つの角を持つ雄羊、それらはメディヤとペルシャの王たちである。",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "雄羊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "あなたが見た"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "持つ"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "角"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "メディヤ"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "とペルシャ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:46:03.274379872Z",
+  "model": "glm-5.2"
+}

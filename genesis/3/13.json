@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてヤハウェ・エロヒムは女に言われた、「何を、これは、お前はしたのか」。女は言った、「あの蛇が私を惑わし、そして私は食べた」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "女に"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これは"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "お前はした"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女は"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "あの蛇は"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "私を惑わした"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "そして私は食べた"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:38.720323179Z",
+  "model": "glm-5.2"
+}

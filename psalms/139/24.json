@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 139,
+  "translation": "そしてご覧ください — わたしのうちに、害をもたらす道があるかどうかを。そしてわたしを、とこしえの道に導いてください。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "そしてご覧ください"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜かどうか"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道が"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "害をもたらす"
+    },
+    {
+      "surface": "בי",
+      "gloss": "わたしのうちに"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "そしてわたしを導いてください"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "〜の道に"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "とこしえの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:30.463978924Z",
+  "model": "glm-5.2"
+}

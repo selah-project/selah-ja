@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 13:17",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして彼は⟨自分の⟩仕える若者を呼び、言った。「どうかこの者を私のもとから外に送り出し、彼女の後で戸に鍵をかけよ。」",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "そして彼は呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の若者"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "彼の若者"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "彼に仕える者"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "送り出せ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この者"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "この者"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "私のもとから"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "外に"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "そして鍵をかけよ"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "戸"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "彼女の後で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:53:23.381474072Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "わたしは穴を掘り、水を飲んだ。そしてわたしは足の裏でマツォルのすべての運河を乾上がらせた。",
+  "tokens": [
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "קַ֖רְתִּי",
+      "gloss": "穴を掘り"
+    },
+    {
+      "surface": "וְשָׁתִ֣יתִי",
+      "gloss": "飲んだ"
+    },
+    {
+      "surface": "מָ֑יִם",
+      "gloss": "水を"
+    },
+    {
+      "surface": "וְאַחְרִב֙",
+      "gloss": "乾上がらせた"
+    },
+    {
+      "surface": "בְּכַף",
+      "gloss": "裏で"
+    },
+    {
+      "surface": "פְּעָמַ֔י",
+      "gloss": "足の"
+    },
+    {
+      "surface": "כֹּ֖ל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "יְאֹרֵ֥י",
+      "gloss": "運河"
+    },
+    {
+      "surface": "מָצֽוֹר",
+      "gloss": "マツォルの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:30:47.716424515Z",
+  "model": "glm-5.2"
+}

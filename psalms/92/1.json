@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 92,
+  "translation": "楽器の詩、歌。シャバットの日のために。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "楽器の詩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "〜の日のために"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "シャバット"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:21.677697240Z",
+  "model": "glm-5.2"
+}

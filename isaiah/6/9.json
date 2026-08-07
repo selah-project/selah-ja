@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして⟨彼は⟩言った、「行け、そしてこの民に言え：『聞け、聞くことに、しかし理解するな。見よ、見ることに、しかし知るな。』」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לך",
+      "gloss": "行け"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "そして言え"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⋯の民に"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "聞くことに"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "しかし⋯するな"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "理解するな"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "見ることに"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "しかし⋯するな"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "知るな"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:46.617586676Z",
+  "model": "glm-5.2"
+}

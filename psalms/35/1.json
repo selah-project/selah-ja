@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "ダヴィドの⟨詩⟩。ヤハウェ、私に争う者たちと争え、私と戦う者たちと戦え。",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ダヴィドの"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "争え"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私に争う者たち"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "私に争う者たち"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "戦え"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私と戦う者たち"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "私と戦う者たち"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:50.650401992Z",
+  "model": "glm-5.2"
+}

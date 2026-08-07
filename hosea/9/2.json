@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "脱穀場も酒ぶねも彼らを養わない。新しいぶどう酒は彼女を⟨裏切る⟩。",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "脱穀場"
+    },
+    {
+      "surface": "וביקב",
+      "gloss": "酒ぶねも"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "彼らを養う"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "新しいぶどう酒は"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "裏切る"
+    },
+    {
+      "surface": "בה",
+      "gloss": "彼女を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:20:12.207794016Z",
+  "model": "glm-5.2"
+}

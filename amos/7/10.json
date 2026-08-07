@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 7:10",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "ベト・エルの祭司アマツヤはイスラエルの王ヤラブアムのもとに人を遣わし、言った。「イスラエルの家のただ中でアモスはあなたに対して陰謀を企てました。地は彼のすべての言葉を⟨⟨את⟩⟩耐えきれません。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…遣わした"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "アマツヤは"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベト・"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エルの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ヤラブアム"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "陰謀を企てた"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたに対して"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "アモスは"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "〜のただ中で"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "耐えきれる"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "להכיל",
+      "gloss": "容れる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての言葉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "彼の言葉を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:22:54.796371873Z",
+  "model": "glm-5.2"
+}

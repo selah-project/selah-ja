@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 13:12",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "あなたがたの記念は灰のたとえ。土の盛り土はあなたがたの背。",
+  "tokens": [
+    {
+      "surface": "זכרניכם",
+      "gloss": "あなたがたの記念は"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "〜のたとえ"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "灰"
+    },
+    {
+      "surface": "לגבי",
+      "gloss": "〜の盛り土は"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "土"
+    },
+    {
+      "surface": "גביכם",
+      "gloss": "あなたがたの背"
+    }
+  ],
+  "timestamp": "2026-08-07T13:23:04.896400534Z",
+  "model": "glm-5.2"
+}

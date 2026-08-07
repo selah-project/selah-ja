@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして祭司は⟨彼⟩を診る。見よ、患部が白に変わったなら、祭司は患部を⟨את⟩清と宣言する。それは清である。",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "そして…診る"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司は"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "変わった"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "患部が"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "白に"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "そして…清と宣言する"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "患部を"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "患部を"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは…である"
+    }
+  ],
+  "timestamp": "2026-08-07T14:23:10.157439162Z",
+  "model": "glm-5.2"
+}

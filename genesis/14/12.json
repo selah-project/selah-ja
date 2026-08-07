@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして彼らは⟨את⟩ ロト——アブラムの兄弟の子——および⟨את⟩ 彼の財産を取って、去って行った。そして彼はソドムに住んでいた。",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "そして彼らは取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ロト"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ロト"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "彼の財産"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "彼の財産"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "…の兄弟"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "アブラム"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "そして去って行った"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そして彼"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "住んでいた"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "ソドムに"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:32.734593233Z",
+  "model": "glm-5.2"
+}

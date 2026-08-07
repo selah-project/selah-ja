@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "ヨヤダは⟨את⟩ヨナタンを生み、ヨナタンは⟨את⟩ヤドアを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "ヨヤダは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨナタン"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ヨナタンを"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ヨナタンは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤドア"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "ヤドアを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:58:42.366130754Z",
+  "model": "glm-5.2"
+}

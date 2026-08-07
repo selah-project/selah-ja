@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "あなた、ヤハウェ、はとこしえに座し、あなたの王座は世代から世代へ ⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "אַתָּ֤ה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "תֵּשֵׁ֔ב",
+      "gloss": "座する"
+    },
+    {
+      "surface": "כִּסְאֲךָ֖",
+      "gloss": "あなたの王座"
+    },
+    {
+      "surface": "לְדֹ֥ר",
+      "gloss": "世代から"
+    },
+    {
+      "surface": "וָדֽוֹר",
+      "gloss": "世代へ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:07.175253337Z",
+  "model": "glm-5.2"
+}

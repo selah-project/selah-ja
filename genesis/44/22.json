@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "そして私たちは私の主に言った、その若者は⟨את⟩彼の父を離れることはできない、もし彼が⟨את⟩彼の父を離れたなら、彼は死ぬであろう、と。",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "そして私たちは言った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "私の主"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "できる"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "その若者は"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "離れることは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の父"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "そして離れたなら"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の父"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "そして死ぬ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:08.406358846Z",
+  "model": "glm-5.2"
+}

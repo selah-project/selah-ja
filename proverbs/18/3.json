@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "悪者が来る時、来るまた蔑み、そして恥と共に⟨来る⟩嘲り",
+  "tokens": [
+    {
+      "surface": "בְּֽבוֹא",
+      "gloss": "来る時"
+    },
+    {
+      "surface": "רָ֭שָׁע",
+      "gloss": "悪者"
+    },
+    {
+      "surface": "בָּ֣א",
+      "gloss": "来る"
+    },
+    {
+      "surface": "גַּ֑ם",
+      "gloss": "また"
+    },
+    {
+      "surface": "בּ֥וּז",
+      "gloss": "蔑み"
+    },
+    {
+      "surface": "וְֽעִם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "קָל֥וֹן",
+      "gloss": "恥"
+    },
+    {
+      "surface": "חֶרְפָּֽה",
+      "gloss": "嘲り"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:37.361859662Z",
+  "model": "glm-5.2"
+}

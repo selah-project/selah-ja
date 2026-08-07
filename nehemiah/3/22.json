@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼の後に、祭司たち — 平野の人々 — が修理した。",
+  "tokens": [
+    {
+      "surface": "וְאַחֲרָ֛יו",
+      "gloss": "そして彼の後に"
+    },
+    {
+      "surface": "הֶחֱזִ֥יקוּ",
+      "gloss": "修理した"
+    },
+    {
+      "surface": "הַכֹּהֲנִ֖ים",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "אַנְשֵׁ֥י",
+      "gloss": "…の人々"
+    },
+    {
+      "surface": "הַכִּכָּֽר",
+      "gloss": "平野"
+    }
+  ],
+  "timestamp": "2026-08-07T13:55:21.760822086Z",
+  "model": "glm-5.2"
+}

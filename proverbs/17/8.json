@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "賄賂は、その持ち主たちの目には恵みの石である。それが向かうすべてのところで、それは成功する。",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "石"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恵みの"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "賄賂は"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "目には"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "その持ち主たちの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ところで"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "それが向かう"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "成功する"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:21.037427001Z",
+  "model": "glm-5.2"
+}

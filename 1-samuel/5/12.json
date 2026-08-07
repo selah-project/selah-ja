@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして死ななかった人々は腫瘍で打たれ、その町の叫びが天に上った。",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "そして…人々"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…た"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…なかった"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "死な"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "打たれた"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "腫瘍で"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "そして…は上った"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "叫び"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町の"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天へ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:54.178127143Z",
+  "model": "glm-5.2"
+}

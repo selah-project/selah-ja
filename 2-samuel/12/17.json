@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして彼の家の長老たちが彼を地から起こすために彼のもとに立ったが、彼は承ぜず、彼らと共にパンを食べ⟨את⟩ともしなかった。",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "そして立った"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老たち"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "彼の家の"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼のもとに"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "彼を起こすために"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "承じた"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "食べた"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼らと"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:52:34.452457764Z",
+  "model": "glm-5.2"
+}

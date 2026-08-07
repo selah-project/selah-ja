@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてこの女の息子が夜の間に死んだ — 彼女がその上に寝転がったためである",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子が"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女の"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜の間に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "彼女が寝転がった"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:59.578469682Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 31:4",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "水々は彼を大きくした、深淵は彼を高くした、⟨את⟩その川々は植栽を巡って流れ、そして⟨את⟩その水路は彼女は野のすべての木々の方へ送った。",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "水々"
+    },
+    {
+      "surface": "גדלוהו",
+      "gloss": "彼を大きくした"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "רממתהו",
+      "gloss": "彼を高くした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その川々"
+    },
+    {
+      "surface": "נהרתיה",
+      "gloss": "その川々"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "流れた"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "…の周りを"
+    },
+    {
+      "surface": "מטעה",
+      "gloss": "その植栽"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その水路"
+    },
+    {
+      "surface": "תעלתיה",
+      "gloss": "その水路"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "彼女は送った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…の方へ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木々"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:10:52.025455284Z",
+  "model": "glm-5.2"
+}

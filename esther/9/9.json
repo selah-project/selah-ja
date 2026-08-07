@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "および⟨את⟩ パルマシュタ、および⟨את⟩ アリサイ、および⟨את⟩ アリダイ、および⟨את⟩ ワイザタ。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "パルマシュタ"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "パルマシュタ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "アリサイ"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "アリサイ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "アリダイ"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "アリダイ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "ワイザタ"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "ワイザタ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:57.765414546Z",
+  "model": "glm-5.2"
+}

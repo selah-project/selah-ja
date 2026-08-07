@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "というのも、地の上に善を行ない、罪を犯さない正当な人間はいないのだから。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人間"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正当な"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地の上に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜者が"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "行なう"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "罪を犯す"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:58.553004749Z",
+  "model": "glm-5.2"
+}

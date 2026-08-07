@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 4:6",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "あなたが ⟨את⟩ これらを終えたなら、あなたの右側、二度目に横たわり、ユダの家の ⟨את⟩ 罪を負わなければならない。四十日——一日を一年として、一日を一年として、わたしはあなたにそれを割り当てた。",
+  "tokens": [
+    {
+      "surface": "וכלית",
+      "gloss": "あなたが終えたなら"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これら"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "横たわり"
+    },
+    {
+      "surface": "על",
+      "gloss": "～の上に"
+    },
+    {
+      "surface": "צדך",
+      "gloss": "あなたの側"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "右の"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "二度目に"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "あなたは負わなければならない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ユダの家の罪"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "לשנה",
+      "gloss": "一年として"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "לשנה",
+      "gloss": "一年として"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "わたしはそれを割り当てた"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:01:34.903992729Z",
+  "model": "glm-5.2"
+}

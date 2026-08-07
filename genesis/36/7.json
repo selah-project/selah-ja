@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "彼らの財産が多すぎて共に住むことができず、彼らの滞在の地は彼らの家畜のゆえに⟨את⟩彼らを支えきれなかったからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "彼らの財産が"
+    },
+    {
+      "surface": "רב",
+      "gloss": "多すぎて"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "住むことが"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "共に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "できず、そして〜なかった"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "できなかった"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "彼らの滞在の"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "支えることに"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩彼らを",
+      "marks": "彼らを"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "彼らの家畜"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:03.364329619Z",
+  "model": "glm-5.2"
+}

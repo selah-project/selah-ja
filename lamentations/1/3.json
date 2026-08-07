@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 1:3",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ユダは苦しみと過酷な労苦のゆえに捕囚となった。彼女は諸国の民の中に住み、安息地を見いだせない。彼女を追う者はみな、狭き所の間で彼女を捕らえた。",
+  "tokens": [
+    {
+      "surface": "גלתה",
+      "gloss": "捕囚となった"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダは"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "苦しみの"
+    },
+    {
+      "surface": "ומרב",
+      "gloss": "〜と過酷な"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "労苦"
+    },
+    {
+      "surface": "היא",
+      "gloss": "彼女は"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "住み"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "諸国の民の中に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "見いだせ"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "安息地を"
+    },
+    {
+      "surface": "כל",
+      "gloss": "みな"
+    },
+    {
+      "surface": "רדפיה",
+      "gloss": "彼女を追う者は"
+    },
+    {
+      "surface": "השיגוה",
+      "gloss": "彼女を捕らえた"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間で"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "狭き所"
+    }
+  ],
+  "timestamp": "2026-08-07T13:34:40.700967360Z",
+  "model": "glm-5.2"
+}

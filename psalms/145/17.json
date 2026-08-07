@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 145,
+  "translation": "正義なる方は⟨ヤハウェ⟩、そのすべての道において。そして慈愛なる方は、そのすべてのわざにおいて。",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "正義なる方"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "そのすべての〜において"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "道"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "慈愛なる方"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "そのすべての〜において"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "わざ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:29.900522351Z",
+  "model": "glm-5.2"
+}

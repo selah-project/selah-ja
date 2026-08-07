@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 129,
+  "translation": "恥じ、後ろに退け、ツィヨンを憎むすべての⟨者たち⟩よ",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "恥じよ"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "そして退け"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "後ろに"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "憎む者たち"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨン"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:26.129823714Z",
+  "model": "glm-5.2"
+}

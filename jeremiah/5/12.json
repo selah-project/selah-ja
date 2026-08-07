@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "彼らはヤハウェについて偽り、言った。「⟨彼はいない⟩。われわれに災いは来ない。剣も飢饉も、われわれは見ない。」",
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "偽った"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェについて"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "われわれに"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "災いが"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "剣も"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "飢饉も"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "われわれは見る"
+    }
+  ],
+  "timestamp": "2026-08-07T11:41:06.256891565Z",
+  "model": "glm-5.2"
+}

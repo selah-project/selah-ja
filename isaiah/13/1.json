@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "バビロン の重荷、これをイェシャヤフ、アモツ の子が見た。",
+  "tokens": [
+    {
+      "surface": "מַשָּׂ֖א",
+      "gloss": "重荷"
+    },
+    {
+      "surface": "בָּבֶ֑ל",
+      "gloss": "バビロン"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "これを"
+    },
+    {
+      "surface": "חָזָ֔ה",
+      "gloss": "見た"
+    },
+    {
+      "surface": "יְשַׁעְיָ֖הוּ",
+      "gloss": "イェシャヤフ"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "～の子"
+    },
+    {
+      "surface": "אָמֽוֹץ",
+      "gloss": "アモツ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:20.950891189Z",
+  "model": "glm-5.2"
+}

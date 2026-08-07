@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "憎しみは争いを呼び覚まし、そしてすべての背きの上には愛が覆う。",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "憎しみは"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "呼び覚まし"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "争いを"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして…の上には"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "背きの"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "覆う"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "愛が"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:15.976910607Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "義人は貧しい者の訴えを知る。悪しき者は知識を悟らない。",
+  "tokens": [
+    {
+      "surface": "יֹדֵ֣עַ",
+      "gloss": "知る"
+    },
+    {
+      "surface": "צַ֭דִּיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "דִּ֣ין",
+      "gloss": "訴え"
+    },
+    {
+      "surface": "דַּלִּ֑ים",
+      "gloss": "貧しい者"
+    },
+    {
+      "surface": "רָ֝שָׁ֗ע",
+      "gloss": "悪しき者"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יָבִ֥ין",
+      "gloss": "悟る"
+    },
+    {
+      "surface": "דָּֽעַת",
+      "gloss": "知識"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:40.607951042Z",
+  "model": "glm-5.2"
+}

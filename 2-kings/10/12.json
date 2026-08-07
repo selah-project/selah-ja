@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "彼は立ち上がり、来て、シャマロンに向かって行った。彼は道中、ロイムのベイト・エケドに⟨いた⟩。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "立ち上がり"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "来て"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "行った"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "シャマロンに"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベイト"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "エケド"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ロイムの"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道中"
+    }
+  ],
+  "timestamp": "2026-08-07T14:27:56.464993210Z",
+  "model": "glm-5.2"
+}

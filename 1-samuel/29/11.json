@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ダビデは早く立ち、彼と彼の部下は、朝行ってペリシテ人の地へ帰るためであった。ペリシテ人はイズレエルへ上った。",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "早く立った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼自身"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "彼の部下"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "行くため"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "帰る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人の"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ペリシテ人は"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "上った"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "イズレエルへ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:58.016246224Z",
+  "model": "glm-5.2"
+}

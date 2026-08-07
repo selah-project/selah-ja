@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "イスラエルの子らはラメセスから旅立ち、スコテに宿営した。",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "旅立ち"
+    },
+    {
+      "surface": "בני",
+      "gloss": "～の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "ラメセスから"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "宿営した"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "スコテに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:04:45.775486404Z",
+  "model": "glm-5.2"
+}

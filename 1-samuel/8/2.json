@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてこうなった — 彼の長子の名はヨエル、彼の次子の名はアビヤであった。⟨彼らは⟩ベエル・シェバで裁き人であった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうなった"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の息子"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "長子の"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ヨエル"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そして〜の名"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "彼の次子"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "アビヤ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "裁き人"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "ベエル・"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "シェバで"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:00.518402005Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "アドナイがツィヨンの娘たちの汚れを⟨את⟩洗い、エルシャライムの血を⟨את⟩その中から洗い去る時、裁きの霊と、焼き尽くす霊によって。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "〜の時"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "洗い"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ツィヨンの娘たちの汚れ"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "汚れ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "娘たちの"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨンの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "エルシャライムの血"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "血を"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "エルシャライムの"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "洗い去る"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "その中から"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "〜の霊によって"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "裁きの"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "〜の霊と"
+    },
+    {
+      "surface": "בער",
+      "gloss": "焼き尽くす"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:29.636997850Z",
+  "model": "glm-5.2"
+}

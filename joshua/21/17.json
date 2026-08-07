@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてベニヤミンの部族から⟨あった⟩ — ⟨את⟩ギブオンとその牧草地、⟨את⟩ゲバとその牧草地。",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "そして…の部族から"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ベニヤミン"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ギブオン"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ギブオン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "その牧草地"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "その牧草地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ゲバ"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "ゲバ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "その牧草地"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "その牧草地"
+    }
+  ],
+  "timestamp": "2026-08-07T10:29:41.386238367Z",
+  "model": "glm-5.2"
+}

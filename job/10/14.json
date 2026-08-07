@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "もし私が罪を犯したなら、あなたは私を見張り、私の咎から私を免罪されない。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "私が罪を犯したなら"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "あなたは私を見張り"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "私の咎から"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "私を免罪され"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:48.667678585Z",
+  "model": "glm-5.2"
+}

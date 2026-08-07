@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "歌う者たちが先頭に立ち、楽器を奏でる者たちが後に続いた、少女たちが真ん中でタンバリンを打ち鳴らす⟨中で⟩。",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "先頭に立った"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "歌う者たち"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "後に"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "楽器を奏でる者たち"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "真ん中で"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "少女たち"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "タンバリンを打ち鳴らす"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:06.918139202Z",
+  "model": "glm-5.2"
+}

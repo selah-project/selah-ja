@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "測り縄が私に恵まれた所に落ちた。まことに、私への嗣業は私の上に美しく輝く。",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "測り縄が"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "落ちた"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "恵まれた所に"
+    },
+    {
+      "surface": "אף",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "私への嗣業は"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "美しく輝く"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私の上に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:15.249108678Z",
+  "model": "glm-5.2"
+}

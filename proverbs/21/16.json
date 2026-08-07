@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "人 ⟨が⟩ — 分別の道からさまよう ⟨者は⟩ — レファイムの集会の中に安息する",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "さまよう"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "〜の道から"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "分別"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "〜の集会の中に"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "レファイム（死者の霊）"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "安息する"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:03.665635538Z",
+  "model": "glm-5.2"
+}

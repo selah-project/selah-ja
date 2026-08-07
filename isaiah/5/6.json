@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 5:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "わたしはそれを荒れ地とする。それは刈り込まれず、耕されず、いばらと野いばらが生い茂り、雲には命じて、その上に雨を降らせない。",
+  "tokens": [
+    {
+      "surface": "ואשיתהו",
+      "gloss": "わたしはそれを〜とする"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "荒れ地に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יזמר",
+      "gloss": "それは刈り込まれ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יעדר",
+      "gloss": "耕されず"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "そして昇る"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "いばらが"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "そして野いばらが"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "雲"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "わたしは命じる"
+    },
+    {
+      "surface": "מהמטיר",
+      "gloss": "雨を降らせることを"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "雨を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:40.093539140Z",
+  "model": "glm-5.2"
+}

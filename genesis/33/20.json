@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そして彼はそこに祭壇を据え、それを「エル・エロヘ・イスラエル（イスラエルのエル・エロヒーム）」と名づけた。",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "そして彼は据えた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇を"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして彼は名づけた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル（イスラエルの）"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "エロヒーム（イスラエルの）"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T16:24:58.415550937Z",
+  "model": "glm-5.2"
+}

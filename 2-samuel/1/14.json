@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ダビデは彼に言った。「どうして恐れなかったのか、⟨את⟩ ヤハウェの油注がれた者を滅ぼすために手を伸ばしたことにも。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "どうして"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "恐れた"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "伸ばす"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手を"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "滅ぼすために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの油注がれた者"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "油注がれた者"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T16:45:03.841094549Z",
+  "model": "glm-5.2"
+}

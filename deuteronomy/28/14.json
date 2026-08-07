@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 28:14",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そして、私がきょう ⟨את⟩あなたがたに命じるすべてのことばから、右にも左にもそれてはならない。ほかのエロヒムに従って歩き、これらに仕えるためである。」",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "それてはならない"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "すべての…から"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（関係詞）"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私が"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "命じる"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがたに"
+    },
+    {
+      "surface": "היום",
+      "gloss": "きょう"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "右"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "そして左"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "歩くために"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…の後に"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ほかの"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "これらに仕えるために"
+    }
+  ],
+  "timestamp": "2026-08-07T16:38:24.908828370Z",
+  "model": "glm-5.2"
+}

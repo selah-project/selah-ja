@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そしてヤハウェの怒りが再びイスラエルに対して燃え上がり、⟨彼⟩は彼らの中で⟨את⟩ダヴィドを煽り立たせて言った、「行って、イスラエルとユダを数えよ」と。",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "そして…加えた"
+    },
+    {
+      "surface": "אף",
+      "gloss": "怒り"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "燃え上がる"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルに対して"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "そして…煽り立たせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダヴィド"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "彼らの中で"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "לך",
+      "gloss": "行け"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "数えよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "ユダ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:25.272872419Z",
+  "model": "glm-5.2"
+}

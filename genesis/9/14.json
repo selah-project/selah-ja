@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして、わたしが雲を地の上にもたらすとき、雲の中の弓が見えるようになる。",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֕ה",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "בְּעַֽנְנִ֥י",
+      "gloss": "わたしが雲をもたらすとき"
+    },
+    {
+      "surface": "עָנָ֖ן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "וְנִרְאֲתָ֥ה",
+      "gloss": "そして見えるようになる"
+    },
+    {
+      "surface": "הַקֶּ֖שֶׁת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "בֶּעָנָֽן",
+      "gloss": "雲の中に"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:45.179340020Z",
+  "model": "glm-5.2"
+}

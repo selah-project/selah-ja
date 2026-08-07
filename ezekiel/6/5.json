@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "わたしはイスラエルの子らの死骸を彼らのギッルーリームの前に置き、あなたがたの骨をあなたがたの祭壇の周りに撒く。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "わたしは置く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子らの死骸"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "死骸"
+    },
+    {
+      "surface": "בני",
+      "gloss": "の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "の前に"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "彼らのギッルーリーム"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "わたしは撒く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがたの骨"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "あなたがたの骨"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "の周りに"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "あなたがたの祭壇"
+    }
+  ],
+  "timestamp": "2026-08-07T12:01:03.769734469Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "ヤハウェ⟨は⟩私の割り当て、私の相続地、また私の杯。あなたこそ⟨が⟩私のくじを支える⟨方⟩である。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "割り当て"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "私の相続地"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "また私の杯"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたこそ"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "支える"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "私のくじ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:15.248845694Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてエロヒムの箱は奪われ、エリの二人の息子は死んだ——ホフニとピンハス。",
+  "tokens": [
+    {
+      "surface": "וַאֲר֥וֹן",
+      "gloss": "そして箱は"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "נִלְקָ֑ח",
+      "gloss": "奪われ"
+    },
+    {
+      "surface": "וּשְׁנֵ֤י",
+      "gloss": "そして二人の"
+    },
+    {
+      "surface": "בְנֵֽי",
+      "gloss": "息子は"
+    },
+    {
+      "surface": "עֵלִי֙",
+      "gloss": "エリの"
+    },
+    {
+      "surface": "מֵ֔תוּ",
+      "gloss": "死んだ"
+    },
+    {
+      "surface": "חָפְנִ֖י",
+      "gloss": "ホフニ"
+    },
+    {
+      "surface": "וּפִֽינְחָֽס",
+      "gloss": "とピンハス"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:21.205358427Z",
+  "model": "glm-5.2"
+}

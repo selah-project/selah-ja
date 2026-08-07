@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 91,
+  "translation": "ただあなたの目で見つめ、悪者たちの報いをあなたは見るのみである。",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ただ…のみ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "あなたの目で"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "見つめ"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "そして…報いを"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たちの"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "あなたは見る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:27.070687114Z",
+  "model": "glm-5.2"
+}

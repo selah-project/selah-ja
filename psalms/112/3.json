@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 112,
+  "translation": "富と豊かさが彼の家に⟨あり⟩、彼の義はとこしえに立ち続ける。",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "富"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "と豊かさ"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "彼の家に"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "彼の義は"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "立ち続ける"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "とこしえに"
+    }
+  ],
+  "timestamp": "2026-08-07T17:22:00.799468339Z",
+  "model": "glm-5.2"
+}

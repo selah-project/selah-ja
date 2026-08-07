@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "モーシェはイスラエルの子らに告げた。ヤハウェがモーシェに命じたすべてに従って⟨⟩。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "すべてに従って"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーシェ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:03:54.051408858Z",
+  "model": "glm-5.2"
+}

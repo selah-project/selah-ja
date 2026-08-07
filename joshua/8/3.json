@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 8:3",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "ヨシュアはハアイに上るために立ち上がり、戦いのすべての民も共に⟨立ち上がった⟩。ヨシュアは三万の男、力ある勇士を選び、彼らを夜のうちに遣わした。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして…立ち上がった"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戦いの"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "上るために"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ハアイ"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "そして…選んだ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "力ある者たち"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "勇士の"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "そして彼らを遣わした"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:26:19.381548733Z",
+  "model": "glm-5.2"
+}

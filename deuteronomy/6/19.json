@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "追い払うため、⟨את⟩ あなたの敵のすべてを、あなたの前から、ヤハウェが語られたように。",
+  "tokens": [
+    {
+      "surface": "לַהֲדֹ֥ף",
+      "gloss": "追い払うため"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの敵のすべて"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "〜のすべて"
+    },
+    {
+      "surface": "אֹיְבֶ֖יךָ",
+      "gloss": "あなたの敵"
+    },
+    {
+      "surface": "מִפָּנֶ֑יךָ",
+      "gloss": "あなたの前から"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֖ר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "דִּבֶּ֥ר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:09:48.721151512Z",
+  "model": "glm-5.2"
+}

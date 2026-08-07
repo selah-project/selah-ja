@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして、これらによってあなたがたは汚れる：それらの死骸に触れるすべての者は夕方まで汚れる。",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "そしてこれらによって"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "あなたがたは汚れる"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "触れる者"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "それらの死骸に"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "汚れる"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "夕方"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:45.656724188Z",
+  "model": "glm-5.2"
+}

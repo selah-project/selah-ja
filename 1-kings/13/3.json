@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 13:3",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして彼はその日にしるしを与えて言った。「これはヤハウェが語られたしるしである。見よ、祭壇は裂け、その上の灰は注ぎ出される。」",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "そして与えた"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "しるしを"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これは"
+    },
+    {
+      "surface": "המופת",
+      "gloss": "しるし"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇は"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "裂け"
+    },
+    {
+      "surface": "ונשפך",
+      "gloss": "そして注ぎ出される"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "灰は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:03:44.814939253Z",
+  "model": "glm-5.2"
+}

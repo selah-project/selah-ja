@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "このわたし、ヤハウェが、義をもってあなたを呼び、あなたの手を強く握り、あなたを守り、あなたを民の契約、国民の光として与える。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "このわたし"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "あなたを呼び"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "義をもって"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "強く握り"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "あなたの手を"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "あなたを守り"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "あなたを与える"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "契約として"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "光として"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国民の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:15.915181102Z",
+  "model": "glm-5.2"
+}

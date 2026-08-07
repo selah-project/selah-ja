@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "もし ⟨あなたが⟩ 去らせることを拒んで、なお彼らを握りしめているなら、",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "…拒む"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "去らせることを"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "そして…なお…あなたは"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "握りしめている"
+    },
+    {
+      "surface": "בם",
+      "gloss": "彼らを"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:24.243574689Z",
+  "model": "glm-5.2"
+}

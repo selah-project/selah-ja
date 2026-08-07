@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "あなたがたはヤハウェあなたがたのエロヒムに対してこのようにしてはならない。",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תַעֲשׂ֣וּן",
+      "gloss": "あなたがたはする"
+    },
+    {
+      "surface": "כֵּ֔ן",
+      "gloss": "このように"
+    },
+    {
+      "surface": "לַיהוָ֖ה",
+      "gloss": "ヤハウェに対して"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶֽם",
+      "gloss": "あなたがたのエロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:13:32.014204672Z",
+  "model": "glm-5.2"
+}

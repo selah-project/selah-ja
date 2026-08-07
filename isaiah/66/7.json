@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "彼女が身ごもる前に、彼女は産んだ。彼女に陣痛が来る前に、彼女は男の子を産み落とした。",
+  "tokens": [
+    {
+      "surface": "בְּטֶרֶם",
+      "gloss": "…前に"
+    },
+    {
+      "surface": "תָּחִיל",
+      "gloss": "身ごもる"
+    },
+    {
+      "surface": "יָלָדָה",
+      "gloss": "彼女は産んだ"
+    },
+    {
+      "surface": "בְּטֶרֶם",
+      "gloss": "…前に"
+    },
+    {
+      "surface": "יָבוֹא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "חֵבֶל",
+      "gloss": "陣痛が"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "וְהִמְלִיטָה",
+      "gloss": "彼女は産み落とした"
+    },
+    {
+      "surface": "זָכָר",
+      "gloss": "男の子を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:38:31.303891113Z",
+  "model": "glm-5.2"
+}

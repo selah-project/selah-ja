@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "彼らはそれぞれ四つの顔を持ち、それぞれ四つの翼を持っていた。",
+  "tokens": [
+    {
+      "surface": "וְאַרְבָּעָ֥ה",
+      "gloss": "四つの"
+    },
+    {
+      "surface": "פָנִ֖ים",
+      "gloss": "顔を"
+    },
+    {
+      "surface": "לְאֶחָ֑ת",
+      "gloss": "それぞれ⟨持ち⟩"
+    },
+    {
+      "surface": "וְאַרְבַּ֥ע",
+      "gloss": "四つの"
+    },
+    {
+      "surface": "כְּנָפַ֖יִם",
+      "gloss": "翼を"
+    },
+    {
+      "surface": "לְאַחַ֥ת",
+      "gloss": "それぞれ"
+    },
+    {
+      "surface": "לָהֶֽם",
+      "gloss": "彼らは⟨持っていた⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:00:36.289356394Z",
+  "model": "glm-5.2"
+}

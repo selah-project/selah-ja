@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "「貧しき者の荒廃ゆえに、乏しき者の喘ぎゆえに、今、わたしは立ち上がる」とヤハウェは言う。「わたしは彼を、彼が喘ぎ求める救いに置こう」",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "荒廃ゆえに"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "貧しき者の"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "喘ぎゆえに"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "乏しき者の"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "わたしは立ち上がる"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "言う"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "わたしは置こう"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "救いに"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "彼が喘ぎ求める"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:52.597803907Z",
+  "model": "glm-5.2"
+}

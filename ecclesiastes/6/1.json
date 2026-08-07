@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "悪が ⟨ある⟩、太陽の下で私が見たもの、そしてそれは人の上に重い。",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ある"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私が見た"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下で"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "そして重い"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それ⟨は⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:03.609560363Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "これこそシェムの系図。シェムは百歳の時、大洪水の二年後に⟨את⟩アルパクシャドを生んだ。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "系図"
+    },
+    {
+      "surface": "שם",
+      "gloss": "シェムの"
+    },
+    {
+      "surface": "שם",
+      "gloss": "シェム"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子（〜歳）"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "そして生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アルパクシャド"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "アルパクシャド"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "二年"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "後"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "大洪水の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:55.059082898Z",
+  "model": "glm-5.2"
+}

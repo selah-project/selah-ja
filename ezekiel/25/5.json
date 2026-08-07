@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 25:5",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "わたしは⟨את⟩ラバをらくだの住処とし、⟨את⟩アンモンの子らを羊の伏し場とする。そしてあなたたちは知る、わたしがヤハウェであることを。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "わたしは与える"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ラバを"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ラバ"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "住処として"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "らくだの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アンモンの子らを"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アンモン"
+    },
+    {
+      "surface": "למרבץ",
+      "gloss": "伏し場として"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊の"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "そしてあなたたちは知る"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェである"
+    }
+  ],
+  "timestamp": "2026-08-07T12:09:17.779501847Z",
+  "model": "glm-5.2"
+}

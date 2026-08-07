@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 19:4",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "その日、民は恥じて逃げる者が戦いから忍び込むように、町に入るために忍び込んだ。",
+  "tokens": [
+    {
+      "surface": "ויתגנב",
+      "gloss": "忍び込んだ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "入るために"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "יתגנב",
+      "gloss": "忍び込む"
+    },
+    {
+      "surface": "העם",
+      "gloss": "者が"
+    },
+    {
+      "surface": "הנכלמים",
+      "gloss": "恥じて"
+    },
+    {
+      "surface": "בנוסם",
+      "gloss": "逃げる"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "戦いから"
+    }
+  ],
+  "timestamp": "2026-08-07T10:55:26.154275453Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 22:27",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そしてあなたは言う。「王はこう言う。⟨את⟩この者を牢に置け。そして苦難のパンと苦難の水を彼に食べさせよ、私が無事に帰って来るまで。」",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "そしてあなたは言う"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "置け"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この者"
+    },
+    {
+      "surface": "זה",
+      "gloss": "この者"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家…に"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "牢"
+    },
+    {
+      "surface": "והאכילהו",
+      "gloss": "そして彼に食べさせよ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "苦難の"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "そして水"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "苦難の"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "באי",
+      "gloss": "私が帰って来る"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "無事に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:52.243648419Z",
+  "model": "glm-5.2"
+}

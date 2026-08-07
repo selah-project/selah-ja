@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "一枚の板の長さは十アンマ、そして一枚の板の幅は一アンマと半アンマである。",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長さは"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "板の"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "そして一アンマ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "と半分"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "アンマの"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "幅は"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "板の"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一枚の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:10.128691091Z",
+  "model": "glm-5.2"
+}

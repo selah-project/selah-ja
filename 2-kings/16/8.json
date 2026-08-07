@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてアハズは⟨את⟩銀と⟨את⟩金を取った — ヤハウェの家に、また王の家の宝物倉に見つかったもの — そしてアッシュルの王に贈り物として遣わした。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "アハズは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "銀"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "金"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "見つかった"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "および…の宝物倉に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "そして遣わした"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "…の王に"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アッシュル"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "贈り物として"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:23.346198589Z",
+  "model": "glm-5.2"
+}

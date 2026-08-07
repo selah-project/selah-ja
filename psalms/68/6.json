@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "孤児の父、やもめの裁き手 — エロヒム、⟨御⟩聖なる住処において。",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "父"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "孤児の"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "そして裁き手"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "やもめの"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "⟨〜の⟩住処において"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "⟨御⟩聖なる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:21.336480544Z",
+  "model": "glm-5.2"
+}

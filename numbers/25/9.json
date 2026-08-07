@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして疫病による死者は二万四千人となった。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "死者"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "疫病による"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "と二十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-08-07T09:59:55.642532082Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 34:6",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そしてヤハウェは彼の御前を通り過ぎて行かれ、宣言された。ヤハウェ、ヤハウェ、エル、あわれみ深く、恵み豊かであられ、怒るのに遅く、ヘセドとまことに満ちておられる⟨方⟩。",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "そして通り過ぎて行かれ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上を"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "彼の御前"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして宣言された"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "あわれみ深く"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "恵み豊かで"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "遅く"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "怒るのに"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "そして満ちて"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ヘセド"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "とまこと"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:43.847722866Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 26:21",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "木炭は燃えさかる炭のために、薪は火のために、そして争いを好む者は争いを燃え上がらせるために。",
+  "tokens": [
+    {
+      "surface": "פחם",
+      "gloss": "木炭"
+    },
+    {
+      "surface": "לגחלים",
+      "gloss": "燃えさかる炭のため"
+    },
+    {
+      "surface": "ועצים",
+      "gloss": "そして薪"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "火のため"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "そして人は"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "争いを好む"
+    },
+    {
+      "surface": "לחרחר",
+      "gloss": "燃え上がらせるために"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "争いを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:10.693047590Z",
+  "model": "glm-5.2"
+}

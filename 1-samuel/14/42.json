@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 14:42",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてシャウルは言った。「私と私の子ヨナタンの間に ⟨くじを⟩ 投げてください。」するとヨナタンは捕えられた。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "投げてください"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "私と…の間に"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "…との間に"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ヨナタン"
+    },
+    {
+      "surface": "בני",
+      "gloss": "私の子"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "そして…捕えられた"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ヨナタン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:32.706806521Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 71,
+  "translation": "「エロヒムは彼を見捨てた。追い迫り、彼を捕らえよ。救う者がいないのだから」と。",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "見捨てた"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "追い迫れ"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "彼を捕らえよ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "のだから"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "救う者が"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:32.188856764Z",
+  "model": "glm-5.2"
+}

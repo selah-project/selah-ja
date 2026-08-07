@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そしてイスラエルの王はエホシャファトに言った。「私はあなたに言わなかったか。彼は私について良いことは預言せず、ただ悪いことだけだと。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "エホシャファト"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "私は言った"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "彼は預言する"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私について"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良いこと"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ではなく"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪いこと"
+    }
+  ],
+  "timestamp": "2026-08-07T11:10:27.045569885Z",
+  "model": "glm-5.2"
+}

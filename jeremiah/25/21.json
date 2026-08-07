@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "⟨את⟩ エドム、そして⟨את⟩ モアブ、そして⟨את⟩ アンモンの子らを、",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エドム"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "モアブ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アンモンの子ら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アンモン"
+    }
+  ],
+  "timestamp": "2026-08-07T11:48:45.382650795Z",
+  "model": "glm-5.2"
+}

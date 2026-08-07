@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "そして正しい者たちは見て、恐れ、彼を笑うであろう。",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "そして見るであろう"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "正しい者たちは"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "そして恐れる"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "そして彼を"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "笑うであろう"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:46.891289804Z",
+  "model": "glm-5.2"
+}

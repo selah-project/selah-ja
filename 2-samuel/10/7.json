@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "ダビデがこれを聞くと、彼は⟨את⟩ヨアブと⟨את⟩勇士の全軍を遣わした。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "…聞くと"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデが"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "彼は遣わした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨアブ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "勇士の全軍"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "軍を"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "勇士の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:57.894600411Z",
+  "model": "glm-5.2"
+}

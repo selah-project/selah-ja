@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "その日に、わたしはエリに対して、わたしが彼の家について語ったすべての事を ⟨את⟩ 果たす。始めから、終わりまで。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "わたしは果たす"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "エリ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての事"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "わたしが語った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "彼の家"
+    },
+    {
+      "surface": "החל",
+      "gloss": "始めから"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "終わりまで"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:03.947133120Z",
+  "model": "glm-5.2"
+}

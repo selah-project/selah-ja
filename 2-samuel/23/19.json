@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 23:19",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "三人の中から最も誉れある者ではなかったか。そして彼は彼らの長となった。しかし三人には及ばなかった。",
+  "tokens": [
+    {
+      "surface": "מִן",
+      "gloss": "〜の中から"
+    },
+    {
+      "surface": "הַשְּׁלֹשָׁה",
+      "gloss": "三人の"
+    },
+    {
+      "surface": "הֲכִי",
+      "gloss": "最も"
+    },
+    {
+      "surface": "נִכְבָּד",
+      "gloss": "誉れある者"
+    },
+    {
+      "surface": "וַיְהִי",
+      "gloss": "そして…なった"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "彼らの"
+    },
+    {
+      "surface": "לְשָׂר",
+      "gloss": "長"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "しかし…に"
+    },
+    {
+      "surface": "הַשְּׁלֹשָׁה",
+      "gloss": "三人"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "בָא",
+      "gloss": "及んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:19.593436057Z",
+  "model": "glm-5.2"
+}

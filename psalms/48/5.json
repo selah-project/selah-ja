@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "彼らは集まり、共に通り過ぎたからだ。見よ、あの王たちが。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "הִנֵּ֣ה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "הַ֭מְּלָכִים",
+      "gloss": "あの王たちは"
+    },
+    {
+      "surface": "נֽוֹעֲד֑וּ",
+      "gloss": "集まった"
+    },
+    {
+      "surface": "עָבְר֥וּ",
+      "gloss": "通り過ぎた"
+    },
+    {
+      "surface": "יַחְדָּֽו",
+      "gloss": "共に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:43.582072017Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 76,
+  "translation": "そして ⟨彼の⟩仮庵はシャレムに、そして ⟨彼の⟩住処はツィヨンに。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "シャレムに"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "仮庵は"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "そして住処は"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ツィヨンに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:52.568328955Z",
+  "model": "glm-5.2"
+}

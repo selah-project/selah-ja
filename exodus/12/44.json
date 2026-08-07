@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてすべての奴隷で、人の銀で買われた者——あなたが彼に割礼を施したなら、そのとき彼はそれを食べてよい。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴隷で"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "買われた"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀で"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "そしてあなたが割礼を施したなら"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼に"
+    },
+    {
+      "surface": "אז",
+      "gloss": "そのとき"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それを"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:10.550319927Z",
+  "model": "glm-5.2"
+}

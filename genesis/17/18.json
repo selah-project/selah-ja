@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 17:18",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "アヴラハムはエロヒムに言った。「ああ、イシュマエルがあなたの前に生きてくれますように。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アヴラハムは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "……へ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ああ……だったら"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "イシュマエルが"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "生きるでしょうように"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "あなたの前に"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:01.931019292Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "あなたの母の姉妹の裸を、あなたは露わにしてはならない。彼女はあなたの母の肉の親〈である〉から。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "…の裸"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "姉妹"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "あなたの母の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "あなたは露わにする"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "肉の親"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "あなたの母の"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼女は〈…である〉"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:00.981843356Z",
+  "model": "glm-5.2"
+}

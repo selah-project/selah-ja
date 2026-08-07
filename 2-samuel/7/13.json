@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "彼がわたしの名のために家を建て、わたしは⟨את⟩彼の王国の王座をとこしえまで堅く立てる。",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "彼が"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "建てる"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家を"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "わたしの名のために"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "そしてわたしは堅く立てる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王座"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "王座を"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "彼の王国の"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "とこしえ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:26.141355747Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 26:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そして、彼の父アブラハムの日に彼の父のしもべたちが掘った井戸をすべて、ペリシュティ人はふさぎ、土で満たした。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "הבארת",
+      "gloss": "井戸を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "掘った"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "しもべたちが"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父の"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    },
+    {
+      "surface": "סתמום",
+      "gloss": "ふさぎ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシュティ人は"
+    },
+    {
+      "surface": "וימלאום",
+      "gloss": "満たした"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "土で"
+    }
+  ],
+  "timestamp": "2026-08-07T08:58:43.129378342Z",
+  "model": "glm-5.2"
+}

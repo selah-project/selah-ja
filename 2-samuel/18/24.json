@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 18:24",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "ダビデは二つの門の間に座していた。見張りは門の屋根の上、城壁のほうへ行った。彼は目を上げて見た。見よ、ひとりの男が独りで走っていた。",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "座していた"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間に"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "門"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "行った"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "見張りは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の上へ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "屋根"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のほうへ"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "城壁"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "上げて"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の目"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "彼の目を"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "見た"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ひとりの男が"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "走っていた"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "独りで"
+    }
+  ],
+  "timestamp": "2026-08-07T10:55:00.535685622Z",
+  "model": "glm-5.2"
+}

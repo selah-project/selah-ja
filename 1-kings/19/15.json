@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "ヤハウェは彼に言った。「行け、あなたの道をダマシェクの荒野へと引き返せ。そして行って、⟨את⟩ハザエルに油を注ぎ、アラムの王とせよ。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "לך",
+      "gloss": "行け"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "引き返せ"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "あなたの道を"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "荒野へと"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ダマシェクの"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "そして来て"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "油を注げ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ハザエルに"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "ハザエルに"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王として"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラムの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:51.408559625Z",
+  "model": "glm-5.2"
+}

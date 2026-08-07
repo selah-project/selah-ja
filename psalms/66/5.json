@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "来て、エロヒムのみわざを見よ。人の子たちに対する⟨その⟩行いは恐るべきものだ。",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "来て"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "みわざ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "恐るべきものだ"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "行い"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に対する"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子たち"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T12:49:00.142207519Z",
+  "model": "glm-5.2"
+}

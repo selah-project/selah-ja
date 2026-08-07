@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてアビメレクはアブラハムに言った——あなたは何を見たのか、この⟨事柄⟩をしたのは。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして……言った"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "アビメレク"
+    },
+    {
+      "surface": "אל",
+      "gloss": "……に"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "あなたは見た"
+    },
+    {
+      "surface": "כי",
+      "gloss": "……なので"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "あなたはした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "事柄"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "事柄"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:48.988957974Z",
+  "model": "glm-5.2"
+}

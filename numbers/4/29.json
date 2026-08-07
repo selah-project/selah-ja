@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "メラリの子らを、その氏族ごとに、その父祖の家ごとに、あなたは数えよ、⟨את⟩彼らを。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "メラリ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "その氏族ごとに"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "〜の家ごとに"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "その父祖の"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "あなたは数えよ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:46.494736283Z",
+  "model": "glm-5.2"
+}

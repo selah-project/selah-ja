@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "私の思い ⟨が⟩ 彼に甘美であるように。この私はヤハウェにおいて喜ぼう。",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "甘美であるように"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "私の思い"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "この私"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "私は喜ぼう"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェにおいて"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:37.539481964Z",
+  "model": "glm-5.2"
+}

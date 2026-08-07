@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてアハロンの子ら、⟨すなわち⟩祭司たちは⟨את⟩切り身を—⟨את⟩頭と⟨את⟩脂肪を—薪の上に並べる。その薪は火の上にあり、その火は祭壇の上にある。",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "そして…並べる"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "切り身"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "切り身"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "頭"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "脂肪"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "薪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:42.039171810Z",
+  "model": "glm-5.2"
+}

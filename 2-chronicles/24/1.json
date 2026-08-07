@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 24:1",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "七歳の⟨時に⟩ヨアシュは⟨王位に⟩就き、四十の年をイェルシャライムで治めた。彼の母の名はツィフヤ、ベエル・シェバの出であった。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "歳の"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "יאש",
+      "gloss": "ヨアシュ"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "⟨王位に⟩就き"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "四十の"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "治めた"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライムで"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そして⋯の名"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "彼の母の"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "ツィフヤ"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "⋯の出で"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ベエル・シェバ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:15:52.028064214Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 2:16",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてエステルはアハシュヴェロシュ王のところに、彼の王権の家に連れて行かれた。第十の月、すなわちテベトの月に、彼の王権の第七年であった。",
+  "tokens": [
+    {
+      "surface": "ותלקח",
+      "gloss": "そして〜は連れて行かれた"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "エステルは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "アハシュヴェロシュ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "彼の王権の"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "月に"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "第十の"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "すなわち"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "月"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "テベト"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "〜年に"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "彼の王権の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:41:22.384692407Z",
+  "model": "glm-5.2"
+}

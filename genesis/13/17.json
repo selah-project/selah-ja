@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "立って、この地をその長さと広さにおいて歩き回れ。わたしはそれをあなたに与えるからである。",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "立って"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "歩き回れ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "この地を"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "その長さと"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "広さにおいて"
+    },
+    {
+      "surface": "כי",
+      "gloss": "からである"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "わたしはそれを与える"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:21.518414541Z",
+  "model": "glm-5.2"
+}

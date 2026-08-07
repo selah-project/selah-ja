@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "知恵ある者の心は⟨彼の⟩右に、かく愚かな者の心は左に。",
+  "tokens": [
+    {
+      "surface": "לֵב",
+      "gloss": "心"
+    },
+    {
+      "surface": "חָכָם",
+      "gloss": "知恵ある者の"
+    },
+    {
+      "surface": "לִימִינוֹ",
+      "gloss": "⟨彼の⟩右に"
+    },
+    {
+      "surface": "וְלֵב",
+      "gloss": "かく〜の心"
+    },
+    {
+      "surface": "כְּסִיל",
+      "gloss": "愚かな者の"
+    },
+    {
+      "surface": "לִשְׂמֹאלֽוֹ",
+      "gloss": "⟨彼の⟩左に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:12.509300338Z",
+  "model": "glm-5.2"
+}

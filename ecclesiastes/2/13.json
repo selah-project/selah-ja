@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして私、この私は、知恵には愚かさに対する利点があるのを見た — 光の利点が闇に対する〈のと〉同じように。",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "そして私は見た"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "〜がある"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "利点"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "知恵に"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜に対する"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "愚かさ"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "〜の利点のように"
+    },
+    {
+      "surface": "האור",
+      "gloss": "光"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜に対する"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "闇"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:17.135942661Z",
+  "model": "glm-5.2"
+}

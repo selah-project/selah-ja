@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 19:12",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてサリドから東へ、日の出の方へ折れ、キスロテ・タボルの境界に沿って進み、ベ・ダブラテへ出て、ヤフィアへ上った。",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "そして折れ"
+    },
+    {
+      "surface": "משריד",
+      "gloss": "サリドから"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "東へ"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "〜の方へ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日の出"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に沿って"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界に"
+    },
+    {
+      "surface": "כסלת",
+      "gloss": "キスロテ"
+    },
+    {
+      "surface": "תבר",
+      "gloss": "タボル"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הדברת",
+      "gloss": "ベ・ダブラテ"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "そして上った"
+    },
+    {
+      "surface": "יפיע",
+      "gloss": "ヤフィアへ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:29:12.423932668Z",
+  "model": "glm-5.2"
+}

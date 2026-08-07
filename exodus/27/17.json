@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 27:17",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "囲みの庭のすべての柱は銀で巻き締められ、その鉤は銀、その台座は青銅である。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עַמּוּדֵ֨י",
+      "gloss": "柱の"
+    },
+    {
+      "surface": "הֶֽחָצֵ֤ר",
+      "gloss": "庭の"
+    },
+    {
+      "surface": "סָבִיב֙",
+      "gloss": "囲みの"
+    },
+    {
+      "surface": "מְחֻשָּׁקִ֣ים",
+      "gloss": "巻き締められ"
+    },
+    {
+      "surface": "כֶּ֔סֶף",
+      "gloss": "銀で"
+    },
+    {
+      "surface": "וָוֵיהֶ֖ם",
+      "gloss": "その鉤は"
+    },
+    {
+      "surface": "כָּ֑סֶף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וְאַדְנֵיהֶ֖ם",
+      "gloss": "その台座は"
+    },
+    {
+      "surface": "נְחֹֽשֶׁת",
+      "gloss": "青銅"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:53.658599066Z",
+  "model": "glm-5.2"
+}

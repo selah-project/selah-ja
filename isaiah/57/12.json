@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 57,
+  "translation": "わたしがあなたの義を告げよう。そして ⟨את⟩ あなたのわざを − それらはあなたの益にならない。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "告げよう"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "あなたの義を"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたのわざ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "あなたのわざ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "それらはあなたの益になる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:05.486888048Z",
+  "model": "glm-5.2"
+}

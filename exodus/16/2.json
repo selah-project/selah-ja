@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてイスラエルの子らの全会衆は荒野においてモーセとアハロンに対して不平を鳴らした。",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "そして不平を鳴らした"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "会衆"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に対して"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "と…に対して"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野において"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:51.066780447Z",
+  "model": "glm-5.2"
+}

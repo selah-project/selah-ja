@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "ダヴィドは息子シェロモに、⟨את⟩玄関間の設計図と、⟨את⟩その部屋群、その宝物庫、その階上の部屋、内部の私室、および贖いの蓋の家を与えた。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして与えた"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィドは"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "シェロモに"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "息子"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "玄関間の設計図"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "設計図"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "玄関間の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その部屋群"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "その部屋群"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "その宝物庫"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "その階上の部屋"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "その私室"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "内部の"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "そして家"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "贖いの蓋の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:09:40.783261670Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "あなたがヘブライ人の奴隷を買うなら、六年間彼は仕え、七年目に彼は自由の身として無償で出る。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜なら"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "あなたが買う"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴隷を"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ヘブライ人の"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年間"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "彼は仕える"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "そして七年目に"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "彼は出る"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "自由の身として"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "無償で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:08.677797986Z",
+  "model": "glm-5.2"
+}

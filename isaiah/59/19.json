@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 59:19",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "そして彼らは西からヤハウェの⟨את⟩名を、日の出る東からその⟨את⟩栄光を恐れる。押し迫る者が川のように来ると、ヤハウェの息がそれを追い散らすからである。",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "そして彼らは恐れる"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "西から"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "…の名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וממזרח",
+      "gloss": "そして東から"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "太陽（の昇るところ）"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "栄光"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "その栄光"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "川のように"
+    },
+    {
+      "surface": "צר",
+      "gloss": "押し迫る者が"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "…の息"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "נססה",
+      "gloss": "追い散らす"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:51.126798499Z",
+  "model": "glm-5.2"
+}

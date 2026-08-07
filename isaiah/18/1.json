@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "ああ、羽のざわめきの地、⟨それは⟩クシュの川の向こうにある",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "ざわめき"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "羽の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨それは⟩"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "向こうに"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "川の"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "クシュの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:14.097700186Z",
+  "model": "glm-5.2"
+}

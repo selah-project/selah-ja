@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "「わたしは知っていたからだ。あなたが頑なであることを。あなたのうなじは鉄の筋、あなたの額は青銅。」",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "わたしは知っていたからだ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜であることを"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "頑なな"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "そして〜の筋"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鉄"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "あなたのうなじ"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "そしてあなたの額"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "青銅"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:17.125951229Z",
+  "model": "glm-5.2"
+}

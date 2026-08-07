@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "彼らの名のうち六つを一つの石に、残りの六つの名を二つ目の石に、彼らの出生順に ⟨配置する⟩。",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "六つ"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "彼らの名のうち"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "その石"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "残りの六つの名"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "その六つの"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "残りの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "その石"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "二つ目の"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "彼らの出生順に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:52.327782435Z",
+  "model": "glm-5.2"
+}

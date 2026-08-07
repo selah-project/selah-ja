@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "私が黙っていたとき、私の骨は衰え果てた、私の呻きによって一日中。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜とき"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "私が黐っていた"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "衰え果てた"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "私の骨"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "私の呻きによって"
+    },
+    {
+      "surface": "כל",
+      "gloss": "〜中"
+    },
+    {
+      "surface": "היום",
+      "gloss": "一日"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:29.230154538Z",
+  "model": "glm-5.2"
+}

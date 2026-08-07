@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "バラクはビルアムに言った、「呪うことも、彼らを呪ってはならない。祝福することも、彼らを祝福してはならない」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "バラク"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ビルアム"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜もまた"
+    },
+    {
+      "surface": "קב",
+      "gloss": "呪うこと"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "彼らを呪っては"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜もまた"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "祝福すること"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "彼らを祝福しては"
+    }
+  ],
+  "timestamp": "2026-08-07T09:59:59.820097859Z",
+  "model": "glm-5.2"
+}

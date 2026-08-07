@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "あなたの矢が私に突き刺さり、あなたの御手が私の上に下されたからです",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "חִצֶּיךָ",
+      "gloss": "あなたの矢が"
+    },
+    {
+      "surface": "נִחֲתוּ",
+      "gloss": "突き刺さり"
+    },
+    {
+      "surface": "בִּי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "וַתָּנַחַת",
+      "gloss": "下された"
+    },
+    {
+      "surface": "עָלַי",
+      "gloss": "私の上に"
+    },
+    {
+      "surface": "יָדֶךָ",
+      "gloss": "あなたの御手が"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:54.684261608Z",
+  "model": "glm-5.2"
+}

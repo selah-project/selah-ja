@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "すれば ⟨彼⟩は語り、そしてそれはあった。 ⟨彼⟩は命じ、そしてそれは立った。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "すれば"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼⟩は"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "語り"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そしてそれはあった"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼⟩は"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "そしてそれは立った"
+    }
+  ],
+  "timestamp": "2026-08-07T18:39:36.879687326Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "見よ、わたしは名をもってベツァレルを召した—ウリの子、フルの子、ベツァレルを、ユダ部族の、",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "わたしは…召した"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "名をもって"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "ベツァレル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ウリ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "חור",
+      "gloss": "フル"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "…の部族の"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:18.975742557Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 1:21",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "見よ、ヤハウェ あなたの エロヒム が あなたの前に ⟨את⟩その地を 与えられた。上って 行って、これを 取れ。ヤハウェ あなたの先祖の エロヒム が あなたに 語られた通りに。恐れるな、おののくな。",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "あなたの前に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上って"
+    },
+    {
+      "surface": "רש",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜通りに"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "〜のエロヒム"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "あなたの先祖"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "また〜な"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "おののく"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:02.541250990Z",
+  "model": "glm-5.2"
+}

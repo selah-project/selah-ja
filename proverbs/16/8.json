@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "義のうちにある少しは — 裁きのない多くの収穫にまさる。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "まさる"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "少しは"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "義のうちにある"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "〜にまさる"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "収穫の"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "裁きが"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:04.793650621Z",
+  "model": "glm-5.2"
+}

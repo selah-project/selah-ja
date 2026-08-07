@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 50:40",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "エロヒムが ⟨את⟩ セドムと ⟨את⟩ アモラと ⟨את⟩ その近隣の町々を覆されたように――ヤハウェの御告げ――、そこに人は住まず、人の子はその中に宿らない。",
+  "tokens": [
+    {
+      "surface": "כמהפכת",
+      "gloss": "〜の覆されたように"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "セドム"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "セドム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アモラ"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "アモラ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その近隣の町々"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "その近隣の町々"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "住む"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "宿る"
+    },
+    {
+      "surface": "בה",
+      "gloss": "その中に"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T11:58:51.076971588Z",
+  "model": "glm-5.2"
+}

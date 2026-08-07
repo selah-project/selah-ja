@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "分け前として分け前を、彼らは食べる——彼の父祖たち⟨に属する⟩売却品を別として。",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "分け前"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "分け前として"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "彼らは食べる"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "別として"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "彼の売却品"
+    },
+    {
+      "surface": "על",
+      "gloss": "……に"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "父祖たち"
+    }
+  ],
+  "timestamp": "2026-08-07T10:14:33.102489464Z",
+  "model": "glm-5.2"
+}

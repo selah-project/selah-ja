@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "彼は見て、立ち上がり、自分の命のために行き、ベエル・シェバ — ユダに属する⟨ところ⟩ — に来て、そこに⟨את⟩自分の若者を残した。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "見て"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "立ち上がり"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "行った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "自分の命"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ベエル"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "・シェバに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ユダに属する"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "残した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の若者"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "自分の若者を"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:11.454408769Z",
+  "model": "glm-5.2"
+}

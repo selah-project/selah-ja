@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "王の娘はすべて栄華に満ち、奥深くに、金の飾り縫いの衣が⟨彼女の⟩衣。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "栄華"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "奥深くに"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "飾り縫いの"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "衣"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:59.237606660Z",
+  "model": "glm-5.2"
+}

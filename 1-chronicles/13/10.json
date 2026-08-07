@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 13:10",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "するとヤハウェの怒りがウザに対して燃え上がり、⟨彼⟩は⟨彼⟩が箱の上に手を伸ばしたことで⟨彼⟩を打たれた。そして⟨彼⟩はそこで、エロヒムの御前で死んだ。",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "そして燃え上がった"
+    },
+    {
+      "surface": "אף",
+      "gloss": "怒り"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "ウザに対して"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "そして彼を打たれた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のことで"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは〜だから"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "伸ばした"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の御前で"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:36.532749802Z",
+  "model": "glm-5.2"
+}

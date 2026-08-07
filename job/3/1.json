@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "こののち、ヨブは⟨את⟩自分の口を開き、⟨את⟩自分の日を呪った。",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "こののち"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "開いた"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ヨブ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の口"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "自分の口"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "呪った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の日"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "自分の日"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:29.069185354Z",
+  "model": "glm-5.2"
+}

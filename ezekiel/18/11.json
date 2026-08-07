@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして彼は ⟨את⟩ これらすべてを行わなかった —— まことに彼は山々において食べ、⟨את⟩ 隣人の妻を汚したからである。",
+  "tokens": [
+    {
+      "surface": "וְה֕וּא",
+      "gloss": "そして彼"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "これらすべて"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אֵ֖לֶּה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "עָשָׂ֑ה",
+      "gloss": "行わなかった"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "גַ֤ם",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜において"
+    },
+    {
+      "surface": "הֶֽהָרִים֙",
+      "gloss": "山々"
+    },
+    {
+      "surface": "אָכַ֔ל",
+      "gloss": "食べ"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "隣人の妻"
+    },
+    {
+      "surface": "אֵ֥שֶׁת",
+      "gloss": "妻"
+    },
+    {
+      "surface": "רֵעֵ֖הוּ",
+      "gloss": "隣人の"
+    },
+    {
+      "surface": "טִמֵּֽא",
+      "gloss": "汚した"
+    }
+  ],
+  "timestamp": "2026-08-07T12:05:22.029630056Z",
+  "model": "glm-5.2"
+}

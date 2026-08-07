@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして⟨彼は⟩⟨את⟩全焼の献げ物の皮を剥ぎ、それをその切り身に従って切り分ける。",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "そして…皮を剥ぐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全焼の献げ物"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の献げ物"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "そして…切り分ける"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "その切り身に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:42.039000795Z",
+  "model": "glm-5.2"
+}

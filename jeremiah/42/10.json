@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "「もしあなたたちが定住してこの地に住むなら、わたしはあなたたちを建て上げ、引き倒さない。わたしはあなたたちを植え、引き抜かない。あなたたちに下したわざわいについて、わたしは思い直したからだ。」",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "住むなら"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "わたしは建て上げ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたたちを"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "引き倒し"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "わたしは植え"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたたちを"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "引き抜き"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "わたしは思い直した"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "わざわい"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "わたしは下した"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:55:56.911632260Z",
+  "model": "glm-5.2"
+}

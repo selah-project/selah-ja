@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "それゆえ、なお私はあなたがたと論じる、ヤハウェの御告げ、そして⟨את⟩あなたがたの子らの子らとも私は論じる。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "なお"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "私は論じる"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたがたと"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがたの子らの子ら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らの"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "あなたがたの子ら"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "私は論じる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:38:22.938427053Z",
+  "model": "glm-5.2"
+}

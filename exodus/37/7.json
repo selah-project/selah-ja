@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして彼は二つの金のケルブを造った。打ち出し細工として彼は⟨את⟩それらを造った。贖い蓋の両端から⟨で⟩。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は造った"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "ケルブを"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "打ち出し細工として"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "彼は造った"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それら"
+    },
+    {
+      "surface": "משני",
+      "gloss": "〜の両"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "端から"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "贖い蓋の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:24.318056778Z",
+  "model": "glm-5.2"
+}

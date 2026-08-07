@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "来て、⟨私たちの⟩父に酒を飲ませ、彼と共に寝よう。そして⟨私たちの⟩父から⟨私たち⟩は種を保とう。」",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "来て"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "飲ませ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私たちの父"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "父"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "寝よう"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "保とう"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "私たちの父から"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "種"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:21.744067678Z",
+  "model": "glm-5.2"
+}

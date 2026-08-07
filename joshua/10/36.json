@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 10:36",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてヤハウェ・シュアと全イスラエルが彼と共にエグロンからヘブロンに上った。そして彼らはそれに対して戦った。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "そして上った"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヤハウェ・シュア"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そして全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "מעגלונה",
+      "gloss": "エグロンから"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "ヘブロンに"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "そして戦った"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "それに対して"
+    }
+  ],
+  "timestamp": "2026-08-07T10:27:04.702361138Z",
+  "model": "glm-5.2"
+}

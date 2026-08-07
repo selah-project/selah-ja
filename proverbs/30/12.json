@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "世代がある。その目に⟨は⟩きよく、その汚れから洗われていない。",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "きよい"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "その目に"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "その汚れから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "洗われた"
+    }
+  ],
+  "timestamp": "2026-08-07T14:40:19.776784209Z",
+  "model": "glm-5.2"
+}

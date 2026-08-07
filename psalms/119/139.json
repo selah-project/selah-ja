@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "私の熱心は私を絶ち滅ぼした、私の敵があなたの〈ことば〉を忘れたからである。",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "私を絶ち滅ぼした"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "私の熱心"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "忘れた"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "あなたのことば"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "私の敵"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:39.298791809Z",
+  "model": "glm-5.2"
+}

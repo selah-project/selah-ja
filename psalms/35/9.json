@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そして私の nefesh は ヤハウェ において喜び躍り、⟨それは⟩ ⟨彼の⟩救いにおいて歓喜する。",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "そして私の nefesh は"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "喜び躍り"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェ において"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "歓喜する"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "⟨彼の⟩救いにおいて"
+    }
+  ],
+  "timestamp": "2026-08-07T18:39:38.884503021Z",
+  "model": "glm-5.2"
+}

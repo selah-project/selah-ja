@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして王とすべての民は、ヤハウェの御前に犠牲を屠っていた。",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "そして王"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "とすべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "…を屠っていた"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "犠牲"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の御前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:11:30.783279459Z",
+  "model": "glm-5.2"
+}

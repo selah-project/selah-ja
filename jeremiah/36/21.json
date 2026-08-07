@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 36:21",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そして王は⟨את⟩エフディを遣わして⟨את⟩巻物を取らせた。彼はそれを書記エリシャマの部屋から取った。そしてエフディはそれを王の耳に、また王の傍に立つすべての君たちの耳に読んだ。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…遣わした"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エフディ"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "エフディ"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "取らせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "巻物"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "巻物"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "彼はそれを取った"
+    },
+    {
+      "surface": "מלשכת",
+      "gloss": "…の部屋から"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "エリシャマ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "書記"
+    },
+    {
+      "surface": "ויקראה",
+      "gloss": "そして…読んだ…それを"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "エフディ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "…の耳に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "また…の耳に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "君たち"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "立っている"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…の傍に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-08-07T11:53:44.285566157Z",
+  "model": "glm-5.2"
+}

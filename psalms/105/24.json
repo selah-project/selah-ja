@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "そして ⟨彼は⟩ ⟨את⟩ 彼の民を増大させた、非常に；そして彼を彼の敵たちよりも強くした。",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "そして…増大させた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の民を"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼の民"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "ומעצימהו",
+      "gloss": "そして彼を強くした"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "彼の敵たちよりも"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:38.520538471Z",
+  "model": "glm-5.2"
+}

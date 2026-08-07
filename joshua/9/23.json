@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 9:23",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして今、あなたがたは呪われている。あなたがたの中から、しもべ――木を切る者、水を汲む者――が、私のエロヒムの家のために断たれることはない。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "ארורים",
+      "gloss": "呪われている"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたがたは"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "断たれる"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "あなたがたから"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "しもべが"
+    },
+    {
+      "surface": "וחטבי",
+      "gloss": "そして…切る者"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "木を"
+    },
+    {
+      "surface": "ושאבי",
+      "gloss": "そして…汲む者"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…の家のために"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "私のエロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:26:14.791314452Z",
+  "model": "glm-5.2"
+}

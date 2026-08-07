@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 5:12",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ダビデは知った。ヤハウェが彼をイスラエルの王として据えられたこと、また彼の王国が高められたことを。それは彼の民イスラエルのゆえに。",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "そして知った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということを"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "据えられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王として"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "そして〜ということを"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "高められた"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "彼の王国"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼の民"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:45.275615142Z",
+  "model": "glm-5.2"
+}

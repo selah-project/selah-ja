@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてわたしは彼らをエジプトの地から連れ出し、彼らを荒野に連れて行った。",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "そしてわたしは彼らを連れ出した"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "〜の地から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "そしてわたしは彼らを連れて行った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "荒野"
+    }
+  ],
+  "timestamp": "2026-08-07T12:06:43.647657090Z",
+  "model": "glm-5.2"
+}

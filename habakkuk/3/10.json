@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 3:10",
+  "book": "habakkuk",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "山々はあなたを見て、もだえた。水の奔流は過ぎ去った。淵はその声を放った。高きはその手を上げた。",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "あなたを見て"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "もだえた"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山々"
+    },
+    {
+      "surface": "זרם",
+      "gloss": "奔流"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "過ぎ去った"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "放った"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "淵"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "その声を"
+    },
+    {
+      "surface": "רום",
+      "gloss": "高きは"
+    },
+    {
+      "surface": "ידיהו",
+      "gloss": "その手を"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "上げた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:29:00.101874135Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてシェロモはハマテ・ツォバへ行き、これに打ち勝った。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモは"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ハマテ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ツォバ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "そして…打ち勝った"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "これに"
+    }
+  ],
+  "timestamp": "2026-08-07T17:47:10.663211449Z",
+  "model": "glm-5.2"
+}

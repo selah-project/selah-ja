@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "そしてヒゼキヤと⟨その⟩つかさたちが来て、積み重ねの山を見たとき、彼らはヤハウェを、また⟨את⟩ イスラエルの⟨その⟩民を賛美した。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "そして…来た"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ヒゼキヤ"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "とつかさたち"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "そして…見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "積み重ねの山"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "積み重ねの山"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "そして…賛美した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "イスラエルの民"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "…民"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:18:30.873082074Z",
+  "model": "glm-5.2"
+}

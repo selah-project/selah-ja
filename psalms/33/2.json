@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "感謝をささげよ、ヤハウェに、キノールにおいて。十弦のネベルにおいて歌え、彼⟨に⟩。",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "感謝をささげよ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "キノールにおいて"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ネベルにおいて"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "十弦の"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "歌え"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼⟨に⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:12.373614124Z",
+  "model": "glm-5.2"
+}

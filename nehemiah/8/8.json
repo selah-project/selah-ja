@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 8:8",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "彼らはその書を、エロヒムのトーラーのうちに読んだ。明確に、そして理解を置いて。彼らは朗読を理解した。",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "読んだ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "その書を"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "〜のトーラーのうちに"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "מפרש",
+      "gloss": "明確に"
+    },
+    {
+      "surface": "ושום",
+      "gloss": "置いて"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "理解を"
+    },
+    {
+      "surface": "ויבינו",
+      "gloss": "理解した"
+    },
+    {
+      "surface": "במקרא",
+      "gloss": "朗読を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:57:14.558335297Z",
+  "model": "glm-5.2"
+}

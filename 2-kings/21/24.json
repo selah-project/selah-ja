@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして国の民は王アモンに対して謀反を企てた者たちすべてを打ち、国の民は彼の子ヨシヤを彼に代えて王とした。⟨את⟩",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "そして打った"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "国の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "者たちすべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "謀反を企てた者たち"
+    },
+    {
+      "surface": "על",
+      "gloss": "に対して"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "アモン"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "そして王とした"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "国の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨシヤ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ヨシヤ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代えて"
+    }
+  ],
+  "timestamp": "2026-08-07T16:54:40.261699513Z",
+  "model": "glm-5.2"
+}

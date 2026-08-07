@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "しかし、わたしは全き歩みを歩む。わたしを贖い、わたしを恵んでください。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "しかし、わたしは"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "全き歩みにおいて"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "歩む"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "わたしを贖いてください"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "そしてわたしを恵んでください"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:55.436222724Z",
+  "model": "glm-5.2"
+}

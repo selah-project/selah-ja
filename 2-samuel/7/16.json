@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 7:16",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "あなたの家とあなたの王国は、あなたの前にとこしえまで確立され、あなたの王座はとこしえまで備えられる。",
+  "tokens": [
+    {
+      "surface": "ונאמן",
+      "gloss": "そして確立され"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "あなたの家は"
+    },
+    {
+      "surface": "וממלכתך",
+      "gloss": "そしてあなたの王国は"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "とこしえ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "あなたの前に"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "あなたの王座は"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "備えられる"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "とこしえ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:26.141699191Z",
+  "model": "glm-5.2"
+}

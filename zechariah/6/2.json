@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "最初の戦車には赤い馬、第二の戦車には黒い馬。",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "戦車には"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "最初の"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "馬が"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "赤い"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "そして戦車には"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "第二の"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "馬が"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "黒い"
+    }
+  ],
+  "timestamp": "2026-08-07T12:31:19.161504507Z",
+  "model": "glm-5.2"
+}

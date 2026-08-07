@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 63,
+  "translation": "あなたのヘセドはいのちより良いから、私の唇はあなたを賛美する。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "あなたのヘセド"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "いのちより"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "私の唇"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "あなたを賛美する"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:40.752867701Z",
+  "model": "glm-5.2"
+}

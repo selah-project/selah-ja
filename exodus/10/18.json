@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "⟨彼⟩はパロのもとから出て行き、ヤハウェにとりなした。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て行った"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "〜のもとから"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "そしてとりなした"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:42.219169253Z",
+  "model": "glm-5.2"
+}

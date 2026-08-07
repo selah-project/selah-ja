@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 23:26",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "彼らはあなたの着物をあなたから剥ぎ取り、あなたの飾りの器具を奪い取る。",
+  "tokens": [
+    {
+      "surface": "והפשיטוך",
+      "gloss": "彼らはあなたから剥ぎ取る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの着物を"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "あなたの着物"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "奪い取る"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "あなたの飾りの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:08:33.838734983Z",
+  "model": "glm-5.2"
+}

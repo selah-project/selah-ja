@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 10:13",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "モーセは⟨את⟩自分の杖をミツライム（エジプト）の地の上に伸ばした。そしてヤハウェは一日中、そして一晩中、東風を地の上に進行させた。朝になったとき、東風は⟨את⟩イナゴを運び上げた。",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "伸ばした"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の杖"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "自分の杖"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "そしてヤハウェ"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "進行させた"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "היום",
+      "gloss": "その日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そして全"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "היה",
+      "gloss": "になった"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "そして風"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "その東"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "運び上げた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イナゴ"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "イナゴ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:38.885709705Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "聞け、イスラエル。ヤハウェは私たちのエロヒム、ヤハウェは ⟨一つ⟩。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "私たちのエロヒム"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つ"
+    }
+  ],
+  "timestamp": "2026-08-07T16:35:45.291751784Z",
+  "model": "glm-5.2"
+}

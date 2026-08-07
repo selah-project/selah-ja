@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "良き⟨者⟩はヤハウェからの恵みを引き出す。しかし悪だくの⟨者⟩を⟨彼は⟩罪に定める。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良き"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "引き出す"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "恵みを"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ヤハウェからの"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "しかし〜の者を"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "悪だく"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "罪に定める"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:46.305358735Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして祭司が見ると、見よ、ツァラアトが ⟨את⟩ すべての彼の肉を覆い、そして ⟨את⟩ 患部を清いと宣言する — それが全体として白に変わった⟨なら⟩、彼は清い。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "そして〜見た"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司は"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "覆った"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ツァラアトは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての彼の肉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "彼の肉"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "そして清いと宣言する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "患部"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "患部を"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "その全体が"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "変わった"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "白に"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清い"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:13.262273208Z",
+  "model": "glm-5.2"
+}

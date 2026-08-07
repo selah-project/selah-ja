@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "あなたに⟨は⟩腕が、力と共にある。あなたの御手は強く、あなたの右の御手は高く上げられる。",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "腕が"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "力"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "強い"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの御手は"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "高く上げられる"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "あなたの右の御手は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:19.005567446Z",
+  "model": "glm-5.2"
+}

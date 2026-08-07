@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 135,
+  "translation": "口が⟨彼らに⟩ある、しかし語らない。目が⟨彼らに⟩ある、しかし見ない。",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "口"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "語らない"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "目"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "見ない"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:41.103937279Z",
+  "model": "glm-5.2"
+}

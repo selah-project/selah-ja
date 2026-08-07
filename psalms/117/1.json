@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 117,
+  "translation": "ヤハウェを讃えよ、すべての国々、⟨את⟩ ヤハウェを称賛せよ、すべての民よ。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "讃えよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "称賛せよ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "民よ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:47.029555110Z",
+  "model": "glm-5.2"
+}

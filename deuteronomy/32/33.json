@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "彼らのぶどう酒は海獣の毒、コブラの残忍な頭である。",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "毒"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "海獣の"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "彼らのぶどう酒"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "と頭"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "コブラの"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "残忍な"
+    }
+  ],
+  "timestamp": "2026-08-07T10:21:39.855933665Z",
+  "model": "glm-5.2"
+}

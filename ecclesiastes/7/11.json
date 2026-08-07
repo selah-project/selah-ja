@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "知恵は嗣業と共に⟨あって⟩良く、日の見る者たちにとっては益がある。",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "良く"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵は"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "嗣業"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "益がある"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "見る者たちにとって"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:18.682373274Z",
+  "model": "glm-5.2"
+}

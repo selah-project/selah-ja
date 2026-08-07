@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "あなたはあなたの同胞に利息を取ってはならない。銀の利息、食物の利息、利息が取られるいっさいの物の利息を。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜てはならない"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "あなたは取って"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "あなたの同胞に"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "利息を"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀の"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "利息"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食物の"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "利息"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "利息"
+    },
+    {
+      "surface": "כל",
+      "gloss": "いっさいの"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "物の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜が"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "利息が取られる"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:13.135469811Z",
+  "model": "glm-5.2"
+}

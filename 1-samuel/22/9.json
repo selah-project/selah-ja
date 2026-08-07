@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 22:9",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "ドアグ・ハエドミが答えた — 彼はシャウルのしもべたちの上に立っていた — そして言った。「エシャイの子がノブに来るのを、私は見ました。アヒトブの子アヒメレクの⟨ところへ⟩。⟨את⟩エシャイの子を。」",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "そして答えた"
+    },
+    {
+      "surface": "דאג",
+      "gloss": "ドアグ"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ハエドミ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "立っていた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "しもべたちの"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エシャイの子"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "エシャイ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "ノブに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "アヒメレク"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "アヒトブ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:48.929156270Z",
+  "model": "glm-5.2"
+}

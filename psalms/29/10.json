@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ヤハウェは大洪水の上に座し、やがてヤハウェは王として座する、とこしへまで。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "大洪水の上に"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "座した"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして座する"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王として"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしへまで"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:11.149203274Z",
+  "model": "glm-5.2"
+}

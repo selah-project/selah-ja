@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてダビデは全イスラエルの上に王となった。そしてダビデはすべての民のためにミシュパートとツェダカーを行っていた。",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "そして…王となった"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "על",
+      "gloss": "上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして…であった"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行っていた"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ミシュパート（公正）"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "とツェダカー（義）"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "民の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:10.388697025Z",
+  "model": "glm-5.2"
+}

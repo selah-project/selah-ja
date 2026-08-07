@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "灯用の油、油注ぎの油用の香料、そして香料の香用の⟨もの⟩。",
+  "tokens": [
+    {
+      "surface": "שֶׁ֖מֶן",
+      "gloss": "油"
+    },
+    {
+      "surface": "לַמָּאֹ֑ר",
+      "gloss": "灯用の"
+    },
+    {
+      "surface": "בְּשָׂמִים֙",
+      "gloss": "香料"
+    },
+    {
+      "surface": "לְשֶׁ֣מֶן",
+      "gloss": "……の油用の"
+    },
+    {
+      "surface": "הַמִּשְׁחָ֔ה",
+      "gloss": "油注ぎ"
+    },
+    {
+      "surface": "וְלִקְטֹ֖רֶת",
+      "gloss": "そして……の香用の"
+    },
+    {
+      "surface": "הַסַּמִּֽים",
+      "gloss": "香料"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:21.673506190Z",
+  "model": "glm-5.2"
+}

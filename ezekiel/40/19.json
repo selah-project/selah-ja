@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 40:19",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして彼は測った。下の門の前面から内庭の前面まで、外側へ、百キュビトを、東に、そして北に。",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "そして彼は測った"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "幅"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "〜の前面から"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "下の"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前面まで"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "内の"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外側へ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "キュビト"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "東"
+    },
+    {
+      "surface": "והצפון",
+      "gloss": "そして北"
+    }
+  ],
+  "timestamp": "2026-08-07T12:14:24.803035284Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "私はあなたの御名を呼んだ、ヤハウェよ、下の穴から。",
+  "tokens": [
+    {
+      "surface": "קָרָ֤אתִי",
+      "gloss": "私は呼んだ"
+    },
+    {
+      "surface": "שִׁמְךָ֙",
+      "gloss": "あなたの御名を"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "מִבּ֖וֹר",
+      "gloss": "穴から"
+    },
+    {
+      "surface": "תַּחְתִּיּֽוֹת",
+      "gloss": "下の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:36:10.965896926Z",
+  "model": "glm-5.2"
+}

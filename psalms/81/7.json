@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 81,
+  "translation": "私は彼の肩から荷を取り除いた。彼の手は担ぎ桶から移し去られた。",
+  "tokens": [
+    {
+      "surface": "הֲסִיר֣וֹתִי",
+      "gloss": "私は取り除いた"
+    },
+    {
+      "surface": "מִסֵּ֣בֶל",
+      "gloss": "荷から"
+    },
+    {
+      "surface": "שִׁכְמ֑וֹ",
+      "gloss": "彼の肩"
+    },
+    {
+      "surface": "כַּ֝פָּ֗יו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "מִדּ֥וּד",
+      "gloss": "担ぎ桶から"
+    },
+    {
+      "surface": "תַּעֲבֹֽרְנָה",
+      "gloss": "移し去られた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:43.424687726Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてダビデは⟨את⟩アヒノアムをイズレエルから迎え、その二人は彼の妻となった。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アヒノアムを"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "アヒノアム"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "迎えた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "イズレエルから"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "その二人とも"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼の"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "妻として"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:57.153034039Z",
+  "model": "glm-5.2"
+}

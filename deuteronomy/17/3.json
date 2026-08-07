@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そして行って、他の神々に仕え、それらにひれ伏し、太陽に、あるいは月に、あるいは、私が命じなかった天の万軍のすべてに——",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして行って"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "仕える"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神々"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "他の"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ひれ伏す"
+    },
+    {
+      "surface": "להם",
+      "gloss": "それらに"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "そして太陽に"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "月に"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "万軍"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "私が命じなかった"
+    }
+  ],
+  "timestamp": "2026-08-07T10:17:16.950694713Z",
+  "model": "glm-5.2"
+}

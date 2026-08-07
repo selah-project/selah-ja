@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 1:1",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "さて、ある一人の人がいた。ラマタイム・ツォフィム（見張る高き所）の、エフライムの山地から出た者で、その名はエルカナ。エロハムの子、エリフの子、トフの子、ツフの子、ひとりのエフラテ人であった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "さて、～がいた"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人が"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ある一人の"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～から"
+    },
+    {
+      "surface": "הרמתים",
+      "gloss": "ラマタイム・"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "ツォフィムの"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "～の山地から"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライムの"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "その名は"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "エルカナ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "～の子"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "エロハム"
+    },
+    {
+      "surface": "בן",
+      "gloss": "～の子"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "エリフ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "～の子"
+    },
+    {
+      "surface": "תחו",
+      "gloss": "トフ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "～の子"
+    },
+    {
+      "surface": "צוף",
+      "gloss": "ツフ"
+    },
+    {
+      "surface": "אפרתי",
+      "gloss": "エフラテ人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:19.387606091Z",
+  "model": "glm-5.2"
+}

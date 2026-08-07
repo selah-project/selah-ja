@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 130,
+  "translation": "それはあなたと共に、赦しが⟨ある⟩から、あなたが恐れられるためです。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "それは〜だから"
+    },
+    {
+      "surface": "עִמְּךָ֥",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "הַסְּלִיחָ֑ה",
+      "gloss": "赦しが"
+    },
+    {
+      "surface": "לְ֝מַ֗עַן",
+      "gloss": "〜のため"
+    },
+    {
+      "surface": "תִּוָּרֵֽא",
+      "gloss": "あなたが恐れられる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:41.984736762Z",
+  "model": "glm-5.2"
+}

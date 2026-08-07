@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 18:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "共に山の猛禽と地の獣に委ねられる。猛禽はその上に夏を過ごし、地のすべての獣はその上に冬を過ごす。",
+  "tokens": [
+    {
+      "surface": "יֵעָזְב֤וּ",
+      "gloss": "委ねられる"
+    },
+    {
+      "surface": "יַחְדָּו֙",
+      "gloss": "共に"
+    },
+    {
+      "surface": "לְעֵ֣יט",
+      "gloss": "猛禽"
+    },
+    {
+      "surface": "הָרִ֔ים",
+      "gloss": "山の"
+    },
+    {
+      "surface": "וּֽלְבֶהֱמַ֖ת",
+      "gloss": "獣"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "וְקָ֤ץ",
+      "gloss": "過ごす"
+    },
+    {
+      "surface": "עָלָיו֙",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "הָעַ֔יִט",
+      "gloss": "猛禽"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בֶּהֱמַ֥ת",
+      "gloss": "獣"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "עָלָ֥יו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "תֶּחֱרָֽף",
+      "gloss": "冬を過ごす"
+    }
+  ],
+  "timestamp": "2026-08-07T11:24:37.563846657Z",
+  "model": "glm-5.2"
+}

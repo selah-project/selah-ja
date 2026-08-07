@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "私、それが私、ヤハウェ。そして私のほかに救い手はいない。",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "私"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "それが私"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして…いない"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "私のほかに"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "救い手は"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:05.934359850Z",
+  "model": "glm-5.2"
+}

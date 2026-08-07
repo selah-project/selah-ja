@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 7:17",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして彼は⟨את⟩ユダの氏族を近づけ、⟨את⟩ゼラフ氏族を捕えた。そして彼は⟨את⟩ゼラフ氏族を男たちのために近づけ、ザブディが捕えられた。",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "そして彼は近づけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ユダの氏族"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "…の氏族"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "そして彼は捕えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ゼラフ氏族"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "氏族"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "ゼラフの"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "そして彼は近づけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ゼラフ氏族"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "氏族"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "ゼラフの"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "男たちに"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "そして捕えられた"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "ザブディ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:26:15.057093470Z",
+  "model": "glm-5.2"
+}

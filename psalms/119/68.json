@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "良い方、あなた ⟨は⟩ そして善を行う方。私にあなたの定めを教えてください。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い方"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "そして善を行う方"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "私に教えてください"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "あなたの定め"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:04.224420698Z",
+  "model": "glm-5.2"
+}

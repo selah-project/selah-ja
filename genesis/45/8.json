@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "「だから今、私をここへ遣わしたのはあなたがたではない。エロヒムであった。そして⟨彼は⟩私をパロの父とし、そのすべての家の主とし、全ミツライムの地の支配者としてくださったのだ。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "だから今"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたがたは"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "遣わした"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "私を"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ここへ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "そして私を〜としてくださった"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "父"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "パロの"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "そして主"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "その家の"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "そして支配者"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:10:32.299736222Z",
+  "model": "glm-5.2"
+}

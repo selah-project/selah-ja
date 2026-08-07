@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして太陽が入ると、彼は清くなる。その後、聖なるものから食べることができる。それは彼の食物だからである。",
+  "tokens": [
+    {
+      "surface": "וּבָ֥א",
+      "gloss": "そして入る"
+    },
+    {
+      "surface": "הַשֶּׁ֖מֶשׁ",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "וְטָהֵ֑ר",
+      "gloss": "そして清くなる"
+    },
+    {
+      "surface": "וְאַחַר֙",
+      "gloss": "その後"
+    },
+    {
+      "surface": "יֹאכַ֣ל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הַקֳּדָשִׁ֔ים",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "לַחְמ֖וֹ",
+      "gloss": "彼の食物"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "それは"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:23.567623121Z",
+  "model": "glm-5.2"
+}

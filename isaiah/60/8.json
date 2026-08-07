@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 60,
+  "translation": "これらは誰か。雲のように飛び、鳩がその窓へ飛ぶ〈者たちか〉。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "雲のように"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "飛び"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "そして鳩が"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "その窓"
+    }
+  ],
+  "timestamp": "2026-08-07T11:37:11.992249851Z",
+  "model": "glm-5.2"
+}

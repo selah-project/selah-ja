@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "エサヴは言った。「見よ、私は死のうとしている。それで長子の権が私に何になろうか。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサヴ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私は"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "〜しようとしている"
+    },
+    {
+      "surface": "למות",
+      "gloss": "死のう"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "それで何になろうか"
+    },
+    {
+      "surface": "זה",
+      "gloss": "この"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "長子の権"
+    }
+  ],
+  "timestamp": "2026-08-07T08:57:45.309125685Z",
+  "model": "glm-5.2"
+}

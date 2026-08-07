@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "凝乳と蜜を彼は食べる——彼が悪を拒み、善を選ぶことを知るために。",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "凝乳を"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "と蜜"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "彼は食べる"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "彼が知るために"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "拒み"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "選ぶ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "善を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:53.170909024Z",
+  "model": "glm-5.2"
+}

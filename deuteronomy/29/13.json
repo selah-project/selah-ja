@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてあなたがたと共に、あなたがただけでなく、この契約と、この呪いとを、私が切る⟨のではない⟩。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたがたと共に"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "あなたがただけで"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私が"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "切る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この契約"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "契約"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "この呪い"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "呪い"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T16:38:36.965350950Z",
+  "model": "glm-5.2"
+}

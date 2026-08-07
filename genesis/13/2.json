@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてアブラムは家畜において、銀において、そして金において、極めて重く⟨あった⟩。",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "そしてアブラムは"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "重い"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極めて"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "家畜において"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "銀において"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "そして金において"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:53.222682159Z",
+  "model": "glm-5.2"
+}

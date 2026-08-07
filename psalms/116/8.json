@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 116,
+  "translation": "あなたは私のנפש（いのち）を死から引き出されたからだ、⟨את⟩私の目を涙から、⟨את⟩私の足をつまずきから。",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "因为"
+    },
+    {
+      "surface": "חִלַּ֥צְתָּ",
+      "gloss": "あなたは引き出された"
+    },
+    {
+      "surface": "נַפְשִׁ֗י",
+      "gloss": "私の nefesh"
+    },
+    {
+      "surface": "מִ֫מָּ֥וֶת",
+      "gloss": "死から"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "私の目"
+    },
+    {
+      "surface": "עֵינִ֥י",
+      "gloss": "私の目"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "דִּמְעָ֑ה",
+      "gloss": "涙"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "私の足"
+    },
+    {
+      "surface": "רַגְלִ֥י",
+      "gloss": "私の足"
+    },
+    {
+      "surface": "מִדֶּֽחִי",
+      "gloss": "つまずきから"
+    }
+  ],
+  "timestamp": "2026-08-07T19:13:22.602436890Z",
+  "model": "glm-5.2"
+}

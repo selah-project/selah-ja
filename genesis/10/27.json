@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして⟨את⟩ハドラムと、⟨את⟩ウザルと、⟨את⟩ディクラを生んだ。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ハドラム"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ハドラム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ウザル"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ウザル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ディクラ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ディクラ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:49.371385723Z",
+  "model": "glm-5.2"
+}

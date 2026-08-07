@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "朝になって、ヤハウェのことばがわたしにあった。こう言われる。」",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֧י",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֵלַ֖י",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "בַּבֹּ֥קֶר",
+      "gloss": "朝に"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "こう言われる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:03:15.425391844Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そして⟨את⟩ハモルと⟨את⟩その息子シェケムを剣の刃で殺し、⟨את⟩ディナをシェケムの家から連れ出して、出て行った。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ハモル"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ハモル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "シェケム"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "シェケム"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その息子"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "殺した"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "〜の口で"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ディナ"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "ディナ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "〜の家から"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "シェケム"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "出て行った"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:07.748327253Z",
+  "model": "glm-5.2"
+}

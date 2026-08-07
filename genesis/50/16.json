@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "そして彼らはヨセフに命じて伝えた、言って、「あなたの父が命じた、彼の死の前に、言って」と。",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "そして命じて伝えた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父が"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "彼の死の"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    }
+  ],
+  "timestamp": "2026-08-07T09:12:46.154938259Z",
+  "model": "glm-5.2"
+}

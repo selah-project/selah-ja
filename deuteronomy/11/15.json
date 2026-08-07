@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして私はあなたの野に草を、あなたの家畜のために与えよう。そしてあなたは食べて満ち足りよう。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "そして私は与えよう"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草を"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "あなたの野に"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "あなたの家畜のために"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "そしてあなたは食べて"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "満ち足りよう"
+    }
+  ],
+  "timestamp": "2026-08-07T10:10:52.820577389Z",
+  "model": "glm-5.2"
+}

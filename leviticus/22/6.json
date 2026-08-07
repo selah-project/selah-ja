@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "それに触れる ⟨者⟩ は夕方まで汚れる。そして聖なるものから食べてはならない。ただし、水に ⟨自分の⟩ 肉を洗った場合を除いて。",
+  "tokens": [
+    {
+      "surface": "נֶ֚פֶשׁ",
+      "gloss": "者"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "〜する"
+    },
+    {
+      "surface": "תִּגַּע",
+      "gloss": "触れる"
+    },
+    {
+      "surface": "בּ֔וֹ",
+      "gloss": "それに"
+    },
+    {
+      "surface": "וְטָמְאָ֖ה",
+      "gloss": "そして汚れる"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "הָעָ֑רֶב",
+      "gloss": "夕方"
+    },
+    {
+      "surface": "וְלֹ֤א",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יֹאכַל֙",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הַקֳּדָשִׁ֔ים",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "〜ただし"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "〜の場合を除いて"
+    },
+    {
+      "surface": "רָחַ֥ץ",
+      "gloss": "洗う"
+    },
+    {
+      "surface": "בְּשָׂר֖וֹ",
+      "gloss": "彼の肉"
+    },
+    {
+      "surface": "בַּמָּֽיִם",
+      "gloss": "水に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:23.567525351Z",
+  "model": "glm-5.2"
+}

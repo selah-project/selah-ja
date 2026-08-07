@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "あなたたちは私と共に銀のエロヒムや金のエロヒムを作ってはならない。あなたたちは自分たちのために作ってはならない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "～てはならない"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "あなたたちは作って"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "私と共に"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀の"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "や～のエロヒム"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～てはならない"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "あなたたちは作って"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "自分たちのために"
+    }
+  ],
+  "timestamp": "2026-08-07T09:20:43.091893468Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "共に、私に対してささやく、私を憎むすべての者は。私に対して、悪を企む、私⟨に⟩。",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "共に"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私に対して"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "ささやく"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "私を憎む者は"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私に対して"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "企む"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:26.984267567Z",
+  "model": "glm-5.2"
+}

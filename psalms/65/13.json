@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 65,
+  "translation": "荒野の牧草地は滴り落ち、丘々は喜びを帯びて⟨いる⟩。",
+  "tokens": [
+    {
+      "surface": "יִ֭רְעֲפוּ",
+      "gloss": "滴り落ちる"
+    },
+    {
+      "surface": "נְא֣וֹת",
+      "gloss": "牧草地は"
+    },
+    {
+      "surface": "מִדְבָּ֑ר",
+      "gloss": "荒野の"
+    },
+    {
+      "surface": "וְ֝גִ֗יל",
+      "gloss": "喜びを"
+    },
+    {
+      "surface": "גְּבָע֥וֹת",
+      "gloss": "丘々は"
+    },
+    {
+      "surface": "תַּחְגֹּֽרְנָה",
+      "gloss": "帯びて"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:01.700400847Z",
+  "model": "glm-5.2"
+}

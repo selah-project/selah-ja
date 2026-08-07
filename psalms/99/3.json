@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 99,
+  "translation": "彼らはあなたの大いなる、畏るべき御名を賛美する、聖なる方、⟨それは⟩⟨彼⟩である。",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "彼らは賛美する"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの御名を"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "畏るべき"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖なる方"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:16.515858235Z",
+  "model": "glm-5.2"
+}

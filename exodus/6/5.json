@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてわたしも、ミツライムが彼らを奴隷として働かせているイスラエルの子らの⟨את⟩うめき声を聞いた。そしてわたしは⟨את⟩わたしの契約を思い出した。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "そして〜も"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたし"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "聞いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "うめき声"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "うめき声"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "奴隷として働かせている"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "彼らを"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "そして思い出した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの契約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "わたしの契約"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:34.501566995Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてこのまさにその日に、ヤハウェはイスラエルの子らを⟨את⟩、彼らの軍勢にしたがって、ミツライム（エジプト）の地から連れ出された。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうして"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "まさにその"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日に"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "連れ出された"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子らを"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "〜の地から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜にしたがって"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "彼らの軍勢"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:01.392180558Z",
+  "model": "glm-5.2"
+}

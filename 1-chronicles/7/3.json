@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 7:3",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "ウジの子らはイズラフヤ。イズラフヤの子らはミカエル、オバドヤ、ヨエル、イシヤ — 五人、皆かしらであった。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "そして〜の子ら"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ウジ"
+    },
+    {
+      "surface": "יזרחיה",
+      "gloss": "イズラフヤ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "そして〜の子ら"
+    },
+    {
+      "surface": "יזרחיה",
+      "gloss": "イズラフヤ"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "ミカエル"
+    },
+    {
+      "surface": "ועבדיה",
+      "gloss": "およびオバドヤ"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "およびヨエル"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "イシヤ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五人"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "かしらたち"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "皆"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:41.887733013Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "ヤハウェの前から身をよじれ、全地よ。まことに、地は堅く立つ、揺らぐことはない。",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "身をよじれ"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "その前から"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地よ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "堅く立つ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "地は"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "揺らぐことは"
+    }
+  ],
+  "timestamp": "2026-08-07T14:06:32.685890109Z",
+  "model": "glm-5.2"
+}

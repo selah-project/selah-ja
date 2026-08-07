@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 15:11",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "シェオルとアヴァドンはヤハウェの前に⟨ある⟩、まして人の子らの心はなおさらである。",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "シェオル"
+    },
+    {
+      "surface": "ואבדון",
+      "gloss": "とアヴァドン"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "まして"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なおさら"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "心"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子らの"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:40.151198515Z",
+  "model": "glm-5.2"
+}

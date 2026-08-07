@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "モーセはその場所の名をタブエラ（燃やし）と呼んだ。ヤハウェの火が彼らの中で燃えたからである。",
+  "tokens": [
+    {
+      "surface": "וַיִּקְרָ֛א",
+      "gloss": "呼んだ"
+    },
+    {
+      "surface": "שֵֽׁם",
+      "gloss": "名を"
+    },
+    {
+      "surface": "הַמָּק֥וֹם",
+      "gloss": "場所の"
+    },
+    {
+      "surface": "הַה֖וּא",
+      "gloss": "その"
+    },
+    {
+      "surface": "תַּבְעֵרָ֑ה",
+      "gloss": "タブエラ（燃やし）"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "בָעֲרָ֥ה",
+      "gloss": "燃えた"
+    },
+    {
+      "surface": "בָ֖ם",
+      "gloss": "彼らの中で"
+    },
+    {
+      "surface": "אֵ֥שׁ",
+      "gloss": "火が"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:54:48.166315265Z",
+  "model": "glm-5.2"
+}

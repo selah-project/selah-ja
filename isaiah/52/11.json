@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 52:11",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "離れよ、離れよ、そこから出て行け。汚れたものに触れるな。彼女のただ中から出て行け。清くなれ、ヤハウェの器を担う者よ。",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "離れよ"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "離れよ"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "出て行け"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れたものに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "触れる"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "出て行け"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "彼女のただ中から"
+    },
+    {
+      "surface": "הברו",
+      "gloss": "清くなれ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "〜を担う者よ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:50.193520357Z",
+  "model": "glm-5.2"
+}

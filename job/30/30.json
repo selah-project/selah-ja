@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "私の皮膚は黒くなり、私の骨は熱で焼け焦げた。",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "私の皮膚は"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "黒くなった"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "私の上で"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "私の骨は"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "焼けた"
+    },
+    {
+      "surface": "מני",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "熱"
+    }
+  ],
+  "timestamp": "2026-08-07T13:28:07.384644683Z",
+  "model": "glm-5.2"
+}

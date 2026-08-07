@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "また、知識のない ⟨ところの⟩ ネフェシ ⟨は⟩ 良くない、そして足によって急ぐ者は罪を犯す。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ネフェシ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "そして急ぐ者"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "足によって"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "罪を犯す"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:03.095127716Z",
+  "model": "glm-5.2"
+}

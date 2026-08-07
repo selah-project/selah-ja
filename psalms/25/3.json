@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "また、あなたを待ち望むすべての者は恥に入らない。恥に入る、理由なく裏切る者たちは。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "あなたを待ち望む者"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "恥に入る"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "恥に入る"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "裏切る者たち"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "理由なく"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:00.657640189Z",
+  "model": "glm-5.2"
+}

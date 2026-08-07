@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "そしてヤハウェは彼らにする、シフオンとオグ、エモリ人の王たち、および彼らの地にしたように。⟨彼⟩が彼らを絶ち滅ぼした⟨את⟩ように。",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "そしてする"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "した"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "シフオンに"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "そしてオグに"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "エモリ人の"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "そして彼らの地に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ところの"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "絶ち滅ぼした"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら（シフオンとオグ）"
+    }
+  ],
+  "timestamp": "2026-08-07T10:20:42.326760026Z",
+  "model": "glm-5.2"
+}

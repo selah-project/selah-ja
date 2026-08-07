@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "なんと尊いこと、エロヒム、あなたのヘセドは。それゆえ人の子らはあなたの翼の陰に身を寄せる。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "なんと"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "尊いこと"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "あなたのヘセド"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "それゆえ〜の子らは"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "〜の陰に"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "あなたの翼"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "身を寄せる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:32.267790169Z",
+  "model": "glm-5.2"
+}

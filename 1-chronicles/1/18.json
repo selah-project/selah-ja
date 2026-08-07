@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "アルパクシャドは⟨את⟩シェラフを生み、シェラフは⟨את⟩エベルを生んだ。",
+  "tokens": [
+    {
+      "surface": "וְאַרְפַּכְשַׁ֖ד",
+      "gloss": "アルパクシャド"
+    },
+    {
+      "surface": "יָלַ֣ד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "シェラフ"
+    },
+    {
+      "surface": "שָׁ֑לַח",
+      "gloss": "シェラフ"
+    },
+    {
+      "surface": "וְשֶׁ֖לַח",
+      "gloss": "シェラフ"
+    },
+    {
+      "surface": "יָלַ֥ד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "エベル"
+    },
+    {
+      "surface": "עֵֽבֶר",
+      "gloss": "エベル"
+    }
+  ],
+  "timestamp": "2026-08-07T17:35:27.087252056Z",
+  "model": "glm-5.2"
+}

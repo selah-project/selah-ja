@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてヨシュアは⟨את⟩祭司たちに命じて言った、「ヨルダンから上れ」」",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "そして…命じた"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭司たち"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "上れ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルダン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:23:24.818432108Z",
+  "model": "glm-5.2"
+}

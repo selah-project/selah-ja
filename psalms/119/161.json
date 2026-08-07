@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "君たちはゆえなく私を追い立てた。しかし、あなたのことばに私の心は恐れた。",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "君たちは"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "私を追い立てた"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ゆえなく"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "しかし、あなたのことばに"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "恐れた"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "私の心"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:39.740728473Z",
+  "model": "glm-5.2"
+}

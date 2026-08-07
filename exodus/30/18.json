@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "あなたは銅の洗盤と、その銅の台を、洗うために作り、それを会見の天幕と祭壇の間に置き、そこに水を入れよ。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "あなたは…作れ"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "洗盤"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅の"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "その台を"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅の"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "洗うために"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "あなたは…置け"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…の間に"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "…の間に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "あなたは…入れよ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:58.919620732Z",
+  "model": "glm-5.2"
+}

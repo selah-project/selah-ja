@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "それゆえ、男は⟨את⟩自分の父と⟨את⟩自分の母を離れ、自分の妻に結びつき、彼らは一つの肉となる。",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "יַעֲזָב",
+      "gloss": "…は離れ"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "男"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "自分の父"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "自分の父"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "自分の母"
+    },
+    {
+      "surface": "אִמּוֹ",
+      "gloss": "自分の母"
+    },
+    {
+      "surface": "וְדָבַק",
+      "gloss": "結びつき"
+    },
+    {
+      "surface": "בְּאִשְׁתּוֹ",
+      "gloss": "自分の妻に"
+    },
+    {
+      "surface": "וְהָיוּ",
+      "gloss": "そして…となる"
+    },
+    {
+      "surface": "לְבָשָׂר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "一つの"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:19.501300529Z",
+  "model": "glm-5.2"
+}

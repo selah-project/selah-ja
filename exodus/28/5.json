@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そして彼らは⟨את⟩金と、⟨את⟩青色と、⟨את⟩紫色と、⟨את⟩緋色の虫と、⟨את⟩亜麻を取る。",
+  "tokens": [
+    {
+      "surface": "וְהֵם֙",
+      "gloss": "そして彼らは"
+    },
+    {
+      "surface": "יִקְח֣וּ",
+      "gloss": "取る"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "金"
+    },
+    {
+      "surface": "הַזָּהָ֔ב",
+      "gloss": "金"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "青色"
+    },
+    {
+      "surface": "הַתְּכֵ֖לֶת",
+      "gloss": "青色"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "紫色"
+    },
+    {
+      "surface": "הָֽאַרְגָּמָ֑ן",
+      "gloss": "紫色"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "緋色の虫"
+    },
+    {
+      "surface": "תּוֹלַ֥עַת",
+      "gloss": "虫"
+    },
+    {
+      "surface": "הַשָּׁנִ֖י",
+      "gloss": "緋色の"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "亜麻"
+    },
+    {
+      "surface": "הַשֵּֽׁשׁ",
+      "gloss": "亜麻"
+    }
+  ],
+  "timestamp": "2026-08-07T16:28:19.105606796Z",
+  "model": "glm-5.2"
+}

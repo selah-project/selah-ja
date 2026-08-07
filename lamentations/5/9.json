@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "私たちのナフシュで私たちのパンを運び込む、荒野の剣のゆえに。",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "私たちのナフシュで"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "私たちが運び込む"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "私たちのパンを"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "荒野の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:57.724893714Z",
+  "model": "glm-5.2"
+}

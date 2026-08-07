@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "耳を植え付けた方、⟨その方は⟩聞かないのか。目を形造った方、⟨その方は⟩見つめないのか。",
+  "tokens": [
+    {
+      "surface": "הֲנֹ֣טַֽע",
+      "gloss": "植え付けた方"
+    },
+    {
+      "surface": "אֹ֭זֶן",
+      "gloss": "耳"
+    },
+    {
+      "surface": "הֲלֹ֣א",
+      "gloss": "〜ないのか"
+    },
+    {
+      "surface": "יִשְׁמָ֑ע",
+      "gloss": "聞く"
+    },
+    {
+      "surface": "אִֽם",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "יֹ֥צֵֽר",
+      "gloss": "形造った方"
+    },
+    {
+      "surface": "עַ֝֗יִן",
+      "gloss": "目"
+    },
+    {
+      "surface": "הֲלֹ֣א",
+      "gloss": "〜ないのか"
+    },
+    {
+      "surface": "יַבִּֽיט",
+      "gloss": "見つめる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:04.434281717Z",
+  "model": "glm-5.2"
+}

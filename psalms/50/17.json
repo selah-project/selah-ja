@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "あなたは訓戒を憎み、わたしの言葉をあなたのうしろに投げ捨てた。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "一方あなたは"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "憎んだ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "訓戒を"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "そして投げ捨てた"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "わたしの言葉を"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "あなたのうしろに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:34.539997780Z",
+  "model": "glm-5.2"
+}

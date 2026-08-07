@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "ダヴィドはこれを聞き、ヨアブと勇士の全軍を遣わした。",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמַע",
+      "gloss": "そして彼は聞いた"
+    },
+    {
+      "surface": "דָּוִיד",
+      "gloss": "ダヴィドは"
+    },
+    {
+      "surface": "וַיִּשְׁלַח",
+      "gloss": "そして彼は遣わした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨアブ"
+    },
+    {
+      "surface": "יוֹאָב",
+      "gloss": "ヨアブを"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "勇士の全軍"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "צָבָא",
+      "gloss": "軍を"
+    },
+    {
+      "surface": "הַגִּבּוֹרִים",
+      "gloss": "勇士の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:44.120361587Z",
+  "model": "glm-5.2"
+}

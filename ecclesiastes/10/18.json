@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "怠惰によって屋根の梁は沈み、手の垂れ下がりによって家は漏る。",
+  "tokens": [
+    {
+      "surface": "בַּעֲצַלְתַּ֖יִם",
+      "gloss": "怠惰によって"
+    },
+    {
+      "surface": "יִמַּ֣ךְ",
+      "gloss": "沈む"
+    },
+    {
+      "surface": "הַמְּקָרֶ֑ה",
+      "gloss": "屋根の梁は"
+    },
+    {
+      "surface": "וּבְשִׁפְל֥וּת",
+      "gloss": "〜の垂れ下がりによって"
+    },
+    {
+      "surface": "יָדַ֖יִם",
+      "gloss": "手の"
+    },
+    {
+      "surface": "יִדְלֹ֥ף",
+      "gloss": "漏る"
+    },
+    {
+      "surface": "הַבָּֽיִת",
+      "gloss": "家は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:58.734668167Z",
+  "model": "glm-5.2"
+}

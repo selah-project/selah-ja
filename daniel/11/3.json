@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてひとりの力ある王が立ち、大いなる支配をもって治め、彼の思いのままに行う。",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "そして…が立つ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "力ある"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "そして…は治める"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "支配を"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "そして…を行う"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "彼の思いのままに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:49:45.619942054Z",
+  "model": "glm-5.2"
+}

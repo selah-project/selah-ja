@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "愚かな者の子ら、否、名なき子ら、⟨彼らは⟩地から打ち砕かれた。",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "נָבָל",
+      "gloss": "愚かな者"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "否"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "בְלִי",
+      "gloss": "なき"
+    },
+    {
+      "surface": "שֵׁם",
+      "gloss": "名"
+    },
+    {
+      "surface": "נִכְאוּ",
+      "gloss": "打ち砕かれた"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T13:27:34.709309633Z",
+  "model": "glm-5.2"
+}

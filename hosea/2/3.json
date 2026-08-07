@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "あなたがたの兄弟に「わたしの民」と言え。そしてあなたがたの姉妹に「憐れまれた者」と言え。",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "言え"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "あなたがたの兄弟に"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "そしてあなたがたの姉妹に"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "憐れまれた者"
+    }
+  ],
+  "timestamp": "2026-08-07T12:18:15.108837787Z",
+  "model": "glm-5.2"
+}

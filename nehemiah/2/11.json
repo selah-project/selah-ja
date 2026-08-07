@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして私はイェルシャライムに来た。そして私はそこに三日間いた。",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "そして私は来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライム"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "そして私はいた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    }
+  ],
+  "timestamp": "2026-08-07T13:55:45.223600419Z",
+  "model": "glm-5.2"
+}

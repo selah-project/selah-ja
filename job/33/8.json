@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 33:8",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "確かに、あなたはわたしの耳に語った。そして言葉の声を、わたしは聞いた。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "あなたは語った"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "わたしの耳に"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "そして声を"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "言葉の"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "わたしは聞いた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:28:14.062897689Z",
+  "model": "glm-5.2"
+}

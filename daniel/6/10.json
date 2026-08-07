@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そのゆえに、ダレヨス⟨という名の⟩王は文書と禁令に署名した。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "ゆえに"
+    },
+    {
+      "surface": "קֳבֵ֖ל",
+      "gloss": "〜に応じて"
+    },
+    {
+      "surface": "דְּנָ֑ה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "מַלְכָּ֙א",
+      "gloss": "王は"
+    },
+    {
+      "surface": "דָּֽרְיָ֔וֶשׁ",
+      "gloss": "ダレヨス"
+    },
+    {
+      "surface": "רְשַׁ֥ם",
+      "gloss": "署名した"
+    },
+    {
+      "surface": "כְּתָבָ֖א",
+      "gloss": "文書に"
+    },
+    {
+      "surface": "וֶאֱסָרָֽא",
+      "gloss": "と禁令に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:46:32.076206597Z",
+  "model": "glm-5.2"
+}

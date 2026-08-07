@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "あなたは自分のために刻像を、また天の上にあるもの、地の下にあるもの、地の下の水にあるものの、いかなる形態をも造ってはならない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "造ってはならない"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなた自身のために"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "刻像"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "および…すべての"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "形態"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "天に"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "上にある"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "および…であるところの"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "下にある"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "および…であるところの"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水に"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "下にある"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:20:11.193105456Z",
+  "model": "glm-5.2"
+}

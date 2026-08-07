@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "malachi 3:24",
+  "book": "malachi",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼は父たちの心を息子たちの上に、また息子たちの心を父たちの上に回復させる。さもないと、わたしが来て、⟨את⟩地を破滅で打つからだ。",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "そして彼は回復させる"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "父たちの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "また〜の心"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たちの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "彼らの父たち"
+    },
+    {
+      "surface": "פן",
+      "gloss": "さもないと"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "わたしが来て"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "打つ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "破滅で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:01.282165816Z",
+  "model": "glm-5.2"
+}

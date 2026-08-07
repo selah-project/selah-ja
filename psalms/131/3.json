@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 131,
+  "translation": "待ち望め、イスラエルよ、ヤハウェを。今からとこしえまで。",
+  "tokens": [
+    {
+      "surface": "יַחֵ֣ל",
+      "gloss": "待ち望め"
+    },
+    {
+      "surface": "יִ֭שְׂרָאֵל",
+      "gloss": "イスラエルよ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "～を"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מֵֽ֝עַתָּ֗ה",
+      "gloss": "今から"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "そして～まで"
+    },
+    {
+      "surface": "עוֹלָֽם",
+      "gloss": "とこしえ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:25.980774955Z",
+  "model": "glm-5.2"
+}

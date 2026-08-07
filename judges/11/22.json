@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "彼らは⟨את⟩ すべてのエモリ人の領土 —— アルノンからヤボクまで、そして荒野からヨルダンまで —— を所有した。",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "彼らは…所有した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "領土"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "エモリ人の"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "アルノンから"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "ヤボク"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "そして…から"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "荒野"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルダン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:35:47.001309867Z",
+  "model": "glm-5.2"
+}

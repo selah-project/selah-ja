@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "ああ、すべて渇く⟨者よ⟩、水のために来い。銀のない者、来て買え、そして食べよ。来て、銀なしに、代価なしに、ぶどう酒と乳を買え。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "渇く"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "来い"
+    },
+    {
+      "surface": "למים",
+      "gloss": "水のために"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "そして〜なる者"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "来い"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "買え"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "そして食べよ"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "そして来い"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "買え"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "なしに"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "そしてなしに"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "代価"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ぶどう酒"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "そして乳"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:45.235981945Z",
+  "model": "glm-5.2"
+}

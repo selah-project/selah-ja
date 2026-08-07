@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして女は蛇に言った。「園の木の果実から、私たちは食べています。",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "果実から"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木の"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "園の"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "私たちは食べている"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:36.727475033Z",
+  "model": "glm-5.2"
+}

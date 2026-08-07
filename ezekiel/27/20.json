@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "デダンはあなたの商人であった。乗馬用の敷物で。",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "デダン"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "あなたの商人であった"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "衣服（〜で）"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "敷物"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "乗馬用の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:09:51.050111787Z",
+  "model": "glm-5.2"
+}

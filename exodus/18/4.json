@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてもう一人の名はエリエゼル。「私の父のエロヒムは ⟨私の⟩ 助けであり、私をパロの剣から救い出されたからである」と。",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "そして…名"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "もう一人の"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "エリエゼル"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だからである"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…のエロヒム"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "私の父の"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "私の助けに"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "そして私を救い出された"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "…の剣から"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:14.253183915Z",
+  "model": "glm-5.2"
+}

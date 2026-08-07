@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 144,
+  "translation": "いなずまを閃かせて彼らを散らし、あなたの矢を放って彼らをかき乱してください。",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "閃かせて"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "いなずまを"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "彼らを散らし"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "放って"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "あなたの矢を"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "彼らをかき乱してください"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:00.899706639Z",
+  "model": "glm-5.2"
+}

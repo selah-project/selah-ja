@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 30:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "ああ、そむく子ら、ヤハウェの御告げ、計らうために、しかしわたし〈から〉ではなく、覆いを注ぐために、しかしわたしの霊〈による〉ではなく、罪の上に罪を積み重ねるために。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "そむく"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "計らうために"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "計らい"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "מני",
+      "gloss": "わたし〈から〉"
+    },
+    {
+      "surface": "ולנסך",
+      "gloss": "注ぐために"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "覆い"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "わたしの霊"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜ために"
+    },
+    {
+      "surface": "ספות",
+      "gloss": "積み重ねる"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:36.937504465Z",
+  "model": "glm-5.2"
+}

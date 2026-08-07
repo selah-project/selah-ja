@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "第一の月、その月の十四日、二つの夕暮の間、ペサハはヤハウェの⟨もの⟩である。",
+  "tokens": [
+    {
+      "surface": "בַּחֹ֣דֶשׁ",
+      "gloss": "第一の月に"
+    },
+    {
+      "surface": "הָרִאשׁ֗וֹן",
+      "gloss": "第一の"
+    },
+    {
+      "surface": "בְּאַרְבָּעָ֥ה",
+      "gloss": "四"
+    },
+    {
+      "surface": "עָשָׂ֛ר",
+      "gloss": "十"
+    },
+    {
+      "surface": "לַחֹ֖דֶשׁ",
+      "gloss": "その月の"
+    },
+    {
+      "surface": "בֵּ֣ין",
+      "gloss": "〜の間"
+    },
+    {
+      "surface": "הָעַרְבָּ֑יִם",
+      "gloss": "二つの夕暮"
+    },
+    {
+      "surface": "פֶּ֖סַח",
+      "gloss": "ペサハ"
+    },
+    {
+      "surface": "לַיהוָֽה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:15.468019485Z",
+  "model": "glm-5.2"
+}

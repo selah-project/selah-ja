@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "ヤハウェに感謝せよ、⟨御⟩名において呼べ、諸国民の間に⟨彼⟩の業を知らせよ。",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "感謝せよ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "呼べ"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "⟨御⟩名において"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "知らせよ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "諸国民の間に"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "⟨彼⟩の業"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:43.412993504Z",
+  "model": "glm-5.2"
+}

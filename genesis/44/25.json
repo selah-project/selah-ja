@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "そして⟨私たちの⟩父は言った、引き返せ、⟨私たちのために⟩少しの食糧を買い求めよ、と。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "私たちの父は"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "引き返せ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "穀物を買え"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちのために"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "少しの"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食糧を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:10:01.981715745Z",
+  "model": "glm-5.2"
+}

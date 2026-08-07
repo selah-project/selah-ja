@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "傲りが来れば、恥も来る。そして⟨את⟩慎み深い者たちに⟨あるのは⟩知恵である。",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "来れば"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "傲りが"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして来る"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "恥も"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "慎み深い者たち"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "慎み深い者たちに"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵である"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:56.402450363Z",
+  "model": "glm-5.2"
+}

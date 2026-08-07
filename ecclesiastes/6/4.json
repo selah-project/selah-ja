@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "というのも、ヘベル（虚空）のうちに ⟨彼は⟩ 来り、闇のうちに去り、闇のうちにその名は覆われるからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ヘベルのうちに"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "そして闇のうちに"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "去る"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "そして闇のうちに"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "その名は"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "覆われる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:03.610321223Z",
+  "model": "glm-5.2"
+}

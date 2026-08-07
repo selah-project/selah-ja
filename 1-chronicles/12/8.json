@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "ヨエラ、ゼバデヤ、ヤロハムの子ら、ゲドル ⟨の⟩⟨者⟩",
+  "tokens": [
+    {
+      "surface": "וְיוֹעֵאלָ֧ה",
+      "gloss": "ヨエラ"
+    },
+    {
+      "surface": "וּזְבַדְיָ֛ה",
+      "gloss": "ゼバデヤ"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "יְרֹחָ֖ם",
+      "gloss": "ヤロハム"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "〜の"
+    },
+    {
+      "surface": "הַגְּדֽוֹר",
+      "gloss": "ゲドル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:02.165026938Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "快楽は愚か者にふさわしくない — ましてや奴隷が君たちの上に支配するなど。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ふさわしい"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "愚か者に"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "快楽は"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ましてや"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜など"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "奴隷にとって"
+    },
+    {
+      "surface": "משל",
+      "gloss": "支配する"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "君たちの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:41:42.049193822Z",
+  "model": "glm-5.2"
+}

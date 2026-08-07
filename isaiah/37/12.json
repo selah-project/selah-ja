@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "私の父祖たちが滅ぼし尽くした国々のエロヒムたちが、彼らを救い出したのか — ⟨את⟩ ゴザンと、⟨את⟩ ハランと、レツェフと、テラサルにいたエデンの子らを。",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "救い出したのか"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら（国々のエロヒムたちの民）"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "〜のエロヒムたち"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "国々"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "滅ぼし尽くした"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "私の父祖たち"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ゴザン"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "ゴザン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "ハラン"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "ハラン"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "とレツェフ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "と〜の子ら"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "エデン"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "テラサルに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:28:41.630817191Z",
+  "model": "glm-5.2"
+}

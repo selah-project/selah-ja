@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 132,
+  "translation": "⟨彼が⟩ ヤハウェに誓い、ヤコブの強き者に誓約を立てた⟨こと⟩ ―",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "―⟨彼が⟩"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "誓った"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "誓約を立てた"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "強き者に"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤコブの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:27.634108842Z",
+  "model": "glm-5.2"
+}

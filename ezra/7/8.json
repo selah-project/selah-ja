@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "彼は第五の月にエルシャライムに到着した。それは王の第七年であった。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "到着した"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "エルシャライム"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "…の月に"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "第五"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "…の年"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "第七"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:51:20.350442487Z",
+  "model": "glm-5.2"
+}

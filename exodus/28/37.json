@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そしてあなたはそれを青色の紐の上に置く。それはターバンの上にある。ターバンの前面に向かってそれがあるだろう。",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "そしてあなたは置く"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩それ",
+      "marks": "それ（純金の札）"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "紐"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "青色"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "そしてそれはある"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "そのターバン"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "מול",
+      "gloss": "正面の"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "そのターバン"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "それはあるだろう"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:19.197352447Z",
+  "model": "glm-5.2"
+}

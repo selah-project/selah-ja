@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ダヴィドは⟨את⟩ツィヨンの要塞を攻め取った。それはダヴィデの町である。",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "攻め取った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィドは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ツィヨンの要塞"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "要塞"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨンの"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィデの"
+    }
+  ],
+  "timestamp": "2026-08-07T16:45:31.986227212Z",
+  "model": "glm-5.2"
+}

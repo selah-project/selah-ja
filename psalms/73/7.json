@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 73,
+  "translation": "脂肪から彼らの目は出る、心の妄想を彼らは越えて行く。",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "出る"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "脂肪から"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "彼らの目"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "彼らは越えて行く"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "妄想"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:46.691802536Z",
+  "model": "glm-5.2"
+}

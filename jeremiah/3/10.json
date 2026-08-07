@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 3:10",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてすべてこれらにもかかわらず、彼女の姉妹、裏切り者ユダは、全心をもって ⟨私に⟩ 立ち返らなかった。偽りにおいてのみ ⟨立ち返った⟩ とヤハウェは告げる。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "そして…にも"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これら"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "彼女は立ち返った"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "裏切り者"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "彼女の姉妹"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "彼女の心"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜においてのみ"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "偽り"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "…と告げる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:39:48.099484385Z",
+  "model": "glm-5.2"
+}

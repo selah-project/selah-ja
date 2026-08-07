@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "⟨את⟩アナトテとその牧草地、および⟨את⟩アルモンとその牧草地 — 四つの都市。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アナトテ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "アナトテ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "その牧草地"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "その牧草地"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "アルモン"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "アルモン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "その牧草地"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "その牧草地"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "都市"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四つ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:29:41.386446715Z",
+  "model": "glm-5.2"
+}

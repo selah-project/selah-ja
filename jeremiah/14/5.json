@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "果てしなく、野の雌鹿も産んで、⟨それを⟩見捨てる—牧草がなかったからである。",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "果てしなく"
+    },
+    {
+      "surface": "גַם",
+      "gloss": "も"
+    },
+    {
+      "surface": "אַיֶּלֶת",
+      "gloss": "雌鹿"
+    },
+    {
+      "surface": "בַשָּׂדֶה",
+      "gloss": "野の"
+    },
+    {
+      "surface": "יָלְדָה",
+      "gloss": "産んで"
+    },
+    {
+      "surface": "וְעָזוֹב",
+      "gloss": "見捨てる"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "からである"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "⟨あった⟩"
+    },
+    {
+      "surface": "דֶשֶׁא",
+      "gloss": "牧草"
+    }
+  ],
+  "timestamp": "2026-08-07T17:01:55.734085087Z",
+  "model": "glm-5.2"
+}

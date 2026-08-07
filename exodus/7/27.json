@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "もしあなたが去らせることを拒めば、見よ、わたしは⟨את⟩あなたの全域の領土をカエルで打つ。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "拒めば"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "去らせることを"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "打つ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの全域の領土"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全域の"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "あなたの領土"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "カエルで"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:27.973526169Z",
+  "model": "glm-5.2"
+}

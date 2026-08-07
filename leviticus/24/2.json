@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "イスラエルの子らに命じよ。そして彼らに、あなたのところにオリーブ油を持って来させるように。純粋な、打ち砕いた油を、灯火のために。ともしびを絶えず上げさせるために。",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "命じよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子らを"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "そして彼らは取るように"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたのところに"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "זית",
+      "gloss": "オリーブ"
+    },
+    {
+      "surface": "זך",
+      "gloss": "純粋な"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "打ち砕いた"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "灯火のために"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "上げさせるために"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ともしびを"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "絶えず"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:32.981605634Z",
+  "model": "glm-5.2"
+}

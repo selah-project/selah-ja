@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 11:11",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてあなた方がそこへ渡ってこれを所有しようとしている地は——山と谷の地、天の雨の水を飲む。",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "そしてその地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなた方が"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "渡って"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこへ"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "これを所有するために"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "ובקעת",
+      "gloss": "と谷"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "〜の雨の"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "それは飲む"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:10:53.713857347Z",
+  "model": "glm-5.2"
+}

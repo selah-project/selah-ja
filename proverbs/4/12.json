@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "あなたの歩むとき、あなたの一歩は狭められず、あなたが走るなら、つまずかない。",
+  "tokens": [
+    {
+      "surface": "בְּֽ֭לֶכְתְּךָ",
+      "gloss": "あなたの歩むとき"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יֵצַ֣ר",
+      "gloss": "狭められ"
+    },
+    {
+      "surface": "צַעֲדֶ֑ךָ",
+      "gloss": "あなたの一歩は"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "תָּ֝ר֗וּץ",
+      "gloss": "あなたが走るなら"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תִכָּשֵֽׁל",
+      "gloss": "つまずく"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:14.490546799Z",
+  "model": "glm-5.2"
+}

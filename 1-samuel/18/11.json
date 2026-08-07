@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "サウルは⟨את⟩槍を投げつけ、言った。「ダヴィドを、そして壁に突き刺そう。」ダヴィドは彼の顔から二度身をかわした。",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "投げつけた"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウルは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "槍"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "槍"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "突き刺そう"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "ダヴィドを"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "そして壁に"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "身をかわした"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィドは"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "彼の顔から"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "二度"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:26.462422903Z",
+  "model": "glm-5.2"
+}

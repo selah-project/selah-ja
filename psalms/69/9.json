@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "よそ者となった、わたしの兄弟たちにとって。そして異邦人、わたしの母の子らにとって。",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "よそ者"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "となった"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "わたしの兄弟たちにとって"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "そして異邦人"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〜の子らにとって"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "わたしの母"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:29.429558119Z",
+  "model": "glm-5.2"
+}

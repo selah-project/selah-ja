@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 61,
+  "translation": "エロヒーム、私の叫びを聞いてください、私の祈りに耳を傾けてください。",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "聞いてください"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒーム"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "私の叫び"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "耳を傾けてください"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "私の祈り"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:10.754623362Z",
+  "model": "glm-5.2"
+}

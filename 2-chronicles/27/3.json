@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "彼は⟨את⟩ヤハウェの家の上の門を建て、オフェルの城壁に多くを建てた。",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの家の上の門"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "上の"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "城壁に"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "オフェルの"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "多くを"
+    }
+  ],
+  "timestamp": "2026-08-07T14:16:35.117190280Z",
+  "model": "glm-5.2"
+}

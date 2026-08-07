@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 92,
+  "translation": "なんと大いなることでしょう、あなたのわざは、ヤハウェは。なんと深いことでしょう、あなたの思いは。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "なんと"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "大いなることでしょう"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "あなたのわざは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "なんと"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "深いことでしょう"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "あなたの思いは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:39.461416441Z",
+  "model": "glm-5.2"
+}

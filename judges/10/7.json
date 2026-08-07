@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "ヤハウェの怒りがイスラエルに対して燃え、⟨彼⟩らをペリシテ人の手とアンモンの子らの手に売り渡された。",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "そして燃えた"
+    },
+    {
+      "surface": "אף",
+      "gloss": "怒り"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルに対して"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "そして彼らを売り渡した"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手に"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "そして手に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アンモン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:35:10.849908841Z",
+  "model": "glm-5.2"
+}

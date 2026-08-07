@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 22:19",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして⟨את⟩ノブ、祭司たちの町を、彼は剣の口によって打った。男から女まで、幼児から乳飲み子まで、そして牛とろばと羊を、剣の口によって。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ノブ"
+    },
+    {
+      "surface": "נב",
+      "gloss": "ノブ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "…の町"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "彼は打った"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "…の口によって"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "男から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "幼児から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "乳飲み子"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "そして牛"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "とろば"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "と羊"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "…の口によって"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:20.534540303Z",
+  "model": "glm-5.2"
+}

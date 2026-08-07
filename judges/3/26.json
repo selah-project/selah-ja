@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "エフドは彼らがためらっている間に逃れた。彼は⟨את⟩刻像を通り過ぎ、ハ・セイラに逃れた。",
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "エフドは"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "逃れた"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜の間"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "彼らがためらっている"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "通り過ぎた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "刻像"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "刻像を"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "逃れた"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "ハ・セイラへ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:33:02.563511109Z",
+  "model": "glm-5.2"
+}

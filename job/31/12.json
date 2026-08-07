@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 31:12",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "それは火であり、アバドンまでを食い尽くす火であり、私のすべての収穫を根こそぎにするからである。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜までを"
+    },
+    {
+      "surface": "אבדון",
+      "gloss": "アバドン"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食い尽くす"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "そして私のすべての"
+    },
+    {
+      "surface": "תבואתי",
+      "gloss": "収穫を"
+    },
+    {
+      "surface": "תשרש",
+      "gloss": "根こそぎにする"
+    }
+  ],
+  "timestamp": "2026-08-07T13:27:33.745563905Z",
+  "model": "glm-5.2"
+}

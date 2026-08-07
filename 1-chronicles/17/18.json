@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "ダビデはあなたのしもべの誉められるために、また何を加えることができましょう。あなたはあなたのしもべを、⟨あなたは⟩知っておられるのです。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "加えることができようか"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに向かって"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "誉れのため"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたのしもべを"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "あなたのしもべの"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "そしてあなたは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたのしもべを"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "あなたのしもべを"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "知っておられる"
+    }
+  ],
+  "timestamp": "2026-08-07T14:06:38.211332719Z",
+  "model": "glm-5.2"
+}

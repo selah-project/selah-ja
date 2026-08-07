@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "レウはセルグを⟨את⟩生んでから、二百七年生き、息子と娘たちを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "レウ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "〜の後に"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "彼が生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "セルグ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "セルグ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "と二百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "と娘たち"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:45.572592219Z",
+  "model": "glm-5.2"
+}

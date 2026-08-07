@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてボアズは⟨את⟩オベデを生み、オベデは⟨את⟩イシャイを生んだ。",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "そしてボアズは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "オベデ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "オベデ"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "そしてオベデは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イシャイ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "イシャイ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:41.365424121Z",
+  "model": "glm-5.2"
+}

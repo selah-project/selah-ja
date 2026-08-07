@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてヤハウェは私に言われた。「この民のために、彼らの益となるよう祈ってはならない。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "祈って"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "益となるよう"
+    }
+  ],
+  "timestamp": "2026-08-07T11:45:34.119262985Z",
+  "model": "glm-5.2"
+}

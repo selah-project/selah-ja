@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 36:30",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "わたしは木の実と野の作物を増やそう。それはもはやあなたがたが国々の間で飢饉の恥を受けることがないためである。",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "わたしは増やそう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "木の実を"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "実"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "木の"
+    },
+    {
+      "surface": "ותנובת",
+      "gloss": "〜と作物"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野の"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜のため"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは〜"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "あなたがたは受ける"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "恥を"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "飢饉の"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "国々の間で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:12:35.801798379Z",
+  "model": "glm-5.2"
+}

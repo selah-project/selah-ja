@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "ヤハウェがあなたたちの前から滅ぼされる諸国のように、あなたたちも滅びる。ヤハウェ、あなたたちのエロヒムの声に聞き従わなかったからである。",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "諸国のように"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "滅ぼされる"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "あなたたちの前から"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "あなたたちも滅びる"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "～のゆえに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "あなたたちは聞き従った"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "声に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "あなたたちのエロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:10:17.806083600Z",
+  "model": "glm-5.2"
+}

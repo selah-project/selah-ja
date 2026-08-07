@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "⟨彼は⟩道の上でわたしの力を弱め、わたしの日々を短くされた。",
+  "tokens": [
+    {
+      "surface": "עִנָּ֖ה",
+      "gloss": "弱められた"
+    },
+    {
+      "surface": "בַדֶּ֥רֶךְ",
+      "gloss": "道の上で"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "わたしの力を"
+    },
+    {
+      "surface": "קִצַּ֥ר",
+      "gloss": "短くされた"
+    },
+    {
+      "surface": "יָמָֽי",
+      "gloss": "わたしの日々を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:18.459850583Z",
+  "model": "glm-5.2"
+}

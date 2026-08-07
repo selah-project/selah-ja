@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "ヤハウェはご自身の民を見捨てない、またご自身の嗣業を捨て置かない。",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "因为"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִטֹּ֣שׁ",
+      "gloss": "见捨てない"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עַמּ֑וֹ",
+      "gloss": "ご自身の民を"
+    },
+    {
+      "surface": "וְ֝נַחֲלָת֗וֹ",
+      "gloss": "またご自身の嗣业を"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יַעֲזֹֽב",
+      "gloss": "捨て置かない"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:21.696746810Z",
+  "model": "glm-5.2"
+}

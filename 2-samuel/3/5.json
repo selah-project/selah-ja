@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 3:5",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして第六はエグラ、ダヴィドの妻によるイテレアム。これらはダヴィドにヘブロンで生まれた。",
+  "tokens": [
+    {
+      "surface": "והששי",
+      "gloss": "そして第六は"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "イテレアム"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "エグラによる"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻である"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィドの"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダヴィドに"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ヘブロンで"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:12.194956108Z",
+  "model": "glm-5.2"
+}

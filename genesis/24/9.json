@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして ⟨その⟩ しもべは ⟨自分の⟩ 手をアブラハム ⟨彼の⟩ 主人の大腿の下に置き、その事柄について彼に誓った。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "そして〜置いた"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "そのしもべは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の手"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "大腿"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "彼の主人の"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "そして誓った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "その事柄"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T08:57:06.856603167Z",
+  "model": "glm-5.2"
+}

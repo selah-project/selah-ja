@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてアラムの王は自分の車の隊長たちに命じて言った、「小さい者とも大きい者とも戦ってはならない。ただイスラエルの王と、彼ひとり⟨と⟩⟨だけ⟩戦⟨え⟩。」",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "そして…王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラム"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "車の隊長たち"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "…の隊長たち"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "車"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に属する"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "…と言って"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "あなたたちは戦ってはならない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "小さい者"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "小さい者"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大きい者"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大きい者"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜のみ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "彼ひとり"
+    }
+  ],
+  "timestamp": "2026-08-07T14:14:46.734476303Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 145,
+  "translation": "彼らはあなたの王国の栄光を語り、あなたの力について語る。",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "栄光"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "あなたの王国の"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "彼らは語る"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "あなたの力について"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "語る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:22.701260693Z",
+  "model": "glm-5.2"
+}

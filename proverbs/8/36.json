@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "proverbs 8:36",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "しかし私に対して罪を犯す者は自分の命に暴力を振るう。私を憎む者はすべて、死を愛する。",
+  "tokens": [
+    {
+      "surface": "וחטאי",
+      "gloss": "しかし私に対して罪を犯す者は"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "暴力を振るう"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "自分の命に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "〜はすべて"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "私を憎む者"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "愛する"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:58.598407689Z",
+  "model": "glm-5.2"
+}

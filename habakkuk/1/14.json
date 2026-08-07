@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして人を海の魚のように、這うもののように、それに支配者のないものとして⟨あなたは⟩造られたのか。",
+  "tokens": [
+    {
+      "surface": "וַתַּעֲשֶׂה",
+      "gloss": "そして造られたのか"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "人を"
+    },
+    {
+      "surface": "כִּדְגֵי",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "הַיָּם",
+      "gloss": "海の"
+    },
+    {
+      "surface": "כְּרֶמֶשׂ",
+      "gloss": "這うもののように"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "מֹשֵׁל",
+      "gloss": "支配者の"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "それに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:45:42.443939175Z",
+  "model": "glm-5.2"
+}

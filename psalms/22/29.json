@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "王権はヤハウェのもの、 ⟨彼が⟩国々を治めておられるからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェのもの"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "王権"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "治めておられる"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "国々を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:24.886941246Z",
+  "model": "glm-5.2"
+}

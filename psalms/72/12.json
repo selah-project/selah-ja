@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 72,
+  "translation": "彼が叫び求める乏しい者を救い出し、助ける者のいない苦しむ者と ⟨貧しい者⟩ を ⟨救う⟩ からである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "救い出す"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "乏しい者を"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "叫び求める"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "そして苦しむ者を"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして ⟨いない⟩"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "助ける者の"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:10.010657199Z",
+  "model": "glm-5.2"
+}

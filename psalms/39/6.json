@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 39:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "見よ、一手幅のものとしてあなたは私の日を置かれ、私のへレドはあなたの前にあって無きに等しい。まことに、すべての人は立っておれば、全くヘベルである。セラ。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "טפחות",
+      "gloss": "手幅のもの"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "あなたは置かれた"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "私の日を"
+    },
+    {
+      "surface": "וחלדי",
+      "gloss": "そして私のへレドは"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "無きに等しい"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "あなたの前に"
+    },
+    {
+      "surface": "אך",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ヘベル（息）"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人は"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "立っておれば"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:33.737576109Z",
+  "model": "glm-5.2"
+}

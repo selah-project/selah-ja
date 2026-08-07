@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "王は言った。脇に ⟨立ちなさい⟩、ここ ⟨に⟩。彼は脇に ⟨立ち⟩、立った。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "סב",
+      "gloss": "脇に"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "立ちなさい"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ここに"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "脇に寄った"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "立った"
+    }
+  ],
+  "timestamp": "2026-08-07T10:55:11.400289711Z",
+  "model": "glm-5.2"
+}

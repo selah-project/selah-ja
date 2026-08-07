@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてあなたの名を知る者はあなたに信頼する。ヤハウェよ、あなたを求める者をあなたは見捨てなかったからである。",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "そして…信頼する"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "知る者"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの名を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "見捨てた"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "あなたを求める者を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:23.481776264Z",
+  "model": "glm-5.2"
+}

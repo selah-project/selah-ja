@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "高ぶりによってのみ争いが起こる、だが諮る者たちと⟨את⟩共に⟨あるのは⟩知恵である。",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "高ぶりによって"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "もたらす"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "争いを"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "諮る者たちと共に"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "諮る者たち"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:05.836256427Z",
+  "model": "glm-5.2"
+}

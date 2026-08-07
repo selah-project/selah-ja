@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 113,
+  "translation": "ハレル。ヤハにほめ歌をうたえ。ヤハウェのしもべたちよ、ほめ歌をうたえ。⟨את⟩ ヤハウェの御名をほめ歌をうたえ。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ほめ歌をうたえ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ほめ歌をうたえ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "〜のしもべたちよ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ほめ歌をうたえ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの御名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "御名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:08.844889066Z",
+  "model": "glm-5.2"
+}

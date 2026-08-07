@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そして彼は⟨את⟩胸当てを、エフォドの仕立てのように、巧みな織りのわざで作った——金、青紫、赤紫、緋色の撚り糸、および撚り亜麻。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は作った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "胸当て"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "胸当て"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "わざ"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "巧みな織りの"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "～の仕立てのように"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "エフォド"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "青紫"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "と赤紫"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "と～の虫"
+    },
+    {
+      "surface": "שני",
+      "gloss": "緋色"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "と亜麻"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "撚り"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:36.989494011Z",
+  "model": "glm-5.2"
+}

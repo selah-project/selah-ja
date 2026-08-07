@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "ヤハウェは諸国の計らいを打ち砕き、諸民のはかりごとを無効にされる。",
+  "tokens": [
+    {
+      "surface": "יְֽהוָ֗ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הֵפִ֥יר",
+      "gloss": "打ち砕かれた"
+    },
+    {
+      "surface": "עֲצַת",
+      "gloss": "計らい"
+    },
+    {
+      "surface": "גּוֹיִ֑ם",
+      "gloss": "諸国の"
+    },
+    {
+      "surface": "הֵ֝נִ֗יא",
+      "gloss": "無効にされた"
+    },
+    {
+      "surface": "מַחְשְׁב֥וֹת",
+      "gloss": "はかりごと"
+    },
+    {
+      "surface": "עַמִּֽים",
+      "gloss": "諸民の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:55.485968059Z",
+  "model": "glm-5.2"
+}

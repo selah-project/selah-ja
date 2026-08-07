@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 121,
+  "translation": "ヤハウェはあなたをすべての悪から守る、⟨את⟩あなたの魂を守られる",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "あなたを守る"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "すべての〜から"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "守られる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの魂"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "あなたの魂"
+    }
+  ],
+  "timestamp": "2026-08-07T17:22:51.308278817Z",
+  "model": "glm-5.2"
+}

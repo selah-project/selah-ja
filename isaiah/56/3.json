@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 56:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 56,
+  "translation": "そして異邦人の子、ヤハウェに連なった者は、言ってはならない、「ヤハウェは私をその民からきっぱりと隔てられた」と。また去勢された者は言ってはならない、「見よ、私は乾いた木だ」と。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "そして〜てはならない"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "言う"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "異邦人"
+    },
+    {
+      "surface": "הנלוה",
+      "gloss": "連なった者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "הבדל",
+      "gloss": "隔離"
+    },
+    {
+      "surface": "יבדילני",
+      "gloss": "私を隔てられる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "その民"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "また〜てはならない"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "言う"
+    },
+    {
+      "surface": "הסריס",
+      "gloss": "去勢された者"
+    },
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "乾いた"
+    }
+  ],
+  "timestamp": "2026-08-07T14:31:49.047324104Z",
+  "model": "glm-5.2"
+}

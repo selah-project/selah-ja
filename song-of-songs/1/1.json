@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "שירのשירの集、אשרはשלמהのものである。",
+  "tokens": [
+    {
+      "surface": "שִׁ֥יר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "הַשִּׁירִ֖ים",
+      "gloss": "歌の"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "それは〜である"
+    },
+    {
+      "surface": "לִשְׁלֹמֹֽה",
+      "gloss": "שלמהのものである"
+    }
+  ],
+  "timestamp": "2026-08-07T18:43:15.907042654Z",
+  "model": "glm-5.2"
+}

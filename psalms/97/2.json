@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 97,
+  "translation": "雲と暗やみが⟨彼の⟩周りに⟨ある⟩、義と正義が⟨彼の⟩玉座の基である。",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "と暗やみが"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "⟨彼の⟩周りに"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "義"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "と正義が"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "基である"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "⟨彼の⟩玉座の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:44.736248504Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 136,
+  "translation": "全肉体に食物を与える方 — まことに、とこしえに（永遠に）続くそのヘセド（恵み）。",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "与える方"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "食物"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉体"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "そのヘセド"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:57.685782176Z",
+  "model": "glm-5.2"
+}

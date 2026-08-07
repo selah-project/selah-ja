@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてヨシュアと、彼と共に全イスラエルは、ギルガルの宿営へ帰った。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして帰った"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュアは"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルは"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "宿営の"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "ギルガルの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:26:35.481953327Z",
+  "model": "glm-5.2"
+}

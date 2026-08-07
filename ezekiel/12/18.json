@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 12:18",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "人の子よ、あなたのパンを震えのうちに食べ、あなたの水を激動と不安のうちに飲め。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人（アダム）の"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "あなたのパンを"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "震えのうちに"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食べよ"
+    },
+    {
+      "surface": "ומימיך",
+      "gloss": "そしてあなたの水を"
+    },
+    {
+      "surface": "ברגזה",
+      "gloss": "激動のうちに"
+    },
+    {
+      "surface": "ובדאגה",
+      "gloss": "そして不安のうちに"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "飲め"
+    }
+  ],
+  "timestamp": "2026-08-07T12:02:48.455542222Z",
+  "model": "glm-5.2"
+}

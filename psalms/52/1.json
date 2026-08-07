@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "指揮者に。教訓の詩、ダヴィドの。",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֗חַ",
+      "gloss": "指揮者に"
+    },
+    {
+      "surface": "מַשְׂכִּ֥יל",
+      "gloss": "教訓の詩"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "ダヴィドの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:14.835978690Z",
+  "model": "glm-5.2"
+}

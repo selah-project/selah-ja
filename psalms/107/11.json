@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "エルの言葉に背を向け、至高者の計らいを侮ったからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "他们悖逆了"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "话语"
+    },
+    {
+      "surface": "אל",
+      "gloss": "埃尔"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "与计谋"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "至高者"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "他们藐视了"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:25.886786220Z",
+  "model": "glm-5.2"
+}

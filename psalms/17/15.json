@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "この私は、義 ⟨をもって⟩ あなた ⟨の⟩ 御顔を仰ぎ見る。目覚める ⟨とき⟩、あなた ⟨の⟩ 姿 ⟨に⟩ 飽き足りる。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "この私は"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "義をもって"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "仰ぎ見る"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの御顔を"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "飽き足りる"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "目覚めるとき"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "あなたの姿に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:08.246071090Z",
+  "model": "glm-5.2"
+}

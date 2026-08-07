@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 28:28",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "穀物のパンは粉砕される。いつまでも踏み脱穀し続けるわけではないからだ。彼はその牛車の車輪を転がし、その馬でそれを粉砕することはない。",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "穀物のパン"
+    },
+    {
+      "surface": "יודק",
+      "gloss": "粉砕される"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "いつまでも"
+    },
+    {
+      "surface": "אדוש",
+      "gloss": "踏み脱穀する"
+    },
+    {
+      "surface": "ידושנו",
+      "gloss": "それを脱穀する"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "そして音を響かせる"
+    },
+    {
+      "surface": "גלגל",
+      "gloss": "車輪"
+    },
+    {
+      "surface": "עגלתו",
+      "gloss": "彼の牛車の"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "そして彼の馬"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידקנו",
+      "gloss": "それを粉砕する"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:13.489349995Z",
+  "model": "glm-5.2"
+}

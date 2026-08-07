@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "エロヒムに力を帰せよ。その威光はイスラエルの上にあり、その力は雲の中にある。",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "帰せよ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "力を"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "エロヒムに"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "その威光"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "そしてその力"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "雲の中に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:50.519265940Z",
+  "model": "glm-5.2"
+}

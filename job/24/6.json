@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 24:6",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "畑で⟨彼の⟩飼い葉を刈り取り、悪者のぶどう園の落ち穂を拾う。",
+  "tokens": [
+    {
+      "surface": "בשדה",
+      "gloss": "畑で"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "彼の飼い葉を"
+    },
+    {
+      "surface": "יקצירו",
+      "gloss": "刈り取る"
+    },
+    {
+      "surface": "וכרם",
+      "gloss": "ぶどう園の"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者の"
+    },
+    {
+      "surface": "ילקשו",
+      "gloss": "拾う"
+    }
+  ],
+  "timestamp": "2026-08-07T13:26:23.939252099Z",
+  "model": "glm-5.2"
+}

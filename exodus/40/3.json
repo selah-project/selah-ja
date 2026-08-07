@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そしてあなたはそこに⟨את⟩証の箱を置き、その箱の上に⟨את⟩垂れ幕を掛けよ。",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "そしてあなたは置く"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "証の箱"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "証の"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "そしてあなたは覆う"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "その箱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "垂れ幕"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "垂れ幕"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:26.587077565Z",
+  "model": "glm-5.2"
+}

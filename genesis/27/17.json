@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "彼女は⟨את⟩美味しい料理と⟨את⟩パンを、彼女が作ったもの、ヤコブ彼女の息子の手に渡した。",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "彼女は…渡した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "美味しい料理"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "美味しい料理"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "パン"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "彼女が作った"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…の手に"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤコブ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "彼女の息子"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:50.246331617Z",
+  "model": "glm-5.2"
+}

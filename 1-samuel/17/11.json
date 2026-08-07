@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "シャウルと全イスラエルはペリシト人のこれらの言葉を聞いて、ひるみ、非常に恐れた。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聞いて"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらの言葉を"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ペリシト人の"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "ひるみ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "恐れた"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:55.718691889Z",
+  "model": "glm-5.2"
+}

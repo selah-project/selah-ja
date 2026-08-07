@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "盗んではならない。また偽ってはならず、互いに欺いてはならない。",
+  "tokens": [
+    {
+      "surface": "לֹ֖א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תִּגְנֹ֑בוּ",
+      "gloss": "盗んでは"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "また〜ない"
+    },
+    {
+      "surface": "תְכַחֲשׁ֥וּ",
+      "gloss": "偽っては"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "また〜ない"
+    },
+    {
+      "surface": "תְשַׁקְּר֖וּ",
+      "gloss": "欺いては"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "人は"
+    },
+    {
+      "surface": "בַּעֲמִיתֽוֹ",
+      "gloss": "その同胞に対して"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:45.300374081Z",
+  "model": "glm-5.2"
+}

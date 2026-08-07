@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ミツライムは⟨את⟩イスラエルの子らを過酷に働かせた。",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲבִ֧דוּ",
+      "gloss": "働かせた"
+    },
+    {
+      "surface": "מִצְרַ֛יִם",
+      "gloss": "ミツライムは"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子ら"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "～の子ら"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בְּפָֽרֶךְ",
+      "gloss": "過酷に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:12:02.113248576Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "⟨את⟩ 私を追い立て、やみの中を歩ませた — 光のない ⟨やみの中を⟩。",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "私"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "追い立てた"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "歩ませた"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "やみ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ではなく"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    }
+  ],
+  "timestamp": "2026-08-07T13:35:51.056691266Z",
+  "model": "glm-5.2"
+}

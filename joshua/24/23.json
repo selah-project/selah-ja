@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 24:23",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして今、あなたたちのうちにある⟨את⟩よそ者の神々を取り除け。そして⟨את⟩あなたたちの心をヤハウェ、イスラエルのエロヒムに向かせよ。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "取り除け"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "よそ者の神々"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "～の神々"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "よそ者の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～である"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "あなたたちのうちに"
+    },
+    {
+      "surface": "והטו",
+      "gloss": "そして向かせよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたたちの心"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "あなたたちの心を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "～のエロヒム"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:31:13.880136055Z",
+  "model": "glm-5.2"
+}

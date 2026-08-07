@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 2:16",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ヤハウェは裁き人たちを立て、彼らを略奪者たちの手から救い出された。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして⋯を立てられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "裁き人たちを"
+    },
+    {
+      "surface": "ויושיעום",
+      "gloss": "そして彼らを救い出された"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "⋯の手から"
+    },
+    {
+      "surface": "שסיהם",
+      "gloss": "彼らを略奪する者たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:31:52.514308979Z",
+  "model": "glm-5.2"
+}

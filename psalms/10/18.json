@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "みなごとしいたげられる者をさばくために — 地から生まれし人は、もはやこれ以上、恐怖を与えないであろう。",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "さばくために"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "みなごと"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "しいたげられる者を"
+    },
+    {
+      "surface": "בל",
+      "gloss": "もはや〜ない"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "これ以上加えるであろう"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "恐怖を与えることを"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "地から生まれし人は"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:27.505521194Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ホレブから、セイルの山地の道を経て、カデシュ・バルネアまで十一日である。",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ホレブから"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道を"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "セイルの"
+    },
+    {
+      "surface": "עד",
+      "gloss": "～まで"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "カデシュ・"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "バルネア"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:17.455152495Z",
+  "model": "glm-5.2"
+}

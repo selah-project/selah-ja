@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 137,
+  "translation": "もし私はあなたを忘れるなら、イェルシャライムよ、私の右手は忘れよ。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "私はあなたを忘れる"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムよ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "忘れよ"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "私の右手は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:18.050695512Z",
+  "model": "glm-5.2"
+}

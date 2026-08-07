@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "理解ある者の⟨⟩顔の前に知恵⟨がある⟩、愚か者の目は地の果てにある。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "理解ある者の顔"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔の"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "理解ある者の"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "そして〜の目"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚か者の"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "果てに"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:12.338531497Z",
+  "model": "glm-5.2"
+}

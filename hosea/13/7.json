@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "それゆえわたしは彼らにとって獅子のようになり、道の上で豹のように見張る。",
+  "tokens": [
+    {
+      "surface": "וָאֱהִ֥י",
+      "gloss": "それゆえわたしは〜であった"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "彼らにとって"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "〜のようになり"
+    },
+    {
+      "surface": "שָׁ֑חַל",
+      "gloss": "獅子の"
+    },
+    {
+      "surface": "כְּנָמֵ֖ר",
+      "gloss": "豹のように"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "דֶּ֥רֶךְ",
+      "gloss": "道の"
+    },
+    {
+      "surface": "אָשֽׁוּר",
+      "gloss": "見張る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:53.943312878Z",
+  "model": "glm-5.2"
+}

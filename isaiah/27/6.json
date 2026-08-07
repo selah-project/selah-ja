@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 27:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "来たるべき日々、ヤアコブは根を張り、イスラエルは芽吹き、花咲き、地の面に実を満たすであろう。",
+  "tokens": [
+    {
+      "surface": "הבאים",
+      "gloss": "来たるべき日々"
+    },
+    {
+      "surface": "ישרש",
+      "gloss": "根を張り"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブは"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "芽吹き"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "花咲き"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルは"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "満たすであろう"
+    },
+    {
+      "surface": "פני",
+      "gloss": "〜の面に"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "地"
+    },
+    {
+      "surface": "תנובה",
+      "gloss": "実を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:34.938303295Z",
+  "model": "glm-5.2"
+}

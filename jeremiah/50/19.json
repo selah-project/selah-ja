@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 50:19",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "わたしは ⟨את⟩ イスラエルをその牧地に連れ戻し、⟨彼は⟩ カルメルとバシャンで牧り、エフライムの山とギルアドで ⟨彼の⟩ ネフェシュは満ち足りる。",
+  "tokens": [
+    {
+      "surface": "ושבבתי",
+      "gloss": "わたしは連れ戻す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "その牧地"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "そして牧る"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "カルメル"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "とバシャン"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "そして…の山で"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライム"
+    },
+    {
+      "surface": "והגלעד",
+      "gloss": "とギルアド"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "満ち足りる"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "そのネフェシュ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:58:54.900871409Z",
+  "model": "glm-5.2"
+}

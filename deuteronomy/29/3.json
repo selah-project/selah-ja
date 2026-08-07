@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてヤハウェはあなたたちに、知るための心と、見るための目と、聞くための耳とを、この日までお与えにならなかった。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちに"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "知るための"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "そして目"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見るための"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "そして耳"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "聞くための"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "היום",
+      "gloss": "…日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:42.930614121Z",
+  "model": "glm-5.2"
+}

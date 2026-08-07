@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 4:12",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてヤハウェは火の中からあなたたちに語られた。あなたたちは言葉々々の声を聞いていたが、姿を見てはいなかった —声のほかには。」",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして語られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "あなたたちに"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "〜の中から"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "言葉々々の"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたたちは"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "聞いていた"
+    },
+    {
+      "surface": "ותמונה",
+      "gloss": "姿"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "見て"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "〜のほかには"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:35.299490263Z",
+  "model": "glm-5.2"
+}

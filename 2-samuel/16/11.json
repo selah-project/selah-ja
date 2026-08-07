@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 16:11",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "ダビデはアブシャイと、そのすべてのしもべたちに言った。「見よ、私の腹から出た私の子が、私の命を求めている。まして今、このベニヤミン人はなおさらだ。彼をそのままにしておけ。そして彼に呪わせよ。ヤハウェが彼に命じられたのだから。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "アブシャイ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして…へ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "彼のしもべたち"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "私の子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出た"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "私の腹から"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "求めている"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の命"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私の命"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "まして"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ならば"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "ベニヤミン人"
+    },
+    {
+      "surface": "הנחו",
+      "gloss": "そのままにしておけ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "そして呪ませよ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "命じられた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:54:10.417322790Z",
+  "model": "glm-5.2"
+}

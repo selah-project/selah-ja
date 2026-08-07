@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "すべての時に、友は愛し、悩みのために兄弟は生まれる。",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "すべての〜に"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛する"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "友は"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "兄弟は"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "悩みのために"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "生まれる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:18.434046213Z",
+  "model": "glm-5.2"
+}

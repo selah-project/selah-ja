@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "そしてダンの境界に沿って、東側から海側まで、アシェル、一つ。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "そして〜に沿って"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ダンの"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "側から"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "側"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "海のほう"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "アシェル"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:18:49.748001897Z",
+  "model": "glm-5.2"
+}

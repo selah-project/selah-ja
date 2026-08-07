@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "ギブオンの住民は、ヨシュアがエリコに、またアイにしたことを ⟨את⟩ 聞いた。",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "そして…の住民"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ギブオン"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聞いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨシュアがエリコとアイにしたこと（אשר）"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…たこと"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "した"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュアが"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "エリコに"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "またアイに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:25:13.423102417Z",
+  "model": "glm-5.2"
+}

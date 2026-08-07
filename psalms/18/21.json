@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "ヤハウェは私の義にしたがって私に報いられた。私の手の清さにしたがって私に返された。",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "私に報いられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "私の義にしたがって"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "〜の清さにしたがって"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "私の手の"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "返された"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:34.305356777Z",
+  "model": "glm-5.2"
+}

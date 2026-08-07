@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "これらすべてのうちで、だれが知らないのか。ヤハウェの手がこれを造ったことを。",
+  "tokens": [
+    {
+      "surface": "מִ֭י",
+      "gloss": "だれが"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יָדַ֣ע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "すべてのうちで"
+    },
+    {
+      "surface": "אֵ֑לֶּה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "יָד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עָ֣שְׂתָה",
+      "gloss": "造った"
+    },
+    {
+      "surface": "זֹּֽאת",
+      "gloss": "これを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:23:21.061123674Z",
+  "model": "glm-5.2"
+}

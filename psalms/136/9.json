@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 136,
+  "translation": "⟨את⟩月と星々を、夜の支配のために。まことに、とこしへまで〈永遠に〉続くそのヘセド。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "月"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "月"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "と星々を"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "支配のために"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "夜の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしへまで"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "そのヘセド"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:53.261229484Z",
+  "model": "glm-5.2"
+}

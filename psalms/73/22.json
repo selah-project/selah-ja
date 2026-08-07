@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 73,
+  "translation": "そして私は獣のようであった、知らなかったからだ。私は家畜としてあなたと共にいた。",
+  "tokens": [
+    {
+      "surface": "וַאֲנִי",
+      "gloss": "そして私は"
+    },
+    {
+      "surface": "בַ֭עַר",
+      "gloss": "獣のようであった"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אֵדָ֑ע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "בְּהֵמ֗וֹת",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "הָיִ֥יתִי",
+      "gloss": "私は〜であった"
+    },
+    {
+      "surface": "עִמָּֽךְ",
+      "gloss": "あなたと共に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:05.247674550Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "彼の父と母は彼を捕らえ、彼を彼の町の長老たちのもと、彼の所場の門のもとに連れ出さなければならない。",
+  "tokens": [
+    {
+      "surface": "וְתָפְשׂוּ",
+      "gloss": "捕らえ"
+    },
+    {
+      "surface": "בוֹ",
+      "gloss": "彼を"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "彼の父"
+    },
+    {
+      "surface": "וְאִמּוֹ",
+      "gloss": "母"
+    },
+    {
+      "surface": "וְהוֹצִיאוּ",
+      "gloss": "連れ出さなければならない"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "זִקְנֵי",
+      "gloss": "長老たちの"
+    },
+    {
+      "surface": "עִירוֹ",
+      "gloss": "彼の町の"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "שַׁעַר",
+      "gloss": "門の"
+    },
+    {
+      "surface": "מְקֹמוֹ",
+      "gloss": "彼の所場の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:47.159267831Z",
+  "model": "glm-5.2"
+}

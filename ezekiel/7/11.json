@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 7:11",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "暴力は杖の邪悪さのために立った。彼らのうちからではなく、彼らの富のうちからでもなく、彼らの騒ぎのうちからでもない — 彼らのうちに嘆き⟨はない⟩。",
+  "tokens": [
+    {
+      "surface": "החמס",
+      "gloss": "暴力は"
+    },
+    {
+      "surface": "קם",
+      "gloss": "立った"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "杖の"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "邪悪さのために"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "彼らのうちから"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "מהמונם",
+      "gloss": "彼らの富のうちから"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "מהמהם",
+      "gloss": "彼らの騒ぎのうちから"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "נה",
+      "gloss": "嘆き"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "彼らのうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:01:14.667276065Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 65,
+  "translation": "家々を建てて住み、ぶどう園を植えてその実を食べる。",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "そして建てる"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "家々を"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "そして住む"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "そして植える"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ぶどう園を"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "そして食べる"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "その実を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:38:09.876474445Z",
+  "model": "glm-5.2"
+}

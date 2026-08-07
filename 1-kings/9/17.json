@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてシェロモは ⟨את⟩ ゲゼルと、⟨את⟩ 下ベテ・ホロンを建てた。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "そして建てた"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ゲゼル"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ゲゼル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および ⟨את⟩",
+      "marks": "ベテ・ホロン"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベテ・ホロン"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "（ベテ・）ホロン"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "下"
+    }
+  ],
+  "timestamp": "2026-08-07T11:01:45.589215848Z",
+  "model": "glm-5.2"
+}

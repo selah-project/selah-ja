@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 20:5",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "ダビデはイェホナタンに言った。「見よ、明日は新月だ。そして私は王と共に座って食べることになっている。だが私を送り出してほしい。私が三日目の夕方まで野に隠れるように。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "イェホナタン"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新月が"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "明日"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "そして私は"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "座って"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "座ることになっている"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "食べるために"
+    },
+    {
+      "surface": "ושלחתני",
+      "gloss": "私を送り出してほしい"
+    },
+    {
+      "surface": "ונסתרתי",
+      "gloss": "そして私は隠れよう"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "野に"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "夕方"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "三つ目の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:17.119707673Z",
+  "model": "glm-5.2"
+}

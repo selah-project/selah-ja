@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ああ、家を家に押し付ける者たち、家を家に、畑を畑に近づける者たち — 場所が尽きるまで。そうして、あなた方は ⟨⟩ 地の中ほどに、ただひとり ⟨⟩ 住まわされるのか。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "押し付ける者たち"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家を"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "畑を"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "畑に"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "近づける者たち"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "尽きる"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "場所が"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "住まわされるのか"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "ただひとり"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "〜の中ほどに"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T16:55:38.021537246Z",
+  "model": "glm-5.2"
+}

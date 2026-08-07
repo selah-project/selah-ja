@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 110,
+  "translation": "⟨彼は⟩国々の間をさばき、死体で⟨それを⟩満たす。地を渡り歩き、頭を打ち砕く。",
+  "tokens": [
+    {
+      "surface": "יָדִ֣ין",
+      "gloss": "さばく"
+    },
+    {
+      "surface": "בַּ֭גּוֹיִם",
+      "gloss": "国々の中で"
+    },
+    {
+      "surface": "מָלֵ֣א",
+      "gloss": "満たす"
+    },
+    {
+      "surface": "גְוִיּ֑וֹת",
+      "gloss": "死体"
+    },
+    {
+      "surface": "מָחַ֥ץ",
+      "gloss": "打ち砕く"
+    },
+    {
+      "surface": "רֹ֝֗אשׁ",
+      "gloss": "頭"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上を"
+    },
+    {
+      "surface": "אֶ֥רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "רַבָּֽה",
+      "gloss": "広大な"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:06.070191860Z",
+  "model": "glm-5.2"
+}

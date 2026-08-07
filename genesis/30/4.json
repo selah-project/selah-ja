@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "彼女は彼に ⟨את⟩ 女奴隷ビルハを妻として与え、ヤアコブは彼女のところに入った。",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "女奴隷ビルハ"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ビルハ"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "彼女の女奴隷"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "妻として"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入った"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "彼女のところへ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:46.415159232Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "まことに、わたしはこれがその通りであることを知っている。しかし、死すべき人はどうしてエルの前に義とされようか。",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "わたしは知っている"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "כן",
+      "gloss": "その通りである"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "しかし、どうして"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "義とされようか"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "死すべき人は"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:30.482134664Z",
+  "model": "glm-5.2"
+}

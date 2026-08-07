@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "⟨賛美の⟩詩、奉納の歌、家の、ダビデの",
+  "tokens": [
+    {
+      "surface": "מִזְמ֡וֹר",
+      "gloss": "賛美の詩"
+    },
+    {
+      "surface": "שִׁיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "חֲנֻכַּ֖ת",
+      "gloss": "奉納の"
+    },
+    {
+      "surface": "הַבַּ֣יִת",
+      "gloss": "家の"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "ダビデの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:12.459104947Z",
+  "model": "glm-5.2"
+}

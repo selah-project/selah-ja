@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "火傷⟨は⟩火傷の代わり、傷⟨は⟩傷の代わり、打ち傷⟨は⟩打ち傷の代わり。",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "火傷"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わり"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "火傷"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "傷"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わり"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "傷"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "打ち傷"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わり"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "打ち傷"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:29.169102486Z",
+  "model": "glm-5.2"
+}

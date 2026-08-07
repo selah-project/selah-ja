@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そして第六日になり、⟨彼らが⟩持ち運ぶものを準備するとき、それは日々集めるものの倍になるであろう。」",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そして…になる"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…の日に"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "第六"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "準備する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らが持ち運ぶもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "彼らが持ち運ぶ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "…になる"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "倍"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に対して"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "彼らが集める"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日ごとに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:20:22.368678595Z",
+  "model": "glm-5.2"
+}

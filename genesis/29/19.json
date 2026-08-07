@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてラバンは言った、「わたしが⟨את⟩彼女をあなたに与えることは、わたしが⟨את⟩彼女をほかの男に与えることより良い。わたしとともに留まれ」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ラバンは"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "わたしが与えることは"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "彼女"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "〜より"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "彼女"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "男に"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ほかの"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "留まれ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "わたしとともに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:29.939536935Z",
+  "model": "glm-5.2"
+}

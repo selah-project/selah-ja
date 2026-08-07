@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "アドナイは言った、バシャンから私は連れ戻そう、海の深淵から連れ戻そう、と。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイは"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "バシャンから"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "連れ戻そう"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "連れ戻そう"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "深淵から"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:43.588490104Z",
+  "model": "glm-5.2"
+}

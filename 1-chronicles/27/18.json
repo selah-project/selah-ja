@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 27:18",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "ユダにはエリフ、ダヴィドの兄弟たちの⟨一人⟩。イッサカルにはオムリ、ミカエルの子。",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "ユダには"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "エリフ"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "〜の兄弟たちの"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "ליששכר",
+      "gloss": "イッサカルには"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "オムリ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "ミカエル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:09:02.808392537Z",
+  "model": "glm-5.2"
+}

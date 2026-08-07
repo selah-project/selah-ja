@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "ハムの地で奇跡を、スフの海の上で恐るべきわざを。",
+  "tokens": [
+    {
+      "surface": "נִ֭פְלָאוֹת",
+      "gloss": "奇跡を"
+    },
+    {
+      "surface": "בְּאֶ֣רֶץ",
+      "gloss": "〜の地で"
+    },
+    {
+      "surface": "חָ֑ם",
+      "gloss": "ハム"
+    },
+    {
+      "surface": "נ֝וֹרָא֗וֹת",
+      "gloss": "恐るべきわざを"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "יַם",
+      "gloss": "海"
+    },
+    {
+      "surface": "סֽוּף",
+      "gloss": "スフ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:07.098883293Z",
+  "model": "glm-5.2"
+}

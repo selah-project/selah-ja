@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "ペカフ・レマルヤフの⟨息子⟩の十七年目に、アハズ・ヨタムの⟨息子⟩・ユダの王が王となった。",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "〜の年に"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "ペカフの"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨息子⟩"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "レマルヤフの"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "アハズ・"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨息子⟩"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "ヨタムの"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:03.255847492Z",
+  "model": "glm-5.2"
+}

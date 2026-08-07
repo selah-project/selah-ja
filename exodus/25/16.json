@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてあなたは箱の中に、私があなたに与える ⟨את⟩ 証しを納めよ。",
+  "tokens": [
+    {
+      "surface": "וְנָתַתָּ֖",
+      "gloss": "そしてあなたは納めよ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜の中に"
+    },
+    {
+      "surface": "הָאָרֹ֑ן",
+      "gloss": "箱の"
+    },
+    {
+      "surface": "אֵ֚ת",
+      "gloss": "⟨את⟩",
+      "marks": "証し"
+    },
+    {
+      "surface": "הָעֵדֻ֔ת",
+      "gloss": "証し"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אֶתֵּ֖ן",
+      "gloss": "私が与える"
+    },
+    {
+      "surface": "אֵלֶֽיךָ",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:23:02.191072614Z",
+  "model": "glm-5.2"
+}

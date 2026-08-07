@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてベニヤミンは⟨את⟩ベラをその長子として生んだ。アシュベルは第二、アハラフは第三、",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "そしてベニヤミンは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ベラを"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ベラ"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "その長子として"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "アシュベル"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "そしてアハラフ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:37.999517533Z",
+  "model": "glm-5.2"
+}

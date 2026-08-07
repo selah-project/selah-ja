@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 66:22",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "「それは、わたしが造る新しい天と新しい地がわたしの前に立っているように、あなたがたの種とあなたがたの名が立つためである」とヤハウェは告げられる。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "それは…のためである"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "החדשים",
+      "gloss": "新しい"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "と地"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "新しい"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造る"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "立っている"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "わたしの前に"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "告げられる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "あなたがたの種"
+    },
+    {
+      "surface": "ושמכם",
+      "gloss": "あなたがたの名"
+    }
+  ],
+  "timestamp": "2026-08-07T11:39:16.369201468Z",
+  "model": "glm-5.2"
+}

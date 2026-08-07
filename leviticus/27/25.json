@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてすべてあなたの評価は聖所のシェケルによる。二十ゲラがそのシェケルとなる。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべて"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "あなたの評価"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜による"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "シェケル"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所の"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ゲラ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "そのシェケル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:44.723188429Z",
+  "model": "glm-5.2"
+}

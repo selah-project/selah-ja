@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 54,
+  "translation": "エロヒム、私の祈りを聞いてください。私の口の言葉に耳を傾けてください。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞いてください"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "私の祈りを"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "耳を傾けてください"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "〜の言葉に"
+    },
+    {
+      "surface": "פי",
+      "gloss": "私の口の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:59.242918026Z",
+  "model": "glm-5.2"
+}

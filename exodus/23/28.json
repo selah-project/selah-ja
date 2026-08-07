@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "わたしは ⟨את⟩ その蜂をあなたの前に遣わし、それは ⟨את⟩ ヒビ人、⟨את⟩ カナン人、そして ⟨את⟩ ヘテ人をあなたの前から追い払う。",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "わたしは遣わす"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その蜂"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "その蜂"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "あなたの前に"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "それは追い払う"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヒビ人"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ヒビ人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "カナン人"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "カナン人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ヘテ人"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ヘテ人"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "あなたの前から"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:29.353123613Z",
+  "model": "glm-5.2"
+}

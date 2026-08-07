@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 10:1",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてヤハウェはモシェに語り、こう言われた。",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "こう言う"
+    }
+  ],
+  "timestamp": "2026-08-07T09:54:36.936972092Z",
+  "model": "glm-5.2"
+}

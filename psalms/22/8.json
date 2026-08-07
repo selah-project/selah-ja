@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "私を見るすべての者が私をあざ笑う。彼らは唇を広げ、頭を振る。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "רֹ֭אַי",
+      "gloss": "私を見る者"
+    },
+    {
+      "surface": "יַלְעִ֣יגוּ",
+      "gloss": "あざ笑う"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "私を"
+    },
+    {
+      "surface": "יַפְטִ֥ירוּ",
+      "gloss": "広げる"
+    },
+    {
+      "surface": "בְ֝שָׂפָ֗ה",
+      "gloss": "唇を"
+    },
+    {
+      "surface": "יָנִ֥יעוּ",
+      "gloss": "振る"
+    },
+    {
+      "surface": "רֹֽאשׁ",
+      "gloss": "頭を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:15.304051047Z",
+  "model": "glm-5.2"
+}

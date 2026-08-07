@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして⟨את⟩エブス人と、⟨את⟩エモリ人と、⟨את⟩ギルガシ人を。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "エブス人"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "エブス人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "エモリ人"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "エモリ人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ギルガシ人"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ギルガシ人"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:30.309579978Z",
+  "model": "glm-5.2"
+}

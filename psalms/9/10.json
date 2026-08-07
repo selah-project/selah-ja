@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてヤハウェは、しいたげられる者の高きやぐら、苦しみの時の高きやぐらとなる。",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "そして"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "高きやぐら"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "しいたげられる者の"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "高きやぐら"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "時の"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "苦しみの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:23.481696699Z",
+  "model": "glm-5.2"
+}

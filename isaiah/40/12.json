@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 40:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "だれが水をその掌で量り、天を手幅で定め、地のちりを三つかみで計り、山を秤にかけ、丘を天秤で量ったか。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "だれが"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "量り"
+    },
+    {
+      "surface": "בשעלו",
+      "gloss": "その掌で"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "そして天を"
+    },
+    {
+      "surface": "בזרת",
+      "gloss": "手幅で"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "定め"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そして〜を"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "三つかみで"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ちりを"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "ושקל",
+      "gloss": "そして秤にかけ"
+    },
+    {
+      "surface": "בפלס",
+      "gloss": "秤で"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山を"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "そして丘を"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "天秤で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:38.939377867Z",
+  "model": "glm-5.2"
+}

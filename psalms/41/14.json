@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "ほむべきかな、ヤハウェ、イスラエルのエロヒム、とこしえから、とこしえまで。アーメン、そしてアーメン。",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ほむべきかな"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "〜のエロヒム"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "とこしえから"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "そして〜まで"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "とこしえ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "アーメン"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "そしてアーメン"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:28.602471814Z",
+  "model": "glm-5.2"
+}

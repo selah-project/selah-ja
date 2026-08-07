@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして、衛兵長であるカルデア人の全軍勢は、エルサレムの周囲の⟨את⟩城壁を打ち壊した。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "城壁"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "エルサレム"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲の"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "打ち壊した"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍勢"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "カルデア人の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "רב",
+      "gloss": "長"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "衛兵"
+    }
+  ],
+  "timestamp": "2026-08-07T11:19:41.978448444Z",
+  "model": "glm-5.2"
+}

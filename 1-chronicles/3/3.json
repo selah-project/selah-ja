@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "五番目はシェファティヤ、アビタルの〈子〉。六番目はイトレアム、エグラの——彼の妻の——〈子〉。",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "五番目"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "シェファティヤ"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "アビタルの"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "六番目"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "イトレアム"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "エグラの"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "彼の妻"
+    }
+  ],
+  "timestamp": "2026-08-07T14:42:58.846478049Z",
+  "model": "glm-5.2"
+}

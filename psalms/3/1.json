@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "楽器伴奏の詩、ダヴィデの。アヴシャロム ⟨の⟩ その顔から逃げたとき、彼 ⟨の⟩ 息子。",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "楽器伴奏の詩"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "ダヴィデの"
+    },
+    {
+      "surface": "בְּבָרְחוֹ",
+      "gloss": "逃げたとき"
+    },
+    {
+      "surface": "מִפְּנֵי",
+      "gloss": "〜の顔から"
+    },
+    {
+      "surface": "אַבְשָׁלוֹם",
+      "gloss": "アヴシャロム"
+    },
+    {
+      "surface": "בְּנוֹ",
+      "gloss": "彼の息子"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:06.424100587Z",
+  "model": "glm-5.2"
+}

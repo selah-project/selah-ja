@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 57,
+  "translation": "あなたのヘセドは天にまで及ぶほど大きい、あなたのまことは雲にまで及ぶ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "大きい"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜にまで及ぶほど"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "あなたのヘセド"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜にまで及ぶ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "雲"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "あなたのまこと"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:04.904389769Z",
+  "model": "glm-5.2"
+}

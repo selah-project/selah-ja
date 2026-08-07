@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "彼は⟨את⟩垂れ幕を青色、紫色、緋色、および亜麻布で作った。そしてその上にケルビムを織り上げた。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は作った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "垂れ幕"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "その垂れ幕を"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "青色"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "紫色"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "緋色"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "亜麻布"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "そして彼は〜を上がらせた"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ケルビムを"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:24.787060323Z",
+  "model": "glm-5.2"
+}

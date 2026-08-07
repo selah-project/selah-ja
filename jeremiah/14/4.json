@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "地がひび割れたためで、雨が地になかったからである。農夫たちは恥じ、彼らの頭を覆った。",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "〜のためである"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地が"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "ひび割れた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "雨が"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "恥じ"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "農夫たちは"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "覆った"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "彼らの頭を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:45:23.663350564Z",
+  "model": "glm-5.2"
+}

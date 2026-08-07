@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "人に関わるのをやめよ、あなたがたの鼻の穴に息のある者に。なぜなら、彼は何に数えられようか。",
+  "tokens": [
+    {
+      "surface": "חִדְל֤וּ",
+      "gloss": "やめよ"
+    },
+    {
+      "surface": "לָכֶם֙",
+      "gloss": "あなたがた"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הָ֣אָדָ֔ם",
+      "gloss": "人"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "נְשָׁמָ֖ה",
+      "gloss": "息"
+    },
+    {
+      "surface": "בְּאַפּ֑וֹ",
+      "gloss": "彼の鼻の穴にある"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "בַמֶּ֥ה",
+      "gloss": "何に"
+    },
+    {
+      "surface": "נֶחְשָׁ֖ב",
+      "gloss": "数えられようか"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "彼は"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:06.937490373Z",
+  "model": "glm-5.2"
+}

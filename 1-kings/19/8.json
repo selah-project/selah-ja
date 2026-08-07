@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 19:8",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "彼は起き、食べ、飲み、その食物の勢いによって四十日と四十夜歩き、エロヒムの山ホレブまで⟨行った⟩。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして起きた"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "食べ"
+    },
+    {
+      "surface": "וישתה",
+      "gloss": "飲み"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "歩いた"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "〜の勢いによって"
+    },
+    {
+      "surface": "האכילה",
+      "gloss": "その食物"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "あの"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "と四十"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ホレブ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:15.945674382Z",
+  "model": "glm-5.2"
+}

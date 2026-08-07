@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "パルオはヨセフに言った。わたしはパルオである。あなたなしには、全ミツライムの地のどこでも、人は⟨את⟩自分の手も⟨את⟩自分の足も上げないであろう。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パルオ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたし"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パルオ"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "あなたなしには"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "上げる"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の手も"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "自分の手"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "自分の足も"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "自分の足"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全〜において"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:25.815016266Z",
+  "model": "glm-5.2"
+}

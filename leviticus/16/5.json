@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そして⟨アハロン⟩はイスラエルの子らの会衆⟨から⟩ ⟨את⟩ 二頭の雄やぎを罪のためのささげ物として、そして一頭の雄羊を全焼のささげ物として取らなければならない。",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "そして〜から"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "会衆"
+    },
+    {
+      "surface": "בני",
+      "gloss": "の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "取る"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二頭の"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "雄やぎ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "やぎ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "罪のためのささげ物として"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "そして一頭の雄羊"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "全焼のささげ物として"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:43.290952879Z",
+  "model": "glm-5.2"
+}

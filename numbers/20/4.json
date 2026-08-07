@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてなぜあなたたちは⟨את⟩ヤハウェの会衆をこの荒野に連れて来たのか。私たちと私たちの家畜がそこで死ぬために。」",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "そしてなぜ"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "あなたたちは…連れて来た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの会衆"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "会衆"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "荒野"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "למות",
+      "gloss": "死ぬために"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "私たちと"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "そして私たちの家畜が"
+    }
+  ],
+  "timestamp": "2026-08-07T09:58:59.877492603Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "ヤハウェに栄光を帰せよ。そしてその⟨賛美⟩を島々で告げよ。",
+  "tokens": [
+    {
+      "surface": "יָשִׂ֥ימוּ",
+      "gloss": "帰せよ"
+    },
+    {
+      "surface": "לַֽיהוָ֖ה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "כָּב֑וֹד",
+      "gloss": "栄光を"
+    },
+    {
+      "surface": "וּתְהִלָּת֖וֹ",
+      "gloss": "そしてその賛美を"
+    },
+    {
+      "surface": "בָּאִיִּ֥ים",
+      "gloss": "島々で"
+    },
+    {
+      "surface": "יַגִּֽידוּ",
+      "gloss": "告げよ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:57.447069410Z",
+  "model": "glm-5.2"
+}

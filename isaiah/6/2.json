@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "セラフィムが⟨彼の⟩上方に立っていた。それぞれに六つの翼、六つの翼があった。二つで⟨彼⟩は顔を覆い、二つで⟨彼⟩は足を覆い、二つで⟨彼⟩は飛んでいた。",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "セラフィム"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "立っていた"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "上方に"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨彼の⟩"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六つの"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "翼"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六つの"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "翼"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "それぞれに"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "二つで"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "覆い"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "顔を"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "二つで"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "覆い"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "足を"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "二つで"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "飛んでいた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:15.224036191Z",
+  "model": "glm-5.2"
+}

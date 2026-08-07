@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "ヤハウェがモーセに命じたように、イスラエルの子らは行い、地を分けた。",
+  "tokens": [
+    {
+      "surface": "כַּאֲשֶׁ֨ר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "צִוָּ֤ה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "モーセ"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "כֵּ֥ן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "עָשׂ֖וּ",
+      "gloss": "行った"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "וַֽיַּחְלְק֖וּ",
+      "gloss": "そして分けた"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T10:28:11.527456317Z",
+  "model": "glm-5.2"
+}

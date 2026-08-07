@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "あなたのパンを水の面に送り出せ、多くの日々の後にあなたはそれを見いだすのだから。",
+  "tokens": [
+    {
+      "surface": "שַׁלַּ֥ח",
+      "gloss": "送り出せ"
+    },
+    {
+      "surface": "לַחְמְךָ֖",
+      "gloss": "あなたのパンを"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "פְּנֵ֣י",
+      "gloss": "…の面"
+    },
+    {
+      "surface": "הַמָּ֑יִם",
+      "gloss": "水の"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "בְרֹ֥ב",
+      "gloss": "…の多さにおいて"
+    },
+    {
+      "surface": "הַיָּמִ֖ים",
+      "gloss": "日々の"
+    },
+    {
+      "surface": "תִּמְצָאֶֽנּוּ",
+      "gloss": "あなたはそれを見いだす"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:30.199595581Z",
+  "model": "glm-5.2"
+}

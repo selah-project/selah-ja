@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そしてシュムエルはシャウルに言った。「⟨את⟩私を遣わしたのはヤハウェである — あなたに油を注ぐため、王として、⟨彼の⟩民の上に、イスラエルの上に。そして今、聞け、ヤハウェのことばの声に。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエル"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "私を遣わした"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "遣わした"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "あなたに油を注ぐため"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王として"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼の民"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "声に"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ことばの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:25.468121667Z",
+  "model": "glm-5.2"
+}

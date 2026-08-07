@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 52:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "同様に、⟨彼は⟩多くの国々に散を注ぐ — 王たちは彼のゆえに口を閉ざす。彼らに告げられなかったことを彼らは見、彼らが聞かなかったことを彼らは理解する。",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "同様に"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "散を注ぐ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々に"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼のゆえに"
+    },
+    {
+      "surface": "יקפצו",
+      "gloss": "閉ざす"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "王たちは"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "口を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "告げられ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "彼らは見"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "そして〜ことを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聞かなかった"
+    },
+    {
+      "surface": "התבוננו",
+      "gloss": "彼らは理解する"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:36.283575813Z",
+  "model": "glm-5.2"
+}

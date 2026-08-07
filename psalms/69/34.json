@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "ヤハウェは貧しい者たちに耳を傾け、⟨את⟩ご自身の捕らわれ人たちを忌み嫌わないからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "耳を傾ける"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "貧しい者たち"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ご自身の捕らわれ人たちを"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "ご自身の捕らわれ人たち"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "忌み嫌う"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:15.926088678Z",
+  "model": "glm-5.2"
+}

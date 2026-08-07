@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 24:3",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "実に、ヤハウェの口によって、これ ⟨事⟩はユダに臨んだ。彼の御顔から ⟨これらを⟩取り除くためであった。メナシェの罪において — すなわち彼が行ったすべて ⟨の事⟩ ⟨において⟩。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "実に"
+    },
+    {
+      "surface": "על",
+      "gloss": "によって"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "…であった"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ユダに"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "取り除くため"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…から"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "彼の御顔"
+    },
+    {
+      "surface": "בחטאת",
+      "gloss": "罪において"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "メナシェ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "…のすべて"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "すなわち"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "彼が行った"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:28.150681336Z",
+  "model": "glm-5.2"
+}

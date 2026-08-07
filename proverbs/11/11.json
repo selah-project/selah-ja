@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "正しい者たちの祝福によって町は高められ、悪人たちの口によってそれは引き倒される。",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "〜の祝福によって"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正しい者たちの"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "高められる"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "町は"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "〜の口によって"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪人たちの"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "引き倒される"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:46.105067506Z",
+  "model": "glm-5.2"
+}

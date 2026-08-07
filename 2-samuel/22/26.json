@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "ヘセドの者には、あなたはヘセドを示される。全き勇士には、あなたは全き者として⟨示される⟩。",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "〜には"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ヘセドの者"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "あなたはヘセドを示される"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜には"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "全き"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "あなたは全き者として⟨示される⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:33.366466539Z",
+  "model": "glm-5.2"
+}

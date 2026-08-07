@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "彼を彼の家の主として据え、彼のすべての財産の支配者として⟨設けた⟩。",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "彼を…として据えた"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "主"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "彼の家の"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "そして…支配者として"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "彼の財産"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:38.520136865Z",
+  "model": "glm-5.2"
+}

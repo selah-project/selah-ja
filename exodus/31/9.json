@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "そして⟨את⟩全焼の祭壇と、⟨את⟩そのすべての器具と、⟨את⟩洗盤と⟨את⟩その台を、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "全焼の祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "そのすべての器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "その器具"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "洗盤"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "洗盤"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "その台"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "その台"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:22.770937728Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "私から退け、悪を行なう者たち。そうして私は私のエロヒムのみつごとを守ろう。",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "退け"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私から"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "悪を行なう者たち"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "そうして私は守ろう"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "みつごと"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "私のエロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:31.603258645Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして彼らはそこに⟨את⟩彼らの神々を捨て、ダビデは命じ、それらは火で焼かれた。",
+  "tokens": [
+    {
+      "surface": "וַיַּעַזְבוּ",
+      "gloss": "そして彼らは捨て"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの神々"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶם",
+      "gloss": "彼らの神々を"
+    },
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "そして…は命じ"
+    },
+    {
+      "surface": "דָּוִיד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "וַיִּשָּׂרְפוּ",
+      "gloss": "そしてそれらは焼かれた"
+    },
+    {
+      "surface": "בָּאֵשׁ",
+      "gloss": "火で"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:21.843446073Z",
+  "model": "glm-5.2"
+}

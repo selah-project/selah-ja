@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "ただし、家畜の初子でヤハウェに属するものは、人が聖別してはならない。牛であれ羊であれ、それはヤハウェのものだからである。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "初子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "初子として開かれる"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "家畜の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "聖別する"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜であれ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜であれ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "羊"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは〜である"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:44.723412616Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 140,
+  "translation": "舌の男は地の ⟨中に⟩ 確立される⟨こと⟩を ⟨決して⟩しない、暴力的な男 — 悪が彼を待ち伏せの ⟨ために⟩ 狩る。",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "男"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌の"
+    },
+    {
+      "surface": "בל",
+      "gloss": "決して〜ない"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "確立される"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "暴力的な"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪が"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "彼を狩る"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "待ち伏せのために"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:25.383317991Z",
+  "model": "glm-5.2"
+}

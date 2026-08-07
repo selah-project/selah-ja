@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "彼は町の長老たちの中から十人の人を取り、言った、「ここに座りなさい」と。彼らは座った。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして彼は取った"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人を"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "長老たちの中から"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町の"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "座りなさい"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ここに"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "そして彼らは座った"
+    }
+  ],
+  "timestamp": "2026-08-07T13:35:33.966597022Z",
+  "model": "glm-5.2"
+}

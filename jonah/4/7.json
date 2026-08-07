@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてエロヒムは夜明けの上がりに、翌朝、一匹の虫を備え、それは⟨את⟩そのキカヨンを打った。するとそれは枯れた。",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "そして備えた"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "虫を"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "上がりに"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "夜明けの"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "翌朝"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "そしてそれは打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "そのキカヨン"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "そのキカヨンを"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "するとそれは枯れた"
+    }
+  ],
+  "timestamp": "2026-08-07T17:14:09.543025814Z",
+  "model": "glm-5.2"
+}

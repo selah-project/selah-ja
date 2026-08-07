@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして肉とパンに残ったものは火で焼き尽くせ。",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "そして…残ったもの"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "肉に"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "およびパンに"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "焼き尽くせ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:41.619843627Z",
+  "model": "glm-5.2"
+}

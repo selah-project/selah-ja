@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "シュロモの息子はレハブアム、その息子はアビヤ、その息子はアサ、その息子はエホシャファトであった。",
+  "tokens": [
+    {
+      "surface": "וּבֶן",
+      "gloss": "そして…の息子"
+    },
+    {
+      "surface": "שְׁלֹמֹ֖ה",
+      "gloss": "シュロモ"
+    },
+    {
+      "surface": "רְחַבְעָ֑ם",
+      "gloss": "レハブアム"
+    },
+    {
+      "surface": "אֲבִיָּ֥ה",
+      "gloss": "アビヤ"
+    },
+    {
+      "surface": "בְנ֛וֹ",
+      "gloss": "その息子"
+    },
+    {
+      "surface": "אָסָ֥א",
+      "gloss": "アサ"
+    },
+    {
+      "surface": "בְנ֖וֹ",
+      "gloss": "その息子"
+    },
+    {
+      "surface": "יְהוֹשָׁפָ֥ט",
+      "gloss": "エホシャファト"
+    },
+    {
+      "surface": "בְּנֽוֹ",
+      "gloss": "その息子"
+    }
+  ],
+  "timestamp": "2026-08-07T14:00:40.023395374Z",
+  "model": "glm-5.2"
+}

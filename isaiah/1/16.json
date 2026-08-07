@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "洗え、きよくなれ。あなたたちの行いの悪をわたしの目の前から取り除け。悪をなすことをやめよ。",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "洗え"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "きよくなれ"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "取り除け"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "あなたたちの行いの"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "〜の目の前から"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "わたしの目の"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "やめよ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "悪をなすことを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:19:59.999851692Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして、すべてのイスラエルの男子は祭りの日に王のもとに集まった ― それは第七の月であった。",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "集まった"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～のもとに"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "祭りの日に"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "月"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "第七の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:11:11.921789293Z",
+  "model": "glm-5.2"
+}

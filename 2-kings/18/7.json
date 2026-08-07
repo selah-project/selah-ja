@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 18:7",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "ヤハウェは彼と共にあった。彼が出て行くすべての所で、彼は成功した。彼はアッシュールの王に反逆し、彼に仕えなかった。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "…であった"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…所で"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出て行く"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "成功した"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "反逆し"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "…の王に"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アッシュール"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…なかった"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "彼に仕え"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:03.912603975Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 20:15",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "富を呑み込み、それを吐き出す— ⟨彼の⟩ 腹から エル がそれを奪い取る。",
+  "tokens": [
+    {
+      "surface": "חיל",
+      "gloss": "富"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "呑み込む"
+    },
+    {
+      "surface": "ויקאנו",
+      "gloss": "それを吐き出す"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "彼の腹から"
+    },
+    {
+      "surface": "יורשנו",
+      "gloss": "それを奪い取る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    }
+  ],
+  "timestamp": "2026-08-07T13:25:44.743194666Z",
+  "model": "glm-5.2"
+}

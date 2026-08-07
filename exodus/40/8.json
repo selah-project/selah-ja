@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして⟨あなた⟩は⟨את⟩周囲の庭を設け、⟨あなた⟩は⟨את⟩庭の門の幕を掛けよ。",
+  "tokens": [
+    {
+      "surface": "וְשַׂמְתָּ֥",
+      "gloss": "そしてあなたは設ける"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "周囲の庭"
+    },
+    {
+      "surface": "הֶחָצֵ֖ר",
+      "gloss": "その庭"
+    },
+    {
+      "surface": "סָבִ֑יב",
+      "gloss": "周囲に"
+    },
+    {
+      "surface": "וְנָ֣תַתָּ֔",
+      "gloss": "そしてあなたは掛ける"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "庭の門の幕"
+    },
+    {
+      "surface": "מָסַ֖ךְ",
+      "gloss": "幕を"
+    },
+    {
+      "surface": "שַׁ֥עַר",
+      "gloss": "門の"
+    },
+    {
+      "surface": "הֶחָצֵֽר",
+      "gloss": "その庭の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:44.466637536Z",
+  "model": "glm-5.2"
+}

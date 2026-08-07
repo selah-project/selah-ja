@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 12:12",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "地は嘆く。家族ごとに別れて。ダビデの家の家族は別れ、その妻たちも別れ。ナタンの家の家族は別れ、その妻たちも別れ。",
+  "tokens": [
+    {
+      "surface": "וספדה",
+      "gloss": "そして嘆く"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "家族"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "家族"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "別れて"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "別れ"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "そしてその妻たち"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "別れ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ナタン"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "別れ"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "そしてその妻たち"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "別れ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:33:08.210268145Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "ツィヨンの山よ、喜べ。ユダの娘たちよ、歓喜せよ。あなたの裁きゆえに。",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "喜べ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山よ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨンの"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "歓喜せよ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "娘たちよ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜ゆえに"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "あなたの裁き"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:50.039847468Z",
+  "model": "glm-5.2"
+}

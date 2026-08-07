@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして第三の川の名はヒデケル、それはアシュルの東を流れる者である。そして第四の川、それはペラテである。",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "そして…の名は"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "川"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三の"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "ヒデケル"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "流れる者"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "東"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アシュル"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "そして川"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "第四の"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ペラテ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:10.689252042Z",
+  "model": "glm-5.2"
+}

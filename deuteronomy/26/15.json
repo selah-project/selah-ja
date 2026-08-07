@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 26:15",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "あなたの聖なる住処から、天から見下ろして、⟨את⟩あなたの民⟨את⟩イスラエルを、そして⟨את⟩あなたが私たちの父祖たちに誓われたとおり、私たちに与えられた⟨את⟩この地を、乳と蜜の流れる地を、祝福してください。」",
+  "tokens": [
+    {
+      "surface": "השקיפה",
+      "gloss": "見下ろしてください"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "住処から"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "あなたの聖なる"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "そして祝福してください"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの民"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたの民"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "この地"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "この地を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "与えられた"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちに"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のとおり"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "あなたは誓われた"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "私たちの父祖たちに"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "流れる"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "乳と"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "蜜の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:17.029426911Z",
+  "model": "glm-5.2"
+}

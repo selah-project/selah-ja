@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "すべての諸民よ、手を打て。歓呼の声でエロヒムに向かって叫べ。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "諸民よ"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "打て"
+    },
+    {
+      "surface": "כף",
+      "gloss": "手（を）"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "叫べ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "エロヒムに向かって"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "〜の声で"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "歓呼"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:16.728913099Z",
+  "model": "glm-5.2"
+}

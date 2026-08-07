@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてあなたたちはそれを朝まで残してはならない。それから朝まで残ったものは、火で焼き尽くす。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "あなたたちは残す"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "それを"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "そして残ったもの"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "それから"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "あなたたちは焼き尽くす"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:55.756904549Z",
+  "model": "glm-5.2"
+}

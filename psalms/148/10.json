@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 148,
+  "translation": "野の獣、そしてすべての家畜、這うもの、そして翼ある鳥、",
+  "tokens": [
+    {
+      "surface": "הַֽחַיָּ֥ה",
+      "gloss": "野の獣"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "בְּהֵמָ֑ה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "רֶ֝֗מֶשׂ",
+      "gloss": "這うもの"
+    },
+    {
+      "surface": "וְצִפּ֥וֹר",
+      "gloss": "そして鳥"
+    },
+    {
+      "surface": "כָּנָֽף",
+      "gloss": "翼ある"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:35.267160824Z",
+  "model": "glm-5.2"
+}

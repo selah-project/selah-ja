@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "富は永遠ではないから。そして王冠も—世代から世代へ⟨続く⟩⟨のか⟩。",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "חֹ֑סֶן",
+      "gloss": "富"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "そして〜も"
+    },
+    {
+      "surface": "נֵ֝֗זֶר",
+      "gloss": "王冠"
+    },
+    {
+      "surface": "לְד֣וֹר",
+      "gloss": "世代から"
+    },
+    {
+      "surface": "דוֹר",
+      "gloss": "世代へ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:01.981845007Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして彼は⟨את⟩ケルビムを金で覆った。",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "そして彼は覆った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ケルビム"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ケルビムを"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:20.644311247Z",
+  "model": "glm-5.2"
+}

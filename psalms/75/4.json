@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 75,
+  "translation": "地とそのすべての住民が溶けゆくとき、この私がその柱を据え固めた。セラ",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "溶けゆく"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地が"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "とそのすべての"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "住民が"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "この私が"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "据え固めた"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "その柱を"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:24.636300487Z",
+  "model": "glm-5.2"
+}

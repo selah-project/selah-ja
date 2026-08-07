@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 24:14",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "これらの者は声を上げ、歌い、ヤハウェの威光において歓呼の声を上げる、海から。",
+  "tokens": [
+    {
+      "surface": "הֵ֛מָּה",
+      "gloss": "これらの者"
+    },
+    {
+      "surface": "יִשְׂא֥וּ",
+      "gloss": "上げる"
+    },
+    {
+      "surface": "קוֹלָ֖ם",
+      "gloss": "声"
+    },
+    {
+      "surface": "יָרֹ֑נּוּ",
+      "gloss": "歌う"
+    },
+    {
+      "surface": "בִּגְא֣וֹן",
+      "gloss": "威光において"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צָהֲל֖וּ",
+      "gloss": "歓呼の声を上げる"
+    },
+    {
+      "surface": "מִיָּֽם",
+      "gloss": "海から"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:40.478113354Z",
+  "model": "glm-5.2"
+}

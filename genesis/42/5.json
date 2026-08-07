@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "イスラエルの子らは穀物を買いに来る者たちの中に入って来た。飢饉がカナンの地にあったからである。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "入って来た"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "穀物を買いに"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "…の中に"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "来る者たち"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…であるから"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "飢饉"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "…の地に"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "カナン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:11.377462085Z",
+  "model": "glm-5.2"
+}

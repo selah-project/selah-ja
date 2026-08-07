@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "アドナイは彼を笑う、ヤハウェは⟨彼の⟩日が来るのを見ているからだ。",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָ֥י",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "יִשְׂחַק",
+      "gloss": "笑う"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "רָ֝אָ֗ה",
+      "gloss": "見た"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "יָבֹ֥א",
+      "gloss": "来る"
+    },
+    {
+      "surface": "יוֹמֽוֹ",
+      "gloss": "彼の日"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:17.749233846Z",
+  "model": "glm-5.2"
+}

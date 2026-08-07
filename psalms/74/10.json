@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 74,
+  "translation": "エロヒムよ、いつまで ⟨の間⟩ 敵は嘲るのか。敵はあなたの御名を永遠に ⟨まで⟩ 蔑む ⟨のか⟩。",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "מָתַ֣י",
+      "gloss": "いつ"
+    },
+    {
+      "surface": "אֱ֭לֹהִים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "יְחָ֣רֶף",
+      "gloss": "嘲る"
+    },
+    {
+      "surface": "צָ֑ר",
+      "gloss": "敵"
+    },
+    {
+      "surface": "יְנָ֘אֵ֤ץ",
+      "gloss": "蔑む"
+    },
+    {
+      "surface": "אוֹיֵ֖ב",
+      "gloss": "敵"
+    },
+    {
+      "surface": "שִׁמְךָ֣",
+      "gloss": "あなたの御名を"
+    },
+    {
+      "surface": "לָנֶֽצַח",
+      "gloss": "永遠に"
+    }
+  ],
+  "timestamp": "2026-08-07T17:20:25.386199626Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "あなた、ヤハウェは、あなたのあわれみを閉じられたりしない、わたしから。あなたのヘセドとあなたの真実が絶えずわたしを守る。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "閉じられたりしない"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "あなたのあわれみを"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "わたしから"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "あなたのヘセドと"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "あなたの真実が"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "絶えず"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "わたしを守る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:10.478878134Z",
+  "model": "glm-5.2"
+}

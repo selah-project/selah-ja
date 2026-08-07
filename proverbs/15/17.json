@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "野菜の一食と、そこに ⟨ある⟩ 愛 ⟨のほうが良い⟩、肥育された牛と、それに ⟨伴う⟩ 憎しみ ⟨より⟩。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "⟨のほうが良い⟩"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "一食"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "野菜"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "と愛"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "משור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "肥育された"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "と憎しみ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それに ⟨伴う⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T17:24:56.524360394Z",
+  "model": "glm-5.2"
+}

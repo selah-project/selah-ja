@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 135,
+  "translation": "ミツライムの初子を打たれたかた — 人から獣に至るまで。",
+  "tokens": [
+    {
+      "surface": "שֶׁ",
+      "gloss": "…であるかた"
+    },
+    {
+      "surface": "הִכָּה",
+      "gloss": "打たれた"
+    },
+    {
+      "surface": "בְּכוֹרֵי",
+      "gloss": "…の初子を"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "מֵאָדָם",
+      "gloss": "人から"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "…に至るまで"
+    },
+    {
+      "surface": "בְּהֵמָה",
+      "gloss": "獣"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:51.799105772Z",
+  "model": "glm-5.2"
+}

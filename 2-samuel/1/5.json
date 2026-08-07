@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ダビデは彼に告げた若者に言った。シャウルとその子エホナタンが死んだことを、どうしてあなたは知ったのか。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "若者"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "איך",
+      "gloss": "どうして"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "あなたは知った"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死んだ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "そしてエホナタン"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:19.449117494Z",
+  "model": "glm-5.2"
+}

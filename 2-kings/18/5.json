@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "彼はヤハウェ、イスラエルのエロヒムに信頼した。彼の後、また彼の前にあったすべてのユダの王たちの中で、彼のような者はなかった。",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…のエロヒム"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "信頼した"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "彼の後"
+    },
+    {
+      "surface": "לא",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "היה",
+      "gloss": "…者は"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "彼のような"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての…の中で"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "また"
+    },
+    {
+      "surface": "היו",
+      "gloss": "あった"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "彼の前に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:03.912292926Z",
+  "model": "glm-5.2"
+}

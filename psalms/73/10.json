@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 73,
+  "translation": "それゆえ ⟨彼の⟩民はここに戻り、満たされた水が彼らによって絞り出される。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "⟨彼は⟩戻す"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼の民を"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ここに"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "そして…の水"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "満たされた"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "絞り出される"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:04.093962503Z",
+  "model": "glm-5.2"
+}

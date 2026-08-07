@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "低き者たちは見た、喜べ。エロヒムを尋ね求める者たちよ、あなたがたの心は生きる。",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "見た"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "低き者たちは"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "喜べ"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "求める者たちよ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムを"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "生きる"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "あなたがたの心は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:15.925887615Z",
+  "model": "glm-5.2"
+}

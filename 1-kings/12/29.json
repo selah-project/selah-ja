@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして彼は⟨את⟩一つをベート・エルに置き、⟨את⟩もう一つをダンに置いた。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "そして彼は置いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一つ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一つを"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "〜の家に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル（ベート・エル）"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "もう一つ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "もう一つを"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "ダンに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:03:36.145370131Z",
+  "model": "glm-5.2"
+}

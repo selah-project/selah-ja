@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "アヒ——アブディエルの子、グニの子、彼らの父祖の家のかしら。",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "アヒ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "の子"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "アブディエル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "の子"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "グニ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "かしら"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "の家の"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "彼らの父祖"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:11.638111437Z",
+  "model": "glm-5.2"
+}

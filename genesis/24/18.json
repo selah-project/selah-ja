@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 24:18",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "すると彼女は言った——わが主よ、お飲みください——そして急いで、自分の水がめを手の上に下ろし、彼に飲ませた。",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "お飲みください"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "わが主よ"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "急いで"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "下ろした"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "自分の水がめを"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ידה",
+      "gloss": "彼女の手"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "彼に飲ませた"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:58.136683533Z",
+  "model": "glm-5.2"
+}

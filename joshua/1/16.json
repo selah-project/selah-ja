@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして彼らはヨシュアに答えて言った。「あなたが私たちに命じたすべてのことを、私たちは行う。あなたが私たちを遣わす先はどこへでも、私たちは行く。」",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "答えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨシュア"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ことを"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "あなたが命じた"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "私たちは行う"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ところに"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "あなたが私たちを遣わす"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "私たちは行く"
+    }
+  ],
+  "timestamp": "2026-08-07T10:23:33.494012340Z",
+  "model": "glm-5.2"
+}

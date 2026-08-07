@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "安息日に、安息日ごとに、彼はそれをヤハウェの前に絶えず並べる — イスラエルの子らたちからの ⟨את⟩ ⟨ささげ物⟩、永遠の契約として。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "の日に"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "その安息日"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "の日に"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "その安息日"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "彼はそれを並べる"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "絶えず"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜からの"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:36.405254119Z",
+  "model": "glm-5.2"
+}

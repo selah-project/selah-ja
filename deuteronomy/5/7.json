@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "あなたにとって、ほかのエロヒムが存在してはならない。私の顔に向かって。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "存在してはならない"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたにとって"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ほかの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "פני",
+      "gloss": "私の顔"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:49.126621863Z",
+  "model": "glm-5.2"
+}

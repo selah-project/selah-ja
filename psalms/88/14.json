@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 88,
+  "translation": "しかし、このわたしはあなた、ヤハウェに向かって叫び、朝にはこのわたしの祈りがあなたに先んじる。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "しかし、このわたしは"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに向かって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "叫ぶ"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "朝には"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "わたしの祈り"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "あなたに先んじる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:54:49.864572420Z",
+  "model": "glm-5.2"
+}

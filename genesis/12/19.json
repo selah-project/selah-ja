@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "なぜあなたは『彼女は私の姉妹だ』と言ったのか。それで私は彼女を妻として私のために取ろうとした。今、見よ、あなたの妻だ。取って、去れ。」",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "あなたは言った"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "私の姉妹"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼女は⟩である"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "そして私は取った"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "彼女"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "妻として"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "あなたの妻"
+    },
+    {
+      "surface": "קח",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "そして行け"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:34.246873877Z",
+  "model": "glm-5.2"
+}

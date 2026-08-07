@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 37:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして彼はさらに別の夢を見、それを兄たちに語り、言った。「見よ、私はさらに夢を見た。そして見よ、太陽と月と十一の星が私にひれ伏していた」",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "そして彼は見た"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "夢を"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別の"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "そして彼は語った"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩それを",
+      "marks": "夢（語った内容）"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "兄たちに"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "夢を"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽と"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "月と"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "十一"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "（一・十）"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "星が"
+    },
+    {
+      "surface": "משתחוים",
+      "gloss": "ひれ伏していた"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:10.938935605Z",
+  "model": "glm-5.2"
+}

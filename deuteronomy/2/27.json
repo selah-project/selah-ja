@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "「あなたの地を通らせてください。道の中を、道の中を私は歩み、右にも左にも曲がらないように。」",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "私を通らせてください"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "あなたの地を"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道の…を"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道の…を"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "私は歩む"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "私は曲がる"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "右に"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "そして左に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:39.690188725Z",
+  "model": "glm-5.2"
+}

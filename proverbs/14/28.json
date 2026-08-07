@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "民の多いことの中に王の威光があり、民の絶える中に高官の崩壊⟨がある⟩。",
+  "tokens": [
+    {
+      "surface": "בְּרָב",
+      "gloss": "〜の多いことの中に"
+    },
+    {
+      "surface": "עָם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הַדְרַת",
+      "gloss": "威光"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "וּבְאֶפֶס",
+      "gloss": "しかし〜の絶える中に"
+    },
+    {
+      "surface": "לְאֹם",
+      "gloss": "民"
+    },
+    {
+      "surface": "מְחִתַּת",
+      "gloss": "崩壊"
+    },
+    {
+      "surface": "רָזוֹן",
+      "gloss": "高官"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:31.166020336Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "ヤハウェは、いと高き方、恐るべき方。全地の上におられる大いなる王。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜ゆえに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "いと高き方"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "恐るべき方"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:16.729103081Z",
+  "model": "glm-5.2"
+}

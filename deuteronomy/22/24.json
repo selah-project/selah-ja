@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 22:24",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そしてあなたがたは二人をその町の門のところへ連れ出し、石で彼らを打ち殺さなければならない — 彼らは死ぬ。⟨את⟩ 若い女については、彼女が町の中で叫ばなかったという事のゆえに、そして⟨את⟩ 男については、彼が隣人の妻を辱めたという事のゆえに。あなたは悪をあなたの内なるものから除き去らなければならない。",
+  "tokens": [
+    {
+      "surface": "והוצאתם",
+      "gloss": "そしてあなたがたは連れ出す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "二人"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "彼ら二人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町の"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "そしてあなたがたは石で打つ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "石"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "石で"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "そして彼らは死ぬ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "若い女"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "若い女"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "彼女は叫んだ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町の中で"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "男"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "男"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "彼は辱めた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "妻"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "隣人の"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "そしてあなたは除き去る"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "あなたの内なるものから"
+    }
+  ],
+  "timestamp": "2026-08-07T16:37:42.847755672Z",
+  "model": "glm-5.2"
+}

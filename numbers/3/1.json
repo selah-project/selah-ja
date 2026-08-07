@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてこれこそアハロンとモシェの系図⟨である⟩ — ヤハウェがシナイの山でモシェに⟨את⟩語りかけた日に⟨のことであった⟩。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "系図"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロンの"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "およびモシェの"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語りかけた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モシェ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェに"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "〜の山で"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "シナイ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:45.522551167Z",
+  "model": "glm-5.2"
+}

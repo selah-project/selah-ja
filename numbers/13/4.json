@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてこれらが彼らの名前である。ルベンの部族については、シャムア、ザクルの子。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらが"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "彼らの名前である"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "……の部族については"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ルベン"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "シャムア"
+    },
+    {
+      "surface": "בן",
+      "gloss": "……の子"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ザクル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:55:35.455041448Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 40:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "イェルシャライムの心に語りかけ、彼女に向かって呼ばよ。彼女の務めは満ちた、と。彼女の咎は赦された、と。彼女のすべての罪に対する二倍をヤハウェの手から受け取った、と。",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "語りかけよ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライム"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "そして呼ばよ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "彼女に向かって"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは／〜が"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "満ちた"
+    },
+    {
+      "surface": "צבאה",
+      "gloss": "彼女の務め"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは／〜が"
+    },
+    {
+      "surface": "נרצה",
+      "gloss": "赦された"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "彼女の咎"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは／〜が"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "受け取った"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "〜の手から"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כפלים",
+      "gloss": "二倍"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "〜のすべての"
+    },
+    {
+      "surface": "חטאתיה",
+      "gloss": "彼女の罪"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:15.324425178Z",
+  "model": "glm-5.2"
+}

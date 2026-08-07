@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "それは天にあるのではない。言って、「私たちのために天に上る者は誰か、それを取って私たちに聞かせ、私たちがそれを行う」と。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "天に"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨それは⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "上る者"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちのために"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "天に"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "そして取って"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちに"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "そして聞かせ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それ（המצוה）"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "そして私たちが行う"
+    }
+  ],
+  "timestamp": "2026-08-07T10:20:34.546387191Z",
+  "model": "glm-5.2"
+}

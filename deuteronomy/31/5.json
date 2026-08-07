@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "ヤハウェは⟨彼ら⟩をあなたがたの前に引き渡される。そしてあなたがたは、私があなたがたに命じたすべての命令について、彼らに行わなければならない。",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "そして引き渡される"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "あなたがたの前に"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "そしてあなたがたは行う"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "私が命じた"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたがたに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:20:50.088347740Z",
+  "model": "glm-5.2"
+}

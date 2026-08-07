@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 18:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "アブラハムは天幕のところへ、サラの元へ急いだ。そして言った、「急いで、三セアの上等の小麦粉を量って、こねて、円パンを作りなさい」。",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "急いだ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハムは"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "天幕のところへ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の元へ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "サラ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "急いで"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "סאים",
+      "gloss": "セア"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "小麦粉の"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "上等の"
+    },
+    {
+      "surface": "לושי",
+      "gloss": "こねて"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "作りなさい"
+    },
+    {
+      "surface": "עגות",
+      "gloss": "円パンを"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:22.335734318Z",
+  "model": "glm-5.2"
+}

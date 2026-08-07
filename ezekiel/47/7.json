@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 47:7",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "私が戻ると、見よ、その水流の岸に、非常に多くの木々があった — こちらからも、あちらからも。",
+  "tokens": [
+    {
+      "surface": "בְּשׁוּבֵ֕נִי",
+      "gloss": "私が戻ると"
+    },
+    {
+      "surface": "וְהִנֵּה֙",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שְׂפַ֣ת",
+      "gloss": "岸"
+    },
+    {
+      "surface": "הַנַּ֔חַל",
+      "gloss": "その水流の"
+    },
+    {
+      "surface": "עֵ֖ץ",
+      "gloss": "木々"
+    },
+    {
+      "surface": "רַ֣ב",
+      "gloss": "多い"
+    },
+    {
+      "surface": "מְאֹ֑ד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "מִזֶּ֖ה",
+      "gloss": "こちらから"
+    },
+    {
+      "surface": "וּמִזֶּֽה",
+      "gloss": "そしてあちらから"
+    }
+  ],
+  "timestamp": "2026-08-07T12:16:21.506392163Z",
+  "model": "glm-5.2"
+}

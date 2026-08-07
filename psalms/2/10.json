@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして今、王たちよ、悟れ。地の裁き人たちよ、懲らしめを受けよ。",
+  "tokens": [
+    {
+      "surface": "וְ֭עַתָּה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "מְלָכִ֣ים",
+      "gloss": "王たちよ"
+    },
+    {
+      "surface": "הַשְׂכִּ֑ילוּ",
+      "gloss": "悟れ"
+    },
+    {
+      "surface": "הִ֝וָּסְר֗וּ",
+      "gloss": "懲らしめを受けよ"
+    },
+    {
+      "surface": "שֹׁ֣פְטֵי",
+      "gloss": "裁き人たちよ"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:00.884967977Z",
+  "model": "glm-5.2"
+}

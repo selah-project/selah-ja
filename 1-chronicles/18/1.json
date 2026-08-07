@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "その後こうしてなった。ダビデはペリシテ人を打ち、彼らを屈服させた。そしてガトとその娘たち⟨すなわち周辺の村々⟩をペリシテ人の手から取った。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…になった"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…の後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "こう"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "打った"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ペリシテ人"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "彼らを屈服させた"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ガト"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ガト"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "とその娘たち"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "…の手から"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:06:47.997627730Z",
+  "model": "glm-5.2"
+}

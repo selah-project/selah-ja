@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 6:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "するとセラフィムのひとりが私のもとに飛んできた。その手には燃える石があった — つるはしで祭壇の上から取ったものである。",
+  "tokens": [
+    {
+      "surface": "ויעף",
+      "gloss": "すると飛んできた"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のもとに"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ひとり"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "セラフィムの"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "そしてその手には"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "燃える石"
+    },
+    {
+      "surface": "במלקחים",
+      "gloss": "つるはしで"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "取った"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜の上から"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:57.914109542Z",
+  "model": "glm-5.2"
+}

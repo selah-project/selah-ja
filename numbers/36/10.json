@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "ヤハウェがモーセに命じたように、ツェロフハデの娘たちはそのようにした。",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "〜ように"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーセ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "した"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "娘たち"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "ツェロフハデ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:06:57.724643624Z",
+  "model": "glm-5.2"
+}

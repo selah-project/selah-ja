@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてエルパアルの子らはエベル、ミシュアム、シャメデ。彼は ⟨את⟩ オノと ⟨את⟩ ロドとその娘たち（村落）を建てた。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "そして子ら"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "エルパアルの"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "エベル"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "ミシュアム"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "シャメデ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "オノ"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "オノ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "ロド"
+    },
+    {
+      "surface": "לד",
+      "gloss": "ロド"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "とその娘たち"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:34.103054709Z",
+  "model": "glm-5.2"
+}

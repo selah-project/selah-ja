@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてパロの娘が彼女に言った。「行きなさい。」そしてその若い女は行き、⟨את⟩その子の母を呼んだ。",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "そして彼女は言った"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "行け"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "そして彼女は行った"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "その若い女"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "そして彼女は呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その子の母"
+    },
+    {
+      "surface": "אם",
+      "gloss": "母"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "その子の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:01.815958190Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 53,
+  "translation": "彼らは皆ともに退いた。汚れた。善を行なう者はいない。ひとりさえいない。",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "皆"
+    },
+    {
+      "surface": "סג",
+      "gloss": "退いた"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ともに"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "汚れた"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行なう者"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "גם",
+      "gloss": "さえ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ひとり"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:22.275451726Z",
+  "model": "glm-5.2"
+}

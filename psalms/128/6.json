@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 128,
+  "translation": "そしてあなたの子らの子を見よ、シャロムがイスラエルの上に。",
+  "tokens": [
+    {
+      "surface": "וּרְאֵֽה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "בָנִ֥ים",
+      "gloss": "子らを"
+    },
+    {
+      "surface": "לְבָנֶ֑יךָ",
+      "gloss": "あなたの子の"
+    },
+    {
+      "surface": "שָׁ֝ל֗וֹם",
+      "gloss": "シャローム"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:09.991754095Z",
+  "model": "glm-5.2"
+}

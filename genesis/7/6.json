@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "ノアは六百歳であった。大洪水が水として地の上にあった。",
+  "tokens": [
+    {
+      "surface": "וְנֹ֕חַ",
+      "gloss": "そしてノア"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "…歳で"
+    },
+    {
+      "surface": "שֵׁ֥שׁ",
+      "gloss": "六"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "百"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "年"
+    },
+    {
+      "surface": "וְהַמַּבּ֣וּל",
+      "gloss": "そして大洪水"
+    },
+    {
+      "surface": "הָיָ֔ה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "מַ֖יִם",
+      "gloss": "水"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:50.602585727Z",
+  "model": "glm-5.2"
+}

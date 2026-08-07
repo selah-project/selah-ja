@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして祭司エズラは⟨את⟩トーラーを、会衆の前に携えて来た。男から女まで、そしてすべて聞いて理解する⟨者⟩に。第七の月の一日に。",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "そして…携えて来た"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "エズラは"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司である"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "トーラー"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "トーラーを"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前に"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "会衆"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "男から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "理解する"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "聞いて"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…に"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "月の"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    }
+  ],
+  "timestamp": "2026-08-07T13:57:22.704898645Z",
+  "model": "glm-5.2"
+}

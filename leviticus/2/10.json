@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして穀物の供え物から残るものはアハロンとその子らへのもの—ヤハウェの火の供え物のうちの聖なる聖である。",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "そして…残るもの"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "穀物の供え物"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "アハロンへの"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "そしてその子らへの"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "聖"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "…のうちの、火の供え物"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:31:08.322553961Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "災いだ、悪に良いと言う者、良いに悪と言う者。闇を光とし、光を闇とする者、苦いを甘いとし、甘いを苦いとする者は。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "災いだ"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "言う者"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "悪に"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良いと"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "良いに"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪と"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "〜とする者"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "闇を"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "光"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "光を"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "闇"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "〜とする者"
+    },
+    {
+      "surface": "מר",
+      "gloss": "苦いを"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "甘い"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "甘いを"
+    },
+    {
+      "surface": "למר",
+      "gloss": "苦い"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:48.955778912Z",
+  "model": "glm-5.2"
+}

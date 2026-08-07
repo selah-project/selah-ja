@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして雲は⟨את⟩会見の天幕を覆い、ヤハウェの栄光が⟨את⟩幕屋に満ちた。",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "そして覆った"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "会見の天幕"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "そして栄光"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "満ちた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "幕屋"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:14.424205570Z",
+  "model": "glm-5.2"
+}

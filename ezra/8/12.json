@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 8:12",
+  "book": "ezra",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "およびアズガドの子らのうちから、ハッカタンの子ヨハナン、および彼とともに百十人の男子。",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "および〜の子らのうちから"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "アズガド"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "ヨハナン"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ハッカタン（小さい者）"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "および彼とともに"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "および十"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "男子"
+    }
+  ],
+  "timestamp": "2026-08-07T13:51:55.574871035Z",
+  "model": "glm-5.2"
+}

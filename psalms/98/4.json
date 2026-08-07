@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 98,
+  "translation": "歓声を上げよ、ヤハウェに向かって、全地よ。歓喜を放て、そして喜び歌え、そして賛美せよ！",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "歓声を上げよ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地よ"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "歓喜を放て"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "そして喜び歌え"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "そして賛美せよ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:39.130448374Z",
+  "model": "glm-5.2"
+}

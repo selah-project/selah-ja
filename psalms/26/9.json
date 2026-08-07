@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "私の ⟨נפש⟩ を罪人たちと共に集めず、血の男たちと共に私の命を ⟨集めないで⟩。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "集めず"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "罪人たち"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私の⟨נפש⟩"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "そして〜と共に"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "〜の男たち"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "血"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "私の命"
+    }
+  ],
+  "timestamp": "2026-08-07T18:39:31.096980578Z",
+  "model": "glm-5.2"
+}

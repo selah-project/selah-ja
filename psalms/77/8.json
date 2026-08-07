@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 77,
+  "translation": "「永遠にわたってアドナイは退けられるのか。そしてもはや恩寵を示されることはないのか。」",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "永遠にわたって"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "退けられるのか"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイは"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "再加えるのか"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "恩寵を示す"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:37.194916116Z",
+  "model": "glm-5.2"
+}

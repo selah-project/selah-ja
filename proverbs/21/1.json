@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "水路は王の心の⟨よう⟩、ヤハウェの御手のうちにあり、⟨ヤハウェ⟩がことごとくその望むところへ、それを傾けられる。",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "水路"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "御手のうちに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "望む"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "傾けられる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:03.071368416Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "しかし、あなたが誓うことを差し控えるなら、あなたのうちに罪はない。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "しかし〜するなら"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "あなたが差し控える"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "誓うことを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたのうちに"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "罪"
+    }
+  ],
+  "timestamp": "2026-08-07T10:17:55.457085076Z",
+  "model": "glm-5.2"
+}

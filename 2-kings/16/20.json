@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてアハズは彼の先祖たちと共に横たわり、彼の先祖たちと共にダビデの町に葬られた。そして彼の子ヒゼキヤフが彼に代わって王となった。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "横たわり"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "アハズ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の先祖たち"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "葬られた"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の先祖たち"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "〜の町に"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ヒゼキヤフ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代わって"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:17.120420925Z",
+  "model": "glm-5.2"
+}

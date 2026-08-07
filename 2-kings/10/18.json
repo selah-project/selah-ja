@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてイェフは⟨את⟩すべての民を集め、彼らに言った。「アハブは⟨את⟩バアルに仕えること少なし、イェフは彼に大いに仕えん」",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "そして…集めた"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "イェフは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民を"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "アハブは"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "仕えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "バアル"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "バアルに"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "少し"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "イェフは"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "彼に仕えよう"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "大いに"
+    }
+  ],
+  "timestamp": "2026-08-07T16:53:01.252353663Z",
+  "model": "glm-5.2"
+}

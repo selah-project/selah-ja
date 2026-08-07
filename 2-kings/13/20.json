@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてエリシャは死に、彼らは彼を葬った。そしてモアブの略奪隊が地に侵入した、年の入り口に。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "エリシャは"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "そして彼らは彼を葬った"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "そして略奪隊の"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブの"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "侵入した"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:15:15.319945006Z",
+  "model": "glm-5.2"
+}

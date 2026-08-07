@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "事の終わり、すべてが聞かれた——⟨את⟩エロヒムを恐れよ、そして⟨את⟩その戒めを守れ。これこそ全き人だからである。",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "終わり"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "聞かれた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エロヒム"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "恐れよ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その戒め"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "その戒め"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "守れ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だからである"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全き"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T14:42:27.858242704Z",
+  "model": "glm-5.2"
+}

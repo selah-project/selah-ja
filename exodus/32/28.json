@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 32:28",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "レビの子らはモーシェの言葉のとおりに行った。そしてその日、民の ⟨中から⟩ 約三千人が倒れた。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "レビ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "…の言葉のとおりに"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "そして…倒れた"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…の日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "約三…の"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:41.122148827Z",
+  "model": "glm-5.2"
+}

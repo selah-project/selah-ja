@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ザバドは⟨את⟩エフラルを生み、エフラルは⟨את⟩オベドを生んだ。",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "ザバド"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エフラル"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "エフラル"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "エフラル"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "オベド"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "オベド"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:25.845794980Z",
+  "model": "glm-5.2"
+}

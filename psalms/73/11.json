@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 73,
+  "translation": "そして彼らは言う、「いかにしてエルは知りうるか。また至高者に知識はあるのか」と。",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "そして彼らは言う"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "いかにして"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知りうる"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エルは"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "また…があるのか"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "知識"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "至高者に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:04.094075605Z",
+  "model": "glm-5.2"
+}

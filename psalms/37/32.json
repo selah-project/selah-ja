@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "悪者は義なる者を見張り、彼を殺そうと求めている。",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "見張る"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者は"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "義なる者を"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "そして求めている"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "彼を殺そうと"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:23.367705741Z",
+  "model": "glm-5.2"
+}

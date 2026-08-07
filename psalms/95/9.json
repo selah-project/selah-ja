@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 95,
+  "translation": "そこで ⟨あなたたちの⟩ 先祖たちは私を試みた、私を験した、彼らはまた私のわざを見た⟨のに⟩。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "私を試みた"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "あなたたちの先祖たちは"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "私を験した"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "見た"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "私のわざを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:30.401149873Z",
+  "model": "glm-5.2"
+}

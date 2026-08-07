@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "愚か者の口には高慢の杖、しかし知恵ある者たちの唇は彼らを守る。",
+  "tokens": [
+    {
+      "surface": "בְּֽפִי",
+      "gloss": "口には"
+    },
+    {
+      "surface": "אֱ֭וִיל",
+      "gloss": "愚か者の"
+    },
+    {
+      "surface": "חֹ֣טֶר",
+      "gloss": "杖"
+    },
+    {
+      "surface": "גַּאֲוָ֑ה",
+      "gloss": "高慢の"
+    },
+    {
+      "surface": "וְשִׂפְתֵ֥י",
+      "gloss": "しかし〜の唇は"
+    },
+    {
+      "surface": "חֲ֝כָמִ֗ים",
+      "gloss": "知恵ある者たちの"
+    },
+    {
+      "surface": "תִּשְׁמוּרֵֽם",
+      "gloss": "彼らを守る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:31.989847177Z",
+  "model": "glm-5.2"
+}

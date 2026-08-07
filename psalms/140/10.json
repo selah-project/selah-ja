@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 140,
+  "translation": "私を囲む者たちのかしら〈たち〉の上に、彼らの唇の労苦が彼らを覆う〈ように〉。",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "かしら"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "私を囲む者たちの"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "労苦が"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "彼らの唇の"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "彼らを覆う"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:11.696443493Z",
+  "model": "glm-5.2"
+}

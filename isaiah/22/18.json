@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 22:18",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "巻き上げ、巻き上げて⟨あなた⟩を球のように、広々とした地へ。そこであなたは死に、そこにあなたの栄光の戦車は⟨ある⟩、あなたの主人の家の恥となる。",
+  "tokens": [
+    {
+      "surface": "צנוף",
+      "gloss": "巻き上げ"
+    },
+    {
+      "surface": "יצנפך",
+      "gloss": "巻き上げてあなたを"
+    },
+    {
+      "surface": "צנפה",
+      "gloss": "球のように"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "広々とした"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "手の（空間）"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "あなたは死に"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "戦車"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "あなたの栄光の"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "恥"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "あなたの主人の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:35.003135441Z",
+  "model": "glm-5.2"
+}

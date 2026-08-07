@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてモーセは義父の声に耳を傾け、彼が語ったすべてのことを行った。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "そして彼は耳を傾けた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセは"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "声に"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "義父の"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は行った"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "彼が語った"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:35.348604628Z",
+  "model": "glm-5.2"
+}

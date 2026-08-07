@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして彼はヤハウェの家に祭壇を建てた──ヤハウェが「イェルシャライムに⟨את⟩わたしの名を置く」と言った⟨ところである⟩。",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "そして彼は建てた"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "──"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライムに"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "わたしは置く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの名"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "わたしの名"
+    }
+  ],
+  "timestamp": "2026-08-07T11:17:27.772081760Z",
+  "model": "glm-5.2"
+}

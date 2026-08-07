@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "イエフは彼の先祖たちと共に寝り、彼らは彼を⟨את⟩シュマロンに葬った。彼の之子エホアハズが彼の代わりに王となった。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "寝た"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "イエフは"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の先祖たち"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "彼らは葬った"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "シュマロンに"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "エホアハズが"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼のの子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼の代わりに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:13:17.332512705Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてアダムは再び⟨את⟩妻を知り、彼女は息子を産み、⟨את⟩その名をシェトと呼んだ。「エロヒムが私に、カインが彼を殺したので、ヘベルの代わりに別の種を置かれたからだ」と。",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "そして知った"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "アダム"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再び"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "妻"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "彼の妻"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "そして彼女は産んだ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "そして彼女は呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の名"
+    },
+    {
+      "surface": "שת",
+      "gloss": "シェト"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "שת",
+      "gloss": "置かれた"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "種"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別の"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わりに"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ヘベル"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "彼を殺した"
+    },
+    {
+      "surface": "קין",
+      "gloss": "カイン"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:59.011489407Z",
+  "model": "glm-5.2"
+}

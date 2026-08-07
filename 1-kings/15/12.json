@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして彼は聖別された者たちを地から除き去り、⟨את⟩すべての偶像たちを — その父祖たちが造った — 取り除いた。",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "そして彼は除き去り"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "聖別された者たちを"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "そして取り除いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての偶像たち"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "偶像たち"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜は"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "造った"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "その父祖たちが"
+    }
+  ],
+  "timestamp": "2026-08-07T11:06:29.242209106Z",
+  "model": "glm-5.2"
+}

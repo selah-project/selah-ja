@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "彼は力を振るい、⟨את⟩アマレクを打ち、⟨את⟩イスラエルをその略奪者の手から救い出した。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "力を"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "そして打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アマレク"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "アマレク"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "そして救い出した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルを"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "〜の手から"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "その略奪者の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:51.740839942Z",
+  "model": "glm-5.2"
+}

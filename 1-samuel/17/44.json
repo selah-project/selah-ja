@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてペリシテ人はダビデに言った。「私のところに来なさい。そうすれば私はあなたの肉を、空の鳥と野の獣に与えよう。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ペリシテ人は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "来なさい"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のところに"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "そして私は与えよう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの肉"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "あなたの肉を"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "空の鳥"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野の獣"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:05.179806330Z",
+  "model": "glm-5.2"
+}

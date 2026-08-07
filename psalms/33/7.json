@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "海の水を堆のように集める方、淵を倉に納める方。",
+  "tokens": [
+    {
+      "surface": "כֹּנֵ֣ס",
+      "gloss": "集める方"
+    },
+    {
+      "surface": "כַּ֭נֵּד",
+      "gloss": "堆のように"
+    },
+    {
+      "surface": "מֵ֣י",
+      "gloss": "水を"
+    },
+    {
+      "surface": "הַיָּ֑ם",
+      "gloss": "海の"
+    },
+    {
+      "surface": "נֹתֵ֖ן",
+      "gloss": "納める方"
+    },
+    {
+      "surface": "בְּאֹצָר֣וֹת",
+      "gloss": "倉に"
+    },
+    {
+      "surface": "תְּהוֹמֽוֹת",
+      "gloss": "淵を"
+    }
+  ],
+  "timestamp": "2026-08-07T17:45:58.352062473Z",
+  "model": "glm-5.2"
+}

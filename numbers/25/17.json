@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "ミデヤン人を敵として悩ませ、彼らを打て。",
+  "tokens": [
+    {
+      "surface": "צָר֖וֹר",
+      "gloss": "敵として悩ませよ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ミデヤン人"
+    },
+    {
+      "surface": "הַמִּדְיָנִ֑ים",
+      "gloss": "ミデヤン人"
+    },
+    {
+      "surface": "וְהִכִּיתֶ֖ם",
+      "gloss": "そして打て"
+    },
+    {
+      "surface": "אוֹתָֽם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    }
+  ],
+  "timestamp": "2026-08-07T09:59:52.802984546Z",
+  "model": "glm-5.2"
+}

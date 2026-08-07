@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "祝福される—あなたの胎の実と、あなたの土の実と、あなたの家畜の実と。あなたの牛の産み子と、あなたの羊の群れの繁殖。",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "祝福される"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "実"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "あなたの胎の"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "そして実"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "あなたの土の"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "そして実"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "あなたの家畜の"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "産み子"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "あなたの牛の"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "そして繁殖"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "あなたの羊の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:47.973527982Z",
+  "model": "glm-5.2"
+}

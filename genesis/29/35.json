@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 29:35",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "彼女は再び身ごもり、男の子を産み、言った。「今度こそ、私は⟨את⟩ヤハウェを賛美する。」それゆえ、彼女はその名をユダと呼んだ。そして彼女は産むのをやめた。",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "彼女は身ごもり"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再び"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "産み"
+    },
+    {
+      "surface": "בן",
+      "gloss": "男の子を"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "今度こそ"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "私は賛美する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェを"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "על",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "−"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "彼女は呼んだ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "その名を"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダと"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "そして彼女はやめた"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "産むのを"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:04.305487521Z",
+  "model": "glm-5.2"
+}

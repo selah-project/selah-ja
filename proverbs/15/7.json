@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "知者の唇は知識を散らすが、愚か者たちの心はそうではない。",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "唇は"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "知者の"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "散らす"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識を"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "心は"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "愚か者たちの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そうで"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:42.757799263Z",
+  "model": "glm-5.2"
+}

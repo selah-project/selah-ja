@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "二人の証人、あるいは三人の証人の口によって、死ぬべき者は死ななければならない。一人の証人の口によって彼を死なせてはならない。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "〜に基づいて"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二人の"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "証人"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三人の"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "証人"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "死ななければならない"
+    },
+    {
+      "surface": "המת",
+      "gloss": "死ぬべき者"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "死なせてはならない"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に基づいて"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口"
+    },
+    {
+      "surface": "עד",
+      "gloss": "証人"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一人の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:44.923741674Z",
+  "model": "glm-5.2"
+}

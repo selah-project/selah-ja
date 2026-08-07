@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 12:21",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてそれてはならない。⟨なぜなら⟩無価値なものの後ろに⟨従えば⟩、それは役に立たず、救い出さないからだ。それは無価値だからだ。」",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "それてはならない"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨なぜなら⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "〜の後ろに"
+    },
+    {
+      "surface": "התהו",
+      "gloss": "その無価値なもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "役に立つ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "救い出す"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨なぜなら⟩"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "無価値"
+    },
+    {
+      "surface": "המה",
+      "gloss": "それらは"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:10.354959043Z",
+  "model": "glm-5.2"
+}

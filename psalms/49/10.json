@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "そして彼は永遠に生きようとするのか——彼は穴を見ない、",
+  "tokens": [
+    {
+      "surface": "וִֽיחִי",
+      "gloss": "そして彼は生きる"
+    },
+    {
+      "surface": "ע֥וֹד",
+      "gloss": "なお"
+    },
+    {
+      "surface": "לָנֶ֑צַח",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "לֹ֖א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִרְאֶ֣ה",
+      "gloss": "彼は見る"
+    },
+    {
+      "surface": "הַשָּֽׁחַת",
+      "gloss": "穴を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:53.217880931Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 144,
+  "translation": "人はへブルに等しく、その日々は過ぎ去る影のようだ。",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "へブルに"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "等しい"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "その日々"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "影のよう"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "過ぎ去る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:47.743980318Z",
+  "model": "glm-5.2"
+}

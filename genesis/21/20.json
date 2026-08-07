@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "エロヒムは ⟨את⟩ 少年と共におられ、彼は成長した。彼は荒野に住み、弓を射る者となった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜であった"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "את",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "少年"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "そして成長した"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして住んだ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野に"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "育つ者"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:11.040981263Z",
+  "model": "glm-5.2"
+}

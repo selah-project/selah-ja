@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 17:9",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "その日に、彼の要塞の町々は森の放置されたものと⟨山頂の⟩小丘のようになる。それはイスラエルの子らの前から彼らが見捨てたものであり、荒廃となる。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "その日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "町々"
+    },
+    {
+      "surface": "מעזו",
+      "gloss": "彼の要塞の"
+    },
+    {
+      "surface": "כעזובת",
+      "gloss": "放置されたもののよう"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "森の"
+    },
+    {
+      "surface": "והאמיר",
+      "gloss": "そして小丘"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは〜である"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "彼らが見捨てた"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜の前から"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "そしてそれは〜となる"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "荒廃"
+    }
+  ],
+  "timestamp": "2026-08-07T14:30:28.266293838Z",
+  "model": "glm-5.2"
+}

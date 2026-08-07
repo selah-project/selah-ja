@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼は⟨את⟩鳩を自分のもとから放って見ようとした、水が地の面から引いたかどうかを。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして彼は放った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "鳩を"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "鳩"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "彼自身のもとから"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見るために"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "引いたかどうか"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水が"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "～から"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:23.717936829Z",
+  "model": "glm-5.2"
+}

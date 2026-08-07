@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてわたしは目を上げて見た、見よ、四つの角が⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "そしてわたしは上げた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの目"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "わたしの目"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "そしてわたしは見た"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四つの"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "角"
+    }
+  ],
+  "timestamp": "2026-08-07T12:31:02.988134047Z",
+  "model": "glm-5.2"
+}

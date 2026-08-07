@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 118,
+  "translation": "これこそ、ヤハウェが造られた日。この日に、我々は喜び躍り、喜ばよう。",
+  "tokens": [
+    {
+      "surface": "זֶה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "הַ֭יּוֹם",
+      "gloss": "日"
+    },
+    {
+      "surface": "עָשָֹ֣ה",
+      "gloss": "造られた"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "נָגִ֖ילָה",
+      "gloss": "我々は喜び躍り"
+    },
+    {
+      "surface": "וְנִשְׂמְחָ֣ה",
+      "gloss": "喜ばよう"
+    },
+    {
+      "surface": "בֽוֹ",
+      "gloss": "これに"
+    }
+  ],
+  "timestamp": "2026-08-07T17:46:21.210456464Z",
+  "model": "glm-5.2"
+}

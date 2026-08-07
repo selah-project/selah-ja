@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして私は捕囚の民に語りかけた — ⟨את⟩ ヤハウェのすべての言葉を、私に見せられたものを。",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "そして私は語った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "捕囚の民"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての言葉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "私に見せられた"
+    }
+  ],
+  "timestamp": "2026-08-07T17:07:50.749243110Z",
+  "model": "glm-5.2"
+}

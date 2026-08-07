@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてペリシテ人の五人の首領たちはそれを見た。そして彼らはその日、エクロンへ帰った。",
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "そして五人の"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "首領たち"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人の"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "彼らは見た"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "そして彼らは帰った"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "エクロンへ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "その日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "あの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:37.955633103Z",
+  "model": "glm-5.2"
+}

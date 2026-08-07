@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "また犬はイズレエルの地で⟨את⟩イゼベルを食らう。彼女を葬る者はいない。そして彼は扉を開けて逃げた。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "イゼベル"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "イゼベル"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "〜は食らう"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "犬は"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "〜の地で"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "イズレエル"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "〜はいない"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "葬る者"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "彼は開けて"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "扉を"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "逃げた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:12:44.586808220Z",
+  "model": "glm-5.2"
+}

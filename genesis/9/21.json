@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして彼はブドウ酒を飲み、酔い、そして天幕の真ん中で裸に⟨なった⟩。",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "そして彼は飲んだ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "היין",
+      "gloss": "そのブドウ酒"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "そして酔った"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "そして裸になった"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "〜の真ん中で"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "彼の天幕"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:40.444037109Z",
+  "model": "glm-5.2"
+}

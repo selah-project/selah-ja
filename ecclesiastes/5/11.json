@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "働く者の眠りは甘い。少なく食べても、多く食べても。しかし満ち足りた者は富んでいても、眠ることを許さない。",
+  "tokens": [
+    {
+      "surface": "מְתוּקָה֙",
+      "gloss": "甘い"
+    },
+    {
+      "surface": "שְׁנַ֣ת",
+      "gloss": "〜の眠りは"
+    },
+    {
+      "surface": "הָעֹבֵ֔ד",
+      "gloss": "働く者"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "〜ても（条件）"
+    },
+    {
+      "surface": "מְעַ֥ט",
+      "gloss": "少なく"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "そして〜ても"
+    },
+    {
+      "surface": "הַרְבֵּ֖ה",
+      "gloss": "多く"
+    },
+    {
+      "surface": "יֹאכֵ֑ל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "וְהַשָּׂבָע֙",
+      "gloss": "しかし満ち足りた者は"
+    },
+    {
+      "surface": "לֶֽעָשִׁ֔יר",
+      "gloss": "富む"
+    },
+    {
+      "surface": "אֵינֶ֛נּוּ",
+      "gloss": "〜ない（否定）"
+    },
+    {
+      "surface": "מַנִּ֥יחַֽ",
+      "gloss": "許す"
+    },
+    {
+      "surface": "ל֖וֹ",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "לִישֽׁוֹן",
+      "gloss": "眠ることを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:53.098720146Z",
+  "model": "glm-5.2"
+}

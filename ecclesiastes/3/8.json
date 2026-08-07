@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "愛する時、そして憎む時。戦争の時、そして平和の時。",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "愛する"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "そして時"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "憎む"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦争"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "そして時"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平和"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:25.494307917Z",
+  "model": "glm-5.2"
+}

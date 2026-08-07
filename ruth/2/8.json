@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 2:8",
+  "book": "ruth",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてボアズはルツに言った———聞いていないのか、私の娘よ。ほかの畑に落ち穂を拾いに行ってはならない。そしてまた、ここから移ってはならない。このようにして私の若い女たちに付き従いなさい。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ボアズ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "רות",
+      "gloss": "ルツ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "聞いていないのか"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "私の娘よ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "行っては"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "落ち穂を拾いに"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "畑に"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ほかの"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תעבורי",
+      "gloss": "移っては"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ここから"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "このようにして"
+    },
+    {
+      "surface": "תדבקין",
+      "gloss": "付き従いなさい"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "נערתי",
+      "gloss": "私の若い女たち"
+    }
+  ],
+  "timestamp": "2026-08-07T13:35:19.989862054Z",
+  "model": "glm-5.2"
+}

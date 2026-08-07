@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "人の栄光は争いから退くこと、そしてすべての愚か者は口出しして騒ぎ立てる。",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "栄光は"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "人の"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "退くこと"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "争いから"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "愚か者は"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "口出しして騒ぎ立てる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:39.451711629Z",
+  "model": "glm-5.2"
+}

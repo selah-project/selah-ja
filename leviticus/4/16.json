@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして油注がれた祭司はその雄牛の血を会見の天幕の中に持って入る。",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "そして持って入る"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "油注がれた"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "〜の血を"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "その雄牛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の中へ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:50.799101441Z",
+  "model": "glm-5.2"
+}

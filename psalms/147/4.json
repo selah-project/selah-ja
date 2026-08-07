@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "数える方、星々の数を。⟨彼ら⟩すべてに、名を呼び出す。",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "数える方"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "数を"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "星々の"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "⟨彼ら⟩すべてに"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名を"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "呼び出す"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:54.758127315Z",
+  "model": "glm-5.2"
+}

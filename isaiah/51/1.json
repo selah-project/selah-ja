@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "わたしに聞け、義を追う者たち、ヤハウェを求める者たちよ。あなたたちが切り出された岩に目を向け、くぼみの穴の、あなたたちが掘り出された⟨場所⟩に⟨目を向けよ⟩。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "追う者たち"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "義"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "求める者たち"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "目を向け"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "צור",
+      "gloss": "岩"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "あなたたちが切り出された"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "くぼみの"
+    },
+    {
+      "surface": "בור",
+      "gloss": "穴"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "あなたたちが掘り出された"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:03.710890292Z",
+  "model": "glm-5.2"
+}

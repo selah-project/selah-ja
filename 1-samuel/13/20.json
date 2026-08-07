@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして全イスラエルはペリシテ人のところに下って行った — 各人が自分の鋤先と ⟨את⟩ 自分の鍬と ⟨את⟩ 自分の斧と ⟨את⟩ 自分の鍬を研ぐために。",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "下って行った"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルは"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "ペリシテ人のところに"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "研ぐために"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人が"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の鋤先"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "自分の鋤先"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "自分の鍬"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "自分の鍬"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "自分の斧"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "自分の斧"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "自分の鍬"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "自分の鍬"
+    }
+  ],
+  "timestamp": "2026-08-07T10:42:55.371388482Z",
+  "model": "glm-5.2"
+}

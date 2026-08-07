@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "川 ― その分流はエロヒムの都を喜ばせる、いと高き方の幕屋の聖なる⟨所⟩。",
+  "tokens": [
+    {
+      "surface": "נָהָ֗ר",
+      "gloss": "川"
+    },
+    {
+      "surface": "פְּלָגָ֗יו",
+      "gloss": "その分流"
+    },
+    {
+      "surface": "יְשַׂמְּח֥וּ",
+      "gloss": "喜ばせる"
+    },
+    {
+      "surface": "עִיר",
+      "gloss": "都"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "קְ֝דֹ֗שׁ",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "מִשְׁכְּנֵ֥י",
+      "gloss": "幕屋の"
+    },
+    {
+      "surface": "עֶלְיֽוֹן",
+      "gloss": "いと高き方"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:20.664864633Z",
+  "model": "glm-5.2"
+}

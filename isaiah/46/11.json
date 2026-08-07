@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 46:11",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "東から猛禽を呼び、遠くの地からわたしの計画の男を呼ぶ。わたしは語った、わたしはまたそれをもたらす。わたしは形造った、わたしはまたそれを成す。",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "呼ぶ"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "東から"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "猛禽を"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "地から"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "遠くの"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男を"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "わたしの計画の"
+    },
+    {
+      "surface": "אף",
+      "gloss": "また"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "わたしは語った"
+    },
+    {
+      "surface": "אף",
+      "gloss": "また"
+    },
+    {
+      "surface": "אביאנה",
+      "gloss": "わたしはそれをもたらす"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "わたしは形造った"
+    },
+    {
+      "surface": "אף",
+      "gloss": "また"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "わたしはそれを成す"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:50.025323073Z",
+  "model": "glm-5.2"
+}

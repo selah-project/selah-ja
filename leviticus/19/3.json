@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "各々その母と父を畏れよ。そして ⟨את⟩ 私の安息日を守れ。私があなたがたのエロヒム、ヤハウェである。",
+  "tokens": [
+    {
+      "surface": "אִישׁ",
+      "gloss": "各々"
+    },
+    {
+      "surface": "אִמּוֹ",
+      "gloss": "その母"
+    },
+    {
+      "surface": "וְאָבִיו",
+      "gloss": "と父"
+    },
+    {
+      "surface": "תִּירָאוּ",
+      "gloss": "畏れよ"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "私の安息日"
+    },
+    {
+      "surface": "שַׁבְּתֹתַי",
+      "gloss": "私の安息日"
+    },
+    {
+      "surface": "תִּשְׁמֹרוּ",
+      "gloss": "守れ"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "私"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶם",
+      "gloss": "あなたがたのエロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:44.180185206Z",
+  "model": "glm-5.2"
+}

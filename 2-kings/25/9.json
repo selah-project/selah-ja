@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして彼は⟨את⟩ヤハウェの家と、⟨את⟩王の家と、⟨את⟩エルサレムのすべての家々を火で焼いた。すなわち、すべての大きな家を彼は火で焼いた。",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "そして彼は焼いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "家々"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "エルサレム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大きな"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "焼いた"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:19:41.978223385Z",
+  "model": "glm-5.2"
+}

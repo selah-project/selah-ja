@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 21:10",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてすべての肉は知るであろう。わたしこそヤハウェであることを。わたしがわたしの⟨剣を⟩鞘から出した⟨のを⟩。それはもはや戻らない。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "戻る"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "そして…知る"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉は"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…であることを"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしこそ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "わたしが出した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの剣を"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "わたしの剣"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "鞘から"
+    }
+  ],
+  "timestamp": "2026-08-07T14:35:31.565103443Z",
+  "model": "glm-5.2"
+}

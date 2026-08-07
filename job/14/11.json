@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "水が海から去り、川が干上がり、そして乾くように、",
+  "tokens": [
+    {
+      "surface": "אָֽזְלוּ",
+      "gloss": "去り"
+    },
+    {
+      "surface": "מַ֭יִם",
+      "gloss": "水が"
+    },
+    {
+      "surface": "מִנִּי",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "יָ֑ם",
+      "gloss": "海"
+    },
+    {
+      "surface": "וְ֝נָהָ֗ר",
+      "gloss": "川が"
+    },
+    {
+      "surface": "יֶחֱרַ֥ב",
+      "gloss": "干上がり"
+    },
+    {
+      "surface": "וְיָבֵֽשׁ",
+      "gloss": "そして乾く"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:47.490474719Z",
+  "model": "glm-5.2"
+}

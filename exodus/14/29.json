@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 14:29",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてイスラエルの子らは乾いた地の上を海のただ中を歩いた。水は彼らの右と左から⟨彼らにとって⟩壁となった。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "そして…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "歩いた"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "乾いた地の上を"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "…のただ中を"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "そして水は"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らにとって"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "壁"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "彼らの右から"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "そして左から"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:25.202267294Z",
+  "model": "glm-5.2"
+}

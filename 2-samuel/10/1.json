@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてこうなった後、アンモンの人々の王が死に、ハヌンがその子が彼に代わって王となった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうなった"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…の後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "これ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "死んだ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アンモン"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "ハヌン"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代わって"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:58.991249438Z",
+  "model": "glm-5.2"
+}

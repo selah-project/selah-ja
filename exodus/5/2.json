@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ファラオは言った。「ヤハウェとは何者か。私がその声を聞いて、⟨את⟩イスラエルを去らせるというのか。私はヤハウェを知らない。ましてや⟨את⟩イスラエルも去らせない。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ファラオは"
+    },
+    {
+      "surface": "מי",
+      "gloss": "何者か"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェとは"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜なので"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "私が聞いて"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "その声を"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "去らせる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "私は知らない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェを"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ましてや"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルも"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "去らせない"
+    }
+  ],
+  "timestamp": "2026-08-07T16:27:07.021062536Z",
+  "model": "glm-5.2"
+}

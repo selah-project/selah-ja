@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 56,
+  "translation": "私の敵は貪り食う、終日。大いなる高き方、彼らは多く、私に向かって戦うので。",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "貪り食う"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "私の敵は"
+    },
+    {
+      "surface": "כל",
+      "gloss": "〜のすべて"
+    },
+    {
+      "surface": "היום",
+      "gloss": "終日"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ので"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "彼らは多く"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "戦う"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に向かって"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "大いなる高き方"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:44.637192804Z",
+  "model": "glm-5.2"
+}

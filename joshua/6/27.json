@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ヤハウェは⟨את⟩ ヨシュアと共におられた。彼の名声は全地にわたった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜であった"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨシュア"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜であった"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "彼の名声"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:25:23.634376534Z",
+  "model": "glm-5.2"
+}

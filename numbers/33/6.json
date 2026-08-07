@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "スコテから旅立ち、荒野の縁にあるエタムに宿営した。",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "旅立ち"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "スコテから"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "宿営した"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "エタムに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～にある"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "縁に"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "荒野の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:04:45.775650565Z",
+  "model": "glm-5.2"
+}

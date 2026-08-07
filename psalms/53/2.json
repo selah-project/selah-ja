@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 53,
+  "translation": "愚か者は⟨自分の⟩心の中で言った、「いない、エロヒームは。」彼らは腐敗し、不法なことを忌まわしく行なった。善を行なう者はいない。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "愚か者"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "心の中で"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒーム"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "腐敗した"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "忌まわしく行なった"
+    },
+    {
+      "surface": "עול",
+      "gloss": "不法"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行なう者"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:22.275215784Z",
+  "model": "glm-5.2"
+}

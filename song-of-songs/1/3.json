@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "あなたの香油の香りのために — あなたの名は注がれた香油。それゆえ、おとめたちがあなたを愛した。",
+  "tokens": [
+    {
+      "surface": "לְרֵ֨יחַ֙",
+      "gloss": "〜の香りのために"
+    },
+    {
+      "surface": "שְׁמָנֶ֣יךָ",
+      "gloss": "あなたの香油"
+    },
+    {
+      "surface": "טוֹבִ֔ים",
+      "gloss": "良い"
+    },
+    {
+      "surface": "שֶׁ֖מֶן",
+      "gloss": "香油"
+    },
+    {
+      "surface": "תּוּרַ֣ק",
+      "gloss": "注がれた"
+    },
+    {
+      "surface": "שְׁמֶ֑ךָ",
+      "gloss": "あなたの名"
+    },
+    {
+      "surface": "עַל־כֵּ֖ן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "עֲלָמ֥וֹת",
+      "gloss": "おとめたちは"
+    },
+    {
+      "surface": "אֲהֵבֽוּךָ",
+      "gloss": "あなたを愛した"
+    }
+  ],
+  "timestamp": "2026-08-07T13:32:46.127196673Z",
+  "model": "glm-5.2"
+}

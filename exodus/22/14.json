@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "もしその所有者が共にいたなら、彼は償わない。もしそれが雇いの⟨もの⟩なら、彼はその賃金のために⟨来ている⟩。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "その所有者が"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "共にいたなら"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "償う"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "雇いの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来ている"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "その賃金のために"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:04.780445995Z",
+  "model": "glm-5.2"
+}

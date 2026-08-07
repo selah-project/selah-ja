@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 19:7",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "見よ、わたしは彼に霊を授け、彼は報告を聞いて自分の地へ帰る。そしてわたしは彼を剣によって彼の地で倒す。」",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "見よ、わたしは"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "授ける"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "そして聞く"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "報告"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "そして帰る"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "自分の地へ"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "そしてわたしは彼を倒す"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "剣によって"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "彼の地で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:15:54.825929941Z",
+  "model": "glm-5.2"
+}

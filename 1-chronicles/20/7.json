@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そして彼はイスラエルをそしったが、エホナタン — シマアの子、ダビデの兄弟 — が彼を打った。",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "そして彼はそしった"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "そして彼を打った"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "エホナタン"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "シマア"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "〜の兄弟"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデ"
+    }
+  ],
+  "timestamp": "2026-08-07T17:36:07.187751068Z",
+  "model": "glm-5.2"
+}

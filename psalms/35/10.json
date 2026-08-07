@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "私のすべての骨々は言う、ヤハウェよ、あなたのような方は誰か、強い者から貧しい者を救い出す方、略奪者から貧しい者と乏しい者を⟨救い出す方⟩。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "私の骨々は"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "言う"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "あなたのような"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "救い出す方"
+    },
+    {
+      "surface": "עני",
+      "gloss": "貧しい者を"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "強い者から"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "その者から"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "そして貧しい者と"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "乏しい者を"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "その略奪者から"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:59.082352644Z",
+  "model": "glm-5.2"
+}

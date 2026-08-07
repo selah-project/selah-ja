@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そして、もしあなたたちが割礼を受けるために私たちに聞き従わないなら、私たちは娘を取って、去って行く」",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "あなたたちは聞き従う"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "私たちに"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "割礼を受けるために"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "そして私たちは取る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "娘"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "私たちの娘"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "そして私たちは去って行く"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:28.995078385Z",
+  "model": "glm-5.2"
+}

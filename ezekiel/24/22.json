@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 24:22",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "あなたがたはわたしがしたようにするであろう — 上唇を覆ってはならない、人々のパンを食べてはならない",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "そしてあなたがたはするであろう"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "わたしがした"
+    },
+    {
+      "surface": "על",
+      "gloss": "に"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "上唇"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תעטו",
+      "gloss": "覆っては"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "そしてパン"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人々の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "食べては"
+    }
+  ],
+  "timestamp": "2026-08-07T12:09:01.337759124Z",
+  "model": "glm-5.2"
+}

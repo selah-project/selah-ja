@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてこうなった — 王ヒズキヤが⟨これを⟩聞いたとき、彼は⟨自分の⟩衣服を引き裂き、荒布をまとって、ヤハウェの家に入った。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "こうなった"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "聞いたとき"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ヒズキヤ"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "引き裂いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "衣服"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "⟨自分の⟩衣服"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "まとった"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "荒布を"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入った"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:31.566160986Z",
+  "model": "glm-5.2"
+}

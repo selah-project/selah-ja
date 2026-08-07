@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 52:17",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "そして⟨את⟩ ヤハウェの家に属する青銅の柱と、⟨את⟩ 台座と、⟨את⟩ ヤハウェの家にある青銅の海を、カルデヤ人は打ち砕き、彼らはその青銅のすべてをバビロンへ運び去った。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "青銅の柱"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "〜の柱"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜に属する"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "〜の家に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "台座"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "台座"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "海"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜にある"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "〜の家に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "打ち砕いた"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "カルデヤ人は"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "そして運び去った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "נחשתם",
+      "gloss": "彼らの青銅を"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "バビロンへ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:00:31.703105872Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 4:21",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "これ⟨が⟩、王よ、解釈である。そして⟨それは⟩いと高き方の宣告であって、わが主、王に下ったものである。",
+  "tokens": [
+    {
+      "surface": "דְּנָ֥ה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "פִשְׁרָ֖א",
+      "gloss": "解釈"
+    },
+    {
+      "surface": "מַלְכָּ֑א",
+      "gloss": "王よ"
+    },
+    {
+      "surface": "וּגְזֵרַ֤ת",
+      "gloss": "そして宣告"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "いと高き方の"
+    },
+    {
+      "surface": "הִ֔יא",
+      "gloss": "⟨それ⟩⟨は⟩"
+    },
+    {
+      "surface": "דִּ֥י",
+      "gloss": "～である"
+    },
+    {
+      "surface": "מְטָ֖ת",
+      "gloss": "下った"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "～の上に"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "わが主"
+    },
+    {
+      "surface": "מַלְכָּֽא",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-08-07T13:45:50.947291270Z",
+  "model": "glm-5.2"
+}

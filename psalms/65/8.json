@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 65,
+  "translation": "海の轟き、その波の轟き、そして国々の騒ぎを鎮める方。",
+  "tokens": [
+    {
+      "surface": "מַשְׁבִּ֤יחַ",
+      "gloss": "鎮める方"
+    },
+    {
+      "surface": "שְׁא֣וֹן",
+      "gloss": "轟きを"
+    },
+    {
+      "surface": "יַ֭מִּים",
+      "gloss": "海の"
+    },
+    {
+      "surface": "שְׁא֥וֹן",
+      "gloss": "轟きを"
+    },
+    {
+      "surface": "גַּלֵּיהֶ֗ם",
+      "gloss": "その波の"
+    },
+    {
+      "surface": "וַהֲמ֥וֹן",
+      "gloss": "そして騒ぎを"
+    },
+    {
+      "surface": "לְאֻמִּֽים",
+      "gloss": "国々の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:29.976696878Z",
+  "model": "glm-5.2"
+}

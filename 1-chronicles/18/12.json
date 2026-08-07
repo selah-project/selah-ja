@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてツルヤの子アブシャイは、塩の谷でエドムを打ち破った — 一万八千。",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "そしてアブシャイ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ツルヤ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "打ち破った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エドム"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドムを"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "…の谷で"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "塩"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "八"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-08-07T14:06:53.135479115Z",
+  "model": "glm-5.2"
+}

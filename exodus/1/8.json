@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてミツライム（エジプト）の上に、ヨセフを知らない新しい王が立ち上がった。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして立ち上がった"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新しい"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨセフ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    }
+  ],
+  "timestamp": "2026-08-07T16:26:47.274821674Z",
+  "model": "glm-5.2"
+}

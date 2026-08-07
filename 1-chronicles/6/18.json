@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 6:18",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてこれらが立った者たち、その子らである。ケハティの子らから — 歌手ヘイマン、ヨエルの子、シェムエルの子。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "立った者たち"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "その子ら"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "～の子らから"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "ケハティの"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "ヘイマン"
+    },
+    {
+      "surface": "המשורר",
+      "gloss": "歌手"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ヨエル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シェムエル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:00.356144685Z",
+  "model": "glm-5.2"
+}

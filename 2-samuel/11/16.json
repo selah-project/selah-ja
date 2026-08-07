@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして、ヨアブが町に対して監視しているときに起こったのが、彼が⟨את⟩ウリヤを、勇士たちがいるのを知っていた場所に配置したことである。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜が起こった"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "監視しているとき"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして彼は配置した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ウリヤ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ウリヤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "場所"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこは"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "彼が知っていた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "〜の者たち"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:26:55.202164280Z",
+  "model": "glm-5.2"
+}

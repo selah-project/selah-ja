@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "それがあなただった — 人、私と等しい者、私の親友、私の知人。",
+  "tokens": [
+    {
+      "surface": "וְאַתָּ֣ה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "אֱנ֣וֹשׁ",
+      "gloss": "人"
+    },
+    {
+      "surface": "כְּעֶרְכִּ֑י",
+      "gloss": "私と等しい者"
+    },
+    {
+      "surface": "אַ֝לּוּפִ֗י",
+      "gloss": "私の親友"
+    },
+    {
+      "surface": "וּמְיֻדָּֽעִי",
+      "gloss": "私の知人"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:39.393956843Z",
+  "model": "glm-5.2"
+}

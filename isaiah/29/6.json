@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "万軍のヤハウェの御許から、彼女は訪れられる——雷とともに、地震とともに、大いなる声とともに、暴風とつむじ風と、焼き尽くす火の炎とともに。",
+  "tokens": [
+    {
+      "surface": "מעם",
+      "gloss": "〜の御許から"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "万軍の"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "訪れられる"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "雷とともに"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "地震とともに"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "声とともに"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "暴風"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "つむじ風"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "炎"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火の"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "焼き尽くす"
+    }
+  ],
+  "timestamp": "2026-08-07T11:28:01.405661592Z",
+  "model": "glm-5.2"
+}

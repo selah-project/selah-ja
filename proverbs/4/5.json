@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "知恵を得よ、悟りを得よ。忘れるな、わたしの口のことばから傾くな。",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "得よ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵を"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "得よ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "悟りを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "忘れる"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜な"
+    },
+    {
+      "surface": "תט",
+      "gloss": "傾く"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "פי",
+      "gloss": "わたしの口のことば"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:11.604001717Z",
+  "model": "glm-5.2"
+}

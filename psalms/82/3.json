@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 82,
+  "translation": "弱き者と孤児を裁き、苦しむ者と貧しき者を義とせよ。",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "裁け"
+    },
+    {
+      "surface": "דל",
+      "gloss": "弱き者"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "〜と孤児"
+    },
+    {
+      "surface": "עני",
+      "gloss": "苦しむ者"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "〜と貧しき者"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "義とせよ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:28.933390049Z",
+  "model": "glm-5.2"
+}

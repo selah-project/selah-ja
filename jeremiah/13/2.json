@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして私はヤハウェのことばの通りに、その⟨את⟩帯を買い、私の腰に着けた。",
+  "tokens": [
+    {
+      "surface": "וָאֶקְנֶ֥ה",
+      "gloss": "そして私は買った"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "その帯"
+    },
+    {
+      "surface": "הָאֵז֖וֹר",
+      "gloss": "帯を"
+    },
+    {
+      "surface": "כִּדְבַ֣ר",
+      "gloss": "…の通りに"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "וָאָשִׂ֖ם",
+      "gloss": "私は着けた"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "מָתְנָֽי",
+      "gloss": "私の腰"
+    }
+  ],
+  "timestamp": "2026-08-07T11:45:57.572814601Z",
+  "model": "glm-5.2"
+}

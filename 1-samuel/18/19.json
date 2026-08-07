@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして、シャウルの娘メラブをダビドに与える時になったが、彼女はアドリエル・メホラテ人に妻として与えられた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "時になった"
+    },
+    {
+      "surface": "תת",
+      "gloss": "与える"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "メラブ"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "メラブ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルの"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビドに"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "彼女は"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "与えられた"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "アドリエルに"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "メホラテ人の"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "妻として"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:37.896343750Z",
+  "model": "glm-5.2"
+}

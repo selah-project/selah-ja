@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "そして彼らは雄羊⟨את⟩と穀物の供え物⟨את⟩と油⟨את⟩を、朝ごとに朝ごとに作らなければならない。絶えず続く全焼の供え物として。",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "そして彼らは作らなければならない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その雄羊"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "その雄羊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "その穀物の供え物"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "その油"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ごとに朝"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "全焼の供え物"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "絶えず"
+    }
+  ],
+  "timestamp": "2026-08-07T12:15:30.392763491Z",
+  "model": "glm-5.2"
+}

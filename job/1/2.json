@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "彼に七人の息子と三人の娘が生まれた。",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七人の"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "三人の"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "娘が"
+    }
+  ],
+  "timestamp": "2026-08-07T13:19:15.979134092Z",
+  "model": "glm-5.2"
+}

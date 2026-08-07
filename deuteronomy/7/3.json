@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "彼らと姻戚関係を結んではならない。あなたの娘を彼の息子に与えてはならない。彼の娘をあなたの息子のために娶ってはならない。",
+  "tokens": [
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תִתְחַתֵּ֖ן",
+      "gloss": "姻戚関係を結ぶ"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "彼らと"
+    },
+    {
+      "surface": "בִּתְּךָ֙",
+      "gloss": "あなたの娘を"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תִתֵּ֣ן",
+      "gloss": "与えては"
+    },
+    {
+      "surface": "לִבְנ֔וֹ",
+      "gloss": "彼の息子に"
+    },
+    {
+      "surface": "וּבִתּ֖וֹ",
+      "gloss": "彼の娘を"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תִקַּ֥ח",
+      "gloss": "娶っては"
+    },
+    {
+      "surface": "לִבְנֶֽךָ",
+      "gloss": "あなたの息子のために"
+    }
+  ],
+  "timestamp": "2026-08-07T10:09:47.415390249Z",
+  "model": "glm-5.2"
+}

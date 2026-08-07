@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "自然死した⟨獣⟩の脂肪と、引き裂かれた⟨獣⟩の脂肪は、あらゆる仕事に用いてもよいが、あなたがたはそれを食べてはならない。",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "そして脂肪"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "自然死した⟨獣⟩の"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "と脂肪"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "引き裂かれた⟨獣⟩の"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "用いてもよい"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "あらゆる"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "仕事に"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "そして食べること"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "あなたがたはそれを食べては"
+    }
+  ],
+  "timestamp": "2026-08-07T09:33:40.634147747Z",
+  "model": "glm-5.2"
+}

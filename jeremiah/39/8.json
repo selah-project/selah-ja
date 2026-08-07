@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そして⟨את⟩王の家と⟨את⟩民の家を、カルデア人は火で焼き払った。また⟨את⟩イェルシャライムの城壁を、彼らは取り壊した。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "王の家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "民の家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "焼き払った"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "カルデア人は"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "イェルシャライムの城壁"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "…の城壁を"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライム"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "取り壊した"
+    }
+  ],
+  "timestamp": "2026-08-07T11:53:23.026278716Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 150,
+  "translation": "彼を鳴り響くシンバルで賛美せよ、彼を歓呼のシンバルで賛美せよ。",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "彼を賛美せよ"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "シンバルで"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "鳴り響く"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "彼を賛美せよ"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "シンバルで"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "歓呼"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:06.514024755Z",
+  "model": "glm-5.2"
+}

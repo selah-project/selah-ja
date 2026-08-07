@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "⟨את⟩彼らの羊と⟨את⟩彼らの牛と⟨את⟩彼らのろばと、⟨את⟩町にあるものと⟨את⟩野にあるものを取った。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの羊"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "彼らの羊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの牛"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "彼らの牛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼らのろば"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "彼らのろば"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "町にあるもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところのもの"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町にある"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "野にあるもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところのもの"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "野にある"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "取った"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:07.748574299Z",
+  "model": "glm-5.2"
+}

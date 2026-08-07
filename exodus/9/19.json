@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "それゆえ今、急いであなたの家畜と、野外にあるあなたのすべてのものを集めよ。⟨את⟩あなたの家畜と⟨את⟩すべてを。野外に見つかるすべての人と家畜で、家に集め入れられない者はみな、雹が彼らの上に降り、彼らは死ぬ。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "それゆえ今"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "遣らせよ"
+    },
+    {
+      "surface": "העז",
+      "gloss": "急いで"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの家畜"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "あなたの家畜"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたの"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "野外にある"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "と家畜"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜者が"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "見つかる"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "野外に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "集め入れられ"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "家に"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "降り"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "彼らの上に"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "雹が"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "死ぬ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:32.617391755Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "正しい者の災いは多い、しかしヤハウェはそのすべてから彼を救い出される。",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "多い"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "災いは"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しい者の"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "しかしそのすべてから"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "彼を救い出される"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:42.715655194Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "銀の縄が断たれず、金の鉢が砕かれず、水甕が泉で割られず、車輪が井戸へ砕かれないうちに ⟨——⟩。",
+  "tokens": [
+    {
+      "surface": "עַ֣ד",
+      "gloss": "〜のうちに"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "⟨——⟩"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "〜ず"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "断たれ"
+    },
+    {
+      "surface": "חֶ֣בֶל",
+      "gloss": "縄"
+    },
+    {
+      "surface": "הַכֶּ֔סֶף",
+      "gloss": "銀の"
+    },
+    {
+      "surface": "וְתָרֻ֖ץ",
+      "gloss": "砕かれ"
+    },
+    {
+      "surface": "גֻּלַּ֣ת",
+      "gloss": "鉢"
+    },
+    {
+      "surface": "הַזָּהָ֑ב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "וְתִשָּׁ֤בֶר",
+      "gloss": "割られ"
+    },
+    {
+      "surface": "כַּד֙",
+      "gloss": "水甕"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜で"
+    },
+    {
+      "surface": "הַמַּבּ֔וּעַ",
+      "gloss": "泉"
+    },
+    {
+      "surface": "וְנָרֹ֥ץ",
+      "gloss": "砕かれ"
+    },
+    {
+      "surface": "הַגַּלְגַּ֖ל",
+      "gloss": "車輪"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הַבּֽוֹר",
+      "gloss": "井戸"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:42.666201300Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "すべてのこと ⟨に⟩ 定められた時があり、天の下のすべての願いごと ⟨に⟩ 時がある。",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "すべてのことに"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "定められた時"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "そして時"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべてのことに"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "願いごと"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:20.324123507Z",
+  "model": "glm-5.2"
+}

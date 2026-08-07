@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "ヤアコブはラヘルに怒りを燃やし、言った。「私がエロヒムの代わりなのか。⟨あなた⟩から胎の実を閉ざしたのは ⟨エロヒム⟩ だ。」",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "怒りが燃えた"
+    },
+    {
+      "surface": "אף",
+      "gloss": "鼻息→怒り"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "ラヘルに"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "〜の代わりなのか"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である方"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "閉ざした"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "あなたから"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "実を"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "胎の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:46.414900055Z",
+  "model": "glm-5.2"
+}

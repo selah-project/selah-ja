@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "「そしてモアブにおいてわたしは裁きを行う。そして彼らは知る — わたしがヤハウェであることを。」",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "そしてモアブにおいて"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "わたしは行う"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "裁き"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "そして彼らは知る"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:09:03.018516871Z",
+  "model": "glm-5.2"
+}

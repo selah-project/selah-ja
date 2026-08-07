@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "私は ⟨את⟩ 全 ⟨の⟩ 生きている者たちで、太陽の下を歩く者たちを、彼の代わりに立つ第二の若者と共に ⟨いるのを⟩ 見た。",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全の生きている者たち"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "生きている者たち"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "歩く者たち"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "その若者"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼の代わりに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:29.072420194Z",
+  "model": "glm-5.2"
+}

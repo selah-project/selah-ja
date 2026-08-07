@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "アビメレクは言った。「見よ、私の地はあなたの前にある。あなたの目に良いところに住みなさい。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "…は言った"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "アビメレク"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "私の地"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "あなたの前に"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "…に良い"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "あなたの目"
+    },
+    {
+      "surface": "שב",
+      "gloss": "住みなさい"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:39.862165812Z",
+  "model": "glm-5.2"
+}

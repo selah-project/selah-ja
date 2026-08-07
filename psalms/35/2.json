@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "小盾と大盾を握りしめ、私の助けのために立ち上がれ。",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "握りしめよ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "小盾"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "と大盾"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "立ち上がれ"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "私の助け"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:50.650591984Z",
+  "model": "glm-5.2"
+}

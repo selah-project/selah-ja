@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "鷲の道 —— 天において。蛇の道 —— 岩の上に。船の道 —— 海の真中に。そして男の道 —— 若い女の ⟨うちに⟩。",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "鷲の"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "天において"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇の"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "上に"
+    },
+    {
+      "surface": "צור",
+      "gloss": "岩の"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "船の"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "真中に"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海の"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "そして道"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "男の"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "若い女の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:16.399290946Z",
+  "model": "glm-5.2"
+}

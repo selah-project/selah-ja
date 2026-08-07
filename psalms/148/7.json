@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 148,
+  "translation": "地から ⟨את⟩ ヤハウェを賛美せよ、海の獣たち、およびすべての深淵よ。",
+  "tokens": [
+    {
+      "surface": "הַֽלְל֣וּ",
+      "gloss": "賛美せよ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "תַּ֝נִּינִ֗ים",
+      "gloss": "海の獣たち"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "およびすべての"
+    },
+    {
+      "surface": "תְּהֹמֽוֹת",
+      "gloss": "深淵"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:53.315369709Z",
+  "model": "glm-5.2"
+}

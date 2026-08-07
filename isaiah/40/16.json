@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "レバノンは燃やすのに十分でなく、その獣たちも全焼の生贄に十分でない。",
+  "tokens": [
+    {
+      "surface": "וּלְבָנ֕וֹן",
+      "gloss": "そしてレバノン"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "דֵּ֖י",
+      "gloss": "十分"
+    },
+    {
+      "surface": "בָּעֵ֑ר",
+      "gloss": "燃やすのに"
+    },
+    {
+      "surface": "וְחַיָּת֔וֹ",
+      "gloss": "そしてその獣たちも"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "דֵּ֖י",
+      "gloss": "十分"
+    },
+    {
+      "surface": "עוֹלָֽה",
+      "gloss": "全焼の生贄に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:18.262808960Z",
+  "model": "glm-5.2"
+}

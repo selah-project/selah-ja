@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして乳飲み子はコブラの穴の上で遊び、乳離れの子はマムシの隠れ穴に手を伸べる。",
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "そして遊ぶ"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "乳飲み子"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "חר",
+      "gloss": "穴"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "コブラ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "隠れ穴"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "マムシ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "乳離れの子"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "伸べる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:44.147158187Z",
+  "model": "glm-5.2"
+}

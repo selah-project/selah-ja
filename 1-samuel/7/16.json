@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして彼は年ごとに巡回した。ベート・エル、ギルガル、ミツパを巡り、これらのすべての場所で⟨את⟩イスラエルをさばいた。",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "そして…巡回した"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "…ごとに"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "年に"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "そして…巡った"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベート・"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "ギルガル、"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "ミツパを"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "そして…さばいた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルを"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルを"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらのすべての場所で"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "場所で"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:39.965749509Z",
+  "model": "glm-5.2"
+}

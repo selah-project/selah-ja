@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてケイシュはシャウルの父、ネルはアブネルの父、アブエルの子であった。",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "そしてケイシュ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "…の父"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "そしてネル"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "…の父"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "アブネル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "アブエル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:55.977466516Z",
+  "model": "glm-5.2"
+}

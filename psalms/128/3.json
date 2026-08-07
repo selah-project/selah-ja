@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 128,
+  "translation": "あなたの妻は実を結ぶぶどうの木のように、あなたの家の奥に。あなたの子らはオリーブの若木のように、あなたの食卓を囲む。",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "あなたの妻"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "ぶどうの木のように"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "実を結ぶ"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "奥に"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "あなたの家の"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "あなたの子ら"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "若木のように"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "オリーブの"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "囲む"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "あなたの食卓を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:16.741180929Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてオメルは、そのエパの十分の一である。",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "そしてそのオメルは"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "十分の一"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "そのエパの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨である⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:43.077790808Z",
+  "model": "glm-5.2"
+}

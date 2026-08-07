@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 65,
+  "translation": "あなたはあなたの豊かな恵みの年を戴冠させる。あなたの道筋は豊かな油を滴らせる。",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "あなたは戴冠させる"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "〜の年を"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "あなたの豊かな恵み"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "そしてあなたの道筋"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "滴らせる"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "豊かな油を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:26.816013029Z",
+  "model": "glm-5.2"
+}

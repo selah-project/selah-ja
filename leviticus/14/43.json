@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 14:43",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "もし⟨את⟩石を抜き取り、⟨את⟩家を削り取り、そして塗った後に、病変が戻り、その家の中で広がるなら、",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "戻る"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "その病変が"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "そして広がる"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "家の中で"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "後に"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "抜き取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "石"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "その石を"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "そして後に"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "削り取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家を"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "そして後に"
+    },
+    {
+      "surface": "הטוח",
+      "gloss": "塗った"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:59.045308759Z",
+  "model": "glm-5.2"
+}

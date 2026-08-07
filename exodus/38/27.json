@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 38:27",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そして百タラントの銀は、聖所の台座と垂れ幕の台座を鋳造するための⟨もの⟩であった。⟨את⟩ 聖所の台座を、⟨את⟩ 垂れ幕の台座を。百の台座を百タラントで、一タラントを一台座に。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…であった"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "百"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "タラント"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "לצקת",
+      "gloss": "鋳造するための"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "聖所の台座を"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "台座"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "垂れ幕の台座を"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "台座"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "垂れ幕の"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "百"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "台座"
+    },
+    {
+      "surface": "למאת",
+      "gloss": "百…のために"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "タラント"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "一タラント"
+    },
+    {
+      "surface": "לאדן",
+      "gloss": "一台座に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:37.752646633Z",
+  "model": "glm-5.2"
+}

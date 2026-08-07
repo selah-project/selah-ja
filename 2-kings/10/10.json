@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 10:10",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "今、知れ。ヤハウェがアハブの家について語られたヤハウェのことばは、一つも地に落ちないことを。ヤハウェは⟨彼の⟩奴隷エリヤフの手によって語られた⟨こと⟩を行われたのである。",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "知れ"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "今"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "落ちる"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "…のことば"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜が"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "アハブの"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "そしてヤハウェは"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行われた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "語られたこと"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…の手によって"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "彼の奴隷"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "エリヤフ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:28:27.410223719Z",
+  "model": "glm-5.2"
+}

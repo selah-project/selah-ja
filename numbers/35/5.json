@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 35:5",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そしてあなたがたは町の外側に測りなさい ⟨את⟩ 東側 二千アンマ、そして⟨את⟩ 南側 二千アンマ、そして⟨את⟩ 海側 二千アンマ、そして⟨את⟩ 北側 二千アンマ、そして町は⟨真ん中に⟩ ある。これが彼らにとって町の牧草地となる。",
+  "tokens": [
+    {
+      "surface": "ומדתם",
+      "gloss": "そしてあなたがたは測りなさい"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外側に"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "町の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "東側"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "側"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "東"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "二千"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "南側"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "側"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "南"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "二千"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "海側"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "側"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海（西）"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "二千"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "北側"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "側"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "二千"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "そして町は"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "真ん中に"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "となる"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らにとって"
+    },
+    {
+      "surface": "מגרשי",
+      "gloss": "牧草地"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "町の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:05:30.900953264Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "ダビデは、ハダデゼルの奴隷たちの上にあった⟨את⟩金の盾を取り、それらをエルシャライムに運び込んだ。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして…取った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "金の盾"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "盾"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…もの"
+    },
+    {
+      "surface": "היו",
+      "gloss": "あった"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "奴隷たち"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ハダデゼルの"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "そして…運び込んだ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "エルシャライムに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:32.876073720Z",
+  "model": "glm-5.2"
+}

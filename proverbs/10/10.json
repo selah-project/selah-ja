@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "目をぎゅろつかせる者は痛みを与える、そして唇の愚か者は打ち倒される。",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "ぎゅろつかせる者は"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目を"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "痛みを"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "そして愚か者は"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "唇の"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "打ち倒される"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:15.976675256Z",
+  "model": "glm-5.2"
+}

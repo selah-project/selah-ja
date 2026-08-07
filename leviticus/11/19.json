@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "および⟨את⟩コウノトリ、サギはその種類にしたがい、および⟨את⟩ヤツガシラ、および⟨את⟩コウモリ、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "コウノトリ"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "コウノトリ"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "サギ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "その種類にしたがい"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "ヤツガシラ"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "ヤツガシラ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "コウモリ"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "コウモリ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:27.649560255Z",
+  "model": "glm-5.2"
+}

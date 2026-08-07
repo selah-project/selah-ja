@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "その月の九日に、飢饉は町の中で激しくなり、土地の民のためのパンがなかった。",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "九日に"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "その月の"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "そして…は激しくなった"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "飢饉は"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町の中で"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…なかった"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンが"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "…のための"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地の民"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:21.141330475Z",
+  "model": "glm-5.2"
+}

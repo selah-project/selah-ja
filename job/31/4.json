@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "ヤハウェは私の道をご覧にならないのか。ヤハウェは私のすべての歩みを数えないのか。",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "〜ないのか"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ご覧にならない"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "私の道を"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "私のすべての"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "歩みを"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "数えない"
+    }
+  ],
+  "timestamp": "2026-08-07T13:27:44.699368484Z",
+  "model": "glm-5.2"
+}

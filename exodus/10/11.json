@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "いや、そうではない。今、男たち ⟨だけ⟩ が行って、ヤハウェに仕えよ。あなたがたが求めているのはそれだからだ。」⟨パロは⟩ ⟨את⟩ 彼らをパロの顔の前から追い出した。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "いや"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そうである"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "行け"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "男たち"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "仕えよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたがたは"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "求めている"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "追い出した"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜の前から"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔の"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:38.061774490Z",
+  "model": "glm-5.2"
+}

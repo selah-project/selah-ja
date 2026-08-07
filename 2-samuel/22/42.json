@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "彼らは助けを求めて見回したが、救う者はいない — ヤハウェに、しかし⟨彼は⟩彼らに答えなかった。",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "彼らは見回した"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "救う者は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜なかった"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "彼らに答え"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:49.707232640Z",
+  "model": "glm-5.2"
+}

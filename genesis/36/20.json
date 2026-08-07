@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "これらはホリ人セイルの息子たち — その地の住民たち — ロタン、ショバル、ツィブオン、アナ。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の息子たち"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "セイル"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "ホリ人"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "…の住民たち"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ロタン"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "およびショバル"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "およびツィブオン"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "およびアナ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:57.003483850Z",
+  "model": "glm-5.2"
+}

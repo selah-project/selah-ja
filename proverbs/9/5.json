@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "来い、わたしのパンを食べて、わたしが混ぜたぶどう酒を飲め。",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "来い"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "食べて"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "わたしのパンを"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "飲め"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "ぶどう酒を"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "わたしが混ぜた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:16.815439230Z",
+  "model": "glm-5.2"
+}

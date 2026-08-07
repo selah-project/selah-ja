@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ヘセドとエメット、あなたを見捨てるな。それらをあなたの首に結びつけよ、あなたの心の板に書き記せ。",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "ヘセドと"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "エメット"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "あなたを見捨てる"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "それらを結びつけよ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "あなたの首"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "それらを書き記せ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "板"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "あなたの心の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:54.976220564Z",
+  "model": "glm-5.2"
+}

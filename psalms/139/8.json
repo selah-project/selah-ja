@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 139,
+  "translation": "もし私が天に上れば、そこにあなたはいられる。もし私がシェオルに寝床を設ければ、見よ、そこにあなたはいられる。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "私が上れば"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天に"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたはいられる"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "もし私が設ければ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シェオルに"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "見よ、そこに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:26.892182738Z",
+  "model": "glm-5.2"
+}

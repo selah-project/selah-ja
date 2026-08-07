@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "シェラフは三十歳になって、⟨את⟩ エベルを生んだ。",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "シェラフは"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生きて"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エベル"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "エベル"
+    }
+  ],
+  "timestamp": "2026-08-07T16:23:04.741409548Z",
+  "model": "glm-5.2"
+}

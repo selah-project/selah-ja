@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "ま ヤハウェはこう言われる、あなたの砕かれた傷は不治である、あなたの打ち傷は重い。",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "ま"
+    },
+    {
+      "surface": "כֹ֥ה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אָמַ֛ר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אָנ֣וּשׁ",
+      "gloss": "不治である"
+    },
+    {
+      "surface": "לְשִׁבְרֵ֑ךְ",
+      "gloss": "あなたの砕かれた傷"
+    },
+    {
+      "surface": "נַחְלָ֖ה",
+      "gloss": "重い"
+    },
+    {
+      "surface": "מַכָּתֵֽךְ",
+      "gloss": "あなたの打ち傷"
+    }
+  ],
+  "timestamp": "2026-08-07T11:51:24.695499603Z",
+  "model": "glm-5.2"
+}

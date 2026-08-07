@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてヤハウェはノアに言われた。「あなたとあなたの全家は、箱舟に入りなさい。この世代のなかで、あなたを⟨את⟩、私の前に義なる者と見たからである。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "ノアに"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入りなさい"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そして…すべての"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "あなたの家"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "箱舟"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "あなたを"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義なる者"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前に"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "…の世代のなかに"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:06.617884709Z",
+  "model": "glm-5.2"
+}

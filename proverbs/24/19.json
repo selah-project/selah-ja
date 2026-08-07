@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 24:19",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "悪をなす者にあっては、あなたの心を燃やしてはならない。悪者にねたみを抱いてはならない。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "燃やして"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "悪をなす者にあっては"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ねたみを抱いて"
+    },
+    {
+      "surface": "ברשעים",
+      "gloss": "悪者に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:40.004942868Z",
+  "model": "glm-5.2"
+}

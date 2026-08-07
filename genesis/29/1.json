@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてヤアコブは足を上げ、歩いて、ケデムの子らの地へ向かった。",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "そして…上げた"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "彼の足"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして…歩いた"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地へ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ケデム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:51.374904579Z",
+  "model": "glm-5.2"
+}

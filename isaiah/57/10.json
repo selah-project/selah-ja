@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 57,
+  "translation": "あなたの道の多さに疲れても、あなたは「絶望した」と言わず、あなたの手の ⟨活力⟩ を見出した、それゆえ ⟨あなた⟩ は弱らなかった。",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "〜の多さに"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "あなたの道の"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "あなたは疲れた"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "あなたは言った"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "絶望した"
+    },
+    {
+      "surface": "חית",
+      "gloss": "活力"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手の"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "あなたは見出した"
+    },
+    {
+      "surface": "על",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "あなたは弱った"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:05.486701223Z",
+  "model": "glm-5.2"
+}

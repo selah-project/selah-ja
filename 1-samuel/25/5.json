@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "ダビデは十人の若者たちを遣わし、ダビデは若者たちに言った。「カルメル（の町）に上り、ナバルのもとへ行き、私の名によって彼にシャロームを尋ねよ」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…遣わした"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十人の"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "若者たちを"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "若者たちに"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "上れ"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "カルメルへ"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "そして…来い"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のもとへ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ナバル"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "そして…尋ねよ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "私の名において"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "シャロームを"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:45.168830278Z",
+  "model": "glm-5.2"
+}

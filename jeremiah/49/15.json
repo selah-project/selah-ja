@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 49:15",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "「まことに見よ、わたしはあなたを国々の中で小さい者とした。人々の中で卑しめられた者を。」",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "הִנֵּ֥ה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "קָטֹ֛ן",
+      "gloss": "小さい者"
+    },
+    {
+      "surface": "נְתַתִּ֖יךָ",
+      "gloss": "あなたを〜とした"
+    },
+    {
+      "surface": "בַּגּוֹיִ֑ם",
+      "gloss": "国々の中で"
+    },
+    {
+      "surface": "בָּז֖וּי",
+      "gloss": "卑しめられた者"
+    },
+    {
+      "surface": "בָּאָדָֽם",
+      "gloss": "人々の中で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:58:24.999165648Z",
+  "model": "glm-5.2"
+}

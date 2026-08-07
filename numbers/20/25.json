@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "アハロンと、その子エルアザルを連れて来て、⟨את⟩彼らをホル山へ導き上れ。",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "連れて来て"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アハロン"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "エルアザル"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "エルアザル"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "導き上れ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩彼らを",
+      "marks": "ホル山"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ホル山"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "その山"
+    }
+  ],
+  "timestamp": "2026-08-07T16:33:44.100756110Z",
+  "model": "glm-5.2"
+}

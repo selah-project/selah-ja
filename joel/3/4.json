@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 3:4",
+  "book": "joel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "太陽は闇に変わり、月は血に変わる — ヤハウェの大いなる恐るべき日が来る前に。",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "太陽は"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "変わる"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "闇に"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "そして月は"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "血に"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日が"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "そして恐るべき"
+    }
+  ],
+  "timestamp": "2026-08-07T12:21:19.952450403Z",
+  "model": "glm-5.2"
+}

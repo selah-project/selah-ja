@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてダヴィドは要塞に住んだ。それゆえ、彼らはそれをダヴィドの町と呼んだ。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして…住んだ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "要塞に"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に"
+    },
+    {
+      "surface": "כן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "彼らは…呼んだ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それを"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィドの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:42.863829236Z",
+  "model": "glm-5.2"
+}

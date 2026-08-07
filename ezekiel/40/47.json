@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして彼は⟨את⟩中庭を測った——長さ百アンマ、幅百アンマの四角形⟨である⟩。そして祭壇は家の前に⟨あった⟩。",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "そして彼は測った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "中庭"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "中庭"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長さ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "そして幅"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "四角形"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "そして祭壇"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家"
+    }
+  ],
+  "timestamp": "2026-08-07T12:14:34.458407954Z",
+  "model": "glm-5.2"
+}

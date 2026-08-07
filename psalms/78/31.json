@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "エロヒムの怒りが彼らに上って来て、彼らの最も肥えた者たちを殺し、イスラエルの若者たちを打ち倒した。",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "そして怒り"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上って来て"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "そして殺した"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "彼らの最も肥えた者たちを"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "そして〜の若者たち"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "打ち倒した"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:47.419312673Z",
+  "model": "glm-5.2"
+}

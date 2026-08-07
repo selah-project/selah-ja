@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "指導のない所では民は倒れ、助けは相談者の多さのうちにある。",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "ない所では"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "指導"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "倒れ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "そして助け"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "多さのうちに"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "相談者"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:54.434745423Z",
+  "model": "glm-5.2"
+}

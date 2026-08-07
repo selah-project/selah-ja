@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 15:6",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "ヤハウェあなたのエロヒムがあなたを祝福されるからである、 ⟨彼が⟩ あなたに語った通りに。そしてあなたは多くの国々に貸すが、あなた自身は借らない。そしてあなたは多くの国々を支配するが、彼らはあなたを支配しない。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒムが"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "あなたを祝福される"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜通りに"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "והעבטת",
+      "gloss": "あなたは貸す"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々に"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "あなた自身は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תעבט",
+      "gloss": "借りる"
+    },
+    {
+      "surface": "ומשלת",
+      "gloss": "あなたは支配する"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "国々を"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "あなたを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "彼らは支配する"
+    }
+  ],
+  "timestamp": "2026-08-07T10:14:04.480617467Z",
+  "model": "glm-5.2"
+}

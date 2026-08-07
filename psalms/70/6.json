@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 70,
+  "translation": "そして⟨私は⟩貧しく、悩める者である。エロヒムよ、私のもとに急げ。私の助け、私の逃れ場は⟨あなた⟩、ヤハウェよ。遅れてはならない。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "そして私は"
+    },
+    {
+      "surface": "עני",
+      "gloss": "貧しく"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "そして悩める者である"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "急げ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のもとに"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "私の助け"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "私の逃れ場"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "遅れては"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:31.405739121Z",
+  "model": "glm-5.2"
+}

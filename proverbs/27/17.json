@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "鉄は鉄によって鋭くされる、こうして人は⟨その⟩友の顔を鋭くする。",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "鉄は"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "鉄によって"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "鋭くされる"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "こうして人は"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "鋭くする"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…の顔を"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "その友"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:30.115167514Z",
+  "model": "glm-5.2"
+}

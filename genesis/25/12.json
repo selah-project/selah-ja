@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてこれらはイシュマエルの系譜である — アブラハムの子、ハガル・ハ・ミツリットがサラの女奴隷としてアブラハム⟨に⟩産んだ⟨者⟩、アブラハムの。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "系譜"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "イシュマエルの"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハムの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜⟨者⟩"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ハガル"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "ハ・ミツリット"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "女奴隷"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "サラの"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "アブラハム⟨に⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T16:24:14.342122781Z",
+  "model": "glm-5.2"
+}

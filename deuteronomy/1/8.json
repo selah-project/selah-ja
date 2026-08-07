@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "「見よ。私は⟨את⟩その地をあなたたちの前に置いた。入って行き、ヤハウェがあなたたちの先祖たち — アブラハム、イツハク、ヤアコブ — に、彼らとその後の子孫に与えると誓った⟨その⟩⟨את⟩地を所有せよ。」",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "私は与えた"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "あなたたちの前に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その地を"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "באו",
+      "gloss": "入って行け"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "所有せよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地を"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "誓われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "あなたたちの先祖たちに"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "アブラハムに"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "イツハクに"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ヤアコブに"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "与えるために"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "彼らの子孫に"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "彼らの後に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:08.941042107Z",
+  "model": "glm-5.2"
+}

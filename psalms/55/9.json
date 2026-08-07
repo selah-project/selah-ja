@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "私を急がせてください、逃れ場へ —— 暴風と暴風から。",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "私を急がせてください"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "逃れ場"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "〜から風"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "荒れ狂う"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "〜から暴風"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:59.363648985Z",
+  "model": "glm-5.2"
+}

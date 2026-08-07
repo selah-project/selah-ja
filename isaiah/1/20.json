@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "だがもし ⟨あなたたちが⟩ 拒み、そして反逆するなら、剣が ⟨あなたたちを⟩ 食べる。ヤハウェの口が語ったのだから。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "だがもし"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "拒み"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "そして反逆する"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣が"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜のだから"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口が"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語った"
+    }
+  ],
+  "timestamp": "2026-08-07T11:19:39.682346722Z",
+  "model": "glm-5.2"
+}

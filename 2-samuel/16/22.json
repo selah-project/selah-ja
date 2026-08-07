@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 16:22",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "彼らはアブシャロムのために屋上に天幕を張った。そしてアブシャロムは、すべてのイスラエルの目の前で、父の側女たちのところへ入った。",
+  "tokens": [
+    {
+      "surface": "ויטו",
+      "gloss": "そして張った"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "アブシャロムのために"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "天幕を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "屋上"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして入った"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "アブシャロムは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "פלגשי",
+      "gloss": "側女たちの"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "父の"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "目の前で"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:53:54.579821885Z",
+  "model": "glm-5.2"
+}

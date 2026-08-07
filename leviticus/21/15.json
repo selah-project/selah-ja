@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして彼は自分の種を自分の民のうちに汚してはならない。わたしが彼を聖別するヤハウェであるから。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "彼は汚しては"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "自分の種を"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "自分の民のうちに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜であるから"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "彼を聖別する"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:22.322089912Z",
+  "model": "glm-5.2"
+}

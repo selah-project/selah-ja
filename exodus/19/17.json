@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてモーセは⟨את⟩民を宿営から出てエロヒムに会うために導いた。そして彼らは山のふもとに立った。",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "そして…導き出した"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "…に会うために"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "宿営"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "そして彼らは立った"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "…のふもとに"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    }
+  ],
+  "timestamp": "2026-08-07T09:20:25.689794924Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "ヤハウェは彼を打たれたのか、彼を打つ者たちを打たれたように。彼の殺された者たちの虐殺のように、彼は殺されたのか。",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "〜のように打たれたのか"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "彼を打つ者たちを"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "打たれた"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜か"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "〜の虐殺のように"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "彼の殺された者たちの"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "殺された"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:34.938469480Z",
+  "model": "glm-5.2"
+}

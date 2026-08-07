@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 19:18",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "わたしはイスラエルに七千を残そう — すべての、バアルにひざまずかなかったひざ、およびすべての、それに口づけしなかった口である。",
+  "tokens": [
+    {
+      "surface": "והשארתי",
+      "gloss": "わたしは残そう"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルに"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הברכים",
+      "gloss": "ひざ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ひざまずいた"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "バアルに"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "הפה",
+      "gloss": "口"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "口づけした"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:49.531773363Z",
+  "model": "glm-5.2"
+}

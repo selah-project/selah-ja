@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 46:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "袋から金を注ぎ出し、秤の杆で銀を量り、金細工師を雇い、彼がそれをエルに造る者たち — 彼らは平伏し、さらに拝む。",
+  "tokens": [
+    {
+      "surface": "הזלים",
+      "gloss": "注ぎ出す者たち"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "מכיס",
+      "gloss": "袋から"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "銀を"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "秤の杆で"
+    },
+    {
+      "surface": "ישקלו",
+      "gloss": "量る"
+    },
+    {
+      "surface": "ישכרו",
+      "gloss": "雇う"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "精錬師を"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "彼がそれを造る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エルに"
+    },
+    {
+      "surface": "יסגדו",
+      "gloss": "平伏する"
+    },
+    {
+      "surface": "אף",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "拝む"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:16.664064459Z",
+  "model": "glm-5.2"
+}

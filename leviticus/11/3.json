@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "家畜の中で、ひづめを持って完全に裂け、ひづめの裂け目が二つに分かれ、反芻するものはすべて、⟨את⟩それをあなたがたは食べてよい。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "裂けた"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ひづめを"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "そして裂け目のある"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "裂け目"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "ひづめの"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "反芻する"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "反芻物を"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "家畜の中で"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたがたは食べてよい"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:47.857033498Z",
+  "model": "glm-5.2"
+}

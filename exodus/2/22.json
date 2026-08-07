@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "彼女は息子を産み、彼は⟨את⟩その名をゲルショムと呼んだ。彼が言ったからである、「異邦の地で私は寄留者であった」と。",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "産み"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子を"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "その名"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ゲルショム"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "גר",
+      "gloss": "寄留者"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "であった"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地で"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "異邦の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:07.341742081Z",
+  "model": "glm-5.2"
+}

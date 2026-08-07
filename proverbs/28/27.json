@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 28:27",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "与える者は貧しい者に、欠乏⟨は⟩ない。しかし目を隠す者は、呪いを多く受ける。",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "与える者"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "貧しい者に"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "欠乏"
+    },
+    {
+      "surface": "ומעלים",
+      "gloss": "しかし隠す者"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "目を"
+    },
+    {
+      "surface": "רב",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "מארות",
+      "gloss": "呪い"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:55.829093076Z",
+  "model": "glm-5.2"
+}

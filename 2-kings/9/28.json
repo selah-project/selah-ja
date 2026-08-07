@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "彼の家来たちは彼を戦車に乗せてエルシャライムへ運び、彼の墓に、父祖たちとともに、ダビデの町に彼を葬った。",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "そして乗せて運んだ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "彼の家来たちは"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "エルシャライムへ"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "そして葬った"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "彼の墓に"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の父祖たち"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町に"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:13:35.262656718Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 84,
+  "translation": "ヤハウェ、ツァバオトのエロヒムよ、私の祈りを聞いてください。耳を傾けてください、ヤアコブのエロヒムよ。セラ。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ツァバオトの（万軍の）"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "聞いてください"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "私の祈りを"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "耳を傾けてください"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "〜のエロヒムよ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:54:53.344302371Z",
+  "model": "glm-5.2"
+}

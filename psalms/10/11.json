@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "心の中で言った、『エルは忘れた、⟨彼は⟩顔を隠した、決して見ない、と永遠に。』",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "心の中で"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "忘れた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エルは"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "隠した"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "顔を"
+    },
+    {
+      "surface": "בל",
+      "gloss": "決して…ない"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "見ない"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:33.107412688Z",
+  "model": "glm-5.2"
+}

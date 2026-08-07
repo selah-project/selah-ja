@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "指揮者へ。ダビデのマズモール。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者へ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "マズモール"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:14.030071739Z",
+  "model": "glm-5.2"
+}

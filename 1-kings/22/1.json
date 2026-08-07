@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして彼らは三年間座していた。アラムとイスラエルの間に戦争がなかった。",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "そして彼らは座していた"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "אין",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦争"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間に"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラム"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と〜の間に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T11:10:20.247199755Z",
+  "model": "glm-5.2"
+}

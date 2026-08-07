@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "ヤハウェは⟨私たちの義⟩を引き出された。来て、シオンで語り告げよう、ヤハウェ私たちのエロヒムの⟨わざ⟩を。",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "引き出された"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私たちの義"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "私たちの義"
+    },
+    {
+      "surface": "באו",
+      "gloss": "来よ"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "そして語り告げよう"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "シオンで"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わざ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "わざ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "私たちのエロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:00:29.461850146Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "呑み込んでください、アドナイ、彼らの舌を分断してください、彼らの、それは私が見たから、暴虐と争いを、町の内に。",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "呑み込んでください"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "分断してください"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "彼らの舌"
+    },
+    {
+      "surface": "כי",
+      "gloss": "それは"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私が見た"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "暴虐"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "と争い"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町の内に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:59.363851732Z",
+  "model": "glm-5.2"
+}

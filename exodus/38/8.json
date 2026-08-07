@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そして彼は⟨את⟩青銅の洗盤を、また⟨את⟩その青銅の台を、会見の天幕の入り口で務めた務めをする女たちの集会の鏡で作った。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして作った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "青銅の洗盤"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "洗盤を"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "その台"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "その台を"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "鏡で"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "集会の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（関係代名詞）"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "務めをした"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口で"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕の"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:02.741939188Z",
+  "model": "glm-5.2"
+}

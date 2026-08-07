@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "カレブの側女マアハはシェベルと、⟨את⟩ ティルハナを産んだ。",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "側女"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "カレブ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "マアハ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "シェベル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ティルハナ"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "ティルハナ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:51.267690155Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "私が答える前に、私は迷っていました。しかし今、私はあなたのことばを守りました。",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "〜する前に"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "私が答える（苦しむ）"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "迷っていました"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "しかし今"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "あなたのことば"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "私は守りました"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:04.224291144Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 70,
+  "translation": "指揮者へ。ダヴィデの。記念のための。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者へ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダヴィデの"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "記念のための"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:00.130559914Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そして彼らは ⟨את⟩ ケデシュをガリラヤのナフタリの山地に、また ⟨את⟩ シェケムをエフライムの山地に、また ⟨את⟩ キルヤテ・アルバ（それはヘブロンである）をユダの山地に聖別した。",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "そして彼らは聖別した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ケデシュ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ケデシュ"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "ガリラヤの"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山地に"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ナフタリ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "シェケム"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "シェケム"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山地に"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "キルヤテ・アルバ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "キルヤテ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "アルバ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ヘブロン"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山地に"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:30:09.947249442Z",
+  "model": "glm-5.2"
+}

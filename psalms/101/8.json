@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 101,
+  "translation": "朝ごとに私は根絶する、地の悪者をすべて。ヤハウェの町から不法を行う者をすべて切り捨てるために。",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "朝ごとに"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "私は根絶する"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "悪者を"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "切り捨てるために"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "町から"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "行う者を"
+    },
+    {
+      "surface": "און",
+      "gloss": "不法を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:31.126170893Z",
+  "model": "glm-5.2"
+}

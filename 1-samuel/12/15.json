@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてもしヤハウェの声に聞き従わず、ヤハウェの口に⟨את⟩逆らうなら、ヤハウェの手があなたがたとあなたがたの先祖たちの上に⟨臨む⟩ことになる。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "聞き従う"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "声に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "逆らう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "口に"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "〜になる"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手が"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "あなたがたの上に"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "そしてあなたがたの先祖たちの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T18:29:29.517128750Z",
+  "model": "glm-5.2"
+}

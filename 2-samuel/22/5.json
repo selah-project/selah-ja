@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "まことに死の砕く波が⟨私を⟩囲み、ベルヤアルの急流が⟨私を⟩恐れさせた。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "囲んだ⟨私を⟩"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "砕く波の"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死の"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "急流が"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ベルヤアルの"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "恐れさせた⟨私を⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:14.252538027Z",
+  "model": "glm-5.2"
+}

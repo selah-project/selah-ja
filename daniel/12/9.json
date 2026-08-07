@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして彼は言った、「行け、ダニエル、ことばは閉ざされ、封じられているからだ、終わりの時まで」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "לך",
+      "gloss": "行け"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ダニエル"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "閉ざされている"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "そして封じられている"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ことばは"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "終わりの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:42:59.859129287Z",
+  "model": "glm-5.2"
+}

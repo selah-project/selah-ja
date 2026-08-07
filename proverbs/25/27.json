@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "蜂蜜を多く食べることは良くない。自分たちの重みを探り出すことは⟨重さ⟩である。",
+  "tokens": [
+    {
+      "surface": "אָ֘כֹ֤ל",
+      "gloss": "食べることは"
+    },
+    {
+      "surface": "דְּבַ֣שׁ",
+      "gloss": "蜂蜜を"
+    },
+    {
+      "surface": "הַרְבּ֣וֹת",
+      "gloss": "多く"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ט֑וֹב",
+      "gloss": "良く"
+    },
+    {
+      "surface": "וְחֵ֖קֶר",
+      "gloss": "探り出すことは"
+    },
+    {
+      "surface": "כְּבֹדָ֣ם",
+      "gloss": "彼らの重みを"
+    },
+    {
+      "surface": "כָּבֽוֹד",
+      "gloss": "重さ"
+    }
+  ],
+  "timestamp": "2026-08-07T17:25:25.018639535Z",
+  "model": "glm-5.2"
+}

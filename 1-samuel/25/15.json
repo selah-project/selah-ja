@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 25:15",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "あの男たちは私たちに非常に良かった。私たちは辱められず、私たちが彼らと共に歩いたすべての日々、私たちが野にいた間、何一つ失わなかった。",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "あの男たちは"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "良かった"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちに"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…ず"
+    },
+    {
+      "surface": "הכלמנו",
+      "gloss": "辱められた"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…ず"
+    },
+    {
+      "surface": "פקדנו",
+      "gloss": "失った"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "何一つ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日々"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "歩いた"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "彼らと共に"
+    },
+    {
+      "surface": "בהיותנו",
+      "gloss": "いた間"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "野に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:42.699075379Z",
+  "model": "glm-5.2"
+}

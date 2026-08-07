@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "esther 9:25",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "彼女が王の前に来たとき、⟨彼は⟩書簡とともに言った。彼がユダヤ人について企てた邪悪な計略は、⟨彼の⟩頭の上に返り来るように。そして彼らは彼と⟨את⟩彼の息子たちを木の上に吊るした。",
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "そして彼女が来たとき"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "書簡"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "返り来る"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "彼の計略"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "邪悪な"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "企てた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ユダヤ人"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "彼の頭"
+    },
+    {
+      "surface": "ותלו",
+      "gloss": "そして彼らは吊るした"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼の息子たち"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "彼の息子たち"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "木"
+    }
+  ],
+  "timestamp": "2026-08-07T13:43:09.335519772Z",
+  "model": "glm-5.2"
+}

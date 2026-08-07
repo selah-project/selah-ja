@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 16:9",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "アブシャイ、ツルヤの子が、王に言った。「なぜこの死んだ犬が⟨את⟩わが主、王を呪うのか。どうか私を通らせ、⟨את⟩彼の首を取り除かせてください。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "アブシャイ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ツルヤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "呪うのか"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "犬"
+    },
+    {
+      "surface": "המת",
+      "gloss": "死んだ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わが主、王"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "わが主"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "私を通らせてください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "そして取り除かせてください"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の首"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "彼の首"
+    }
+  ],
+  "timestamp": "2026-08-07T10:54:10.416801077Z",
+  "model": "glm-5.2"
+}

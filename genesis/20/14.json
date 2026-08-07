@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "アビメレクは羊と牛、男女の奴隷を取ってアブラハムに与え、彼にサラその妻を返した。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "…は取った"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "アビメレク"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊の群れ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "と牛"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "と男奴隷"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "と女奴隷"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "…は与えた"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "アブラハムに"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "…は返した"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "サラ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "サラ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "その妻"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:39.862060506Z",
+  "model": "glm-5.2"
+}

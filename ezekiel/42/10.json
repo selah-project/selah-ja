@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "庭の壁の幅の中に — 東への道、隔離地の面の前、そして建物の面の前に — 部屋があった。",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "…の幅の中に"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "壁"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭の"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "東への"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "隔離地の"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "建物の"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "部屋"
+    }
+  ],
+  "timestamp": "2026-08-07T12:14:40.522963231Z",
+  "model": "glm-5.2"
+}

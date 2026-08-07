@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "私に復讐を与える エル — ⟨彼は⟩ 諸国の民を私の ⟨足⟩ 元に従わせる。",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "その エル"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "復讐"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "そして ⟨彼は⟩ 従わせる"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "諸国の民"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "私の ⟨足⟩ 元に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:49.222630436Z",
+  "model": "glm-5.2"
+}

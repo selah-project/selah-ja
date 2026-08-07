@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 41:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "職人は ⟨את⟩ 精錬者を力づけ、槌で打つ者は ⟨את⟩ 打つ者をなだめ、打つ者に向かって言う。「ろう付けは良い」と。そして彼は釘でそれを強固にし、動かないようにした。",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "そして力づけた"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "職人は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "精錬者"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "精錬者"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "なだめる者は"
+    },
+    {
+      "surface": "פטיש",
+      "gloss": "槌で"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "打つ者"
+    },
+    {
+      "surface": "הולם",
+      "gloss": "打つ者を"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "打つ者に向かって"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言う"
+    },
+    {
+      "surface": "לדבק",
+      "gloss": "ろう付けについて"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "ויחזקהו",
+      "gloss": "そして彼はそれを強固にした"
+    },
+    {
+      "surface": "במסמרים",
+      "gloss": "釘で"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "動か"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:35.465028112Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 136,
+  "translation": "大いなる驚異を独りで為す ⟨方⟩に〈感謝せよ〉、まことにとこしえまで ⟨彼⟩のヘセドは〈続くから〉。",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "為す ⟨方⟩に"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "驚異を"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "独りで"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえまで"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨彼⟩のヘセド"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:13.409459041Z",
+  "model": "glm-5.2"
+}

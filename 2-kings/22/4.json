@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 22:4",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "「チルキヤフ大祭司のもとに上れ。そして彼は⟨את⟩銀を完成させよ——ヤハウェの家にもたらされた、門衛たちが民から集めたものを。」",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "上れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "チルキヤフ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "ויתם",
+      "gloss": "そして彼は完成させよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "銀"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "もたらされた"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは〜"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "集めた"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "衛たちが"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "門"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    }
+  ],
+  "timestamp": "2026-08-07T11:18:08.532381680Z",
+  "model": "glm-5.2"
+}

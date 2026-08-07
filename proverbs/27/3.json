@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "石の重さ、そして砂の積載、そして愚か者の怒りは重い、その両方からも。",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "重さ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "そして積載"
+    },
+    {
+      "surface": "החול",
+      "gloss": "砂"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "そして怒り"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "愚か者の"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "重い"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "その両方から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:56.548918075Z",
+  "model": "glm-5.2"
+}

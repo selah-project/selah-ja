@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして捕囚の子らは、第一の月の十四日に過越を祝い行った。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "そして彼らは行った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "捕囚の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "過越"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "過越を"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "十四"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "日"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "月の"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "第一の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:51:04.415717325Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "曲がったものは直すことができない、そして欠けているものは数えることができない。",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "曲がったもの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ことができる"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "直す"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "そして欠けているもの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ことができる"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "数える"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:58.755662875Z",
+  "model": "glm-5.2"
+}

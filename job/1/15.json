@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "するとシェバが襲いかかり、彼らを捕らえた。そして⟨את⟩若者たちを剣の刃で打った。そして私だけが逃れた、ただ一人で、あなたに告げるために。」",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "襲いかかり"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "シェバが"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "彼らを捕らえた"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "若者たち"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "若者たちを"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "打った"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "…の刃で"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣の"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "そして私は逃れた"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私だけが"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "一人で"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "告げるために"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:19:25.733664065Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてナダブの息子たちはセレドとアパイムで、セレドは息子たちなしに死んだ。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "そして…の息子たち"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ナダブ"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "セレド"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "とアパイム"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして…は死んだ"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "セレド"
+    },
+    {
+      "surface": "לא",
+      "gloss": "なし"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:55.434253262Z",
+  "model": "glm-5.2"
+}

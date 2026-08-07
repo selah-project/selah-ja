@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 16:34",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "ヤハウェがモーシェに命じた通りに、アハロンはそれ⟨את⟩を証の前に、守るべきものとして置いた。",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "〜通りに"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "そして彼はそれを置いた"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "その証"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "守るべきものとして"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:43.077541269Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 27:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "堅固な都市は孤立し、住処は打ち捨てられ、荒野のように見捨てられる。そこで子牛は草を食み、そこで伏し、その枝を食い尽くす。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "都市"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "堅固な"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "孤立し"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "住処"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "打ち捨てられ"
+    },
+    {
+      "surface": "ונעזב",
+      "gloss": "そして見捨てられる"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "荒野のように"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "草を食み"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "子牛は"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そしてそこで"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "伏し"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "そして食い尽くす"
+    },
+    {
+      "surface": "סעפיה",
+      "gloss": "その枝を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:06.639541819Z",
+  "model": "glm-5.2"
+}

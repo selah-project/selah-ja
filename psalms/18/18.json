@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "彼は私を強い敵から救い出し、私を憎む者たちから⟨救い出された⟩ — ぜひ⟨とも⟩、彼らは私より強かったのだから。",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "彼は私を救い出された"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "私の敵から"
+    },
+    {
+      "surface": "עז",
+      "gloss": "強い"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "そして私を憎む者たちから"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ぜひ⟨とも⟩"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "彼らは強かった"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私より"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:33.349597244Z",
+  "model": "glm-5.2"
+}

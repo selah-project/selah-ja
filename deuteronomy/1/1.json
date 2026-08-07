@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "これらは、モーシェがすべてのイスラエルに語った言葉である――ヨルダンの向こう側で、荒野で、アラバで、スフの向かいで、パランとトフェルとラバンとハツェロトとディ・ザハブとの間で。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "―"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "向こう側で"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルダンの"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野で"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "アラバで"
+    },
+    {
+      "surface": "מול",
+      "gloss": "向かいで"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "スフの"
+    },
+    {
+      "surface": "בין",
+      "gloss": "～と"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "パラン"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "との間で"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "トフェル"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "とラバン"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "とハツェロト"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "とディ・"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ザハブ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:17.454880463Z",
+  "model": "glm-5.2"
+}

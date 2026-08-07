@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "「どうか私を救い出してください、私の兄弟の手から、エサウの手から。私は彼を恐れているからです。彼が来て私を打ち、母を子供たちの上に〈打つ〉ことのないように。」",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "私を救い出してください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "〜の手から"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "私の兄弟"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "〜の手から"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "恐れている"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私は"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼を"
+    },
+    {
+      "surface": "פן",
+      "gloss": "〜のないように"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "彼が来て"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "そして私を打ち"
+    },
+    {
+      "surface": "אם",
+      "gloss": "母を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子供たち"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:38.729290499Z",
+  "model": "glm-5.2"
+}

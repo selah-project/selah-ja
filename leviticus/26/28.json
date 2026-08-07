@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "それからわたしは敵対する激怒をもってあなたがたと共に歩み、わたしもまた⟨את⟩あなたがたを、あなたがたの罪に対して七倍に懲らしめる。",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "そしてわたしは歩む"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "あなたがたと共に"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "…の激怒において"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "敵対"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "そしてわたしは懲らしめる"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがたを"
+    },
+    {
+      "surface": "אף",
+      "gloss": "また"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたし"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七倍"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に対して"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "あなたがたの罪"
+    }
+  ],
+  "timestamp": "2026-08-07T16:31:55.081413546Z",
+  "model": "glm-5.2"
+}

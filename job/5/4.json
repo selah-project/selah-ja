@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 5:4",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "その子らは救いから遠く離れ、そして彼らは門で粉砕され、救い出す者が⟨いない⟩。",
+  "tokens": [
+    {
+      "surface": "ירחקו",
+      "gloss": "遠く離れる"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "その子らは"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "救いから"
+    },
+    {
+      "surface": "ודכאו",
+      "gloss": "そして彼らは粉砕され"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "門で"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "〜がいない"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "救い出す者"
+    }
+  ],
+  "timestamp": "2026-08-07T13:21:48.812450579Z",
+  "model": "glm-5.2"
+}

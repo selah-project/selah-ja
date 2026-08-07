@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてダビデはヨナタンに言った、「誰が私に告げるのか。あるいは、あなたの父があなたに厳しく答えるなら〔どうするのか〕」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ヨナタン"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "告げるのか"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何が"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "あなたに答えるのか"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父が"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "厳しく"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:08.798430069Z",
+  "model": "glm-5.2"
+}

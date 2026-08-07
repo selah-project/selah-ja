@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 1:34",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "エモリ人は⟨את⟩ダンの子らを山地へ圧迫した。彼らが谷へ下りることを許さなかったからである。",
+  "tokens": [
+    {
+      "surface": "וַיִּלְחֲצ֧וּ",
+      "gloss": "圧迫した"
+    },
+    {
+      "surface": "הָאֱמֹרִ֛י",
+      "gloss": "エモリ人"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ダンの子ら"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "דָ֖ן",
+      "gloss": "ダン"
+    },
+    {
+      "surface": "הָהָ֑רָה",
+      "gloss": "山地へ"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "～なかった"
+    },
+    {
+      "surface": "נְתָנ֖וֹ",
+      "gloss": "許さなかった"
+    },
+    {
+      "surface": "לָרֶ֥דֶת",
+      "gloss": "下りることを"
+    },
+    {
+      "surface": "לָעֵֽמֶק",
+      "gloss": "谷へ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:31:31.697727252Z",
+  "model": "glm-5.2"
+}

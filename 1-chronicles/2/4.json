@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "タマル、彼の嫁は、彼に⟨את⟩ペレツと⟨את⟩ゼラフを産んだ。ユダの子らはすべて五人であった。",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "タマル"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "彼の嫁"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ペレツ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ペレツ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "ゼラフ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ゼラフ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五人"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:42.549306280Z",
+  "model": "glm-5.2"
+}

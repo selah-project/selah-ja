@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "そこ⟨を⟩舟が行き来する。レビヤタン、これをあなたは造られた、そこ⟨で⟩戯れるために。",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "そこ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "舟"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "行き来する"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "レビヤタン"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "あなたは造られた"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "戯れるために"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それにおいて"
+    }
+  ],
+  "timestamp": "2026-08-07T12:59:05.897590557Z",
+  "model": "glm-5.2"
+}

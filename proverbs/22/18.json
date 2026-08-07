@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 22:18",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "それは快いこと—あなたがそれらを腹の内に守るなら—それらはともにあなたの唇の上に据えられるのだから。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "快い"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ならば"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "あなたがそれらを守る"
+    },
+    {
+      "surface": "בבטנך",
+      "gloss": "あなたの腹の内に"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "設けられる"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ともに"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "あなたの唇の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:51.794532104Z",
+  "model": "glm-5.2"
+}

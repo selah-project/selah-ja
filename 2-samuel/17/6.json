@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 17:6",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "フシャイはアブシャロムのところに来た。アブシャロムは彼に言った。「アヒトフェルはこのような言葉を語った。われわれは彼の言葉⟨את⟩を行うべきか。いやなら、あなたが語れ。」",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "フシャイ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところに"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "アブシャロム"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "アブシャロム"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "語って"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "〜のような言葉を"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "アヒトフェル"
+    },
+    {
+      "surface": "הנעשה",
+      "gloss": "行うべきか"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の言葉"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "彼の言葉"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし〜なら"
+    },
+    {
+      "surface": "אין",
+      "gloss": "そうでない"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語れ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:54:31.220791754Z",
+  "model": "glm-5.2"
+}

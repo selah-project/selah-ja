@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そして彼は⟨את⟩エポデの上着を、織り手のわざとして、全く青色のものに作った。",
+  "tokens": [
+    {
+      "surface": "וַיַּ֛עַשׂ",
+      "gloss": "そして彼は作った"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "エポデの上着"
+    },
+    {
+      "surface": "מְעִ֥יל",
+      "gloss": "上着"
+    },
+    {
+      "surface": "הָאֵפֹ֖ד",
+      "gloss": "エポデの"
+    },
+    {
+      "surface": "מַעֲשֵׂ֣ה",
+      "gloss": "わざ"
+    },
+    {
+      "surface": "אֹרֵ֑ג",
+      "gloss": "織り手の"
+    },
+    {
+      "surface": "כְּלִ֖יל",
+      "gloss": "全く"
+    },
+    {
+      "surface": "תְּכֵֽלֶת",
+      "gloss": "青色の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:09.682782252Z",
+  "model": "glm-5.2"
+}

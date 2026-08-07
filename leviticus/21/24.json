@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてモシェは語った、アハロンに、そして彼の子たちに、そしてすべてのイスラエルの子たちに。」",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֣ר",
+      "gloss": "そして彼は語った"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "בָּנָ֑יו",
+      "gloss": "彼の子たち"
+    },
+    {
+      "surface": "וְאֶֽל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בְּנֵ֖י",
+      "gloss": "子たち"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:53.019809181Z",
+  "model": "glm-5.2"
+}

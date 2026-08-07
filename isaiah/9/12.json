@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして民は、⟨彼を⟩打つ者のもとに帰らなかった。そして⟨את⟩ヤハウェ・ツェヴァオトを尋ね求めなかった",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "そして民は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…なかった"
+    },
+    {
+      "surface": "שב",
+      "gloss": "帰ら"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…のもとに"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "⟨彼を⟩打つ者"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ・ツェヴァオト"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ・"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ツェヴァオトを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…なかった"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "尋ね求め"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:46.224224619Z",
+  "model": "glm-5.2"
+}

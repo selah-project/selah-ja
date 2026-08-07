@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ヤハウェの声は杉を砕き、ヤハウェは ⟨את⟩ レバノンの杉々を砕かれた。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "砕く"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "杉々を"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "そして砕かれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レバノンの杉々を"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "杉々の"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "レバノン"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:29.445870442Z",
+  "model": "glm-5.2"
+}

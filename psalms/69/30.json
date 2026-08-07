@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "しかし、この私は貧しく、苦しんでいる — あなたの救い、エロヒムよ、私を高く上げよ。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "しかし、私は"
+    },
+    {
+      "surface": "עני",
+      "gloss": "貧しく"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "苦しんでいる"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "あなたの救い"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "私を高く上げよ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:35.806258598Z",
+  "model": "glm-5.2"
+}

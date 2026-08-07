@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 2:23",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ゲシュルとアラムは彼らから⟨את⟩ヤイルのハボテを、⟨את⟩ケナトとその娘たちを取った — 六十の都市。これらすべてはマキル、ギルアドの父の子らであった。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "取った"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "ゲシュルは"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "とアラムは"
+    },
+    {
+      "surface": "アת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤイルのハボテ"
+    },
+    {
+      "surface": "חות",
+      "gloss": "ハボテ（天幕集落）"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ヤイルの"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "彼らから"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ケナト"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "ケナト"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "その娘たち"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "その娘たち"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "都市"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "マキル"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ギルアド"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:36.634850890Z",
+  "model": "glm-5.2"
+}

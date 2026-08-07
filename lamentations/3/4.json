@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "彼は私の肉を、私の皮を、使い果たした — 私の骨を打ち砕いた。",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "使い果たした"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "私の肉"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "私の皮"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "打ち砕いた"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "私の骨"
+    }
+  ],
+  "timestamp": "2026-08-07T13:35:51.056908191Z",
+  "model": "glm-5.2"
+}

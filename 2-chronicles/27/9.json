@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "ヨタムは彼の先祖たちと共に横たわり、彼らは彼を⟨את⟩ダビデの町に葬り、彼の息子アハズが彼に代わって王となった。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "横たわった"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "ヨタム"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の先祖たち"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "彼らは葬った"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩彼を",
+      "marks": "ダビデの町"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "〜の町に"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "アハズ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の息子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代わって"
+    }
+  ],
+  "timestamp": "2026-08-07T14:16:23.089080342Z",
+  "model": "glm-5.2"
+}

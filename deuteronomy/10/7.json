@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そこから彼らは旅立ってグドゴダへ行き、グドゴダからヨトバタへ行った。⟨それは⟩水の流れの地であった。",
+  "tokens": [
+    {
+      "surface": "מִשָּׁ֥ם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "נָסְע֖וּ",
+      "gloss": "旅立った"
+    },
+    {
+      "surface": "הַגֻּדְגֹּ֑דָה",
+      "gloss": "グドゴダへ"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הַגֻּדְגֹּ֣דָה",
+      "gloss": "グドゴダ"
+    },
+    {
+      "surface": "יָטְבָ֔תָה",
+      "gloss": "ヨトバタへ"
+    },
+    {
+      "surface": "אֶ֖רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "נַ֥חֲלֵי",
+      "gloss": "水の流れの"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-08-07T14:24:43.520582585Z",
+  "model": "glm-5.2"
+}

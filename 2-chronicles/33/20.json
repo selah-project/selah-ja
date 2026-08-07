@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 33:20",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そしてマナセは彼の父祖たちと共に横たわり、彼らは彼を彼の家に葬った。そして彼の子アモンが彼に代わって王となった。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "そして横たわった"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "マナセは"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の父祖たち"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "そして彼らは彼を葬った"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "彼の家に"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "そして王となった"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "アモンが"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代わって"
+    }
+  ],
+  "timestamp": "2026-08-07T14:19:08.118294534Z",
+  "model": "glm-5.2"
+}

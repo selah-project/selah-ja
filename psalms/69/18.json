@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "あなたのしもべから顔を隠さないでください、私⟨に⟩苦しみ⟨がある⟩から、急いで私に答えてください。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "隠さないで"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの顔を"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "あなたのしもべから"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "צר",
+      "gloss": "苦しみ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "急いで"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "私に答えてください"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:22.340361166Z",
+  "model": "glm-5.2"
+}

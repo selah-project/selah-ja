@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして子供は成長し、離乳した。そしてアブラハムは⟨את⟩イツハクの離乳の日に大いなる宴を設けた。",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "そして…は成長し"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "子供は"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "離乳した"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "そして…は設けた"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハムは"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "宴を"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…の日に"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "離乳する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イツハク"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イツハク"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:40.819649205Z",
+  "model": "glm-5.2"
+}

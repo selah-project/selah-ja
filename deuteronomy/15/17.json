@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 15:17",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "あなたは⟨את⟩​その​錐​を​取って、彼の​耳​に、そして​扉​に​当て、そして​彼は​あなた​に​永遠の​しもべ​となる。また​あなたの​女奴隷​に​対して​も​同様​に​しなさい。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "あなたは取って"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その錐"
+    },
+    {
+      "surface": "המרצע",
+      "gloss": "その錐"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "あなたは当てて"
+    },
+    {
+      "surface": "באזנו",
+      "gloss": "彼の耳に"
+    },
+    {
+      "surface": "ובדלת",
+      "gloss": "そして扉に"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "そして…となる"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "しもべ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠の"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "また"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "あなたの女奴隷に対しても"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "あなたはする"
+    },
+    {
+      "surface": "כן",
+      "gloss": "同様に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:14:04.459082558Z",
+  "model": "glm-5.2"
+}

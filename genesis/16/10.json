@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてヤハウェの御使いは彼女に言った——わたしはあなたの⟨את⟩子孫を大いに増やし、その多さのゆえに数えられないであろう。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "御使い"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "大いに"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "増やそう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの子孫"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "あなたの子孫"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "数えられよう"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "その多さのゆえに"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:10.193700007Z",
+  "model": "glm-5.2"
+}

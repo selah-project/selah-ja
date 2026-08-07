@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 14:18",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "もしわたしが野に出れば、見よ、剣に刺し貫かれた者たち。もしわたしが町に入れば、見よ、飢きんの病。まことに預言者も祭司もあって、彼らは知りもしない地へと彷徨い回ったからだ。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "わたしが出れば"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野に"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "刺し貫かれた者たち"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣に"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "わたしが入れば"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町に"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "תחלואי",
+      "gloss": "病"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "飢きんの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "גם",
+      "gloss": "～も"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "גם",
+      "gloss": "～も"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "סחרו",
+      "gloss": "彷徨い回った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～へ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "～ず"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知った"
+    }
+  ],
+  "timestamp": "2026-08-07T11:46:25.598953001Z",
+  "model": "glm-5.2"
+}

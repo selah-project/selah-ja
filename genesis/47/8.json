@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "パロはヤコブに言った。「あなたの生涯の年の日数はどれほどか。」",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֥אמֶר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "פַּרְעֹ֖ה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "ヤコブ"
+    },
+    {
+      "surface": "כַּמָּ֕ה",
+      "gloss": "どれほどか"
+    },
+    {
+      "surface": "יְמֵ֖י",
+      "gloss": "〜の日数"
+    },
+    {
+      "surface": "שְׁנֵ֥י",
+      "gloss": "〜の年"
+    },
+    {
+      "surface": "חַיֶּֽיךָ",
+      "gloss": "あなたの生涯"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:37.045712964Z",
+  "model": "glm-5.2"
+}

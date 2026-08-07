@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "ただ囚人の下でひざまずき、殺された者たちの下で倒れる ⟨ことしかできない⟩。これらすべてにおいても、 ⟨彼の⟩怒りは帰らなかった、なお ⟨彼の⟩手は伸ばされている",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "ただ…のみ"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "ひざまずく"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "…の下で"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "囚人"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "そして…の下で"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "殺された者たち"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "彼らは倒れる"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "…のすべてにおいて"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "שב",
+      "gloss": "帰った"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "彼の怒り"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "なお"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "伸ばされている"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:25.300274050Z",
+  "model": "glm-5.2"
+}

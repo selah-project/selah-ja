@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 24:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして ⟨彼は⟩ ⟨その⟩ 駱駝たちを ⟨その⟩ 町の外に、水の井戸のそばに休ませた。夕暮れの時に、水を汲む女たちが出て来る時に。",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "そして〜休ませた"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "その駱駝たちを"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外に"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "その町の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のそばに"
+    },
+    {
+      "surface": "באר",
+      "gloss": "井戸"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "〜の時に"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "夕暮れ"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "〜の時に"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "出て来る"
+    },
+    {
+      "surface": "השאבת",
+      "gloss": "汲む女たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T08:57:06.856964864Z",
+  "model": "glm-5.2"
+}

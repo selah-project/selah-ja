@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezekiel 27:36",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "諸民のうちの商人たちはあなたに向かって口笛を吹いた。あなたは恐怖となり、とこしえまで無くなった。",
+  "tokens": [
+    {
+      "surface": "סחרים",
+      "gloss": "商人たちは"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "諸民のうちの"
+    },
+    {
+      "surface": "שרקו",
+      "gloss": "口笛を吹いた"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたに向かって"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "恐怖"
+    },
+    {
+      "surface": "היית",
+      "gloss": "あなたは〜となった"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "あなたは無い"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "とこしえ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:09:27.585174695Z",
+  "model": "glm-5.2"
+}

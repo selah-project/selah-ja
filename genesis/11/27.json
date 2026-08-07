@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "これらはテラフの系図である。テラフは⟨את⟩アブラム、⟨את⟩ナホル、そして⟨את⟩ハランを生んだ。そしてハランは⟨את⟩ロトを生んだ。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "系図"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "テラフの"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "テラフは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アブラム"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "アブラム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナホル"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ナホル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ハラン"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "ハラン"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "そしてハランは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ロト"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ロト"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:17.512375826Z",
+  "model": "glm-5.2"
+}

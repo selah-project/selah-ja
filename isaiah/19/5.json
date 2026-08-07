@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "水は海から枯渇し、川は干上がり、乾燥する。",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "枯渇する"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水は"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "海から"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "川も"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "干上がる"
+    },
+    {
+      "surface": "והאזניחו",
+      "gloss": "乾燥する"
+    }
+  ],
+  "timestamp": "2026-08-07T11:24:33.425098138Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "その美しさをあなたの心のうちに慕ってはならない。そのまぶたであなたを捕えてはならない。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "慕っては"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "その美しさを"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "あなたの心のうちに"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "あなたを捕えては"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "そのまぶたで"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:39.265201716Z",
+  "model": "glm-5.2"
+}

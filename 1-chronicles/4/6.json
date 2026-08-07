@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "ナアラは彼に⟨את⟩アフザムと、⟨את⟩ヘフェルと、⟨את⟩テミニと、⟨את⟩ハアフシュタリを産んだ。これらはナアラの子らである。",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "そして〜は産んだ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "ナアラ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アフザム"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "アフザム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ヘフェル"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ヘフェル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "テミニ"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "テミニ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ハアフシュタリ"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "ハアフシュタリ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "ナアラの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:00:52.917210511Z",
+  "model": "glm-5.2"
+}

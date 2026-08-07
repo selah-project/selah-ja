@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "鞭の音、車輪のとどろき、突進する馬、跳ねる戦車。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "音"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "鞭の"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "と"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "とどろき"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "車輪の"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "突進する"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "戦車"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "跳ねる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:28:07.923701505Z",
+  "model": "glm-5.2"
+}

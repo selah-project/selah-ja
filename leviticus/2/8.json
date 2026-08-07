@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして、あなたはこれらの中から作られる⟨את⟩そのミンハーをヤハウェに持って来なさい。それを祭司に近づけ、祭壇に差し出しなさい。",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "持って来なさい"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "そのミンハー"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "そのミンハー"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（関係代名詞）"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "作られる"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "これらの中から"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "近づけなさい"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "差し出しなさい"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:42.084181301Z",
+  "model": "glm-5.2"
+}

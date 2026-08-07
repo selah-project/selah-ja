@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "ほむべきかな、ヤハウェ。まことに⟨彼は⟩私の願いの声を聞かれたから。",
+  "tokens": [
+    {
+      "surface": "בָּר֥וּךְ",
+      "gloss": "ほむべきかな"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "まことに〜だから"
+    },
+    {
+      "surface": "שָׁ֝מַ֗ע",
+      "gloss": "聞かれた"
+    },
+    {
+      "surface": "ק֣וֹל",
+      "gloss": "声"
+    },
+    {
+      "surface": "תַּחֲנוּנָֽי",
+      "gloss": "私の願いの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:14.878913272Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 83,
+  "translation": "彼らはアイン・ドルで滅ぼされた、地の肥料となった。",
+  "tokens": [
+    {
+      "surface": "נִשְׁמְד֥וּ",
+      "gloss": "滅ぼされた"
+    },
+    {
+      "surface": "בְעֵין",
+      "gloss": "〜で"
+    },
+    {
+      "surface": "דֹּאר",
+      "gloss": "アイン・ドル"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "なった"
+    },
+    {
+      "surface": "דֹּמֶן",
+      "gloss": "肥料"
+    },
+    {
+      "surface": "לָאֲדָמָֽה",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:48.661457017Z",
+  "model": "glm-5.2"
+}

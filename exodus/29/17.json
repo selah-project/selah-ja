@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして⟨את⟩あの雄羊を各部位に切り分けなさい。その内臓とその脚を洗い、その各部位の上とその頭の上に置きなさい。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "あの雄羊"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "あの雄羊"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "切り分けなさい"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "その各部位に"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "そして洗いなさい"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "その内臓"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "そしてその脚"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "そして置きなさい"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "その各部位"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "その頭"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:05.276290888Z",
+  "model": "glm-5.2"
+}

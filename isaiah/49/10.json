@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "彼らは飢えることなく、渇くことなく、灼熱も太陽も彼らを打たない。彼らをあわれむ者が彼らを導き、水の泉のほとりで彼らを導くからである。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "彼らは飢える"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "彼らは渇く"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "打つ"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "灼熱"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "そして太陽"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "彼らをあわれむ者が"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "彼らを導く"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜のほとりで"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "泉の"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "彼らを導く"
+    }
+  ],
+  "timestamp": "2026-08-07T14:31:06.373184589Z",
+  "model": "glm-5.2"
+}

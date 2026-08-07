@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "また あなたの証しは 私の喜び、私の相談役たち。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "あなたの証し"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "私の喜び"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "〜の人たち"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "私の相談"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:41.129351333Z",
+  "model": "glm-5.2"
+}

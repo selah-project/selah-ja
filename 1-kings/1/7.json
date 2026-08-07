@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 1:7",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして彼の言葉はヨアブ、ツルヤの子、と共に、またエブヤタル⟨祭司⟩と共にあった。そして彼らはアドニヤの後を助けた。",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "そして…あった"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "彼の言葉は"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…と共に"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "の子"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ツルヤ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "また…と共に"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "エブヤタル"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ויעזרו",
+      "gloss": "そして彼らは助けた"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…の後を"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "アドニヤ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:37.835935156Z",
+  "model": "glm-5.2"
+}

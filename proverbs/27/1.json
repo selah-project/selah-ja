@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "明日について誇るな、あなたは知らないからだ、一日が何を産むかを。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "誇る"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "明日"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "あなたは知らない"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "産む"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一日"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:56.548643528Z",
+  "model": "glm-5.2"
+}

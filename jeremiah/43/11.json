@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "彼は来て、⟨את⟩ ミツライムの地を打つ。死への定められた者は死へ、捕囚への定められた者は捕囚へ、剣への定められた者は剣へ。",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "そして彼は来て"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "打つ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ミツライムの地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である者は"
+    },
+    {
+      "surface": "למות",
+      "gloss": "死へ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "死へ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "そして〜である者は"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "捕囚へ"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "捕囚へ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "そして〜である者は"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "剣へ"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "剣へ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:56:03.200522472Z",
+  "model": "glm-5.2"
+}

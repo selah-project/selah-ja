@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして彼は私に言った — 人の子よ、あなたの足の上に立て、そうすれば私はあなた ⟨את⟩ と語ろう。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "立て"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "あなたの足"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "そして…語ろう"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ あなた",
+      "marks": "あなた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:00:46.763510287Z",
+  "model": "glm-5.2"
+}

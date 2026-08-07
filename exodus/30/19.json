@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "アハロンとその子らはそこから彼らの手と彼らの足を洗わなければならない。",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "…洗わなければならない"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "その子らは"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの手"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "彼らの手を"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの足"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "彼らの足を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:58.919725557Z",
+  "model": "glm-5.2"
+}

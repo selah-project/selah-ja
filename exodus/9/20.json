@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "パロの奴隷のうち、ヤハウェのことばを恐れた者は、自分の奴隷と自分の家畜を家々に退避させた。",
+  "tokens": [
+    {
+      "surface": "הַיָּרֵא",
+      "gloss": "恐れた者"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ことば"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "מֵֽעַבְדֵי",
+      "gloss": "〜の奴隷のうち"
+    },
+    {
+      "surface": "פַּרְעֹה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "הֵנִיס",
+      "gloss": "退避させた"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "自分の奴隷"
+    },
+    {
+      "surface": "עֲבָדָיו",
+      "gloss": "自分の奴隷"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "自分の家畜"
+    },
+    {
+      "surface": "מִקְנֵהוּ",
+      "gloss": "自分の家畜"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הַבָּתִּֽים",
+      "gloss": "家々に"
+    }
+  ],
+  "timestamp": "2026-08-07T16:27:19.509696422Z",
+  "model": "glm-5.2"
+}

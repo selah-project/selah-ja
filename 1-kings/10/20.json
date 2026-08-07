@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして十二頭の獅子がそこに、六つの段の上に、こちら側とあちら側に立っていた。どの王国にもこのようには造られなかった。",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "そして…二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "立っていた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六つの"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "その段"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "こちら側"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "そしてあちら側"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "造られた"
+    },
+    {
+      "surface": "כן",
+      "gloss": "このように"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "王国において"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:12.705069990Z",
+  "model": "glm-5.2"
+}

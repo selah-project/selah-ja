@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして ⟨את⟩ 四台の牛車と ⟨את⟩ 八頭の牛をメラリの子らに与えた、彼らの奉仕に応じて。祭司アハロンの子イタマルの手によって。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "四台の牛車を"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "牛車"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "八頭の牛を"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "八"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…の子らに"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "メラリ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "…に応じて"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "彼らの奉仕"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…の手によって"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "イタマル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    }
+  ],
+  "timestamp": "2026-08-07T09:50:43.173355584Z",
+  "model": "glm-5.2"
+}

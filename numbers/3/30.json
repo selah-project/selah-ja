@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてケハテ家族の父祖の家の長はウジエルの子エリツァファンであった。",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "そして長"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אב",
+      "gloss": "父祖の"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "家族の"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "ケハテ"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "エリツァファン"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ウジエル"
+    }
+  ],
+  "timestamp": "2026-08-07T16:32:06.605640920Z",
+  "model": "glm-5.2"
+}

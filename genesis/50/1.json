@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "ヨセフは父の顔の上に倒れかかり、その上で泣き、彼に口づけした。",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "倒れかかった"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフは"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔の"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "父の"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "泣いた"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上で"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "口づけした"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:03.562740249Z",
+  "model": "glm-5.2"
+}

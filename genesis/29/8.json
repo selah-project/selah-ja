@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 29:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして言った、「できない。すべての群れが集められ、⟨את⟩石が井戸の口から転がし出されるまで。そして⟨私たちは⟩羊に水を飲ませる」。",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして彼らは言った"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "できる"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜する時に"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "集められる"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "群れ"
+    },
+    {
+      "surface": "וגללו",
+      "gloss": "そして転がし出す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "石"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "石"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜の上から"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "井戸"
+    },
+    {
+      "surface": "והשקינו",
+      "gloss": "そして飲ませる"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:17.707263015Z",
+  "model": "glm-5.2"
+}

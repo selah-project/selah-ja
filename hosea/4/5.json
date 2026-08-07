@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてあなたはつまずく、今日、預言者もまた、夜、あなたと共につまずく。そしてわたしはあなたの母を滅ぼす。",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "そしてあなたはつまずく"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "つまずく"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "そしてわたしは滅ぼす"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "あなたの母"
+    }
+  ],
+  "timestamp": "2026-08-07T12:18:00.286942693Z",
+  "model": "glm-5.2"
+}

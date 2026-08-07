@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 1:8",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ヤハウェはハサタンに言われた、「あなたは心を留めたか、わたしのしもべイヨブに。地上に彼に並ぶ者はいない。全き人、正しい人、エロヒムを恐れる人、悪から離れる人である」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ハサタン"
+    },
+    {
+      "surface": "השמת",
+      "gloss": "あなたは留めたか"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "心を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "わたしのしもべ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "イヨブ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אין",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "彼に並ぶ者"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地上に"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "תם",
+      "gloss": "全き"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "そして正しい"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "そして離れる"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "悪から"
+    }
+  ],
+  "timestamp": "2026-08-07T14:40:17.098229326Z",
+  "model": "glm-5.2"
+}

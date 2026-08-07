@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "わたしの恋人は ⟨彼の⟩手を穴から差し入れた、するとわたしの内臓は ⟨彼の⟩ために騒いだ。",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "わたしの恋人は"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差し入れた"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "⟨彼の⟩手を"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "החר",
+      "gloss": "穴"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "するとわたしの内臓は"
+    },
+    {
+      "surface": "המו",
+      "gloss": "騒いだ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨彼の⟩ために"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:59.333776017Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 67,
+  "translation": "国々は喜び、歌え。まことにあなたは民を公平に裁き、地の国々を導かれる。セラ",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "喜び"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "歌え"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "国々は"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "あなたは裁き"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "民を"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "公平に"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "国々を"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "導かれる"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:05.787812668Z",
+  "model": "glm-5.2"
+}

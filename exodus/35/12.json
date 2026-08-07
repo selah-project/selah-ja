@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "⟨את⟩箱と⟨את⟩その棒、⟨את⟩贖いの蓋、そして覆いの垂れ幕を⟨את⟩",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "箱"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "箱"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "その棒"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "その棒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "贖いの蓋"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "贖いの蓋"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "覆いの垂れ幕"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "垂れ幕"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "覆いの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:06.961262924Z",
+  "model": "glm-5.2"
+}

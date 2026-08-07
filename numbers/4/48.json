@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "彼らの数えられた者たちは八千五百八十人であった。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "彼らの数えられた者たちは"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "八"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "と五"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "と八十"
+    }
+  ],
+  "timestamp": "2026-08-07T09:50:24.842276778Z",
+  "model": "glm-5.2"
+}

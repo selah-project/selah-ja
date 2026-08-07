@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 24:3",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "エホヤダは彼のために二人の妻を娶らせ、⟨彼は⟩息子たちと娘たちをもうけた。",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "そして⋯を娶らせた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "エホヤダ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "妻たち"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "二人の"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "そして⋯をもうけた"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "と娘たち"
+    }
+  ],
+  "timestamp": "2026-08-07T14:15:52.028909150Z",
+  "model": "glm-5.2"
+}

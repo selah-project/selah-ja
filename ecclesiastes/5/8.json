@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして地の利益はすべての者のためである — 王さえ耕される畑に⟨仕えられる⟩。",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "そして利益"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての〜において"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "畑に"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "仕えられる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:35.022135107Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "エロヒム、あなたは私の愚かを知っておられる。私の咎たちはあなたから隠されていない。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "知っておられる"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "私の愚かを"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "私の咎たちは"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "あなたから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "隠されて"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:02.635336467Z",
+  "model": "glm-5.2"
+}

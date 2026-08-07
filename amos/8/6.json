@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "銀で貧しい者を買い、足りない者を靴のために、そして穀物のくずを売るために」と。",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "買うために"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "銀で"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "貧しい者を"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "そして足りない者を"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "靴"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "そして投げ捨てる"
+    },
+    {
+      "surface": "בר",
+      "gloss": "穀物のくずを"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "売る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:23:00.947257026Z",
+  "model": "glm-5.2"
+}

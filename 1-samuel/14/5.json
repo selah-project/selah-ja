@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": " ⟨その一つの⟩岩尖は北から、ミクマスの正面にそびえ、 ⟨もう一つは⟩南から、ゲバの正面に⟨そびえる⟩。",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": " ⟨その⟩岩尖"
+    },
+    {
+      "surface": "האחד",
+      "gloss": " ⟨一つは⟩"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "そびえる"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "北から"
+    },
+    {
+      "surface": "מול",
+      "gloss": "正面に"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "ミクマス"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": " ⟨もう一つは⟩"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "南から"
+    },
+    {
+      "surface": "מול",
+      "gloss": "正面に"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "ゲバ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:25.449725908Z",
+  "model": "glm-5.2"
+}

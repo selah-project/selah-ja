@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 76,
+  "translation": "そこで ⟨彼は⟩弓の閃光を砕いた、盾と剣と戦争を。セラ。",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "砕いた"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "閃光"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓の"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "盾"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "と剣"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "と戦争"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:52.568430033Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 39:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "その時、メロダク・バルアダン（バビロンの王バルアダンの子）は手紙と贈り物をヒゼキヤに送った。⟨というのは⟩彼は、ヒゼキヤが病んでいたが回復した、と聞いたからである。",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "その時"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "送った"
+    },
+    {
+      "surface": "מרדך",
+      "gloss": "メロダク"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "バルアダン"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "バルアダン"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロン"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "手紙"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "と贈り物"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ヒゼキヤ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "そして聞いた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "病んだ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "そして回復した"
+    }
+  ],
+  "timestamp": "2026-08-07T11:29:51.279034281Z",
+  "model": "glm-5.2"
+}

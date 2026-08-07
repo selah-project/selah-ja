@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼は彼を抱き上げ、彼を母のもとに連れて行った。そして彼は昼まで彼女のひざの上に座し、そして死んだ。",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "そして…彼を抱き上げた"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "そして…彼を連れて行った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のもとに"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "母の"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして…座した"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "彼女のひざの"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "昼"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして…死んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:11:24.150582603Z",
+  "model": "glm-5.2"
+}

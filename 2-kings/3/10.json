@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてイスラエルの王は言った。「ああ、ヤハウェがこれら三人の王を呼び集め、⟨彼ら⟩をモアブの手に渡すためだとは！」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～であるから"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼び集めた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "三人の"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "渡すため"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "～の手に"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:10:47.265966254Z",
+  "model": "glm-5.2"
+}

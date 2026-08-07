@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 92,
+  "translation": "良い、ヤハウェに感謝することは。そして御名に、至高者に、歌を歌うことは。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "感謝することは"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "そして歌を歌うことは"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "御名に"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "至高者に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:21.677863585Z",
+  "model": "glm-5.2"
+}

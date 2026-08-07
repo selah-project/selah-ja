@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "ヤハウェの霊が私 ⟨の中⟩ で語った、そしてそのみことばは私の舌の ⟨上に⟩ ある。",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "…の霊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "בי",
+      "gloss": "私の中で"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "そしてそのみことば"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "私の舌"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:11.057340502Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 136,
+  "translation": "大いなる光々を造る方に、まことに彼のヘセドはとこしえに〈続く〉。",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "造る方に"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "光々を"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "彼のヘセド"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:08.381499311Z",
+  "model": "glm-5.2"
+}

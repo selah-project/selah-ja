@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 130,
+  "translation": "上りの歌。深淵から私はあなたを、ヤハウェ、呼びました。",
+  "tokens": [
+    {
+      "surface": "שִׁ֥יר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "הַֽמַּעֲל֑וֹת",
+      "gloss": "上りの"
+    },
+    {
+      "surface": "מִמַּעֲמַקִּ֖ים",
+      "gloss": "深淵から"
+    },
+    {
+      "surface": "קְרָאתִ֣יךָ",
+      "gloss": "私はあなたを呼びました"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:41.984093021Z",
+  "model": "glm-5.2"
+}

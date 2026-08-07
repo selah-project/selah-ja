@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "私の日々は少なくないのか。やめて、私から離れ、私が少しのあいだ明るくなるように⟨してほしい⟩。",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "〜ではないのか"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "少なく"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "私の日々は"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "やめて"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "置く"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私から"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "そして私は明るくなる"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "少しのあいだ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:34.403155388Z",
+  "model": "glm-5.2"
+}

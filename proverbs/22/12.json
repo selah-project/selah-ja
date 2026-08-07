@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "ヤハウェの目は知識を守り、裏切り者の言葉を覆す。",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "目は"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "守り"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識を"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "覆す"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "言葉を"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "裏切り者の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:48.277334510Z",
+  "model": "glm-5.2"
+}

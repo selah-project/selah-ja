@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "あなたの心が高ぶり、あなたは⟨את⟩ ヤハウェ あなたのエロヒムを忘れる——⟨すなわち⟩あなたをミツライムの地、奴隷の家から連れ出された方を——",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "高ぶり"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "あなたの心が"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "あなたは忘れる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ あなたのエロヒム"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "あなたを連れ出された方"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "〜の地から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "〜の家から"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴隷"
+    }
+  ],
+  "timestamp": "2026-08-07T10:10:00.158735123Z",
+  "model": "glm-5.2"
+}

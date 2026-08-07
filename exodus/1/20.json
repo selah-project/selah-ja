@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてエロヒムは助産婦たちに良くされた。そして民は増え、非常に強くなった。",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "そして…良くされた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "助産婦たちに"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "そして…増えた"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "そして…強くなった"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:11:49.120372108Z",
+  "model": "glm-5.2"
+}

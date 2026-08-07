@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "雌鹿が水の流れの畔で渇き叫ぶように、それゆえに私のנפשはあなたを、エロヒム、渇き慕う。",
+  "tokens": [
+    {
+      "surface": "כְּאַיָּ֗ל",
+      "gloss": "雌鹿が"
+    },
+    {
+      "surface": "תַּעֲרֹ֥ג",
+      "gloss": "渇き叫ぶ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…の畔で"
+    },
+    {
+      "surface": "אֲפִֽיקֵי",
+      "gloss": "流れの"
+    },
+    {
+      "surface": "מָ֑יִם",
+      "gloss": "水の"
+    },
+    {
+      "surface": "כֵּ֤ן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "נַפְשִׁ֨י",
+      "gloss": "私のנפשは"
+    },
+    {
+      "surface": "תַעֲרֹ֖ג",
+      "gloss": "渇き慕う"
+    },
+    {
+      "surface": "אֵלֶ֣יךָ",
+      "gloss": "あなたを"
+    },
+    {
+      "surface": "אֱלֹהִֽים",
+      "gloss": "エロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T18:39:47.751518456Z",
+  "model": "glm-5.2"
+}

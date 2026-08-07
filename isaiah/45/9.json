@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 45:9",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "ああ、自分の造り主と争う者は。陶器の欠片が⟨את⟩地の陶器たちと⟨את⟩争う。粘土が自分の造り主に向かって言うだろうか、「何を造るのか」と。あなたの働き⟨は⟩、それに手がないと。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "争う者"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "造り主"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "自分の造り主"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "陶器の欠片"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地の陶器たち"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "陶器たち"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "地の"
+    },
+    {
+      "surface": "היאמר",
+      "gloss": "言うだろうか"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "粘土"
+    },
+    {
+      "surface": "ליצרו",
+      "gloss": "自分の造り主に"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "造るのか"
+    },
+    {
+      "surface": "ופעלך",
+      "gloss": "あなたの働き"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "手"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:54.829083569Z",
+  "model": "glm-5.2"
+}

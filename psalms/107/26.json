@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "彼らは天に上り、淵に下る。彼らのנפשは苦難の中で溶けゆく。",
+  "tokens": [
+    {
+      "surface": "יַעֲל֣וּ",
+      "gloss": "彼らは上る"
+    },
+    {
+      "surface": "שָׁ֭מַיִם",
+      "gloss": "天に"
+    },
+    {
+      "surface": "יֵרְד֣וּ",
+      "gloss": "彼らは下る"
+    },
+    {
+      "surface": "תְהוֹמ֑וֹת",
+      "gloss": "淵に"
+    },
+    {
+      "surface": "נַ֝פְשָׁ֗ם",
+      "gloss": "彼らのנפשは"
+    },
+    {
+      "surface": "בְּרָעָ֥ה",
+      "gloss": "苦難の中で"
+    },
+    {
+      "surface": "תִתְמוֹגָֽג",
+      "gloss": "溶けゆく"
+    }
+  ],
+  "timestamp": "2026-08-07T18:41:21.011596278Z",
+  "model": "glm-5.2"
+}

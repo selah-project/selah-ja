@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 137,
+  "translation": "私の舌は私の口蓋にくっつけ、もし私はあなたを思い出さないなら、もし私は ⟨את⟩ イェルシャライムを私の喜びの頭の上にのぼさないなら。",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "くっつけ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "私の舌は"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "私の口蓋に"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "私はあなたを思い出さ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "私はのぼさ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イェルシャライムを"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムを"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭の"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "私の喜びの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:18.050882508Z",
+  "model": "glm-5.2"
+}

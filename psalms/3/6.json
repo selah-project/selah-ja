@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "わたしは身を横たえ、そして眠った。わたしは目を覚ました。ヤハウェがわたしを支えられるからだ。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "身を横たえた"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "そして眠った"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "目を覚ました"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "わたしを支えられる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:17.139482301Z",
+  "model": "glm-5.2"
+}

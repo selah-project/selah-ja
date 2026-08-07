@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 58,
+  "translation": "水のように〈消え〉去り、流れ去ってしまうように。矢を張る〈者よ、彼らを〉切断されたように〈してください〉。",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "〈消え〉去る"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "流れ去る"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "張る"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "矢を"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "切断される"
+    }
+  ],
+  "timestamp": "2026-08-07T12:47:00.701705542Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "エシャイはシャマを通らせた。すると⟨彼⟩は言った、「この者にもヤハウェは選ばなかった。」",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "通らせた"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "エシャイは"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "シャマを"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜にも"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "この者"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "選んだ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:44.419093129Z",
+  "model": "glm-5.2"
+}

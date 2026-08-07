@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 1:14",
+  "book": "ruth",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "彼女たちは声を上げて、また泣いた。そしてオルパは姑に口づけしたが、ルツは彼女にすがりついた。",
+  "tokens": [
+    {
+      "surface": "ותשנה",
+      "gloss": "彼女たちは〜上げた"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "声を"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "そして泣いた"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "また"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "そして口づけした"
+    },
+    {
+      "surface": "ערפה",
+      "gloss": "オルパは"
+    },
+    {
+      "surface": "לחמותה",
+      "gloss": "姑に"
+    },
+    {
+      "surface": "ורות",
+      "gloss": "しかしルツは"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "すがりついた"
+    },
+    {
+      "surface": "בה",
+      "gloss": "彼女に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:34:55.021238071Z",
+  "model": "glm-5.2"
+}

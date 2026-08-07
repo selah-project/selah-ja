@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてモシェは、命じられたとおり、ヤハウェの口にしたがって⟨את⟩彼らを編成した。",
+  "tokens": [
+    {
+      "surface": "וַיִּפְקֹ֥ד",
+      "gloss": "そして〜は編成した"
+    },
+    {
+      "surface": "אֹתָ֛ם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "מֹשֶׁ֖ה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜にしたがって"
+    },
+    {
+      "surface": "פִּ֣י",
+      "gloss": "口"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֖ר",
+      "gloss": "〜のとおり"
+    },
+    {
+      "surface": "צֻוָּֽה",
+      "gloss": "命じられた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:38.676081542Z",
+  "model": "glm-5.2"
+}

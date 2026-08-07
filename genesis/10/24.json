@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "アルパクシャドは⟨את⟩シェラフを生み、シェラフは⟨את⟩エベルを生んだ。",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "アルパクシャドは"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シェラフ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "シェラフ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "シェラフは"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エベル"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "エベル"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:29.680974994Z",
+  "model": "glm-5.2"
+}

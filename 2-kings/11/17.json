@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 11:17",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてエホヤダは⟨את⟩契約を結んだ——ヤハウェと王と民の間に——彼らがヤハウェの民となるために。そして王と民の間にも。",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "そして…結んだ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "エホヤダ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "契約"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "その契約"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…の間に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と…の間に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "その王"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と…の間に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "…となるために"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "…の民として"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "そして…の間に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "その王"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と…の間に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    }
+  ],
+  "timestamp": "2026-08-07T11:15:32.785133654Z",
+  "model": "glm-5.2"
+}

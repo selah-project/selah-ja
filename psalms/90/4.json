@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 90,
+  "translation": "あなたの目に千年は昨日の⟨よう⟩、過ぎゆく⟨日⟩の如く、まことに夜の夜警の⟨よう⟩である。",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "אֶלֶף",
+      "gloss": "千年"
+    },
+    {
+      "surface": "שָׁנִים",
+      "gloss": "（年の単位）"
+    },
+    {
+      "surface": "בְּעֵינֶיךָ",
+      "gloss": "あなたの目に"
+    },
+    {
+      "surface": "כְּיוֹם",
+      "gloss": "〜の日の如く"
+    },
+    {
+      "surface": "אֶתְמוֹל",
+      "gloss": "昨日"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "それが"
+    },
+    {
+      "surface": "יַעֲבֹר",
+      "gloss": "過ぎゆく"
+    },
+    {
+      "surface": "וְאַשְׁמוּרָה",
+      "gloss": "夜警の"
+    },
+    {
+      "surface": "בַלָּיְלָה",
+      "gloss": "夜の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:22.292974062Z",
+  "model": "glm-5.2"
+}

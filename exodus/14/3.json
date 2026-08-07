@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてパロはイスラエルの子らについて言うであろう。彼らは地で迷い込んでいる、荒野が彼らを閉じ込めた、と。",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "そして…言うであろう"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…の子らについて"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "迷い込んでいる"
+    },
+    {
+      "surface": "הם",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地で"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "閉じ込めた"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らを"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "荒野が"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:25.484854677Z",
+  "model": "glm-5.2"
+}

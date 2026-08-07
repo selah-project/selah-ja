@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "苦しむ者の祈り — ⟨彼⟩が衰え果てる時、ヤハウェの御前に⟨彼⟩の思いを注ぎ出す⟨際の⟩",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "祈り"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "苦しむ者の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜の時"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "衰え果てる"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "〜の御前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "注ぎ出す"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "彼の思いを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:49.132383955Z",
+  "model": "glm-5.2"
+}

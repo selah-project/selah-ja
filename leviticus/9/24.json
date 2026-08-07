@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 9:24",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "火が ヤハウェの前から出て来て、祭壇の上で ⟨את⟩ 全焼の供物と ⟨את⟩ 脂肪を焼き尽くした。全 ⟨その⟩ 民はこれを見て、歓呼の声をあげ、顔を地に伏せた。",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "そして出て来た"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "〜の前から"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "そして焼き尽くした"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全焼の供物"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の供物"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "脂肪"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "וירנו",
+      "gloss": "そして歓呼の声をあげた"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "そして伏せた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "顔を地に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:40.612170159Z",
+  "model": "glm-5.2"
+}

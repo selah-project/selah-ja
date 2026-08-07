@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 11:9",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてヤハウェは私に言われた、ユダの男たちの中に、そしてエルシャライム（エルサレム）の住民たちの中に、謀反が見つかった、と。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "見つかった"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "謀反が"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "〜の男たちの中に"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ובישבי",
+      "gloss": "そして〜の住民たちの中に"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "エルシャライム（エルサレム）"
+    }
+  ],
+  "timestamp": "2026-08-07T11:44:09.656492150Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "「立って、ニネベ —— あの大いなる都市 —— に行き、⟨את⟩それに向かって呼ばわりせよ。彼らの悪がわたしの前に上って来たからだ。」",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "立て"
+    },
+    {
+      "surface": "לך",
+      "gloss": "行け"
+    },
+    {
+      "surface": "אל",
+      "gloss": "……へ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ニネベ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その都市"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "呼ばわりせよ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "それに向かって"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "上って来た"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "彼らの悪が"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "……の前に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:24:20.935481841Z",
+  "model": "glm-5.2"
+}

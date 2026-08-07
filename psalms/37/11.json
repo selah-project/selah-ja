@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして貧しい者々は地を相続し、平和の豊かさを楽しむ。",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "そして貧しい者々は"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "相続し"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "楽しむ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜において"
+    },
+    {
+      "surface": "רב",
+      "gloss": "豊かさを"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平和の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:36.546893998Z",
+  "model": "glm-5.2"
+}

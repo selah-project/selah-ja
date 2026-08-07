@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "⟨そして⟩民はみな ⟨ヤルデン⟩を渡り、王も渡った。王はバルジライに口づけし、彼を祝福した。そして彼は自分の場所へ帰った。",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "そして渡った"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤルデン"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "⟨ヤルデン⟩"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "そして王も"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "渡った"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "そして口づけした"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "バルジライに"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "そして彼を祝福した"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして帰った"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "自分の場所へ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:55:32.350617215Z",
+  "model": "glm-5.2"
+}

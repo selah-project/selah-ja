@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼はヤハウェの目に悪を行った。ただし ⟨彼の⟩ 父と母 ⟨のよう⟩ ではなく、彼は ⟨את⟩ 父が作ったバアルの柱像を取り除いた。",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "そして彼は行った"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "彼の父のよう"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "そして彼の母のよう"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "そして彼は取り除いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "バアルの柱像"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "柱像"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "バアルの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "作った"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父が"
+    }
+  ],
+  "timestamp": "2026-08-07T18:31:23.417401727Z",
+  "model": "glm-5.2"
+}

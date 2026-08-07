@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "ダビデはオルナンのもとに来た。オルナンは顔を上げ、⟨את⟩ダビデを見た。そして打ち場から出て、地に顔を伏せてダビデにひれ伏した。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "……来た"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "עד",
+      "gloss": "……のもとに"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "オルナン"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "顔を上げた"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "オルナンは"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "……見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダビデ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "……出た"
+    },
+    {
+      "surface": "מן",
+      "gloss": "……から"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "打ち場"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ひれ伏した"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ダビデに"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "顔を"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:33.220509761Z",
+  "model": "glm-5.2"
+}

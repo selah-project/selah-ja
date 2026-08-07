@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "何を〈あなたがたは〉するのか、定めの日のために、そしてヤハウェの祭りの日のために。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "あなたがたはするのか"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "日のために"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "定めの"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "そして日のために"
+    },
+    {
+      "surface": "חג",
+      "gloss": "祭りの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:20:13.336842276Z",
+  "model": "glm-5.2"
+}

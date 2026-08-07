@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "「イスラエルの子らの全会衆のうちから、彼らの氏族ごとに、彼らの父祖の家ごとに、名の数によって、すべての男子を頭数で数え上げよ。⟨את⟩頭を上げよ",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "上げよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "頭"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "会衆"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "彼らの氏族ごとに"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "家ごとに"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "彼らの父祖の"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "数によって"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名の"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男子"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "頭数で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:45:01.227301171Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 16:8",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "因为ヘシュボンの農地は枯れ、シブマのブドウの木も。ゴイムの主たちがその選りすぐりのつるを打ち砕いた。ヤアゼルにまで達した、荒野に迷い込んだ。その若枝は打ち捨てられ、海を渡った。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ゆえに"
+    },
+    {
+      "surface": "שדמות",
+      "gloss": "農地は"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ヘシュボンの"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "枯れ"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ブドウの木も"
+    },
+    {
+      "surface": "שבמה",
+      "gloss": "シブマの"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "主たち"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ゴイムの"
+    },
+    {
+      "surface": "הלמו",
+      "gloss": "打ち砕いた"
+    },
+    {
+      "surface": "שרוקיה",
+      "gloss": "その選りすぐりのつるを"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜にまで"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ヤアゼル"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "達した"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "迷い込んだ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "荒野に"
+    },
+    {
+      "surface": "שלחותיה",
+      "gloss": "その若枝は"
+    },
+    {
+      "surface": "נטשו",
+      "gloss": "打ち捨てられ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "渡った"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:24:52.658213686Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "もしその献げ物が群れから——羊から、あるいは山羊から——全焼の献げ物であるなら、彼は傷のない雄を献げなければならない。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "もしそうなら"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "群れの"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "その献げ物が"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "羊の"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "山羊の"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "全焼の献げ物として"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "雄を"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "傷のない"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "彼は献げる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:48.979993426Z",
+  "model": "glm-5.2"
+}

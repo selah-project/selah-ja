@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "私は私のわざを大いなった、私は私に家々を建てた、私は私に葡萄園を植えた。",
+  "tokens": [
+    {
+      "surface": "הִגְדַּ֖לְתִּי",
+      "gloss": "私は大いなった"
+    },
+    {
+      "surface": "מַעֲשָׂ֑י",
+      "gloss": "私のわざを"
+    },
+    {
+      "surface": "בָּנִ֤יתִי",
+      "gloss": "私は建てた"
+    },
+    {
+      "surface": "לִי֙",
+      "gloss": "私に"
+    },
+    {
+      "surface": "בָּתִּ֔ים",
+      "gloss": "家々を"
+    },
+    {
+      "surface": "נָטַ֥עְתִּי",
+      "gloss": "私は植えた"
+    },
+    {
+      "surface": "לִ֖י",
+      "gloss": "私に"
+    },
+    {
+      "surface": "כְּרָמִֽים",
+      "gloss": "葡萄園を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:25.488799469Z",
+  "model": "glm-5.2"
+}

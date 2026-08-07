@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "そして彼は ⟨את⟩ 彼の兄弟たちを送り出した、そして彼らは去って行った。そして彼は彼らに言った：「道中で騒ぐな。」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…送り出した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の兄弟たち"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄弟たち"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "そして彼らは去って行った"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…な"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "騒ぐ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道中で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:10:19.874303263Z",
+  "model": "glm-5.2"
+}

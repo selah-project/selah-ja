@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 83,
+  "translation": "彼らは恥じ入り、永遠まで恐れおののけ、彼らは辱めを受け、滅びうせよ。",
+  "tokens": [
+    {
+      "surface": "יֵבֹשׁוּ",
+      "gloss": "彼らは恥じ入り"
+    },
+    {
+      "surface": "וְיִבָּהֲלוּ",
+      "gloss": "恐れおののけ"
+    },
+    {
+      "surface": "עֲדֵי",
+      "gloss": "永遠まで"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "וְיַחְפְּרוּ",
+      "gloss": "辱めを受け"
+    },
+    {
+      "surface": "וְיֹאבֵדוּ",
+      "gloss": "滅びうせよ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:47.325383689Z",
+  "model": "glm-5.2"
+}

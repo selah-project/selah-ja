@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "あなたはそれを香として作らなければならない — 調合物、調合師のわざ、塩を振りかけたもの、純粋、聖なるもの。⟨את⟩",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "あなたは作らなければならない"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それを（香）"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香として"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "調合物"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "わざ"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "調合師の"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "塩を振りかけた"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純粋"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なるもの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:18.325357900Z",
+  "model": "glm-5.2"
+}

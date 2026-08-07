@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 11:11",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "これらはダヴィドの勇士たちの数である。ヤシュブアム、ハクモニの子、三十人の長——彼は⟨את⟩自分の槍を振るった、三百人の被打ち倒された者に対して、一時に。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "数である"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "勇士たちの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜の"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "ישבעם",
+      "gloss": "ヤシュブアム"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "חכמוני",
+      "gloss": "ハクモニ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "長"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "三十人の"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "振るった"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の槍"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "自分の槍"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "被打ち倒された者"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "一時に"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一つの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:54.843859342Z",
+  "model": "glm-5.2"
+}

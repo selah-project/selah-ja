@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "自分の心に信頼する者、⟨彼⟩は愚か者。しかし知恵に歩む者、⟨彼⟩は逃れられる。",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "信頼する者"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "自分の心に"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼⟩"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚か者"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "しかし…歩む者"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "知恵に"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼⟩"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "逃れられる"
+    }
+  ],
+  "timestamp": "2026-08-07T14:40:41.623508286Z",
+  "model": "glm-5.2"
+}

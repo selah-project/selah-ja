@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 13:28",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "彼は行って、道に投げ出された彼の死骸を、またろばと獅子が死骸のかたわらに立っているのを見つけた。獅子は死骸を食べず、ろばもかみ砕かなかった。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "彼は行って"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "見つけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の死骸"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "彼の死骸"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "投げ出された"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道に"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ろばと"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "獅子が"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "立っている"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "かたわらに"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "死骸"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ず"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食べ"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "獅子は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "死骸"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "死骸"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "かみ砕く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ろば"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ろばも"
+    }
+  ],
+  "timestamp": "2026-08-07T11:03:14.936933969Z",
+  "model": "glm-5.2"
+}

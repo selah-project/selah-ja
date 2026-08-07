@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "ペリシテ人はシャウルとその息子たちに迫り、ペリシテ人は ⟨את⟩ ヨナタンと ⟨את⟩ アビナダブと ⟨את⟩ マルキ・シュアを打った――シャウルの息子たちである。",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "迫った"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シャウル"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルに"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その息子たち"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "その息子たちに"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "打った"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨナタン"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ヨナタン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アビナダブ"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "アビナダブ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "マルキ・シュア"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "マルキ"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "・シュア"
+    },
+    {
+      "surface": "בני",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:39.654310131Z",
+  "model": "glm-5.2"
+}

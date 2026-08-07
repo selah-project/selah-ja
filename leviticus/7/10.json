@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 7:10",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして油を混ぜられたすべての穀物の供え物、および乾いたものは、アハロンのすべての子らのものとなる、兄弟たちと同様に一人一人に。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "穀物の供え物"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "混ぜられた"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "油で"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "および乾いたもの"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "〜すべてのものとなる"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロンの"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "それは属するであろう"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一人一人"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "その兄弟たちと同様に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:33:31.521903605Z",
+  "model": "glm-5.2"
+}

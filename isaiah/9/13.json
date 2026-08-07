@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてヤハウェはイスラエルから頭と尾、棕櫚の葉と葦を一日のうちに切り払われた。",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "そして切り払われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "イスラエルから"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "と尾"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "棕櫚の葉"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "と葦"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日の"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:13.842015861Z",
+  "model": "glm-5.2"
+}

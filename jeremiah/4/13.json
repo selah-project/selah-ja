@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 4:13",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "見よ、雲のように⟨彼は⟩上り、つむじ風のように⟨彼の⟩戦車は⟨来る⟩。⟨彼の⟩馬は鷲よりも速い。わざわいだ、私たちは、荒らされたからだ。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "כעננים",
+      "gloss": "雲のように"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "上り"
+    },
+    {
+      "surface": "וכסופה",
+      "gloss": "つむじ風のように"
+    },
+    {
+      "surface": "מרכבותיו",
+      "gloss": "彼の戦車"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "速い"
+    },
+    {
+      "surface": "מנשרים",
+      "gloss": "鷲よりも"
+    },
+    {
+      "surface": "סוסיו",
+      "gloss": "彼の馬"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "わざわいだ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "שדדנו",
+      "gloss": "荒らされた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:40:43.146614991Z",
+  "model": "glm-5.2"
+}

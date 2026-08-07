@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "ヤハウェはアハロンに語って言われた。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:39.317771129Z",
+  "model": "glm-5.2"
+}

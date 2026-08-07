@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 112,
+  "translation": "悪い知らせを聞いても恐れない。彼の心は堅く据えられ、ヤハウェに身を委ねる。",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "聞く（知らせ）"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "堅く据えられ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "彼の心は"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "身を委ねる"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:26.999736123Z",
+  "model": "glm-5.2"
+}

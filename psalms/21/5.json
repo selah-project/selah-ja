@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "命をあなたに求めた、あなたは⟨彼に⟩与えた — 日々の長さを、とこしえと永遠に。",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "命を"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "求めた"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨彼に⟩"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長さを"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々の"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "とこしえ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "と永遠に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:27.299482432Z",
+  "model": "glm-5.2"
+}

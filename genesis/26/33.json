@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そして彼は⟨את⟩それをシェバと呼んだ。それゆえ、その町の名はベエル・シェバ（誓いの井戸）と⟨呼ばれている⟩、この日に至るまで。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "そして彼は呼んだ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "シェバ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "シェバ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町の"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ベエル（井戸）"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "シェバ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "היום",
+      "gloss": "この日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T08:58:51.247109857Z",
+  "model": "glm-5.2"
+}

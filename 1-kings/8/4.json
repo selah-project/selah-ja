@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼らは⟨את⟩ヤハウェの箱と、⟨את⟩会見の天幕と、⟨את⟩天幕にある聖なる器具のすべてを運び上げた。そして祭司たちとレビ人たちが⟨את⟩それらを運び上げた。",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "そして運び上げた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "箱を"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "天幕を"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕を"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "すべてを"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべてを"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具の"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜にある"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "そして運び上げた"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それらを"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たちと"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "レビ人たちが"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:48.967159527Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 13:3",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてアムノンには友がいた。その名はヨナダブ、シムアの子、ダビデの兄弟であった。そしてヨナダブは非常に賢い ⟨男⟩ であった。",
+  "tokens": [
+    {
+      "surface": "ולאמנון",
+      "gloss": "アムノンには"
+    },
+    {
+      "surface": "רע",
+      "gloss": "友"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "そして彼の名は"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "ヨナダブ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "シムア"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "…の兄弟"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "ויונדב",
+      "gloss": "そしてヨナダブは"
+    },
+    {
+      "surface": "איש",
+      "gloss": "…の男"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "賢い"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:53:17.183795317Z",
+  "model": "glm-5.2"
+}

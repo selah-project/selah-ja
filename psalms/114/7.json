@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 114,
+  "translation": "主の、⟨御⟩ 前から、地よ、身震いせよ。ヤコブのエロハの、⟨御⟩ 前から。",
+  "tokens": [
+    {
+      "surface": "מִלִּפְנֵ֣י",
+      "gloss": "〜の前から"
+    },
+    {
+      "surface": "אָ֭דוֹן",
+      "gloss": "主の"
+    },
+    {
+      "surface": "ח֣וּלִי",
+      "gloss": "身震いせよ"
+    },
+    {
+      "surface": "אָ֑רֶץ",
+      "gloss": "地よ"
+    },
+    {
+      "surface": "מִּלִפְנֵ֗י",
+      "gloss": "〜の前から"
+    },
+    {
+      "surface": "אֱל֣וֹהַּ",
+      "gloss": "エロハの"
+    },
+    {
+      "surface": "יַעֲקֹֽב",
+      "gloss": "ヤコブの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:28.891138727Z",
+  "model": "glm-5.2"
+}

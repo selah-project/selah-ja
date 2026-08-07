@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてアッシュルの王が全地に上り、シュモロンに上って、これに向けて三年間包囲した。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "そして…上った"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アッシュルの"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全…に"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "そして…上った"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "シュモロンに"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "そして…包囲した"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "これに向けて"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年間"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:44.649577371Z",
+  "model": "glm-5.2"
+}

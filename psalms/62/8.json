@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 62,
+  "translation": "エロヒムの上に — 私の救い、そして私の栄光。私の力の岩、私の避け所はエロヒムのうちに。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "私の救い"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "そして私の栄光"
+    },
+    {
+      "surface": "צור",
+      "gloss": "岩"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "私の力の"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "私の避け所"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "エロヒムのうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:02.909859437Z",
+  "model": "glm-5.2"
+}

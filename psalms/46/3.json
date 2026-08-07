@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "それゆえ、わたしたちは恐れない。地が変わり、山々が海の真ん中に移されようとも。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "～に"
+    },
+    {
+      "surface": "כן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "わたしたちは恐れる"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "変わるとも"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地が"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "移されようとも"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山々が"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "～の真ん中に"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "海の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:21.621027970Z",
+  "model": "glm-5.2"
+}

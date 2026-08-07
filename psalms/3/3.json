@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "多いのが、言っている、わたしの命について、「いない、救いが、彼 ⟨に⟩、エロヒム ⟨の⟩ 中に」セラ。",
+  "tokens": [
+    {
+      "surface": "רַבִּים",
+      "gloss": "多いのが"
+    },
+    {
+      "surface": "אֹמְרִים",
+      "gloss": "言っている"
+    },
+    {
+      "surface": "לְנַפְשִׁי",
+      "gloss": "わたしの命について"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "יְשׁוּעָתָה",
+      "gloss": "救いが"
+    },
+    {
+      "surface": "לּוֹ",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בֵּאלֹהִים",
+      "gloss": "エロヒムの中に"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:06.424357819Z",
+  "model": "glm-5.2"
+}

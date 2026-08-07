@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 7:4",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "彼らはみな姦淫する者々である。パン焼きのために燃えるかまどのようだ。小麦粉をこねて、それが膨らむまで、かまどをかき立てるのを休む者のように。",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "彼らはみな"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "姦淫する者々"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "〜のようである"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "かまど"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "燃える"
+    },
+    {
+      "surface": "מאפה",
+      "gloss": "パン焼きのために"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "休む"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "かき立てるのを"
+    },
+    {
+      "surface": "מלוש",
+      "gloss": "こねる"
+    },
+    {
+      "surface": "בצק",
+      "gloss": "小麦粉を"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "חמצתו",
+      "gloss": "それが膨らむ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:18:39.863043564Z",
+  "model": "glm-5.2"
+}

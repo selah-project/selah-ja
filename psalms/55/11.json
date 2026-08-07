@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "昼も夜も、彼らはその城壁の上を巡り、⟨そして⟩不義と労苦がその中にある。",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "昼も"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "夜も"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "彼らは巡る"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上を"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "その城壁"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "そして不義"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "と労苦"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "その中に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:06.859240388Z",
+  "model": "glm-5.2"
+}

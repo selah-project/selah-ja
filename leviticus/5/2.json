@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 5:2",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "または、誰かが汚れたものすべてに触れる ⟨場合⟩ — 汚れた野獣の死骸、あるいは汚れた家畜の死骸、あるいは汚れた這うものの死骸に — そしてそれが本人に隠されていたなら、彼は汚れており、咎を負う。",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "誰かが"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "触れる"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ものに"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れた"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "בנבלת",
+      "gloss": "死骸に"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "野獣の"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "汚れた"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "בנבלת",
+      "gloss": "死骸に"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "家畜の"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "汚れた"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "בנבלת",
+      "gloss": "死骸に"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "這うものの"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れた"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "そして隠されていた"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "本人から"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そして彼は"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れており"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "咎を負う"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:05.583177372Z",
+  "model": "glm-5.2"
+}

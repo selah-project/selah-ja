@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして私は振り向いた、私の心を ⟨את⟩ 絶望させようと、私が労したすべての労苦の上で、太陽の下で。",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "そして私は振り向いた"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "絶望させようと"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の心を"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "私の心を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "労苦"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "私が労した"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下で"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    }
+  ],
+  "timestamp": "2026-08-07T14:42:20.623521198Z",
+  "model": "glm-5.2"
+}

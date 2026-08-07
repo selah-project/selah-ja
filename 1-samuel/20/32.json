@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "エホナタンはサウル ⟨את⟩ ⟨自分の⟩父に答え、彼に言った。「なぜ彼は死ななければならないのか。彼が何をしたというのか。」",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "そして答えた"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "エホナタンは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "サウル"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウル"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "自分の父"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "死ななければならないのか"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "したというのか"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:31.073928988Z",
+  "model": "glm-5.2"
+}

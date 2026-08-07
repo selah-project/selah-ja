@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 31:30",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "「むしろ、おのおの ⟨は⟩ 自分の咎によって死ぬ。酸っぱいぶどうを食べるすべての人、彼の歯が鈍くなる。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "むしろ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜（のみ）"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの（人）"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "自分の咎によって"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死ぬ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "הבסר",
+      "gloss": "酸っぱいぶどうを"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "鈍くなる"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "彼の歯"
+    }
+  ],
+  "timestamp": "2026-08-07T11:50:11.179968861Z",
+  "model": "glm-5.2"
+}

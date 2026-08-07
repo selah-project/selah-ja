@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joel 1:12",
+  "book": "joel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ぶどうの木は枯れた。いちじくの木は衰えた。ざくろ、またなつめやし、りんご、野のすべての木も枯れた。人の子らから喜びが枯れ果てたからである。",
+  "tokens": [
+    {
+      "surface": "הגפן",
+      "gloss": "ぶどうの木は"
+    },
+    {
+      "surface": "הובישה",
+      "gloss": "枯れた"
+    },
+    {
+      "surface": "והתאנה",
+      "gloss": "いちじくの木も"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "衰えた"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ざくろ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "なつめやし"
+    },
+    {
+      "surface": "ותפוח",
+      "gloss": "りんご"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木も"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野の"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "枯れた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "枯れ果てた"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "喜びが"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人の"
+    }
+  ],
+  "timestamp": "2026-08-07T17:12:11.558788226Z",
+  "model": "glm-5.2"
+}

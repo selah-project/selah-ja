@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてモシェは彼らを⟨את⟩遣わした、パランの荒野から、ヤハウェの口によって。彼らはすべて、人々であり、イスラエルの子らの長であった、彼らである。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして……は遣わした"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼らを"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "……の荒野から"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "パラン"
+    },
+    {
+      "surface": "על",
+      "gloss": "……によって"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口の"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "彼らはすべて"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人々であり"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "長であった"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……の子らの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼らである"
+    }
+  ],
+  "timestamp": "2026-08-07T09:55:35.454915201Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 11:9",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "口によって偽信者は隣人を滅ぼし、知識によって義人たちは⟨救い出される⟩。",
+  "tokens": [
+    {
+      "surface": "בפה",
+      "gloss": "口によって"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "偽信者は"
+    },
+    {
+      "surface": "ישחת",
+      "gloss": "滅ぼす"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "隣人を"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "知識によって"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人たちは"
+    },
+    {
+      "surface": "יחלצו",
+      "gloss": "救い出される"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:46.104754423Z",
+  "model": "glm-5.2"
+}

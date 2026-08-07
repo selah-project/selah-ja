@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "汝、汝の隣人に対し偽りの証人として答えてはならない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "答える"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "汝の隣人に対して"
+    },
+    {
+      "surface": "עד",
+      "gloss": "証人"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:21.048090137Z",
+  "model": "glm-5.2"
+}

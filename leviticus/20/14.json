@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "また男で、⟨את⟩女と⟨את⟩その母を娶る者、それは邪悪な企てである、火で⟨彼⟩と⟨彼女たち⟩を焼き尽くさなければならない、あなたがたのただ中に邪悪な企てがあってはならない",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "また男"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である者"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "娶る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "女"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その母"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "その母"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "邪悪な企て"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それ〜である"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "焼き尽くす"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨彼⟩"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "⟨彼女たち⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜てはならない"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "邪悪な企て"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "あなたがたのただ中に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:08.812754253Z",
+  "model": "glm-5.2"
+}

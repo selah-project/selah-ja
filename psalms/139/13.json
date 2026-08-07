@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 139,
+  "translation": "あなたが私の腎を造り、私を母の胎の中で覆ってくださったからである。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אַ֭תָּה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "קָנִ֣יתָ",
+      "gloss": "造られた"
+    },
+    {
+      "surface": "כִלְיֹתָ֑י",
+      "gloss": "私の腎を"
+    },
+    {
+      "surface": "תְּ֝סֻכֵּ֗נִי",
+      "gloss": "覆ってくださった"
+    },
+    {
+      "surface": "בְּבֶ֣טֶן",
+      "gloss": "胎の中で"
+    },
+    {
+      "surface": "אִמִּֽי",
+      "gloss": "私の母の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:41.654769356Z",
+  "model": "glm-5.2"
+}

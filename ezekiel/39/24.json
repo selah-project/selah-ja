@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "彼らの汚れに従い、彼らの背きに従い、わたしは⟨את⟩彼らに対して行ない、わたしは顔を彼らから隠した。",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "彼らの汚れに従い"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "彼らの背きに従い"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "わたしは行なった"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼らに対して"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "わたしは隠した"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔を"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "彼らから"
+    }
+  ],
+  "timestamp": "2026-08-07T12:14:15.146680338Z",
+  "model": "glm-5.2"
+}

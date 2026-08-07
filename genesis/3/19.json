@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 3:19",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "あなたは顔の汗でパンを食べる — あなたが土に帰るまで。そこからあなたは取られたのだから。あなたは塵だから。そして塵にあなたは帰る —",
+  "tokens": [
+    {
+      "surface": "בזעת",
+      "gloss": "汗で"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "あなたの顔の"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "あなたは食べる"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "あなたが帰る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "あなたは取られた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塵"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塵"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "あなたは帰る"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:41.061185781Z",
+  "model": "glm-5.2"
+}

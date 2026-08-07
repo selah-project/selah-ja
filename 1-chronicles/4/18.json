@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 4:18",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼のユダの妻は⟨את⟩エレドを産んだ—ゲドルの父—、そして⟨את⟩ヘベルを—ソコの父—、そして⟨את⟩イェクティエルを—ザノアハの父。これらはパロの娘ビティヤの子らである。⟨彼女を⟩メレドは⟨妻として⟩迎えた。",
+  "tokens": [
+    {
+      "surface": "ואשתו",
+      "gloss": "そして彼の妻"
+    },
+    {
+      "surface": "היהדיה",
+      "gloss": "ユダの女"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エレド"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "エレド"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "גדור",
+      "gloss": "ゲドル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ヘベル"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ヘベル"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "ソコ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "イェクティエル"
+    },
+    {
+      "surface": "יקותיאל",
+      "gloss": "イェクティエル"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "זנוח",
+      "gloss": "ザノアハ"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "בתיה",
+      "gloss": "ビティヤ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "〜の娘"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "メレドは迎えた"
+    },
+    {
+      "surface": "מרד",
+      "gloss": "メレド"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:05.872127320Z",
+  "model": "glm-5.2"
+}

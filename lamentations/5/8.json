@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "奴隷たちが私たちの上に支配した、⟨私たちを⟩彼らの手から引き離す者はいない。",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "奴隷たちが"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "支配した"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "私たちの上に"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "引き離す"
+    },
+    {
+      "surface": "אין",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "彼らの手から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:47.197775345Z",
+  "model": "glm-5.2"
+}

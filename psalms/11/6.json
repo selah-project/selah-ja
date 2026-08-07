@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "悪者たちの上に、火の網と硫黄と、燃え立つ風を降らせられる — ⟨これ⟩は彼らの杯の分け前である。",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "降らせられる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たち"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "網"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火の"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "硫黄と"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "燃え立つ"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "分け前"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "彼らの杯の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:50.547302509Z",
+  "model": "glm-5.2"
+}

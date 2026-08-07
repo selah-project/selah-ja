@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "その時、ふたりの女、遊女たちが王のところに来て、彼の前に立った。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "その時"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "彼女らは来た"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ふたりの"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "女"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "遊女たち"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところに"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "彼女らは立った"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "彼の前に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:48.976711058Z",
+  "model": "glm-5.2"
+}

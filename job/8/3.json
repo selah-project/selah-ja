@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "エルは裁きを曲げるのか。それともシャッダイは正しさを曲げるのか。",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "曲げる"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "裁き"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "それとも"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "シャッダイ"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "曲げる"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "正しさ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:03.183128282Z",
+  "model": "glm-5.2"
+}

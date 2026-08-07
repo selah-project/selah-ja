@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "それが私の母の胎の扉を閉ざさず、苦労を私の目から隠さなかったからである。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だからである"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ず"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "閉ざさ"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "扉を"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "私の胎の"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "そして隠さなかった"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "苦労を"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "私の目から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:51.710823484Z",
+  "model": "glm-5.2"
+}

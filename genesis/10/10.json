@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "彼の王国の初めはバベル、そしてエレク、そしてアッカド、そしてカルネであった — シュナルの地に。",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "初め"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "彼の王国の"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バベル"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "そしてエレク"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "そしてアッカド"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "そしてカルネ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "〜の地に"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "シュナル"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:35.088436975Z",
+  "model": "glm-5.2"
+}

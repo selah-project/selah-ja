@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "海を叱りつけ、それを乾かし、すべての川を乾上がらせる。バシャンは萎え、カルメルも、レバノンの花も萎える。",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "叱りつける"
+    },
+    {
+      "surface": "בים",
+      "gloss": "海を"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "かつそれを乾かし"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "かつすべての"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "川"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "乾上がらせる"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "萎える"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "バシャン"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "かつカルメル"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "かつ花"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "レバノン"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "萎える"
+    }
+  ],
+  "timestamp": "2026-08-07T12:27:49.918539266Z",
+  "model": "glm-5.2"
+}

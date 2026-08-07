@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "偶像に向きを変えるな。鋳造のエロヒムを自分のために作ってはならない。私があなたがたのエロヒム、ヤハウェである。",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תִּפְנוּ",
+      "gloss": "向きを変える"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "הָאֱלִילִים",
+      "gloss": "偶像"
+    },
+    {
+      "surface": "וֵאלֹהֵי",
+      "gloss": "そして〜のエロヒム"
+    },
+    {
+      "surface": "מַסֵּכָה",
+      "gloss": "鋳造"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תַעֲשׂוּ",
+      "gloss": "作る"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "自分のために"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "私"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶם",
+      "gloss": "あなたがたのエロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:44.180265512Z",
+  "model": "glm-5.2"
+}

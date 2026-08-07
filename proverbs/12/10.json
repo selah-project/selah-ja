@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "正しい者は自分の獣のネルフェシュを知る、しかし悪者たちのラハミーは残酷である。",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しい者"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ネルフェシュ"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "自分の獣"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "しかし…のラハミー"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たち"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "残酷である"
+    }
+  ],
+  "timestamp": "2026-08-07T17:24:43.270302444Z",
+  "model": "glm-5.2"
+}

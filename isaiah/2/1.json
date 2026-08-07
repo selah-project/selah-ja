@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "イェシャヤフ、アモツの子が見た言葉、⟨すなわち⟩ユダとイェルシャライムについての⟨もの⟩。",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "見た"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "イェシャヤフ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "アモツ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜についての"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "とイェルシャライム"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:56.359317868Z",
+  "model": "glm-5.2"
+}

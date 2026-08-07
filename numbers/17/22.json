@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "モーシェは ⟨את⟩ 杖たちをヤハウェの前に、証の天幕の中に置いた。",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "杖たち"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "杖たち"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "天幕の中に"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "証の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:57:50.888978451Z",
+  "model": "glm-5.2"
+}

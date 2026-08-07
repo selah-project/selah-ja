@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてあなたがたは彼らの 憎むべきもの と、彼らの 偶像 を見た、木 と 石、銀 と 金、彼らとともに あるもの を。",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "そしてあなたがたは見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの憎むべきもの"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "彼らの憎むべきもの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "彼らの偶像"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "彼らの偶像"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "および石"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "および金"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "彼らとともに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:20:10.359891317Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "あなたの天を、あなたの指の業を、わたしが見るとき − 月と星を、あなたが据えられたのを −",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜するとき"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "わたしが見る"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "あなたの天を"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "〜の業を"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "あなたの指の"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "月と"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "星を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "あなたが据えられた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:53.171379061Z",
+  "model": "glm-5.2"
+}

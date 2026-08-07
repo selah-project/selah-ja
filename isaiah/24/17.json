@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "恐怖と穴と罠が⟨あなたの上に⟩、地に住む者よ。",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "恐怖"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "と穴"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "と罠"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたの上に"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "住む者よ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:16.832731217Z",
+  "model": "glm-5.2"
+}

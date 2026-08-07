@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "⟨את⟩ 全焼の祭壇 と⟨את⟩ 青銅の格子 — それに属する — ⟨את⟩ その棒 と⟨את⟩ すべての その器具 ⟨את⟩ 洗盤 と⟨את⟩ その台座、",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "格子"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "格子"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜に属する"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その棒"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "その棒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "その器具"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "洗盤"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "洗盤"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "その台座"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "その台座"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:35.006361826Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 14:14",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "退く心は自らの道から満ち足り、その上に⟨⟩善き人は⟨満ち足りる⟩。",
+  "tokens": [
+    {
+      "surface": "מִדְּרָכָיו",
+      "gloss": "自らの道から"
+    },
+    {
+      "surface": "יִשְׂבַּע",
+      "gloss": "満ち足りる"
+    },
+    {
+      "surface": "סוּג",
+      "gloss": "退く"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "心"
+    },
+    {
+      "surface": "וּמֵעָלָיו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "人"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "善き"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:23.519223327Z",
+  "model": "glm-5.2"
+}

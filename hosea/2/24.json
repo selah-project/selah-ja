@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして地は ⟨את⟩ 穀物に、⟨את⟩ 新酒に、⟨את⟩ 油に応え、それらは ⟨את⟩ イズレエルに応えるであろう。",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "そして地は"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "応える"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "穀物"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "穀物"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "新酒"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "新酒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "油"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "油"
+    },
+    {
+      "surface": "והם",
+      "gloss": "そしてそれらは"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "応える"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イズレエル"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "イズレエル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:17:54.888133817Z",
+  "model": "glm-5.2"
+}

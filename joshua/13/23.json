@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 13:23",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてルベンの子らの境界は、ヨルデンとその境界であった。これがルベンの子らの相続地、彼らの氏族に従って — その都市々とその村落々。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そして…であった"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ルベン"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "そのヨルデン"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "そして境界"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これが"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "相続地"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ルベン"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "彼らの氏族に従って"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "その都市々"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "そしてその村落々"
+    }
+  ],
+  "timestamp": "2026-08-07T10:27:37.366026802Z",
+  "model": "glm-5.2"
+}

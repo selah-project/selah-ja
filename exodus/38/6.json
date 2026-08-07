@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そして彼は⟨את⟩その棒をシッティムの木で作り、それらを青銅で覆った。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして作った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その棒"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "その棒を"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木の"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "シッティム"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "そして覆った"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "それらを"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:02.741701552Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ふたりとも裸であった、ハ・アダムと⟨彼の⟩妻、そして恥じらなかった。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ふたりとも"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "裸で"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ハ・アダム"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "と⟨彼の⟩妻"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "恥じられた"
+    }
+  ],
+  "timestamp": "2026-08-07T18:25:09.488442142Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "聞く者が⟨את⟩シャファールの声を聞いても警告を受け入れず、剣が来て彼を捕えるなら、彼の血は彼の上にある。}",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "聞く"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "聞く者"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "声"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "シャファール"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "警告を受ける"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "彼を捕える"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "彼の血"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "彼の上に"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ある"
+    }
+  ],
+  "timestamp": "2026-08-07T14:36:40.123770938Z",
+  "model": "glm-5.2"
+}

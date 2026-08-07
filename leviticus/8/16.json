@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "彼は⟨את⟩内臓の上にあるすべての脂肪と、肝臓の付属葉と、二つの腎臓と、それらの脂肪を取り、モーシェは祭壇の上で燔にした。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての脂肪"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上にある"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "内臓"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "付属葉"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "付属葉"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "肝臓の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "二つの腎臓"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "腎臓"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "それらの脂肪"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "それらの脂肪"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "燔にした"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "祭壄の上で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:26.862605700Z",
+  "model": "glm-5.2"
+}

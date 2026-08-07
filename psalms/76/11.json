@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 76,
+  "translation": "まことに人の怒りはあなたを賛美し、怒りの残りはあなたが帯として締める。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "חֲמַ֣ת",
+      "gloss": "怒りは"
+    },
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "תּוֹדְךָ֑",
+      "gloss": "あなたを賛美し"
+    },
+    {
+      "surface": "שְׁאֵרִ֖ית",
+      "gloss": "残りは"
+    },
+    {
+      "surface": "חֵמֹ֣ת",
+      "gloss": "怒りの"
+    },
+    {
+      "surface": "תַּחְגֹּֽר",
+      "gloss": "あなたが帯として締める"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:44.519671703Z",
+  "model": "glm-5.2"
+}

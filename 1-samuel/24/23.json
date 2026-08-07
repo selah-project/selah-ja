@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 24:23",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そしてダビデはシャウルに誓った。シャウルは自分の家へ帰り、ダビデと彼の部下たちは要塞へ上って行った。",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "そして誓った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "シャウルに"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "自分の家"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "そしてダビデと"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "彼の部下たちは"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "上って行った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "המצודה",
+      "gloss": "要塞"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:00.356342364Z",
+  "model": "glm-5.2"
+}

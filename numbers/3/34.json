@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 3:34",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "彼らの点呼された者⟨の数⟩は、一か月以上のすべての男子の数で、六千二百人であった。",
+  "tokens": [
+    {
+      "surface": "ופקדיהם",
+      "gloss": "そして彼らの点呼された者"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "数において"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男子"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "息子から"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "一か月の"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "および上"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "六"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "および二百"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:08.318675391Z",
+  "model": "glm-5.2"
+}

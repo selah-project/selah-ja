@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "そして彼らは⟨את⟩すべての分捕り物と⟨את⟩すべての獲物を取った――人と家畜のうちから。",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての分捕り物"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "分捕り物"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "すべての獲物"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "獲物"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "人のうちから"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "家畜のうちから"
+    }
+  ],
+  "timestamp": "2026-08-07T10:03:39.564128269Z",
+  "model": "glm-5.2"
+}

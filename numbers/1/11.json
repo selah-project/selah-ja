@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ベニヤミンには、アビダン、ギドニの子。",
+  "tokens": [
+    {
+      "surface": "לְבִ֨נְיָמִ֔ן",
+      "gloss": "ベニヤミンには"
+    },
+    {
+      "surface": "אֲבִידָ֖ן",
+      "gloss": "アビダン"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "～の子"
+    },
+    {
+      "surface": "גִּדְעֹנִֽי",
+      "gloss": "ギドニ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:24.779251436Z",
+  "model": "glm-5.2"
+}

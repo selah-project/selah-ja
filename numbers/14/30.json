@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 14:30",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "もしあなたがたが——私が⟨私の⟩手を上げてあなたがたをその地に住まわせようとした、あの地に入るとしたら——そのように、ただカレブ、エフネの子と、ヨシュア、ヌンの子だけが入ろう。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたがた"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "入る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～へ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～ところの"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "私は上げた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の手"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "私の手"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "住まわせるために"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたがたを"
+    },
+    {
+      "surface": "בה",
+      "gloss": "その地に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "実に"
+    },
+    {
+      "surface": "אם",
+      "gloss": "～ならば"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "カレブ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "～の子"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "エフネ"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "そしてヨシュア"
+    },
+    {
+      "surface": "בן",
+      "gloss": "～の子"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ヌン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:55:36.201508815Z",
+  "model": "glm-5.2"
+}

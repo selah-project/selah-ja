@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 35:24",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そして会衆は、打つ者と血の復讐者との間で、これらの規定にしたがって裁かなければならない。",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "そして裁かなければならない"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "会衆は"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間で"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "打つ者"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と〜の間で"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "復讐者"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血の"
+    },
+    {
+      "surface": "על",
+      "gloss": "にしたがって"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "規定"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:04:44.795233580Z",
+  "model": "glm-5.2"
+}

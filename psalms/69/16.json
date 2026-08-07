@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "水の奔流が私を押し流さないように、深淵が私を飲み込まないように、穴がその口を私の上に閉じないように。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "私を押し流さない"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "奔流が"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "私を飲み込まない"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "深淵が"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "閉じない"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私の上に"
+    },
+    {
+      "surface": "באר",
+      "gloss": "穴が"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "その口を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:38.519587476Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 60,
+  "translation": "諸国の民はあなたの光に向かって歩み、王たちはあなたの輝く日の出に向かって⟨歩む⟩。",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "そして歩む"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "諸国の民は"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "あなたの光に"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "そして王たちは"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "輝きに"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "あなたの日の出の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:37:22.534813673Z",
+  "model": "glm-5.2"
+}

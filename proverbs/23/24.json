@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "義人の父は大いに喜び躍る。知恵ある者を生んだ者は、その者によって喜ぶ。",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "大いに"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "喜び躍る"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "～の父"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "义人"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "生んだ者"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "知恵ある者"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "そして喜ぶ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "その者において"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:14.277369712Z",
+  "model": "glm-5.2"
+}

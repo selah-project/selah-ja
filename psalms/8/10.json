@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "ヤハウェ、われらの主よ、ああなんと威厳ある ⟨は⟩ あなたの名、全地において。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "われらの主よ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ああなんと"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "威厳ある"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの名"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全〜において"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:14.542567843Z",
+  "model": "glm-5.2"
+}

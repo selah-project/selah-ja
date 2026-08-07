@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "水の中でヒレとウロコを持たないすべてのもの — それはあなたたちにとって忌みものである。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべてのもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるもの"
+    },
+    {
+      "surface": "אין",
+      "gloss": "持たない"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ヒレ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "とウロコ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水の中で"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "忌みもの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちにとって"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:01.312435489Z",
+  "model": "glm-5.2"
+}

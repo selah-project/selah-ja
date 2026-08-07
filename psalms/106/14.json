@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "そして彼らは荒野で欲望を欲し、乾燥地でエルを試みた。",
+  "tokens": [
+    {
+      "surface": "וַיִּתְאַוּ֣וּ",
+      "gloss": "そして欲望を抱いた"
+    },
+    {
+      "surface": "תַ֭אֲוָה",
+      "gloss": "欲望"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֑ר",
+      "gloss": "荒野で"
+    },
+    {
+      "surface": "וַיְנַסּוּ",
+      "gloss": "そして試みた"
+    },
+    {
+      "surface": "אֵ֝ל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "בִּֽישִׁימֽוֹן",
+      "gloss": "乾燥地で"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:59.931181570Z",
+  "model": "glm-5.2"
+}

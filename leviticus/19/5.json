@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてあなたたちが和解の献牲をヤハウェに屠るなら、あなたたちの受け入れのためにそれを屠らなければならない。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "あなたたちが屠る"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "献牲"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "和解の"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "あなたたちの受け入れのために"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "あなたたちはそれを屠らなければならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:36.709349719Z",
+  "model": "glm-5.2"
+}

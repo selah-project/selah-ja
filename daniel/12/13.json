@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "あなたは終わりまで進め。そしてあなたは休み、あなたの割り当てのために立つ、日々の終わりに。」",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "לך",
+      "gloss": "進め"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "終わりまで"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "そしてあなたは休む"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "そしてあなたは立つ"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "あなたの割り当てのために"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "終わりに"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "日々の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:48:55.151349099Z",
+  "model": "glm-5.2"
+}

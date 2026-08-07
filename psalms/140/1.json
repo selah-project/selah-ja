@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 140,
+  "translation": "指揮者に。ダヴィデのの楽曲。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者に"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "楽曲"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダヴィデの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:28.728623050Z",
+  "model": "glm-5.2"
+}

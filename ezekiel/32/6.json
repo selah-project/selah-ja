@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 32:6",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "わたしはあなたの血で地に、あなたの覆う水を注ぎ、山々に至るまで。谷川はあなたから満たされよう。",
+  "tokens": [
+    {
+      "surface": "והשקיתי",
+      "gloss": "わたしは注ぎ潤す"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "צפתך",
+      "gloss": "あなたの覆う水"
+    },
+    {
+      "surface": "מדמך",
+      "gloss": "あなたの血で"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "山々"
+    },
+    {
+      "surface": "ואפקים",
+      "gloss": "谷川"
+    },
+    {
+      "surface": "ימלאון",
+      "gloss": "満たされよう"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "あなたから"
+    }
+  ],
+  "timestamp": "2026-08-07T14:35:48.849772724Z",
+  "model": "glm-5.2"
+}

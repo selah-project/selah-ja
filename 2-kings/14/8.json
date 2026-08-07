@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 14:8",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そのとき、アマツヤは使者たちをヤホアハズの子ヤホアシュ、イェフの子、イスラエルの王のもとに遣わした。仰せられた。「来たれ。われわれは顔を見合わせよう。」",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "そのとき"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "彼は遣わした"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "アマツヤは"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使者たちを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のもとに"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "ヤホアシュ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "ヤホアハズ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "イェフ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "仰せられた"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "来たれ"
+    },
+    {
+      "surface": "נתראה",
+      "gloss": "われわれは見よう"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "顔を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:15:28.667840759Z",
+  "model": "glm-5.2"
+}

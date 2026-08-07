@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 9:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "あざける者を訓戒する者⟨は⟩、自分の恥を引き受け、悪者を戒める者⟨は⟩、自分の傷を⟨引き受ける⟩。",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "訓戒する者"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "あざける者を"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "引き受け"
+    },
+    {
+      "surface": "לו",
+      "gloss": "自分の"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "恥を"
+    },
+    {
+      "surface": "ומוכיח",
+      "gloss": "戒める者"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "悪者を"
+    },
+    {
+      "surface": "מומו",
+      "gloss": "自分の傷を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:16.815719178Z",
+  "model": "glm-5.2"
+}

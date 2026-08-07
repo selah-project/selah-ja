@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "支配する者が偽りのことばに耳を傾ければ、そのすべての仕える者たちは邪悪である。",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "支配する者が"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "耳を傾ければ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りの"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "その仕える者たちは"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "邪悪である"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:37.966184670Z",
+  "model": "glm-5.2"
+}

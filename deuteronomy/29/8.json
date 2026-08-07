@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてあなたがたはこの契約の言葉を守り、それを行いなさい。それはあなたがたが行うすべての事において識別するためである。",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "そしてあなたがたは守れ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この契約の言葉"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "契約の"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "そしてあなたがたは行え"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "それらを"
+    },
+    {
+      "surface": "למען",
+      "gloss": "～のため"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "あなたがたが識別する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～ところの"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "あなたがたが行う"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:22.931512488Z",
+  "model": "glm-5.2"
+}

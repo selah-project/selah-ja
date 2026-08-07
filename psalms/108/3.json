@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 108,
+  "translation": "目覚めよ、ネヴェルとキノル、私は目覚めさせる、夜明けを。",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "目覚めよ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ネヴェル（立琴）"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "とキノル（竪琴）"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "私は目覚めさせる"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "夜明けを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:53.781643069Z",
+  "model": "glm-5.2"
+}

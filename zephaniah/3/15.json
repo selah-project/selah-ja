@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ヤハウェはあなたのさばきを取り除き、あなたの敵を退けた。イスラエルの王、ヤハウェがあなたのうちに ⟨いる⟩、あなたはもはや悪を恐れる ⟨ことはない⟩。",
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "取り除いた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "あなたのさばきを"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "退けた"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "あなたの敵を"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "あなたのうちに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "あなたは恐れる"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    }
+  ],
+  "timestamp": "2026-08-07T14:37:37.261422691Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "ヨアブに告げられた。「見よ、王は泣き、アブシャロムのために悼んでおられる。」",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "告げられた"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "ヨアブに"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "泣いている"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "悼んでおられる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "アブシャロム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:55:26.154099428Z",
+  "model": "glm-5.2"
+}

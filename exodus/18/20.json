@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてあなたは彼らに ⟨את⟩ 定めと ⟨את⟩ トーラーを警告し、彼らに ⟨את⟩ ⟨その⟩道——彼らが ⟨それ⟩ の上を歩むべき——と ⟨את⟩ 行い——彼らがなすべき——を知らせなさい。",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "そしてあなたは警告しなさい"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "定め"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "定め"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "トーラー"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "トーラー"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "そして知らせなさい"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "道"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "歩むべき"
+    },
+    {
+      "surface": "בה",
+      "gloss": "それの上を"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "行い"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "行い"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "なすべき"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:17.365263242Z",
+  "model": "glm-5.2"
+}

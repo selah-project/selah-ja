@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてルベニ人とガド人には、私はギルアドからアルノン川まで、川の中程と境界を、そしてヤボク川まで、アモン人の子らの境界を与えた。",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "そしてルベニ人には"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "とガド人には"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "私は与えた"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ギルアド"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "そして…まで"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "川"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "アルノン"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "中程"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "川の"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "と境界"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "そして…まで"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "ヤボク"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "川"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子らの"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アモン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:04.323657026Z",
+  "model": "glm-5.2"
+}

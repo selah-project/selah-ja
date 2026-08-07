@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "esther 9:30",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして彼は書簡を、アハシュヴェロシュの王国の百二十七州に⟨いる⟩すべてのユダヤ人へ、平和と真実の言葉とともに送った。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして送った"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "書簡を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ユダヤ人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "および二十"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "および百"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "州"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "王国"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "アハシュヴェロシュ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平和"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "および真実"
+    }
+  ],
+  "timestamp": "2026-08-07T13:43:14.679236404Z",
+  "model": "glm-5.2"
+}

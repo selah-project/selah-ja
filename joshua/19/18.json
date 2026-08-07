@@ -1,0 +1,31 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 19:18",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "その領域は ⟨次の通りであった⟩ —— ヤハウェが ⟨そこに⟩ 種を蒔かれる場所（イズレエル）、そしてチェスロト、そしてシュネム。",
+  "tokens": [
+    {
+      "surface": "גְּבוּלָם",
+      "gloss": "彼らの境界",
+      "marks": "with directive -ה, i.e. 'unto \/ toward'"
+    },
+    {
+      "surface": "יִזְרְעֶאלָה",
+      "gloss": "イズレエルへ",
+      "marks": "the direction terminus"
+    },
+    {
+      "surface": "וְהַכְּסוּלֹת",
+      "gloss": "そしてチェスロトは"
+    },
+    {
+      "surface": "וְשׁוּנֵם",
+      "gloss": "そしてシュネムは"
+    }
+  ],
+  "timestamp": "2026-08-07T16:41:09.263937512Z",
+  "model": "glm-5.2"
+}

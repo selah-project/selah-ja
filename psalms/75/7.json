@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 75,
+  "translation": "というのは、東からでもなく、西からでもなく、また荒野の山地からでもない ⟨からだ⟩。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "東から"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "そして西から"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "荒野から"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山地"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:20.952682433Z",
+  "model": "glm-5.2"
+}

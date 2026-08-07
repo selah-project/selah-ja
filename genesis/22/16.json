@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして言った。「わたしはわたし自身によって誓った」とヤハウェは言われる。「それは、あなたが⟨את⟩この事をなし、あなたの息子、あなたの独り子を惜しまなかったからである。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "בי",
+      "gloss": "わたし自身によって"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "誓った"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "宣言"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "それは"
+    },
+    {
+      "surface": "יען",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "なした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この事"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "事を"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "惜しまなかった"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの息子"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "あなたの息子を"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの独り子"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "あなたの独り子を"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:37.850658332Z",
+  "model": "glm-5.2"
+}

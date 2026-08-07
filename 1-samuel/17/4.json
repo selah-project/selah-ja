@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そして二人の間の男がペリシテ人の陣営から出た。ゴルヤトが ⟨彼の⟩ 名、ガト出身。 ⟨彼の⟩ 背は六アマと一ゼレトであった。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして…出た"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男が"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "二人の間の"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "…の陣営から"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人の"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "ゴルヤト"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "…の名"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "ガト出身"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "…の背は"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "アマ"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "と一ゼレト"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:56.433805975Z",
+  "model": "glm-5.2"
+}

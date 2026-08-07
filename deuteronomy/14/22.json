@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "十分の一を十分の一として納めよ。⟨את⟩あなたの種から出るすべての産物を、畑が年々出すものを。",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "十分の一を納めよ"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "十分の一として"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの種から出るすべての産物"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "産物"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "あなたの種の"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "出るもの"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "畑が"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-08-07T10:13:32.967674729Z",
+  "model": "glm-5.2"
+}

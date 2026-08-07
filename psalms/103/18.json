@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 103,
+  "translation": "彼の契約を守る者たちに、また彼の戒めを覚えてそれを行う者たちに。",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "守る者たちに"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "彼の契約"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "また覚える者たちに"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "彼の戒め"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "それらを行うため"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:51.454880099Z",
+  "model": "glm-5.2"
+}

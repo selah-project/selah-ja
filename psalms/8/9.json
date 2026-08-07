@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "空の鳥、そして海の魚、海の道を渡り行くすべてのもの。",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "空"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "そして〜の魚"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "渡り行く"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "道"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "海の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:14.542389525Z",
+  "model": "glm-5.2"
+}

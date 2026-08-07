@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "ミカは⟨その⟩レビ人の手を満たした。そしてその若者は彼にとって祭司となった。そして彼はミカの家にいた。",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "満たした"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ミカは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "手"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "レビ人の"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そうして〜になった"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼にとって"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "その若者は"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして彼はいた"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ミカの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:37:24.976653783Z",
+  "model": "glm-5.2"
+}

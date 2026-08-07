@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 30:17",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "夜には、⟨私の⟩骨が⟨私の⟩上から穿孔され、⟨私の⟩痛みは休まない。",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "夜には"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "私の骨は"
+    },
+    {
+      "surface": "נקר",
+      "gloss": "穿孔される"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "私の上から"
+    },
+    {
+      "surface": "וערקי",
+      "gloss": "そして私の痛みは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "休む"
+    }
+  ],
+  "timestamp": "2026-08-07T13:27:58.820085500Z",
+  "model": "glm-5.2"
+}

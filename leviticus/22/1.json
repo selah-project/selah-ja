@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "ヤハウェはモシェに語って言った、",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言った"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:06.982639019Z",
+  "model": "glm-5.2"
+}

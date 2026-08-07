@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "また女のもとに、その不浄の隔離の間、近づいてはならない。その裸を露わにするために。",
+  "tokens": [
+    {
+      "surface": "וְאֶל",
+      "gloss": "また〜のもとに"
+    },
+    {
+      "surface": "אִשָּׁ֖ה",
+      "gloss": "女"
+    },
+    {
+      "surface": "בְּנִדַּ֣ת",
+      "gloss": "隔離の"
+    },
+    {
+      "surface": "טֻמְאָתָ֑הּ",
+      "gloss": "その不浄の"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תִקְרַ֔ב",
+      "gloss": "近づく"
+    },
+    {
+      "surface": "לְגַלּ֖וֹת",
+      "gloss": "露わにするために"
+    },
+    {
+      "surface": "עֶרְוָתָֽהּ",
+      "gloss": "その裸"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:29.264224521Z",
+  "model": "glm-5.2"
+}

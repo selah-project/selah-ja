@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "彼らに事があるとき、それは私のところに来る。そして私は人とその隣人との間を裁き、エロヒムの定めと⟨את⟩彼のトーラーを知らせるからである。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…というのは"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "…がある"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "בא",
+      "gloss": "…は来る"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のところに"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "そして私は裁く"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…の間で"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と…の間で"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "その隣人"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "そして私は知らせる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "定め"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "定め"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼のトーラー"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "彼のトーラー"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:10.236415736Z",
+  "model": "glm-5.2"
+}

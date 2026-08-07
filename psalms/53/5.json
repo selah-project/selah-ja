@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 53,
+  "translation": "不法を行う者々は知らないのか、わたしの民をパンを食べるように食べる者々を。エロヒムを、彼らは呼ばなかった。",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "〜ないのか"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "彼らは知っている"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "〜を行う者々"
+    },
+    {
+      "surface": "און",
+      "gloss": "不法"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "〜を食べる者々"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "彼らは食べた"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "彼らは呼んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:45:28.846504667Z",
+  "model": "glm-5.2"
+}

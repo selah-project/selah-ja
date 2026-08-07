@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして⟨彼は⟩ミツライムの宿営とイスラエルの宿営の間に入り、雲と闇が⟨あった⟩ — そして⟨彼は⟩⟨את⟩夜を照らした。こうして夜通し、こちらはあちらに近づかなかった。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして…入った"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…の間に"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "宿営"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と…の間に"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "宿営"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして…⟨あった⟩"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "と闇"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "そして⟨彼は⟩照らした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "夜"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "夜を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…なかった"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "近づく"
+    },
+    {
+      "surface": "זה",
+      "gloss": "こちら"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "זה",
+      "gloss": "あちら"
+    },
+    {
+      "surface": "כל",
+      "gloss": "夜通し"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "夜"
+    }
+  ],
+  "timestamp": "2026-08-07T16:27:39.714107914Z",
+  "model": "glm-5.2"
+}

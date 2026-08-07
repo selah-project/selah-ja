@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "子孫は ⟨彼に⟩仕える。アドナイについて、次の世代に語り告げられるであろう。",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "彼に仕える"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "語り告げられる"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "アドナイについて"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "世代に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:24.887183689Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ラバンには二人の娘がいた。年上の⟨娘⟩の名はレア、年下の⟨娘⟩の名はラケル。",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "ラバンには"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "二人の"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "娘"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "年上の"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "レア"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そして〜の名"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "年下の"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ラケル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:08.094757060Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 9:5",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "ユダヤ人はすべての敵を剣の打撃、虐殺、滅ぼしで打った。そして自分たちを憎む者たちに自分たちの望むままを行った。",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "打った"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ユダヤ人は"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "彼らの敵を"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "打撃で"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣の"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "虐殺、"
+    },
+    {
+      "surface": "ואבדן",
+      "gloss": "滅ぼし"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "行った"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "自分たちを憎む者たちに"
+    },
+    {
+      "surface": "כרצונם",
+      "gloss": "彼らの望むままに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:36.419889590Z",
+  "model": "glm-5.2"
+}

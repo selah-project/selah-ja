@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "彼らはアダムのように契約を越えた。そこで彼らはわたしに対して裏切った。",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "そして彼らは"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "アダムのように"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "越えた"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約を"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "裏切った"
+    },
+    {
+      "surface": "בי",
+      "gloss": "わたしに対して"
+    }
+  ],
+  "timestamp": "2026-08-07T12:17:35.850487603Z",
+  "model": "glm-5.2"
+}

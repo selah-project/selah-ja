@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "なぜなら ⟨彼は⟩死ぬときに何も持ち去らない、⟨彼の⟩光栄は⟨彼の⟩後に下ってはいかないからだ。",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "בְ֭מוֹתוֹ",
+      "gloss": "彼の死ぬとき"
+    },
+    {
+      "surface": "יִקַּ֣ח",
+      "gloss": "持ち去る"
+    },
+    {
+      "surface": "הַכֹּ֑ל",
+      "gloss": "すべてを"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יֵרֵ֖ד",
+      "gloss": "下っていく"
+    },
+    {
+      "surface": "אַחֲרָ֣יו",
+      "gloss": "彼の後に"
+    },
+    {
+      "surface": "כְבוֹדֽוֹ",
+      "gloss": "彼の光栄"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:01.467762054Z",
+  "model": "glm-5.2"
+}

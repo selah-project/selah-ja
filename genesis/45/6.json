@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "「この二年の間、飢饉が地のただ中にあったからだ。そしてあと五年あり、そこには耕作も収穫もない。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "זה",
+      "gloss": "この"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "二年の間"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "飢饉は"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "〜のただ中に"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "そしてあと"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年ある"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこには"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "耕作も"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "収穫も"
+    }
+  ],
+  "timestamp": "2026-08-07T09:10:32.299521080Z",
+  "model": "glm-5.2"
+}

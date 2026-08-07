@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 12:4",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "いつまで地は喚き、野のすべての草は乾くのか。その地の住民の悪のゆえに。家畜も鳥も一掃された。彼らが「⟨彼は⟩私たちの終末を見ない」と言ったからだ。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "……まで"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "いつ"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "喚くのか"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "そして草"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野の"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "乾くのか"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "悪のゆえに"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "住民の"
+    },
+    {
+      "surface": "בה",
+      "gloss": "その地の"
+    },
+    {
+      "surface": "ספתה",
+      "gloss": "一掃された"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "家畜も"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "鳥も"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "彼らが言った"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "⟨彼は⟩見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私たちの終末"
+    },
+    {
+      "surface": "אחריתנו",
+      "gloss": "私たちの終末"
+    }
+  ],
+  "timestamp": "2026-08-07T11:44:53.106911100Z",
+  "model": "glm-5.2"
+}

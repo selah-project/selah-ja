@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "そして彼は⟨את⟩彼らを監禁所に集めた、三日間。",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "そして集めた"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "監禁所"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三つの"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:50.979849405Z",
+  "model": "glm-5.2"
+}

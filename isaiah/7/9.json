@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてエフライムの頭はシャマロン、シャマロンの頭はレマルヤフの子。もしあなたがたが信じないなら、あなたがたは確立されないからである。」",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "そして…の頭"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライム"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "シャマロン"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "そして…の頭"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "シャマロン"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "レマルヤフ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "あなたがたは信じる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…からである"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "あなたがたは確立される"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:22.496040662Z",
+  "model": "glm-5.2"
+}

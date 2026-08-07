@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 18:19",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "傷つけられた兄弟は堅固な城よりも⟨手に負えず⟩、その争いは城の閂のようである。",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "נפשע",
+      "gloss": "傷つけられた"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "〜よりも"
+    },
+    {
+      "surface": "עז",
+      "gloss": "堅固な城"
+    },
+    {
+      "surface": "ומדונים",
+      "gloss": "そして争い"
+    },
+    {
+      "surface": "כבריח",
+      "gloss": "閂のようである"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "城"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:03.068181636Z",
+  "model": "glm-5.2"
+}

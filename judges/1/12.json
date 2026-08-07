@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてカレブは言った：「キルヤト・セフェルを打って、これを捕える者には、わたしの娘アクサを妻として与えよう。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "カレブ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜する者"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "打つ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "キルヤト・セフェルを"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "キルヤト"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "セフェル"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "そしてこれを捕える"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "わたしは与えよう"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アクサを"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "アクサ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "わたしの娘"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "妻として"
+    }
+  ],
+  "timestamp": "2026-08-07T18:29:10.011398450Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "バアシャ、イスラエルの王がユダに攻め上り、ラマを建てた — ⟨את⟩・ラマを — 出て行く者と入って来る者をアサ、ユダの王に与えないために。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "そして攻め上った"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "バアシャ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "そして建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ラマ"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ラマ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "〜しないために"
+    },
+    {
+      "surface": "תת",
+      "gloss": "与える"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出て行く者"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "と入って来る者"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "アサに"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:28.718517905Z",
+  "model": "glm-5.2"
+}

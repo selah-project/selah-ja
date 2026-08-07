@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼らは⟨את⟩ハ・アイの王を生きたまま捕らえ、⟨את⟩彼をヤホシュアのところに近づけた。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ハ・アイの王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ハ・アイ"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "彼らは捕らえた"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生きたまま"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "そして彼らは近づけた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩彼を",
+      "marks": "ヤホシュアのところに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のところに"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヤホシュア"
+    }
+  ],
+  "timestamp": "2026-08-07T10:25:24.131058274Z",
+  "model": "glm-5.2"
+}

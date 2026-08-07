@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 84,
+  "translation": "幸福なるかな、あなたの家に座す者たち、彼らはなおもあなたを賛美する。セラ。",
+  "tokens": [
+    {
+      "surface": "אַ֭שְׁרֵי",
+      "gloss": "幸福なるかな"
+    },
+    {
+      "surface": "יוֹשְׁבֵ֣י",
+      "gloss": "座す者たち"
+    },
+    {
+      "surface": "בֵיתֶ֑ךָ",
+      "gloss": "あなたの家に"
+    },
+    {
+      "surface": "ע֝֗וֹד",
+      "gloss": "なおも"
+    },
+    {
+      "surface": "יְֽהַלְל֥וּךָ",
+      "gloss": "あなたを賛美する"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:10.440560154Z",
+  "model": "glm-5.2"
+}

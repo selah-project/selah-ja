@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 1:13",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして私は⟨את⟩自分の心を与えた、知恵によって探り求め、そして調べるために、天の下でなされたすべてのことについて。それは悪い務めである、⟨それを⟩エロヒムが人の子らに与えた、その中で悩まされるために。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "そして私は与えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の心"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "自分の心"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "探り求めるために"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "そして調べるために"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "知恵によって"
+    },
+    {
+      "surface": "על",
+      "gloss": "～について"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～ところの"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "なされた"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "～の下に"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "務め"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "～の子らに"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "悩まされるために"
+    },
+    {
+      "surface": "בו",
+      "gloss": "その中で"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:58.755403567Z",
+  "model": "glm-5.2"
+}

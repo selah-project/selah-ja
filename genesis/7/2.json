@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 7:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "すべての清い家畜から、あなたは七つ、七つ、雄とその雌を取りなさい。そして清くない家畜からは、二つ、雄とその雌を取りなさい。",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "…のすべての…から"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "清い"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "取りなさい"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七つ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七つ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "雄"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "とその雌"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "そして…から"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "清い"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二つ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "雄"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "とその雌"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:06.618060073Z",
+  "model": "glm-5.2"
+}

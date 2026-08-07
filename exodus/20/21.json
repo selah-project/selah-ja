@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "民は遠くから立っていた。そしてモーシェは、そこにエロヒムがおられた濃密な闇に近づいた。",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "立っていた"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "遠くから"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "そしてモーシェは"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "近づいた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "濃密な闘に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムが"
+    }
+  ],
+  "timestamp": "2026-08-07T09:20:43.091589933Z",
+  "model": "glm-5.2"
+}

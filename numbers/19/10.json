@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 19:10",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして⟨את⟩牝牛の灰を集める者は⟨את⟩自分の衣を洗い、夕方まで汚れる。それはイスラエルの子らと彼らのうちに住まう在留異人にとって、永遠の定めとなる。",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "そして洗う"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "集める者は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "牝牛の灰"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "灰"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "牝牛の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の衣"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "自分の衣を"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "そして汚れる"
+    },
+    {
+      "surface": "עד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "夕方"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "そしてそれは……となる"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "子らにとって"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "そして在留異人にとって"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "住まう"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "彼らのうちに"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "定めとして"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:58:47.415942293Z",
+  "model": "glm-5.2"
+}

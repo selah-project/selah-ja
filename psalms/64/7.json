@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 64,
+  "translation": "彼らは不義を探り出す。「探求を成し遂げた」と、思索は深い — 人の内なる部分も、心も深い。",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "探り出す"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "不義"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "成し遂げた"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "探求"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "探し求められたもの"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "そして内なる部分"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "そして心"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "深い"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:49.286533929Z",
+  "model": "glm-5.2"
+}

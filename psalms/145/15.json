@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 145,
+  "translation": "すべての者の目はあなたを待ち望み、あなたは彼らに⟨את⟩彼らの食物をその時に与える。",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "目は"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての者の"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたを"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "待ち望み"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの食物"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "彼らの食物を"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "その時に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:20.888601662Z",
+  "model": "glm-5.2"
+}

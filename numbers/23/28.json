@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "バラクはビルアムを連れて行き、⟨את⟩ ペオルの頂に、荒野の面を見おろすところへ",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして連れて行った"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "バラク"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ビルアム"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ビルアム"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頂"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "ペオルの"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "見おろす"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "〜の面"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "荒野の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:59:59.820698152Z",
+  "model": "glm-5.2"
+}

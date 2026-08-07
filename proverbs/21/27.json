@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "悪者のいけにえは忌み嫌われるものである、ましてや悪意をもってそれを携えて来る場合はなおさらである。",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "いけにえは"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者の"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "忌み嫌われるものである"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ましてや"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜場合は"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "悪意をもって"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "それを携えて来る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:30.304391413Z",
+  "model": "glm-5.2"
+}

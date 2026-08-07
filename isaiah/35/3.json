@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "力なき手を強め、よろめく膝を支えよ。",
+  "tokens": [
+    {
+      "surface": "חַזְּק֖וּ",
+      "gloss": "強めよ"
+    },
+    {
+      "surface": "יָדַ֣יִם",
+      "gloss": "手を"
+    },
+    {
+      "surface": "רָפ֑וֹת",
+      "gloss": "力なき"
+    },
+    {
+      "surface": "וּבִרְכַּ֥יִם",
+      "gloss": "と膝を"
+    },
+    {
+      "surface": "כֹּשְׁל֖וֹת",
+      "gloss": "よろめく"
+    },
+    {
+      "surface": "אַמֵּֽצוּ",
+      "gloss": "支えよ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:28:36.841124476Z",
+  "model": "glm-5.2"
+}

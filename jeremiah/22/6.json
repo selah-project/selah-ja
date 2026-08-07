@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 22:6",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "まことに ヤハウェは ユダの王の家についてこう言われる。「あなたは わたしにとって ギルアデ、レバノンの頂 ⟨である⟩。もし わたしが あなたを荒野に、人の住まない都市 ⟨群⟩ としないなら ⟨…⟩。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ギルアデ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしにとって"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頂"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "レバノンの"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אשיתך",
+      "gloss": "わたしがあなたを〜とする"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "荒野に"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "都市"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נושבה",
+      "gloss": "人の住む"
+    }
+  ],
+  "timestamp": "2026-08-07T11:48:05.214680466Z",
+  "model": "glm-5.2"
+}

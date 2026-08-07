@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 115,
+  "translation": "耳が⟨彼らに⟩あり、しかし彼らは聞かない。鼻が⟨彼らに⟩あり、しかし彼らは嗅がない。",
+  "tokens": [
+    {
+      "surface": "אָזְנַ֣יִם",
+      "gloss": "耳が"
+    },
+    {
+      "surface": "לָ֭הֶם",
+      "gloss": "⟨彼らに⟩"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "יִשְׁמָ֑עוּ",
+      "gloss": "彼らは聞く"
+    },
+    {
+      "surface": "אַ֥ף",
+      "gloss": "鼻が"
+    },
+    {
+      "surface": "לָ֝הֶ֗ם",
+      "gloss": "⟨彼らに⟩"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "יְרִיחֽוּן",
+      "gloss": "彼らは嗅ぐ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:31.793501104Z",
+  "model": "glm-5.2"
+}

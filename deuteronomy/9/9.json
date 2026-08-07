@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 9:9",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "私が山に登った時、石の板を取るため、ヤハウェがあなたたちと結ばれた契約の板を⟨取るため⟩であった。そして私は山に四十日と四十夜、座した。パンを私は食べず、水を私は飲まなかった。",
+  "tokens": [
+    {
+      "surface": "בעלתי",
+      "gloss": "私が登った時"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "山へ"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "取るため"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "板"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "石の"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "板"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "契約の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "結ばれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "あなたたちと"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "そして私は座した"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山に"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "そして四十"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "私は食べ"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "そして水を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "私は飲まなかった"
+    }
+  ],
+  "timestamp": "2026-08-07T10:11:18.874265856Z",
+  "model": "glm-5.2"
+}

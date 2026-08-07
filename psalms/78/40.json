@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "何度彼らは荒野で彼に叛き、荒涼の地で彼を痛ませたことか。",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "何度"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "彼らは彼に叛いた"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野で"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "彼らは彼を痛ませた"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "荒涼の地で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:46.646891886Z",
+  "model": "glm-5.2"
+}

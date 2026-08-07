@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "ダビデは立ち上がり、その日、シャウルの前から逃げ、ガテの王アキシュのところに来た。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "立ち上がり"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "逃げた"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜の前から"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところに"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "アキシュ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ガテの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:33.840141981Z",
+  "model": "glm-5.2"
+}

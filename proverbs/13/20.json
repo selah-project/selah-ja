@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "歩め、⟨את⟩知恵ある者たちと共に、そうすれば知恵ある者となれ、愚か者たちの友は損なわれる。",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "歩め"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "知恵ある者たち"
+    },
+    {
+      "surface": "חֲכָמִ֣ים",
+      "gloss": "知恵ある者たち"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "そうすれば知恵ある者となれ"
+    },
+    {
+      "surface": "וְרֹעֶ֖ה",
+      "gloss": "しかし友は"
+    },
+    {
+      "surface": "כְסִילִ֣ים",
+      "gloss": "愚か者たちの"
+    },
+    {
+      "surface": "יֵרֽוֹעַ",
+      "gloss": "損なわれる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:15.163593170Z",
+  "model": "glm-5.2"
+}

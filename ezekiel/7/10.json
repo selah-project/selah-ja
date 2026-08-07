@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "見よ、その日。見よ、来る。裁きの朝は出た。杖は芽を出した。傲りは花開いた。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "その日"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "来る"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "出た"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "裁きの朝は"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "芽を出した"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "杖は"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "花開いた"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "傲りは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:01:14.667189415Z",
+  "model": "glm-5.2"
+}

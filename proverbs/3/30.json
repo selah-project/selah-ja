@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "理由もなく人と争っ〈てはならない〉 — もし彼があなたに悪を報いていない⟨なら⟩。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜てはならない"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "争う"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "理由もなく"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "あなたに報いた"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:09:01.580666061Z",
+  "model": "glm-5.2"
+}

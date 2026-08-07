@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 23:3",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "レビ人たちは三十歳以上の者が数えられ、彼らの数は、頭数による男子で、三万八千であった。",
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "そして数えられた"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人たちは"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "〜の息子から"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歳"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "および上に"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして⟨それは⟩あった"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "彼らの数は"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "頭数による"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "男子の"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "および八"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-08-07T14:08:00.653754928Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてエリは彼女に言った、「いつまで酔い続けるのか。お前のぶどう酒を⟨את⟩お前自身から取り除け。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "エリは"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "いつ"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "酔い続けるのか"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "取り除け"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "お前のぶどう酒"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "お前のぶどう酒"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "お前自身から"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:04.820374066Z",
+  "model": "glm-5.2"
+}

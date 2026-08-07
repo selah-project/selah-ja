@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてアハロンは自分のための罪のためのささげ物の雄牛を⟨את⟩ 近づけ、自分自身のため、また自分の家族のために贖いをしなければならない。",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "そして近づける"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雄牛"
+    },
+    {
+      "surface": "פר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "罪のためのささげ物の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のための"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "そして贖いをする"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "彼自身のために"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "そして〜のために"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "彼の家族"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:43.291171423Z",
+  "model": "glm-5.2"
+}

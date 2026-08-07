@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして術師たちも自分たちの秘術で⟨את⟩虱を出そうとしたが、できなかった。すると虱が人と家畜の⟨上に⟩生じた。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "そして…した"
+    },
+    {
+      "surface": "כן",
+      "gloss": "同様に"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "術師たちは"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "自分たちの秘術で"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "…を出すために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "虱"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "虱"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし…なかった"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "できた"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "虱が"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "そして家畜の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:27.088845291Z",
+  "model": "glm-5.2"
+}

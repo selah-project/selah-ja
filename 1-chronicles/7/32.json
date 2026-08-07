@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてヘベルは⟨את⟩ヤフレトを、また⟨את⟩ショメルを、また⟨את⟩ホタムを、また⟨את⟩シュアを彼らの姉妹として生んだ。",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "そしてヘベルは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤフレト"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "ヤフレト"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "ショメル"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ショメル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "ホタム"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ホタム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "シュア"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "シュア"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "彼らの姉妹"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:23.976715685Z",
+  "model": "glm-5.2"
+}

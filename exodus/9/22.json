@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 9:22",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてヤハウェはモシェに言われた——あなたの⟨את⟩手を天に向けて伸ばしなさい。そうして雹がミツライムの全地に、人と家畜と野のすべての草の上に、ミツライムの地に⟨あれ⟩。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "伸ばしなさい"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの手"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そうして〜があるように"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "雹"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "〜の全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野の"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "〜の地に"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:45.244571806Z",
+  "model": "glm-5.2"
+}

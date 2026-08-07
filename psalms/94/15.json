@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "裁きは正義へと帰り、その後に⟨来るのは⟩心の直かなすべて⟨の者⟩である。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "צֶ֭דֶק",
+      "gloss": "正义"
+    },
+    {
+      "surface": "יָשׁ֣וּב",
+      "gloss": "回归"
+    },
+    {
+      "surface": "מִשְׁפָּ֑ט",
+      "gloss": "审判"
+    },
+    {
+      "surface": "וְ֝אַחֲרָ֗יו",
+      "gloss": "而它之后"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "יִשְׁרֵי",
+      "gloss": "直かな"
+    },
+    {
+      "surface": "לֵֽב",
+      "gloss": "心"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:22.215613250Z",
+  "model": "glm-5.2"
+}

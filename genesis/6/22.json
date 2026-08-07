@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてノアは⟨アータヴ⟨את⟩が⟩エロヒムが彼に命じたすべてのことをした。そのように彼はした。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…した"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノアは"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "すべてのことを"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼（ノア）を"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムが"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "した"
+    }
+  ],
+  "timestamp": "2026-08-07T16:22:11.318913037Z",
+  "model": "glm-5.2"
+}

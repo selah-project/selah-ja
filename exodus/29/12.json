@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 29:12",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてあなたは雄牛の血を取り、指で祭壇の角の上に塗らなければならない。そして⟨את⟩残りの血をすべて祭壇の土台に注ぎ出さなければならない。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "そしてあなたは取れ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "…の血を"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "そしてあなたは…塗れ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "角"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    },
+    {
+      "surface": "באצבעך",
+      "gloss": "あなたの指で"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "すべての血"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "תשפך",
+      "gloss": "あなたは注ぎ出せ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に向かって"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "土台"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:31.669052023Z",
+  "model": "glm-5.2"
+}

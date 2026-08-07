@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして王はその女に尋ね、彼女は彼に語った。そして王は彼女のために一人の官吏を任命して言った、「⟨את⟩彼女のすべてのものを、そして⟨את⟩畑のすべての産物を、彼女が ⟨את⟩その地を去った日から今に至るまで返せ。」",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "そして尋ねた"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "その女に"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "そして彼女は語った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして与えた"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女のために"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "官吏を"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一人の"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "返せ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼女のすべてのもの"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…もの"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "畑のすべての産物"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "産物"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "畑の"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "…日から"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "去った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地を"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…に至るまで"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    }
+  ],
+  "timestamp": "2026-08-07T11:13:40.640612722Z",
+  "model": "glm-5.2"
+}

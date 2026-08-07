@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "翌日となり、ペリシテ人が⟨את⟩死体を剥ぎ取るために来て、⟨את⟩シャウルと⟨את⟩その息子たちがギルボア山に倒れているのを見つけた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "…となった"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "翌日"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "剥ぎ取るために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "死体"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "死体"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "そして見つけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シャウル"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その息子たち"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "その息子たち"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "倒れている"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "…山に"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "ギルボア"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:24.253716524Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "こうして彼らは ⟨את⟩ わたしの名をイスラエルの子らの上に置く。そしてわたしが彼らを祝福する。",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "こうして彼らは置く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの名を"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "わたしの名を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "そしてわたしが"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "彼らを祝福する"
+    }
+  ],
+  "timestamp": "2026-08-07T09:50:26.435746181Z",
+  "model": "glm-5.2"
+}

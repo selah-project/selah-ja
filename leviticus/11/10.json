@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 11:10",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして、海の中や川の中でヒレとウロコを持たないすべてのもの — 水の中の群がるものすべて、水の中にある生きる⟨ネフェシュ⟩すべてのうちで — それらはあなたたちにとって忌みものである。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべてのもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるもの"
+    },
+    {
+      "surface": "אין",
+      "gloss": "持たない"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ヒレ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "とウロコ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "海の中で"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "また川の中で"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "〜のすべてのうちで"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "群がるもの"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "また〜のすべてのうちで"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨ネフェシュ⟩"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "生きる"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるもの"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水の中にある"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "忌みもの"
+    },
+    {
+      "surface": "הם",
+      "gloss": "それらは"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちにとって"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:01.312223113Z",
+  "model": "glm-5.2"
+}

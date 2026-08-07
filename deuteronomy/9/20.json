@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 9:20",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてアハロンに対しても、ヤハウェは彼を滅ぼすほど激しく怒った。そしてわたしはあの時、アハンのためにも祈った。",
+  "tokens": [
+    {
+      "surface": "ובאהרן",
+      "gloss": "そしてアハロンに対しても"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "怒った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "激しく"
+    },
+    {
+      "surface": "להשמידו",
+      "gloss": "彼を滅ぼすほど"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "そしてわたしは祈った"
+    },
+    {
+      "surface": "גם",
+      "gloss": "も"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "〜の時"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "あの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:10:20.989844061Z",
+  "model": "glm-5.2"
+}

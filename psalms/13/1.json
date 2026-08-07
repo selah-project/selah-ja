@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "指揮者へ。ダビデのミズモル。",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "指揮者へ"
+    },
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "ミズモル"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "ダビデの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:54.815597323Z",
+  "model": "glm-5.2"
+}

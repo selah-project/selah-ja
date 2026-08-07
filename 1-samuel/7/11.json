@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてイスラエルの人々はミツパから出て、⟨את⟩ペリシテ人を追い、ベト・カルの下まで彼らを打った。",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "そして…出た"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…の人々が"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "そのミツパ"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "そして…追った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ペリシテ人"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人を"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "そして…打った"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "…の下"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ベト"
+    },
+    {
+      "surface": "כר",
+      "gloss": "・カル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:43.663036880Z",
+  "model": "glm-5.2"
+}

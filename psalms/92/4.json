@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 92,
+  "translation": "十弦の楽器で、そしてリュートで。ヒガヨンを、キンノールで。",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "〜で"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "十弦の"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "そして〜で"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "リュート"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ヒガヨン"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "キンノールで"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:21.678123404Z",
+  "model": "glm-5.2"
+}

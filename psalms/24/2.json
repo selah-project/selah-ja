@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "それは彼が海々の上にそれを据え、川々の上にそれを堅く立てたからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "それは〜だからである"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼が"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "海々の"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "それを据えた"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "川々の"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "それを堅く立てた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:45.608831991Z",
+  "model": "glm-5.2"
+}

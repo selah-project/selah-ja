@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 26:21",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "もし ⟨あなたがたが⟩ わたしに向かって敵意をもって歩み、わたしの声に聞き従うことを望まないなら、わたしはあなたがたの上に打撃を七倍、あなたがたの罪に応じて加える。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "歩むなら"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしに向かって"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "敵意をもって"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "～ず"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "望む"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "聞き従うこと"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "わたしは加える"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "あなたがたの上に"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "打撃を"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七倍"
+    },
+    {
+      "surface": "כחטאתיכם",
+      "gloss": "あなたがたの罪に応じて"
+    }
+  ],
+  "timestamp": "2026-08-07T09:43:55.695938623Z",
+  "model": "glm-5.2"
+}

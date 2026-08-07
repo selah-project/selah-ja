@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そこで我々は言った。「さあ、我々のために⟨את⟩祭壇を建てよう。全焼の供え物のためではなく、いけにえのためでもない。」",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "そして我々は言った"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "我々は…しよう"
+    },
+    {
+      "surface": "נא",
+      "gloss": "さあ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "我々のために"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "建てることを"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "全焼の供え物のため"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "いけにえのため"
+    }
+  ],
+  "timestamp": "2026-08-07T14:44:43.193271957Z",
+  "model": "glm-5.2"
+}

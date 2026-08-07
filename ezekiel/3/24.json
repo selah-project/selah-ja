@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 3:24",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして霊が私の内に入り、私を自分の足の上に立たせた。そして⟨御方⟩は私に語り、私に言われた。「来て、あなたの家の中に閉じこもれ。」",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "そして〜入った"
+    },
+    {
+      "surface": "בי",
+      "gloss": "私の内に"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "私を立たせた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "私の足"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "私を",
+      "marks": "私（語りの対象）"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来い"
+    },
+    {
+      "surface": "הסגר",
+      "gloss": "閉じこもれ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "〜の内側に"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "あなたの家"
+    }
+  ],
+  "timestamp": "2026-08-07T12:01:10.764443722Z",
+  "model": "glm-5.2"
+}

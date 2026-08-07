@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 11:12",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてすべての都市々々において、大盾と槍を置き、それらを極めて大いに強固にした。そしてユダとベニヤミンは彼のものとなった。",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "そしてすべての〜において"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "都市"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "と都市"
+    },
+    {
+      "surface": "צנות",
+      "gloss": "大盾"
+    },
+    {
+      "surface": "ורמחים",
+      "gloss": "そして槍"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "そして彼はそれらを強固にした"
+    },
+    {
+      "surface": "להרבה",
+      "gloss": "大いに"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極めて"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のものに"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "とベニヤミン"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:07.018654589Z",
+  "model": "glm-5.2"
+}

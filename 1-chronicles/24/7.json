@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして第一のくじがエホヤリブに⟨向けて⟩出た。第二はエダヤに⟨向けて⟩。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして出た"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "くじ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "第一の"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "エホヤリブに"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "エダヤに"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:43.794547321Z",
+  "model": "glm-5.2"
+}

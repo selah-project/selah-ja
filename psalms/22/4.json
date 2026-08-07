@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そしてあなたは聖なる方、イスラエルの賛美に座する方。",
+  "tokens": [
+    {
+      "surface": "וְאַתָּ֥ה",
+      "gloss": "そしてあなたは"
+    },
+    {
+      "surface": "קָד֑וֹשׁ",
+      "gloss": "聖なる方"
+    },
+    {
+      "surface": "י֝וֹשֵׁ֗ב",
+      "gloss": "座する方"
+    },
+    {
+      "surface": "תְּהִלּ֥וֹת",
+      "gloss": "賛美"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:27.696437951Z",
+  "model": "glm-5.2"
+}

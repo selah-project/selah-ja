@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "もしあなたが遣わさないなら、私たちは下って行かない。あの人が私たちに言ったからです——あなたがたの兄弟があなたがたと共にいるのでなければ、あなたがたは私の顔を見てはならない、と。」",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "あなたが〜ない"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "遣わす"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "下って行く"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "あの人"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "私たちに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "見る"
+    },
+    {
+      "surface": "פני",
+      "gloss": "私の顔"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "〜でなければ"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "あなたがたの兄弟"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたがたと共に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:04.532099641Z",
+  "model": "glm-5.2"
+}

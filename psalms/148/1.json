@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 148,
+  "translation": "ハレル・ヤハ。天々からヤハウェを ⟨את⟩ 賛美せよ。高き所で ⟨彼を⟩ 賛美せよ。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "賛美せよ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "賛美せよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェを"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天々"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "彼を賛美せよ"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "高き所で"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:39.239358790Z",
+  "model": "glm-5.2"
+}

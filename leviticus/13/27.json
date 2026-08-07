@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 13:27",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして祭司は七日目に⟨את⟩彼を見る。もしそれが皮膚の中に大きく広がっているなら、祭司は⟨את⟩彼を汚れた者と宣言する。それはツァラアトの患難である。",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "そして…見る"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…に"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "七日目"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "広がって"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "広がっている"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "皮膚の中に"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "そして…汚れた者と宣言する"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "患難"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ツァラアトの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それである"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:22.376448179Z",
+  "model": "glm-5.2"
+}

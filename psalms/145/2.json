@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 145,
+  "translation": "毎日わたしはあなたを祝福します、そしてあなたの御名を賛美します、永遠と常に至るまで。",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日に"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "わたしはあなたを祝福します"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "そしてわたしは賛美します"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの御名を"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "常に至るまで"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:17.860196260Z",
+  "model": "glm-5.2"
+}

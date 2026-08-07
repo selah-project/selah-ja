@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてヤラベアムはアビヤの日の間、もはや力を〈回復しなかった〉。そしてヤハウェが彼を打たれたので、彼は死んだ。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして…なかった"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "…回復しなかった"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力を"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ヤラベアムは"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "…の日の間"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "アビヤの"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "そして…打たれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして…死んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:20.977517024Z",
+  "model": "glm-5.2"
+}

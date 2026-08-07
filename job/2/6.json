@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ヤハウェはサタンに仰せられた。「見よ、彼はあなたの手の中にある。ただ、彼の命だけは守れ。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして仰せられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "サタン"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "あなたの手の中にある"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の命"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "彼の命"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "守れ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:19:25.732238684Z",
+  "model": "glm-5.2"
+}

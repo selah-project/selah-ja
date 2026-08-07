@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "エフライムの子らは、弓を射る者、弓を引き絞る者でありながら、戦いの日に背を向けた。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライム"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "引き絞る者"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "射る者"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "背を向けた"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "戦い"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:32.813681222Z",
+  "model": "glm-5.2"
+}

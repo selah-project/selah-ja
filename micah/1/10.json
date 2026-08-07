@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ガト（ガテ）では告げるな。泣き叫ぶな。ベイト・レ・アフラ（灰の家）では — 塵の中を転げ回れ。",
+  "tokens": [
+    {
+      "surface": "בְּגַת֙",
+      "gloss": "ガト（ガテ）では"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תַּגִּ֔ידוּ",
+      "gloss": "告げる"
+    },
+    {
+      "surface": "בָּכ֖וֹ",
+      "gloss": "泣き叫ぶ"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תִּבְכּ֑וּ",
+      "gloss": "泣く"
+    },
+    {
+      "surface": "בְּבֵ֣ית",
+      "gloss": "〜の家で"
+    },
+    {
+      "surface": "לְעַפְרָ֔ה",
+      "gloss": "アフラの"
+    },
+    {
+      "surface": "עָפָ֖ר",
+      "gloss": "塵"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "転げ回れ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:24:02.315622806Z",
+  "model": "glm-5.2"
+}

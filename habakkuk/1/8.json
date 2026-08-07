@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "habakkuk 1:8",
+  "book": "habakkuk",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてその馬は豹より速く、そして夕暮れの狼より鋭い。そしてその騎兵は散らばり、そしてその騎兵は遠くから来る。彼らはワシのように飛び、食べるために急いで飛びかかる。",
+  "tokens": [
+    {
+      "surface": "וקלו",
+      "gloss": "そして速い"
+    },
+    {
+      "surface": "מנמרים",
+      "gloss": "豹より"
+    },
+    {
+      "surface": "סוסיו",
+      "gloss": "その馬は"
+    },
+    {
+      "surface": "וחדו",
+      "gloss": "そして鋭い"
+    },
+    {
+      "surface": "מזאבי",
+      "gloss": "〜の狼より"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "夕暮れの"
+    },
+    {
+      "surface": "ופשו",
+      "gloss": "そして散らばる"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "その騎兵は"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "そしてその騎兵は"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "遠くから"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "来る"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "飛ぶ"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "ワシのように"
+    },
+    {
+      "surface": "חש",
+      "gloss": "急いで"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "食べるために"
+    }
+  ],
+  "timestamp": "2026-08-07T12:28:45.596257363Z",
+  "model": "glm-5.2"
+}

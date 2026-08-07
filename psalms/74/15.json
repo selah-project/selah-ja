@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 74,
+  "translation": "あなたは泉と谷川を裂き開いた。あなたは尽きることのない大河を干上がらせた。",
+  "tokens": [
+    {
+      "surface": "אַתָּה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "בָּקַעְתָּ",
+      "gloss": "裂き開いた"
+    },
+    {
+      "surface": "מַעְיָן",
+      "gloss": "泉と"
+    },
+    {
+      "surface": "וָנָחַל",
+      "gloss": "谷川を"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "הוֹבַשְׁתָּ",
+      "gloss": "干上がらせた"
+    },
+    {
+      "surface": "נַהֲרוֹת",
+      "gloss": "大河を"
+    },
+    {
+      "surface": "אֵיתָן",
+      "gloss": "尽きることのない"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:38.801522963Z",
+  "model": "glm-5.2"
+}

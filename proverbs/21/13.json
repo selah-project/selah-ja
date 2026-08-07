@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "耳を閉ざす者 ⟨が⟩ — 貧しい者の叫び ⟨から⟩ — 彼もまた叫び、しかし答えられない",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "閉ざす"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "彼の耳"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "〜の叫びから"
+    },
+    {
+      "surface": "דל",
+      "gloss": "貧しい者"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼自身"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "叫ぶ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "答えられる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:03.665226537Z",
+  "model": "glm-5.2"
+}

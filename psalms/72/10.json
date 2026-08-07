@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 72,
+  "translation": "タルシシュの王たちと島々は贈り物を差し出し、シェバの王たちとセバの王たちは贈り物を携えて来る。",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "〜の王たち"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "タルシシュ"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "そして島々は"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "贈り物を"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "差し出す"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "〜の王たち"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "シェバ"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "そしてセバ"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "贈り物を"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "携えて来る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:10.010486926Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして、清めを行う祭司は、清められる ⟨את⟩その男を、また ⟨את⟩それらのものを、ヤハウェの前に、会見の天幕の入り口に立たせる。",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "そして立たせる"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "清めを行う"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その男"
+    },
+    {
+      "surface": "האישׁ",
+      "gloss": "その男"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "清められる"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "および⟨את⟩",
+      "marks": "それらのもの"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:44.489352552Z",
+  "model": "glm-5.2"
+}

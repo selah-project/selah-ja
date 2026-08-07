@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "ヤハウェはこれについて思い直された。「それは起こらないだろう」とヤハウェは言われる。",
+  "tokens": [
+    {
+      "surface": "נִחַ֥ם",
+      "gloss": "思い直された"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "זֹ֑את",
+      "gloss": "これ"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תִהְיֶ֖ה",
+      "gloss": "それは起こる"
+    },
+    {
+      "surface": "אָמַ֥ר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:23:20.111601628Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 128,
+  "translation": "見よ、まことにこのように祝福される、ヤハウェを恐れる者は。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "כן",
+      "gloss": "このように"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "祝福される"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "者"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:16.741294081Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてサウルはその日から先へと、⟨את⟩ダヴィドを警戒し続けた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして～となった"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウル"
+    },
+    {
+      "surface": "עון",
+      "gloss": "警戒し続けた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダヴィド"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "その日から"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "先へと"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:26.462163973Z",
+  "model": "glm-5.2"
+}

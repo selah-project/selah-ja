@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "彼はそれが何になるかを知らないからである。それがどのようになるか、だれが彼に告げようか。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "彼は〜ない"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "起こるか"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "どのようになるか"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "なる"
+    },
+    {
+      "surface": "מי",
+      "gloss": "だれが"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "告げる"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:47.326664014Z",
+  "model": "glm-5.2"
+}

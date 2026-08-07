@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 99,
+  "translation": "モシェとアハロンが彼の祭司たちの中に、シェムエルが彼の御名を呼ぶ者たちの中に。彼らはヤハウェを呼び、⟨彼⟩は彼らに答えられた。",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "とアハロン"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "彼の祭司たちの中に"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "とシェムエル"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "呼ぶ者たちの中に"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の御名を"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "彼らは呼び"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨彼⟩"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "彼らに答えられた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:21.923311646Z",
+  "model": "glm-5.2"
+}

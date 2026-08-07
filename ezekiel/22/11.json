@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 22:11",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして各人は ⟨את⟩ 隣人の妻と忌み嫌われる事を行い、また各人は ⟨את⟩ 自分の嫁を悪事によって汚し、また各人は ⟨את⟩ 自分の姉妹——自分の父の娘——をあなたのうちで虐げた。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "そして各人は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "隣人の妻"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "隣人の"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行った"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "忌み嫌われる事"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "また各人は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の嫁"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "自分の嫁"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚した"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "悪事によって"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "また各人は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の姉妹"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "自分の姉妹"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "自分の父の"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "虐げた"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたのうちで"
+    }
+  ],
+  "timestamp": "2026-08-07T12:08:10.217963503Z",
+  "model": "glm-5.2"
+}

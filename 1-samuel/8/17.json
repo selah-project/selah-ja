@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 8:17",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "あなたたちの羊の群れの十分の一を彼は取る。そしてあなたたちは彼の奴隷となる。",
+  "tokens": [
+    {
+      "surface": "צאנכם",
+      "gloss": "あなたたちの羊の群れ"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "彼は十分の一を取る"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "そしてあなたたちは"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼の"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "奴隷"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:56.755318278Z",
+  "model": "glm-5.2"
+}

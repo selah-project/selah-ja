@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "私はあなたのピクディムとあなたの証しを守った。すべて私の道はあなたの前にあるから。",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "私は守った"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "あなたのピクディム"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "とあなたの証し"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "私の道"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "あなたの前に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:44.268170357Z",
+  "model": "glm-5.2"
+}

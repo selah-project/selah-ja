@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 3:9",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "釘の重量はシェケルで五十シェケル、金であった。そして彼は上の階を金で覆った。",
+  "tokens": [
+    {
+      "surface": "ומשקל",
+      "gloss": "そして…の重量"
+    },
+    {
+      "surface": "למסמרות",
+      "gloss": "釘に対する"
+    },
+    {
+      "surface": "לשקלים",
+      "gloss": "シェケルで"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "והעליות",
+      "gloss": "そして上の階"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "覆った"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:24.629492642Z",
+  "model": "glm-5.2"
+}

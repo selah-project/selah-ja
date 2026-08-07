@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "そして飢饉は地において重かった。",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "そして飢饉は"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "重かった"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地において"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:17.329412215Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そしてあなたは洗盤に油を塗り — ⟨את⟩その台座に — そしてそれを聖別する。",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "そしてあなたは油を塗る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "洗盤"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "その洗盤"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その台座"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "その台座"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "そしてあなたは聖別する"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩それを",
+      "marks": "洗盤"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:02.246452500Z",
+  "model": "glm-5.2"
+}

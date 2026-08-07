@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして鳥の血と生きた水と、生きている鳥と、杉の木と、ヒソプと、緋色の虫（染料）で、⟨את⟩ その家を浄める。",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "そして浄める"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その家を"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "血で"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "その鳥"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "と水で"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "と鳥で"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "生きている"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "と木で"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "その杉"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "とヒソプで"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "と緋色で"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "その虫（染料）"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:36.084398296Z",
+  "model": "glm-5.2"
+}

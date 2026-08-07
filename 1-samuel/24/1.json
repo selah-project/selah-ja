@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "ダビデはそこから上り、エン・ゲディの要塞に住んだ。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "そして上った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして住んだ"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "要塞に"
+    },
+    {
+      "surface": "עין",
+      "gloss": "エン・"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ゲディの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:24.007725587Z",
+  "model": "glm-5.2"
+}

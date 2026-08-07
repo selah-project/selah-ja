@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "知恵は戦具よりも善い、しかし罪を犯す者ひとりが多くの善を滅ぼす。",
+  "tokens": [
+    {
+      "surface": "טוֹבָ֥ה",
+      "gloss": "善い"
+    },
+    {
+      "surface": "חָכְמָ֖ה",
+      "gloss": "知恵は"
+    },
+    {
+      "surface": "מִכְּלֵ֣י",
+      "gloss": "〜よりも"
+    },
+    {
+      "surface": "קְרָ֑ב",
+      "gloss": "戦具"
+    },
+    {
+      "surface": "וְחוֹטֶ֣א",
+      "gloss": "しかし罪を犯す者"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "ひとり"
+    },
+    {
+      "surface": "יְאַבֵּ֥ד",
+      "gloss": "滅ぼす"
+    },
+    {
+      "surface": "טוֹבָ֥ה",
+      "gloss": "善を"
+    },
+    {
+      "surface": "הַרְבֵּֽה",
+      "gloss": "多くの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:42.628327468Z",
+  "model": "glm-5.2"
+}

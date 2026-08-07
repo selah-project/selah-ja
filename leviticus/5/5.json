@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして⟨彼が⟩これらのうちの一つについて罪を犯して咎を負うとき、彼はその犯した事柄について告白しなければならない。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そして…となる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…するとき"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "咎を負う"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "一つについて"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "そして告白する"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…について"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "罪を犯した"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "それに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:14.347704732Z",
+  "model": "glm-5.2"
+}

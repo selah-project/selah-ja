@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "王は彼に言った。「彼はどこにいるのか。」ツィバは王に言った。「見よ、彼はマキル、アミエルの子の家にいる。ロ・デバルに。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "どこに"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "ツィバは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "マキル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "アミエル"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "ロ・"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "デバル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:26:42.935601795Z",
+  "model": "glm-5.2"
+}

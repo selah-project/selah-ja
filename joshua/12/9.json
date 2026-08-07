@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "エリコの王、ひとり。ベート・エルの脇にあるハアイの王、ひとり。",
+  "tokens": [
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "יְרִיח֖וֹ",
+      "gloss": "エリコ"
+    },
+    {
+      "surface": "אֶחָ֑ד",
+      "gloss": "ひとり"
+    },
+    {
+      "surface": "מֶ֧לֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "הָעַ֛י",
+      "gloss": "ハアイ"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "מִצַּ֥ד",
+      "gloss": "脇にある"
+    },
+    {
+      "surface": "בֵּֽית",
+      "gloss": "ベート・"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "ひとり"
+    }
+  ],
+  "timestamp": "2026-08-07T16:40:28.985192925Z",
+  "model": "glm-5.2"
+}

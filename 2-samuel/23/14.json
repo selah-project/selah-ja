@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 23:14",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "その時、ダビデは要塞におり、ペリシテ人の駐屯地はベイト・レヘムにあった。",
+  "tokens": [
+    {
+      "surface": "וְדָוִ֖ד",
+      "gloss": "そしてダビデ"
+    },
+    {
+      "surface": "אָ֣ז",
+      "gloss": "その時"
+    },
+    {
+      "surface": "בַּמְּצוּדָ֑ה",
+      "gloss": "要塞に"
+    },
+    {
+      "surface": "וּמַצַּ֣ב",
+      "gloss": "そして駐屯地"
+    },
+    {
+      "surface": "פְּלִשְׁתִּ֔ים",
+      "gloss": "ペリシテ人の"
+    },
+    {
+      "surface": "אָ֖ז",
+      "gloss": "その時"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "ベイト"
+    },
+    {
+      "surface": "לָֽחֶם",
+      "gloss": "レヘム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:39.952625745Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "これはアダムの系図の書である。エロヒムがアダムを創造した日に、エロヒムの似姿として ⟨את⟩ 彼を造られた。",
+  "tokens": [
+    {
+      "surface": "זֶ֣ה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "סֵ֔פֶר",
+      "gloss": "書"
+    },
+    {
+      "surface": "תּוֹלְדֹ֖ת",
+      "gloss": "系図"
+    },
+    {
+      "surface": "אָדָ֑ם",
+      "gloss": "アダムの"
+    },
+    {
+      "surface": "בְּי֗וֹם",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "בְּרֹ֤א",
+      "gloss": "創造した"
+    },
+    {
+      "surface": "אֱלֹהִים֙",
+      "gloss": "エロヒムが"
+    },
+    {
+      "surface": "אָדָ֔ם",
+      "gloss": "アダムを"
+    },
+    {
+      "surface": "בִּדְמ֥וּת",
+      "gloss": "似姿として"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "עָשָׂ֥ה",
+      "gloss": "造られた"
+    },
+    {
+      "surface": "אֹתֽוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:16.127006842Z",
+  "model": "glm-5.2"
+}

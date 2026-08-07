@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 13:28",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "これがガドの子らの相続地、彼らの氏族ごとのもの、⟨その⟩都市と彼らの村落である。",
+  "tokens": [
+    {
+      "surface": "זֹאת",
+      "gloss": "これが"
+    },
+    {
+      "surface": "נַחֲלַת",
+      "gloss": "相続地"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "の子らの"
+    },
+    {
+      "surface": "גָד",
+      "gloss": "ガド"
+    },
+    {
+      "surface": "לְמִשְׁפְּחֹתָם",
+      "gloss": "彼らの氏族ごとのもの"
+    },
+    {
+      "surface": "הֶעָרִים",
+      "gloss": "都市"
+    },
+    {
+      "surface": "וְחַצְרֵיהֶם",
+      "gloss": "と彼らの村落"
+    }
+  ],
+  "timestamp": "2026-08-07T16:40:52.856394377Z",
+  "model": "glm-5.2"
+}

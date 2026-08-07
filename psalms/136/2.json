@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 136,
+  "translation": "エロヒムのエロヒムに感謝せよ、まことにとこしえまで ⟨彼⟩のヘセドは〈続くから〉。",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "感謝せよ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "〜のエロヒムに"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムたち"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえまで"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨彼⟩のヘセド"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:13.409252566Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 19:22",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "また、ヤハウェ⟨のもと⟩に近づく祭司たちも自らを聖別せよ。さもないとヤハウェが彼らの中に突発するであろう。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "また"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たちも"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "近づく"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "自らを聖別せよ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "さもないと"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "突発するであろう"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "彼らの中に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:49.199104161Z",
+  "model": "glm-5.2"
+}

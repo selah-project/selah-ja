@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 17:22",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてイスラエルの子らはヤロブアムが犯したすべての罪の中を歩み、そこから離れなかった。",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "そして歩んだ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "罪の中を"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ヤロブアム"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜が"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "犯した"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "離れ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "そこから"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:28.688395261Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "心は自分の喉の苦しみを知る、そしてその喜びにはよそ者は交わらない。",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "心は"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "苦しみを"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "自分の喉の"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "そしてその喜びには"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "交わる"
+    },
+    {
+      "surface": "זר",
+      "gloss": "よそ者は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:00.817037871Z",
+  "model": "glm-5.2"
+}

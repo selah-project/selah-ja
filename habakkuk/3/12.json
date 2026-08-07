@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "憤りによってあなたは地を踏み歩く。怒りによってあなたは国々を打ち踏む。",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "憤りによって"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "あなたは踏み歩く"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "באף",
+      "gloss": "怒りによって"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "あなたは打ち踏む"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:29:00.102057813Z",
+  "model": "glm-5.2"
+}

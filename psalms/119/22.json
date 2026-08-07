@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "私の上から転がしのべよ 恥とそしりを、あなたの証しを私は守ったから。",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "転がしのべよ"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "私の上から"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "恥"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "とそしり"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "あなたの証し"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "私は守った"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:41.129044001Z",
+  "model": "glm-5.2"
+}

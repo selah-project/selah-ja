@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 14:7",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "彼自らエドムを打った。塩の谷で一万〈人〉。そして戦いでセラを攻め取った。その名をヨクテエルと呼んだ。今日この日に至るまで。",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "彼自ら"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エドム"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドムを"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "…の谷で"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "塩の"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "そして彼は攻め取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "セラ"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "セラを"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "戦いで"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして彼は呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その名"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "その名を"
+    },
+    {
+      "surface": "יקתאל",
+      "gloss": "ヨクテエル"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…に至るまで"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T11:15:28.667730844Z",
+  "model": "glm-5.2"
+}

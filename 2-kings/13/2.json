@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "彼はヤハウェの目に悪と⟨されること⟩を行い、イスラエルに罪を犯させたネバトの子ヤラベアムの罪のあとを歩み、そこから離れなかった。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…の目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして…歩んだ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "…のあとを"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ヤラベアム"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ネバト"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは…た者"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "罪を犯させた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…なかった"
+    },
+    {
+      "surface": "סר",
+      "gloss": "離れた"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "そこから"
+    }
+  ],
+  "timestamp": "2026-08-07T11:15:14.536688013Z",
+  "model": "glm-5.2"
+}

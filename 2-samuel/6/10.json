@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてダビデは、自分のもとに⟨את⟩ヤハウェの箱をダビデの町へ運び入れることを承知しなかった。ダビデはそれをガテ人オベデ・エドムの家に迂回させた。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "承知した"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "運び入れる"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "自分のもとに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの箱"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "迂回させた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "オベデ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "・エドム"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "ガテ人"
+    }
+  ],
+  "timestamp": "2026-08-07T16:45:51.788803178Z",
+  "model": "glm-5.2"
+}

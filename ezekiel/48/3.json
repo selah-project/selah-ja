@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "そしてアシェルの境界に沿って、東側から海側まで、ナフタリ、一つ。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "そして〜に沿って"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "アシェルの"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "側から"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "東のほう"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "そして〜まで"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "側"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "海のほう"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ナフタリ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:18:49.748153764Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 11:26",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "ウリヤの妻は、その夫ウリヤが死んだことを聞き、彼女の夫のために喪に服した。",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "そして聞いた"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ウリヤ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということを"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死んだ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ウリヤ"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "彼女の夫"
+    },
+    {
+      "surface": "ותספד",
+      "gloss": "そして喪に服した"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "彼女の夫"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:54.455591787Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "さらに、あなたは彼の剣の刃を退け、戦いにおいて彼を立たせなかった。",
+  "tokens": [
+    {
+      "surface": "אַף",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "תָּ֭שִׁיב",
+      "gloss": "あなたは退けた"
+    },
+    {
+      "surface": "צ֣וּר",
+      "gloss": "刃を"
+    },
+    {
+      "surface": "חַרְבּ֑וֹ",
+      "gloss": "彼の剣の"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "הֲ֝קֵימֹת֗וֹ",
+      "gloss": "あなたは彼を立たせ"
+    },
+    {
+      "surface": "בַּמִּלְחָמָֽה",
+      "gloss": "戦いにおいて"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:42.094133766Z",
+  "model": "glm-5.2"
+}

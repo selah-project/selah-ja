@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "聖歌隊長に、第八の調べにおいて。ダビデのミズモル。",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֥חַ",
+      "gloss": "聖歌隊長に"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "הַשְּׁמִינִ֗ית",
+      "gloss": "第八の調べ"
+    },
+    {
+      "surface": "מִזְמ֥וֹר",
+      "gloss": "ミズモル"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "ダビデの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:47.733410505Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "「この月は、あなたがたにとって月々の頭⟨である⟩。それはあなたがたにとって、年の月々の第一⟨である⟩。」",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "この月は"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたにとって"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "月々の"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "第一"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたにとって"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "〜の月々の"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:56.125456135Z",
+  "model": "glm-5.2"
+}

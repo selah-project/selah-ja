@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 39:22",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "監獄の長は監獄の中にいるすべての囚人⟨את⟩をヨセフの手に委ね、そこでなされるすべてのこと⟨את⟩は、彼が行う者となった。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "委ねた"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "監獄"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…の手に"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての囚人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "האסירם",
+      "gloss": "囚人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "…の中にいる"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "監獄"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのこと"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…こと"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "なされる"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "היה",
+      "gloss": "…となった"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行う者"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:46.382416482Z",
+  "model": "glm-5.2"
+}

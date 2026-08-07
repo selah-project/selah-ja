@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "わたしは⟨アハブの⟩⟨את⟩家をネバトの子ヤラベアムの家のように、またアヒヤの子バアルシャの家のようにする。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "わたしは〜する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アハブの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "アハブ"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "〜の家のように"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ヤラベアム"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ネバト"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "また〜の家のように"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "バアルシャ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "アヒヤ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:12:44.586626083Z",
+  "model": "glm-5.2"
+}

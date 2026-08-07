@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そしてヤハウェは言われた。「誰が⟨את⟩アハブを惑わし、彼が上って行ってラモト・ギルアドで倒れるようにするか。」そして一方はこう言い、もう一方はああ言った。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "惑わす"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アハブ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "アハブ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "そして上って行き"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "そして倒れる"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "〜で"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ラモト・ギルアド"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "זה",
+      "gloss": "一方は"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "そしてもう一方は"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ああ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:10:27.045795076Z",
+  "model": "glm-5.2"
+}

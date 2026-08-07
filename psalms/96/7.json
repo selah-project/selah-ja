@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 96,
+  "translation": "諸民の氏族よ、ヤハウェに帰せよ。ヤハウェに栄光と力を帰せよ。",
+  "tokens": [
+    {
+      "surface": "הָב֣וּ",
+      "gloss": "帰せよ"
+    },
+    {
+      "surface": "לַ֭יהוָה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "מִשְׁפְּח֣וֹת",
+      "gloss": "氏族よ"
+    },
+    {
+      "surface": "עַמִּ֑ים",
+      "gloss": "諸民の"
+    },
+    {
+      "surface": "הָב֥וּ",
+      "gloss": "帰せよ"
+    },
+    {
+      "surface": "לַ֝יהוָ֗ה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "כָּב֥וֹד",
+      "gloss": "栄光"
+    },
+    {
+      "surface": "וָעֹֽז",
+      "gloss": "と力を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:04.220222628Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 15:14",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "「そしてわたしは、あなたの敵を⟨את⟩、あなたの知らない地に移し渡す。火がわたしの怒りに燃え上がったからだ。あなたたちの上でそれは焼かれる。」",
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "そしてわたしは移し渡す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの敵"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "あなたの敵"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "あなたは知っている"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "קדחה",
+      "gloss": "燃え上がった"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "わたしの怒りに"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "あなたたちの上で"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "それは焼かれる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:46:08.656530077Z",
+  "model": "glm-5.2"
+}

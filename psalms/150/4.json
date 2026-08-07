@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 150,
+  "translation": "トフとマホルで⟨彼⟩を賛美せよ、ミンミムとウガブで⟨彼⟩を賛美せよ。",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "⟨彼⟩を賛美せよ"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "トフで"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "とマホルで"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "⟨彼⟩を賛美せよ"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "ミンミムで"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "とウガブで"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:19.318018155Z",
+  "model": "glm-5.2"
+}

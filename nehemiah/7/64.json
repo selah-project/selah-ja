@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "nehemiah 7:64",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "これらは彼らの系譜としての書き記しを探したが、見つからず、それゆえ彼らは祭司職から汚れた者として退けられた。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "彼らは探した"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "彼らの書き記し"
+    },
+    {
+      "surface": "המתיחשים",
+      "gloss": "系譜としての"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜なかった"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "見つから"
+    },
+    {
+      "surface": "ויגאלו",
+      "gloss": "そして退けられた"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הכהנה",
+      "gloss": "祭司職"
+    }
+  ],
+  "timestamp": "2026-08-07T13:57:01.580184077Z",
+  "model": "glm-5.2"
+}

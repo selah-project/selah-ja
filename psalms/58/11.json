@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 58,
+  "translation": "義人は喜ぶ、彼が復讐を目睹したので。彼は悪者の血に足を洗う。",
+  "tokens": [
+    {
+      "surface": "יִשְׂמַ֣ח",
+      "gloss": "喜ぶ"
+    },
+    {
+      "surface": "צַ֭דִּיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "〜なので"
+    },
+    {
+      "surface": "חָזָ֣ה",
+      "gloss": "目睹した"
+    },
+    {
+      "surface": "נָקָ֑ם",
+      "gloss": "復讐"
+    },
+    {
+      "surface": "פְּעָמָ֥יו",
+      "gloss": "彼の足"
+    },
+    {
+      "surface": "יִ֝רְחַ֗ץ",
+      "gloss": "洗う"
+    },
+    {
+      "surface": "בְּדַ֣ם",
+      "gloss": "〜の血に"
+    },
+    {
+      "surface": "הָרָשָֽׁע",
+      "gloss": "悪者"
+    }
+  ],
+  "timestamp": "2026-08-07T17:19:33.209409260Z",
+  "model": "glm-5.2"
+}

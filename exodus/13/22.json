@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "雲の柱は昼の間、火の柱は夜の間 — ⟨それは⟩民の前から離れなかった。",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "יָמִ֞ישׁ",
+      "gloss": "離れ"
+    },
+    {
+      "surface": "עַמּ֤וּד",
+      "gloss": "柱"
+    },
+    {
+      "surface": "הֶֽעָנָן֙",
+      "gloss": "雲の"
+    },
+    {
+      "surface": "יוֹמָ֔ם",
+      "gloss": "昼の間"
+    },
+    {
+      "surface": "וְעַמּ֥וּד",
+      "gloss": "そして柱"
+    },
+    {
+      "surface": "הָאֵ֖שׁ",
+      "gloss": "火の"
+    },
+    {
+      "surface": "לָ֑יְלָה",
+      "gloss": "夜の間"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "前から"
+    },
+    {
+      "surface": "הָעָֽם",
+      "gloss": "民の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:01.237069822Z",
+  "model": "glm-5.2"
+}

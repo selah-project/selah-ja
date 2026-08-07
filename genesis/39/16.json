@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そして彼女は⟨彼⟩の衣を自分のそばに置いた、⟨彼⟩の主が⟨彼⟩の家に来るまで。",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "⟨彼⟩の衣を"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "自分のそばに"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "⟨彼⟩の主が"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "⟨彼⟩の家"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:33.840006261Z",
+  "model": "glm-5.2"
+}

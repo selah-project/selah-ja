@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "空しさ、それらは。嘲りの業。彼らが訪れられる時に、それらは滅びる。",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "空しさ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "それらは"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "業"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "嘲りの"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "時に"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "彼らが訪れられる"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "それらは滅びる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:43:30.522879771Z",
+  "model": "glm-5.2"
+}

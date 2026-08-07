@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 35:33",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そして石の彫刻（にはめ込みのために）、そして木の彫刻（あらゆる巧みなわざをなすために）⟨において⟩。",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "そして…の彫刻において"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "はめ込みのために"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "そして…の彫刻において"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "なすために"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "あらゆる"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "わざ"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "巧みな"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:22.505427931Z",
+  "model": "glm-5.2"
+}

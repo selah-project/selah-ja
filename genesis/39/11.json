@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 39:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そして、ちょうど今日のような ⟨日⟩ に、家に入り、彼の仕事を為た——家の召使いの中から家に ⟨いる⟩ 者 ⟨は誰も⟩ いなかった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…だった"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "今日のような"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして入った"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "家へ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "するため"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "彼の仕事を"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "…いなかった"
+    },
+    {
+      "surface": "איש",
+      "gloss": "者"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "～の中の"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "家に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:19.652089003Z",
+  "model": "glm-5.2"
+}

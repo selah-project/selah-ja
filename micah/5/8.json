@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 5:8",
+  "book": "micah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "あなたの手はあなたの敵の上に高く上げられ、あなたのすべての敵は断たれる。",
+  "tokens": [
+    {
+      "surface": "תָּרֹ֥ם",
+      "gloss": "高く上げられる"
+    },
+    {
+      "surface": "יָדְךָ֖",
+      "gloss": "あなたの手は"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "צָרֶ֑יךָ",
+      "gloss": "あなたの敵"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "אֹיְבֶ֖יךָ",
+      "gloss": "あなたの敵は"
+    },
+    {
+      "surface": "יִכָּרֵֽתוּ",
+      "gloss": "断たれる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:25:15.483230538Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてケルビムの下に、人の手の形が見えた—彼らの翼の下に。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして…見えた"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "ケルビムに"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "形"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手の"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "彼らの翼"
+    }
+  ],
+  "timestamp": "2026-08-07T12:03:06.576183733Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてその姉妹はハモレケトであり、彼女は⟨את⟩イシュホデと⟨את⟩アビエゼルと⟨את⟩マフラを産んだ。",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "そしてその姉妹"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "ハモレケト"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "彼女は産んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イシュホデ"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "イシュホデ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アビエゼル"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "アビエゼル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "マフラ"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "マフラ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:28.184815668Z",
+  "model": "glm-5.2"
+}

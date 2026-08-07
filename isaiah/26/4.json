@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "ヤハウェを信頼せよ、とこしえに。ヤハにおいて、ヤハウェは永遠の岩だからだ。",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "信頼せよ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェを"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜の限り"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だからだ"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "ヤハにおいて"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "岩"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "永遠の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:31.545392156Z",
+  "model": "glm-5.2"
+}

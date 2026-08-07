@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてアミナダブは⟨את⟩ナフションを生み、ナフションは⟨את⟩サルマを生んだ。",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "そしてアミナダブは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナフション"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ナフションを"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "そしてナフションは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "サルマ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "サルマを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:35:14.575444276Z",
+  "model": "glm-5.2"
+}

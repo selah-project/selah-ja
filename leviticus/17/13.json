@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 17:13",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてイスラエルの子らのうちの一人ひとりの人、また彼らのうちに宿る寄留者、寄留者であっても、食べてよい獣または鳥を狩猟で狩る者はだれでも、⟨את⟩その血を注ぎ出し、それを塵で覆さなければならない。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "そして…人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一人ひとりの人"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "〜の子らのうちの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "また〜から"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "その寄留者"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "宿る"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "彼らのうちに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜者はだれでも"
+    },
+    {
+      "surface": "יצוד",
+      "gloss": "狩る"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "狩猟で"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "獣"
+    },
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べてよい"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "そして注ぎ出し"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その血"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "その血"
+    },
+    {
+      "surface": "וכסהו",
+      "gloss": "そしてそれを覆さなければならない"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "塵で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:59.346449096Z",
+  "model": "glm-5.2"
+}

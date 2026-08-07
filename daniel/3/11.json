@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして、ひれ伏して拝まない者はだれでも、燃える火の炉の中に投げ込まれる、と。",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "そしてだれでも"
+    },
+    {
+      "surface": "די",
+      "gloss": "──"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ひれ伏し"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "拝む"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "投げ込まれる"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "の中に"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "炉の"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "火の"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "燃える"
+    }
+  ],
+  "timestamp": "2026-08-07T13:44:25.035251817Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "知恵に「あなたはわたしの姉妹だ」と言え。そして分別を親族と呼べ。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "言え"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "知恵に"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "あなたはわたしの姉妹だ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたは"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "そして親族を"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "分別を"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "呼べ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:38.026196476Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そして ⟨その⟩仕事は ⟨その⟩すべての ⟨その⟩仕事のために十分であり、それを為す ⟨את⟩それ⟨を⟩ ⟨する⟩に、そして余った。",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "そして仕事"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "דים",
+      "gloss": "十分"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての〜のために"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "仕事"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "為すために"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それ（⟨その⟩仕事）"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "そして余った"
+    }
+  ],
+  "timestamp": "2026-08-07T16:29:10.793833385Z",
+  "model": "glm-5.2"
+}

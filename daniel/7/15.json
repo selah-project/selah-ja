@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 7:15",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "私ダニエルの霊は私の内に苦しめられ、私の頭の幻が私を怖れさせた。",
+  "tokens": [
+    {
+      "surface": "אתכרית",
+      "gloss": "苦しめられ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "私の霊"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "私"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ダニエル"
+    },
+    {
+      "surface": "בגוא",
+      "gloss": "〜の中で"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "私の体"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "そして私の幻"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "私の頭の"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "私を怖れさせた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:48:47.416433681Z",
+  "model": "glm-5.2"
+}

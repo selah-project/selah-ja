@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "冬のゆえに怠け者は耕さない、収穫のときに求めても、何もない。",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "冬のゆえに"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "怠け者は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "耕す"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "求めても"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "収穫のときに"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "何もない"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:39.451825362Z",
+  "model": "glm-5.2"
+}

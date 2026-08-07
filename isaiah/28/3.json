@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "足で踏みにじられる、エフライムの酔いたちの誇りの冠は。",
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "足で"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "踏みにじられる"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "冠"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "誇りの"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "酔いたちの"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライムの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:41.665101397Z",
+  "model": "glm-5.2"
+}

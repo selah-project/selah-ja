@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "あなたの手はすべての敵を見つけ出し、あなたの右の手はあなたを憎む者たちを見つけ出すであろう。",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "見つけ出すであろう"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手は"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "敵を"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "あなたの右の手は"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "見つけ出すであろう"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "あなたを憎む者たちを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:17.020471308Z",
+  "model": "glm-5.2"
+}

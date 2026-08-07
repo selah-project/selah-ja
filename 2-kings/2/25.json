@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして彼はそこからカルメル山へ行き、そこからショムロンへ戻った。",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֥לֶךְ",
+      "gloss": "そして彼は行った"
+    },
+    {
+      "surface": "מִשָּׁ֖ם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "へ"
+    },
+    {
+      "surface": "הַ֣ר",
+      "gloss": "山"
+    },
+    {
+      "surface": "הַכַּרְמֶ֑ל",
+      "gloss": "カルメル"
+    },
+    {
+      "surface": "וּמִשָּׁ֖ם",
+      "gloss": "そしてそこから"
+    },
+    {
+      "surface": "שָׁ֥ב",
+      "gloss": "彼は戻った"
+    },
+    {
+      "surface": "שֹׁמְרֽוֹן",
+      "gloss": "ショムロン"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:20.758582040Z",
+  "model": "glm-5.2"
+}

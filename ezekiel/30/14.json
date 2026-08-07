@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "わたしは⟨את⟩パトロスを荒廃させ、ツォアンに火を置き、ノー（テーベ）で裁きを行う。",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "わたしは…を荒廃させる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "パトロス"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "パトロスを"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "わたしは…を置く"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火を"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "ツォアンに"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "わたしは…を行う"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "裁きを"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "ノー（テーベ）で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:10:43.796071935Z",
+  "model": "glm-5.2"
+}

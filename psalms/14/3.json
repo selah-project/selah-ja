@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "全員が離れ去った、共に汚れた。善を行う者はいない、ひとりさえいない。",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "全員が"
+    },
+    {
+      "surface": "סר",
+      "gloss": "離れ去った"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "共に"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "汚れた"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行う者は"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善を"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜さえ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ひとり"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:59.170205270Z",
+  "model": "glm-5.2"
+}

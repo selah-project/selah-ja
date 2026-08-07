@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 116,
+  "translation": "ああ、ヤハウェよ、私はあなたのしもべ、私はあなたのしもべ、あなたの女奴隷の子——あなたは私の縛めを解かれた。",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "——"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "あなたのしもべ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "あなたのしもべ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⋯の子"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "あなたの女奴隷"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "あなたは解かれた"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "私の縛めを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:16.000159989Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "愚か者の口は自分の破滅、彼の唇は自分の ⟨נפש⟩ の罠。",
+  "tokens": [
+    {
+      "surface": "פִּֽי",
+      "gloss": "口"
+    },
+    {
+      "surface": "כְ֭סִיל",
+      "gloss": "愚か者の"
+    },
+    {
+      "surface": "מְחִתָּה",
+      "gloss": "破滅"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "彼の"
+    },
+    {
+      "surface": "וּ֝שְׂפָתָ֗יו",
+      "gloss": "そして彼の唇は"
+    },
+    {
+      "surface": "מוֹקֵ֥שׁ",
+      "gloss": "罠"
+    },
+    {
+      "surface": "נַפְשֽׁוֹ",
+      "gloss": "彼の⟨נפש⟩の"
+    }
+  ],
+  "timestamp": "2026-08-07T18:42:14.617600347Z",
+  "model": "glm-5.2"
+}

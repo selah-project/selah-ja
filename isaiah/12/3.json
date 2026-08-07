@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてあなた方は喜びをもって水を汲み出す、救いの泉々から。",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "そしてあなた方は汲み出す"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "喜びをもって"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "〜の泉々から"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "救いの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:30:40.734504825Z",
+  "model": "glm-5.2"
+}

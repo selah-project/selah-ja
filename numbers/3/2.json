@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてこれらはアハロンの息子たちの名前⟨である⟩ — 長子ナダブ、およびアビフ、エルアザル、およびイタマル。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名前"
+    },
+    {
+      "surface": "בני",
+      "gloss": "息子たちの"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロンの"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "長子"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ナダブ"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "およびアビフ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "エルアザル"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "およびイタマル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:45.522745998Z",
+  "model": "glm-5.2"
+}

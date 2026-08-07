@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "モーセはエロヒムに言った。「わたしは何者でしょうか。パロのもとに行き、そしてイスラエルの子らをミツライムから連れ出すなど。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "わたしが行く"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "そして〜だと"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "わたしが連れ出す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子ら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ミツライムから"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:52.544202089Z",
+  "model": "glm-5.2"
+}

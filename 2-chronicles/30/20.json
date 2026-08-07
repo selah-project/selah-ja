@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そしてヤハウェはヒゼキヤに耳を傾け、⟨את⟩民をいやされた。",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמַ֤ע",
+      "gloss": "そして〜は聞かれた"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יְחִזְקִיָּ֔הוּ",
+      "gloss": "ヒゼキヤ"
+    },
+    {
+      "surface": "וַיִּרְפָּ֖א",
+      "gloss": "そして〜をいやされた"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "הָעָֽם",
+      "gloss": "民を"
+    }
+  ],
+  "timestamp": "2026-08-07T14:18:41.882206437Z",
+  "model": "glm-5.2"
+}

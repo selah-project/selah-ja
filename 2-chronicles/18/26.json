@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 18:26",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてあなたたちは言いなさい、次のように。王はこう言う：この者を拘禁所に入れ、彼にパンを — 苦悩の — そして水を — 苦悩の — 食べさせよ、私が平和のうちに帰るまで。」",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "そしてあなたたちは言いなさい"
+    },
+    {
+      "surface": "כה",
+      "gloss": "次のように"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言う"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "入れよ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "この者を"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "拘禁"
+    },
+    {
+      "surface": "והאכלהו",
+      "gloss": "そして彼に食べさせよ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "苦悩の"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "そして水を"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "苦悩の"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "私が帰る"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "平和のうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T17:39:31.013671848Z",
+  "model": "glm-5.2"
+}

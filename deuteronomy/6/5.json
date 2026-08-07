@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてあなたは愛する、⟨את⟩ ヤハウェ あなたのエロヒムを、すべての〈あなたの〉心で、すべての〈あなたの〉命で、すべての〈あなたの〉力で。",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "そしてあなたは愛する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "あなたの心で"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "およびすべての"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "あなたの命で"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "およびすべての"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "あなたの力で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:31.633290650Z",
+  "model": "glm-5.2"
+}

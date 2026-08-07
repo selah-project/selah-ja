@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてあなたはヤハウェの前で、会見の天幕の入口で⟨את⟩雄牛を屠らなければならない。",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "そしてあなたは屠れ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雄牛"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前で"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:31.668914133Z",
+  "model": "glm-5.2"
+}

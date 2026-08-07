@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてエロヒムの箱はオベデ・エドムの家と共に、彼の家に三か月とどまった。そしてヤハウェは ⟨את⟩ オベデ・エドムの家と ⟨את⟩ 彼にあるすべてのものを祝福した。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そしてとどまった"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱は"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "オベデ・"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "エドムの"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "彼の家に"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "か月"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "そして祝福した"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "オベデ・エドムの家を"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家を"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "オベデ・"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "エドムの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのものを"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼にある"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:04.669323935Z",
+  "model": "glm-5.2"
+}

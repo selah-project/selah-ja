@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "熊が待ち伏せる者として私にとってのもの、隠れ場の獅子として。",
+  "tokens": [
+    {
+      "surface": "דֹּ֣ב",
+      "gloss": "熊"
+    },
+    {
+      "surface": "אֹרֵ֥ב",
+      "gloss": "待ち伏せる者"
+    },
+    {
+      "surface": "הוּא֙",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "私にとって"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "בְּמִסְתָּרִֽים",
+      "gloss": "隠れ場に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:36:02.913761160Z",
+  "model": "glm-5.2"
+}

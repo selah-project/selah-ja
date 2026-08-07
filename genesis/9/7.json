@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてあなたたちは、実を結び、殖えよ。地の上に群がり出よ、その中で殖えよ。」",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "そしてあなたたちは"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "実を結べ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "殖えよ"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "群がり出よ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地の上に"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "殖えよ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "その中で"
+    }
+  ],
+  "timestamp": "2026-08-07T14:20:47.995160602Z",
+  "model": "glm-5.2"
+}

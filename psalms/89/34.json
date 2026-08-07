@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "しかし、わたしのヘセドを彼から引き離すことはせず、わたしの誠実さにおいて偽ることもない。",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "そしてわたしのヘセドを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "引き離す"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "彼から"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "偽る"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "わたしの誠実さにおいて"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:40.109020480Z",
+  "model": "glm-5.2"
+}

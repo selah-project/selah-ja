@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして彼らの穀物の献げ物は、油で混ぜた上等の小麦粉。雄牛には十分の三、雄羊には十分の二。",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "そして彼らの穀物の献げ物"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "上等の小麦粉"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "混ぜた"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "油で"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "十分の"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "雄牛には"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "十分の"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "雄羊には"
+    }
+  ],
+  "timestamp": "2026-08-07T10:02:12.896510639Z",
+  "model": "glm-5.2"
+}

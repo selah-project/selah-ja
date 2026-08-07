@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 9:11",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "わたしによってあなたの日々は多くなり、あなたに命の年が加えられるからである。",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "בִ֭י",
+      "gloss": "わたしによって"
+    },
+    {
+      "surface": "יִרְבּ֣וּ",
+      "gloss": "多くなる"
+    },
+    {
+      "surface": "יָמֶ֑יךָ",
+      "gloss": "あなたの日々"
+    },
+    {
+      "surface": "וְיוֹסִ֥יפוּ",
+      "gloss": "加えられる"
+    },
+    {
+      "surface": "לְּ֝ךָ֗",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "שְׁנ֣וֹת",
+      "gloss": "〜の年"
+    },
+    {
+      "surface": "חַיִּֽים",
+      "gloss": "命"
+    }
+  ],
+  "timestamp": "2026-08-07T17:24:30.588671393Z",
+  "model": "glm-5.2"
+}

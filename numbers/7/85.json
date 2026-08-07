@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "numbers 7:85",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "三十 と 百 ⟨が⟩一つの銀の皿⟨の重さ⟩、七十 ⟨が⟩一つの鉢⟨の重さ⟩、すべての器の銀⟨は⟩二千 四百、聖所のシェケル⟨で⟩。",
+  "tokens": [
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "と百"
+    },
+    {
+      "surface": "הקערה",
+      "gloss": "⟨が⟩皿"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "המזרק",
+      "gloss": "⟨が⟩鉢"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "器"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "二千"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "と四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "シェケル⟨で⟩"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:53:53.085421452Z",
+  "model": "glm-5.2"
+}

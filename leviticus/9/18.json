@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 9:18",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして彼は雄牛と、⟨את⟩ 雄羊を屠った——民のための交わりの犠牲。そしてアハロンの子らは血を彼に差し出し、彼はそれを祭壇の周囲に振りかけた。",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "そして彼は屠った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雄牛"
+    },
+    {
+      "surface": "השור",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "雄羊"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "雄羊"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "犠牲"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "交わりの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "民のための"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "そして彼らは差し出した"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロンの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "そして彼はそれを振りかけた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:43.263670202Z",
+  "model": "glm-5.2"
+}

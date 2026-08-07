@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "裸で⟨彼らは⟩衣なしに歩き、飢えた者たちが束を担いだ。",
+  "tokens": [
+    {
+      "surface": "עָר֣וֹם",
+      "gloss": "裸で"
+    },
+    {
+      "surface": "הִ֭לְּכוּ",
+      "gloss": "歩いた"
+    },
+    {
+      "surface": "בְּלִ֣י",
+      "gloss": "なしに"
+    },
+    {
+      "surface": "לְב֑וּשׁ",
+      "gloss": "衣"
+    },
+    {
+      "surface": "וּ֝רְעֵבִ֗ים",
+      "gloss": "そして飢えた者たち"
+    },
+    {
+      "surface": "נָ֣שְׂאוּ",
+      "gloss": "担いだ"
+    },
+    {
+      "surface": "עֹֽמֶר",
+      "gloss": "束"
+    }
+  ],
+  "timestamp": "2026-08-07T13:26:32.030807372Z",
+  "model": "glm-5.2"
+}

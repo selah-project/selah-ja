@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "咎についての戒めをもって、あなたは人を懲らしめ、蛾のようにその慕うものを溶かされました。確かに、すべての人は虚空です。セラ",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "戒めをもって"
+    },
+    {
+      "surface": "על",
+      "gloss": "…についての"
+    },
+    {
+      "surface": "עון",
+      "gloss": "咎"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "あなたは懲らしめ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人を"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "溶かされました"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "蛾のように"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "その慕うものを"
+    },
+    {
+      "surface": "אך",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虚空です"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人は"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:53.480833494Z",
+  "model": "glm-5.2"
+}

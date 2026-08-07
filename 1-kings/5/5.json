@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ユダとイスラエルは安全に住んだ、それぞれの人は自分の葡萄の木の下、また自分の無花果の木の下、ダンからベエル・シェバまで、シェロモのすべての日々の間。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "住んだ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "とイスラエル"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安全に"
+    },
+    {
+      "surface": "איש",
+      "gloss": "それぞれの人"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "自分の葡萄の木"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "また〜の下に"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "自分の無花果の木"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ダンから"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ベエル"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "・シェバ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日々の間"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:48.388618666Z",
+  "model": "glm-5.2"
+}

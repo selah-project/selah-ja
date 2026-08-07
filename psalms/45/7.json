@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "あなたの玉座、エロヒムよ、永遠と永遠の⟨もの⟩。まっすぐさの杖はあなたの王権の杖。",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "あなたの玉座"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "と永遠"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "杖"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "まっすぐさの"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "杖"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "あなたの王権の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:29.141578756Z",
+  "model": "glm-5.2"
+}

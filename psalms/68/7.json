@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "エロヒムは孤立した者たちを家に住まわせ、捕らわれた人々を繁栄のうちに導き出される。ただし反逆者たちは焼けつく地に宿る。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "住まわせる"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "孤立した者たち"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "家に"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "導き出される"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "捕らわれた人々"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "繁栄のうちに"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "反逆者たち"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "宿る"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "焼けつく地"
+    }
+  ],
+  "timestamp": "2026-08-07T18:40:28.374192592Z",
+  "model": "glm-5.2"
+}

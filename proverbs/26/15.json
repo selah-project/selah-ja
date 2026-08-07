@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "なまけ者は手を皿に埋めた、それを自分の口に戻すことに疲れた。",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "埋めた"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "なまけ者は"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "手を"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "皿に"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "疲れた"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "それを戻すことに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "自分の口"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:55.148075045Z",
+  "model": "glm-5.2"
+}

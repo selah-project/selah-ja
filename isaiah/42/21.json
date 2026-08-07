@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "ヤハウェは、ご自身の義のゆえに、喜ばれた。トーラーを大いなるものとし、輝かしいものと⟨された⟩。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "喜ばれた"
+    },
+    {
+      "surface": "למען",
+      "gloss": "…のゆえに"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ご自身の義"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "大いなるものと"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "トーラーを"
+    },
+    {
+      "surface": "ואדיר",
+      "gloss": "輝かしいものと"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:05.061302222Z",
+  "model": "glm-5.2"
+}

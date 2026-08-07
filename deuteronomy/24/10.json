@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "あなたが あなたの隣人 に どんな質草 をもって 貸すときにも、彼の家 に 入ってはならない、彼の質 を 取るために。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜ときにも"
+    },
+    {
+      "surface": "תַשֶּׁ֥ה",
+      "gloss": "あなたが貸す"
+    },
+    {
+      "surface": "בְרֵֽעֲךָ",
+      "gloss": "あなたの隣人に"
+    },
+    {
+      "surface": "מַשַּׁ֣את",
+      "gloss": "質草をもって"
+    },
+    {
+      "surface": "מְא֑וּמָה",
+      "gloss": "どんな"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תָבֹ֥א",
+      "gloss": "入ってはならない"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בֵּית֖וֹ",
+      "gloss": "彼の家"
+    },
+    {
+      "surface": "לַעֲבֹ֥ט",
+      "gloss": "取るために"
+    },
+    {
+      "surface": "עֲבֹטֽוֹ",
+      "gloss": "彼の質"
+    }
+  ],
+  "timestamp": "2026-08-07T10:17:46.671124769Z",
+  "model": "glm-5.2"
+}

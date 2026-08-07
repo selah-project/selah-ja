@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 141,
+  "translation": "ヤハウェ、見張りを置いてください、私の口のために。見守ってください、私の唇の扉を。",
+  "tokens": [
+    {
+      "surface": "שִׁיתָ֣ה",
+      "gloss": "置いてください"
+    },
+    {
+      "surface": "יְהוָ֭ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "שָׁמְרָ֣ה",
+      "gloss": "見張りを"
+    },
+    {
+      "surface": "לְפִ֑י",
+      "gloss": "私の口のために"
+    },
+    {
+      "surface": "נִצְּרָ֗ה",
+      "gloss": "見守ってください"
+    },
+    {
+      "surface": "עַ֥ל",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "דֶּ֥לֶת",
+      "gloss": "扉"
+    },
+    {
+      "surface": "שְׂפָתָֽי",
+      "gloss": "私の唇の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:45.074714591Z",
+  "model": "glm-5.2"
+}

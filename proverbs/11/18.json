@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "悪者は偽りの業をなす。しかし義を蒔く者は〈まことに〉報いを得る。",
+  "tokens": [
+    {
+      "surface": "רָשָׁ֗ע",
+      "gloss": "悪者"
+    },
+    {
+      "surface": "עֹשֶׂ֥ה",
+      "gloss": "なす"
+    },
+    {
+      "surface": "פְעֻלַּת",
+      "gloss": "業を"
+    },
+    {
+      "surface": "שָׁ֑קֶר",
+      "gloss": "偽りの"
+    },
+    {
+      "surface": "וְזֹרֵ֥עַ",
+      "gloss": "しかし蒔く者"
+    },
+    {
+      "surface": "צְ֝דָקָ֗ה",
+      "gloss": "義を"
+    },
+    {
+      "surface": "שֶׂ֣כֶר",
+      "gloss": "報い"
+    },
+    {
+      "surface": "אֱמֶֽת",
+      "gloss": "まことに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:51.515323938Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 83,
+  "translation": "エドムの天幕とイシュマエル人、モアブとハガル人、",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "〜の天幕"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドム"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "そしてイシュマエル人"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "そしてハガル人"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:43.105956801Z",
+  "model": "glm-5.2"
+}

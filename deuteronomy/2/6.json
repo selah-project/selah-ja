@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "食物は銀で彼らから買い求めて食べ、水もまた銀で彼らから買って飲まなければならない。」",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "食物"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "あなたがたは買う"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "彼らから"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "銀で"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "そして食べる"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "また"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "あなたがたは買う"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "彼らから"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "銀で"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "そして飲む"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:01.561098167Z",
+  "model": "glm-5.2"
+}

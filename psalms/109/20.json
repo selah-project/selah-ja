@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 109,
+  "translation": "これがヤハウェから ⟨の⟩ 私を訴える者たちへの報いであり、私の nefesh について悪を語る者たちへの ⟨報いである⟩。",
+  "tokens": [
+    {
+      "surface": "זֹ֤את",
+      "gloss": "これが"
+    },
+    {
+      "surface": "פְּעֻלַּ֣ת",
+      "gloss": "報い"
+    },
+    {
+      "surface": "שֹׂ֭טְנַי",
+      "gloss": "私を訴える者たち"
+    },
+    {
+      "surface": "מֵאֵ֣ת",
+      "gloss": "から"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וְהַדֹּבְרִ֥ים",
+      "gloss": "語る者たち"
+    },
+    {
+      "surface": "רָ֝֗ע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "について"
+    },
+    {
+      "surface": "נַפְשִֽׁי",
+      "gloss": "私の nefesh"
+    }
+  ],
+  "timestamp": "2026-08-07T18:41:19.309137235Z",
+  "model": "glm-5.2"
+}

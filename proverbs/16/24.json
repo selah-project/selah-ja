@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "蜜の巣、《快いことばは》、ネスフェシュにとって甘く、骨にとっていやし。",
+  "tokens": [
+    {
+      "surface": "צוּף",
+      "gloss": "巣"
+    },
+    {
+      "surface": "דְּ֭בַשׁ",
+      "gloss": "蜜の"
+    },
+    {
+      "surface": "אִמְרֵי",
+      "gloss": "《ことばは》"
+    },
+    {
+      "surface": "נֹ֑עַם",
+      "gloss": "快い"
+    },
+    {
+      "surface": "מָת֥וֹק",
+      "gloss": "甘く"
+    },
+    {
+      "surface": "לַ֝נֶּפֶשׁ",
+      "gloss": "ネスフェシュにとって"
+    },
+    {
+      "surface": "וּמַרְפֵּ֥א",
+      "gloss": "いやし"
+    },
+    {
+      "surface": "לָעָֽצֶם",
+      "gloss": "骨にとって"
+    }
+  ],
+  "timestamp": "2026-08-07T17:24:55.020620199Z",
+  "model": "glm-5.2"
+}

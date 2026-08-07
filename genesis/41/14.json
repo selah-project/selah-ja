@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 41:14",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "パロは人を遣わし、⟨את⟩ ヨセフを呼び寄せ、彼らは彼を穴から急いで連れ出した。彼は髭を剃り、⟨彼は⟩自分の衣服を着替え、パロのところへ来た。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして遣わした"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨセフを"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "ויריצהו",
+      "gloss": "そして彼を走らせた"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "穴"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "そして剃った"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "そして着替えた"
+    },
+    {
+      "surface": "שמלתיו",
+      "gloss": "彼の衣服"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:39.324424083Z",
+  "model": "glm-5.2"
+}

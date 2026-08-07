@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてイスラエルの子らはそのようにした。そして⟨彼らは⟩集めた、多く⟨集める者⟩も、少なく⟨集める者⟩も。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "そして…した"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "בני",
+      "gloss": "の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "そして集めた"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "多くする者"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "そして少なくする者"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:03.075687622Z",
+  "model": "glm-5.2"
+}

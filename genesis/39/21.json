@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そしてヤハウェはヨセフと共に⟨あり⟩、彼にヘセドを施し、監獄の長の目に彼の恵みを置かれた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…あった"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨセフ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "施した"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ヘセド"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "置かれた"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "彼の恵み"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…の目に"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "監獄"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:46.382206569Z",
+  "model": "glm-5.2"
+}

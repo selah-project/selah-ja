@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "まことに、アドナイ・ヤハウェはこう言われる ― わたしの民は最初に、そこに滞在するためにミツライム（エジプト）に下った。そしてアッシュルは、理由なく彼らを虐げた。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "下った"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民は"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "最初に"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "滞在するために"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "そしてアッシュルは"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "理由なく"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "彼らを虐げた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:14.242410253Z",
+  "model": "glm-5.2"
+}

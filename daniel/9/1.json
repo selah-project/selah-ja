@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 9:1",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "ダルヤヴェシュの⟨一⟩年目に――⟨すなわち⟩アハシュヴェロシュの子、マダイの種族の⟨ダルヤヴェシュ⟩、カルデア人の王国の上に王位につけられた者――",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "…の年に"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "ダルヤヴェシュ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "アハシュヴェロシュ"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "…の種族の"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "マダイ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王位につけられた"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "王国"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "カルデア人の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:47:23.244064539Z",
+  "model": "glm-5.2"
+}

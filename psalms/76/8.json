@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 76,
+  "translation": "あなた、あなたこそ恐るべき方。そしてあなたの怒りから ⟨は⟩、誰があなたの御前に立つ ⟨ことができようか⟩。",
+  "tokens": [
+    {
+      "surface": "אַתָּה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "נֹורָא",
+      "gloss": "恐るべき方"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "וּמִי",
+      "gloss": "そして誰が"
+    },
+    {
+      "surface": "יַעֲמֹד",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "לְפָנֶיךָ",
+      "gloss": "あなたの御前に"
+    },
+    {
+      "surface": "מֵאָז",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "אַפֶּךָ",
+      "gloss": "あなたの怒り"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:08.969785578Z",
+  "model": "glm-5.2"
+}

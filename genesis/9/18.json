@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして箱舟から出て来たノアの息子たちは、シェム、ハム、ヤフェテであった。ハム、彼⟨こそ⟩カナンの父である。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "そして〜であった"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の息子たち"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノアの"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "出て来た"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "箱舟"
+    },
+    {
+      "surface": "שם",
+      "gloss": "シェム"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "およびハム"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "およびヤフェテ"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "そしてハム"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "カナン"
+    }
+  ],
+  "timestamp": "2026-08-07T18:25:18.607895034Z",
+  "model": "glm-5.2"
+}

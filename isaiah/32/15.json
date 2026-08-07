@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "高き所から霊がわたしたちの上に注がれるまで。そうして荒野は果樹園となり、果樹園は森とみなされるであろう。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "注がれる"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "わたしたちの上に"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊が"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "高き所から"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "そうして〜となる"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "荒野は"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "果樹園と"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "果樹園は"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "森と"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "みなされる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:17.226809141Z",
+  "model": "glm-5.2"
+}

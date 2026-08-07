@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "呪われるべきは、道で盲人を迷わせる者。そして民は皆、「アーメン」と言わなければならない。",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "呪われるべきは"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "迷わせる者"
+    },
+    {
+      "surface": "עור",
+      "gloss": "盲人を"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道で"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "そして言わなければならない"
+    },
+    {
+      "surface": "כל",
+      "gloss": "皆"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "アーメン"
+    }
+  ],
+  "timestamp": "2026-08-07T16:38:07.348142463Z",
+  "model": "glm-5.2"
+}

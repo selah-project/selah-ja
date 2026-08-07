@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "見よ、悪者たちは弓を踏み張り、彼らの矢を弦に据えた — 暗がりの中で、直き心の者たちを射るために。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "（というのは）"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "悪者たちは"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "踏み張りする"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓を"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "据えた"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "彼らの矢を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "弦"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "射るために"
+    },
+    {
+      "surface": "במו",
+      "gloss": "〜の中で"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "暗がり"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "直き〜の"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心の者たち"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:17.068693199Z",
+  "model": "glm-5.2"
+}

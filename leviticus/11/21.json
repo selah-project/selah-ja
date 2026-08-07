@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 11:21",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "ただし、飛ぶ群がるもののうち四⟨つ⟩の⟨足⟩で歩くすべての群がるもののうち、⟨את⟩これをあなたがたは食べてよい — すなわち、その足の上に二つの跳ね脚を持ち、それによって地の上を跳ねるもの。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたがたは食べてよい"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "〜のすべてのうち"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "群がるもの"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "飛ぶもの"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "歩くもの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるもの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "כרעים",
+      "gloss": "跳ね脚"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "その足の"
+    },
+    {
+      "surface": "לנתר",
+      "gloss": "跳ねるために"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "それによって"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上を"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:45.656373130Z",
+  "model": "glm-5.2"
+}

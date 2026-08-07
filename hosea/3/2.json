@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして私は彼女を私のために買った。銀十五⟨シェケル⟩と、大麦一ホメルと、大麦半レテクで。",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "そして私は買った"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "十五"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "（十と五）"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀で"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "そして一ホメルの"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "大麦"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "そして半レテクの"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "大麦"
+    }
+  ],
+  "timestamp": "2026-08-07T12:18:38.612790703Z",
+  "model": "glm-5.2"
+}

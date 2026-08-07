@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 83,
+  "translation": "エロヒム、 沈黙を⟨あなたに⟩とどめるな、 黙していないで、 かつ静かにしているな、 エルよ。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "沈黙"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "黙していないで"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "かつ〜な"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "静かにしているな"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:51.454653456Z",
+  "model": "glm-5.2"
+}

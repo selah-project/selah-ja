@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "彼の労苦は彼の頭に帰り、彼の頭頂には彼の暴力が下るであろう。",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "帰る"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "彼の労苦"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "彼の頭に"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして…の上に"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "彼の頭頂"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "彼の暴力"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "下る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:20.234457486Z",
+  "model": "glm-5.2"
+}

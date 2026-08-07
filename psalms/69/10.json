@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "因为你殿的热心将我吞灭，そしてあなたをそしる者たちのそしりがわたしの上に落ちたから。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "〜の热心"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "あなたの殿"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "わたしを吞灭した"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "そしてそしり"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "あなたをそしる者たちの"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "落ちた"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "わたしの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:29.429721038Z",
+  "model": "glm-5.2"
+}

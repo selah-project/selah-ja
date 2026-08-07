@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてマフロンとキルヨンの二人も死んだ。そしてふたりの子供と夫から⟨その⟩女は残された。",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "そして…死んだ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "も"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "二人"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "マフロン"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "とキルヨン"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "そして…残された"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "その女は"
+    },
+    {
+      "surface": "משני",
+      "gloss": "…からふたりの"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "子供"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "と夫"
+    }
+  ],
+  "timestamp": "2026-08-07T13:34:54.848495387Z",
+  "model": "glm-5.2"
+}

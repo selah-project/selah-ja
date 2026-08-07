@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして雄牛、あるいは群れの獣——⟨את⟩それと⟨את⟩その子を、同じ日に屠ってはならない。",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "そして雄牛"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "שה",
+      "gloss": "群れの獣"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩それ",
+      "marks": "それ（雄牛または群れの獣）"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その子"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "あなたがたは屠る"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜日に"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:18.230212616Z",
+  "model": "glm-5.2"
+}

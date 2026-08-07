@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして、四つの大きな獣が海から上がって来た。一つは他の一つと異なっていた。",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "そして四つの"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "獣が"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "大きな"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "上がって来た"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "海"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "異なっていた"
+    },
+    {
+      "surface": "דא",
+      "gloss": "これは"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "דא",
+      "gloss": "これ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:46:55.435285832Z",
+  "model": "glm-5.2"
+}

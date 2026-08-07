@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "イスラエルの家は⟨את⟩その名をマナと呼んだ。それはコリアンダーの種のようで、白く、その味は蜜入りの薄焼き菓子のようであった。",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "そして呼んだ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "その名"
+    },
+    {
+      "surface": "מן",
+      "gloss": "マナ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そしてそれは"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "〜の種のようで"
+    },
+    {
+      "surface": "גד",
+      "gloss": "コリアンダー"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "白く"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "そしてその味は"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "〜の薄焼き菓子のようで"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "蜜入りの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:19.537119603Z",
+  "model": "glm-5.2"
+}

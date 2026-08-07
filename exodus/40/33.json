@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 40:33",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして彼は⟨את⟩庭を立てた、幕屋の回りに、そして祭壇の回りに。そして彼は⟨את⟩庭の門の垂れ幕をかけた。そしてモーシェは⟨את⟩その務めを完成した。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして彼は立てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "庭"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "回りに"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "幕屋の"
+    },
+    {
+      "surface": "ולמזבח",
+      "gloss": "そして祭壇の"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして彼はかけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "垂れ幕"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "垂れ幕"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門の"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭の"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "そして完成した"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その務め"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "その務め"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:14.424037561Z",
+  "model": "glm-5.2"
+}

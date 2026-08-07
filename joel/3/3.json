@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてわたしは、天と地にしるしを置く — 血と火と煙の柱が。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "そしてわたしは置く"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "しるしを"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "天に"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "そして地に"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "と火"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "と柱"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "煙の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:21:19.952350538Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "偽りのパンは人にとって甘いが、その後、彼の口は砂利で満たされる。",
+  "tokens": [
+    {
+      "surface": "עָרֵ֣ב",
+      "gloss": "甘い"
+    },
+    {
+      "surface": "לָ֭אִישׁ",
+      "gloss": "人にとって"
+    },
+    {
+      "surface": "לֶ֣חֶם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "שָׁ֑קֶר",
+      "gloss": "偽りの"
+    },
+    {
+      "surface": "וְ֝אַחַ֗ר",
+      "gloss": "その後"
+    },
+    {
+      "surface": "יִמָּֽלֵא",
+      "gloss": "満たされる"
+    },
+    {
+      "surface": "פִ֥יהוּ",
+      "gloss": "彼の口"
+    },
+    {
+      "surface": "חָצָֽץ",
+      "gloss": "砂利で"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:05.628665126Z",
+  "model": "glm-5.2"
+}

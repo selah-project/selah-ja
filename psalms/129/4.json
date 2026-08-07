@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 129,
+  "translation": "ヤハウェは正しい、⟨彼は⟩悪者たちの綱を断ち切った。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しい"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "断ち切った"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "綱を"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:22.186518246Z",
+  "model": "glm-5.2"
+}

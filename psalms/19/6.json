@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして彼は花婿がその新房から出るように、勇士が駆ける道を喜び走る者のように。",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "そして彼は"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "花婿のように"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出る"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "その新房から"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "喜び走る"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "勇士のように"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "駆ける"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "道を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:04.997429452Z",
+  "model": "glm-5.2"
+}

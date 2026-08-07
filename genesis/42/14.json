@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "ヨセフは彼らに言った。「わたしがあなたがたに語ったのはまさにそれだ、こう言って、『あなたがたは間者である』と。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして……は言った"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それだ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ということは"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "私が語った"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "こう言って"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "間者たち"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたがたは"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:18.059468703Z",
+  "model": "glm-5.2"
+}

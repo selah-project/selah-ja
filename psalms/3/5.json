@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "わたしの声、ヤハウェに、わたしは叫ぶ。そして⟨彼は⟩わたしに答えられた、⟨彼の⟩聖なる山から。セラ",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "わたしの声"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "わたしは叫ぶ"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "そして⟨彼は⟩わたしに答えられた"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "山から"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "⟨彼の⟩聖なる"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:17.139155713Z",
+  "model": "glm-5.2"
+}

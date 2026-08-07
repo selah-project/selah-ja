@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてサムエルは ヤハウェの ⟨את⟩ ¬¬御前に¬¬仕えていた。亜麻のエポドを帯びた少年であった。",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "そしてサムエルは"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "仕えていた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの御前"
+    },
+    {
+      "surface": "פני",
+      "gloss": "御前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "נער",
+      "gloss": "少年"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "帯びた"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "エポド"
+    },
+    {
+      "surface": "בד",
+      "gloss": "亜麻の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:39:58.955725652Z",
+  "model": "glm-5.2"
+}

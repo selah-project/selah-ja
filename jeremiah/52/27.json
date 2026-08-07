@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 52:27",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "そしてバビロンの王は彼らを打ち、リブラすなわちハマテの地で彼らを殺した。かくしてユダはその土から捕囚にされた。",
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "そして打った"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら（バビロンの王を指す）"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロン"
+    },
+    {
+      "surface": "וימתם",
+      "gloss": "そして殺した"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "リブラで"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地で"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ハマテ"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "そして捕囚にされた"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "その土"
+    }
+  ],
+  "timestamp": "2026-08-07T12:00:14.012369497Z",
+  "model": "glm-5.2"
+}

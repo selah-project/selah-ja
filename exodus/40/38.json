@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 40:38",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "まことに ヤハウェ の雲は ⟨その⟩ 幕屋の上に昼間〈あり〉、火は夜〈そこに〉あった、全イスラエルの家の目の前で、彼らのすべての旅路において。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "その幕屋"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "昼間"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "そして火"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "בו",
+      "gloss": "その中に"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "〜の目の前で"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての〜において"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "彼らの旅路"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:54.225877545Z",
+  "model": "glm-5.2"
+}

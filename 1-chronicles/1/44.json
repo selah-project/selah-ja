@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 1:44",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ベラが死に、彼に代わってゼラフの子ヨバブがボツラから王として治めた。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ベラ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "そして王として治めた"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代わって"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ヨバブ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ゼラフ"
+    },
+    {
+      "surface": "מבצרה",
+      "gloss": "ボツラから"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:12.466588397Z",
+  "model": "glm-5.2"
+}

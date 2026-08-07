@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "昼間、ヤハウェはご自身のヘセドを命じられる。夜には歌が私と共に、私の命のエルへの祈りとして⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "昼間"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "命じられる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ご自身のヘセド"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "夜には"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "歌"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "私と共に"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "祈り"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "エルへの"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "私の命の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:50.715304639Z",
+  "model": "glm-5.2"
+}

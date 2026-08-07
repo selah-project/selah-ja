@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして彼は言った、「拾い上げよ」。そして彼は手を伸ばし、それを取った。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "拾い上げよ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "そして彼は伸ばし"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "手を"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "そして…取った"
+    }
+  ],
+  "timestamp": "2026-08-07T11:11:36.272650873Z",
+  "model": "glm-5.2"
+}

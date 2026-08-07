@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "君たちは彼らの手で吊るされた、長老たちの顔は尊ばれなかった。",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "君たちは"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "彼らの手で"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "吊るされた"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔は"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "長老たちの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "尊ばれ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:57.725298357Z",
+  "model": "glm-5.2"
+}

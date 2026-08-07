@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 25:2",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "人の子よ、あなたの顔をアンモンの子らに向けよ。そして彼らに対して預言せよ。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "שים",
+      "gloss": "向けよ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの顔を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アンモン"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "そして預言せよ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らに対して"
+    }
+  ],
+  "timestamp": "2026-08-07T12:09:09.811453577Z",
+  "model": "glm-5.2"
+}

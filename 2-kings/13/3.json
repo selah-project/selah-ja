@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 13:3",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "するとヤハウェの怒りがイスラエルに対して燃え上がり、彼らをアラムの王ハザエルの手に、またハザエルの子ベン・ハダドの手に、すべての日々引き渡された。",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "そして…燃え上がった"
+    },
+    {
+      "surface": "אף",
+      "gloss": "怒り"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルに対して"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "そして…引き渡された"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…の手に"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "ハザエル"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラム"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "また…の手に"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ハダド"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "ハザエル"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日々"
+    }
+  ],
+  "timestamp": "2026-08-07T11:15:14.536812096Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 29:24",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして霊に迷う者たちは悟りを知り、つぶやく者たちは教えを学ぶ。",
+  "tokens": [
+    {
+      "surface": "וְיָדְע֥וּ",
+      "gloss": "そして知る"
+    },
+    {
+      "surface": "תֹֽעֵי",
+      "gloss": "迷う者たち"
+    },
+    {
+      "surface": "ר֖וּחַ",
+      "gloss": "霊に"
+    },
+    {
+      "surface": "בִּינָ֑ה",
+      "gloss": "悟りを"
+    },
+    {
+      "surface": "וְרוֹגְנִ֖ים",
+      "gloss": "つぶやく者たち"
+    },
+    {
+      "surface": "יִלְמְדוּ",
+      "gloss": "学ぶ"
+    },
+    {
+      "surface": "לֶֽקַח",
+      "gloss": "教えを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:39.953016864Z",
+  "model": "glm-5.2"
+}

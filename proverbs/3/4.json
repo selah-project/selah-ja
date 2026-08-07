@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そうすれば、あなたは恵みと良い理解を、エロヒムと人の目に見出す。",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "そして見出す"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恵みを"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "そして理解を"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "〜の目に"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "と人"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:54.976317093Z",
+  "model": "glm-5.2"
+}

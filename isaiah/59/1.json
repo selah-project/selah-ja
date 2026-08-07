@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "見よ、ヤハウェの手が救うことに短くなったのではなく、⟨また⟩⟨彼の⟩耳が聞くことに重くなったのでもない。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "短くなった"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "救うことに"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "重くなった"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "耳"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "聞くことに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:37:06.678280252Z",
+  "model": "glm-5.2"
+}

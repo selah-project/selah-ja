@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ヤハウェ、あなたの義のうちに私を導いてください。私の敵のゆえに、あなたの道を私の前に平らにしてください。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "私を導いてください"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "あなたの義のうちに"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "私の敵"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "平らにしてください"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "私の前に"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "あなたの道"
+    }
+  ],
+  "timestamp": "2026-08-07T12:33:56.486506697Z",
+  "model": "glm-5.2"
+}

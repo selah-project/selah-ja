@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "良い分別と知識を私に教えてください。あなたのミツワーにおいて私は信じました。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "分別"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "と知識"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "私に教えてください"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "あなたのミツワーにおいて"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "私は信じました"
+    }
+  ],
+  "timestamp": "2026-08-07T17:22:21.761353581Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 19:3",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "これで十回、あなたたちは私を辱めた。私に対して目を背けても、あなたたちは恥じないのか。",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "回"
+    },
+    {
+      "surface": "תכלימוני",
+      "gloss": "あなたたちは私を辱めた"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "あなたたちは恥じる"
+    },
+    {
+      "surface": "תהכרו",
+      "gloss": "あなたたちは目を背ける"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に対して"
+    }
+  ],
+  "timestamp": "2026-08-07T13:24:48.721119150Z",
+  "model": "glm-5.2"
+}

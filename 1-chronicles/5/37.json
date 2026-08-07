@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "アザルヤは⟨את⟩アマルヤを生み、アマルヤは⟨את⟩アヒトブを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "アザルヤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アマルヤ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "アマルヤ"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "アマルヤ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アヒトブ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "アヒトブ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:00:50.976580544Z",
+  "model": "glm-5.2"
+}

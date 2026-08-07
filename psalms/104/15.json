@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "そしてぶどう酒は人の心を喜ばせ、油は顔を輝かせ、パンは人の心を支える。",
+  "tokens": [
+    {
+      "surface": "וְיַ֤יִן",
+      "gloss": "そしてぶどう酒は"
+    },
+    {
+      "surface": "יְשַׂמַּ֬ח",
+      "gloss": "喜ばせる"
+    },
+    {
+      "surface": "לְֽבַב",
+      "gloss": "心を"
+    },
+    {
+      "surface": "אֱנ֗וֹשׁ",
+      "gloss": "人の"
+    },
+    {
+      "surface": "לְהַצְהִ֣יל",
+      "gloss": "輝かせる"
+    },
+    {
+      "surface": "פָּנִ֣ים",
+      "gloss": "顔を"
+    },
+    {
+      "surface": "מִשָּׁ֑מֶן",
+      "gloss": "油で"
+    },
+    {
+      "surface": "וְ֝לֶ֗חֶם",
+      "gloss": "そしてパンは"
+    },
+    {
+      "surface": "לְֽבַב",
+      "gloss": "心を"
+    },
+    {
+      "surface": "אֱנ֥וֹשׁ",
+      "gloss": "人の"
+    },
+    {
+      "surface": "יִסְעָֽד",
+      "gloss": "支える"
+    }
+  ],
+  "timestamp": "2026-08-07T12:59:09.700910659Z",
+  "model": "glm-5.2"
+}

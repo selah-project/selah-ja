@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "太陽が地の上に出たとき、ロトはツォアルに入った。",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "太陽は"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出た"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ロトは"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入った"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "ツォアルへ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:10.423033121Z",
+  "model": "glm-5.2"
+}

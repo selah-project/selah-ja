@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 22:8",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして地は揺れ震い、天の基が揺れ動いた。そして⟨それらは⟩激しく揺さぶられた、彼に燃える怒りがあったゆえに。",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "そして揺れ"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "震い"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "基が"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "揺れ動いた"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "そして激しく揺さぶられた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ゆえに"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "燃える怒りがあった"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:14.253025072Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 128,
+  "translation": "上りの歌。幸いなこと、ヤハウェを恐れるすべての者、⟨その⟩道を歩む者は。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上りの"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "幸いなこと"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "恐れる者"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "歩む者"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "その道を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:16.740814151Z",
+  "model": "glm-5.2"
+}

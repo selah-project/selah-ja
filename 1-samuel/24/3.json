@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "サウルはイスラエル全体から選ばれた三千人を取った。そして⟨彼⟩はダビデと⟨彼⟩の部下たちを求めに行った — ⟨すなわち⟩野山羊の岩の表面⟨を⟩。 ⟨את⟩⟨ダビデ⟩",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウルは"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千を"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人を"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "選ばれた"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "〜全体から"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "求めに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダビデ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデを"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "と⟨彼⟩の部下たちを"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の表面に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔を"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "岩の"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "野山羊の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:24.008077840Z",
+  "model": "glm-5.2"
+}

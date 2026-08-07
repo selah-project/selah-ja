@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてヤハウェは、⟨את⟩その町と⟨את⟩その塔を見るために降りて来られた—アダムの子らが建てていたものを。",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "そして降りて来られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "見るために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その町"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "その塔"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "その塔"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ものを"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "建てていた"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "アダム"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:07.996277186Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼は言った。「どの道を上るか。」彼は言った。「エドムの荒野の道を。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "אי",
+      "gloss": "どの"
+    },
+    {
+      "surface": "זה",
+      "gloss": "この"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "道を"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "上るか"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "彼は言った"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "〜の道を"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "荒野の"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドムの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:10:43.380473359Z",
+  "model": "glm-5.2"
+}

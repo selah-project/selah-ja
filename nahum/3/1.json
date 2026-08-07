@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ああ、血の都、そのすべては偽りと暴虐に満ち、獲物は去らない。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "都"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "血の"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "そのすべて"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "偽り"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "暴虐"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "満ち"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "去ら"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "獲物は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:28:07.923521935Z",
+  "model": "glm-5.2"
+}

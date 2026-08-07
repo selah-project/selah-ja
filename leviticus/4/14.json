@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 4:14",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼らがその上で犯した罪が知られたなら、会衆は罪のための献げ物として雄牛を近づけ、それを会見の天幕の前に引いて来る。",
+  "tokens": [
+    {
+      "surface": "ונודעה",
+      "gloss": "そして知られたなら"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "罪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "彼らが犯した"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "その上で"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "そして近づける"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "会衆"
+    },
+    {
+      "surface": "פר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛群"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "罪のための献げ物として"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "そして引いて来る"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ（雄牛）"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:50.798821563Z",
+  "model": "glm-5.2"
+}

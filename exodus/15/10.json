@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "あなたはあなたの息を吹かれた — 海は彼らを覆った。鉛のように力強い水々に沈んだ。",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "あなたは吹かれた"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "あなたの息で"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "覆った"
+    },
+    {
+      "surface": "יָם",
+      "gloss": "海"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "沈んだ"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "鉛のように"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水々に"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "力強い"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:48.339555950Z",
+  "model": "glm-5.2"
+}

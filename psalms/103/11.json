@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 103,
+  "translation": "天が地の上に高いように、彼のヘセドは彼を恐れる者の上に力強いのだから、",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "～のだから"
+    },
+    {
+      "surface": "כִגְבֹ֣הַּ",
+      "gloss": "高いように"
+    },
+    {
+      "surface": "שָׁ֭מַיִם",
+      "gloss": "天が"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "～の上に"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "גָּבַ֥ר",
+      "gloss": "力強い"
+    },
+    {
+      "surface": "חַ֝סְדּ֗וֹ",
+      "gloss": "彼のヘセド"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "～の上に"
+    },
+    {
+      "surface": "יְרֵאָֽיו",
+      "gloss": "彼を恐れる者"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:50.477485439Z",
+  "model": "glm-5.2"
+}

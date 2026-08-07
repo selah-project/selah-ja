@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "それを避けよ、渡るな、それを、そこから迂回せよ、そして通過せよ。",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "それを避けよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜なかれ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "渡る"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それを"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "迂回せよ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "そして通過せよ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:21.098397618Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "各人は ⟨את⟩ 同伴者を助け、その兄弟に「強くあれ」と言う。",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "各人は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "同伴者"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "同伴者"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "助ける"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "その兄弟に"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "言う"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "強くあれ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:35.464302633Z",
+  "model": "glm-5.2"
+}

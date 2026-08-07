@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてイスラエルは⟨את⟩これらすべての都市を取った。そしてイスラエルはエモリ人のすべての都市、すなわちヘシュボンとそのすべての娘たち⟨の町⟩に住んだ。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらすべての都市"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "都市"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして住んだ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "〜のすべての"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "都市"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "エモリ人"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "ヘシュボンに"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "およびそのすべての"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "娘たち"
+    }
+  ],
+  "timestamp": "2026-08-07T09:58:58.341588647Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "しかし、あなたは〈そのお方〉であり、あなたの年は尽きることがない。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "しかし、あなたは"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "〈そのお方〉"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "あなたの年は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "尽きることが"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:50.890468022Z",
+  "model": "glm-5.2"
+}

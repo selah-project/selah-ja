@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 22:20",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そしてその日になると、わたしはわたしのしもべを、エルヤキムを、ヒルキヤの子を呼ぶ。」",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そして〜になる"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "その日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "わたしは呼ぶ"
+    },
+    {
+      "surface": "לעבדי",
+      "gloss": "わたしのしもべを"
+    },
+    {
+      "surface": "לאליקים",
+      "gloss": "エルヤキムを"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "ヒルキヤの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:35.003302548Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "彼は言った、「私にあなたへの⟨一つの⟩言葉⟨があります⟩」。彼女は言った、「語りなさい」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "彼は言った"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたへの"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "彼女は言った"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語りなさい"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:02.230495927Z",
+  "model": "glm-5.2"
+}

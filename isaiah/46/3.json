@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 46:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "わたしに聞け、ヤアコブの家と、すべてイスラエルの家の残りの者よ。胎から ⟨⟨わたしに⟩⟩ 負われ、子宮から ⟨⟨わたしに⟩⟩ 担われた ⟨者たち⟩。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべて"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "残りの者"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "העמסים",
+      "gloss": "負われた者たち"
+    },
+    {
+      "surface": "מני",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "胎"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "担われた者たち"
+    },
+    {
+      "surface": "מני",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "子宮"
+    }
+  ],
+  "timestamp": "2026-08-07T18:34:27.745098123Z",
+  "model": "glm-5.2"
+}

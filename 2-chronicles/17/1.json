@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 17:1",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてエホシュアファト ⟨の⟩ 息子が ⟨彼⟩ に代わって王となり、彼はイスラエルに対して自らを強めた。",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "そして王となった"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "エホシュアファト"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の息子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代わって"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "そして強めた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:45.795501611Z",
+  "model": "glm-5.2"
+}

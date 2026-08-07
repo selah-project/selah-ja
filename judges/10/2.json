@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして彼は⟨את⟩イスラエルを裁いた — 二十三年間。そして彼は死に、シャミルに葬られた。",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "そして彼は裁いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "と三"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年間"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして彼は死んだ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "そして葬られた"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "シャミルに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:35:12.905196934Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 24:18",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そしてモーシェは雲の中に入り、山へ上った。そしてモーシェは四十日と四十夜、山にいた。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして…は入った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "…の中に"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "そして…は上った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして…はいた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山に"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "と四十"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:40.774279670Z",
+  "model": "glm-5.2"
+}

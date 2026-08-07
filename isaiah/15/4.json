@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 15:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そしてヘシュボンは叫び、エルアレも⟨叫ぶ⟩。ヤハツまで彼らの声が聞かれる。それゆえ、モアブの武装した者たちは叫び声を上げる。彼の⟨命⟩は彼にとって苦しくなる。",
+  "tokens": [
+    {
+      "surface": "ותזעק",
+      "gloss": "そして叫ぶ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ヘシュボン"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "そしてエルアレ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "יהץ",
+      "gloss": "ヤハツ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "聞かれる"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "彼らの声"
+    },
+    {
+      "surface": "על",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "（強調）"
+    },
+    {
+      "surface": "חלצי",
+      "gloss": "武装した者たち"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "叫び声を上げる"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "彼の命"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "苦しくなる"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼にとって"
+    }
+  ],
+  "timestamp": "2026-08-07T16:56:25.932065722Z",
+  "model": "glm-5.2"
+}

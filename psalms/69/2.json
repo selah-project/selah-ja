@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "私を救ってください、エロヒムよ。水が⟨נפש⟩にまで迫ってきたからです。",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "私を救ってください"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "באו",
+      "gloss": "迫ってきた"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水が"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜にまで"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨נפש⟩に"
+    }
+  ],
+  "timestamp": "2026-08-07T18:40:26.492356906Z",
+  "model": "glm-5.2"
+}

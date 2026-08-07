@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 29:20",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "彼がその上で労したその働きに対して、私は彼に⟨את⟩エジプトの地を与えた。彼らが私のために行ったからである—アドナイ・ヤハウェの御告げ。",
+  "tokens": [
+    {
+      "surface": "פעלתו",
+      "gloss": "その働き"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "労した"
+    },
+    {
+      "surface": "בה",
+      "gloss": "その上で"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "私は…与えた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エジプトの地を"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "エジプトの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "という理由で"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "行った"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:09:29.823555294Z",
+  "model": "glm-5.2"
+}

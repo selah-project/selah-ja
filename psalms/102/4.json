@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "私の日々は煙のように消え果て、私の骨は燃えさかるように焼け焦げた。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "消え果てた"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "煙のように"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "私の日々は"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "私の骨は"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "קד",
+      "gloss": "燃えさかる火"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "焼け焦げた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:49.132714853Z",
+  "model": "glm-5.2"
+}

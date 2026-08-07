@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "急いで、わたしの助けへ来てください。アドナイ、わたしの救いよ。",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "急いでください"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "わたしの助けへ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "わたしの救い"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:30.277576957Z",
+  "model": "glm-5.2"
+}

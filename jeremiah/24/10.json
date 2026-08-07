@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "わたしは彼らの中に⟨את⟩剣、⟨את⟩飢饉、そして⟨את⟩疫病を送る。彼らが尽き果てるまで、地の上から、わたしが彼らと彼らの先祖たちに与えたその地から。",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "わたしは送る"
+    },
+    {
+      "surface": "בם",
+      "gloss": "彼らの中に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "剣"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "飢饉"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "飢饉"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "疫病"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "疫病"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "彼らが尽き果てる"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜の上から"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "わたしが与えた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "そして彼らの先祖たちに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:48:15.517277102Z",
+  "model": "glm-5.2"
+}

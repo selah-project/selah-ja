@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてシュムエルは油の瓶を取⟨את⟩り、彼の頭に注ぎ、彼に口づけして、言った。「ヤハウェがあなたを油注いだのではないか。ご自身の嗣業の上、指導者として。」",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "油の瓶"
+    },
+    {
+      "surface": "פך",
+      "gloss": "瓶"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "油の"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "そして注いだ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "彼の頭"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "そして彼に口づけした"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "כי",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "あなたを油注いだ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ご自身の嗣業"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "指導者として"
+    }
+  ],
+  "timestamp": "2026-08-07T10:42:43.661345521Z",
+  "model": "glm-5.2"
+}

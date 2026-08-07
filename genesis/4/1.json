@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてそのアダムは ⟨את⟩ ハヴァ（彼の妻）を知った。彼女は身ごもり、⟨את⟩ カインを産んで、言った。「私は ⟨את⟩ ヤハウェによって一人の男を得た。」",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "そしてそのアダムは"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ハヴァ"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "ハヴァ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "彼の妻"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "彼女は身ごもった"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "彼女は産んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "カイン"
+    },
+    {
+      "surface": "קין",
+      "gloss": "カイン"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "彼女は言った"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "私は得た"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一人の男を"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T18:25:09.706628526Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "彼らは来て、彼のツェダカを生まれようとする民に告げ知らせる。ヤハウェが ⟨それを⟩成されたからである。",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "彼らは来る"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "告げ知らせる"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "彼のツェダカ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "民に"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "生まれようとする"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "成された"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:24.887275058Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "三年間、彼はイェルシャライムで王となった。彼の母の名はマアカ、アビシャロムの娘であった。",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年間"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライムで"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そして名"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "彼の母の"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "マアカ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "アビシャロムの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:06:53.884685417Z",
+  "model": "glm-5.2"
+}

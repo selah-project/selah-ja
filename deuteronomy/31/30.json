@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "そしてモシェはイスラエルの全集団の耳に、この歌の言葉々々を⟨את⟩語った、それが完全に終わるまで。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして〜は語った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "〜の耳に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "集団"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この歌の言葉々々"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "言葉々々"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "この歌の"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "完全に終わる"
+    }
+  ],
+  "timestamp": "2026-08-07T10:20:46.505040786Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 8:12",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "罪を犯す者が悪を百回行い、しかも長生きする⟨ことがある⟩—しかし私もまた知っている。エロヒムを恐れる者たち、すなわちみ前を恐れる者たちに、良いことがあるであろうことを。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "〜ことがある"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "罪を犯す者が"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行い"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "百回"
+    },
+    {
+      "surface": "ומאריך",
+      "gloss": "そして長生きする"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "しかし"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "知っている"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "あるであろう"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良いことが"
+    },
+    {
+      "surface": "ליראי",
+      "gloss": "〜を恐れる者たちに"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "すなわち"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "恐れる者たち"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "み前を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:54.821061789Z",
+  "model": "glm-5.2"
+}

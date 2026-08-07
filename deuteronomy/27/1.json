@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてモーシェとイスラエルの長老たちは民に命じて言った、「私がきょう、あなたがたに命じる ⟨את⟩ すべての命令を守れ」",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "そして…命じた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "と…長老たち"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "守れ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（関係詞）"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私が"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "命じる"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "היום",
+      "gloss": "きょう"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:48.279032402Z",
+  "model": "glm-5.2"
+}

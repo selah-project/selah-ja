@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてあなたがたはわたしのすべての助言を軽蔑し、わたしの叱責を欲しがらなかった。",
+  "tokens": [
+    {
+      "surface": "וַתִּפְרְעוּ",
+      "gloss": "そしてあなたがたは軽蔑した"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עֲצָתִי",
+      "gloss": "わたしの助言"
+    },
+    {
+      "surface": "וְתוֹכַחְתִּי",
+      "gloss": "わたしの叱責"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אֲבִיתֶם",
+      "gloss": "あなたがたは欲しがった"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:37.440863630Z",
+  "model": "glm-5.2"
+}

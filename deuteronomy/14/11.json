@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "すべて、きよい鳥をあなたたちは食べてよい。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "きよい"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたたちは食べてよい"
+    }
+  ],
+  "timestamp": "2026-08-07T10:12:52.964430903Z",
+  "model": "glm-5.2"
+}

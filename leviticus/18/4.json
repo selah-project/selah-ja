@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "⟨את⟩わたしの裁きを行い、⟨את⟩わたしの掟を守って、その中を歩まなければならない。わたしはヤハウェ、あなたがたのエロヒムである。」",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの裁き"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "わたしの裁き"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "あなたがたは行え"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "わたしの掟"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "わたしの掟"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "あなたがたは守れ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "歩むために"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "その中を"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたし"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "あなたがたのエロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:15.829862450Z",
+  "model": "glm-5.2"
+}

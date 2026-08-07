@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてダビデはシャウルの子イーシュ・ボシェテへ使者を遣わして言った。「私の妻ミカルを渡せ。⟨את⟩私の妻を、⟨את⟩ミカルを。⟨彼女⟩こそ私がペリシテ人の前皮百で私のために嫁入りさせた者だ。」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして遣わした"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使者を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "イーシュ"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ボシェテ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルの"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "渡せ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の妻"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "私の妻を"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ミカル"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ミカルを"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの者"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "私が嫁入りさせた"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "百で"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "前皮の"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:36.149033241Z",
+  "model": "glm-5.2"
+}

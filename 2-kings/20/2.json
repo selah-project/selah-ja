@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そして彼は⟨את⟩顔を壁のほうに向け、ヤハウェに祈って言った。",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "そして…向けた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "顔"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "顔"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のほうに"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "壁"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "そして…祈った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    }
+  ],
+  "timestamp": "2026-08-07T11:17:48.364057228Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして衛兵長は、国の最も貧しい者たちの中から、ぶどう園の労働者と農夫として⟨残した⟩。",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "そして〜の最も貧しい者たちの中から"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "国"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "残した"
+    },
+    {
+      "surface": "רב",
+      "gloss": "長"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "衛兵"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "ぶどう園の労働者として"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "と農夫として"
+    }
+  ],
+  "timestamp": "2026-08-07T11:19:41.978741025Z",
+  "model": "glm-5.2"
+}

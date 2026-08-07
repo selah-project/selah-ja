@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "まことに、エロヒムは⟨彼の⟩敵の頭を打ち砕き、咎のうちを歩き回る者の毛深い頭頂を打ち砕くであろう。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "打ち砕くであろう"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭を"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "⟨彼の⟩敵の"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "頭頂を"
+    },
+    {
+      "surface": "שער",
+      "gloss": "毛深い"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "歩き回る者の"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "咎のうちを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:43.588349339Z",
+  "model": "glm-5.2"
+}

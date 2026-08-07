@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "聞け、天よ、耳を傾けよ、地よ、ヤハウェが語られたから、息子たちを育て、高く上げたが、彼らはわたしに背いた。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天よ"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "耳を傾けよ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地よ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たちを"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "育てた"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "高く上げた"
+    },
+    {
+      "surface": "והם",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "背いた"
+    },
+    {
+      "surface": "בי",
+      "gloss": "わたしに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:07.482093278Z",
+  "model": "glm-5.2"
+}

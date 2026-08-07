@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "知恵の陰の中に⟨あるように⟩、銀の陰の中に⟨ある⟩からだ。知恵の知識の益は、その所有者たちを生かすことだ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "陰の中に"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "知恵の"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "陰の中に"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀の"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "〜の益は"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "知恵の"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "生かす"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "その所有者たちを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:18.682491045Z",
+  "model": "glm-5.2"
+}

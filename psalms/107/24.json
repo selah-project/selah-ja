@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "彼らはヤハウェのみわざを見た、そして深淵における⟨彼の⟩奇跡を。",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "彼ら"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "見た"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "…のみわざ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "そして奇跡"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "深淵において"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:27.358851032Z",
+  "model": "glm-5.2"
+}

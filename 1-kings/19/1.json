@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "アハブはイゼベルに告げた — ⟨את⟩すべてのことを、エリヤがなしたことを、そして⟨את⟩すべてのことを、彼が⟨את⟩すべての預言者たちを剣で殺したことを。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "アハブは"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "イゼベルに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのこと"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "なした"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "エリヤが"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "すべてのこと"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "殺した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての預言者たち"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "預言者たちを"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "剣で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:11.454109312Z",
+  "model": "glm-5.2"
+}

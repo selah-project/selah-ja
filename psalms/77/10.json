@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 77,
+  "translation": "エルは恵みを施すことを忘れたのか。怒りにおいて彼のあわれみを閉ざしたのか。セラ。",
+  "tokens": [
+    {
+      "surface": "הֲשָׁכַ֣ח",
+      "gloss": "忘れたのか"
+    },
+    {
+      "surface": "חַנּ֣וֹת",
+      "gloss": "恵みを施すこと"
+    },
+    {
+      "surface": "אֵ֑ל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "〜のか"
+    },
+    {
+      "surface": "קָפַ֥ץ",
+      "gloss": "閉ざしたのか"
+    },
+    {
+      "surface": "בְּ֝אַ֗ף",
+      "gloss": "怒りにおいて"
+    },
+    {
+      "surface": "רַחֲמָ֥יו",
+      "gloss": "彼のあわれみ"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:38.636247690Z",
+  "model": "glm-5.2"
+}

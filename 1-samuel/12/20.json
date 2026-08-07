@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 12:20",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてシュムエルは民に言った——「恐れてはならない。あなたたちは⟨את⟩この悪のすべてを行った。しかし、ヤハウェの後ろから離れてはならない。そして心を尽くしてヤハウェに⟨את⟩仕えよ。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエル"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "恐れては"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたたちは"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "行った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この悪のすべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "この悪"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "אך",
+      "gloss": "しかし"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないで"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "離れては"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "〜の後ろから"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "そして仕えよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "〜を尽くして"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "あなたたちの心"
+    }
+  ],
+  "timestamp": "2026-08-07T14:26:30.710335962Z",
+  "model": "glm-5.2"
+}

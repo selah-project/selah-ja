@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "しかし小麦とスペルト小麦は打たれなかった。遅れていたからである。」",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "しかし小麦"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "とスペルト小麦"
+    },
+    {
+      "surface": "לא",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "打たれ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "遅れていた"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "それらは"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:45.988336311Z",
+  "model": "glm-5.2"
+}

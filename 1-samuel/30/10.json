@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "ダビッドは追った、彼と四百人の者が。そして二百人の者が立った — 力尽きた者たちが、ナハル・ハブショル（ベソルの川）を渡ることから ⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "そして追った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビド"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼自身"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "と四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の者が"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "そして立った"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "二百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の者が"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "力尽きた"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "渡ることから"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナハル"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ナハル（川）"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "ハブショル（ベソル）"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:54.373597130Z",
+  "model": "glm-5.2"
+}

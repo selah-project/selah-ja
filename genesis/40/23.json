@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして献膳官の長はヨセフを思い出さず、⟨彼を⟩忘れた。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして…なかった"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "思い出した"
+    },
+    {
+      "surface": "שר",
+      "gloss": "…の長"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "献膳官"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨセフ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "そして…彼を忘れた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:23.510700458Z",
+  "model": "glm-5.2"
+}

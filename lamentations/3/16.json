@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼は礫で⟨私の⟩歯を砕いた、彼は私を灰の中に踏みつけた。",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "そして彼は砕いた"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "礫で"
+    },
+    {
+      "surface": "שני",
+      "gloss": "私の歯を"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "彼は私を踏みつけた"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "灰の中に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:36:05.963357396Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "人の望みは彼のヘセドである、そして貧しい人は偽る人より良い。",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "望みは"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "彼のヘセドである"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "そして…は良い"
+    },
+    {
+      "surface": "רש",
+      "gloss": "貧しい人"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "…の人より"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "偽る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:14.279555905Z",
+  "model": "glm-5.2"
+}

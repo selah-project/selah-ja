@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "箱の輪の中に棒が⟨ある⟩、それらはそこから外されてはならない。",
+  "tokens": [
+    {
+      "surface": "בְּטַבְּעֹת֙",
+      "gloss": "輪の中に"
+    },
+    {
+      "surface": "הָאָרֹ֔ן",
+      "gloss": "箱の"
+    },
+    {
+      "surface": "יִהְי֖וּ",
+      "gloss": "ある"
+    },
+    {
+      "surface": "הַבַּדִּ֑ים",
+      "gloss": "棒が"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יָסֻ֖רוּ",
+      "gloss": "外されてはならない"
+    },
+    {
+      "surface": "מִמֶּֽנּוּ",
+      "gloss": "そこから"
+    }
+  ],
+  "timestamp": "2026-08-07T14:23:02.190796713Z",
+  "model": "glm-5.2"
+}

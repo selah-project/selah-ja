@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 5:9",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして東の方に、彼は住んだ。荒野の入口に至るまで、ユーフラテス川〈ペラト〉から。彼らの家畜がギルアドの地で増えたからである。",
+  "tokens": [
+    {
+      "surface": "ולמזרח",
+      "gloss": "そして東の方に"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "彼は住んだ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "入口"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "荒野の"
+    },
+    {
+      "surface": "למן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "川"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ペラト"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "彼らの家畜が"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "増えた"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "〜の地で"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ギルアド"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:10.813862709Z",
+  "model": "glm-5.2"
+}

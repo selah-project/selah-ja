@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "島々は見た、そして恐れた。地の果ては震えた。近づき、そして来た。",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "見た"
+    },
+    {
+      "surface": "איים",
+      "gloss": "島々は"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "そして恐れた"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "果ては"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "震えた"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "近づいた"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "そして来た"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:35.464131369Z",
+  "model": "glm-5.2"
+}

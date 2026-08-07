@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "見よ。わたしはあなたを国々の中で小さくした。あなたは極めて侮られている。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "小さく"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "わたしはあなたを〜とした"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "国々の中で"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "侮られている"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極めて"
+    }
+  ],
+  "timestamp": "2026-08-07T14:37:01.595839961Z",
+  "model": "glm-5.2"
+}

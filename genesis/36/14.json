@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そしてこれらがオホリバマの子らであった。すなわちアナの娘、ツィブオンの娘、エサウの妻オホリバマ。彼女はエサウに⟨את⟩イエイシュ、および⟨את⟩ヤラム、および⟨את⟩コラフを産んだ。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれら"
+    },
+    {
+      "surface": "היו",
+      "gloss": "…であった"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "オホリバマ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "…の娘"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "アナ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "…の娘"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "ツィブオン"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "…の妻"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "彼女は産んだ"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "エサウに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イエイシュ"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "イエイシュ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "ヤラム"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "ヤラム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "コラフ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "コラフ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:45.050885380Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "サタンはヤハウェの御顔から出て行き、⟨את⟩ ヨブを悪性の腫れ物で打った。足の裏から頭の頂まで。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て行った"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "サタンは"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "פני",
+      "gloss": "御顔"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "そして打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨブ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ヨブを"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "腫れ物で"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪性の"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "〜の裏から"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "足の"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "彼の頭の頂"
+    }
+  ],
+  "timestamp": "2026-08-07T13:19:25.732337077Z",
+  "model": "glm-5.2"
+}

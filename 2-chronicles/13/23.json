@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 13:23",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "アビヤは彼の父祖たちと共に横たわり、彼らは⟨את⟩彼をダビデの町に葬った。彼の息子アサが彼の代わりに王となり、彼の日に地は静まり、十年⟨の間であった⟩。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "横たわった"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "アビヤ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の父祖たち"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "彼らは葬った"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町に"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "アサ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の息子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼の代わりに"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "彼の日に"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "静まった"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-08-07T17:39:11.169635973Z",
+  "model": "glm-5.2"
+}

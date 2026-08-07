@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 4:4",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "十二頭の牛の上に立っていた。三頭が北を向き、三頭が西を向き、三頭が南を向き、三頭が東を向き、海はそれらの上に載り、そのすべての背は内側を向いていた。",
+  "tokens": [
+    {
+      "surface": "עומד",
+      "gloss": "立っていた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三頭"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "向いて"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "北に"
+    },
+    {
+      "surface": "ושלושה",
+      "gloss": "そして三頭"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "向いて"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "西に"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "そして三頭"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "向いて"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "南に"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "そして三頭"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "向いて"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "東に"
+    },
+    {
+      "surface": "והים",
+      "gloss": "そして海は"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "それらの上に"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "上から"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "それらの背"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "内側に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:52.246806754Z",
+  "model": "glm-5.2"
+}

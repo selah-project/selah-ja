@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 14:31",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そこでヨアブは立ち上がり、アブシャロムの家へ入って行き、彼に言った。「なぜあなたのしもべたちは、私にある⟨את⟩その畑を火で焼き払ったのか。」",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして立ち上がった"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "アブシャロム"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "家へ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "הציתו",
+      "gloss": "焼き払ったのか"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "あなたのしもべたちは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その畑"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "その畑"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:53:37.423289324Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "ヤコブの誇りにおいてヤハウェは誓った。「わたしは彼らのすべてのわざを永遠に忘れない」と。",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "誓った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "誇りにおいて"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤコブの"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜ならば（決して〜ない）"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "わたしは忘れる"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "彼らのわざを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:23:00.947354658Z",
+  "model": "glm-5.2"
+}

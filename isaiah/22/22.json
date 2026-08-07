@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "わたしはダビデの家の鍵を彼の肩に置く。彼が開ければ、閉める者はいない。彼が閉めれば、開ける者はいない。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "わたしは置こう"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "鍵を"
+    },
+    {
+      "surface": "בית",
+      "gloss": "〜の家"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "彼の肩"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "そして彼が開ければ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "〜はいない"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "閉める者"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "そして彼が閉めれば"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "〜はいない"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "開ける者"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:45.474624430Z",
+  "model": "glm-5.2"
+}

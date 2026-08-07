@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "バビルの王ネブカドネツァルはその町に臨み、彼のしもべたちはそれに向かって囲んでいた。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして～は来た"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "ネブカドネツァル"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビル"
+    },
+    {
+      "surface": "על",
+      "gloss": "～に臨んで"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "そして彼のしもべたちは"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "囲んでいた"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "それに向かって"
+    }
+  ],
+  "timestamp": "2026-08-07T11:19:48.659130813Z",
+  "model": "glm-5.2"
+}

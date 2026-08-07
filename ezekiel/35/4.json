@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "私はあなたの町々を廃墟とし、あなたは荒涼となる。そしてあなたは知る、私がヤハウェであることを。」",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "あなたの町々を"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "廃墟と"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "私は……とする"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "そしてあなたは"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "荒涼"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "となる"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "そしてあなたは知る"
+    },
+    {
+      "surface": "כי",
+      "gloss": "……ということ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私が"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:12:21.117512950Z",
+  "model": "glm-5.2"
+}

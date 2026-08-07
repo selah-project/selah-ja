@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "イスラエルの子らに語って言え。これが、あなたがたが食べてよい生きものである。地の上のすべての家畜のうちから、⟨の⟩。",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "語って"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言うこと"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これが"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "生きもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたがたが食べてよい"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "すべての〜のうちから"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T16:30:25.240984271Z",
+  "model": "glm-5.2"
+}

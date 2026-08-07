@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "まさにこの日のうちにアブラハムは割礼を受け、イシュマエルその子も⟨割礼を受けた⟩。",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "まさに…のうちに"
+    },
+    {
+      "surface": "היום",
+      "gloss": "この日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "これの"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "割礼を受けた"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "そしてイシュマエル"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:23.538162327Z",
+  "model": "glm-5.2"
+}

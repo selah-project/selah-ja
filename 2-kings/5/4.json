@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして彼は来て、自分の主君に告げて言った。「イスラエルの地からのあの少女が、こうかく語った」と。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして彼は来て"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "告げて"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "自分の主君に"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "こう"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "かく"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "語った"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "あの少女が"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "〜の地からの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:11:59.341512972Z",
+  "model": "glm-5.2"
+}

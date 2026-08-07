@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "犬が自分の吐いた物に戻るように、愚か者は自分の愚かさを繰り返す。",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "犬が…ように"
+    },
+    {
+      "surface": "שב",
+      "gloss": "戻る"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "自分の吐いた物"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚か者は"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "繰り返す"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "自分の愚かさを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:56.923365024Z",
+  "model": "glm-5.2"
+}

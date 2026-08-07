@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "あの日、闇となれ。エロアハが上からそれを尋ね求めないように。光がその上に輝かないように。",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "あの日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "なれ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "闇"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "それを尋ね求め"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "エロアハ"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "上から"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜ないように"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "輝き"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "光が"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:29.069769678Z",
+  "model": "glm-5.2"
+}

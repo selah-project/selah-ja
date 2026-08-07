@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 109,
+  "translation": "わたしは口でヤハウェを深く認め、大勢のただ中で彼を賛美する。",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "わたしは認める"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "深く"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "口で"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "〜のただ中で"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "大勢の"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "わたしは彼を賛美する"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:11.605506452Z",
+  "model": "glm-5.2"
+}

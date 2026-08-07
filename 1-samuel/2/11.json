@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "エルカナはラマの自身の家へ帰って行った。少年はエルリの祭司の面前にあって⟨את⟩ ヤハウェに仕えていた。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "帰って行った"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "エルカナは"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "ラマへ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "自身の家"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "少年は"
+    },
+    {
+      "surface": "היה",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "仕えて"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エルリの祭司の面前"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "エルリの"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:02.440518950Z",
+  "model": "glm-5.2"
+}

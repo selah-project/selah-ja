@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そしてシェトは百五年生き、⟨את⟩エノシュをもうけた。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "そして…は生きた"
+    },
+    {
+      "surface": "שת",
+      "gloss": "シェト"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "と百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "そして…はもうけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エノシュ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "エノシュ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:57.661457015Z",
+  "model": "glm-5.2"
+}

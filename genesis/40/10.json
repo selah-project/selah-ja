@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そのぶどうの木には三つの若枝があり、それは芽吹くように⟨見え⟩、その花が上って咲き、その房は熟れたぶどうを⟨実らせた⟩。",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "そのぶどうの木には"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三つの"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "若枝"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "芽吹くように"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "上って"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "花が咲き"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "熟れた"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "その房は"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "ぶどうを"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:43.809368383Z",
+  "model": "glm-5.2"
+}

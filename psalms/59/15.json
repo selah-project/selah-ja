@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "そして彼らは夕暮れに帰り、犬のように吼え、町を巡り歩け。",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "そして彼らは帰る"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "夕暮れに"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "吼える"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "犬のように"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "そして巡り歩く"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    }
+  ],
+  "timestamp": "2026-08-07T14:45:25.170051971Z",
+  "model": "glm-5.2"
+}

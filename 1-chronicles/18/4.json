@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 18:4",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてダビデは彼から戦車一千、騎兵七千、歩兵二万を捕らえた。ダビデはすべての戦車を引き抜いたが、そこから百の戦車を残した。",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "捕らえた"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "彼から"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "戦車"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "騎兵"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "歩兵"
+    },
+    {
+      "surface": "ויעקר",
+      "gloss": "引き抜いた"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "戦車を"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "残した"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "戦車"
+    }
+  ],
+  "timestamp": "2026-08-07T14:06:47.998127298Z",
+  "model": "glm-5.2"
+}

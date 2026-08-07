@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "終わりを初めから告げ、まだなされていないことを昔から告げる。『私の計画は立ち、すべての喜びを私は行う』と言う者。",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "告げる"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "初めから"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "終わりを"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "そして昔から"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "なされた"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言う"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "私の計画は"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "私の喜びを"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "私は行う"
+    }
+  ],
+  "timestamp": "2026-08-07T18:34:23.744429155Z",
+  "model": "glm-5.2"
+}

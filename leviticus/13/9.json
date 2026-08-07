@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "腫物の、ツァラアトが — 人に ⟨ある⟩ とき、彼は祭司のところに連れて来られる。",
+  "tokens": [
+    {
+      "surface": "נֶ֣גַע",
+      "gloss": "腫物の"
+    },
+    {
+      "surface": "צָרַ֔עַת",
+      "gloss": "ツァラアトが"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "〜するとき"
+    },
+    {
+      "surface": "תִהְיֶ֖ה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "בְּאָדָ֑ם",
+      "gloss": "人に"
+    },
+    {
+      "surface": "וְהוּבָ֖א",
+      "gloss": "連れて来られる"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜のところに"
+    },
+    {
+      "surface": "הַכֹּהֵֽן",
+      "gloss": "祭司"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:21.378293682Z",
+  "model": "glm-5.2"
+}

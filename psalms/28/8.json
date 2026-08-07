@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "ヤハウェは⟨彼らへの⟩力、そして⟨彼の⟩油注がれた者の救いの砦 ⟨である⟩。",
+  "tokens": [
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עֹ֖ז",
+      "gloss": "力"
+    },
+    {
+      "surface": "לָ֑מוֹ",
+      "gloss": "彼らへの"
+    },
+    {
+      "surface": "וּמָעֹ֥וז",
+      "gloss": "そして砦"
+    },
+    {
+      "surface": "יְשׁוּעֹ֖ת",
+      "gloss": "救いの"
+    },
+    {
+      "surface": "מְשִׁיחֹֽו",
+      "gloss": "彼の油注がれた者の"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "⟨である⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:14.879183901Z",
+  "model": "glm-5.2"
+}

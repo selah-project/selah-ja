@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "わたしの民はその木に問い、その杖が彼に告げ知らせる。まことに、姦淫の霊が彼らを迷わせたので、彼らはそのエロヒムのもとから姦淫したのだ。",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民は"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "その木に"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "問う"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "そしてその杖が"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "告げ知らせる"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "姦淫の"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "迷わせた"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "そして彼らは姦淫した"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "〜のもとから"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "彼らのエロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T12:17:23.101737835Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 10:23",
+  "book": "ezra",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてレビ人のうちから、ヨザバド、シミ、ケラヤ（彼、すなわちケリタ）、ペタヒヤ、ユダ、エリエゼル。",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "そして〜のうちから"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人"
+    },
+    {
+      "surface": "יוזבד",
+      "gloss": "ヨザバド"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "シミ"
+    },
+    {
+      "surface": "וקליה",
+      "gloss": "ケラヤ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "ケリタ"
+    },
+    {
+      "surface": "פתחיה",
+      "gloss": "ペタヒヤ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "エリエゼル"
+    }
+  ],
+  "timestamp": "2026-08-07T13:52:40.648337943Z",
+  "model": "glm-5.2"
+}

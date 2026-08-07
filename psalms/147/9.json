@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": " ⟨彼は⟩ 家畜にその食物を与え、呼ばわる若いカラスの⟨子ら⟩に",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "家畜に"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "その食物を"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〜の⟨子ら⟩に"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "カラスの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "呼ばわる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:37.475192279Z",
+  "model": "glm-5.2"
+}

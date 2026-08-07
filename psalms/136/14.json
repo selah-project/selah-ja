@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 136,
+  "translation": "そしてイスラエルをその中を通らせた — まことに、とこしえに彼のヘセドはある。",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "そして通らせた"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルを"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "その中を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "彼のヘセドは"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:09.639128802Z",
+  "model": "glm-5.2"
+}

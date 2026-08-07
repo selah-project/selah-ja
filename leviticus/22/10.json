@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そしてすべてのよそ者は聖なるものを食べてはならない。祭司の同居人と雇い人は聖なるものを食べてはならない。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "זר",
+      "gloss": "よそ者"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "同居人"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "そして雇い人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なるもの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:52.883680715Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "その後、⟨彼女は⟩娘を産み、⟨彼女の⟩名をディナと呼んだ。",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "その後"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼女の名"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "彼女の名"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "ディナ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:42.510408050Z",
+  "model": "glm-5.2"
+}

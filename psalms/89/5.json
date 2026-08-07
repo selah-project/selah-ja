@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "永遠にわたしはあなたの種を堅く立て、代々にわたってあなたの玉座を築き上げる。セラ。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠（の）"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "わたしは堅く立てる"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "あなたの種を"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "そしてわたしは築き上げる"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "〜の代に"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "そして代の"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "あなたの玉座を"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:29.357240239Z",
+  "model": "glm-5.2"
+}

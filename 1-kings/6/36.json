@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして彼は⟨את⟩内庭を建てた — 切石の三つの列と、杉の角材の一つの列で。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "そして彼は建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "内庭"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭を"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "内"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三つの"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "列"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "切石の"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "そして一つの列"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "角材の"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "杉"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:11.964120614Z",
+  "model": "glm-5.2"
+}

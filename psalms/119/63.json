@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "私は、あなたを恐れるすべての人々、およびあなたの戒めを守る人々の仲間である。",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "仲間"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は…である"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（関係詞）"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "あなたを恐れる人々"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "および…守る人々"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "あなたの戒め"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:44.441724639Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "するとヤアコブは言った、「今日のうちに私に誓え」。そして⟨彼は⟩彼に誓った。そして彼は⟨את⟩自分の長子の権をヤアコブに売った。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "誓え"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "今日のうちに"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "そして誓った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "そして売った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の長子の権"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "自分の長子の権"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ヤアコブに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:26.016877260Z",
+  "model": "glm-5.2"
+}

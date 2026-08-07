@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "建てる方はイェルシャライムを、ヤハウェ。追い散らされたイスラエルの、⟨彼らを⟩集める方。",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "建てる方は"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムを"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "追い散らされた"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "集める方"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:54.757959997Z",
+  "model": "glm-5.2"
+}

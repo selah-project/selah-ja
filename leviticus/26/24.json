@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "わたしもまた、わたしも敵意をもってあなたがたに向かって歩み、わたしもまた、あなたがたを、あなたがたの罪のゆえに七倍打つ。",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "わたしは歩む"
+    },
+    {
+      "surface": "אף",
+      "gloss": "また"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしも"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "あなたがたに向かって"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "敵意をもって"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "わたしは打つ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたがたを"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしも"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七倍"
+    },
+    {
+      "surface": "על",
+      "gloss": "～のゆえに"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "あなたがたの罪"
+    }
+  ],
+  "timestamp": "2026-08-07T09:43:55.696398920Z",
+  "model": "glm-5.2"
+}

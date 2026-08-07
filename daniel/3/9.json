@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "答えて、こう言った——ネブカデネツァル王、王よ、あなたは永遠に生きよ。",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "答えて"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "こう言った"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "ネブカデネツァルに"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王（なる）"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王よ"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "生きよ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:44:25.034374829Z",
+  "model": "glm-5.2"
+}

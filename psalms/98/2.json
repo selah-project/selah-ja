@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 98,
+  "translation": "ヤハウェは ⟨彼の⟩救いを知らせた。諸国の民の目の前で ⟨彼の⟩義を示した。",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "知らせた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "彼の救いを"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "目の前で"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "諸国の民の"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "示した"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "彼の義を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:39.130288772Z",
+  "model": "glm-5.2"
+}

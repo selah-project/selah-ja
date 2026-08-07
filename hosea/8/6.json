@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "それはイスラエルから⟨出た⟩からだ。職人がそれを造った。そしてそれはエロヒムではない。ショムロンの雄牛は粉々になるからだ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "からだ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "イスラエルから"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "職人が"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "それを造った"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ではない"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "粉々に"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "なる"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ショムロンの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:20:08.759530767Z",
+  "model": "glm-5.2"
+}

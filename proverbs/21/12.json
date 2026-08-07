@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "正しき者は悪者の家を賢く見抜き、悪者たちを災いのために覆す。",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "賢く見抜く"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しき者は"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "〜の家を"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者の"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "覆す"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たちを"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "災いのために"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:46.388970634Z",
+  "model": "glm-5.2"
+}

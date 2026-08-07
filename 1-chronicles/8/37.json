@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "モツァは⟨את⟩ビネアを生んだ。ラファ⟨は⟩その子、エルアサ⟨は⟩その子、アツェル⟨は⟩その子。",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "そしてモツァは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ビネア"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "ビネア"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ラファ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "エルアサ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "アツェル"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:02.368323614Z",
+  "model": "glm-5.2"
+}

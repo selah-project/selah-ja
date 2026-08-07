@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして⟨את⟩ハ・ハジールは、ひづめを分け、ひづめの裂け目まで完全に裂いているからといって、反芻物を反芻しないので、それはあなたがたにとって汚れている。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ハ・ハジール"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ハ・ハジール（豚）"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜なので"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "分ける"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ひづめ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "そして裂いている"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "裂け目"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ひづめの"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そしてそれは"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "反芻物を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "反芻する"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れている"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたにとって"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:23.262240296Z",
+  "model": "glm-5.2"
+}

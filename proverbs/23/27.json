@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "なぜなら、遊女は深い穴であり、よそ女は狭い井戸だからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "穴であり"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "深い"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "遊女は"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "井戸であり"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "狭い"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "よそ女は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:16.095442874Z",
+  "model": "glm-5.2"
+}

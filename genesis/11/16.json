@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてエベルは三十四年生き、⟨את⟩ペレグを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "そして生きた"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "エベル"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "と三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "そして生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ペレグ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ペレグ"
+    }
+  ],
+  "timestamp": "2026-08-07T16:23:07.082012938Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 2:17",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "こうして若者たちの罪はヤハウェの御前に ⟨את⟩ はなはだしく大きくなった。人々が ヤハウェの ⟨את⟩ ¬¬穀物の捧げ物¬¬を軽蔑したからである。",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "こうして〜となった"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "若者たちの"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大きく"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "はなはだしく"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの御前"
+    },
+    {
+      "surface": "פני",
+      "gloss": "御前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だからである"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "軽蔑した"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "人々が"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの穀物の捧げ物"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "穀物の捧げ物"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:39:58.955520110Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "彼らはほとばしらせ、託つ、不遜なことを、すべて不義を行う者らは己を高くする。",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "彼らはほとばしらせ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "託つ"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "不遜なことを"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "己を高くする"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "〜を行う者らは"
+    },
+    {
+      "surface": "און",
+      "gloss": "不義を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:30.906555335Z",
+  "model": "glm-5.2"
+}

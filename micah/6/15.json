@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 6:15",
+  "book": "micah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "あなたは蒔くが、刈り取らない。あなたはオリーブを踏むが、油を塗らない。そして ⟨それは⟩ ティローシュであるが、あなたはワインを飲まない。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "蒔く"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "刈り取る"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "踏む"
+    },
+    {
+      "surface": "זית",
+      "gloss": "オリーブを"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "塗る"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油を"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ティローシュ(新酒)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "飲む"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ワインを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:27:51.733314509Z",
+  "model": "glm-5.2"
+}

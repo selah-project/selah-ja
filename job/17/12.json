@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "夜を昼に変えようとしている。光は闇のゆえに近い、⟨と言う⟩。",
+  "tokens": [
+    {
+      "surface": "לַ֭יְלָה",
+      "gloss": "夜を"
+    },
+    {
+      "surface": "לְי֣וֹם",
+      "gloss": "昼に"
+    },
+    {
+      "surface": "יָשִׂ֑ימוּ",
+      "gloss": "彼らは置く"
+    },
+    {
+      "surface": "א֝֗וֹר",
+      "gloss": "光は"
+    },
+    {
+      "surface": "קָר֥וֹב",
+      "gloss": "近い"
+    },
+    {
+      "surface": "מִפְּנֵי",
+      "gloss": "……のゆえに"
+    },
+    {
+      "surface": "חֹֽשֶׁךְ",
+      "gloss": "闇の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:24:00.150307912Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "わたしの恋びとは、ヘンナの房、エン・ゲディのぶどう園にある",
+  "tokens": [
+    {
+      "surface": "אֶשְׁכֹּל",
+      "gloss": "房"
+    },
+    {
+      "surface": "הַכֹּפֶר",
+      "gloss": "ヘンナの"
+    },
+    {
+      "surface": "דוֹדִי",
+      "gloss": "わたしの恋びとは"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "わたしの"
+    },
+    {
+      "surface": "בְּכַרְמֵי",
+      "gloss": "〜のぶどう園にある"
+    },
+    {
+      "surface": "עֵין",
+      "gloss": "エン（泉）"
+    },
+    {
+      "surface": "גֶּדִי",
+      "gloss": "ゲディの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:32:51.995516523Z",
+  "model": "glm-5.2"
+}

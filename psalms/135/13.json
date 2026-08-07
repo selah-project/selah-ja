@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 135,
+  "translation": "ヤハウェ、あなたの御名はとこしへまで。ヤハウェ、あなたの記念は世代から世代へ。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの御名"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしへまで"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "あなたの記念"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "世代へ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "そして世代"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:41.103548207Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "ヤアコブは言った。「今日のうちに、⟨את⟩あなたの長子の権を私に売れ。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "売れ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "今日のうちに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの長子の権"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "あなたの長子の権"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    }
+  ],
+  "timestamp": "2026-08-07T08:57:45.309047412Z",
+  "model": "glm-5.2"
+}

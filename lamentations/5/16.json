@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "私たちの頭の冠は落ちた。ああ、今や私たちに ⟨災いだ⟩ — 私たちが罪を犯したからだ。",
+  "tokens": [
+    {
+      "surface": "נָֽפְלָה֙",
+      "gloss": "落ちた"
+    },
+    {
+      "surface": "עֲטֶ֣רֶת",
+      "gloss": "冠は"
+    },
+    {
+      "surface": "רֹאשֵׁ֔נוּ",
+      "gloss": "私たちの頭の"
+    },
+    {
+      "surface": "אֽוֹי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "נָ֥א",
+      "gloss": "今や"
+    },
+    {
+      "surface": "לָ֖נוּ",
+      "gloss": "私たちに"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "— …からだ"
+    },
+    {
+      "surface": "חָטָֽאנוּ",
+      "gloss": "私たちが罪を犯した"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:01.929148902Z",
+  "model": "glm-5.2"
+}

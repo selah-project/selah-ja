@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 43:18",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "初めの事を思い出すな、昔の事を心に留めるな。",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "〜なかれ"
+    },
+    {
+      "surface": "תִּזְכְּרוּ",
+      "gloss": "思い出せ"
+    },
+    {
+      "surface": "רִאשֹׁנוֹת",
+      "gloss": "初めの事"
+    },
+    {
+      "surface": "וְקַדְמֹנִיּוֹת",
+      "gloss": "と昔の事"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜なかれ"
+    },
+    {
+      "surface": "תִּתְבֹּנָנוּ",
+      "gloss": "心に留めよ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:16.500333953Z",
+  "model": "glm-5.2"
+}

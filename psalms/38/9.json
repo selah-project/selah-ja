@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "私は麻痺し、ひどく打ち砕かれた、私の心の呻きによって私は唸った。",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "私は麻痺した"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "そして打ち砕かれた"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ひどく"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "私は唸った"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "〜の呻きによって"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "私の心の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:24.556716480Z",
+  "model": "glm-5.2"
+}

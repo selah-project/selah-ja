@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "あなたは彼らと、また彼らのエロヒムと契約を結んではならない。",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תִכְרֹת",
+      "gloss": "あなたは結んではならない"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "彼らと"
+    },
+    {
+      "surface": "וְלֵאלֹהֵיהֶם",
+      "gloss": "また彼らのエロヒムと"
+    },
+    {
+      "surface": "בְּרִית",
+      "gloss": "契約を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:03.174261661Z",
+  "model": "glm-5.2"
+}

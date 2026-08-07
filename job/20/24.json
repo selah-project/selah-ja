@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 20:24",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "⟨彼が⟩逃げても、鉄の武器から。青銅の弓が⟨彼を⟩貫き通る。",
+  "tokens": [
+    {
+      "surface": "יברח",
+      "gloss": "逃げる"
+    },
+    {
+      "surface": "מנשק",
+      "gloss": "武器"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鉄"
+    },
+    {
+      "surface": "תחלפהו",
+      "gloss": "貫き通る"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "青銅"
+    }
+  ],
+  "timestamp": "2026-08-07T13:25:34.716320912Z",
+  "model": "glm-5.2"
+}

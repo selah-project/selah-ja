@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 122,
+  "translation": "そこに部族は上る — ヤハの部族が、イスラエルのあかしとして、ヤハウェの御名に感謝をささげるために。",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "上る"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "部族は"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "〜の部族が"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "あかし"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "感謝をささげるために"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "御名に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:57.408331724Z",
+  "model": "glm-5.2"
+}

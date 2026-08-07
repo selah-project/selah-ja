@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "全地にその測り縄が出て行き、世界の果てにその言葉⟨が及ぶ⟩。太陽のため、それらのうちに天幕を置かれた。",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "全…に"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出て行った"
+    },
+    {
+      "surface": "קום",
+      "gloss": "その測り縄"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "…の果てに"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "それらの言葉"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "太陽のため"
+    },
+    {
+      "surface": "שם",
+      "gloss": "置かれた"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "それらのうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:04.997250081Z",
+  "model": "glm-5.2"
+}

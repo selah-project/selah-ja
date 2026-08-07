@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてパロの娘が川で沐浴するために下り、彼女の少女たちが川沿いを歩いていた。そして彼女は⟨את⟩箱を葦の中に見て、⟨את⟩自分の侍女を遣わし、それを取った。",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "そして下った"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "沐浴するために"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "川"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "そして彼女の少女たちは"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "歩いていた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に沿って"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手、傍"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "川"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "そして彼女は見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "箱"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "箱"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "の中に"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "葦"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "そして彼女は遣わした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の侍女"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "自分の侍女"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "そして彼女はそれを取った"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:01.815516213Z",
+  "model": "glm-5.2"
+}

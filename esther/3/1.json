@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "これらの事の後、アハシュヴェロシュ王は⟨את⟩ハマン —— ハメダタの子、アガグ人 —— を大いなる者とした。そして彼を高く上げ、自分とともにいるすべての高官たちの上に⟨את⟩彼の座を置いた。",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "〜の後"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "これらの事"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "大いなる者とした"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "アハシュヴェロシュ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ハマン"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ハマン"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ハメダタ"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "アガグ人"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "そして彼を高く上げた"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "そして置いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の座"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "彼の座を"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "高官たち"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼とともに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:41:47.027340294Z",
+  "model": "glm-5.2"
+}

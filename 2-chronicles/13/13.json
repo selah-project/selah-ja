@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 13:13",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてヤラベアムは⟨את⟩伏兵を回して、彼らの後方から進入させた。すると彼らはユダの前方に⟨あり⟩、伏兵は彼らの後方に⟨あった⟩。",
+  "tokens": [
+    {
+      "surface": "וירבעם",
+      "gloss": "そしてヤラベアムは"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "回した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伏兵"
+    },
+    {
+      "surface": "המארב",
+      "gloss": "伏兵"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "進入させるため"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "彼らの後方から"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "すると彼らは⟨あり⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前方に"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "והמארב",
+      "gloss": "そして伏兵は"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "彼らの後方に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:28.461536424Z",
+  "model": "glm-5.2"
+}

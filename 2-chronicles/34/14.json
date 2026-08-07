@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 34:14",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そして彼らが⟨את⟩その銀をヤハウェの宮殿にもたらされたものとして運び出したとき、ヒルキヤその祭司はモーセの手によるヤハウェのトーラーの書を⟨את⟩見つけた。",
+  "tokens": [
+    {
+      "surface": "ובהוציאם",
+      "gloss": "そして彼らが運び出したとき"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その銀"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "その銀"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "もたらされたもの"
+    },
+    {
+      "surface": "בית",
+      "gloss": "宮殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "見つけた"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "ヒルキヤ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "その祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "書"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "書"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "トーラー"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…の手による"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:19:40.110435760Z",
+  "model": "glm-5.2"
+}

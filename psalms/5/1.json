@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "指揮者へ、フルートに合わせて。ダビデの詩篇",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֥חַ",
+      "gloss": "指揮者へ"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "〜に合わせて"
+    },
+    {
+      "surface": "הַנְּחִיל֗וֹת",
+      "gloss": "フルート"
+    },
+    {
+      "surface": "מִזְמ֥וֹר",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "ダビデの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:15.619600060Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 128,
+  "translation": "あなたは自分の手の労働の実を食べよう — 幸いなこと、そしてそれはあなたに良いことである。",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "労働"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "あなたの手の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "あなたは食べよう"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "あなたの幸い"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "そして良いこと"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:16.741030845Z",
+  "model": "glm-5.2"
+}

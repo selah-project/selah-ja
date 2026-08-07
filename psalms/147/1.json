@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "ハレル、ヤハ。⟨それは⟩良いこと、われらのエロヒムに歌うことは。⟨それは⟩快い、賛美は麗しい。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ハレル"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨それは⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良いこと"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "歌うことは"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "われらのエロヒムに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨それは⟩"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "快い"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "麗しい"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "賛美は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:54.757786788Z",
+  "model": "glm-5.2"
+}

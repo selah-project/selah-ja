@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "北風は雨を生み出し、怒りの顔は密かな舌を隠す。",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "風は"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "生み出し"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "雨を"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "そして顔は"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "怒りの"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌を"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "隠す"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:34.065089168Z",
+  "model": "glm-5.2"
+}

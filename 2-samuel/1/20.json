@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 1:20",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ガテで告げるな、アシュケロンの通りで伝えるな、ペリシテ人の娘たちが喜ぶことがないように、無割礼の娘たちが躍ることがないように。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "告げる"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ガテで"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תבשרו",
+      "gloss": "伝える"
+    },
+    {
+      "surface": "בחוצת",
+      "gloss": "通りで"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "アシュケロンの"
+    },
+    {
+      "surface": "פן",
+      "gloss": "〜ことがないように"
+    },
+    {
+      "surface": "תשמחנה",
+      "gloss": "喜ぶ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "娘たち"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人の"
+    },
+    {
+      "surface": "פן",
+      "gloss": "〜ことがないように"
+    },
+    {
+      "surface": "תעלזנה",
+      "gloss": "躍る"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "娘たち"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "無割礼の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:21.430812246Z",
+  "model": "glm-5.2"
+}

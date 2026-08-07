@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "箱舟は第七の月に、その月の十七日に、アララトの山々の上に休まった。",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "休まった"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "箱舟は"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "月に"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七の"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "七"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日に"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "その月の"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "山々"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "アララト"
+    }
+  ],
+  "timestamp": "2026-08-07T14:20:51.640634951Z",
+  "model": "glm-5.2"
+}

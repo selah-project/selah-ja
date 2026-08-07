@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そしてヒゼキヤ王の家来たちはイェシャヤフのもとに来た。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "家来たち"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ヒゼキヤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～のもとに"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "イェシャヤフ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:29:36.195788028Z",
+  "model": "glm-5.2"
+}

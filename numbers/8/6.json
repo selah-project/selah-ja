@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "レビムをイスラエルの子らの真ん中から取り、彼らを清めよ。",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レビム"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビム"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "〜の真ん中から"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "そしてあなたは清めよ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    }
+  ],
+  "timestamp": "2026-08-07T09:53:54.088359715Z",
+  "model": "glm-5.2"
+}

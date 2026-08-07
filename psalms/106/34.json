@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "彼らは、ヤハウェが彼らに告げた諸国民を、⟨את⟩ 滅ぼし尽くさなかった。",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "הִ֭שְׁמִידוּ",
+      "gloss": "彼らは滅ぼし尽くした"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "諸国民"
+    },
+    {
+      "surface": "הָֽעַמִּ֑ים",
+      "gloss": "諸国民"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אָמַ֖ר",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לָהֶֽם",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:59.177140959Z",
+  "model": "glm-5.2"
+}

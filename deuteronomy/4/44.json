@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 4:44",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてこれが教えである——モーセがイスラエルの子らの前に置いたもの。",
+  "tokens": [
+    {
+      "surface": "וְזֹ֖את",
+      "gloss": "そしてこれが"
+    },
+    {
+      "surface": "הַתּוֹרָ֑ה",
+      "gloss": "教え"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "שָׂ֣ם",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:33.255327093Z",
+  "model": "glm-5.2"
+}

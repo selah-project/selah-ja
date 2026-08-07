@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "わたしの咎をわたしは告げ知らせる、わたしの罪のゆえにわたしは悶える。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "わたしの咎を"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "わたしは告げ知らせる"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "わたしは悶える"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "わたしの罪のゆえに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:51.280463567Z",
+  "model": "glm-5.2"
+}

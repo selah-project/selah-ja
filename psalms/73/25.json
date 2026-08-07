@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 73,
+  "translation": "天において⟨私には⟩誰がいよう。あなたと共に⟨いて⟩、地において私は望まなかった。",
+  "tokens": [
+    {
+      "surface": "מִי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "לִ֥י",
+      "gloss": "私には"
+    },
+    {
+      "surface": "בַשָּׁמָ֑יִם",
+      "gloss": "天において"
+    },
+    {
+      "surface": "וְ֝עִמְּךָ֗",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "חָפַ֥צְתִּי",
+      "gloss": "私は望んだ"
+    },
+    {
+      "surface": "בָאָֽרֶץ",
+      "gloss": "地において"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:56.984725376Z",
+  "model": "glm-5.2"
+}

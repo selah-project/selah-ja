@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 35:10",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そして私たちは天幕に住み、私たちの父ヨナダブが私たちに命じたすべてのことに従って聞き、行った。",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "そして私たちは住んだ"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "天幕に"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "そして私たちは聞き従った"
+    },
+    {
+      "surface": "ונעש",
+      "gloss": "そして私たちは行った"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "すべてのことに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "私たちに命じた"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "ヨナダブ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "私たちの父"
+    }
+  ],
+  "timestamp": "2026-08-07T11:52:41.485097491Z",
+  "model": "glm-5.2"
+}

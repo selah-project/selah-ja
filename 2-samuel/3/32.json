@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "彼らは⟨את⟩アブネルをヘブロンに葬った。そして王は⟨את⟩自分の声を上げ、アブネルの墓で泣いた。そして民は皆、泣いた。",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "彼らは葬った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アブネル"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "アブネルを"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ヘブロンに"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "上げた"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の声"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "自分の声を"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "泣いた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところで"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "墓"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "アブネルの"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "泣いた"
+    },
+    {
+      "surface": "כל",
+      "gloss": "皆"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:40.968037829Z",
+  "model": "glm-5.2"
+}

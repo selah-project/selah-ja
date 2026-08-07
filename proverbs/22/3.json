@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "慎み深い者は悪を見て身を隠し、単純な者たちは通り過ぎて罰を受ける。",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "慎み深い者"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "見て"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "身を隠し"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "単純な者たちは"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "通り過ぎて"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "罰を受ける"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:04.255681666Z",
+  "model": "glm-5.2"
+}

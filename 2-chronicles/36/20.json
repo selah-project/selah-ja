@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 36:20",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そして彼は剣からのがれた残りの者をバビロンへ捕囚として移した。そして彼らは彼とその子ら⟨の⟩奴隷となった。ペルシャの王国の治世まで。",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "そして彼は捕囚として移した"
+    },
+    {
+      "surface": "השארית",
+      "gloss": "残りの者を"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロン"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "そして彼らは…となった"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "とその子らに"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "奴隷として"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "治める"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "王国の"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "ペルシャ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:19:54.963853249Z",
+  "model": "glm-5.2"
+}

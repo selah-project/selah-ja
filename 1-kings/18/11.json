@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして今、あなたは言う、「行って、あなたの主に告げよ、見よ、エリヤはここに」と。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言う"
+    },
+    {
+      "surface": "לך",
+      "gloss": "行って"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "告げよ"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "あなたの主に"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "エリヤ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:46.239566146Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "なぜなら彼らは眠らない、もし悪を行わなければ、そして彼らの眠りは奪い取られる、もし誰かをつまずかせなければ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "彼らは眠る"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし〜なければ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "彼らは悪を行う"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "そして奪い取られる"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "彼らの眠り"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし〜なければ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "彼らはつまずかせる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:21.098517954Z",
+  "model": "glm-5.2"
+}

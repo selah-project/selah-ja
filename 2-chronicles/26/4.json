@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 26:4",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そして彼はヤハウェの目に正しいことを行った。父アマツヤが行ったすべての事のように。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "正しいこと"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…の目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "すべての…のように"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…事"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行った"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "アマツヤ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    }
+  ],
+  "timestamp": "2026-08-07T14:16:39.498774868Z",
+  "model": "glm-5.2"
+}

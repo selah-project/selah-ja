@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "また、すべての高い山々の上に、また、すべてのそびえ立つ丘の上に、",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "また〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "山々"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "高い"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "また〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "丘"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "そびえ立つ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:40.733852829Z",
+  "model": "glm-5.2"
+}

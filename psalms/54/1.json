@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 54,
+  "translation": "指揮者〈のため〉、琴〈で〉。ダビデのマスキール。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "琴で"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "マスキール"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビドの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:59.242541700Z",
+  "model": "glm-5.2"
+}

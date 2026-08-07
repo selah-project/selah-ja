@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "偽りの証人は免罪されず、まやかしを吐く者は滅びる。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "証人"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "偽りの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "免罪される"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "そして吐く者"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "まやかしを"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "滅びる"
+    }
+  ],
+  "timestamp": "2026-08-07T14:41:42.049023318Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そしてペリシテ人はエロヒムの箱を取り、これをダゴンの家に持ち込み、ダゴンのそばに置いた。",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "そして〜は取った"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "箱"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "そして彼らは持ち込んだ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "これを",
+      "marks": "ダゴンの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "〜の家に"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ダゴン"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "そして彼らは置いた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "これを",
+      "marks": "ダゴンのそば"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "〜のそばに"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ダゴン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:17.666482830Z",
+  "model": "glm-5.2"
+}

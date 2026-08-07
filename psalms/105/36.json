@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "そして⟨彼は⟩打った、彼らの地のすべての初子を、彼らのすべての力の初穂を。",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "そして打った"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "初子を"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "彼らの地の"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "初穂を"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての…の"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "彼らの力"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:39.027389398Z",
+  "model": "glm-5.2"
+}

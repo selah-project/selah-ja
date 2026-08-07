@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そして ⟨את⟩あなたを近づけ、⟨את⟩あなたの兄弟たち、レビの子ら全員をあなたとともに近づけたのに、あなたたちはさらに祭司職も求めているのか。",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "そして…近づけた"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "あなた"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの兄弟たち全員"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全員"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟たち"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "レビ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "あなたとともに"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "そして…求めている"
+    },
+    {
+      "surface": "גם",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "祭司職"
+    }
+  ],
+  "timestamp": "2026-08-07T16:33:28.319559347Z",
+  "model": "glm-5.2"
+}

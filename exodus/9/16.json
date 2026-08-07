@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "しかし、ゆえに、まさにこのために私はあなたを立たせた。⟨את⟩私の力をあなたに示すため、そして私の名を全地で語り告げさせるためである。",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "しかし"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ゆえに"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "私はあなたを立たせた"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "のため"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "示す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の力"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "私の力"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "そして〜のため"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "語り告げさせる"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "私の名"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:27.377232791Z",
+  "model": "glm-5.2"
+}

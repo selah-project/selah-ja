@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてヤハウェは大きな魚を備え、ヨナを飲み込ませた。こうしてヨナは三日三晩、魚の腹の中にいた。",
+  "tokens": [
+    {
+      "surface": "וַיְמַ֤ן",
+      "gloss": "そして備えた"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "דָּ֣ג",
+      "gloss": "魚を"
+    },
+    {
+      "surface": "גָּד֔וֹל",
+      "gloss": "大きな"
+    },
+    {
+      "surface": "לִבְלֹ֖עַ",
+      "gloss": "飲み込むために"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ヨナ"
+    },
+    {
+      "surface": "יוֹנָ֑ה",
+      "gloss": "ヨナを"
+    },
+    {
+      "surface": "וַיְהִ֤י",
+      "gloss": "そしていた"
+    },
+    {
+      "surface": "יוֹנָה֙",
+      "gloss": "ヨナは"
+    },
+    {
+      "surface": "בִּמְעֵ֣י",
+      "gloss": "腹の中に"
+    },
+    {
+      "surface": "הַדָּ֔ג",
+      "gloss": "魚の"
+    },
+    {
+      "surface": "שְׁלֹשָׁ֥ה",
+      "gloss": "三"
+    },
+    {
+      "surface": "יָמִ֖ים",
+      "gloss": "日"
+    },
+    {
+      "surface": "וּשְׁלֹשָׁ֥ה",
+      "gloss": "と三"
+    },
+    {
+      "surface": "לֵילֽוֹת",
+      "gloss": "晩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:24:06.875427233Z",
+  "model": "glm-5.2"
+}

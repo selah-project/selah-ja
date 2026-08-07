@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "街道は荒廃し、 道を行く者は止んだ。 契約は破られ、 都市は侮られ、 人は顧みられない。",
+  "tokens": [
+    {
+      "surface": "נָשַׁמּוּ",
+      "gloss": "荒廃した"
+    },
+    {
+      "surface": "מְסִלּוֹת",
+      "gloss": "街道は"
+    },
+    {
+      "surface": "שָׁבַת",
+      "gloss": "止んだ"
+    },
+    {
+      "surface": "עֹבֵר",
+      "gloss": "行く者は"
+    },
+    {
+      "surface": "אֹרַח",
+      "gloss": "道を"
+    },
+    {
+      "surface": "הֵפֵר",
+      "gloss": "破られた"
+    },
+    {
+      "surface": "בְּרִית",
+      "gloss": "契約は"
+    },
+    {
+      "surface": "מָאַס",
+      "gloss": "侮られた"
+    },
+    {
+      "surface": "עָרִים",
+      "gloss": "都市は"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "חָשַׁב",
+      "gloss": "顧みられた"
+    },
+    {
+      "surface": "אֱנוֹשׁ",
+      "gloss": "人を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:28:02.689746027Z",
+  "model": "glm-5.2"
+}

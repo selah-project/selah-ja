@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 5:13",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして⟨彼は⟩語った — 木々について、レバノンにある杉から、壁に生えるヒソプに至るまで。そして⟨彼は⟩語った — 家畜と鳥と這うものと魚について。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "木々"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "杉"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "レバノンにある"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "האזוב",
+      "gloss": "ヒソプ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "生える"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "壁に"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜について"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜について"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "這うもの"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜について"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "魚"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:16.447198472Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "「そして⟨彼は⟩あなたの城壁の高きとりで、要塞を沈め、低くし、地にまで、ちりにまで届かされる。」",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "そして要塞を"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "高きとりで"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "あなたの城壁の"
+    },
+    {
+      "surface": "השח",
+      "gloss": "沈め"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "低くし"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "届かされた"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜にまで"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ちり"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:41.787534885Z",
+  "model": "glm-5.2"
+}

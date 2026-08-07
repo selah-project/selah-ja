@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "また⟨את⟩すべてのカラス、その種類にしたがって。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのカラス"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "カラス"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "その種類にしたがって"
+    }
+  ],
+  "timestamp": "2026-08-07T10:12:53.109939231Z",
+  "model": "glm-5.2"
+}

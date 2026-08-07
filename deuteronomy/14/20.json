@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "すべての清い鳥 —あなたがたは食べてよい。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清い"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたがたは食べてよい"
+    }
+  ],
+  "timestamp": "2026-08-07T10:12:53.831844511Z",
+  "model": "glm-5.2"
+}

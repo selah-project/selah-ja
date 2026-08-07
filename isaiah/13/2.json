@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 13:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "禿げた山の上に、旗を掲げよ。彼らに向かって声を高くあげよ。手を振れ。そうすれば彼らは貴人たちの門に入って来る。",
+  "tokens": [
+    {
+      "surface": "עַ֤ל",
+      "gloss": "～の上に"
+    },
+    {
+      "surface": "הַר",
+      "gloss": "山"
+    },
+    {
+      "surface": "נִשְׁפֶּה֙",
+      "gloss": "禿げた"
+    },
+    {
+      "surface": "שְֽׂאוּ",
+      "gloss": "掲げよ"
+    },
+    {
+      "surface": "נֵ֔ס",
+      "gloss": "旗"
+    },
+    {
+      "surface": "הָרִ֥ימוּ",
+      "gloss": "高くあげよ"
+    },
+    {
+      "surface": "קוֹל",
+      "gloss": "声"
+    },
+    {
+      "surface": "לָהֶ֑ם",
+      "gloss": "彼らに向かって"
+    },
+    {
+      "surface": "הָנִ֣יפוּ",
+      "gloss": "振れ"
+    },
+    {
+      "surface": "יָ֔ד",
+      "gloss": "手"
+    },
+    {
+      "surface": "וְיָבֹ֖אוּ",
+      "gloss": "そうすれば入って来る"
+    },
+    {
+      "surface": "פִּתְחֵ֥י",
+      "gloss": "～の門"
+    },
+    {
+      "surface": "נְדִיבִֽים",
+      "gloss": "貴人たち"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:20.951349845Z",
+  "model": "glm-5.2"
+}

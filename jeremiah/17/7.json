@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 17:7",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "祝福されるがよい、ヤハウェに信頼する男、その信頼がヤハウェである男は。",
+  "tokens": [
+    {
+      "surface": "בָּר֣וּךְ",
+      "gloss": "祝福されるがよい"
+    },
+    {
+      "surface": "הַגֶּ֔בֶר",
+      "gloss": "その男"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "〜は"
+    },
+    {
+      "surface": "יִבְטַ֖ח",
+      "gloss": "信頼する"
+    },
+    {
+      "surface": "בַּֽיהוָ֑ה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "וְהָיָ֥ה",
+      "gloss": "そして〜である"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מִבְטַחֽוֹ",
+      "gloss": "その信頼"
+    }
+  ],
+  "timestamp": "2026-08-07T11:46:37.917825824Z",
+  "model": "glm-5.2"
+}

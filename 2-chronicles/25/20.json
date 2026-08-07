@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 25:20",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "しかしアマツヤは聞かなかった。それはエロヒムから出たことだった ― 彼らを手に渡すためであった。なぜなら彼らが⟨את⟩エドムのエロヒムを尋ね求めたからである。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "しかし～ない"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞いた"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "アマツヤ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "それは～だから"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "エロヒムからの"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨それは⟩～である"
+    },
+    {
+      "surface": "למען",
+      "gloss": "～ため"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "彼らを渡す"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "彼らは尋ね求めた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エドムのエロヒム"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "～のエロヒム"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:17:09.348842844Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "私はあらゆる時にヤハウェをほめたたえます。⟨את⟩ヤハウェ。絶えず、⟨その⟩賛美が私の口のうちに⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "私はほめたたえる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "あらゆる"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時に"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "絶えず"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "⟨その⟩賛美"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "私の口のうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:06.324074652Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 28:8",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "シャウルは変装し、ほかの衣服を着て、彼自身と二人の男が彼と共に赴いた。彼らは夜、その女のところに来た。彼は言った。「どうかオブによって私に占ってくれ。私があなたに告げる者⟨את⟩を私のために引き上げてくれ。」",
+  "tokens": [
+    {
+      "surface": "ויתחפש",
+      "gloss": "変装し"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルは"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "着て"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "衣服を"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ほかの"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "赴いた"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼自身"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "〜と二人の"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "男が"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところに"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "その女の"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "קסומי",
+      "gloss": "占ってくれ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "באוב",
+      "gloss": "オブによって"
+    },
+    {
+      "surface": "והעלי",
+      "gloss": "引き上げてくれ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私があなたに告げる者"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である者"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "告げる"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:10.405690453Z",
+  "model": "glm-5.2"
+}

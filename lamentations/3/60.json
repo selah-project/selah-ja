@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "あなたはご覧になりました、彼らのすべての復讐を、私に対する彼らのすべてのはかりごとを。",
+  "tokens": [
+    {
+      "surface": "רָאִ֨יתָה֙",
+      "gloss": "あなたはご覧になった"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "נִקְמָתָ֔ם",
+      "gloss": "彼らの復讐を"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מַחְשְׁבֹתָ֖ם",
+      "gloss": "彼らのはかりごとを"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "私に対する"
+    }
+  ],
+  "timestamp": "2026-08-07T14:42:06.585316105Z",
+  "model": "glm-5.2"
+}

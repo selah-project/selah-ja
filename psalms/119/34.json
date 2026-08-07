@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "理解させてください、そうすれば私はあなたのトーラーを守り、全心的にそれを守りましょう",
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "理解させてください"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "そうすれば私は守る"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "あなたのトーラーを"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "そして私は守りましょう"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心で"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:02.950970380Z",
+  "model": "glm-5.2"
+}

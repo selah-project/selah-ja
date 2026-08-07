@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼は言った、「彼女を呼べ」。彼が彼女を呼ぶと、彼女は入り口に立った。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼べ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女を"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして彼が呼んだ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女を"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "そして彼女は立った"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "入り口に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:11:32.715058016Z",
+  "model": "glm-5.2"
+}

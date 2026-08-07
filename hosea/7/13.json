@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 7:13",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "わざわいなるかな 彼らに、彼らがわたしから迷い去ったから。略奪 ⟨が⟩ 彼らに、彼らがわたしに対して反逆したから。わたしは彼らを贖ったのに、彼らはわたしについて偽りを語った。",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "わざわいなるかな"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "迷い去った"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "わたしから"
+    },
+    {
+      "surface": "שד",
+      "gloss": "略奪"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "反逆した"
+    },
+    {
+      "surface": "בי",
+      "gloss": "わたしに対して"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "אפדם",
+      "gloss": "彼らを贖った"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "語った"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "わたしについて"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "偽りを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:22.058227854Z",
+  "model": "glm-5.2"
+}

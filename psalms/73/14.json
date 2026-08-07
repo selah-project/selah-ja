@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 73,
+  "translation": "そして、わたしは終日撃たれ、朝ごとに咎めを受けた。",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "そしてわたしは〜であった"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "撃たれ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "היום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "そしてわたしは咎めを受けた"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "朝ごとに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:14.661961907Z",
+  "model": "glm-5.2"
+}

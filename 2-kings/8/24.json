@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 8:24",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてヨラムは先祖たちと共に寝り、先祖たちと共にダビデの市に葬られた。そしてその子アハズヤが彼に代わって王となった。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "そして寝た"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "ヨラム"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の先祖たち"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "そして葬られた"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の先祖たち"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "〜の市に"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "そして王となった"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "アハズヤ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代わって"
+    }
+  ],
+  "timestamp": "2026-08-07T11:13:11.896848519Z",
+  "model": "glm-5.2"
+}

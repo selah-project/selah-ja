@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてヤハウェはモシェに仰せになった。祭司たち、アハロンの子らに告げよ。そして彼らに言え。霊（ネフェシュ）のためには——彼はその民の間で汚れてはならない。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして仰せになった"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "告げよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "そして言え"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "霊のために"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "彼は汚れては"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "その民の間で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:08.286133772Z",
+  "model": "glm-5.2"
+}

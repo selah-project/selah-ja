@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "見よ、あなたがそこで王と話している間に、私もあなたの後から入って行き、あなたの言葉を補強します。」",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "あなたがまだ〜している間に"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "話している"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "そして私は"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "入って来る"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "あなたの後に"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "私は補強する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの言葉"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "あなたの言葉"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:42.499474279Z",
+  "model": "glm-5.2"
+}

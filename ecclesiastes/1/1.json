@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "コヘレトの言葉、ダビデの子、イェルシャライムの王、⟨の⟩。",
+  "tokens": [
+    {
+      "surface": "דִּבְרֵי֙",
+      "gloss": "…の言葉"
+    },
+    {
+      "surface": "קֹהֶ֣לֶת",
+      "gloss": "コヘレト"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "דָּוִ֔ד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "מֶ֖לֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "בִּירוּשָׁלִָֽם",
+      "gloss": "イェルシャライムにおいて"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:09.645133403Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 136,
+  "translation": "地を水々の上に広げる方に、まことに彼のヘセドはとこしえに〈続く〉。",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "広げる方に"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水々の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "彼のヘセド"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:08.381392101Z",
+  "model": "glm-5.2"
+}

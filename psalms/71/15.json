@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 71,
+  "translation": "私の口はあなたの義を語り告げよう、一日中あなたの救いを。私はその数を知らないからだ。",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "私の口は"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "語り告げよう"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "あなたの義を"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "היום",
+      "gloss": "一日中"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "あなたの救いを"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だからだ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "私は知らない"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "その数を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:38.233485104Z",
+  "model": "glm-5.2"
+}

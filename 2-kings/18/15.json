@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてヒゼキヤは⟨彼に⟩、ヤハウェの宮にあるすべての銀と、王の宮の宝物倉⟨にある銀⟩とを与えた。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして彼は与えた"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ヒゼキヤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての銀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "見つかった"
+    },
+    {
+      "surface": "בית",
+      "gloss": "宮"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "そして宝物倉に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "宮"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:36.519265219Z",
+  "model": "glm-5.2"
+}

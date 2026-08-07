@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 11:10",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして私は私の杖、ナオムを取って、これを折った。私がすべての民々と結んだ私の契約を破棄するために。",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "そして私は取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の杖"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "私の杖"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナオム"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "ナオム（快さ）"
+    },
+    {
+      "surface": "ואגדע",
+      "gloss": "そして私は折った"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩それを",
+      "marks": "それを"
+    },
+    {
+      "surface": "להפיר",
+      "gloss": "破棄するために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の契約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "私の契約"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "私が結んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "民々"
+    }
+  ],
+  "timestamp": "2026-08-07T12:32:14.668316989Z",
+  "model": "glm-5.2"
+}

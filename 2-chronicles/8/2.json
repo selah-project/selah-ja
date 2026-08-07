@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして、フラムがシェロモに与えた都市々々を、シェロモはそれらを建て上げ、イスラエルの子らをそこに住まわせた。",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "そしてその都市々々"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "フラム"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "シェロモに"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモは"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それら"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "そして住まわせた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子ら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T17:38:11.385837610Z",
+  "model": "glm-5.2"
+}

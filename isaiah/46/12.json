@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "わたしに聞け、頑是なき者たち、心の強き者たち、義から遠い者たちよ。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "強き者たち"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心の"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "遠い者たち"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "義から"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:50.025413380Z",
+  "model": "glm-5.2"
+}

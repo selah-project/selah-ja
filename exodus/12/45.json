@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "寄留者と雇い人は、そこから食べてはならない。",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "寄留者"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "と雇人は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それ⟨から⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:17.682719925Z",
+  "model": "glm-5.2"
+}

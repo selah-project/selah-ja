@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "ヤハウェの割り当ては⟨彼の⟩民、ヤアコブは⟨彼の⟩受け継がれた地の測り縄。",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "因为"
+    },
+    {
+      "surface": "חֵ֥לֶק",
+      "gloss": "割り当て"
+    },
+    {
+      "surface": "יְהֹוָ֖ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עַמּ֑וֹ",
+      "gloss": "⟨彼の⟩民"
+    },
+    {
+      "surface": "יַעֲקֹ֖ב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "חֶ֥בֶל",
+      "gloss": "測り縄"
+    },
+    {
+      "surface": "נַחֲלָתֽוֹ",
+      "gloss": "⟨彼の⟩受け継がれた地"
+    }
+  ],
+  "timestamp": "2026-08-07T10:21:28.805895178Z",
+  "model": "glm-5.2"
+}

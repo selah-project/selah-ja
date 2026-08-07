@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "それは、ヤハウェの⟨怒り⟩には束の間、⟨御旨意⟩には命があるからだ。夕べには泣き声が宿り、朝には喜びの叫びがある。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "それは…だからだ"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "束の間"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "⟨ヤハウェ⟩の⟨怒り⟩には"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "命"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "⟨御旨意⟩には"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "夕べには"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "宿り"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "泣き声"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "そして朝には"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "喜びの叫び"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:24.423862993Z",
+  "model": "glm-5.2"
+}

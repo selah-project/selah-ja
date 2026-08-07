@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして人々は彼らの食糧を取ったが、⟨את⟩ ヤハウェの口には尋ねなかった。",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "人々は"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "彼らの食糧を"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの口"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "尋ねた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:26:09.996064433Z",
+  "model": "glm-5.2"
+}

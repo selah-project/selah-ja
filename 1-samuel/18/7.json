@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして女たち—遊び戯れる者たち—は応答し、こう歌った。「シャウルは数千を打ち、ダビデは数万を打った。」",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "応答し"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "女たち"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "遊び戯れる者たち"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "こう歌った"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "打った"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルは"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "数千を"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "数万を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:14.039313239Z",
+  "model": "glm-5.2"
+}

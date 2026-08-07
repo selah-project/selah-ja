@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "ヤハウェは⟨その⟩聖なる宮に、ヤハウェの玉座は天に、⟨その⟩目は見つけ、⟨その⟩まぶたは試みる、人の子らを。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "宮に"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "⟨その⟩聖なる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "天に"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "⟨その⟩玉座"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "⟨その⟩目は"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "見つけ"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "⟨その⟩まぶたは"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "試みる"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T17:45:56.985852102Z",
+  "model": "glm-5.2"
+}

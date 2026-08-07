@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "あなたが私たちを龍の住処で打ち砕き、死の影で私たちを覆われたからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "あなたが私たちを打ち砕いた"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "〜の住処で"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "龍（タンミン）"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "そして覆われた"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "私たちの上を"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "死の影で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:43.691265064Z",
+  "model": "glm-5.2"
+}

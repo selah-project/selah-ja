@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "彼らの数えられた者たちは、彼らの諸家族ごとに、三千二百であった。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "そして…であった"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "彼らの数えられた者たちは"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "彼らの諸家族ごとに"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "と二百"
+    }
+  ],
+  "timestamp": "2026-08-07T09:50:03.378055696Z",
+  "model": "glm-5.2"
+}

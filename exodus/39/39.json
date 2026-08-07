@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 39:39",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "⟨את⟩青銅の祭壇、そして⟨את⟩それに属する青銅の網、⟨את⟩その差し棒、そして⟨את⟩そのすべての器具、⟨את⟩洗盤、そして⟨את⟩その台座、",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "青銅の祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "それに属する青銅の網"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "網"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それに属する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その差し棒"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "その差し棒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "そのすべての器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "その器具"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "洗盤"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "洗盤"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その台座"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "その台座"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:05.923181112Z",
+  "model": "glm-5.2"
+}

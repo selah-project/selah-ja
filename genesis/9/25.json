@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして彼は言った。「呪われよ、カナン。僕の僕となって、彼の兄弟たちに仕える者となるように。」",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "אָרוּר",
+      "gloss": "呪われよ"
+    },
+    {
+      "surface": "כְּנָעַן",
+      "gloss": "カナン"
+    },
+    {
+      "surface": "עֶבֶד",
+      "gloss": "僕"
+    },
+    {
+      "surface": "עֲבָדִים",
+      "gloss": "僕たちの"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "⟨彼は⟩なる"
+    },
+    {
+      "surface": "לְאֶחָיו",
+      "gloss": "彼の兄弟たちに"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:44.946491229Z",
+  "model": "glm-5.2"
+}

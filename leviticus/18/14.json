@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "あなたの父の兄弟の裸を、あなたは露わにしてはならない。その妻の近くに、あなたは近づいてはならない。彼女はあなたの叔母〈である〉。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "…の裸"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "あなたは露わにする"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…の近くに"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "彼の妻の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "あなたは近づく"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "あなたの叔母"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼女は〈…である〉"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:00.982131836Z",
+  "model": "glm-5.2"
+}

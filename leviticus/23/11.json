@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そして彼は⟨את⟩その束をヤハウェの前に、あなたたちの受け入れられるために揺り動かす。安息日の翌日、祭司がそれを揺り動かす。",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "そして…揺り動かす"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その束"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "その束"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "あなたたちの受け入れられるために"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "翌日"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "安息日の"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "…揺り動かす"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司が"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:01.853345208Z",
+  "model": "glm-5.2"
+}

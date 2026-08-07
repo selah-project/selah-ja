@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "彼はパンのためにさすらう — それはどこに⟨あるのか⟩。彼は知っている、闇の日が彼の手のうちに備えられていることを。",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "さすらう"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "パンのために"
+    },
+    {
+      "surface": "איה",
+      "gloss": "どこに"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知っている"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "備えられている"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "彼の手のうちに"
+    },
+    {
+      "surface": "יום",
+      "gloss": "〜の日"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "闇"
+    }
+  ],
+  "timestamp": "2026-08-07T13:24:21.369002296Z",
+  "model": "glm-5.2"
+}

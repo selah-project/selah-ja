@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 87,
+  "translation": "ヤハウェはツィヨンの門を愛する、ヤアコブのすべての住まいの中で⟨最も⟩。",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "愛する"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "〜の門"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨン"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "すべての〜の中で"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "住まい"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:24.596852268Z",
+  "model": "glm-5.2"
+}

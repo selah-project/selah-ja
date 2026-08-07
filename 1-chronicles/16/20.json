@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "彼らは国から国へ、ある王国から別の民へと移り歩いた。",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "そして歩き回った"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "国から"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "国"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "そして王国から"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:28.149816801Z",
+  "model": "glm-5.2"
+}

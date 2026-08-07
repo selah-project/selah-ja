@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてヤハウェの言葉が彼に来た、こう言って。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうあった"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "言葉が"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に来た"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "こう言って"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:21.396385415Z",
+  "model": "glm-5.2"
+}

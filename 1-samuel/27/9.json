@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 27:9",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "ダビデはその地を打ち、男も女も生かしておかなかった。そして羊と牛とろばとらくだと衣服を取り、戻ってアキシュのもとに来た。",
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "打った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "生かしてお"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男も"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "女も"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "取り"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊と"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "牛と"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "ろばと"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "らくだと"
+    },
+    {
+      "surface": "ובגדים",
+      "gloss": "衣服を"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "戻って"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "アキシュ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:23.143431760Z",
+  "model": "glm-5.2"
+}

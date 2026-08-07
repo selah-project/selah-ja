@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "冷たい水が⟨疲れた⟩ネフェシの上にあるように、良い知らせは遠い地からのものだ。",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "冷たい"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ネフェシ"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "疲れた"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "そして知らせ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "良い"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "地から"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "遠い"
+    }
+  ],
+  "timestamp": "2026-08-07T17:25:24.437795007Z",
+  "model": "glm-5.2"
+}

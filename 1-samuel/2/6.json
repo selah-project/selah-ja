@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ヤハウェは死なせ、また生かす。シャオルに下らせ、また引き上げられる。",
+  "tokens": [
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "מֵמִ֣ית",
+      "gloss": "死なせ"
+    },
+    {
+      "surface": "וּמְחַיֶּ֑ה",
+      "gloss": "また生かす"
+    },
+    {
+      "surface": "מוֹרִ֥יד",
+      "gloss": "下らせ"
+    },
+    {
+      "surface": "שְׁא֖וֹל",
+      "gloss": "シャオルに"
+    },
+    {
+      "surface": "וַיָּֽעַל",
+      "gloss": "また引き上げられる"
+    }
+  ],
+  "timestamp": "2026-08-07T10:39:48.311464708Z",
+  "model": "glm-5.2"
+}

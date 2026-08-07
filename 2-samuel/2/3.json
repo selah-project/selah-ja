@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "彼と共にいた者たち、ダビデはそれぞれの男とその家を引き連れて上らせた。彼らはヘブロンの町々に住んだ。",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "そして彼の者たち"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共にいた"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "…は上らせた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "それぞれの男"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "とその家を"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "彼らは住んだ"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "…の町々に"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ヘブロン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:25.499623541Z",
+  "model": "glm-5.2"
+}

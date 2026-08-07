@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 148,
+  "translation": "太陽と月よ、 ⟨彼を⟩ 賛美せよ。光のすべての星々よ、 ⟨彼を⟩ 賛美せよ。",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "彼を賛美せよ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "と月"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "彼を賛美せよ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "星々"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:39.239615092Z",
+  "model": "glm-5.2"
+}

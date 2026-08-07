@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "十アンマが一枚の板の長さ、そして一アンマ半が一枚の板の幅⟨であった⟩。",
+  "tokens": [
+    {
+      "surface": "עֶ֥שֶׂר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אַמֹּ֖ת",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "אֹ֣רֶךְ",
+      "gloss": "長さ"
+    },
+    {
+      "surface": "הַקָּ֑רֶשׁ",
+      "gloss": "その板の"
+    },
+    {
+      "surface": "וְאַמָּה֙",
+      "gloss": "そして一アンマ"
+    },
+    {
+      "surface": "וַחֲצִ֣י",
+      "gloss": "と半"
+    },
+    {
+      "surface": "הָֽאַמָּ֔ה",
+      "gloss": "そのアンマの"
+    },
+    {
+      "surface": "רֹ֖חַב",
+      "gloss": "幅"
+    },
+    {
+      "surface": "הַקֶּ֥רֶשׁ",
+      "gloss": "その板の"
+    },
+    {
+      "surface": "הָאֶחָֽד",
+      "gloss": "一つの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:58.177056065Z",
+  "model": "glm-5.2"
+}

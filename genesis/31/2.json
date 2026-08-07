@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "ヤアコブはラバンの顔を見た。見よ、それは以前のようでは彼と共になかった。",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥רְא",
+      "gloss": "見た"
+    },
+    {
+      "surface": "יַעֲקֹ֖ב",
+      "gloss": "ヤアコブは"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ラバンの顔"
+    },
+    {
+      "surface": "פְּנֵ֣י",
+      "gloss": "顔"
+    },
+    {
+      "surface": "לָבָ֑ן",
+      "gloss": "ラバンの"
+    },
+    {
+      "surface": "וְהִנֵּ֥ה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אֵינֶ֛נּוּ",
+      "gloss": "〜ではない"
+    },
+    {
+      "surface": "עִמּ֖וֹ",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "כִּתְמ֥וֹל",
+      "gloss": "昨日の"
+    },
+    {
+      "surface": "שִׁלְשֽׁוֹם",
+      "gloss": "一昨日のよう"
+    }
+  ],
+  "timestamp": "2026-08-07T09:02:44.275381677Z",
+  "model": "glm-5.2"
+}

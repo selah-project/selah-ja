@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そのときあなたはヤハウェへの恐れを悟り、エロヒムの知識を見いだす。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "そのとき"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "あなたは悟る"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "〜への恐れ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "そして〜の知識"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "あなたは見いだす"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:49.846189694Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "六十が王妃たち、八十が側室たち。そしておとめたちは、数がない。",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "המה",
+      "gloss": "が…である"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "王妃たち"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "八十"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "側室たち"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "そしておとめたちは"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "数が"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:26.999312693Z",
+  "model": "glm-5.2"
+}

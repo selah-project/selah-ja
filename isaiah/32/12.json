@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "胸を打って嘆け。慕わしい野のための、実を結ぶぶどうの木のための。",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "שָׁדַ֖יִם",
+      "gloss": "胸"
+    },
+    {
+      "surface": "סֹֽפְדִ֑ים",
+      "gloss": "嘆け"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "שְׂדֵי",
+      "gloss": "野の"
+    },
+    {
+      "surface": "חֶ֕מֶד",
+      "gloss": "慕わしい"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "גֶּ֖פֶן",
+      "gloss": "ぶどうの木の"
+    },
+    {
+      "surface": "פֹּרִיָּֽה",
+      "gloss": "実を結ぶ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:03.660338957Z",
+  "model": "glm-5.2"
+}

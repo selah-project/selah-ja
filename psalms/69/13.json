@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "門に座る者たちが私について語り、強い酒を飲む者たちが⟨私について⟩曲を奏でる。",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "語る"
+    },
+    {
+      "surface": "בי",
+      "gloss": "私について"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "座る者たち"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門に"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "曲を奏でる"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "飲む者たち"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "強い酒を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:38.519049623Z",
+  "model": "glm-5.2"
+}

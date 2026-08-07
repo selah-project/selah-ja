@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 11:37",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして⟨את⟩あなたを、わたしは取る。あなたのנפשが慕うすべてのものの上に、あなたは治める。あなたはイスラエルの上の王となる。",
+  "tokens": [
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "あなた"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "わたしは取る"
+    },
+    {
+      "surface": "ומלכת",
+      "gloss": "あなたは治める"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "慕う"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "あなたのנפש"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "あなたは〜となる"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T18:30:29.710883942Z",
+  "model": "glm-5.2"
+}

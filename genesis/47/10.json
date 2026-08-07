@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "ヤアコブはパロを⟨את⟩祝福した。そしてパロの前から出て行った。",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "そして祝福した"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "パロ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て行った"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "〜の前から"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:49.432305131Z",
+  "model": "glm-5.2"
+}

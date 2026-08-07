@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして亜麻と大麦は打たれた。大麦は穂が出ており、亜麻は花をつけていたからである。",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "そして亜麻"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "と大麦"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "打たれた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "大麦"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "穂が出ていた"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "そして亜麻"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "花をつけていた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:45.988258418Z",
+  "model": "glm-5.2"
+}

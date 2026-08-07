@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてクシュは⟨את⟩ニムロデを生んだ。彼こそ地において勇士となることを始めた者である。",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "そしてクシュは"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ニムロデ"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "ニムロデ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "החל",
+      "gloss": "始めた"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "…となることを"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地において"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:21.629473351Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "あなたは私の隠れ場、苦しみから私を守られる。救いの歓声が私を取り囲む。セラ。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "隠れ場"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私の"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "苦しみから"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "あなたは私を守られる"
+    },
+    {
+      "surface": "רני",
+      "gloss": "歓声の"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "救い"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "あなたは私を取り囲まれる"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:37.982362941Z",
+  "model": "glm-5.2"
+}

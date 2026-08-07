@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 21:30",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてダビデはその前に進んでエロヒムを尋ね求めることができなかった。ヤハウェの御使いの剣のゆえに恐怖したからである。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして…なかった"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "でき"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "進んで"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "その前に"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "尋ね求める"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムを"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…からである"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "恐怖した"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…のゆえに"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "御使いの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:06:55.992159993Z",
+  "model": "glm-5.2"
+}

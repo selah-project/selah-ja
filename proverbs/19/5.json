@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "偽りの証人は咎を免れず、偽りを吐く者は逃れられない。",
+  "tokens": [
+    {
+      "surface": "עֵד",
+      "gloss": "証人"
+    },
+    {
+      "surface": "שְׁקָרִים",
+      "gloss": "偽りの"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִנָּקֶה",
+      "gloss": "免れる"
+    },
+    {
+      "surface": "וְיָפִיחַ",
+      "gloss": "そして吐く者"
+    },
+    {
+      "surface": "כְּזָבִים",
+      "gloss": "偽りを"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִמָּלֵט",
+      "gloss": "逃れられる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:28.379154493Z",
+  "model": "glm-5.2"
+}

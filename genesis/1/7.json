@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてエロヒムは ⟨את⟩ 大空を造り、大空の下にある水と大空の上にある水の間を分けられた。そしてそのようになった。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…造った"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大空"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "その大空"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "そして…分けた"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…の間を"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…がある"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "下に"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "大空の"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と…の間を"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…がある"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "上に"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "大空の"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして…なった"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:39.883018634Z",
+  "model": "glm-5.2"
+}

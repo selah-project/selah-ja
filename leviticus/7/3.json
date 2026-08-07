@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして ⟨את⟩ そのすべての脂肪を、彼はそこから近くに携え来る。⟨את⟩ 脂尾と、内臓を覆う脂肪を。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "そのすべての脂肪"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "その脂肪"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "彼は近くに携え来る"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "それから"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "脂尾"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "脂尾"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "脂肪"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "覆っている"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "内臓"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "内臓"
+    }
+  ],
+  "timestamp": "2026-08-07T09:33:16.315059962Z",
+  "model": "glm-5.2"
+}

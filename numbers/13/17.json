@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 13:17",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてモーシェは彼らを遣わした、⟨את⟩カナンの地を偵察するために。そして彼らに言った——「こちらからネゲブ⟨の地⟩を上り、そして⟨את⟩その山に登れ。」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…遣わした"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "偵察するために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "カナンの地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "…の地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "カナン"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "上れ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "こちらから"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "ネゲブ⟨の地⟩"
+    },
+    {
+      "surface": "ועליתם",
+      "gloss": "そして…登れ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その山"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "その山"
+    }
+  ],
+  "timestamp": "2026-08-07T09:55:54.620587061Z",
+  "model": "glm-5.2"
+}

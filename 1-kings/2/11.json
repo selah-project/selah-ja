@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 2:11",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてダビデがイスラエルの上に治めた日数は四十⟨年⟩であった。ヘブロンで七⟨年⟩、イェルシャライムで三十三⟨年⟩治めた。",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "そして日数は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "治めた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデが"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ヘブロンで"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "治めた"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "そしてイェルシャライムで"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "治めた"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "と三"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:05.184216110Z",
+  "model": "glm-5.2"
+}

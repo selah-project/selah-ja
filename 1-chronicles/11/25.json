@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 11:25",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "三十人の中で、見よ、彼は重んぜられたが、三人の⟨方⟩には入らなかった。ダヴィデは彼を自分の親衛隊の上に置いた。",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "〜の中で"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "三十人"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "重んぜられた"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "〜には"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "三人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入ら"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "彼を置いた"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィデ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "משמעתו",
+      "gloss": "自分の親衛隊"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:45.821364136Z",
+  "model": "glm-5.2"
+}

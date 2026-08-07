@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 13:19",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてアビヤはヤラベアムのあとを追い、彼から都市たちを奪い取った：⟨את⟩ ベト・エルとその娘たち、⟨את⟩ エシュナとその娘たち、⟨את⟩ エフロンとその娘たち。",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "そして追った"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "アビヤは"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…のあとを"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ヤラベアム"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "そして奪い取った"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "彼から"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "都市たちを"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ベト・エル"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベト"
+    },
+    {
+      "surface": "אל",
+      "gloss": "・エル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その娘たち"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "その娘たち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "エシュナ"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "エシュナ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その娘たち"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "その娘たち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "エフロン"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "エフロン"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "とその娘たち"
+    }
+  ],
+  "timestamp": "2026-08-07T17:39:10.479756944Z",
+  "model": "glm-5.2"
+}

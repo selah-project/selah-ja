@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 24:7",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "あなたはその並びの上に純粋な乳香を置く。それはパンのための記念となり、ヤハウェへの火のささげ物となる。",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "あなたは置く"
+    },
+    {
+      "surface": "על",
+      "gloss": "の上に"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "その並び"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "乳香"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "純粋な"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "それは〜となる"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "パンのための"
+    },
+    {
+      "surface": "לאזכרה",
+      "gloss": "記念として"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火のささげ物"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェへの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:36.405152452Z",
+  "model": "glm-5.2"
+}

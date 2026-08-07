@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "知らないのか、すべて不義を行う者たちは。私の民を食らう者たちが、パンを食らったように。ヤハウェを、彼らは呼び求めなかった。",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "〜ないのか"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "行う者たちは"
+    },
+    {
+      "surface": "און",
+      "gloss": "不義を"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "食らう者たちが"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "私の民を"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "食らった"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "呼び求めた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:59.170315185Z",
+  "model": "glm-5.2"
+}

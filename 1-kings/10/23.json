@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "こうして王シェロモは、富と知恵において、地のすべての王たちのうちで最も大いなる者となった。",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "こうして…大いなる者となった"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "…のすべての"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "富において"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "そして知恵において"
+    }
+  ],
+  "timestamp": "2026-08-07T16:49:24.450730483Z",
+  "model": "glm-5.2"
+}

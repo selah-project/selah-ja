@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "死と命は舌の手のひらにあり、それを愛する者はその実を食べる。",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "と命"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手のひらに"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌の"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "そしてそれを愛する者は"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "その実"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:01.382364581Z",
+  "model": "glm-5.2"
+}

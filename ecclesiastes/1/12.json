@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "私、コヘレトは、イスラエルの上に、イェルシャライム（エルサレム）において、王で ⟨あった⟩。",
+  "tokens": [
+    {
+      "surface": "אֲנִ֣י",
+      "gloss": "私"
+    },
+    {
+      "surface": "קֹהֶ֗לֶת",
+      "gloss": "コヘレト"
+    },
+    {
+      "surface": "הָיִ֥יתִי",
+      "gloss": "であった"
+    },
+    {
+      "surface": "מֶ֛לֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בִּירוּשָׁלִָֽם",
+      "gloss": "イェルシャライム（エルサレム）において"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:39.913029480Z",
+  "model": "glm-5.2"
+}

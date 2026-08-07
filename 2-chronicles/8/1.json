@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして二十年の終わりになった。シャロモがヤハウェの家と自分の家を建ててから⟨のち⟩、⟨それは⟩。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…になった"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "…の終わりに"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…が"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シャロモ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "自分の家"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "自分の家"
+    }
+  ],
+  "timestamp": "2026-08-07T17:38:02.314118718Z",
+  "model": "glm-5.2"
+}

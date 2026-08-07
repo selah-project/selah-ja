@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてヤハウェの箱はガテ人オベデ・エドムの家に三か月とどまった。ヤハウェは⟨את⟩オベデ・エドムと、⟨את⟩彼の全家のすべてを祝福した。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして…とどまった"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家に"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "オベデ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "・エドム"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "ガテ人の"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "か月"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "そして…祝福した"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "オベデ・エドムを"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "オベデ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "・エドム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼の全家のすべてを"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "彼の家の"
+    }
+  ],
+  "timestamp": "2026-08-07T16:45:51.210792075Z",
+  "model": "glm-5.2"
+}

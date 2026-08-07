@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "わが子よ、彼らと一緒に道を歩いてはならない、あなたの足を彼らの小道から引き止めよ、",
+  "tokens": [
+    {
+      "surface": "בְּנִ֗י",
+      "gloss": "わが子よ"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "תֵּלֵ֣ךְ",
+      "gloss": "歩いては"
+    },
+    {
+      "surface": "בְּדֶ֣רֶךְ",
+      "gloss": "道を"
+    },
+    {
+      "surface": "אִתָּ֑ם",
+      "gloss": "彼らと一緒に"
+    },
+    {
+      "surface": "מְנַ֥ע",
+      "gloss": "引き止めよ"
+    },
+    {
+      "surface": "רַ֝גְלְךָ֗",
+      "gloss": "あなたの足を"
+    },
+    {
+      "surface": "מִנְּתִיבָתָֽם",
+      "gloss": "彼らの小道から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:55.486882910Z",
+  "model": "glm-5.2"
+}

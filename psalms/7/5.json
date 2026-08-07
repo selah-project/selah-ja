@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "もし私が和解する者に悪をもって報いたのなら、そして理由もなく私の悩む者を（無故に）引き渡したのなら——",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "私が報いた"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "私と和解する者に"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪をもって"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "そして私が引き渡した"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "私の悩む者を"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "理由もなく"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:15.281257692Z",
+  "model": "glm-5.2"
+}

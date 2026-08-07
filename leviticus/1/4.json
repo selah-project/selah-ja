@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして彼は自分の手を全焼の供え物の頭の上に置く。そうして彼にとって贖いがなされるために、それは彼に代わって受け入れられる。",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "そして…置く"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手を"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の供え物の"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "そして…受け入れられる"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に代わって"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "贖いがなされるために"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼について"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:55.738009578Z",
+  "model": "glm-5.2"
+}

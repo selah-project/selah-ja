@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてこうなった — シェムエルが老いた時、彼は⟨את⟩自分の息子たちをイスラエルの裁き人として立てた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうなった"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜する時"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "老いた"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シェムエル"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "彼は立てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の息子たちを"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "自分の息子たち"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "裁き人として"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:00.518205570Z",
+  "model": "glm-5.2"
+}

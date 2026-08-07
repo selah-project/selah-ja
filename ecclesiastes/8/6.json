@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "すべての願い事には時と裁きがあるからである。人の悪は彼の上に大きいからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "願い事"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ある"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "と裁き"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "悪"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "大きい"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼の上に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:47.326580932Z",
+  "model": "glm-5.2"
+}

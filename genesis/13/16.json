@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "「わたしはあなたの子孫を地のちりのように⟨את⟩置こう。もし人が地のちりを数えることができるなら、あなたの子孫も数えられよう。」",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "わたしは…置こう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの子孫"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "あなたの子孫を"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "…のように"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…ならば"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ことができる"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人が"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "数える"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地のちり"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ちりを"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "あなたの子孮も"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "数えられよう"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:36.931658221Z",
+  "model": "glm-5.2"
+}

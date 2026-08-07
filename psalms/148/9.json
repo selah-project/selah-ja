@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 148,
+  "translation": "山々、そしてすべての丘陵、実を結ぶ木、そしてすべての杉、",
+  "tokens": [
+    {
+      "surface": "הֶהָרִ֥ים",
+      "gloss": "山々"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "גְּבָע֑וֹת",
+      "gloss": "丘陵"
+    },
+    {
+      "surface": "עֵ֥ץ",
+      "gloss": "木"
+    },
+    {
+      "surface": "פְּרִ֗י",
+      "gloss": "実を結ぶ"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "אֲרָזִֽים",
+      "gloss": "杉"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:35.266856978Z",
+  "model": "glm-5.2"
+}

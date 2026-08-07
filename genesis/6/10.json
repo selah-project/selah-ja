@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ノアは三人の息子たちを生んだ。⟨את⟩シェム、⟨את⟩ハム、そして⟨את⟩ヤフェトを。",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "そして…生んだ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノアは"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三人の"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シェム"
+    },
+    {
+      "surface": "שם",
+      "gloss": "シェム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ハム"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ハム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ヤフェト"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ヤフェト"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:41.659847974Z",
+  "model": "glm-5.2"
+}

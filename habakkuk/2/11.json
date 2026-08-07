@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "石が壁から叫び、木の梁がそれに答えるからである。",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אֶבֶן",
+      "gloss": "石が"
+    },
+    {
+      "surface": "מִקִּיר",
+      "gloss": "壁から"
+    },
+    {
+      "surface": "תִּזְעָק",
+      "gloss": "叫び"
+    },
+    {
+      "surface": "וְכָפִיס",
+      "gloss": "そして梁が"
+    },
+    {
+      "surface": "מֵעֵץ",
+      "gloss": "木から"
+    },
+    {
+      "surface": "יַעֲנֶנָּה",
+      "gloss": "それに答える"
+    }
+  ],
+  "timestamp": "2026-08-07T17:15:00.068726693Z",
+  "model": "glm-5.2"
+}

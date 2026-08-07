@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 95,
+  "translation": "来たれ、ヤハウェに向かって歌い歓呼せよ、われらの救いの岩に向かって歓声を上げよう。",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "来たれ"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "歌い歓呼せよ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに向かって"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "歓声を上げよう"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "岩に向かって"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "われらの救いの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:41.778475726Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 20:3",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そして ⟨את⟩ その中にいた民を連れ出し、のこぎりと鉄の刃と斧で引いた。ダビデはアンモンの子らのすべての町にそのようにした。ダビデとすべての民はイェルシャライムに帰った。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その中にいた民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "בה",
+      "gloss": "その中にいた"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "連れ出し"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "引いた"
+    },
+    {
+      "surface": "במגרה",
+      "gloss": "のこぎりで"
+    },
+    {
+      "surface": "ובחריצי",
+      "gloss": "…刃で"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "鉄の"
+    },
+    {
+      "surface": "ובמגרות",
+      "gloss": "斧で"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "した"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "町に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らの"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アンモンの"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "帰った"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデと"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:04.121943368Z",
+  "model": "glm-5.2"
+}

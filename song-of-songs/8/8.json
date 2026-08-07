@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "私たちには小さな妹があり、乳房がない。私たちの妹のために何をしようか、彼女について語られる日に。",
+  "tokens": [
+    {
+      "surface": "אָח֥וֹת",
+      "gloss": "妹"
+    },
+    {
+      "surface": "לָ֨נוּ֙",
+      "gloss": "私たちには"
+    },
+    {
+      "surface": "קְטַנָּ֔ה",
+      "gloss": "小さな"
+    },
+    {
+      "surface": "וְשָׁדַ֖יִם",
+      "gloss": "乳房"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "לָ֑הּ",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "מַֽה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "נַּעֲשֶׂה֙",
+      "gloss": "しようか"
+    },
+    {
+      "surface": "לַאֲחֹתֵ֔נוּ",
+      "gloss": "私たちの妹のために"
+    },
+    {
+      "surface": "בַּיּ֖וֹם",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "שֶׁיְּדֻבַּר",
+      "gloss": "語られる"
+    },
+    {
+      "surface": "בָּֽהּ",
+      "gloss": "彼女について"
+    }
+  ],
+  "timestamp": "2026-08-07T13:35:04.883729326Z",
+  "model": "glm-5.2"
+}

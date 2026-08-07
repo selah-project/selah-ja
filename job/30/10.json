@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "彼らは私を忌み嫌い、私から遠ざかり、私の面前からつばを惜しまない。",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "彼らは私を忌み嫌う"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "遠ざかった"
+    },
+    {
+      "surface": "מני",
+      "gloss": "私から"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "そして私の面前から"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "惜しんだ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "つば"
+    }
+  ],
+  "timestamp": "2026-08-07T13:27:47.581885281Z",
+  "model": "glm-5.2"
+}

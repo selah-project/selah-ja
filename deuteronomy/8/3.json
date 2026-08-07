@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 8:3",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼はあなたを苦しめ、あなたを飢えさせ、あなたもあなたの父祖たちも知らなかったマナをあなたに食べさせた。それは、人はパンだけによって生きるのではなく、ヤハウェの口から出るすべてのことばによって、人が生きることをあなたに知らせるためであった。」",
+  "tokens": [
+    {
+      "surface": "ויענך",
+      "gloss": "そして彼はあなたを苦しめ"
+    },
+    {
+      "surface": "וירעבך",
+      "gloss": "あなたを飢えさせ"
+    },
+    {
+      "surface": "ויאכלך",
+      "gloss": "あなたに食べさせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "マナ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "マナ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "あなたは知ら"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "知らなかった"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "あなたの父祖たちも"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "הודעך",
+      "gloss": "あなたに知らせる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜によって"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "だけ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "生きる"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人は"
+    },
+    {
+      "surface": "כי",
+      "gloss": "むしろ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜によって"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "出るもの"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口から"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "生きる"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人は"
+    }
+  ],
+  "timestamp": "2026-08-07T10:11:22.015441665Z",
+  "model": "glm-5.2"
+}

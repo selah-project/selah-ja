@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 3:10",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "あなた、王よ、⟨あなたは⟩命令を立てられた——すべての人、すなわち角笛、笛、竪琴、リラ、弦楽器、あらゆる種類の楽器の音を聞く者が、金の像にひれ伏し拝むように、と。",
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王よ"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "立てられた"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "命令を"
+    },
+    {
+      "surface": "די",
+      "gloss": "──"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אנש",
+      "gloss": "人"
+    },
+    {
+      "surface": "די",
+      "gloss": "──"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "聞く"
+    },
+    {
+      "surface": "קל",
+      "gloss": "音を"
+    },
+    {
+      "surface": "קרנא",
+      "gloss": "角笛"
+    },
+    {
+      "surface": "משרקיתא",
+      "gloss": "笛"
+    },
+    {
+      "surface": "קיתרס",
+      "gloss": "竪琴"
+    },
+    {
+      "surface": "שבכא",
+      "gloss": "リラ"
+    },
+    {
+      "surface": "פסנתרין",
+      "gloss": "弦楽器"
+    },
+    {
+      "surface": "וסיפניה",
+      "gloss": "およびシンフォニア"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "およびすべての"
+    },
+    {
+      "surface": "זני",
+      "gloss": "種類の"
+    },
+    {
+      "surface": "זמרא",
+      "gloss": "楽器"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ひれ伏し"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "拝む"
+    },
+    {
+      "surface": "לצלם",
+      "gloss": "像に"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "金の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:44:25.034535274Z",
+  "model": "glm-5.2"
+}

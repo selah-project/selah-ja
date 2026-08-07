@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "町を巡っている見張りたちが私を見つけた ⟨את⟩ 私のネフェシュが愛する方を。あなた方は見ましたか。",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "彼らは私を見つけた"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "見張りたちは"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "巡っている"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町を"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私のネフェシュが愛する方"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "愛する"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私のネフェシュ"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "あなた方は見ましたか"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:32.873908394Z",
+  "model": "glm-5.2"
+}

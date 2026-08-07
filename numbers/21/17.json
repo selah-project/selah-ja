@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そのときイスラエルは⟨את⟩この歌を歌った。「井戸よ、昇れ。これに向かって歌え。」",
+  "tokens": [
+    {
+      "surface": "אָז",
+      "gloss": "そのとき"
+    },
+    {
+      "surface": "יָשִׁיר",
+      "gloss": "歌った"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "イスラエルは"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "この歌"
+    },
+    {
+      "surface": "הַשִּׁירָה",
+      "gloss": "歌"
+    },
+    {
+      "surface": "הַזֹּאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "עֲלִי",
+      "gloss": "昇れ"
+    },
+    {
+      "surface": "בְאֵר",
+      "gloss": "井戸よ"
+    },
+    {
+      "surface": "עֱנוּ",
+      "gloss": "歌え"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "これに向かって"
+    }
+  ],
+  "timestamp": "2026-08-07T09:58:41.272410741Z",
+  "model": "glm-5.2"
+}

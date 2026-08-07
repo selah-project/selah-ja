@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 14:18",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてシャウルはアヒヤに言った、「エロヒムの箱を近づけよ」。エロヒムの箱はその日イスラエルの子らと共にあったからである。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "לאחיה",
+      "gloss": "アヒヤに"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "近づけよ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "その日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "あの"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "そして子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:49.252391722Z",
+  "model": "glm-5.2"
+}

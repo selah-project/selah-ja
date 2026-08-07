@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 135,
+  "translation": "ヤハウェがご自分の民をさばかれるから。そしてご自分のしもべたちについて、⟨ご自分で⟩慰められる。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "さばかれる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ご自分の民"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜について"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ご自分のしもべたち"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "慰められる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:41.103720244Z",
+  "model": "glm-5.2"
+}

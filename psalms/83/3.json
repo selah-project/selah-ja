@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 83,
+  "translation": "見よ、 あなたの敵が 騒ぎ立て、 あなたを憎む者たちが 頭を 挙げた。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "あなたの敵が"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "騒ぎ立て"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "あなたを憎む者たちが"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "挙げた"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:51.454754714Z",
+  "model": "glm-5.2"
+}

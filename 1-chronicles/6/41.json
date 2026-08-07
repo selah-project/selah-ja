@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして⟨את⟩ その町の畑と⟨את⟩ その庭を、エフネの子カレブに与えた。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その町の畑"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "畑"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その庭"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "その庭を"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "カレブに"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "エフネ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:00.453239140Z",
+  "model": "glm-5.2"
+}

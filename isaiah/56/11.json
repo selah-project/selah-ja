@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 56:11",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 56,
+  "translation": "そして犬たちは強欲な者、満腹を知らず、彼らは牧者、理解を知らない、彼らは皆、おのおの自分の道に向かった、おのおの自分の利得に、その端から。",
+  "tokens": [
+    {
+      "surface": "והכלבים",
+      "gloss": "そして犬たちは"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "強欲な者"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "者"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ず"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知ら"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "満腹を"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "牧者"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知ら"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "理解を"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "彼らは皆"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "自分の道に"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "向かった"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "לבצעו",
+      "gloss": "自分の利得に"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "その端から"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:07.327047729Z",
+  "model": "glm-5.2"
+}

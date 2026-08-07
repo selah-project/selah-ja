@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "ダビデは野に身を隠し、新月 ⟨の⟩ ときとなり、王は食事の席に着いて食するために座した。",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "身を隠し"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "野に"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "となり"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "新月"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "座した"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "על",
+      "gloss": "に着いて"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "食事の席"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "食するために"
+    }
+  ],
+  "timestamp": "2026-08-07T16:44:31.339455503Z",
+  "model": "glm-5.2"
+}

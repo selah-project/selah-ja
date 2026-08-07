@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてダビド王は年老い、日々に入って来た。そして⟨人々は⟩彼を衣服で覆ったが、彼に温もり⟨はなかった⟩。",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "そして王は"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビド"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "年老いた"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入って来た"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "日々に"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "そして彼を覆った"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "衣服で"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜なかった"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "温もり"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:34.314530311Z",
+  "model": "glm-5.2"
+}

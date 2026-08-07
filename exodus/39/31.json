@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 39:31",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そして彼らはその上に青紫色の紐を付けた — 頭巾の上に付けるため — ヤハウェが ⟨את⟩ モーセに命じた通りに。",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "そして彼らは付けた"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "紐を"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "青紫色の"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "付けるため"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "頭巾の"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "上方に"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜通りに"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーセ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセに"
+    }
+  ],
+  "timestamp": "2026-08-07T16:29:37.770327436Z",
+  "model": "glm-5.2"
+}

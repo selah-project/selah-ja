@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "見よ、あの夜、それは不毛であってほしい、その中に歓喜の声が入らぬように。」",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "あの夜は"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "〜であってほしい"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "不毛で"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "入らないでほしい"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "歓喜の声が"
+    },
+    {
+      "surface": "בו",
+      "gloss": "その中に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:58.327820373Z",
+  "model": "glm-5.2"
+}

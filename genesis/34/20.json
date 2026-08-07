@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 34:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そしてハモルとその子シェケムは彼らの町の門に来た。そして彼らの町の人々に語って言った。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ハモル"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "そしてシェケム"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の子"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "彼らの町"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "そして彼らは語った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "〜の人々"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "彼らの町"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:28.995500196Z",
+  "model": "glm-5.2"
+}

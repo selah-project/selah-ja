@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 110,
+  "translation": "アドナイは⟨あなたの⟩右に⟨あり⟩、⟨彼の⟩怒りの日に王たちを打ち砕く。",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָ֥י",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "יְמִֽינְךָ֑",
+      "gloss": "あなたの右"
+    },
+    {
+      "surface": "מָחַ֖ץ",
+      "gloss": "打ち砕く"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "אַפּ֣וֹ",
+      "gloss": "彼の怒り"
+    },
+    {
+      "surface": "מְלָכִֽים",
+      "gloss": "王たち"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:06.069864920Z",
+  "model": "glm-5.2"
+}

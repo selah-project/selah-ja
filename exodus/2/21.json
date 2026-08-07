@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "モーセェはその人と共に住むことに同意し、彼はモーセェに自分の娘ツィポラを与えた。",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "同意した"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセェ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "住むことに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その人"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その人"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ツィポラ"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "ツィポラ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "自分の娘"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "モーセェに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:07.341539003Z",
+  "model": "glm-5.2"
+}

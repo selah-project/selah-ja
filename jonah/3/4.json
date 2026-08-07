@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてヨナは一日 ⟨の⟩道のり ⟨を⟩進んで、都 ⟨の⟩中に入り始めた。そして彼は叫び、言った — 「あと四十日、そしてニネベは転倒 ⟨させられる⟩。」",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "そして彼は…始めた"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ヨナ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "入ることを"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "都の中に"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "道のり"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして彼は叫んだ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "あと"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "そしてニネベ"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "転倒させられる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:26:03.773787122Z",
+  "model": "glm-5.2"
+}

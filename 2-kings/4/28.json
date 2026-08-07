@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "彼女は言った。「私が私の主に息子を求めたでしょうか。私が『私を欺いてはならない』と言わなかったでしょうか。」",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "彼女は言った"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "求めたでしょうか"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子を"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "私の主に"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "言った"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "欺いてはいけ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩私を",
+      "marks": "私"
+    }
+  ],
+  "timestamp": "2026-08-07T11:11:13.000935497Z",
+  "model": "glm-5.2"
+}

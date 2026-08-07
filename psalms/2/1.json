@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "なぜ諸国の民は騒ぎ立ち、諸民族はむなしいことを唸るのか。",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "騒ぎ立つ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "諸国の民"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "諸民族"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "唸る"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "むなしいこと"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:09.034618064Z",
+  "model": "glm-5.2"
+}

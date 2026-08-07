@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "牛はその所有者を知り、ろばはその主人の飼い葉桶を知る、しかしイスラエルは知らない、わたしの民は悟らない。",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛は"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "その所有者を"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ろばは"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "飼い葉桶を"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "その主人の"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "悟る"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:07.482231117Z",
+  "model": "glm-5.2"
+}

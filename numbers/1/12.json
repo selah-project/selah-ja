@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ダンには、アヒエゼル、アミシャダイの子。",
+  "tokens": [
+    {
+      "surface": "לְדָ֕ן",
+      "gloss": "ダンには"
+    },
+    {
+      "surface": "אֲחִיעֶ֖זֶר",
+      "gloss": "アヒエゼル"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "～の子"
+    },
+    {
+      "surface": "עַמִּֽישַׁדָּֽי",
+      "gloss": "アミシャダイ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:24.779349737Z",
+  "model": "glm-5.2"
+}

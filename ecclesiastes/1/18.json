@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "それは知恵の多さにおいて怒りが多く、知識を増す者が痛みを増すからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "〜の多さにおいて"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵の"
+    },
+    {
+      "surface": "רב",
+      "gloss": "多い"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "怒りが"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "そして増す者は"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識を"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "増す"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "痛みを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:27.103625393Z",
+  "model": "glm-5.2"
+}

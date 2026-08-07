@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 1:15",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてハンナは答えて言った、「いいえ、わが主よ。私は苦しい霊の女です。ぶどう酒も強い酒も飲んでいません。むしろ私は⟨את⟩私の魂をヤハウェの前に注ぎ出しました。",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "そして答えた"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "ハンナは"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לא",
+      "gloss": "いいえ（〜ない）"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "わが主よ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "苦しい"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私は〜である"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "そしてぶどう酒も"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "そして強い酒も"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "飲んだ"
+    },
+    {
+      "surface": "ואשפך",
+      "gloss": "そして注ぎ出した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の魂"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私の魂"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:04.820485064Z",
+  "model": "glm-5.2"
+}

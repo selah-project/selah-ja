@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "⟨御⟩言葉を遣わされ、それらを溶かされる。⟨御⟩風を吹かせると、水が流れ出る。",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "遣わされる"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "⟨御⟩言葉"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "それらを溶かされる"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "吹かせると"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "⟨御⟩風"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "流れ出る"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水が"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:53.701515775Z",
+  "model": "glm-5.2"
+}

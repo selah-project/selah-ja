@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 15:19",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "それなぜ、あなたはヤハウェの声に聞き従わなかったのか。そしてあなたは分捕り物に飛びかかり、ヤハウェの目に悪として行った。」",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "そしてなぜ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "あなたは聞き従った"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "声に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ותעט",
+      "gloss": "そしてあなたは飛びかかった"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "分捕り物"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "そしてあなたは行った"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:28.132369850Z",
+  "model": "glm-5.2"
+}

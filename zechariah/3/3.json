@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "さて、ヨシュアは汚れた衣をまとって、御使いの前に立っていた。",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "さてヨシュアは"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "まとって"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "衣を"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "汚れた"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "そして立っていた"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "その御使いの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:31:26.624901566Z",
+  "model": "glm-5.2"
+}

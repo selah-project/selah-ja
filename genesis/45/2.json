@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "そして彼は泣き声を上げた。ミツライム（エジプト）はそれを聞き、パロの家も聞いた。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして彼は与えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の声"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "彼の声"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "泣きにおいて"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "そして彼らは聞いた"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "そして聞いた"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:10:55.115364825Z",
+  "model": "glm-5.2"
+}

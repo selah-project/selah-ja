@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 44:16",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "その半分を火のうちに焼く。その半分で肉を食べ、焼き物を焼いて満腹する。さらに身を温めて言う。「ああ、暖かい。私は火を見た。」",
+  "tokens": [
+    {
+      "surface": "חציו",
+      "gloss": "その半分"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "焼く"
+    },
+    {
+      "surface": "במו",
+      "gloss": "〜のうちに"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜で"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "その半分"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べ"
+    },
+    {
+      "surface": "יצלה",
+      "gloss": "焼く"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "焼き物"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "そして満腹する"
+    },
+    {
+      "surface": "אף",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "身を温める"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言う"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "חמותי",
+      "gloss": "暖かい"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "אור",
+      "gloss": "火"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:59.513710533Z",
+  "model": "glm-5.2"
+}

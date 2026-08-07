@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "アシュフルには、テコアの父⟨がいた⟩。彼にはふたりの妻、ヘラとナアラがあった。",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "そしてアシュフルには"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "テコア"
+    },
+    {
+      "surface": "היו",
+      "gloss": "いた"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ふたりの"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "妻"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ヘラ"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "とナアラ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:00:52.917021992Z",
+  "model": "glm-5.2"
+}

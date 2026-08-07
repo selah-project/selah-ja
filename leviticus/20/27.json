@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 20:27",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そして男または女、彼らのうちに口寄せまたは霊媒がいるなら、死をもって死なされなければならない。石で彼らは⟨את⟩彼らを打ち殺さなければならない。彼らの血は彼らの上に⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "そして男"
+    },
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "כי",
+      "gloss": "もし〜なら"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "いる"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "彼らのうちに"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "口寄せ"
+    },
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "ידעני",
+      "gloss": "霊媒"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "死なされなければならない"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "石で"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "打ち殺さなければならない"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "彼らの血"
+    },
+    {
+      "surface": "בם",
+      "gloss": "彼らの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T16:31:20.928756700Z",
+  "model": "glm-5.2"
+}

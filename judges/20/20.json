@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてイスラエルの男たちはベニヤミンとの戦のために出た。そしてイスラエルの男たちは彼らに向かって戦の陣を敷いた、ギブアで。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして…は出た"
+    },
+    {
+      "surface": "איש",
+      "gloss": "…の男"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "戦のために"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…と"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ベニヤミン"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "そして陣を敷いた"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "彼らに向かって"
+    },
+    {
+      "surface": "איש",
+      "gloss": "…の男"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…で"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "ギブア"
+    }
+  ],
+  "timestamp": "2026-08-07T10:39:00.863424922Z",
+  "model": "glm-5.2"
+}

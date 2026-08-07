@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 7:15",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "ギデオンが⟨את⟩その夢の語りと、⟨את⟩その解きを聞くと、彼はひれ伏した。そしてイスラエルの宿営に帰り、言った、「立て。ヤハウェが⟨את⟩ミディヤンの宿営をあなたがたの手に与えられたのだから。」",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "〜となった"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "聞くと"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ギデオンが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その夢の語り"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "語り"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "その夢の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その解き"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "その解き"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ひれ伏した"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "帰り"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "宿営"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "立て"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜のだから"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "あなたがたの手に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ミディヤンの宿営"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "宿営"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ミディヤンの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:34:18.573647497Z",
+  "model": "glm-5.2"
+}

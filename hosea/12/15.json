@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 12:15",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "エフライムは苦々しい痛愤を引き起こした。だから彼の血は彼の上に置かれ、彼のそしりは彼のアドナイが彼に返す。",
+  "tokens": [
+    {
+      "surface": "הכעיס",
+      "gloss": "引き起こした"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライム"
+    },
+    {
+      "surface": "תמרורים",
+      "gloss": "苦々しい憤り"
+    },
+    {
+      "surface": "ודמיו",
+      "gloss": "そして彼の血は"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼の上に"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "置かれる"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "そして彼のそしりは"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "返す"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "彼のアドナイ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:10.835580709Z",
+  "model": "glm-5.2"
+}

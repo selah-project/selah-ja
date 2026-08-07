@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 22:14",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "アブラハムはその場所の名をヤハウェ・イルエ（ヤハウェは見ておられる）と呼んだ。それゆえ今日「ヤハウェの山において見られるであろう」と言われる。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "呼んだ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハムは"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名を"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "その場所の"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "あの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ・"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "イルエ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山において"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "見られるであろう"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:37.850487999Z",
+  "model": "glm-5.2"
+}

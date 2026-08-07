@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "彼は⟨את⟩ベイト・レヘムと⟨את⟩エイタムと⟨את⟩テコアを建てた。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "彼は…建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ベイト・レヘム"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベイト"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "レヘム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "エイタム"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "エイタム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "テコア"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "テコア"
+    }
+  ],
+  "timestamp": "2026-08-07T14:11:58.433850304Z",
+  "model": "glm-5.2"
+}

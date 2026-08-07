@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そしてダビデの二人の妻も捕らえられた — イズレエル人アヒノアムと、カルメル人ナバルの妻アビガイル。",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "そして二人の"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "妻"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "捕らえられた"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "アヒノアム"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "イズレエル人"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "とアビガイル"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ナバルの"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "カルメル人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:38.808063852Z",
+  "model": "glm-5.2"
+}

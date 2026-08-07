@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "主なるヤハウェはこう仰る——它必不成立，它必不成就。",
+  "tokens": [
+    {
+      "surface": "כֹּ֥ה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אָמַ֖ר",
+      "gloss": "仰った"
+    },
+    {
+      "surface": "אֲדֹנָ֣י",
+      "gloss": "主なる"
+    },
+    {
+      "surface": "יְהוִ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "不"
+    },
+    {
+      "surface": "תָק֖וּם",
+      "gloss": "成立"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "也不"
+    },
+    {
+      "surface": "תִּֽהְיֶֽה",
+      "gloss": "成就"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:59.473006621Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "まことに、あなたはご自身を隠されるエル、イスラエルのエロヒム、救い手。",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "ご自身を隠される"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "〜のエロヒム"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "救い手"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:15.724479518Z",
+  "model": "glm-5.2"
+}

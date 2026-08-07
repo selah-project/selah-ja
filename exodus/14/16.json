@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "あなたは ⟨את⟩あなたの杖を上げよ、そして ⟨את⟩あなたの手を海の上に伸ばし、それを裂け。そしてイスラエルの子らは海の中へ、乾いた地の上に入るだろう。」",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "そしてあなたは"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "上げよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの杖"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "あなたの杖"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "そして伸ばし"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの手"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "そしてそれを裂け"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "そして入るだろう"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "〜の中へ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "乾いた地の上に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:17.561356932Z",
+  "model": "glm-5.2"
+}

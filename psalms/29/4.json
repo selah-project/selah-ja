@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ヤハウェの声は力のうちに、ヤハウェの声は荘厳さのうちに。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "〜の声"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "力のうちに"
+    },
+    {
+      "surface": "קול",
+      "gloss": "〜の声"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "荘厳さのうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:37.989258717Z",
+  "model": "glm-5.2"
+}

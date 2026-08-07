@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてこれらはイェルシャライムで彼に生まれた。シマア、ショバブ、ナタン、シェロモー、四人、バト・シュアの、すなわちアミエルの娘の⟨による⟩。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "イェルシャライムで"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "シマア"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "およびショバブ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "およびナタン"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "およびシェロモー"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四人"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "〜の娘の"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "シュア"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "アミエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:00:37.180299794Z",
+  "model": "glm-5.2"
+}

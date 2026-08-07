@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "「見よ、わたしはあなたたちのために⟨את⟩種を叱責し、あなたたちの顔の上に糞を撒く——あなたたちの祭りの糞。そして⟨それは⟩あなたたちをそれと共に運び去る。」",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "見よ、わたしは"
+    },
+    {
+      "surface": "גער",
+      "gloss": "叱責する"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちのために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "種"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "種"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "わたしは撒く"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "糞"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "あなたたちの顔"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "糞"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "あなたたちの祭りの"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "運び去る"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたたちを"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "それと共に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:33:29.996801687Z",
+  "model": "glm-5.2"
+}

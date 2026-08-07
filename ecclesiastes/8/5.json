@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "みづからを守る者は、命令を守る者であり、悪い事を知ることはない。そして時と裁きを、知恵ある者の心は知る。",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "守る者"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "そして時"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "と裁き"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "知恵ある者"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:47.326422010Z",
+  "model": "glm-5.2"
+}

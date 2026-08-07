@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 27:14",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "自分の友を大声で祝福する者、早朝に起きて——それは呪いと数えられる、彼にとって。",
+  "tokens": [
+    {
+      "surface": "מברך",
+      "gloss": "祝福する者"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "自分の友を"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "〜の声で"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大きな"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝に"
+    },
+    {
+      "surface": "השכים",
+      "gloss": "早く起きて"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "呪い"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "数えられる"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼にとって"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:34.091554022Z",
+  "model": "glm-5.2"
+}

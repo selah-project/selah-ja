@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして私は見た ⟨את⟩ すべての労苦と、⟨את⟩ すべての業の熟達を — それは隣人に対する人のねたみにすぎない。これもまたヘベルであり、風を追うことである。",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "そして私は見た"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "労苦"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "すべての"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "熟達"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "業の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "それは〜にすぎない"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ねたみ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "隣人に対する"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ヘベル"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "追うこと"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:45.047165064Z",
+  "model": "glm-5.2"
+}

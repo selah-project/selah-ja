@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてあなたはそれのために四つの金の輪を作り、あなたは⟨את⟩その輪を四つの脚の属する四つの角の上に置かなければならない。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "そしてあなたは作る"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それのために"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四つの"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "輪"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "そしてあなたは置く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その輪"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "その輪"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四つの"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "その角"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "四つの〜の属する"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "その脚"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:52.894784442Z",
+  "model": "glm-5.2"
+}

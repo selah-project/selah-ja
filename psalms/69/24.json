@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "彼らの目が見えなくなるように暗くなり、彼らの腰が絶えず揺らぐように。",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "暗くなり"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "彼らの目が"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "見えなくなるように"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "彼らの腰が"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "絶えず"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "揺らぐように"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:21.094727139Z",
+  "model": "glm-5.2"
+}

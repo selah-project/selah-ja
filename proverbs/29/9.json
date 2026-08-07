@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "知恵ある人が愚か ⟨את⟩人と論じ合えば、彼が怒り、あるいは笑っても、安らぎはない。",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "知恵ある"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "論じ合えば"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "愚か"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "怒り"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "笑っても"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "安らぎ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:37.965681955Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 15:11",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "ヤハウェは言われた——もしあなたの自由が良きことのためでないなら、いかにして私はあなたと共に敵に立ち向かったか、悪の時に、苦難の時に。⟨את⟩敵を。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שרותך",
+      "gloss": "あなたの自由"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "良きことのため"
+    },
+    {
+      "surface": "אם",
+      "gloss": "いかにして"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "〜か"
+    },
+    {
+      "surface": "הפגעתי",
+      "gloss": "私は立ち向かった"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "〜の時に"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "そして〜の時に"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "苦難"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "敵"
+    },
+    {
+      "surface": "האיב",
+      "gloss": "敵"
+    }
+  ],
+  "timestamp": "2026-08-07T11:45:56.306759095Z",
+  "model": "glm-5.2"
+}

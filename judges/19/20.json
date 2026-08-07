@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 19:20",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして、その老人 ⟨の男⟩は言った。「平安があなたにあるように。ただ、あなたの欠けたものはすべて私の上にある。ただ、広場には泊まってはならない。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その男"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "老人 ⟨の⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "מחסורך",
+      "gloss": "あなたの欠けたもの"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私の上に"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "広場に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "泊まっては"
+    }
+  ],
+  "timestamp": "2026-08-07T10:38:43.130789736Z",
+  "model": "glm-5.2"
+}

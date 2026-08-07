@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてヨナタンは⟨את⟩自分の武具を自分の少年に与え、彼に言った。「行け。⟨את⟩それを町に運べ。」",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして与えた"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ヨナタンは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の武具"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "自分の武具を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "その少年に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼の"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "לך",
+      "gloss": "行け"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "運べ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町へ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:28.956646315Z",
+  "model": "glm-5.2"
+}

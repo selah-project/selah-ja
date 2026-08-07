@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 36:10",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そして訓戒のために彼らの耳を開き、不義から立ち返るように命じる。",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "そして開く"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "彼らの耳"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "訓戒のために"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして命じる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ように"
+    },
+    {
+      "surface": "ישבון",
+      "gloss": "彼らは立ち返る"
+    },
+    {
+      "surface": "מאון",
+      "gloss": "不義から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:29:05.075075144Z",
+  "model": "glm-5.2"
+}

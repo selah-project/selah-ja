@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてバビルの王は⟨את⟩彼らを打ち、リブラの、ハマテの地で彼らを死に至らせた。こうしてユダはその土から捕囚にされた。",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "そして打った"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビル"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "そして彼らを死に至らせた"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "リブラで"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "の地で"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ハマテ"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "こうして捕囚にされた"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "その土"
+    }
+  ],
+  "timestamp": "2026-08-07T16:55:19.440469285Z",
+  "model": "glm-5.2"
+}

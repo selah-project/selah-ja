@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 32:11",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "「エジプトから上って来た者たち、二十歳以上の者は、私がアブラハム、イツハク、ヤアコブに誓った ⟨את⟩ その地を決して見ない。全く私に従わなかったからである。」",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "見る"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "その人々"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "上って来た"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "エジプトから"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歳"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "およびそれ以上"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その地"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "その地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "私が誓った"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "アブラハムに"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "イツハクに"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "およびヤアコブに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "彼らは全く従った"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "私の後に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:03:30.347189138Z",
+  "model": "glm-5.2"
+}

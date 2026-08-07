@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてヤハウェが人を遠くに移し、地のただ中に見捨てられた所が多くなるまで。」",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "そして遠くに移す"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人を"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人を"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "そして多くなる"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "見捨てられた所が"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "⋯のただ中に"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:46.618096141Z",
+  "model": "glm-5.2"
+}

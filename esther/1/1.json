@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "さて、アハシュヴェロシュの日々に — すなわち、ホドゥからクシュまで、百二十七の州を治めていたアハシュヴェロシュ、⟨彼⟩こそその王である —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "さて…になった"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "…の日々に"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "アハシュヴェロシュ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼⟩こそ"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "アハシュヴェロシュ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "ホドゥから"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "クシュ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "と二十"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "と百"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "州"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:57.562533058Z",
+  "model": "glm-5.2"
+}

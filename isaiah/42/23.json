@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "あなたがたの中の誰がこれに耳を傾けるのか。注意を払い、後に起こることを聞き取る⟨者はいるのか⟩。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "あなたがたの中の"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "耳を傾ける"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これに"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "注意を払い"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "聞き取る"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "後に起こることを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:05.062003172Z",
+  "model": "glm-5.2"
+}

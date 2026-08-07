@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして使いたちはシャウルのギブアに来て、そのことばを民の耳に語った。そして民はすべて自分たちの声を上げて泣いた。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "使いたちは"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ギブアに"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルの"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ことばを"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "耳に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "そして上げて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分たちの声を"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "自分たちの声"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "そして泣いた"
+    }
+  ],
+  "timestamp": "2026-08-07T14:44:55.711807686Z",
+  "model": "glm-5.2"
+}

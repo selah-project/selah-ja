@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "アシェルは、アッコの住民を⟨את⟩、ツィドンの住民を⟨את⟩、アフラブを⟨את⟩、アクジブを⟨את⟩、ヘルバを⟨את⟩、アフェクを⟨את⟩、レホブを⟨את⟩追い払わなかった。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "アシェルは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ず"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "追い払った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アッコの住民"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "住民"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "アッコの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ツィドンの住民"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "住民"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ツィドンの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アフラブ"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "アフラブ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アクジブ"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "アクジブ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ヘルバ"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "ヘルバ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アフェク"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "アフェク"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "レホブ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "レホブ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:31:55.244214264Z",
+  "model": "glm-5.2"
+}

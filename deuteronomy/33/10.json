@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 33:10",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "彼らはヤコブにあなたの裁きを教え、イスラエルにあなたのトーラーを教える。彼らはあなたの鼻に香を置き、あなたの祭壇に全焼のささげ物を⟨置く⟩。",
+  "tokens": [
+    {
+      "surface": "יורו",
+      "gloss": "彼らは教える"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "あなたの裁き"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ヤコブに"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "そしてあなたのトーラー"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "イスラエルに"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "彼らは置く"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "香"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "あなたの鼻に"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "そして全焼のささげ物"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "あなたの祭壇"
+    }
+  ],
+  "timestamp": "2026-08-07T10:21:47.467294221Z",
+  "model": "glm-5.2"
+}

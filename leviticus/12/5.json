@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 12:5",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして女を産むなら、彼女は二週間汚れる。⟨彼女⟩の月経の〈おり⟩と同様に。そして六十六日間、彼女は血のきよめの上に留まる。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "女を"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "産むなら"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "そして汚れる"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "二週間"
+    },
+    {
+      "surface": "כנדתה",
+      "gloss": "彼女の月経のように"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "そして六十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "と六"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "留まる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "血の"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "きよめ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:39.941151509Z",
+  "model": "glm-5.2"
+}

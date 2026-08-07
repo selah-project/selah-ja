@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そこで王の、門におる王の侍たちはモルデカイに言った、「なぜあなたは⟨את⟩ 王の命令に背くのか」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして彼らは言った"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "侍たち"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "門におる"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "モルデカイに"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "背くのか"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王の命令"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "命令"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    }
+  ],
+  "timestamp": "2026-08-07T17:46:44.260376331Z",
+  "model": "glm-5.2"
+}

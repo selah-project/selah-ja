@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 44:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "彼らが⟨את⟩その町を出て、まだ遠く離れていなかったとき、ヨセフは家の管理者に言った。「立って、その人々の後を追え。そして彼らに追いついたなら、彼らに言え。なぜあなたたちは善に代えて悪を報いたのか」と。",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "彼ら"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出て"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その町"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "הרחיקו",
+      "gloss": "遠く離れていた"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "そしてヨセフは"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "〜である者に"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "彼の家"
+    },
+    {
+      "surface": "קום",
+      "gloss": "立って"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "追え"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "〜の後を"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "その人々"
+    },
+    {
+      "surface": "והשגתם",
+      "gloss": "そして彼らに追いついたなら"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "そして言え"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "שלמתם",
+      "gloss": "あなたたちは報いたのか"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜に代えて"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "善"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:18.708805995Z",
+  "model": "glm-5.2"
+}

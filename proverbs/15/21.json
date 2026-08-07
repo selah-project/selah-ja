@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 15:21",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "愚かさは心の足りない者にとって喜び、だが分別のある人は歩みを正す。",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "愚かさ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "喜び"
+    },
+    {
+      "surface": "לחסר",
+      "gloss": "〜にとって足りない"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "そして人は"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "分別"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "正す"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "歩む"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:45.943447306Z",
+  "model": "glm-5.2"
+}

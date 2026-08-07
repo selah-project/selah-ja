@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "彼らの実を地から滅ぼし、彼らの子孫を人の子らの中から⟨滅ぼす⟩。",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "彼らの実を"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "地から"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "滅ぼし"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "彼らの子孫を"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "〜の子らの中から"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:17.021004410Z",
+  "model": "glm-5.2"
+}

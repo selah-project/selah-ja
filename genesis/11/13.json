@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 11:13",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてアルパクシャドはシャラフを⟨את⟩生んでから後、三年と四百年生き、息子たちと娘たちを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "そして生きた"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "アルパクシャド"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "後"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "彼が生んでから"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シャラフ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "シャラフ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "と四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "そして生んだ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "と娘たち"
+    }
+  ],
+  "timestamp": "2026-08-07T16:22:48.196159012Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 125,
+  "translation": "イェルシャライム — 山々がその周りを囲むように、ヤハウェも⟨その⟩民の周りを囲まれる、今からとこしえまで。",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライム"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山々が"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周りを囲むように"
+    },
+    {
+      "surface": "לה",
+      "gloss": "その"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ヤハウェも"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周りを囲まれる"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "民の"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "今から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "とこしえ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:06.778663714Z",
+  "model": "glm-5.2"
+}

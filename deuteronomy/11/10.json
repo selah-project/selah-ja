@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 11:10",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "あなたがそこへ入ってこれを所有しようとしている地は、あなた方が出て来たミツライム（エジプト）の地のようではない。そこではあなたは⟨את⟩あなたの種を蒔き、菜園のように足で水を引いていた。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入って"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこへ"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "これを所有するために"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "〜の地のよう"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "あなた方が出て来た"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "あなたは蒔き"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの種を"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "あなたの種を"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "そして水を引いていた"
+    },
+    {
+      "surface": "ברגלך",
+      "gloss": "あなたの足で"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "〜の園のように"
+    },
+    {
+      "surface": "הירק",
+      "gloss": "菜"
+    }
+  ],
+  "timestamp": "2026-08-07T10:10:53.713761319Z",
+  "model": "glm-5.2"
+}

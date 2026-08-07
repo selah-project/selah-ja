@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "レビの子らのうちから、その諸氏族により、その父祖の家により、ケハトの子らの頭⟨את⟩を数えよ。",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "上げよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "頭（ケハトの子らの）"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭を"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ケハト"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "…のうちから"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "レビ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "その諸氏族により"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…の家により"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "その父祖の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:56.679384892Z",
+  "model": "glm-5.2"
+}

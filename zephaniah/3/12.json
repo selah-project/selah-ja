@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 3:12",
+  "book": "zephaniah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "わたしはあなたのうちに、苦しむ民と貧しい民とを残し、彼らはヤハウェの御名に身を避ける",
+  "tokens": [
+    {
+      "surface": "והשארתי",
+      "gloss": "わたしは……残し"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "あなたのうちに"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民を"
+    },
+    {
+      "surface": "עני",
+      "gloss": "苦しむ"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "貧しい"
+    },
+    {
+      "surface": "וחסו",
+      "gloss": "彼らは身を避け"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "……の御名に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T17:15:33.202892626Z",
+  "model": "glm-5.2"
+}

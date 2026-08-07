@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "耳をそむけて ‹トーラー› を聞くことから ⟨離す者⟩ — ⟨彼の⟩祈りさえ忌み嫌われるものとなる。",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "離す者"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "彼の耳を"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "聞くことから"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "トーラー"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜さえ"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "彼の祈り"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "忌み嫌われるもの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:37.947580816Z",
+  "model": "glm-5.2"
+}

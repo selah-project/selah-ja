@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 12:2",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "あなたは彼らを植え、彼らは根を下ろした。彼らは進み、また実を結んだ。あなたは彼らの口には近く、彼らの腎臓⟨すなわち心⟩からは遠い。",
+  "tokens": [
+    {
+      "surface": "נטעתם",
+      "gloss": "あなたは彼らを植え"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "彼らは根を下ろした"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "彼らは進み"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "彼らは結んだ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "実を"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "近い"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "彼らの口には"
+    },
+    {
+      "surface": "ורחוק",
+      "gloss": "そして遠い"
+    },
+    {
+      "surface": "מכליותיהם",
+      "gloss": "彼らの腎臓から"
+    }
+  ],
+  "timestamp": "2026-08-07T11:44:53.106711810Z",
+  "model": "glm-5.2"
+}

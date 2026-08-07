@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 4:14",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼は言った、「では彼女のために何をすればよいのか」。ゲハジは答えた、「ああ、彼女には息子がおらず、その夫は年老いています」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "では何を"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "するために"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女の"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして答えた"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "ゲハジ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子が"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女には"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "そして彼女の夫は"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "年老いている"
+    }
+  ],
+  "timestamp": "2026-08-07T11:11:32.714963531Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "あなたの戒めから私は理解を得る、それゆえ私はあらゆる偽りの道を憎んだ。",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "あなたの戒めから"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "私は理解を得る"
+    },
+    {
+      "surface": "על",
+      "gloss": "それに"
+    },
+    {
+      "surface": "כן",
+      "gloss": "基づいて"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "私は憎んだ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "あらゆる"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "道を"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りの"
+    }
+  ],
+  "timestamp": "2026-08-07T17:22:31.248774468Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "わたしはあなたをわたしのものとして婚約させる — 真実のうちに。そしてあなたはヤハウェを知るであろう。",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "わたしはあなたを婚約させる"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "真実のうちに"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "あなたは知る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:17:54.887898476Z",
+  "model": "glm-5.2"
+}

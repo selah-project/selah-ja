@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "喜ぶ心は癒しを良くし、打たれた霊は骨を乾かす。",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "喜ぶ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "良くする"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "癒し"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "そして霊"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "打たれた"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "乾かす"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "骨"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:12.338279964Z",
+  "model": "glm-5.2"
+}

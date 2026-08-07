@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 18:22",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "彼が行ったすべての背反は、彼に覚えられることはない。彼が行った彼の義のゆえに、彼は生きる。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "彼の背反"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "彼が行った"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "覚えられる"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בצדקתו",
+      "gloss": "彼の義において"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "彼が行った"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "彼は生きる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:06:20.469565603Z",
+  "model": "glm-5.2"
+}

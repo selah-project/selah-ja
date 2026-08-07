@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして、⟨את⟩幕屋を立てた日に、雲が⟨את⟩幕屋を、あかしの天幕として覆った。そして夕べには、朝まで火の外観のように⟨幕屋⟩の上にあった。",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "そして…の日に"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "立てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "幕屋"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "覆った"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲が"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "幕屋"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋を"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "天幕として"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "あかしの"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "そして夕べには"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "על",
+      "gloss": "の上に"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "外観のように"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火の"
+    },
+    {
+      "surface": "עד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "朝"
+    }
+  ],
+  "timestamp": "2026-08-07T14:23:26.270816348Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてすべての民は聞いて、恐れ、もはや思い上がらないであろう。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "聞いて"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "恐れ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "思い上がる"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:03.450291740Z",
+  "model": "glm-5.2"
+}

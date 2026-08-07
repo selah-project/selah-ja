@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 14:5",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして彼はユダに城壁のある都市々々を築いた。地は静まっていたからであり、これらの年に彼と共に戦争がなかった。ヤハウェが彼に安息を与えられたからである。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "そして彼は築いた"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "都市々々を"
+    },
+    {
+      "surface": "מצורה",
+      "gloss": "城壁のある"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ユダに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だからである"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "静まっていた"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして〜がなかった"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦争が"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "〜の年に"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だからである"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "与えられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:37.938863414Z",
+  "model": "glm-5.2"
+}

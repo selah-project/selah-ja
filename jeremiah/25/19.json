@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "すなわち ⟨את⟩ パロ、ミツライムの王、および ⟨את⟩ そのしもべたち、および ⟨את⟩ その高官たち、および ⟨את⟩ そのすべての民。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "パロ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "そのしもべたち"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "そのしもべたち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "その高官たち"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "その高官たち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "そのすべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "その民"
+    }
+  ],
+  "timestamp": "2026-08-07T11:49:31.147388839Z",
+  "model": "glm-5.2"
+}

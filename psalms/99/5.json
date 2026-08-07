@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 99,
+  "translation": "ヤハウェ私たちのエロヒムを高く上げよ、⟨そして⟩彼の足台にひれ伏せ、聖なる方⟨である⟩。",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "高く上げよ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "私たちのエロヒム"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "⟨そして⟩ひれ伏せ"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "足台に"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "彼の足の"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖なる方"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨である⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:21.923138396Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 107:36",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "そこに飢えた者たちを住まわせ、彼らは居住のために都市を備え立てる。",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "住まわせ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "飢えた者たちを"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "彼らは…を備え立てる"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "都市を"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "居住のために"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:41.173415309Z",
+  "model": "glm-5.2"
+}

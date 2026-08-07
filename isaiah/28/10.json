@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "「命令に命令、命令に命令、線に線、線に線、ここに少し、そこに少し」と。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "「"
+    },
+    {
+      "surface": "צו",
+      "gloss": "命令に"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "命令"
+    },
+    {
+      "surface": "צו",
+      "gloss": "命令に"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "命令"
+    },
+    {
+      "surface": "קו",
+      "gloss": "線に"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "線"
+    },
+    {
+      "surface": "קו",
+      "gloss": "線に"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "線"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "少し"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ここに"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "少し"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:31.635140320Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼は⟨את⟩渡りカラスを放った。それは出ては戻りを繰り返した、水が地から乾くまで。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして彼は放った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "渡りカラスを"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "渡りカラス"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "それは出た"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "出ては"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "戻り"
+    },
+    {
+      "surface": "עד",
+      "gloss": "～するまで"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "乾く"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水が"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "～から"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:23.717801003Z",
+  "model": "glm-5.2"
+}

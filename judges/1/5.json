@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして彼らはベゼクで ⟨את⟩ アドニ・ベゼクを見つけ、彼と戦い、⟨את⟩ カナン人と ⟨את⟩ ペリジ人を打った。",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "そして彼らは見つけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アドニ・ベゼク"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドニ"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "・ベゼク"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "ベゼクで"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "そして彼らは戦った"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼と"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "そして彼らは打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "カナン人"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "カナン人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ペリジ人"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ペリジ人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:31:19.988372522Z",
+  "model": "glm-5.2"
+}

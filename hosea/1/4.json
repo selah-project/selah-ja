@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ヤハウェは彼に言われた。「その名をイズレエルと呼べ。まだ少しの間で、わたしは⟨את⟩イズレエルの血をイエフの家の上に訪問し、イスラエルの家の王国を終わらせるゆえに。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼べ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "その名を"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "イズレエル"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ゆえに"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "まだ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "少しの間"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "わたしは訪問する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イズレエルの血"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "血を"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "イズレエルの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "イエフの"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "そして終わらせる"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "王国を"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:17:57.335665811Z",
+  "model": "glm-5.2"
+}

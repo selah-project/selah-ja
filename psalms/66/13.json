@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "私はあなたの家に全焼のささげ物と共に入り、あなたに私の誓いを果たします、",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "私は入る"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "あなたの家に"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "全焼のささげ物と共に"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "私は果たす"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "私の誓いを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:52.379756683Z",
+  "model": "glm-5.2"
+}

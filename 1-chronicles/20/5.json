@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "さらに戦いが⟨あった⟩、⟨את⟩ペリシテ人と。そしてエルハナンが打った—ヤアルの子が—⟨את⟩ラフミを、ゴリヤテ・ハ・ギティの兄弟を。彼の槍の柄は機織り人の梁のようであった。",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "そして…あった"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦い"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ペリシテ人"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "そして打った"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "エルハナン"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "ヤアル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ラフミ"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ラフミ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "…の兄弟"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "ゴリヤテ"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "ハ・ギティ"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "そして…の柄"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "彼の槍"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "…の梁のようで"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "機織り人"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:16.576407035Z",
+  "model": "glm-5.2"
+}

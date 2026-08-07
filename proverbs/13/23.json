@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "貧しい者の耕地には食物が豊かにあるが、裁きの欠如によって掃い去られるものがある。",
+  "tokens": [
+    {
+      "surface": "רָב",
+      "gloss": "豊かにある"
+    },
+    {
+      "surface": "אֹ֭כֶל",
+      "gloss": "食物"
+    },
+    {
+      "surface": "נִ֣יר",
+      "gloss": "耕地"
+    },
+    {
+      "surface": "רָאשִׁ֑ים",
+      "gloss": "貧しい者の"
+    },
+    {
+      "surface": "וְיֵ֥שׁ",
+      "gloss": "ある"
+    },
+    {
+      "surface": "נִ֝סְפֶּ֗ה",
+      "gloss": "掃い去られるもの"
+    },
+    {
+      "surface": "בְּלֹ֣א",
+      "gloss": "〜の欠如によって"
+    },
+    {
+      "surface": "מִשְׁפָּֽט",
+      "gloss": "裁き"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:09.524246760Z",
+  "model": "glm-5.2"
+}

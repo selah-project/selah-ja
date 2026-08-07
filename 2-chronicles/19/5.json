@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして彼は地に裁き人を立てた。ユダのすべての城壁のある町々に、町ごとに。",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "そして彼は立てた"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "裁き人たちを"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "町々に"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "城壁のある"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "町ごとに"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "町に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:15:17.837621632Z",
+  "model": "glm-5.2"
+}

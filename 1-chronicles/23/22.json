@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 23:22",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "エルアザルは死に、彼には息子たちがいなかった、ただ娘たちだけであった。そしてキシュの子ら、彼女たちの兄弟たちが、彼女たちを娶った。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "エルアザル"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "היו",
+      "gloss": "いた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜のみ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "娘たち"
+    },
+    {
+      "surface": "וישאום",
+      "gloss": "そして彼女たちを娶った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "キシュ"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "彼女たちの兄弟たち"
+    }
+  ],
+  "timestamp": "2026-08-07T14:08:00.700366139Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "干草は裸にされ、若草は現れ、山の草は集められる。",
+  "tokens": [
+    {
+      "surface": "גָּלָ֣ה",
+      "gloss": "裸にされ"
+    },
+    {
+      "surface": "חָ֭צִיר",
+      "gloss": "干草は"
+    },
+    {
+      "surface": "וְנִרְאָה",
+      "gloss": "現れ"
+    },
+    {
+      "surface": "דֶ֑שֶׁא",
+      "gloss": "若草は"
+    },
+    {
+      "surface": "וְנֶאֶסְפ֗וּ",
+      "gloss": "集められる"
+    },
+    {
+      "surface": "עִשְּׂב֥וֹת",
+      "gloss": "草は"
+    },
+    {
+      "surface": "הָרִֽים",
+      "gloss": "山の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:53.181307344Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "「この会衆の中から離れよ。そうすれば、わたしは彼らを瞬時のうちに滅ぼし尽くす。」",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "離れよ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "〜の中から"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "会衆"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "そしてわたしは滅ぼし尽くす"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "瞬時のうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:56:59.070469863Z",
+  "model": "glm-5.2"
+}

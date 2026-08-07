@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 2:2",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "わたしはモアブに火を送る。それはケリヨットの城館を焼き尽くす。モアブは騒ぎの中に、鬨の声の中に、角笛の音の中に死ぬ。",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "わたしは…送る"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火を"
+    },
+    {
+      "surface": "במואב",
+      "gloss": "モアブに"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "それは焼き尽くす"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "城館"
+    },
+    {
+      "surface": "הקריות",
+      "gloss": "ケリヨットの"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "…は死ぬ"
+    },
+    {
+      "surface": "בשאון",
+      "gloss": "騒ぎの中に"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "鬨の声の中に"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "音の中に"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "角笛の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:22:01.232797866Z",
+  "model": "glm-5.2"
+}

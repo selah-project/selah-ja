@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "カレブ、エフネの子の⟨子ら⟩は、イル、エラ、ナアム。エラの⟨子ら⟩は、ケナズ。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "～の子ら"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "カレブ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "～の子"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "エフネ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "イル"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "エラ"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "ナアム"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "～の子ら"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "エラ"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "ケナズ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:10.100092107Z",
+  "model": "glm-5.2"
+}

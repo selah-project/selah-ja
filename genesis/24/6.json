@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そしてアブラハムは彼に言った——あなた自身を守れ。私の息子をあそこへ連れ戻さないように。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハムは"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "守れ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなた自身を"
+    },
+    {
+      "surface": "פן",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "あなたは連れ戻す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の息子"
+    },
+    {
+      "surface": "בני",
+      "gloss": "私の息子"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "あそこへ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:57:10.435439329Z",
+  "model": "glm-5.2"
+}

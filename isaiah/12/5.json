@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "ヤハウェに向かって弦を鳴らせ、まことに高き栄光をなされたからだ。これを全地において知らせよ。",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "弦を鳴らせ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "高き栄光"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "なされた"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "知らせよ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これを"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地において"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:38.059630817Z",
+  "model": "glm-5.2"
+}

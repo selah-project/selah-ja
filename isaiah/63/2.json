@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 63,
+  "translation": "なぜあなたの衣は赤く、あなたの衣は酒ぶねを踏む者のよう ⟨なのか⟩。",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "赤く"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "あなたの衣は"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "あなたの衣は"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "踏む者のよう"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "酒ぶねを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:37:56.157577305Z",
+  "model": "glm-5.2"
+}

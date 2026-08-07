@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして彼に近い処女である彼の姉妹——ひとりの夫を持たなかった彼女のために——彼女のために彼は汚れてもよい。」",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "そして彼の姉妹のため"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "処女"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "近い"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "であった"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ひとりの夫に"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女のために"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "彼は汚れてもよい"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:08.286482390Z",
+  "model": "glm-5.2"
+}

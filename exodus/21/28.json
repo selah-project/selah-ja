@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして、もし雄牛が⟨את⟩男、あるいは⟨את⟩女を角で突いて、死なせるなら、その雄牛は必ず石で打たれて殺されなければならない。その肉は食べてはならず、その雄牛の所有者は無罪である。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "角で突く"
+    },
+    {
+      "surface": "שור",
+      "gloss": "雄牛が"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "男"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "女"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "そして死ぬ"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "石打ちに"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "殺されなければならない"
+    },
+    {
+      "surface": "השור",
+      "gloss": "その雄牛は"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ではなく"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その肉"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "その肉"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "そして所有者"
+    },
+    {
+      "surface": "השור",
+      "gloss": "その雄牛の"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "無罪である"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:29.169532328Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "エロヒムはわたしたちの避け所、また力。苦難において助けとして、極めて確かに見いだされる方。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "わたしたちの"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "避け所"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "また力"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "助けとして"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "苦難において"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "見いだされる"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極めて確かに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:21.620882265Z",
+  "model": "glm-5.2"
+}

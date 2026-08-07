@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "⟨御方は⟩私たちのネフェシュを命のうちに置き、私たちの足がすべることをお許しにならなかった。",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "置かれた"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "私たちのネフェシュを"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "命のうちに"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "お許しにならなかった"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "すべることを"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "私たちの足が"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:43.335840095Z",
+  "model": "glm-5.2"
+}

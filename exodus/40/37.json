@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そしてもし ⟨その⟩ 雲が上らなかったら、彼らは旅立たなかった、それが上る ⟨その⟩ 日まで。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "上る"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "その雲"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "旅立つ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "それが上る"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:54.225670429Z",
+  "model": "glm-5.2"
+}

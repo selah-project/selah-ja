@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 97,
+  "translation": "火が⟨彼の⟩前を進み、⟨彼の⟩敵の回りを焼き尽くす。",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "火が"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "⟨彼の⟩前を"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "進み"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "焼き尽くす"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "回りを"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "⟨彼の⟩敵の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:44.736356756Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "野のすべての獣に水を飲ませ、野ろばたちはその渇きを癒やす。",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "水を飲ませる"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "獣に"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "野の"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "〜は癒やす"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "野ろばたち"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "その渇きを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:53.627037846Z",
+  "model": "glm-5.2"
+}

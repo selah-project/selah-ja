@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "これらはヤハウェの定めの祭、聖なる召集であり、あなたたちがその定めの時に召集すべき⟨את⟩ものである。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "定めの祭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "召集"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "あなたたちが召集する"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それらを"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "その定めの時に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:05.380356057Z",
+  "model": "glm-5.2"
+}

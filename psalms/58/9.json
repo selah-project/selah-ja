@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 58,
+  "translation": "溶けていく巻貝のように、⟨彼らは⟩歩み去る。女の流産⟨児⟩のように、太陽を見なかった⟨者のように⟩。",
+  "tokens": [
+    {
+      "surface": "כְּמ֣וֹ",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "שַׁ֭בְּלוּל",
+      "gloss": "巻貝"
+    },
+    {
+      "surface": "תֶּ֣מֶס",
+      "gloss": "溶けていく"
+    },
+    {
+      "surface": "יַהֲלֹ֑ךְ",
+      "gloss": "歩み去る"
+    },
+    {
+      "surface": "נֵ֥פֶל",
+      "gloss": "流産児"
+    },
+    {
+      "surface": "אֵ֝֗שֶׁת",
+      "gloss": "女の"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "חָ֥זוּ",
+      "gloss": "見"
+    },
+    {
+      "surface": "שָֽׁמֶשׁ",
+      "gloss": "太陽を"
+    }
+  ],
+  "timestamp": "2026-08-07T17:19:33.483841610Z",
+  "model": "glm-5.2"
+}

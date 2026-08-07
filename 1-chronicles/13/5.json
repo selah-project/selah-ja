@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてダヴィドは⟨את⟩全イスラエルを集めた、シュィホル・ミツライム（エジプトの）入口からレボ・ハマテの入口まで、エロヒムの⟨את⟩箱をキルヤト・エアリムから運び来るために。",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "そして集めた"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全イスラエル"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "シュィホル"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "入口"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ハマテ"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "運び来るために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "箱"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "から"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "キルヤト・エアリム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:52.274247227Z",
+  "model": "glm-5.2"
+}

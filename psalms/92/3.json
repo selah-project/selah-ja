@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 92,
+  "translation": "告げ知らせるため、朝に、あなたのヘセドを。そしてあなたの真実さを、夜々に。",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "告げ知らせるため"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝に"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "あなたのヘセドを"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "そしてあなたの真実さを"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "夜々に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:21.677982067Z",
+  "model": "glm-5.2"
+}

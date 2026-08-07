@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "彼らの顔を恐れてはならない。わたしはあなたと共にいる。あなたを救い出すために。――ヤハウェの御告げ。」",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "あなたは恐れる"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "彼らの顔の前で"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしはいる"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "あなたを救い出すために"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:38:34.214865451Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして彼らは彼を馬に乗せ、彼を先祖たちとともにユダの町に葬った。",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "そして彼を乗せた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "そして葬った"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の先祖たち"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "〜の町に"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:16:32.285708762Z",
+  "model": "glm-5.2"
+}

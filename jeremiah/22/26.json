@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "わたしはあなたを、またあなたを産んだあなたの母を⟨את⟩、あなたがたがそこで生まれなかったほかの地に投げ出し、そこであなたがたは死のう。",
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "わたしは…投げ出し"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "あなた"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの母"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "あなたの母を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "あなたを産んだ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ほかの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "あなたがたは生まれ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "あなたがたは死のう"
+    }
+  ],
+  "timestamp": "2026-08-07T11:47:30.069011230Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 7:7",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "王は怒りをもって酒の宴から立ち上がり、離宮の庭へ⟨行った⟩。そしてハマンは、王から自分に向けて災いが決定されたのを見たので、エステル王妃に自分の命について願い出るために立っていた。",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "そして王は"
+    },
+    {
+      "surface": "קם",
+      "gloss": "立ち上がった"
+    },
+    {
+      "surface": "בחמתו",
+      "gloss": "彼の怒りにおいて"
+    },
+    {
+      "surface": "ממשתה",
+      "gloss": "〜の宴から"
+    },
+    {
+      "surface": "היין",
+      "gloss": "酒の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "גנת",
+      "gloss": "庭の"
+    },
+    {
+      "surface": "הביתן",
+      "gloss": "離宮"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "そしてハマン"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "立った"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "願い求めるために"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "彼の命"
+    },
+    {
+      "surface": "מאסתר",
+      "gloss": "エステルに"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "王妃"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "彼が見たから"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということ"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "決定された"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に向けて"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "災いが"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-08-07T13:43:50.844782521Z",
+  "model": "glm-5.2"
+}

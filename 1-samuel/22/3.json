@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 22:3",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "ダビデはそこからモアブのミツパへ行った。そしてモアブの王に言った。「どうか私の父と母があなたがたのもとから出て来て、あなたがたと共にいてくださいますように。エロヒムが私に何をなさるかを私が知るまで。」",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして……行った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "ミツパへ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブの"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして……言った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "……に"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブの"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出て来てくださいますように"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "私の父"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "と私の母が"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたがたと共に"
+    },
+    {
+      "surface": "עד",
+      "gloss": "……まで"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……する"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "私が知る"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "……なさるか"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:13.233625668Z",
+  "model": "glm-5.2"
+}

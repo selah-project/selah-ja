@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "すると彼らは苦境のうちにヤハウェに向かって叫び、ご自分の苦難たちから彼らを救い出された",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "すると彼らは叫んだ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "苦境のうちに"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らの"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "彼らの苦難たちから"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "彼らを救い出された"
+    }
+  ],
+  "timestamp": "2026-08-07T17:21:50.205947787Z",
+  "model": "glm-5.2"
+}

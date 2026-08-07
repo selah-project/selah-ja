@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "カインはヤハウェに言った。「私の咎は大きく、⟨負いきれない⟩。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "קין",
+      "gloss": "カイン"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大きい"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "私の咎"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "耐え得る（こと）"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:02.585169298Z",
+  "model": "glm-5.2"
+}

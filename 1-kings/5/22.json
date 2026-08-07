@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そしてヒラムはシェロモに遣わして言った、「あなたが私に遣わした ⟨את⟩ ⟨その⟩ことを私は聞いた。私はあなたの望みのすべてを、杉の木と糸杉の木とで果たそう」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…遣わした"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ヒラムは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "私は聞いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたが私に遣わしたこと"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…こと"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "あなたは遣わした"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "果たそう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの望みのすべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "あなたの望み"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "…の木で"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "杉"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "そして…の木で"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "糸杉"
+    }
+  ],
+  "timestamp": "2026-08-07T16:48:54.999765825Z",
+  "model": "glm-5.2"
+}

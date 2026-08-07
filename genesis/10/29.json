@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして⟨את⟩ オフィル、そして⟨את⟩ ハヴィラ、そして⟨את⟩ ヨバブ。これらはすべて、ヨクタンの子らである。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "オフィル"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "オフィル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ハヴィラ"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "ハヴィラ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ヨバブ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ヨバブ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "ヨクタン"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:28.139307794Z",
+  "model": "glm-5.2"
+}

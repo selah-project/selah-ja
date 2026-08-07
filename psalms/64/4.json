@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 64,
+  "translation": "刃のようにその舌を研ぎ澄まし、矢として苦い言葉を射る者たち。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "〜する者たち"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "研ぎ澄まし"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "刃のように"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "その舌を"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "射る"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "彼らの矢として"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "言葉を"
+    },
+    {
+      "surface": "מר",
+      "gloss": "苦い"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:48.796593046Z",
+  "model": "glm-5.2"
+}

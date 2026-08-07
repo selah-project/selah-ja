@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "聖歌隊の指揮者に⟨のために⟩。ダビデの⟨ための⟩賛美⟨の詩⟩。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "聖歌隊の指揮者に⟨のために⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "賛美⟨の詩⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデの⟨ための⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:42.951631412Z",
+  "model": "glm-5.2"
+}

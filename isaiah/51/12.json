@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "わたし、このわたしこそ、あなたがたを慰める者である。あなたは何者であって、死すべき人間を恐れ、草のように与えられるアダムの子を恐れるのか。",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "わたし"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "このわたし"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "こそ"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "あなたがたを慰める者である"
+    },
+    {
+      "surface": "מי",
+      "gloss": "何者であって"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなた"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "人間を"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死すべき"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "〜の子を"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "アダム"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草のように"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "与えられる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:19.117050570Z",
+  "model": "glm-5.2"
+}

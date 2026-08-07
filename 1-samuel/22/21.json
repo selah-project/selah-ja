@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "アビヤタルはダビデに告げた。シャウルがヤハウェの祭司たちを殺した、と。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "アビヤタルは"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということ"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "殺した"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの祭司たち"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:25.957600431Z",
+  "model": "glm-5.2"
+}

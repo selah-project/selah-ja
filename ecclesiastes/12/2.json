@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "太陽と光と月と星々が暗くならないうちに、そして雲が雨の後に戻らないうちに。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "〜の間に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜うちに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "暗くされる"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "そして光"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "そして月"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "そして星々"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "そして戻る"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "雲"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "〜の後に"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "雨"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:35.507507689Z",
+  "model": "glm-5.2"
+}

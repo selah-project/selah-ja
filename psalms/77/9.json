@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 77,
+  "translation": "永遠に彼のヘセドは絶え果てたのか。代々に向かってことばは終わったのか。",
+  "tokens": [
+    {
+      "surface": "הֶאָפֵ֣ס",
+      "gloss": "絶え果てたのか"
+    },
+    {
+      "surface": "לָנֶ֣צַח",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "חַסְדּ֑וֹ",
+      "gloss": "彼のヘセド"
+    },
+    {
+      "surface": "גָּ֥מַר",
+      "gloss": "終わったのか"
+    },
+    {
+      "surface": "אֹ֝֗מֶר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "לְדֹ֣ר",
+      "gloss": "代々に向かって"
+    },
+    {
+      "surface": "וָדֹֽר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:38.636028671Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "「そして今、私の頭は私を囲む敵の上に高く上げられる。私はご自身の天幕で歓呼のいけにえを捧げ、歌い、ヤハウェに楽を奏でる。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "高く上げられる"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "私の頭は"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "私の敵"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "私を囲む"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "私は捧げる"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "ご自身の天幕で"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "いけにえを"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "歓呼の"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "私は歌う"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "楽を奏でる"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:12.679437615Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 7:22",
+  "book": "ezra",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "銀一百タラントまで、小麦一百コルまで、ぶどう酒一百バトまで、油一百バトまで、そして塩は規定なしに。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ככרין",
+      "gloss": "タラント"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "そしてまで"
+    },
+    {
+      "surface": "חנטין",
+      "gloss": "小麦"
+    },
+    {
+      "surface": "כרין",
+      "gloss": "コル"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "そしてまで"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ぶどう酒"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "バト"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "そしてまで"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "バト"
+    },
+    {
+      "surface": "משח",
+      "gloss": "油"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "ומלח",
+      "gloss": "そして塩"
+    },
+    {
+      "surface": "די",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "規定"
+    }
+  ],
+  "timestamp": "2026-08-07T13:52:37.754183500Z",
+  "model": "glm-5.2"
+}

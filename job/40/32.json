@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "あなたの手のひらを彼の上に置け。戦いを思い出せ — もはや⟨続けるな>。",
+  "tokens": [
+    {
+      "surface": "שִׂים",
+      "gloss": "置け"
+    },
+    {
+      "surface": "עָלָ֥יו",
+      "gloss": "彼の上に"
+    },
+    {
+      "surface": "כַּפֶּ֑ךָ",
+      "gloss": "あなたの手のひらを"
+    },
+    {
+      "surface": "זְכֹ֥ר",
+      "gloss": "思い出せ"
+    },
+    {
+      "surface": "מִ֝לְחָמָ֗ה",
+      "gloss": "戦いを"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תּוֹסַֽף",
+      "gloss": "加える"
+    }
+  ],
+  "timestamp": "2026-08-07T13:32:26.011570104Z",
+  "model": "glm-5.2"
+}

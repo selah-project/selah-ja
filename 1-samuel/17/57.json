@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-samuel 17:57",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "ダビデがペリシテ人を打って⟨את⟩の殺害から戻ったとき、アブネルは彼を取って、シャウルの前に連れてきた。ペリシテ人の頭が彼の手の中にあった。",
+  "tokens": [
+    {
+      "surface": "וכשוב",
+      "gloss": "戻ったとき"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "打って"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ペリシテ人"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ペリシテ人"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "取って"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "アブネル"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "彼を連れてきた"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "前"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ペリシテ人の"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "彼の手の中に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:57.874085050Z",
+  "model": "glm-5.2"
+}

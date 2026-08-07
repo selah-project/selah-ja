@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "それゆえ、ヤハウェは私に報いてくださった — 私の義にしたがって、私の手の清さにしたがって、⟨彼の⟩目の前に。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "それゆえ報いてくださった"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "私の義にしたがって"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "〜の清さにしたがって"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "私の手の"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "彼の目の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:36.490544674Z",
+  "model": "glm-5.2"
+}

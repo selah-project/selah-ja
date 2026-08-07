@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "強い者から獲物が取り去られようか。そして正しい者の捕虜が救い出されようか。",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "取り去られようか"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "強い者から"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "獲物が"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "そして〜か"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "捕虜が"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しい者の"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "救い出されようか"
+    }
+  ],
+  "timestamp": "2026-08-07T11:33:11.964608041Z",
+  "model": "glm-5.2"
+}

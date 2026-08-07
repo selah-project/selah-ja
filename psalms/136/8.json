@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 136,
+  "translation": "⟨את⟩太陽を昼の支配のために、そのヘセドはとこしへまで",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "太陽"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "支配のために"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "昼"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしへまで"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "そのヘセド"
+    }
+  ],
+  "timestamp": "2026-08-07T17:23:14.209152696Z",
+  "model": "glm-5.2"
+}

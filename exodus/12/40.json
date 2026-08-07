@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 12:40",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして、イスラエルの子らがミツライムに住んでいた滞在⟨は⟩、三十年と四百年⟨であった⟩。",
+  "tokens": [
+    {
+      "surface": "ומושב",
+      "gloss": "そして滞在"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…が"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "住んでいた"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ミツライムに"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "と四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:28.589093990Z",
+  "model": "glm-5.2"
+}

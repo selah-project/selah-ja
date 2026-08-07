@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "もし彼がほかの⟨女⟩を自分の⟨ために⟩娶るなら、彼女の食物、彼女の衣、および彼女の寝床の権利を減らしてはならない。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ほかの"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "彼が娶るなら"
+    },
+    {
+      "surface": "לו",
+      "gloss": "自分の"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "彼女の食物"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "彼女の衣"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "および彼女の寝床の権利"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "減らしてはならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:17.055864636Z",
+  "model": "glm-5.2"
+}

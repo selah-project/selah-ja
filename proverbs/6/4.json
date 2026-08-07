@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "あなたの目に眠りを与えるな、あなたのまぶたにまどろみを。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "眠りを"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "あなたの目に"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "そしてまどろみを"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "あなたのまぶたに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:09:09.231285329Z",
+  "model": "glm-5.2"
+}

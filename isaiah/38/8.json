@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 38:8",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "見よ、わたしはアハズの階段の上で、太陽によって、後ろに十段、下った影を、 ⟨את⟩ 引き戻す。そして太陽は、それが下った階段において、十段戻った。",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "引き戻す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "影"
+    },
+    {
+      "surface": "צל",
+      "gloss": "影"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "階段の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "下った"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "階段において"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "アハズ"
+    },
+    {
+      "surface": "בשמש",
+      "gloss": "太陽によって"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "後ろに"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "段"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "そして戻った"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽は"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "段"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "階段において"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "下った"
+    }
+  ],
+  "timestamp": "2026-08-07T16:57:48.917736345Z",
+  "model": "glm-5.2"
+}

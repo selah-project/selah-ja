@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "ある人が彼を見つけた — 見よ、彼は野でさまよっていた — そしてその人は彼に尋ねて言った、「何をあなたは探しているのか」。",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "ある人が彼を見つけた"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ある人が"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "さまよっていた"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "野で"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "そして彼に尋ねた"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その人は"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "あなたは探しているのか"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:11.225364322Z",
+  "model": "glm-5.2"
+}

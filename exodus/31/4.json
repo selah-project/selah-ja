@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "工夫を案出するため—金と、銀と、青銅において造るための⟨工夫を⟩、",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "案出するため"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "工夫を"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "造るため"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "金において"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "そして銀において"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "そして青銅において"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:18.975964712Z",
+  "model": "glm-5.2"
+}

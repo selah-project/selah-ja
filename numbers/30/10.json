@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そしてやもめの誓願、および離縁された女の⟨もの⟩ ― 彼女が自分のנפש(命)に縛ったすべてのものは彼女の上に成立する。",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "そして誓願"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "やもめの"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "および離縁された女の"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "彼女が縛った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "自分のנפש(命)"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "成立する"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "彼女の上に"
+    }
+  ],
+  "timestamp": "2026-08-07T18:27:25.621242120Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 74,
+  "translation": "契約に目を留めてください。地の暗い所が暴虐の住処で満ちているからです。",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "目を留めてください"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "契約に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "満ちている"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "暗い所が"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "住処で"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "暴虐の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:03.036049615Z",
+  "model": "glm-5.2"
+}

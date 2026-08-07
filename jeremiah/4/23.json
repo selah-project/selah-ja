@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "我观看了 ⟨את⟩ 地，看哪，它是荒凉与空虚；我又观看了诸天，它们的光并不存在。",
+  "tokens": [
+    {
+      "surface": "רָאִ֨יתִי֙",
+      "gloss": "我观看了"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "וְהִנֵּה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "תֹ֖הוּ",
+      "gloss": "荒凉"
+    },
+    {
+      "surface": "וָבֹ֑הוּ",
+      "gloss": "与空虚"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "又向着"
+    },
+    {
+      "surface": "הַשָּׁמַ֖יִם",
+      "gloss": "诸天"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "并没有"
+    },
+    {
+      "surface": "אוֹרָֽם",
+      "gloss": "它们的光"
+    }
+  ],
+  "timestamp": "2026-08-07T11:40:43.011275179Z",
+  "model": "glm-5.2"
+}

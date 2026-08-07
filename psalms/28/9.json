@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "あなたの民を救い、⟨את⟩ あなたの受け継ぐものを祝福せよ。そして彼らを牧し、彼らを担い上げよ、永遠まで。",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "救い出せ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの民"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたの民"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "そして祝福せよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの受け継ぐもの"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "あなたの受け継ぐもの"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "そして彼らを牧せ"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "そして彼らを担ぎ上げよ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:44.537077532Z",
+  "model": "glm-5.2"
+}

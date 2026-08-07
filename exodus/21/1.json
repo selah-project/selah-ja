@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてこれらは裁定であり、あなたが彼らの前に置くべき⟨もの⟩である。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "裁定"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "あなたは置くべき"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "彼らの前に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:08.677627642Z",
+  "model": "glm-5.2"
+}

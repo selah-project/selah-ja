@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "清い獣の中から、そして清くない獣の中から、そして鳥の中から、そして地の上を這うすべてのものの中から。",
+  "tokens": [
+    {
+      "surface": "מִן",
+      "gloss": "…の中から"
+    },
+    {
+      "surface": "הַבְּהֵמָה֙",
+      "gloss": "獣"
+    },
+    {
+      "surface": "הַטְּהוֹרָ֔ה",
+      "gloss": "清い"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "そして…の中から"
+    },
+    {
+      "surface": "הַ֨בְּהֵמָ֔ה",
+      "gloss": "獣"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "אֵינֶ֖נָּה",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "טְהֹרָ֑ה",
+      "gloss": "清い"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "そして…の中から"
+    },
+    {
+      "surface": "הָע֔וֹף",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "וְכֹ֥ל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "もの"
+    },
+    {
+      "surface": "רֹמֵ֖שׂ",
+      "gloss": "這う"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…の上を"
+    },
+    {
+      "surface": "הָֽאֲדָמָֽה",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:50.602786771Z",
+  "model": "glm-5.2"
+}

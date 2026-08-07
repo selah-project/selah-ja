@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "あなたは⟨やぎ⟩の毛の幕を、幕屋の上の天幕として作りなさい。十一の幕を、あなたは ⟨את⟩ それらを作りなさい。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "あなたは作りなさい"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "幕"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "やぎの"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "天幕として"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "十一"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "の"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "幕"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "あなたは作りなさい"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それら"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:56.317383625Z",
+  "model": "glm-5.2"
+}

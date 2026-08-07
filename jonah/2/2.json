@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてヨナはヤハウェ、彼のエロヒムに祈った。魚の腹から、",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "そして…祈った"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ヨナは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "彼のエロヒム"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "腹から"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "魚の"
+    }
+  ],
+  "timestamp": "2026-08-07T17:13:52.202728101Z",
+  "model": "glm-5.2"
+}

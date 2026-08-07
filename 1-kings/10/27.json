@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして王は ⟨את⟩ 銀をイェルシャライムに石のように与えた。そして ⟨את⟩ 杉を低地にあるエノキのように、数多く与えた。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして与えた"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "銀"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀を"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライムに"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "石のように"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "杉"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "杉を"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "エノキのように"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "低地にある"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "数多く"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:02.475325395Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "ヤハウェに信頼し、善を行え。地に住み、エムナーを牧せよ。",
+  "tokens": [
+    {
+      "surface": "בְּטַ֣ח",
+      "gloss": "信頼し"
+    },
+    {
+      "surface": "בַּֽ֭יהוָה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "וַעֲשֵׂה",
+      "gloss": "行え"
+    },
+    {
+      "surface": "ט֑וֹב",
+      "gloss": "善を"
+    },
+    {
+      "surface": "שְׁכָן",
+      "gloss": "住み"
+    },
+    {
+      "surface": "אֶ֝֗רֶץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "וּרְעֵ֥ה",
+      "gloss": "牧せよ"
+    },
+    {
+      "surface": "אֱמוּנָֽה",
+      "gloss": "エムナーを"
+    }
+  ],
+  "timestamp": "2026-08-07T14:48:55.236036898Z",
+  "model": "glm-5.2"
+}

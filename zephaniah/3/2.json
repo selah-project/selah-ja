@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "声に聞き従わず、訓戒を受け入れず、ヤハウェに信頼せず、エロヒムに近づかなかった。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "聞き従わず"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "声に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "受け入れず"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "訓戒を"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "信頼せず"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "近づかなかった"
+    }
+  ],
+  "timestamp": "2026-08-07T12:29:50.558448182Z",
+  "model": "glm-5.2"
+}

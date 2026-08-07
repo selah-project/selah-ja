@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "シムイはのろいながらこう言った。「出て行け、出て行け、血の流血の男よ、そしてベルヤアルの男よ。",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "そしてこう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "シムイ"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "のろいながら"
+    },
+    {
+      "surface": "צא",
+      "gloss": "出て行け"
+    },
+    {
+      "surface": "צא",
+      "gloss": "出て行け"
+    },
+    {
+      "surface": "איש",
+      "gloss": "…の男よ"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "血の流血"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "そして…の男よ"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "ベルヤアル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:53:51.807773794Z",
+  "model": "glm-5.2"
+}

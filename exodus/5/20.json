@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして彼らは、パロのところから出てくる彼らを出迎えて立っている、⟨את⟩モシェと⟨את⟩アハロンに出会った。",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "そして出会った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モシェ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "アハロン"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "立っている"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "出迎えて"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "出てくる"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜のところから"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:11.346001709Z",
+  "model": "glm-5.2"
+}

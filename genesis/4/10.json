@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして⟨彼は⟩言われた、あなたは何をしたのか。あなたの兄弟の血の声が、地から私に向かって叫んでいる。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言われた"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "あなたはしたのか"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "血の"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟の"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "叫んでいる"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に向かって"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:48.274244822Z",
+  "model": "glm-5.2"
+}

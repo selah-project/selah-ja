@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 86,
+  "translation": "すべての国々、あなたが造られた⟨もの⟩が来て、あなたの前にひれ伏します、アドナイよ。そしてあなたの御名に栄光を帰します。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "造られた"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "来て"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ひれ伏します"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "あなたの前に"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "栄光を帰します"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "あなたの御名に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:08.629619214Z",
+  "model": "glm-5.2"
+}

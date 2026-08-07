@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 3:25",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてあなた、人の子よ、見よ、⟨彼らは⟩縄をあなたの上に置き、それであなたを縛る — あなたは彼らの中から出て行ってはならない。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "そしてあなた"
+    },
+    {
+      "surface": "בן",
+      "gloss": "人の子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "（人の）"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "⟨彼らは⟩置く"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたの上に"
+    },
+    {
+      "surface": "עבותים",
+      "gloss": "縄を"
+    },
+    {
+      "surface": "ואסרוך",
+      "gloss": "そして⟨彼らは⟩あなたを縛る"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "それで"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "あなたは出る"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "彼らの中から"
+    }
+  ],
+  "timestamp": "2026-08-07T12:01:29.060797586Z",
+  "model": "glm-5.2"
+}

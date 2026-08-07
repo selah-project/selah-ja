@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 2:4",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ユダの者たちはやって来て、そこで ⟨את⟩ ダビデに油を注いだ — ユダの家の王として。そしてダビデに告げて言った。「ヤベシュ・ギルアドの者たちが ⟨את⟩ サウルを葬った、と。」",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "そして…はやって来た"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…の者たち"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "彼らは油を注いだ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダビデ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王として"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "彼らは告げた"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデに"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…の者たち"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "ヤベシュ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ギルアド"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "彼らが葬った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "サウル"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:25.499725010Z",
+  "model": "glm-5.2"
+}

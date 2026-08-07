@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 80,
+  "translation": "聖歌隊長のため、ユリの⟨ための⟩、証し、アサフのための、みんな。",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֥חַ",
+      "gloss": "聖歌隊長のための"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שֹׁשַׁנִּ֑ים",
+      "gloss": "ユリ"
+    },
+    {
+      "surface": "עֵד֖וּת",
+      "gloss": "証し"
+    },
+    {
+      "surface": "לְאָסָ֣ף",
+      "gloss": "アサフのための"
+    },
+    {
+      "surface": "מִזְמֽוֹר",
+      "gloss": "みんな"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:27.897122159Z",
+  "model": "glm-5.2"
+}

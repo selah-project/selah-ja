@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "地は揺れ動いた、天もまた滴り落ちた、エロヒムの御顔から、このシナイから、エロヒムの御顔から、イスラエルのエロヒムの。",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "揺れ動いた"
+    },
+    {
+      "surface": "אף",
+      "gloss": "〜もまた"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "滴り落ちた"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜の御顔から"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "זה",
+      "gloss": "この"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "シナイ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜の御顔から"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "〜のエロヒム"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:18.259893735Z",
+  "model": "glm-5.2"
+}

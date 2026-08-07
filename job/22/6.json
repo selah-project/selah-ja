@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 22:6",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "あなたは理由もなく兄弟から質物を取り、裸の人々から衣服を剥ぎ取るからだ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "あなたは質物を取る"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟から"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "理由もなく"
+    },
+    {
+      "surface": "ובגדי",
+      "gloss": "そして〜の衣服を"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "裸の人々"
+    },
+    {
+      "surface": "תפשיט",
+      "gloss": "あなたは剥ぎ取る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:25:08.995202368Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 36:25",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "またエルナタンとデラヤとゲマルヤフは王に嘆願した——巻物を焼かないために。しかし王は彼らに耳を貸さなかった。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "また"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "エルナタン"
+    },
+    {
+      "surface": "ודליהו",
+      "gloss": "デラヤ"
+    },
+    {
+      "surface": "וגמריהו",
+      "gloss": "ゲマルヤフ"
+    },
+    {
+      "surface": "הפגעו",
+      "gloss": "嘆願した"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "王に"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "〜しないために"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "焼く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "巻物"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "その巻物"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜なかった"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "耳を貸した"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:53:46.651598005Z",
+  "model": "glm-5.2"
+}

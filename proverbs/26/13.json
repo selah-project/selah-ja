@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "なまけ者は言う、「道に獅子がいる、広場の間に獅子が」と。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "言う"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "なまけ者は"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "獅子がいる"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道に"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "獅子が"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間に"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "広場の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:55.147694390Z",
+  "model": "glm-5.2"
+}

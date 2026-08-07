@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "歓声を上げよ、かつ歌え、ツィヨンに住む者よ。まことに大いなる方、あなたのただ中に — イスラエルの聖なる方。",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "歓声を上げよ"
+    },
+    {
+      "surface": "ורני",
+      "gloss": "かつ歌え"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "住む者よ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨンに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる方"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "あなたのただ中に"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖なる方"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:38.059873431Z",
+  "model": "glm-5.2"
+}

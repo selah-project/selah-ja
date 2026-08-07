@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "知恵ある者は聞いて、⟨さらに⟩学びを増し、分別ある者は巧みな導きを得る⟨であろう⟩",
+  "tokens": [
+    {
+      "surface": "יִשְׁמַ֣ע",
+      "gloss": "聞く"
+    },
+    {
+      "surface": "חָ֭כָם",
+      "gloss": "知恵ある者は"
+    },
+    {
+      "surface": "וְי֣וֹסֶף",
+      "gloss": "そして増す"
+    },
+    {
+      "surface": "לֶ֑קַח",
+      "gloss": "学びを"
+    },
+    {
+      "surface": "וְ֝נָב֗וֹן",
+      "gloss": "そして分別ある者は"
+    },
+    {
+      "surface": "תַּחְבֻּל֥וֹת",
+      "gloss": "巧みな導きを"
+    },
+    {
+      "surface": "יִקְנֶֽה",
+      "gloss": "得る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:00.495070180Z",
+  "model": "glm-5.2"
+}

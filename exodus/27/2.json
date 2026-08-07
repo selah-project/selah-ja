@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてあなたはその四隅の上に ⟨את⟩ その角を作らなければならない。それから ⟨את⟩ その角が ⟨なる⟩。そしてあなたはそれを青銅で覆わなければならない。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "そしてあなたは作る"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "その角"
+    },
+    {
+      "surface": "על",
+      "gloss": "の上に"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "その隅"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "それから"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "⟨なる⟩"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "その角"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "そしてあなたは覆う"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:54.449154331Z",
+  "model": "glm-5.2"
+}

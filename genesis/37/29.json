@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 37:29",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "ルベンは⟨その⟩穴に戻った。見よ、ヨセフが穴にいない。そして彼は⟨את⟩自分の衣服を裂いた。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "戻った"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ルベンは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "その穴"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフが"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "穴に"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "裂いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の衣服"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "自分の衣服を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:53.426167861Z",
+  "model": "glm-5.2"
+}

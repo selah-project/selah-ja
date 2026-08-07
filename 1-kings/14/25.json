@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 14:25",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてこうなった — レハブアム王の第五年に、ミツライムの王シシャクがイェルシャライムに攻め上った。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうなった"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "…の年に"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "第五"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "レハブアム"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "攻め上った"
+    },
+    {
+      "surface": "שושק",
+      "gloss": "シシャク"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に向かって"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライム"
+    }
+  ],
+  "timestamp": "2026-08-07T11:06:32.683752391Z",
+  "model": "glm-5.2"
+}

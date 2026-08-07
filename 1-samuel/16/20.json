@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 16:20",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "イシャイはパンを載せたろば一頭と、ぶどう酒の皮袋と、雌山羊の子一匹を取った。そしてこれらを息子ダビドの手によってシャウルに遣わした。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "イシャイ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ろば一頭"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "ונאד",
+      "gloss": "そして皮袋"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ぶどう酒の"
+    },
+    {
+      "surface": "וגדי",
+      "gloss": "そして〜の子"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "雌山羊"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一匹"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "そして遣わした"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "〜の手によって"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビド"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の息子"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:50.217312937Z",
+  "model": "glm-5.2"
+}

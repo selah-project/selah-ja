@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてヤハウェはモーシェとアハロンに語って、こう仰せられた。",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֣ר",
+      "gloss": "そして…語った"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "וְאֶֽל",
+      "gloss": "そして…に"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "こう仰せられた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:50:11.816961473Z",
+  "model": "glm-5.2"
+}

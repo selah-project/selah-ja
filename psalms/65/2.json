@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 65,
+  "translation": "あなたに、沈黙 ⟨は⟩ 賛美、エロヒムよ、ツィヨンで。そしてあなたに、誓願 ⟨は⟩ 果たされる。",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "沈黙"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "賛美"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ツィヨンで"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "そしてあなたに"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "果たされる"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "誓願"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:39.801475072Z",
+  "model": "glm-5.2"
+}

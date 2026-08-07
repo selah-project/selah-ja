@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 4:9",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてヤベツは ⟨彼の⟩ 兄弟たちよりも重んじられた。そして ⟨彼の⟩ 母は ⟨彼の⟩ 名をヤベツと呼んで、こう言った。「私が苦しみの中で ⟨彼を⟩ 産んだから ⟨です⟩。」",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして～があった"
+    },
+    {
+      "surface": "יעבץ",
+      "gloss": "ヤベツ"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "重んじられた"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "彼の兄弟たちよりも"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "そして彼の母は"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "呼んだ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の名を"
+    },
+    {
+      "surface": "יעבץ",
+      "gloss": "ヤベツ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "こう言って"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～だから"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "私が産んだ"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "苦しみの中で"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:30.013287102Z",
+  "model": "glm-5.2"
+}

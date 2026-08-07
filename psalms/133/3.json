@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 133,
+  "translation": "ヘルモンの露のように — ツィヨンの山々の上に流れる。そこでヤハウェは⟨את⟩祝福を命じられた — 生命を、永遠まで。",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "露のように"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ヘルモンの"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "流れる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "山々の"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨンの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祝福を"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "祝福を"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "生命を"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:10.225825495Z",
+  "model": "glm-5.2"
+}

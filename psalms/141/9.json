@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 141,
+  "translation": "私を守ってください、私のために彼らが仕掛けた罠の手から、そして咎の業師たちのわなから。",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "私を守ってください"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "〜の手から"
+    },
+    {
+      "surface": "פח",
+      "gloss": "罠"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "彼らが仕掛けた"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "そしてわな"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "〜の業師たち"
+    },
+    {
+      "surface": "און",
+      "gloss": "咎"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:14.346285481Z",
+  "model": "glm-5.2"
+}

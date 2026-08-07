@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "また、ヤアコブが父と母に聞き従い、パダン・アラムへ行ったことを。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "そして…聞き従った"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "父"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "および〜に"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "母"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "パダン"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "・アラムへ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:45.273462925Z",
+  "model": "glm-5.2"
+}

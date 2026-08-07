@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "ペリシテ人がイスラエルと戦い、イスラエルの人々はペリシテ人の前から逃げ、傷つかれた者たちがギルボア山に倒れた。",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ペリシテ人が"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "戦っていた"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルと"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "逃げた"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "〜の人々は"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜の前から"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人の"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "倒れた"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "刺し殺された者たちが"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山に"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "ギルボア"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:39.654135358Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 15:12",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "これはヤハウェのことばであって、エフに向かって告げて言ったもの — 「四代までの子らがあなたのためにイスラエルの王座に座るであろう」。そしてそのようになった。",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "これは"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "エフ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らが"
+    },
+    {
+      "surface": "רביעים",
+      "gloss": "四代までの"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "座る"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "王座"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    }
+  ],
+  "timestamp": "2026-08-07T11:14:27.414525576Z",
+  "model": "glm-5.2"
+}

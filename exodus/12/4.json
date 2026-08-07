@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 12:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして、もしその家が一匹の小羊には少なすぎる場合、彼は自分の家に近い隣人と共に、命の数に応じて取る。おのおのその食べる量に応じて、あなたがたは小羊について算定せよ。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "少なすぎる"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家が"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "〜であることから"
+    },
+    {
+      "surface": "משה",
+      "gloss": "一匹の小羊"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "そして取る"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "そしてその隣人"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "近い"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "彼の家"
+    },
+    {
+      "surface": "במכסת",
+      "gloss": "数に応じて"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "命の"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "〜に応じて"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "その食べる量"
+    },
+    {
+      "surface": "תכסו",
+      "gloss": "あなたがたは算定せよ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "השה",
+      "gloss": "その小羊"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:56.125635627Z",
+  "model": "glm-5.2"
+}

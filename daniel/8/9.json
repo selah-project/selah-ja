@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 8:9",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして、それらのうちの一つから一本の角が出た――それは小さなものであったが、南へ、東へ、そして麗しい地へ向かって格別に大きくなった。",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "そして〜から"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "それらのうち"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出た"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "角が"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一本の"
+    },
+    {
+      "surface": "מצעירה",
+      "gloss": "小さなものであったが"
+    },
+    {
+      "surface": "ותגדל",
+      "gloss": "大きくなった"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "格別に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ向かって"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "南"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜へ"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "東"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜へ"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "麗しい地"
+    }
+  ],
+  "timestamp": "2026-08-07T13:46:27.005858920Z",
+  "model": "glm-5.2"
+}

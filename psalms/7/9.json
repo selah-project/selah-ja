@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "ヤハウェは諸民を裁く。私を裁いてください、ヤハウェよ、私の義にしたがい、私のうちにある全き〈誠実〉にしたがい⟨私を⟩。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "裁く"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "諸民を"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "私を裁いてください"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "私の義にしたがい"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "私の全きにしたがい"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私のうえに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:29.106627220Z",
+  "model": "glm-5.2"
+}

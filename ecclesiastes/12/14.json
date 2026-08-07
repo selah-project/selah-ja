@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "なぜなら、エロヒムは⟨את⟩すべてのわざを、すべての隠された事について、さばきのうちに、それが善であっても悪であっても、引き起こされるからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのわざ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "わざ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "引き起こされる"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "さばきのうちに"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "隠された事"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜であっても"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "そして〜であっても"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪"
+    }
+  ],
+  "timestamp": "2026-08-07T14:42:27.858462634Z",
+  "model": "glm-5.2"
+}

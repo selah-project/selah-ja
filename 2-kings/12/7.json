@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてヨアシュ王の第二十三年に、祭司たちは ⟨את⟩ 宮の破損箇所を強固にしなかった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…になった"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "…の年に"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "と三"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王…の"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "ヨアシュ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…なかった"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "強固にした"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "宮の破損箇所"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "破損箇所"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "宮の"
+    }
+  ],
+  "timestamp": "2026-08-07T16:53:31.504898774Z",
+  "model": "glm-5.2"
+}

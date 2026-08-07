@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "そしてヤアコブはアラム人ラバンの心を盗んだ。彼に告げなかったからである、彼が逃げていることを。",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "そして盗んだ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "心"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ラバン"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "アラム人"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "〜しないことで"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜であることを"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "逃げている"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    }
+  ],
+  "timestamp": "2026-08-07T09:02:40.350282144Z",
+  "model": "glm-5.2"
+}

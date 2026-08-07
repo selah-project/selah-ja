@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "だが、あなたがたは⟨את⟩ナジル人に酒を飲ませ、預言者たちに命じて言った。『預言するな。』",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "あなたがたは飲ませた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナジル人"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "ナジル人に"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒を"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜に対して"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "預言者たち"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "預言する"
+    }
+  ],
+  "timestamp": "2026-08-07T12:21:37.323580552Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 42:1",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "そして彼は私を外庭に連れ出した、北の道へ。そして彼は私を部屋に導き入れた、それは隔絶された場所の前に、かつ建物の前にある、北の。",
+  "tokens": [
+    {
+      "surface": "ויוצאני",
+      "gloss": "そして彼は私を連れ出した"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "外の"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "〜の方へ"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "北"
+    },
+    {
+      "surface": "ויבאני",
+      "gloss": "そして彼は私を導き入れた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "部屋"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "隔絶された場所"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "そしてそれは"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "建物"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "北"
+    }
+  ],
+  "timestamp": "2026-08-07T12:14:41.201914458Z",
+  "model": "glm-5.2"
+}

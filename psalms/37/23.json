@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "ヤハウェより、人の歩みは確立され、ヤハウェはその道を喜ぶ。",
+  "tokens": [
+    {
+      "surface": "מֵ֭יְהוָה",
+      "gloss": "ヤハウェより"
+    },
+    {
+      "surface": "מִֽצְעֲדֵי",
+      "gloss": "〜の歩み"
+    },
+    {
+      "surface": "גֶ֥בֶר",
+      "gloss": "人"
+    },
+    {
+      "surface": "כוֹנָ֗נוּ",
+      "gloss": "確立される"
+    },
+    {
+      "surface": "וְדַרְכּ֥וֹ",
+      "gloss": "そして彼の道"
+    },
+    {
+      "surface": "יֶחְפָּֽץ",
+      "gloss": "喜ぶ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:27.424249043Z",
+  "model": "glm-5.2"
+}

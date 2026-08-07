@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして⟨את⟩ホリ人を、彼らの山地セイルで、荒野のほとりにあるエル・パランに至るまで打った。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ホリ人"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "ホリ人を"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "彼らの山地に"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "セイル"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…に至るまで"
+    },
+    {
+      "surface": "איל",
+      "gloss": "エル・"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "パラン"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "על",
+      "gloss": "…のほとりに"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "荒野"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:32.298022325Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 11:5",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして女は身ごもり、人を遣わしてダビデに告げ、言った。「わたしは身ごもっています。」",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "そして身ごもった"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女は"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "そして遣わした"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデに"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "身ごもっている"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "わたしは"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:56.948406198Z",
+  "model": "glm-5.2"
+}

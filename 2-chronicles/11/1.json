@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 11:1",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "レハブアムはイェルシャライムに来て、ユダとベニヤミンの家から、戦いを行う選ばれた勇士十八万人を集め、イスラエルと戦って ⟨את⟩ 王国をレハブアムに取り戻すために ⟨את⟩ ユダとベニヤミンの家を集めた。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "…来て"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "レハブアムは"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムに"
+    },
+    {
+      "surface": "ויקהל",
+      "gloss": "…集めた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ユダとベニヤミンの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "とベニヤミンの"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "と八十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "選ばれた"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "…行う"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦いを"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "戦うために"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…と"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "取り戻すために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王国"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "王国を"
+    },
+    {
+      "surface": "לרחבעם",
+      "gloss": "レハブアムに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:53.660643092Z",
+  "model": "glm-5.2"
+}

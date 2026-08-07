@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして陶器の器、それ⟨の中で⟩煮られるものは砕かれる。もし青銅の器でそれが煮られたなら、こすぎ落とし、水で洗い流される。",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "そして器"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "陶器の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "煮られる"
+    },
+    {
+      "surface": "בו",
+      "gloss": "その中で"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "砕かれる"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "器で"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "煮られた"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "こすぎ落とし"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "洗い流される"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:46.903305143Z",
+  "model": "glm-5.2"
+}

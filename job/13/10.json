@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "彼は必ずあなたがたを責められる。もしあなたがたが隠れて顔を持ち上げるなら。",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "必ず責められる"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "責められる"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがた"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "隠れて"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "顔を"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "持ち上げるなら"
+    }
+  ],
+  "timestamp": "2026-08-07T13:23:04.896141216Z",
+  "model": "glm-5.2"
+}

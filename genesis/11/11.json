@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "シェムは⟨את⟩アルパクシャドを生んでのち、さらに五百年生き、息子たちと娘たちを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "そして生きた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "シェム"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "〜ののち"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "彼が生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アルパクシャド"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "アルパクシャド"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "そして生んだ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "と娘たち"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:55.059179838Z",
+  "model": "glm-5.2"
+}

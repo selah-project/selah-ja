@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "そして彼らに向かって手を上げ、荒野で彼らを倒すために ⟨את⟩ を。",
+  "tokens": [
+    {
+      "surface": "וַיִּשָּׂ֣א",
+      "gloss": "上げた"
+    },
+    {
+      "surface": "יָד֣וֹ",
+      "gloss": "⟨彼の⟩ 手を"
+    },
+    {
+      "surface": "לָהֶ֑ם",
+      "gloss": "彼らに向かって"
+    },
+    {
+      "surface": "לְהַפִּ֥יל",
+      "gloss": "倒すために"
+    },
+    {
+      "surface": "א֝וֹתָ֗ם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "בַּמִּדְבָּֽר",
+      "gloss": "荒野で"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:16.125266697Z",
+  "model": "glm-5.2"
+}

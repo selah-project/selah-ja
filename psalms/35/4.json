@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "私の命を求める者たちが恥じ、辱めを受けよ。私の災いを謀る者たちが退き、恐れ惑え。",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "恥じよ"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "そして辱めを受けよ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "求める者たち"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私の命"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "退け"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "後ろに"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "そして恐れ惑え"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "謀る者たち"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "私の災い"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:50.650748470Z",
+  "model": "glm-5.2"
+}

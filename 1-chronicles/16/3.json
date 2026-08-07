@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてダビデはイスラエルのすべての人、男から女に至るまで、一人ひとりにパンの塊一つ、肉の一切れ、および干ぶどうの菓子を分け与えた。",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "そして分け与えた"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "男から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "一人ひとりに"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "塊"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "肉の一切れ"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "干ぶどうの菓子"
+    }
+  ],
+  "timestamp": "2026-08-07T14:43:26.417585730Z",
+  "model": "glm-5.2"
+}

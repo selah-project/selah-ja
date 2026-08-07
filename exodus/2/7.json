@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして彼の姉妹がパロの娘に言った。「私が行って、あなたのためにヘブル人⟨の⟩乳母を呼びましょうか。そうすれば彼女があなたのために⟨את⟩その子に授乳します。」",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "そして彼女は言った"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "彼の姉妹"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "私が行こうか"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "そして私が呼ぼう"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "乳母"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "ヘブル人"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "そして彼女は授乳する"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その子"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "その子"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:01.815842483Z",
+  "model": "glm-5.2"
+}

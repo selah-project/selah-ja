@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そして彼らは⟨את⟩会見の天幕の務めと、⟨את⟩聖所の務めと、彼らの兄弟であるアロンの子らの務めを守り、ヤハウェの家における奉仕のために⟨守った⟩。",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "そして彼らは守った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "会見の天幕の務め"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "務め"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕の"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "聖所の務め"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "務め"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所の"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "また務め"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らの"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アロン"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "彼らの兄弟である"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "奉仕のための"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:08:31.923700076Z",
+  "model": "glm-5.2"
+}

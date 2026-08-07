@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "⟨御⟩聖なる名において誇れ、ヤハウェを求める者たちの心は喜べ。",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "誇れ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "⟨御⟩…名において"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "喜べ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "求める者たちの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:43.413263532Z",
+  "model": "glm-5.2"
+}

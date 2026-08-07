@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 112,
+  "translation": "ハレル・ヤハ。幸いなこと、ヤハウェを恐れるひと、⟨את⟩ヤハウェ、そのみ戒めを大いに喜ぶひと。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ハレル"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "幸いなこと"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ひと"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "そのみ戒めを"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "喜ぶ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大いに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:22.866283615Z",
+  "model": "glm-5.2"
+}

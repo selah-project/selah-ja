@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 4:5",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "わたしは——わたしはあなたに ⟨את⟩ 彼らの罪の年数を、日数に合わせて、三百九十日割り当てた。あなたはイスラエルの家の罪を負わなければならない。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "わたしは——"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "割り当てた"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの罪の年数"
+    },
+    {
+      "surface": "שני",
+      "gloss": "年数"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "彼らの罪の"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "数に合わせて"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三百"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "と九十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "あなたは負わなければならない"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:01:34.903782898Z",
+  "model": "glm-5.2"
+}

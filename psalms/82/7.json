@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 82,
+  "translation": "だが、あなたたちはアダムのように死に、君侯たちのひとりのように倒れる。」",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "だが"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "アダムのように"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "あなたたちは死ぬ"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "そして〜のひとりのように"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "君侯たち"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "あなたたちは倒れる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:35.434541229Z",
+  "model": "glm-5.2"
+}

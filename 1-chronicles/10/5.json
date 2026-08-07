@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして彼の武器を持つ者は、シャウルが死んだのを見て、彼もまた剣の上に倒れ、死んだ。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして…見た"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "持つ者"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "彼の武器"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ということを"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死んだ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "そして倒れた"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "その剣"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:24.253281953Z",
+  "model": "glm-5.2"
+}

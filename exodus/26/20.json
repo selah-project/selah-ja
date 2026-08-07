@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そして幕屋の第二の側、北側のために、二十の板材。|",
+  "tokens": [
+    {
+      "surface": "וּלְצֶ֧לַע",
+      "gloss": "そして〜の側のために"
+    },
+    {
+      "surface": "הַמִּשְׁכָּ֛ן",
+      "gloss": "幕屋の"
+    },
+    {
+      "surface": "הַשֵּׁנִ֖ית",
+      "gloss": "第二の"
+    },
+    {
+      "surface": "לִפְאַ֣ת",
+      "gloss": "〜側の"
+    },
+    {
+      "surface": "צָפ֑וֹן",
+      "gloss": "北"
+    },
+    {
+      "surface": "עֶשְׂרִ֖ים",
+      "gloss": "二十の"
+    },
+    {
+      "surface": "קָֽרֶשׁ",
+      "gloss": "板材"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:56.746822010Z",
+  "model": "glm-5.2"
+}

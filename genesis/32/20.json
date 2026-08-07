@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そして彼は第二の者にも、また第三の者にも、また群れのあとに従うすべての人々にも同様に命じて言った、「あなたたちがエサウに出会うとき、彼にこの言葉のとおりに語れ。」",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "そして命じた"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "第二の者"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二の者"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "第三の者"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三の者"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての人々"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "歩む者たち"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "〜のあとに"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "群れ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "言葉の"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "あなたたちは語れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "あなたたちが見つけるとき"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:44.367981143Z",
+  "model": "glm-5.2"
+}

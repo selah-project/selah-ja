@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 9:22",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてシュロモ王は、富と知恵において、地のすべての王たちより大いになった。",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "そして大いになった"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "すべての〜より"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "富において"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "と知恵において"
+    }
+  ],
+  "timestamp": "2026-08-07T14:11:48.785498578Z",
+  "model": "glm-5.2"
+}

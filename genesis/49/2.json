@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "集まれ、そして聞け、ヤアコブの子らよ。そしてあなたがたの父イスラエルに聞け。",
+  "tokens": [
+    {
+      "surface": "הִקָּבְצ֥וּ",
+      "gloss": "集まれ"
+    },
+    {
+      "surface": "וְשִׁמְע֖וּ",
+      "gloss": "そして聞け"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "וְשִׁמְע֖וּ",
+      "gloss": "そして聞け"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֥ל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אֲבִיכֶֽם",
+      "gloss": "あなたがたの父"
+    }
+  ],
+  "timestamp": "2026-08-07T09:11:52.554730905Z",
+  "model": "glm-5.2"
+}

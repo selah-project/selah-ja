@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "悪者は追う者もいないのに逃げ、義人たちは若ライオンのように自信を⟨持つ⟩。",
+  "tokens": [
+    {
+      "surface": "נָ֣סוּ",
+      "gloss": "逃げる"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "〜がいない"
+    },
+    {
+      "surface": "רֹדֵ֣ף",
+      "gloss": "追う者"
+    },
+    {
+      "surface": "רָשָׁ֑ע",
+      "gloss": "悪者は"
+    },
+    {
+      "surface": "וְ֝צַדִּיקִ֗ים",
+      "gloss": "義人たちは"
+    },
+    {
+      "surface": "כִּכְפִ֥יר",
+      "gloss": "若ライオンのように"
+    },
+    {
+      "surface": "יִבְטָֽח",
+      "gloss": "自信を持つ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:10.862008904Z",
+  "model": "glm-5.2"
+}

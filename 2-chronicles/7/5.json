@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 7:5",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてシュロモ王は牛のいけにえを二万二千、羊を十二万⟨ささげた⟩。そして王とすべての民はエロヒムの家を奉納した。",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "そして…いけにえをささげた"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "牛のいけにえ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "いけにえ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "牛の"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "と二"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "そして羊"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "と二十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ויחנכו",
+      "gloss": "そして…奉納した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "とすべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:29.398213237Z",
+  "model": "glm-5.2"
+}

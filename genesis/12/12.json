@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてこうなる —— ミツライム人たちが ⟨あなた⟩ を見て、「彼の妻だ、この人」と言い、そして私を殺し、⟨あなた⟩ を生かしておく ⟨⟨את⟩⟩ と。」",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そしてこうなる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～すると"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "見て"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "あなた"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "ミツライム人たち"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "そして言う"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "彼の妻"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "この人"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "そして殺し"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "私"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "あなた"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "生かしておく"
+    }
+  ],
+  "timestamp": "2026-08-07T14:20:53.192562429Z",
+  "model": "glm-5.2"
+}

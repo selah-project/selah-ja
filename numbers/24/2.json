@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "ビルアムは目を上げ、イスラエルがその部族ごとに宿営しているのを見た。そしてエロヒムの霊が彼の上にあった。",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "上げた"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ビルアムは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "目を"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "彼の目"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルを"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "宿営している"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "その部族ごとに"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "そしてあった"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼の上に"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:00:42.909333649Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 80,
+  "translation": "エロヒム・ツェバオトよ、どうか戻ってください。天から見下ろし、ご覧になって、このぶどうの木を顧みてください。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "万軍の"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "戻ってください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "見下ろし"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "天から"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ご覧になって"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "顧みてください"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ぶどうの木を"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:17.022958976Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ああ、罪なるゴイ、咎を重く負う民、悪を行う者の種、滅ぼす子ら。彼らは⟨את⟩ヤハウェを捨て、イスラエルの聖なる方を蔑み、後ろに alienated された。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ゴイ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "罪なる"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "重く負う"
+    },
+    {
+      "surface": "עון",
+      "gloss": "咎"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "種"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "悪を行う者"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "滅ぼす"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "捨てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "蔑んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの聖なる方"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖なる方"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "後ろに alienated された"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "後ろに"
+    }
+  ],
+  "timestamp": "2026-08-07T18:33:32.209430828Z",
+  "model": "glm-5.2"
+}

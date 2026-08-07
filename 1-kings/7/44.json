@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "および⟨את⟩ 一つの海、および⟨את⟩ 十二の牛 — その海の下に、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "牛"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:06.845607917Z",
+  "model": "glm-5.2"
+}

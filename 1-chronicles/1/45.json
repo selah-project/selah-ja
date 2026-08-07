@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ヨバブが死に、フシャムが彼に代わって王となった。テマニ人の地から⟨の者である⟩。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして…死んだ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ヨバブ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "そして…王となった"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代わって"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "フシャム"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "…の地から"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "テマニ人の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:24.404185453Z",
+  "model": "glm-5.2"
+}

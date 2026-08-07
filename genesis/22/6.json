@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そしてアブラハムは⟨את⟩全焼の生木を取り、自分の子イサクの上に置いた。そして彼はその手に⟨את⟩火と⟨את⟩小刀を取り、ふたりは一緒に歩いて行った。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全焼の生木"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "生木"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "そして置いた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イサク"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "自分の子"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "その手に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "火"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "小刀"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "小刀"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "そして歩いて行った"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ふたりは"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "一緒に"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:53.393183882Z",
+  "model": "glm-5.2"
+}

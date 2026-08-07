@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 71,
+  "translation": "エロヒム、あなたは私の若さから私を教え、ここに至るまで私はあなたの奇しいみわざを語り告げる。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "あなたは私を教えた"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "私の若さから"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ここ"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "私は語り告げる"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "あなたの奇しいみわざを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:16.613956489Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そして彼らは⟨את⟩亜麻布の長衣を、織物として、アハロンとその子らのために作った。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "そして彼らは作った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "長衣"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "その長衣を"
+    },
+    {
+      "surface": "שש",
+      "gloss": "亜麻布の"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "仕事の"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "織"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "アハロンのために"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "とその子らのために"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:20.871478722Z",
+  "model": "glm-5.2"
+}

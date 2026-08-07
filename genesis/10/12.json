@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして⟨את⟩レセン — ニネベとカルフの間に。それは大いなる都市である。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "レセン"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "レセン"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間に"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ニネベ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と〜の"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "カルフ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その都市"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "大いなる"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:35.088613551Z",
+  "model": "glm-5.2"
+}

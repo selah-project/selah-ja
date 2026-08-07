@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "「我々は⟨את⟩彼らの絆を引きちぎり、我々から彼らの綱を投げ捨てよう。」",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "引きちぎろう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの絆"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "彼らの絆"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "投げ捨てよう"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "我々から"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "彼らの綱"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:09.034944842Z",
+  "model": "glm-5.2"
+}

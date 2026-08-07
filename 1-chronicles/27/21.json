@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 27:21",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "マナセの半分の部族のためには、ギルアドのイッド、ゼカルヤフの子。ベニヤミンのためには、ヤアシエル、アブネルの子。",
+  "tokens": [
+    {
+      "surface": "לחצי",
+      "gloss": "半分の"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "マナセ"
+    },
+    {
+      "surface": "גלעדה",
+      "gloss": "ギルアドに"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "イッド"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "ゼカルヤフ"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "ベニヤミンのためには"
+    },
+    {
+      "surface": "יעשיאל",
+      "gloss": "ヤアシエル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "アブネル"
+    }
+  ],
+  "timestamp": "2026-08-07T17:47:08.666737983Z",
+  "model": "glm-5.2"
+}

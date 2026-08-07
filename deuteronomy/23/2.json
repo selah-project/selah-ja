@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "砕かれた者、打ちひしがれた者は、ヤハウェの集会に ⟨は⟩ 入ってはならない。また注ぎ出す管が切り取られた者も。",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יָבֹא",
+      "gloss": "入る"
+    },
+    {
+      "surface": "פְצוּעַ",
+      "gloss": "砕かれた"
+    },
+    {
+      "surface": "דַּכָּא",
+      "gloss": "打ちひしがれた"
+    },
+    {
+      "surface": "וּכְרוּת",
+      "gloss": "そして切り取られた"
+    },
+    {
+      "surface": "שָׁפְכָה",
+      "gloss": "注ぎ出す管"
+    },
+    {
+      "surface": "בִּקְהַל",
+      "gloss": "〜の集会"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:08.567360030Z",
+  "model": "glm-5.2"
+}

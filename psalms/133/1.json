@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 133,
+  "translation": "上りの歌、ダビデによる。見よ、いかに善く、いかに快いことか、兄弟たちが共に⟨共に⟩座することは。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上りの"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデによる"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "いかに"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善い"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "そしていかに"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "快い"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "座すること"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "兄弟たちが"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "共に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:10.225470098Z",
+  "model": "glm-5.2"
+}

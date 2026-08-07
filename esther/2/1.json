@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "これらの事の後、アハシュヴェロシュ王の怒りの静まった時、⟨彼は⟩ヴァシュティを、および⟨彼女が⟩行なったこと、そして⟨彼女に⟩対して宣告されたことを思い出した。",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "…の後"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "これらの事"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "静まった時"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "怒り"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "アハシュヴェロシュ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "思い出した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヴァシュティ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ヴァシュティ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "…こと"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…こと"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "行なった"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "…こと"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…こと"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "宣告された"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "彼女に対して"
+    }
+  ],
+  "timestamp": "2026-08-07T13:41:17.509302396Z",
+  "model": "glm-5.2"
+}

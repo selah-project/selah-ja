@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "裸で彼らは夜を過ごす、着物もなく、寒さの中に覆いがない。",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "裸で"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "彼らは夜を過ごす"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "〜もなく"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "着物"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "〜がない"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "覆い"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "寒さの中に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:26:23.939369940Z",
+  "model": "glm-5.2"
+}

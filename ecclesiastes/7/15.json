@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "⟨את⟩すべてを私は見た、私のヘブルの日々において。正しい者が⟨その⟩正しさにおいて滅び、そして悪者が⟨その⟩悪において長らえることがある。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "〜の日々において"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "私のヘブル"
+    },
+    {
+      "surface": "יש",
+      "gloss": "〜がある"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しい者"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "滅びる"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "その正しさにおいて"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "そして〜がある"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "長らえる"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "その悪において"
+    }
+  ],
+  "timestamp": "2026-08-07T17:30:42.602526854Z",
+  "model": "glm-5.2"
+}

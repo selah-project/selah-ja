@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "知恵の初めはヤハウェへの恐れ、そして聖なる者たちの知は理解である。",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "初め"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵の"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "…への恐れ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "そして…の知"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "聖なる者たちの"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "理解"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:01.244515345Z",
+  "model": "glm-5.2"
+}

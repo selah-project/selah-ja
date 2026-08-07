@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "するとヤハウェは私に言われた — 「彼を恐れるな。あなたの手に ⟨את⟩彼と ⟨את⟩彼のすべての民と ⟨את⟩彼の地とを与えたからである。あなたは彼に対して、ヘシュボンに住んでいたアモリ人の王シホンに対して行ったとおりに行え。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "すると…は言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…するな"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "あなたの手に"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "私は与えた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼のすべての民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "…のすべて"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼の民"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼の地"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "彼の地"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "そしてあなたは行え"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に対して"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…のとおりに"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "あなたは行った"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "シホンに対して"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "アモリ人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "住んでいた"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "ヘシュボンに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:07.225113562Z",
+  "model": "glm-5.2"
+}

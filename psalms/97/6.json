@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 97,
+  "translation": "天は⟨彼の⟩義を告げた、すべての民は⟨彼の⟩栄光を見た",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天は"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "⟨彼の⟩義を"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "見た"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "民は"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "⟨彼の⟩栄光を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:47.204995024Z",
+  "model": "glm-5.2"
+}

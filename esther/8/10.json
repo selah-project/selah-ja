@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 8:10",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして、王アハシュエロシュの名において書き記し、王の印で封じ、馬に乗った急使、王の雌馬から育てられた速馬の騎手たちの手によって書簡を送った。",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "そして…書いた"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "…名において"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "アハシュエロシュの"
+    },
+    {
+      "surface": "ויחתם",
+      "gloss": "そして…封じた"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "…印で"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "そして…送った"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "書簡を"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…手によって"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "急使たちの"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "馬に"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "騎手たち"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "速馬の"
+    },
+    {
+      "surface": "האחשתרנים",
+      "gloss": "王室の雌馬の"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…子ら"
+    },
+    {
+      "surface": "הרמכים",
+      "gloss": "雌馬の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:43:55.122586301Z",
+  "model": "glm-5.2"
+}

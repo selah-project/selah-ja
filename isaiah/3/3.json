@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "五十人の長、⟨と⟩ 顔を上げられる者、助言者、熟練の工匠、⟨および⟩ 呪術に通じた者。",
+  "tokens": [
+    {
+      "surface": "שַׂר",
+      "gloss": "長"
+    },
+    {
+      "surface": "חֲמִשִּׁ֖ים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "וּנְשׂ֣וּא",
+      "gloss": "⟨と⟩上げられる"
+    },
+    {
+      "surface": "פָנִ֑ים",
+      "gloss": "顔"
+    },
+    {
+      "surface": "וְיוֹעֵ֛ץ",
+      "gloss": "⟨と⟩助言者"
+    },
+    {
+      "surface": "וַחֲכַ֥ם",
+      "gloss": "⟨と⟩熟練の"
+    },
+    {
+      "surface": "חֲרָשִׁ֖ים",
+      "gloss": "工匠"
+    },
+    {
+      "surface": "וּנְב֥וֹן",
+      "gloss": "⟨と⟩通じた者"
+    },
+    {
+      "surface": "לָֽחַשׁ",
+      "gloss": "呪術"
+    }
+  ],
+  "timestamp": "2026-08-07T14:28:20.671371795Z",
+  "model": "glm-5.2"
+}

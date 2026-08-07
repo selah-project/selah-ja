@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 65,
+  "translation": "そして彼らが呼ぶ前に、わたしは答え、彼らがなお語っている間に、わたしは聞く。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そしてそれはなる"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "〜する前に"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "彼らが呼ぶ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "そしてわたしは"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "答える"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "なお"
+    },
+    {
+      "surface": "הם",
+      "gloss": "彼らが"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "語っている間に"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "そしてわたしは"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "聞く"
+    }
+  ],
+  "timestamp": "2026-08-07T11:38:09.876996246Z",
+  "model": "glm-5.2"
+}

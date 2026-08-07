@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 20:2",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "こうしてイスラエルのすべての人々はダビデについていくのをやめ、シェバ、ビクリの子についていった。しかしユダの人々はその王に付き添った。ヨルダンからイェルシャライム（エルサレム）まで。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "上がった"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人々"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "～の後ろから"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "～の後ろに"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "シェバ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "の子"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "ビクリ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "しかし人々"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "דבקו",
+      "gloss": "付き添った"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "その王に"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～から"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルダン"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "～まで"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:01.060498146Z",
+  "model": "glm-5.2"
+}

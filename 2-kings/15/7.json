@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "アザルヤは彼の先祖たちと共に眠り、彼らは彼を先祖たちと共にダビデの町に葬った。そして彼の子ヨタムが彼に代わって王となった。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "そして…眠った"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "アザルヤは"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の先祖たち"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "そして彼らは葬った"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩彼を",
+      "marks": "彼を"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の先祖たち"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "…町に"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "そして王となった"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "ヨタム"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代わって"
+    }
+  ],
+  "timestamp": "2026-08-07T11:14:50.044961006Z",
+  "model": "glm-5.2"
+}

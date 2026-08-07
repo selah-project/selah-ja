@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ヤコブはラケルに口づけし、自分の声を上げて泣いた。",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "口づけし"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤコブは"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "ラケルに"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "上げて"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の声"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "自分の声を"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "泣いた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:24.930740297Z",
+  "model": "glm-5.2"
+}

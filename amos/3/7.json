@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 3:7",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "まことに、アドナイ・ヤハウェは事をなさない — ご自分の秘められた計画をその僕である預言者たちに明かされることなしには。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "事をなさる"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜なしには"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜ことなしには"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "明かされる"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "ご自分の秘められた計画を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "その僕である"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "預言者たち"
+    }
+  ],
+  "timestamp": "2026-08-07T12:21:17.230881479Z",
+  "model": "glm-5.2"
+}

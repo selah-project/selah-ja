@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "わたしはモアブのそしりとアンモンの子らののしりを聞いた。彼らがわたしの民をそしり、自分たちの境界に向かっておごり高ぶったからである。",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "わたしは聞いた"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "…のそしり"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブの"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "…ののしり"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子らの"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アンモンの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であるかた"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "彼らがそしった"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの民"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "彼らが大きくした"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に向かって"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "自分たちの境界"
+    }
+  ],
+  "timestamp": "2026-08-07T12:29:52.309718626Z",
+  "model": "glm-5.2"
+}

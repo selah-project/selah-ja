@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "わたしが水を渇いた者⟨の上⟩に注ぎ、流れを乾いた地⟨の上⟩に注ぐからだ。わたしの霊をあなたの子孫⟨の上⟩に、わたしの祝福をあなたの末の子ら⟨の上⟩に注ごう。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "わたしが注ぐ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "渇いた者"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "流れを"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "乾いた地"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "注ごう"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "わたしの霊を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "あなたの子孫"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "わたしの祝福を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "あなたの末の子ら"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:32.211643848Z",
+  "model": "glm-5.2"
+}

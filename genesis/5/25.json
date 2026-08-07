@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "メトシェラは百八十七年生き、レメクを⟨את⟩生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "メトシェラ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "と八十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "と百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レメク"
+    },
+    {
+      "surface": "למך",
+      "gloss": "レメク"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:32.446374302Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "幸いなこと、弱き者に心を配る者は。災いの日にはヤハウェが⟨彼を⟩逃れさせられる。",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "幸いなこと"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "心を配る者は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "דל",
+      "gloss": "弱き者"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日には"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "災い"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "逃れさせられる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:14.030230901Z",
+  "model": "glm-5.2"
+}

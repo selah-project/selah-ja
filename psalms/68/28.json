@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 68:28",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "そこに年少のベニヤミンが、彼らを治める者⟨として⟩、ユダの君たちと彼らの群衆、ゼブルンの君たち、ナフタリの君たち。",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ベニヤミン"
+    },
+    {
+      "surface": "צעיר",
+      "gloss": "年少の"
+    },
+    {
+      "surface": "רדם",
+      "gloss": "彼らを治める者"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "〜の君たち"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "רגמתם",
+      "gloss": "彼らの群衆"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "〜の君たち"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "ゼブルン"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "〜の君たち"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ナフタリ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:06.918292432Z",
+  "model": "glm-5.2"
+}

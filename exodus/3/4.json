@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ヤハウェは彼が見ようとして脇にそれたのを見られ、エロヒームは茨の中から彼に呼びかけ、言われた。「モーシェ、モーシェ。」彼は言った。「ここにいます。」",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして見られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "סר",
+      "gloss": "脇にそれた"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見ようとして"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして呼びかけた"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒームは"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "〜の中から"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "茨の"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ここにいます"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:09.674627531Z",
+  "model": "glm-5.2"
+}

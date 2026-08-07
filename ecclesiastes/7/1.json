@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "良い名は良い油 ⟨よりも⟩、そして死の日は生まれた日 ⟨よりも⟩。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名は"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "油 ⟨よりも⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "そして〜の日"
+    },
+    {
+      "surface": "המות",
+      "gloss": "死の"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "〜の日 ⟨よりも⟩"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "生まれた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:21.801392016Z",
+  "model": "glm-5.2"
+}

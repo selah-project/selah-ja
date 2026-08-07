@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 121,
+  "translation": "私の助けはヤハウェから、天と地を造られる方の ⟨ところから⟩。",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "私の助けは"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "〜のところから"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造られる方"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "と地"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:14.926840094Z",
+  "model": "glm-5.2"
+}

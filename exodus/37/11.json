@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして彼は⟨את⟩それに純金の被覆を施した、そしてそれのために周囲に金の縁取りを作った。",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "そして彼は被覆を施した"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それに"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は作った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それのために"
+    },
+    {
+      "surface": "זר",
+      "gloss": "縁取りを"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:33.001235805Z",
+  "model": "glm-5.2"
+}

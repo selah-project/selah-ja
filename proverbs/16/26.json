@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "労する者、彼のために労する、まことにその口が彼を駆り立てるからである。",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "者"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "労する"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "労する"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "駆り立てる"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼の上に"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "その口が"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:09.702147865Z",
+  "model": "glm-5.2"
+}

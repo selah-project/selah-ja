@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして⟨彼は⟩立ち上がり、去り、ヨナタンは町に入った。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして立ち上がった"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして去った"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "そしてヨナタンは"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入った"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:46.513030185Z",
+  "model": "glm-5.2"
+}

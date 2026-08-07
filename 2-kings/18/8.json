@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "彼はペリシテ人を打ち、アッザまで、またその境を、見張りの塔から城砦の町まで打った。",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "打ち"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ペリシテ人"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人を"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "アッザ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その境"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "その境を"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "…の塔から"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "見张りの"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "城砦の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:03.912725213Z",
+  "model": "glm-5.2"
+}

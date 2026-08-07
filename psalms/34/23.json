@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "ヤハウェは ⟨את⟩ ご自分のしもべたちのいのちを贖い、彼に避け寄る者のすべては有罪とされない。",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "贖う"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ご自分のしもべたちのいのち"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "いのち"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ご自分のしもべたち"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "有罪とされる"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "避け寄る者"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:38.491164234Z",
+  "model": "glm-5.2"
+}

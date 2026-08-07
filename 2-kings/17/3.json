@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 17:3",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "彼に対してシャルマネセル、アッシュールの王が攻め上った。そしてホシェアは彼の僕となり、彼に貢ぎ物を納めた。",
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "彼に対して"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "攻め上った"
+    },
+    {
+      "surface": "שלמנאסר",
+      "gloss": "シャルマネセルが"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アッシュールの"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして…なった"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼の"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ホシェアは"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "僕と"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして…納めた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "貢ぎ物を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:19.815901068Z",
+  "model": "glm-5.2"
+}

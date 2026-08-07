@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joel 4:21",
+  "book": "joel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "わたしは彼らの血を潔白と⟨する⟩、わたしは潔白と⟨しなかった⟩、そしてヤハウェはツィヨンに住まわれる。",
+  "tokens": [
+    {
+      "surface": "ונקיתי",
+      "gloss": "わたしは潔白とする"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "彼らの血"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "נקיתי",
+      "gloss": "わたしは潔白とした"
+    },
+    {
+      "surface": "והוה",
+      "gloss": "そしてヤハウェは"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "住まわれる"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ツィヨンに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:20:30.608125949Z",
+  "model": "glm-5.2"
+}

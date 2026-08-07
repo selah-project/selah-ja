@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 125,
+  "translation": "良い者たちに善を為してください、ヤハウェよ、そしてその心のまっすぐな者たちに。",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "善を為してください"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "良い者たちに"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "そして〜な者たちに"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "その心のまっすぐ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:06.778850880Z",
+  "model": "glm-5.2"
+}

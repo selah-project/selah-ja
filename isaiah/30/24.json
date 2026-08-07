@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 30:24",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そして牛と、地を耕す若ろばは、味つきの飼料を食べる。それは箕とシャベルで揺り分けられたものである。",
+  "tokens": [
+    {
+      "surface": "והאלפים",
+      "gloss": "そして牛"
+    },
+    {
+      "surface": "והעירים",
+      "gloss": "そして若ろば"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "耕す"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地を"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "飼料を"
+    },
+    {
+      "surface": "חמיץ",
+      "gloss": "味つきの"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは〜である"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "揺り分けられた"
+    },
+    {
+      "surface": "ברחת",
+      "gloss": "シャベルで"
+    },
+    {
+      "surface": "ובמזרה",
+      "gloss": "そして箕で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:41.467504080Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 4:13",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして⟨彼は⟩あなたがたに⟨את⟩彼の契約を告げ知らせた—すなわち、あなたがたに行うよう命じたもの、十のことばを。そして⟨彼は⟩それを二枚の石の板に書き記した。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の契約"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "彼の契約"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行うために"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "十の"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "ויכתבם",
+      "gloss": "そしてそれを書いた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二枚の"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "板"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:52.752802349Z",
+  "model": "glm-5.2"
+}

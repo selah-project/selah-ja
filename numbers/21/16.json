@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 21:16",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そこから ⟨彼らは⟩ ベエルに ⟨来た⟩ — それが井戸 ⟨である⟩、ヤハウェがモーセにこう言われた井戸：「民を集めよ。そうすれば ⟨את⟩ 民にわたしは水を与えよう。」",
+  "tokens": [
+    {
+      "surface": "ומשם",
+      "gloss": "そしてそこから"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "ベエルに"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それ⟨である⟩"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "井戸"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "モーセに"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "集めよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "そしてわたしは与えよう"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:58:15.795255345Z",
+  "model": "glm-5.2"
+}

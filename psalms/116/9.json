@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 116,
+  "translation": "私はヤハウェの御前に歩む、生ける者たちの地において。",
+  "tokens": [
+    {
+      "surface": "אֶ֭תְהַלֵּךְ",
+      "gloss": "私は歩む"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "の御前に"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בְּ֝אַרְצ֗וֹת",
+      "gloss": "の地において"
+    },
+    {
+      "surface": "הַֽחַיִּֽים",
+      "gloss": "生ける者たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:10.257324701Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "そして彼のために四十日が満たされた。そのように遺体防腐の日は満たされるからである。そしてミツライム（エジプト）は彼のために七十日泣いた。",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "そして満たされた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "満たされる"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "〜の日々"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "遺体防腐"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "そして泣いた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:12.353950451Z",
+  "model": "glm-5.2"
+}

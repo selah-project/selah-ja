@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "日は日にことばをわき出させ、夜は夜に知識を示す。",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "日は"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "日に"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "わき出させる"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ことばを"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "そして夜は"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "夜に"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "示す"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:57.341439898Z",
+  "model": "glm-5.2"
+}

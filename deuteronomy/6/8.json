@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてあなたはそれらをしるしとして〈あなたの〉手に結び、それらは〈あなたの〉目と目の間の前額帯とならねばならない。",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "そしてあなたは結ぶ"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "しるしとして"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "そしてそれらは…ならねばならない"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "前額帯"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…の間に"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "あなたの目"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:31.633714358Z",
+  "model": "glm-5.2"
+}

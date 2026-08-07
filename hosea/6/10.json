@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "イスラエルの家で恐るべきものを⟨私は⟩見た。そこにエフライムのものは淫行であり、イスラエルは汚された。",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "〜の家で"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "見た"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "恐るべきものを"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "淫行であり"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "エフライムのものは"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "汚された"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:17:07.790861967Z",
+  "model": "glm-5.2"
+}

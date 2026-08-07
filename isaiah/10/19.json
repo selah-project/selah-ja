@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 10:19",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして彼の森の木々の残りは数えられるほどになり、ひとりの若者がそれらを書き記す。",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "そして残りは"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木々の"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "彼の森の"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "数えられるほど"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "となる"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "そして若者が"
+    },
+    {
+      "surface": "יכתבם",
+      "gloss": "それらを書き記す"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:11.912388771Z",
+  "model": "glm-5.2"
+}

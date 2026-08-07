@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 71,
+  "translation": "エロヒム、私から遠く離れないでください。私のエロヒム、私の助けへ急いでください。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "遠く離れる"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私から"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "私のエロヒム"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "私の助けへ"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "急げ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:32.188944987Z",
+  "model": "glm-5.2"
+}

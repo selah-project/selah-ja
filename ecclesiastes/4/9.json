@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "ふたりはひとりより良く、彼らには自分たちの労苦において良い報いがあるからである。",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "良く"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ふたりは"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜よりも"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ひとり"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ある"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らには"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "報い"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "自分たちの労苦において"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:31.094303477Z",
+  "model": "glm-5.2"
+}

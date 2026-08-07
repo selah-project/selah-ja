@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "愚か者にその愚かさに従って答えよ、彼が自分の目に知恵ある者と思わないために。",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "答えよ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚か者"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "その愚かさに従って"
+    },
+    {
+      "surface": "פן",
+      "gloss": "〜ないために"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "知恵ある者"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "自分の目に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:40:42.432134027Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "これを私は心に立ち返らせる、それゆえに私は待ち望む。",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "これを"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "私は立ち返らせる"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "私の心"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "כן",
+      "gloss": "それ"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "私は待ち望む"
+    }
+  ],
+  "timestamp": "2026-08-07T13:35:50.848868997Z",
+  "model": "glm-5.2"
+}

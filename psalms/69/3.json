@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "私は深い淵に沈み、足場が⟨ない⟩。水の深みに入り、激流が私を押し流した。",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "私は沈んだ"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "〜の中の"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "深い淵"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして⟨ない⟩"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "足場が"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "私は入った"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "〜の深みに"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "そして激流が"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "私を押し流した"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:15.499515075Z",
+  "model": "glm-5.2"
+}

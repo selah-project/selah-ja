@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 19:4",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして国々は彼について聞いた。彼らの穴の中で捕らえられた。そして彼を鉤で連れて行った。ミツライム（エジプト）の地へ。",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "そして聞いた"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼について"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々は"
+    },
+    {
+      "surface": "בשחתם",
+      "gloss": "彼らの穴の中で"
+    },
+    {
+      "surface": "נתפש",
+      "gloss": "捕らえられた"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "そして彼を連れて行った"
+    },
+    {
+      "surface": "בחחים",
+      "gloss": "鉤で"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:06:26.227566858Z",
+  "model": "glm-5.2"
+}

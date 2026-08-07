@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "まことに、裏切りをもって裏切ったのは、イスラエルの家とユダの家がわたしに対して⟨裏切った⟩のだ。ヤハウェの御告げ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "裏切りをもって"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "裏切った"
+    },
+    {
+      "surface": "בי",
+      "gloss": "わたしに対して"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "そして〜の家"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:41:06.256814203Z",
+  "model": "glm-5.2"
+}

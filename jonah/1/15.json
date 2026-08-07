@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして彼らは⟨את⟩ヨナを担ぎ上げ、海に投げ込んだ。すると海はその荒れ狂いから立ち止まった。",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "そして彼らは担ぎ上げた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨナ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ヨナを"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "そして彼を投げ込んだ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の中へ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "そして立ち止まった"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海は"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "その荒れ狂いから"
+    }
+  ],
+  "timestamp": "2026-08-07T12:24:31.922498437Z",
+  "model": "glm-5.2"
+}

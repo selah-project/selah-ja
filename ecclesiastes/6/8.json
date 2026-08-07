@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "知恵ある者に愚か者よりも何が余分にあるのか。貧しい者が⟨何を得るのか⟩ — 生ける者の前を歩むことを知っているのに。",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "何が"
+    },
+    {
+      "surface": "יּוֹתֵ֥ר",
+      "gloss": "余分に"
+    },
+    {
+      "surface": "לֶחָכָ֖ם",
+      "gloss": "知恵ある者に"
+    },
+    {
+      "surface": "מִֽן",
+      "gloss": "〜よりも"
+    },
+    {
+      "surface": "הַכְּסִ֑יל",
+      "gloss": "愚か者"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "何が"
+    },
+    {
+      "surface": "לֶּעָנִ֣י",
+      "gloss": "貧しい者に"
+    },
+    {
+      "surface": "יוֹדֵ֔עַ",
+      "gloss": "知っている⟨者が⟩"
+    },
+    {
+      "surface": "לַהֲלֹ֖ךְ",
+      "gloss": "歩むことを"
+    },
+    {
+      "surface": "נֶ֥גֶד",
+      "gloss": "〜の前を"
+    },
+    {
+      "surface": "הַחַיִּֽים",
+      "gloss": "生ける者の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:02.269463514Z",
+  "model": "glm-5.2"
+}

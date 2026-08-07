@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "すなわち⟨את⟩全ナフタリ、そして⟨את⟩エフライムとマナセの地、そして⟨את⟩全ユダの地、最後の海まで。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "全ナフタリ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ナフタリ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "エフライムとマナセの地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "…の地"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライム"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "とマナセ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "全ユダの地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "…の地"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "最後の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:22:16.109772550Z",
+  "model": "glm-5.2"
+}

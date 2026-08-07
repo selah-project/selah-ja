@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 21:32",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして彼らはベエル・シェバで契約を結んだ。そしてアビメレクと、その軍勢の長ピコルは立ち上がり、ペリシテ人の地へと帰って行った。",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "そして彼らは結んだ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "ベエル・〜で"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "シェバ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "そして立ち上がった"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "アビメレク"
+    },
+    {
+      "surface": "ופיכל",
+      "gloss": "そしてピコル"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "彼の軍勢の"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "そして彼らは帰った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:13.035019432Z",
+  "model": "glm-5.2"
+}

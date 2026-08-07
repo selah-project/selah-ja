@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "泉を谷に送り出される方、それらは山々の間を流れて歩む。",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "送り出される方"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "泉を"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "谷に"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間を"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山々の"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "それらは歩む"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:53.626918983Z",
+  "model": "glm-5.2"
+}

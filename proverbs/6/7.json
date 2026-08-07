@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "⟨そこ⟩には指揮者も、監督者も、支配者も持たないのに——",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨そこ⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "持たない"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女にとっては"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "指揮者"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "監督者"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "も支配者"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:28.325256458Z",
+  "model": "glm-5.2"
+}

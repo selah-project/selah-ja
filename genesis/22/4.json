@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "三日目に、アブラハムは目を上げ、⟨את⟩その場所を遠くから見た。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "…の日に"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "三番目の"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "そして…上げた"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の目"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "彼の目"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "そして…見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その場所"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "その場所"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "遠くから"
+    }
+  ],
+  "timestamp": "2026-08-07T16:23:50.592437430Z",
+  "model": "glm-5.2"
+}

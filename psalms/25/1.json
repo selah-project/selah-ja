@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "ダヴィドの⟨詩⟩。あなたに、ヤハウェ、私は⟨私の⟩ネフェシュを上げる。",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ダヴィドの"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨私の⟩ネフェシュ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "私は上げる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:00.657343980Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "アシェルの子ら：イムナ、イシュワ、イシュヴィ、ベリア、およびセラフ彼らの姉妹。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "アシェル"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "イムナ"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "およびイシュワ"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "およびイシュヴィ"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "およびベリア"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "およびセラフ"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "彼らの姉妹"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:23.976525553Z",
+  "model": "glm-5.2"
+}

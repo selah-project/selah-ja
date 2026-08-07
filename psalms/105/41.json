@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "岩を開かれた、そして水が流れ出た。荒れ野を行った、川のように。",
+  "tokens": [
+    {
+      "surface": "פָּ֣תַח",
+      "gloss": "開かれた"
+    },
+    {
+      "surface": "צ֭וּר",
+      "gloss": "岩"
+    },
+    {
+      "surface": "וַיָּז֣וּבוּ",
+      "gloss": "そして流れ出た"
+    },
+    {
+      "surface": "מָ֑יִם",
+      "gloss": "水"
+    },
+    {
+      "surface": "הָ֝לְכ֗וּ",
+      "gloss": "行った"
+    },
+    {
+      "surface": "בַּצִּיּ֥וֹת",
+      "gloss": "荒れ野を"
+    },
+    {
+      "surface": "נָהָֽר",
+      "gloss": "川のように"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:00.124820124Z",
+  "model": "glm-5.2"
+}

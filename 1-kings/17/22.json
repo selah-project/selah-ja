@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてヤハウェはエリヤフの声を聞かれた。そして子供の命の息が⟨彼⟩の内側に返り、彼は生き返った。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "そして聞かれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "〜の声を"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "エリヤフ"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "そして返った"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "命の息"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "その子供の"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "彼の内側"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "そして生き返った"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:43.454368493Z",
+  "model": "glm-5.2"
+}

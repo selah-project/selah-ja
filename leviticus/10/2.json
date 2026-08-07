@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして火がヤハウェの前から出て、彼らを貪り食い、彼らはヤハウェの前に死んだ。",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "そして出た"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "…の前から"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "そして貪り食った"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:02.037420672Z",
+  "model": "glm-5.2"
+}

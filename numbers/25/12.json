@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "それゆえ、言え。見よ、私は彼に私の平和の契約⟨את⟩を与える、",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言え"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "見よ、私は…"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "…与えている"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の平和の契約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "私の…契約"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平和の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:59:55.642960209Z",
+  "model": "glm-5.2"
+}

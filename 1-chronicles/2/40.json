@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "エルアサは⟨את⟩シスマイを生み、シスマイは⟨את⟩シャルムを生んだ。",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "エルアサ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シスマイ"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "シスマイ"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "シスマイ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シャルム"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "シャルム"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:25.846174583Z",
+  "model": "glm-5.2"
+}

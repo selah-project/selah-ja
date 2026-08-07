@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "あなたの口元に ⟨ラッパを⟩ — 鷲のように ヤハウェの家の上に ⟨来る⟩。彼らがわたしの契約を破り、わたしのトーラーに背いたからだ。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "あなたの口元"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ラッパ"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "鷲のように"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "彼らは破った"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "わたしの契約"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "わたしのトーラー"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "彼らは背いた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:20:07.024320666Z",
+  "model": "glm-5.2"
+}

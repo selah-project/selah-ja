@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 22:25",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "ミカヤフは言った。「見よ、あなたはその日に見る。あなたが部屋から部屋へと入って身を隠す ⟨とき⟩に。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ミカヤフ"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "あなたは見る"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…の日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "… ⟨とき⟩"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "あなたが入る"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "部屋"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "部屋へ"
+    },
+    {
+      "surface": "להחבה",
+      "gloss": "身を隠すために"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:52.243344604Z",
+  "model": "glm-5.2"
+}

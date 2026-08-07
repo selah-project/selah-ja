@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "というのは、あなたは胎から私を引き出し、母の乳房の上に私を信頼させたからである。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "גֹחִ֣י",
+      "gloss": "引き出した"
+    },
+    {
+      "surface": "מִבָּ֑טֶן",
+      "gloss": "胎から"
+    },
+    {
+      "surface": "מַ֝בְטִיחִ֗י",
+      "gloss": "信頼させた"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "שְׁדֵ֥י",
+      "gloss": "乳房の"
+    },
+    {
+      "surface": "אִמִּֽי",
+      "gloss": "母の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:07.594099882Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "すべての敵を〈差し置いて〉、私は恥となった。そして隣人にはひときわ、知人にとっては恐怖⟨となった⟩。外で私を見る者は私から逃げ去った。",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "すべての〜から"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "私の敵"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "私は〜となった"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "恥"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "そして私の隣人には"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ひときわ"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "そして恐怖"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "私の知人にとっては"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "私を見る者は"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "外で"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "逃げ去った"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私から"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:26.487638759Z",
+  "model": "glm-5.2"
+}

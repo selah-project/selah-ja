@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "これらすべてを私は知恵によって試みた。私は言った、「私は知恵を得よう」と。しかし ⟨それは⟩ 私から遠い ⟨ものであった⟩。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "זֹ֖ה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "נִסִּ֣יתִי",
+      "gloss": "私は試みた"
+    },
+    {
+      "surface": "בַֽחָכְמָ֑ה",
+      "gloss": "知恵によって"
+    },
+    {
+      "surface": "אָמַ֣רְתִּי",
+      "gloss": "私は言った"
+    },
+    {
+      "surface": "אֶחְכָּ֔מָה",
+      "gloss": "私は知恵を得よう"
+    },
+    {
+      "surface": "וְהִ֖יא",
+      "gloss": "しかし ⟨それは⟩"
+    },
+    {
+      "surface": "רְחוֹקָ֥ה",
+      "gloss": "遠い"
+    },
+    {
+      "surface": "מִמֶּֽנִּי",
+      "gloss": "私から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:21.847716721Z",
+  "model": "glm-5.2"
+}

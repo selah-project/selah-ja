@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてユダはイスラエルの前で打ち破られ、彼らはおのおの自分の天幕に逃げた。",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "そして打ち破られた"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダは"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前で"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "そして逃げた"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "自分の天幕に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:15:02.483694276Z",
+  "model": "glm-5.2"
+}

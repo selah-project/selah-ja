@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "メラヨトは⟨את⟩アマルヤを生み、アマルヤは⟨את⟩アヒトブを生んだ。",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "メラヨト"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アマルヤ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "アマルヤ"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "そしてアマルヤは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アヒトブ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "アヒトブ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:19.625051931Z",
+  "model": "glm-5.2"
+}

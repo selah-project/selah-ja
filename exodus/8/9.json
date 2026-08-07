@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてヤハウェはモーセのことば通りに行われた。そしてカエルは家々から、庭から、畑から死んだ。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして行われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "〜のことば通りに"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "カエルは"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "家々"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "庭"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "そして〜から"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "畑"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:38.353083842Z",
+  "model": "glm-5.2"
+}

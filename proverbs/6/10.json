@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "少しの眠り、少しのまどろみ、少しの手の抱擁、そして寝そべるために。",
+  "tokens": [
+    {
+      "surface": "מְעַ֣ט",
+      "gloss": "少しの"
+    },
+    {
+      "surface": "שֵׁ֭נוֹת",
+      "gloss": "眠り"
+    },
+    {
+      "surface": "מְעַ֣ט",
+      "gloss": "少しの"
+    },
+    {
+      "surface": "תְּנוּמ֑וֹת",
+      "gloss": "まどろみ"
+    },
+    {
+      "surface": "מְעַ֓ט",
+      "gloss": "少しの"
+    },
+    {
+      "surface": "חִבֻּ֖ק",
+      "gloss": "手の抱擁"
+    },
+    {
+      "surface": "יָדַ֣יִם",
+      "gloss": "〈手〉"
+    },
+    {
+      "surface": "לִשְׁכָּֽב",
+      "gloss": "寝そべるために"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:19.879574630Z",
+  "model": "glm-5.2"
+}

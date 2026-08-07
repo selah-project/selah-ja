@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "そして人間は栄誉のうちに⟨とどまっては⟩おらず、一夜も宿らない。家畜のようにたとえられ、滅びうせた。",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "そして人間は"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "栄誉のうちに"
+    },
+    {
+      "surface": "בל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "宿る"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "たとえられた"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "家畜のように"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "滅びうせた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:57.486904696Z",
+  "model": "glm-5.2"
+}

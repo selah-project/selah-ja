@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "私⟨は⟩ヤハウェ、あなたのエロヒム。⟨私が⟩あなたをミツライムの地から、奴隷の家から連れ出した⟨者である⟩。",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "私"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である⟨者⟩"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "あなたを連れ出した"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "〜の地から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）の"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "〜の家から"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴隷の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:49.126521517Z",
+  "model": "glm-5.2"
+}

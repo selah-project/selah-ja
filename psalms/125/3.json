@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 125,
+  "translation": "悪者の杖は正しい者たちの割り当ての上に休まることはない — それは、正しい者たちが自分たちの手を不正に伸ばさないためだ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "休まることは"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "杖"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "悪者の"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "割り当て"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "正しい者たちの"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜ためだ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "伸ばさない"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "正しい者たちが"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "不正に"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "自分たちの手を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:06.778747899Z",
+  "model": "glm-5.2"
+}

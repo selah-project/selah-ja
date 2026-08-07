@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "見よ、わたしの両手 ⟨の⟩ 裏にあなた ⟨を⟩ 彫り刻んだ。あなたの城壁は常にわたしの前に。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "両手 ⟨の⟩ 裏"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "あなた ⟨を⟩ 彫り刻んだ",
+      "marks": "あなた"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "あなたの城壁"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "わたしの前に"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:31:06.233839377Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "走兵たちは立ち、おのおのその武器を手に ⟨持って⟩、神殿の右の肩から神殿の左の肩に至るまで、祭壇と神殿 ⟨に沿って⟩、王の周りに ⟨立ち围んだ⟩。",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "彼らは立った"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "走兵たちは"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "その武器を"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "手に"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "〜の肩から"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "神殿の"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右の"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "肩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "神殿の"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "左の"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "祭壇と"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "神殿に"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周りに"
+    }
+  ],
+  "timestamp": "2026-08-07T19:12:43.370793687Z",
+  "model": "glm-5.2"
+}

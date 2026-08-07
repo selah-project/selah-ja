@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 4:20",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "朝から夕まで彼らは打ち砕かれる。気づく者もなく、とこしえに彼らは滅びる。",
+  "tokens": [
+    {
+      "surface": "מבקר",
+      "gloss": "朝から"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "夕まで"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "打ち砕かれる"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "〜もなく"
+    },
+    {
+      "surface": "משים",
+      "gloss": "気づく者"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "滅びる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:19:09.777035660Z",
+  "model": "glm-5.2"
+}

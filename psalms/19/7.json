@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "その出口は天の果てから、その巡歴は⟨天⟩の果てに至るまで。その熱から隠されるものはない。",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "…の果てから"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "その出口"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "その巡歴"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "それらの果て"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "隠されるもの"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "その熱から"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:04.997526762Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そしてヤハウェは民を打たれた ⟨את⟩—その民を—、彼らがアハロンが造った子牛を造った ⟨את⟩—その子牛を—ことのゆえに。",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "そして打たれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それを"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "彼らが造った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "子牛"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "その子牛"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それを"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造った"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    }
+  ],
+  "timestamp": "2026-08-07T18:13:29.659704183Z",
+  "model": "glm-5.2"
+}

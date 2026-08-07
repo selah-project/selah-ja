@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 12:1",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして、あなたの若さの日に ⟨את⟩ あなたの創造者を覚えよ — 悪い日々が来ないうちに、そしてあなたが「私には ⟨それらに⟩ 喜びがない」と言うような年々が近づかないうちに。",
+  "tokens": [
+    {
+      "surface": "וזכר",
+      "gloss": "そして覚えよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの創造者"
+    },
+    {
+      "surface": "בוראיך",
+      "gloss": "あなたの創造者"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "בחורתיך",
+      "gloss": "あなたの若さ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜の間に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜いううちに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "来る"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日々"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "והגיעו",
+      "gloss": "そして近づく"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年々"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "あなたは言う"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私には"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "それらに"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "喜び"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:35.507303078Z",
+  "model": "glm-5.2"
+}

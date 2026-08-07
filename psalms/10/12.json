@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "立ち上がれ、ヤハウェよ。エルよ、御手を高く挙げよ。忘れるな、苦しみ人たちを。",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "立ち上がれ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エルよ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "高く挙げよ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "御手を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…な"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "忘れる"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "苦しみ人たちを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:33.107538684Z",
+  "model": "glm-5.2"
+}

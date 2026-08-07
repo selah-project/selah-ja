@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "まことにこう言われる、ヤハウェは。勇士の捕虜さえ取られ、暴虐者の獲物すら救い出される。そして⟨את⟩あなたと争う者を、このわたしが争い、⟨את⟩あなたの子らを、このわたしが救う。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜さえ"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "捕虜"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士の"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "取られ"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "そして獲物"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "暴虐者の"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "救い出される"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたと争う者"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "あなたと争う者"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "このわたしが"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "争う"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの子ら"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "あなたの子ら"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "このわたしが"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "救う"
+    }
+  ],
+  "timestamp": "2026-08-07T14:45:14.299118191Z",
+  "model": "glm-5.2"
+}

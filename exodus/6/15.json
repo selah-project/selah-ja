@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 6:15",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてシメオンの子ら—エムエル、ヤミン、オハド、ヤヒン、ツォハル、およびカナン人の女の息子シャウル。これらはシメオンの氏族である。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "そして〜の子ら"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "シメオン"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "エムエル"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "およびヤミン"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "オハド"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "およびヤヒン"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "およびツォハル"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "およびシャウル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "カナン人の女の"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "氏族"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "シメオンの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:27.778425141Z",
+  "model": "glm-5.2"
+}

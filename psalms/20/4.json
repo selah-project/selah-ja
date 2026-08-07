@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "あなたのすべてのミンハーを覚え、あなたの全焼の献げ物を肥やとするように。セラ。",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "覚える"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "あなたのミンハー"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "あなたの全焼の献げ物"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "肥やとする"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:08.299948215Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 36:27",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "これは彼が水の滴を引き寄せ、雨がその霧に向かって濾し出されるからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "これは～からである"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "引き寄せ"
+    },
+    {
+      "surface": "נטפי",
+      "gloss": "滴を"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "濾し出される"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "雨が"
+    },
+    {
+      "surface": "לאדו",
+      "gloss": "その霧に向かって"
+    }
+  ],
+  "timestamp": "2026-08-07T13:29:14.054474008Z",
+  "model": "glm-5.2"
+}

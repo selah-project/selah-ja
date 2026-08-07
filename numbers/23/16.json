@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 23:16",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "ヤハウェはバラアムに会い、みことばを彼の口に置いた。そして言った、「バラクのところに戻り、このように語れ」。",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "そして出会った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "バラアム"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "そして置いた"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "みことばを"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "彼の口に"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "戻れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところに"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "バラク"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "そしてこのように"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "あなたは語れ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:00:23.047318692Z",
+  "model": "glm-5.2"
+}

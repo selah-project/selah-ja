@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "長さ百アンマの正面に、北の入り口の。そして幅は五十アンマ。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "正面"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長さ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "北の"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "そして幅"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "アンマ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:14:41.202120732Z",
+  "model": "glm-5.2"
+}

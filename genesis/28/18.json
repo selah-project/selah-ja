@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 28:18",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "ヤアコブは朝早く起き、自分の頭の傍に置いた ⟨את⟩ 石を取り、それをマツェバとして立て、その頂に油を注いだ。",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "そして早く起きた"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブは"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝に"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "石"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "その石を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "שם",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "彼の頭の傍に"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "そして据えた"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "マツェバ"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "マツェバとして"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "そして注いだ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "その頂"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:47.529166448Z",
+  "model": "glm-5.2"
+}

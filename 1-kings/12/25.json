@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてヤラブアムは ⟨את⟩ シェケムをエフライムの山に建て、そこに住んだ。そしてそこから出て、 ⟨את⟩ ペヌエルを建てた。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "そして……建てた"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ヤラブアムは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シェケムを"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "シェケムを"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "……の山に"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライムの"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして……住んだ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして……出て"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "そして……建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ペヌエルを"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ペヌエルを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:03:27.855503760Z",
+  "model": "glm-5.2"
+}

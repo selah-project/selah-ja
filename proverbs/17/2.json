@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "分別あるしもべは恥をもたらす息子を治め、兄弟たちの中で相続地を分け与えられる。",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "しもべ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "分別ある"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "治める"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "息子を"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "恥をもたらす"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "そして〜の中で"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "兄弟たち"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "分け与えられる"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "相続地を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:21.557483624Z",
+  "model": "glm-5.2"
+}

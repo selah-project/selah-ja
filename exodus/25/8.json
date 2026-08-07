@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "⟨彼らは⟩わたしのために聖所を造らなければならない。そうすれば、わたしは彼らのただ中に住むであろう。",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "⟨彼らは⟩…造る"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしのために"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "わたしは住む"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "彼らのただ中に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:21.302894157Z",
+  "model": "glm-5.2"
+}

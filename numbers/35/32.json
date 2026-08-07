@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 35:32",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そして身代金を受け取ってはならない ――彼が再び地に住むために、自分の避難の町へ逃げた者のため ――大祭の死まで。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "あなたがたは受け取ってはならない"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "身代金"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "逃げた者のため"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "自分の避難の"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "再び…ために"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "住むために"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "その祭司"
+    }
+  ],
+  "timestamp": "2026-08-07T10:05:33.494977322Z",
+  "model": "glm-5.2"
+}

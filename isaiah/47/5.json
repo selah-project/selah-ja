@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 47:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "座れ、黙って、闇に入れ、カルデアの娘よ。彼らがもはやあなたを呼ばないから、王国たちの女主人⟨を⟩、と。",
+  "tokens": [
+    {
+      "surface": "שבי",
+      "gloss": "座れ"
+    },
+    {
+      "surface": "דומם",
+      "gloss": "黙って"
+    },
+    {
+      "surface": "ובאי",
+      "gloss": "入れ"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "闇に"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘よ"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "カルデアの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "もはや〜は"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "呼ぶ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたを"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "女主人"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "王国たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:42.782597401Z",
+  "model": "glm-5.2"
+}

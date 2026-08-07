@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてヤハウェの霊があなたの上に力強く及び、あなたは彼らと共に預言し、あなたは別の人に変わる。",
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "そして〜は力強く及ぶ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたの上に"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "あなたは預言する"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "彼らと共に"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "あなたは変わる"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "人に"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:42:45.611115804Z",
+  "model": "glm-5.2"
+}

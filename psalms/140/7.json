@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 140,
+  "translation": "私はヤハウェに言った、「あなたは私のエルです。耳を傾けてください、ヤハウェ、私の懇願の声に。」",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "私は言った"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のエル"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "耳を傾けてください"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声を"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "私の懇願の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:43.678541296Z",
+  "model": "glm-5.2"
+}

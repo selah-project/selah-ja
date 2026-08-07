@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "わたしはあなたを大いに、大いに実らせ、あなたを国々とする。あなたから王たちが出るであろう。",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "わたしはあなたを実らせよう"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "あなた"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "極めて"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極めて"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "わたしはあなたを〜とする"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "国々に"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "そして王たちが"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "あなたから"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出るであろう"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:58.408312515Z",
+  "model": "glm-5.2"
+}

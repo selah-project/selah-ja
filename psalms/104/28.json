@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "あなたが彼らに与える — 彼らは集める。あなたがあなたの手を開く — 彼らは満ちる、良いもので。",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "あなたは与える"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "彼らは集める"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "あなたは開く"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "彼らは満ちる"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良いもの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:59:05.897752885Z",
+  "model": "glm-5.2"
+}

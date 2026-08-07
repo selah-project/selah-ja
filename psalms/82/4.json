@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 82,
+  "translation": "弱き者と乏しき者を逃れさせ、悪者たちの手から救い出せ。",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "逃れさせよ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "弱き者"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "〜と乏しき者"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "〜の手から"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たち"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "救い出せ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:28.933463753Z",
+  "model": "glm-5.2"
+}

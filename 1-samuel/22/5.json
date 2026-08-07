@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 22:5",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして預言者ガドはダヴィドに言った、「要塞に留まってはならない。行って、あなたはユダの地に入りなさい」。そしてダヴィドは行き、ハレトの森に来た。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ガド"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "留まっては"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "要塞に"
+    },
+    {
+      "surface": "לך",
+      "gloss": "行って"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "…入って"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "…の地"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして…来た"
+    },
+    {
+      "surface": "יער",
+      "gloss": "…の森"
+    },
+    {
+      "surface": "חרת",
+      "gloss": "ハレト"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:16.881183285Z",
+  "model": "glm-5.2"
+}

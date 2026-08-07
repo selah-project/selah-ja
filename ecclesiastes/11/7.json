@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "光は甘く、目にとって良い、太陽を見ることが。〈それは目にとって良いことである。〉",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "そして甘い"
+    },
+    {
+      "surface": "האור",
+      "gloss": "光は"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "そして良い"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "目にとって"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見ることが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "太陽"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:55.384316649Z",
+  "model": "glm-5.2"
+}

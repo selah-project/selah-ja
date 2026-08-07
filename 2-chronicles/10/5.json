@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして彼は彼らに言った——あと三日、そしてわたしのもとに戻れ。そして民は去った。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "あと"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三つの"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "そして戻れ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "わたしのもとに"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして去った"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:50.759058926Z",
+  "model": "glm-5.2"
+}

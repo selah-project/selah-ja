@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "私たちの肌はかまどのように焼け焦げた、飢饉の猛炎のゆえに。",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "私たちの肌は"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "かまどのように"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "焼け焦げた"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "猛炎の"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "飢饉の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:57.725085750Z",
+  "model": "glm-5.2"
+}

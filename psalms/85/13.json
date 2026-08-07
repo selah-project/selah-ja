@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 85,
+  "translation": "まことにヤハウェは⟨את⟩良いものを与え、わたしたちの地はその産物を与える。",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יִתֵּן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "הַטּוֹב",
+      "gloss": "良いもの"
+    },
+    {
+      "surface": "וְאַרְצֵנוּ",
+      "gloss": "わたしたちの地"
+    },
+    {
+      "surface": "תִּתֵּן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "יְבוּלָהּ",
+      "gloss": "その産物"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:00.236954420Z",
+  "model": "glm-5.2"
+}

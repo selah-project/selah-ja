@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "なぜなら、よそ者の唇は蜜の滴りのように滴り、その口蓋は油よりも滑らかなからだ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "蜜の滴り"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "滴り"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "〜の唇は"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "よそ者の"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "そして滑らか"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "油よりも"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "その口蓋は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:09:00.623124601Z",
+  "model": "glm-5.2"
+}

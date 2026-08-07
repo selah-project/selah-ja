@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "deuteronomy 28:39",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "ぶどう園をあなたは植え、労するが、ぶどう酒を飲まず、集 ⟨め⟩ ⟨も⟩ しない。虫がそれを食う ⟨からである⟩。",
+  "tokens": [
+    {
+      "surface": "כרמים",
+      "gloss": "ぶどう園"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "あなたは植える"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "労する"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ぶどう酒"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "あなたは飲む"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תאגר",
+      "gloss": "あなたは集める"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜因为"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "それを食う"
+    },
+    {
+      "surface": "התלעת",
+      "gloss": "虫"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:22.213416479Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 20:5",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてギブアの主人たちが私に向かって立ち上がり、夜、私に向かって⟨את⟩家を取り囲んだ。私を殺そうと図り、⟨את⟩私のそばめを凌辱したので、彼女は死んだ。",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "そして立ち上がった"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私に向かって"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "主人たち"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "ギブアの"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "そして取り囲んだ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私に向かって"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家を"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "私を"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "図った"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "殺そうと"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "私のそばめ"
+    },
+    {
+      "surface": "פילגשי",
+      "gloss": "私のそばめを"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "凌辱した"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "そして死んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:38:32.138813383Z",
+  "model": "glm-5.2"
+}

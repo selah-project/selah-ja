@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 118,
+  "translation": "死ぬことはない、生きるのだ、こうしてヤハのみわざを語り告げよう。",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אָמ֥וּת",
+      "gloss": "死ぬ"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "〜だからこそ"
+    },
+    {
+      "surface": "אֶֽחְיֶ֑ה",
+      "gloss": "生きる"
+    },
+    {
+      "surface": "וַ֝אֲסַפֵּ֗ר",
+      "gloss": "語り告げる"
+    },
+    {
+      "surface": "מַֽעֲשֵׂ֥י",
+      "gloss": "みわざ"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "ヤハ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:57.172884497Z",
+  "model": "glm-5.2"
+}

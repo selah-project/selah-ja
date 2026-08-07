@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 111,
+  "translation": "威光と荘厳はそのみわざ、その義はとこしへまで立つ。",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "威光"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "と荘厳"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "そのみわざ"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "その義は"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "とこしへまで"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:52.950549658Z",
+  "model": "glm-5.2"
+}

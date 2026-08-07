@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 27:6",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "信頼できる者是愛する者の傷であり、憎む者の口づけはしつこく付きまとう。",
+  "tokens": [
+    {
+      "surface": "נאמנים",
+      "gloss": "信頼できる"
+    },
+    {
+      "surface": "פצעי",
+      "gloss": "傷"
+    },
+    {
+      "surface": "אוהב",
+      "gloss": "愛する者の"
+    },
+    {
+      "surface": "ונעתרות",
+      "gloss": "しつこく付きまとう"
+    },
+    {
+      "surface": "נשיקות",
+      "gloss": "口づけは"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "憎む者の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:06.984704932Z",
+  "model": "glm-5.2"
+}

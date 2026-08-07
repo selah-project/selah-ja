@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "朝⟨が⟩明るくなり、その人々は彼らと彼らのろばと共に送り出された。",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "אור",
+      "gloss": "明るくなり"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "そしてその人々は"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "送り出された"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼ら自身"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "そして彼らのろばと"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:18.708732912Z",
+  "model": "glm-5.2"
+}

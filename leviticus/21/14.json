@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "やもめ、離縁された女、汚された女、遊女――⟨את⟩これらを彼は娶ってはならない。ただし自分の民から處女を女として娶らなければならない。",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "やもめ"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "離縁された女"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "汚された女"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "遊女"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これら"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "彼は娶っては"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "處女を"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "自分の民から"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "彼は娶らなければならない"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女として"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:22.322001319Z",
+  "model": "glm-5.2"
+}

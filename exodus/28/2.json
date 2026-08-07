@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そしてあなたは作れ、聖なる衣を、アハロンあなたの兄弟のための、栄光と美のために。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "そしてあなたは作れ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "衣"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "アハロンのための"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "栄光のために"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "と美のために"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:33.652434222Z",
+  "model": "glm-5.2"
+}

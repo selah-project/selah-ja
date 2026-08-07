@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 43:20",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "そしてあなたはその血を取って、その四つの角の上に、そして外庭の四隅に、そして周りの縁に塗り、こうしてあなたはそれを清め、それを贖う。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "そしてあなたは取る"
+    },
+    {
+      "surface": "מדמו",
+      "gloss": "その血を"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "そしてあなたは塗る"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四つの"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "その角"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四つの"
+    },
+    {
+      "surface": "פנות",
+      "gloss": "隅"
+    },
+    {
+      "surface": "העזרה",
+      "gloss": "外庭の"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "縁"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周りの"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "そしてあなたは清める"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "וכפרתהו",
+      "gloss": "そしてあなたはそれを贖う"
+    }
+  ],
+  "timestamp": "2026-08-07T12:15:28.525233616Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "そしてあなたの神ヤハウェが ⟨את⟩ 私たちの進む道と ⟨את⟩ 私たちのなすべき事柄を私たちに告げさせてください。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "告げさせてください"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちに"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "あなたの神"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "道"
+    },
+    {
+      "surface": "הַדֶּ֖רֶךְ",
+      "gloss": "道"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נֵֽלֶךְ",
+      "gloss": "私たちが進む"
+    },
+    {
+      "surface": "בָּ֑הּ",
+      "gloss": "それにおいて"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "そして⟨את⟩",
+      "marks": "事柄"
+    },
+    {
+      "surface": "הַדָּבָ֖ר",
+      "gloss": "事柄"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נַעֲשֶֽׂה",
+      "gloss": "私たちがなす"
+    }
+  ],
+  "timestamp": "2026-08-07T18:36:18.636477711Z",
+  "model": "glm-5.2"
+}

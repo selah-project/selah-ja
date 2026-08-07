@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 42:3",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "二十〈アンマ〉の前に、内庭のものの、そして舗装された石床の前に、外庭のものの。回廊が回廊に面して、三層の。",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "庭のもの"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "内の"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "そして〜の前に"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "舗装された石床"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "庭のもの"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "外の"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "回廊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に面して"
+    },
+    {
+      "surface": "פני",
+      "gloss": "正面"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "回廊"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "三層に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:14:41.202202582Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "指揮者へ。コラの子らによるマスキール。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者へ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "マスキール"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〜の子らによる"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "コラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:13.263610380Z",
+  "model": "glm-5.2"
+}

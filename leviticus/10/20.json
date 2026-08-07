@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "モーセは聞いた。そしてそれは彼の目に良かった。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聞いた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "そしてそれは良かった"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "彼の目に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:58.455858895Z",
+  "model": "glm-5.2"
+}

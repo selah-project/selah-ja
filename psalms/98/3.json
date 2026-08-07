@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 98,
+  "translation": "彼は彼のヘセドと彼の真実を覚えた。イスラエルの家に。地のすべての果てが見た — ⟨את⟩ 私たちのエロヒムの救いを。",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "覚えた"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "彼のヘセド"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "と彼の真実"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "見た"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "果て"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私たちのエロヒムの救い"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "救い"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "私たちのエロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:39.130366925Z",
+  "model": "glm-5.2"
+}

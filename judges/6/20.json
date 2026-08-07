@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてエロヒムの御使いは⟨彼⟩に言った。「⟨את⟩ 肉と ⟨את⟩ 種なしパンを取って、この岩の上に置き、⟨את⟩ 汁を注ぎ出しなさい。」そして⟨彼⟩はそのようにした。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "御使い"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "קח",
+      "gloss": "取って"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "肉"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "種なしパン"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "種なしパン"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "そして置き"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "岩"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "この"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "汁"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "汁"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "注ぎ出しなさい"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "そしてした"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    }
+  ],
+  "timestamp": "2026-08-07T10:33:44.300821208Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 35:20",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "これらすべてのことの後、ヨシヤが⟨את⟩その家を整えた時、ミツライムの王ネコが、カルケミシュにおいて、ペラトのほとりで戦うために上って来た。そしてヨシヤは彼の出迎えのために出て行った。",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "…の後に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これらのこと"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "整えた"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ヨシヤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上って来た"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "ネコ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "戦うために"
+    },
+    {
+      "surface": "בכרכמיש",
+      "gloss": "カルケミシュにおいて"
+    },
+    {
+      "surface": "על",
+      "gloss": "…のほとりで"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ペラト"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て行った"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "彼の出迎えのために"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ヨシヤ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:20:16.297211901Z",
+  "model": "glm-5.2"
+}

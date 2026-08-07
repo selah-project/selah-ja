@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "アヒメレク、アヒトブの子の一人の息子が逃れた。その名はアビヤタル。そして彼はダビデのあとに逃げた。",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "そして逃れた"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の息子"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一人"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "アヒメレク"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "アヒトブ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "そして彼の名は"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "アビヤタル"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "そして彼は逃げた"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…のあとに"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:20.534644157Z",
+  "model": "glm-5.2"
+}

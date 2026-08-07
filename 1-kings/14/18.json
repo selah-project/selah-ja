@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 14:18",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "彼らは⟨את⟩彼を葬り、全イスラエルは彼のために哀悼した — ヤハウェのことばの通り、⟨それは⟩彼の僕、預言者アヒヤの手によって語られたものである。",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "彼らは葬り"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "哀悼した"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルは"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ことばの通り"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨それは⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手によって"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "彼の僕"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "アヒヤ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "預言者"
+    }
+  ],
+  "timestamp": "2026-08-07T11:06:28.984901179Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "賛歌、アサフの。エル、エロヒム、ヤハウェは語り、地を呼び寄せられた —日の出る方から、その入り口まで。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "賛歌"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "アサフの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語り"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして呼び寄せられた"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "—の東から"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "その入り口"
+    }
+  ],
+  "timestamp": "2026-08-07T12:47:36.263067358Z",
+  "model": "glm-5.2"
+}

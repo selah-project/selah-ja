@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 25:13",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして⟨את⟩ヤハウェの家にある青銅の柱を、⟨את⟩台座を、⟨את⟩ヤハウェの家にある青銅の海を、カルデア人は打ち砕き、彼らの青銅を⟨את⟩バビロンへ運んだ。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "青銅の柱"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "柱"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜にある"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "台座"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "台座"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "海"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜にある"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "打ち砕いた"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "カルデア人は"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "そして運んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの青銅"
+    },
+    {
+      "surface": "נחשתם",
+      "gloss": "彼らの青銅"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "バビロンへ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:05.271797648Z",
+  "model": "glm-5.2"
+}

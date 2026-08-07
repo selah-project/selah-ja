@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そしてあなたたちのうち心の賢い人はみな、来て、ヤハウェが命じられたすべてのものを⟨את⟩造れ",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "賢い"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心の"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "あなたたちのうち"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "来て"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "造れ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのもの"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:06.961054936Z",
+  "model": "glm-5.2"
+}

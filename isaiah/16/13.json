@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "これが⟨その⟩ことばである、ヤハウェがモアブに語られたところの、むかしからのことばである。",
+  "tokens": [
+    {
+      "surface": "זֶ֣ה",
+      "gloss": "これが"
+    },
+    {
+      "surface": "הַדָּבָ֗ר",
+      "gloss": "⟨その⟩ことば"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "דִּבֶּ֧ר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "מוֹאָ֖ב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "מֵאָֽז",
+      "gloss": "むかしから"
+    }
+  ],
+  "timestamp": "2026-08-07T11:24:06.254456675Z",
+  "model": "glm-5.2"
+}

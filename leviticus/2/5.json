@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして、もしあなたの供え物が鉄板の上のミンハー⟨である⟩なら、油を混ぜた細かい粉のマッツァー⟨でなければならない⟩。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ミンハー"
+    },
+    {
+      "surface": "על",
+      "gloss": "の上の"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "鉄板"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "あなたの供え物"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細かい粉"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "混ぜられた"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "油で"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "マッツァー"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "〜でなければならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:42.083741279Z",
+  "model": "glm-5.2"
+}

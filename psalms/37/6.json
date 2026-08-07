@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして⟨彼⟩はあなたの義を光のように、あなたの裁きを真昼のように輝き出させる。",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "そして輝き出させる"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "光のように"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "あなたの義を"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "そしてあなたの裁きを"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "真昼のように"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:17.554322514Z",
+  "model": "glm-5.2"
+}

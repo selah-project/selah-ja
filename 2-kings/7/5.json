@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 7:5",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして彼らは夜明けに立って、アラムの陣営に入ろうとした。そして彼らはアラムの陣営の端にまで来たが、見よ、そこには一人の人もいなかった。",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "そして彼らは立った"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "夜明けに"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "入ろうとして"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "陣営"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラムの"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "そして彼らは来た"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜にまで"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "端"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "陣営"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラムの"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人が"
+    }
+  ],
+  "timestamp": "2026-08-07T11:12:31.785790765Z",
+  "model": "glm-5.2"
+}

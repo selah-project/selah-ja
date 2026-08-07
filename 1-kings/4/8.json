@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてこれらが彼らの名である：ベン・フル、エフライムの山地に。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらが"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "彼らの名"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の息子"
+    },
+    {
+      "surface": "חור",
+      "gloss": "フル"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山地に"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライム"
+    }
+  ],
+  "timestamp": "2026-08-07T16:48:28.018814536Z",
+  "model": "glm-5.2"
+}

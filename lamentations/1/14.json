@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 1:14",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "私の背きの軛は⟨彼の⟩手によって固く留められた。それらは編み合わされた、私の首の上に昇った。⟨彼は⟩私の力をよろけさせた。アドナイ、私を手の中に渡された、私は立つことができない。",
+  "tokens": [
+    {
+      "surface": "נשקד",
+      "gloss": "固く留められた"
+    },
+    {
+      "surface": "על",
+      "gloss": "軛"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "私の背きの"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "彼の手によって"
+    },
+    {
+      "surface": "ישתרגו",
+      "gloss": "編み合わされた"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "昇った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "צוארי",
+      "gloss": "私の首"
+    },
+    {
+      "surface": "הכשיל",
+      "gloss": "よろけさせた"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "私の力を"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "私を渡された"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "手の中に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ことができる"
+    },
+    {
+      "surface": "קום",
+      "gloss": "立つ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:42:07.191811996Z",
+  "model": "glm-5.2"
+}

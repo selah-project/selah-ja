@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そして民はすべて、⟨את⟩ 雲の柱が天幕の入り口に立つのを見た。そして民はすべて立ち上がり、ひれ伏した — おのおの自分の天幕の入り口で。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雲の柱"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "柱"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲の"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "立つのを"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口に"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "天幕の"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "そして立ち上がり"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ひれ伏した"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口で"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "自分の天幕の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:57.564983339Z",
+  "model": "glm-5.2"
+}

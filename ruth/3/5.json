@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "すると彼女は彼女に言った、「あなたの言うすべてのことを私は行ないましょう」と。",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "そして彼女は言った"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "あなたが言う"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "私は行なう"
+    }
+  ],
+  "timestamp": "2026-08-07T13:34:49.571541530Z",
+  "model": "glm-5.2"
+}

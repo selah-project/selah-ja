@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 95,
+  "translation": "それゆえ私は私の怒りにおいて誓った、「もし彼らが私の安息に入るなら〔、決して入らない〕。」",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "私は誓った"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "私の怒りにおいて"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "彼らが入るなら"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "私の安息に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:30.401449419Z",
+  "model": "glm-5.2"
+}

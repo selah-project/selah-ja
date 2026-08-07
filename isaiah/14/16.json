@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "あなたを見る者たちはあなたに目を注ぎ、あなたに心を向ける。これがその人か、地を揺るがした者、国々を震わせた者は。」",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "あなたを見る者たちは"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "目を注ぎ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "心を向ける"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "これが〜か"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その人"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "揺るがした者"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "震わせた者"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "国々を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:53.949661839Z",
+  "model": "glm-5.2"
+}

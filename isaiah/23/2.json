@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "黙れ、島の住民よ。ツィドン（シドン）の商人よ、海を渡る者よ — ⟨それは⟩あなたを満たした。",
+  "tokens": [
+    {
+      "surface": "דֹּ֖מּוּ",
+      "gloss": "黙れ"
+    },
+    {
+      "surface": "יֹ֣שְׁבֵי",
+      "gloss": "〜の住民よ"
+    },
+    {
+      "surface": "אִ֑י",
+      "gloss": "島"
+    },
+    {
+      "surface": "סֹחֵ֥ר",
+      "gloss": "〜の商人よ"
+    },
+    {
+      "surface": "צִיד֛וֹן",
+      "gloss": "ツィドン（シドン）"
+    },
+    {
+      "surface": "עֹבֵ֥ר",
+      "gloss": "渡る者よ"
+    },
+    {
+      "surface": "יָ֖ם",
+      "gloss": "海を"
+    },
+    {
+      "surface": "מִלְאֽוּךְ",
+      "gloss": "あなたを満たした"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:15.661337512Z",
+  "model": "glm-5.2"
+}

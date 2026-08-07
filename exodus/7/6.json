@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてモシェとアハロンはした、ヤハウェが彼らに命じたように、そう彼らはした。",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַשׂ",
+      "gloss": "そして〜した"
+    },
+    {
+      "surface": "מֹשֶׁ֖ה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "וְאַהֲרֹ֑ן",
+      "gloss": "とアハロンは"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֨ר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "צִוָּ֧ה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "כֵּ֥ן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "עָשֽׂוּ",
+      "gloss": "彼らはした"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:35.873876006Z",
+  "model": "glm-5.2"
+}

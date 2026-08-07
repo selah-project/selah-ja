@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "ヤハウェは勇士のように出で立ち、戦士のように熱情を奮い立たせる。⟨彼は⟩叫び、さらに大声でほえる。敵たちに対して⟨彼は⟩力強く振る舞う。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "勇士のように"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出で立ち"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "戦士のように"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "戦いの"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "奮い立たせる"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "熱情を"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "叫び"
+    },
+    {
+      "surface": "אף",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "大声でほえる"
+    },
+    {
+      "surface": "על",
+      "gloss": "に対して"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "敵たち"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "力強く振る舞う"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:37.279869667Z",
+  "model": "glm-5.2"
+}

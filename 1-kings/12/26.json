@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてヤラブアムは自分の心で言った。「今や、王国はダビデの家に戻ろうとしている。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして……言った"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ヤラブアムは"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "自分の心で"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "今や"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "……は戻ろうとしている"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "王国は"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "……の家に"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:03:27.855666799Z",
+  "model": "glm-5.2"
+}

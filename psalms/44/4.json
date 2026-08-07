@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "彼らが剣で地を所有したのではなく、彼らの腕が彼らを救ったのではない。まことにあなたの右の御手、あなたの御腕、あなたの御顔の光 — あなたが彼らを恵まれたからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "彼らの剣で"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "彼らは所有した"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "彼らの腕が"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "救った"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼らを"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "あなたの右の御手"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "あなたの御腕"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "〜の光"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの御顔の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "あなたは彼らを恵んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:30.624665168Z",
+  "model": "glm-5.2"
+}

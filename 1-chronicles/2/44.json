@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてシャマは⟨את⟩ラハムを生んだ — 彼はヨルケアムの父。そしてレケムは⟨את⟩シャマエを生んだ。",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "そしてシャマは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ラハム"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ラハム"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "ヨルケアム"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "そしてレケムは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シャマエ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "シャマエ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:36.250341789Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "愚か者を生む者は⟨自分⟩のために悲しみを得、愚か者の父は喜ばない。",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "生む者"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚か者"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "悲しみのために"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼の"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "喜ぶ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "愚か者"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:12.338014835Z",
+  "model": "glm-5.2"
+}

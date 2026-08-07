@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "エロヒムは立たれる、⟨彼の⟩敵は散らされ、⟨彼を⟩憎む者たちは⟨彼の⟩御前から逃げる。",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "立たれる"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "散らされ"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "敵"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "逃げる"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "憎む者たちは"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "御前から"
+    }
+  ],
+  "timestamp": "2026-08-07T12:49:02.086972848Z",
+  "model": "glm-5.2"
+}

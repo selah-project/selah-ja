@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "あなたの銀を、彼に利子⟨את⟩として与えてはならない。また増益によってあなたの食物を与えてはならない。",
+  "tokens": [
+    {
+      "surface": "אֶ֨ת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの銀"
+    },
+    {
+      "surface": "כַּסְפְּךָ֔",
+      "gloss": "あなたの銀"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תִתֵּ֥ן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "ל֖וֹ",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בְּנֶ֑שֶׁךְ",
+      "gloss": "利子において"
+    },
+    {
+      "surface": "וּבְמַרְבִּ֖ית",
+      "gloss": "また増益によって"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תִתֵּ֥ן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "אָכְלֶֽךָ",
+      "gloss": "あなたの食物"
+    }
+  ],
+  "timestamp": "2026-08-07T09:43:21.253794803Z",
+  "model": "glm-5.2"
+}

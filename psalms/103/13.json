@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 103,
+  "translation": "父が子らをあわれむように、ヤハウェはご自分を恐れる者たちをあわれまれる。",
+  "tokens": [
+    {
+      "surface": "כְּרַחֵ֣ם",
+      "gloss": "〜のようにあわれむ"
+    },
+    {
+      "surface": "אָ֭ב",
+      "gloss": "父"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "בָּנִ֑ים",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "רִחַ֥ם",
+      "gloss": "あわれまれた"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "יְרֵאָֽיו",
+      "gloss": "ご自分を恐れる者たち"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:54.969970396Z",
+  "model": "glm-5.2"
+}

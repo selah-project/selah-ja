@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼の兄弟の名はユバルであった。彼はすべての琴と笛を掴む者の父であった。",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "そして名"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄弟の"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ユバル"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "היה",
+      "gloss": "であった"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "父"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "掴む者"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "琴"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "と笛"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:40.738598140Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてエフライムのねたみは去り、ユダを悩ます者たち⟨は⟩断ち切られる。エフライムはユダをねたまず、ユダはエフライムを苦しめない。",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "そして去る"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ねたみ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライムの"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "そして悩ます者たち"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダを"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "断ち切られる"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライムは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "ねたむ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ユダを"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "そしてユダは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "苦しめる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エフライムを"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライム"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:40.720610766Z",
+  "model": "glm-5.2"
+}

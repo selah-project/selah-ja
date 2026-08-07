@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "生けるすべてのものに加わる者、だれにでも、確信がある。生ける犬は死んだライオンよりも良いのだから。",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "だれにでも"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "選ばれる"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הַחַיִּ֖ים",
+      "gloss": "生けるもの"
+    },
+    {
+      "surface": "יֵ֣שׁ",
+      "gloss": "ある"
+    },
+    {
+      "surface": "בִּטָּח֑וֹן",
+      "gloss": "確信"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "לְכֶ֤לֶב",
+      "gloss": "犬には"
+    },
+    {
+      "surface": "חַי",
+      "gloss": "生きている"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "〜よりも"
+    },
+    {
+      "surface": "הָאַרְיֵ֖ה",
+      "gloss": "ライオン"
+    },
+    {
+      "surface": "הַמֵּֽת",
+      "gloss": "死んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:36.269132221Z",
+  "model": "glm-5.2"
+}

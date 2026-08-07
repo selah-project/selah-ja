@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "わたしは天に暗黒を着せ、粗布をその覆いとして置く。",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "わたしは着せる"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天に"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "暗黒を"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "粗布を"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "わたしは置く"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "その覆いとして"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:54.255105333Z",
+  "model": "glm-5.2"
+}

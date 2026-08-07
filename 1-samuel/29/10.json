@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "だから今朝早く立ちなさい。あなたと共に来たあなたの主人のしもべたち⟨も⟩。そして朝早く立ち、明るくなったら去りなさい。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "だから今"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "早く立ちなさい"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "しもべたち"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "あなたの主人の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "באו",
+      "gloss": "来た"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "あなたがたは早く立ち"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "明るくなったら"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがた"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "去りなさい"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:58.016087893Z",
+  "model": "glm-5.2"
+}

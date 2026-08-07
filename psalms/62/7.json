@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 62,
+  "translation": "まことに、⟨彼⟩こそ私の岩、そして私の救い。私の高きやぐら、私は揺り動かされない。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼⟩"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "私の岩"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "そして私の救い"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "私の高きやぐら"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "私は揺り動かされる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:02.909761235Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして⟨את⟩雄牛の皮と、⟨את⟩すべての肉を——その頭に沿って、またその脚に沿って、またその内臓とその糞を——",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "皮"
+    },
+    {
+      "surface": "עור",
+      "gloss": "皮"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "雄牛の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "すべての肉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "肉を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に沿って"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "その頭"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "および〜に沿って"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "その脚"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "またその内臓"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "およびその糞"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:54.744833181Z",
+  "model": "glm-5.2"
+}

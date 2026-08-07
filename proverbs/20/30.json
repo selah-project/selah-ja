@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "打ち傷の青あざは悪を洗い清める、そして打撃 ⟨は⟩ 腹の奥底 ⟨に達する⟩。",
+  "tokens": [
+    {
+      "surface": "חַבֻּר֣וֹת",
+      "gloss": "青あざは"
+    },
+    {
+      "surface": "פֶּ֭צַע",
+      "gloss": "打ち傷の"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "洗い清める"
+    },
+    {
+      "surface": "בְּרָ֑ע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "וּמַכּ֗וֹת",
+      "gloss": "そして打撃"
+    },
+    {
+      "surface": "חַדְרֵי",
+      "gloss": "奥底"
+    },
+    {
+      "surface": "בָֽטֶן",
+      "gloss": "腹の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:37.234155069Z",
+  "model": "glm-5.2"
+}

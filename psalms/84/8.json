@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 84,
+  "translation": "彼らは力から力へ歩み、ツィヨンにてエロヒムの御前に ⟨各人が⟩現れる。",
+  "tokens": [
+    {
+      "surface": "יֵ֭לְכוּ",
+      "gloss": "彼らは歩む"
+    },
+    {
+      "surface": "מֵחַ֣יִל",
+      "gloss": "力から"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "חָ֑יִל",
+      "gloss": "力"
+    },
+    {
+      "surface": "יֵרָאֶ֖ה",
+      "gloss": "現れる"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜の御前に"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "בְּצִיּֽוֹן",
+      "gloss": "ツィヨンにて"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:10.440934537Z",
+  "model": "glm-5.2"
+}

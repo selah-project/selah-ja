@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてアハロンは二頭の雄やぎの上にくじを置かなければならない。一つのくじはヤハウェのため、一つのくじはアザゼルのため。",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "そして置く"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二頭の"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "雄やぎ"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "くじ"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "くじ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェのため"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "そしてくじ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "アザゼルのため"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:43.291395628Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "聞いてください、ヤハウェよ、そして私に恵みを。ヤハウェよ、私の助けとなってください。",
+  "tokens": [
+    {
+      "surface": "שְׁמַע",
+      "gloss": "聞いてください"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "וְחָנֵּ֑נִי",
+      "gloss": "そして私に恵みを"
+    },
+    {
+      "surface": "יְ֝הוָה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "הֱֽיֵה",
+      "gloss": "なってください"
+    },
+    {
+      "surface": "עֹזֵ֥ר",
+      "gloss": "助け"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "私の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:03.119697748Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そして国の全⟨民⟩は喜び、都は静かであった。そして⟨את⟩アタルヤを彼らは剣で死させた。",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "そして喜んだ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "国の"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "そして都は"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "静かであった"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アタルヤ"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "アタルヤ"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "彼らは死させた"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "剣で"
+    }
+  ],
+  "timestamp": "2026-08-07T14:14:46.119540043Z",
+  "model": "glm-5.2"
+}

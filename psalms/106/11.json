@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "そして水が覆った、彼らの圧迫者たちを。彼らのうちの一人も、残らなかった。",
+  "tokens": [
+    {
+      "surface": "וַיְכַסּוּ",
+      "gloss": "そして覆った"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "水が"
+    },
+    {
+      "surface": "צָרֵיהֶ֑ם",
+      "gloss": "彼らの圧迫者たちを"
+    },
+    {
+      "surface": "אֶחָ֥ד",
+      "gloss": "一人"
+    },
+    {
+      "surface": "מֵ֝הֶ֗ם",
+      "gloss": "彼らのうちの"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נוֹתָֽר",
+      "gloss": "残らなかった"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:11.594211188Z",
+  "model": "glm-5.2"
+}

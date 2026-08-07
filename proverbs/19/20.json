@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "聞け、助言を、そして受けよ、訓戒を — あなたの終わりにおいてあなたが知恵を得るために。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "助言を"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "そして受けよ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "訓戒を"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "あなたが知恵を得る"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "あなたの終わりにおいて"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:23.754223396Z",
+  "model": "glm-5.2"
+}

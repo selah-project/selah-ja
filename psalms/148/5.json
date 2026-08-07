@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 148,
+  "translation": "ヤハウェの〈名〉を ⟨את⟩ 賛美せよ、彼が命じられたからであり、⟨彼らは⟩ 創造されたからである。",
+  "tokens": [
+    {
+      "surface": "יְֽ֭הַֽלְלוּ",
+      "gloss": "賛美せよ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "名"
+    },
+    {
+      "surface": "שֵׁ֣ם",
+      "gloss": "〈名〉"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "〜だからである"
+    },
+    {
+      "surface": "ה֭וּא",
+      "gloss": "彼が"
+    },
+    {
+      "surface": "צִוָּ֣ה",
+      "gloss": "命じられた"
+    },
+    {
+      "surface": "וְנִבְרָֽאוּ",
+      "gloss": "創造された"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:53.315074992Z",
+  "model": "glm-5.2"
+}

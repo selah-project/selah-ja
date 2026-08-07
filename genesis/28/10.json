@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そしてヤアコブはベエル・シェバを出て、ハランへ向かって行った。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして出た"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブは"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ベエル・シェバ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして向かって行った"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ハランへ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:19.860837929Z",
+  "model": "glm-5.2"
+}

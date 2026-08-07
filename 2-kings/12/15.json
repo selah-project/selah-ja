@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "それは業をする者たちに渡されたからであり、彼らはそれによって ⟨את⟩ ヤハウェの宮を補強した。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "する者たちに"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "業を"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "彼らはそれを渡した"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "そして彼らは補強した"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それによって"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "宮"
+    },
+    {
+      "surface": "בית",
+      "gloss": "宮を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:14:29.116120563Z",
+  "model": "glm-5.2"
+}

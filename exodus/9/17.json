@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "なおあなたは⟨わたしの⟩民に向かって高ぶり、彼らを去らせまいとしているのか。",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "なおあなたは"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "高ぶっている"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "わたしの民に向かって"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "〜しないために"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "彼らを去らせる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:32.617149230Z",
+  "model": "glm-5.2"
+}

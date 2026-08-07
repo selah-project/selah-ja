@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "いつであれ、あなたの衣は白くあれ。あなたの頭には油が欠けていてはならない。",
+  "tokens": [
+    {
+      "surface": "בְּכָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עֵ֕ת",
+      "gloss": "時に"
+    },
+    {
+      "surface": "יִהְי֥וּ",
+      "gloss": "〜であれ"
+    },
+    {
+      "surface": "בְגָדֶ֖יךָ",
+      "gloss": "あなたの衣"
+    },
+    {
+      "surface": "לְבָנִ֑ים",
+      "gloss": "白く"
+    },
+    {
+      "surface": "וְשֶׁ֖מֶן",
+      "gloss": "油"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "רֹאשְׁךָ֥",
+      "gloss": "あなたの頭"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜てはならない"
+    },
+    {
+      "surface": "יֶחְסָֽר",
+      "gloss": "欠けていては"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:11.643199467Z",
+  "model": "glm-5.2"
+}

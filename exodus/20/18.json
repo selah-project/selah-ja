@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そして民は皆、⟨את⟩声たちと⟨את⟩松明たちと⟨את⟩角笛の音と⟨את⟩煙る山を〈見ていた〉。民は⟨それを⟩見、震え、遠くに立った。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "見ている"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "声たち"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "その声たち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "松明たち"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "その松明たち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "角笛の音"
+    },
+    {
+      "surface": "קול",
+      "gloss": "〜の音"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "その角笛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "煙る山"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "その山"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "煙る"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "震えた"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "そして立った"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "遠くに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:40.548631047Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして全地は一つの唇〈すなわち一つの言葉〉となり、言葉は一つであった。",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִ֥י",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "שָׂפָ֣ה",
+      "gloss": "唇（言葉）"
+    },
+    {
+      "surface": "אֶחָ֑ת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "וּדְבָרִ֖ים",
+      "gloss": "そして言葉は"
+    },
+    {
+      "surface": "אֲחָדִֽים",
+      "gloss": "一つであった"
+    }
+  ],
+  "timestamp": "2026-08-07T16:22:51.001110453Z",
+  "model": "glm-5.2"
+}

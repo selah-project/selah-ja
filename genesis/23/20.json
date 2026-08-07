@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そしてその畑と、その中にある洞窟は確立された、アブラハムへ − 墓地の所有として、ヘトの子らから。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして確立された"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "その畑"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "そしてその洞窟"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜の中にある"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それの"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "アブラハムへ"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "所有として"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "墓の"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ヘト"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:40.774309934Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "灰を牧する — 騙された心、彼を迷わせた。そして彼は⟨את⟩自分の命を救い出せず、こうも言えない — 「私の右手の中に偽りがないか」と。",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "牧する"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "灰を"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "騙された"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "彼を迷わせた"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "救い出せる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の命"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "自分の命"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "言える"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽り"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "私の右手の中に"
+    }
+  ],
+  "timestamp": "2026-08-07T16:58:30.881120441Z",
+  "model": "glm-5.2"
+}

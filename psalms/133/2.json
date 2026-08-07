@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 133,
+  "translation": "頭の上に⟨流れる⟩良い油のように — あごひげの上に、アハロンのあごひげの上に⟨流れ⟩、彼の衣の縁の上にまで流れる。",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "油のように"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "頭の"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "流れる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "あごひげの"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "あごひげ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロンの"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "流れる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口の"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "彼の衣の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:10.225710239Z",
+  "model": "glm-5.2"
+}

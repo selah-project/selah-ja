@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ダヴィドの詩編。エルの子らよ、ヤハウェに帰せよ、ヤハウェに栄光と力とを帰せよ。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩編"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダヴィドの"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "帰せよ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子らよ"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "エル（の）"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "帰せよ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "栄光"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "と力と"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:37.988910215Z",
+  "model": "glm-5.2"
+}

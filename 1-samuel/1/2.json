@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "彼には二人の妻がいた。一人の名はハンナ、もう一人の名はペニンナであった。ペニンナには子どもたちがいたが、ハンナには子どもたちがいなかった。",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "彼には"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "二人の"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "妻がいた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "～の名"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一人の"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "ハンナ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そして～の名"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "もう一人の"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "ペニンナ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "～があった"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "ペニンナには"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "子どもたち"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "ハンナには"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いなかった"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "子どもたちが"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:19.387787105Z",
+  "model": "glm-5.2"
+}

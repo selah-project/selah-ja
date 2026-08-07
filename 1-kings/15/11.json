@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そしてアサはヤハウェの目に正しいことを行った、その父ダヴィドのように。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…は行った"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "アサ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "正しいことを"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…の目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "ダヴィドのように"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "その父"
+    }
+  ],
+  "timestamp": "2026-08-07T11:06:29.242098339Z",
+  "model": "glm-5.2"
+}

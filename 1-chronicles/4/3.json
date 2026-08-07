@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてこれらは ⟨の⟩ 父 ⟨の⟩ エイタム ⟨の⟩: イズレエル、イシュマ、イドバシュ。そして彼らの姉妹の名はハツェレルポニであった。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "父"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "エイタム"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "イズレエル"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "イシュマ"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "イドバシュ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そして名"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "彼らの姉妹"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "ハツェレルポニ"
+    }
+  ],
+  "timestamp": "2026-08-07T17:35:36.705965478Z",
+  "model": "glm-5.2"
+}

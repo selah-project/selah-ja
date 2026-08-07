@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "あなた自身の目に知恵ある者⟨であっては⟩ならない。ヤハウェを畏れよ、かつ悪から離れよ。",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תְּהִ֣י",
+      "gloss": "ならない"
+    },
+    {
+      "surface": "חָכָ֣ם",
+      "gloss": "知恵ある者"
+    },
+    {
+      "surface": "בְּעֵינֶ֑יךָ",
+      "gloss": "あなたの目に"
+    },
+    {
+      "surface": "יְרָ֥א",
+      "gloss": "畏れよ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יְ֝הוָ֗ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וְס֣וּר",
+      "gloss": "そして離れよ"
+    },
+    {
+      "surface": "מֵרָֽע",
+      "gloss": "悪から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:19.130618754Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "⟨彼は⟩孤独な者の祈りに目を留め、彼らの祈りを ⟨את⟩ 拒まれなかった。",
+  "tokens": [
+    {
+      "surface": "פָּ֭נָה",
+      "gloss": "目を留め"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "תְּפִלַּ֣ת",
+      "gloss": "祈り"
+    },
+    {
+      "surface": "הָעַרְעָ֑ר",
+      "gloss": "孤独な者の"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "～なかった"
+    },
+    {
+      "surface": "בָ֝זָ֗ה",
+      "gloss": "拒まれ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの祈り"
+    },
+    {
+      "surface": "תְּפִלָתָֽם",
+      "gloss": "彼らの祈りを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:41.058263441Z",
+  "model": "glm-5.2"
+}

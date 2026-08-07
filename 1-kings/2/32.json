@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 2:32",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ヤハウェは⟨את⟩彼の血を彼自身の頭に帰させる。彼は自分より正しく、より良かった二人の者に撃ちかかって、剣で彼らを殺したからだ — 私の父ダビデは知らなかった — すなわち⟨את⟩イスラエルの軍の長官、ネルの子アブネルと、⟨את⟩ユダの軍の長官、イテルの子アムシャを。",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "帰させる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の血"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "彼の血を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "彼自身の頭"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜が"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "撃ちかかった"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "二人の"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "者に"
+    },
+    {
+      "surface": "צדקים",
+      "gloss": "正しい"
+    },
+    {
+      "surface": "וטבים",
+      "gloss": "良い"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "彼より"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "彼らを殺した"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "剣で"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "私の父"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アブネル"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "アブネル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ネル"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長官"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "軍の"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アムシャ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "アムシャ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "イテル"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長官"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "軍の"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:14.239834116Z",
+  "model": "glm-5.2"
+}

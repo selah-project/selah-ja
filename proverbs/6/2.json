@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 6:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "あなたの口の言葉によって罠にかかり、あなたの口の言葉によって捕らえられたのだ。",
+  "tokens": [
+    {
+      "surface": "נוקשת",
+      "gloss": "あなたは罠にかかり"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "〜の言葉によって"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "あなたの口の"
+    },
+    {
+      "surface": "נלכדת",
+      "gloss": "あなたは捕らえられた"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "〜の言葉によって"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "あなたの口の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:09:09.231075899Z",
+  "model": "glm-5.2"
+}

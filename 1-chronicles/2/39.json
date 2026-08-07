@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "アザルヤは⟨את⟩ヘレツを生み、ヘレツは⟨את⟩エルアサを生んだ。",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "アザルヤ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヘレツ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ヘレツ"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "ヘレツ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エルアサ"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "エルアサ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:25.846096771Z",
+  "model": "glm-5.2"
+}

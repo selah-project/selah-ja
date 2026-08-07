@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "あなたの争いを、あなたの隣人と争え。そして ⟨את⟩ ほかの人の秘密を明かすな。",
+  "tokens": [
+    {
+      "surface": "רִֽ֭יבְךָ",
+      "gloss": "あなたの争い"
+    },
+    {
+      "surface": "רִ֣יב",
+      "gloss": "争え"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの隣人"
+    },
+    {
+      "surface": "רֵעֶ֑ךָ",
+      "gloss": "あなたの隣人"
+    },
+    {
+      "surface": "וְס֖וֹד",
+      "gloss": "そして…の秘密"
+    },
+    {
+      "surface": "אַחֵ֣ר",
+      "gloss": "ほかの人"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תְּגָֽל",
+      "gloss": "明かす"
+    }
+  ],
+  "timestamp": "2026-08-07T17:25:27.448221792Z",
+  "model": "glm-5.2"
+}

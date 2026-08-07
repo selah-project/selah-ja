@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "水は地の上から引いていき、行きつ戻りつ⟨していた⟩。水は百五十日の終わりに減じた。",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "引いていき"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水は"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の上"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "行きつ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "戻りつ"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "減じた"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水は"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "終わりに"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "と百の"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-08-07T14:20:51.640457263Z",
+  "model": "glm-5.2"
+}

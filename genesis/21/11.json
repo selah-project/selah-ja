@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてその事はアブラハムの目に、その息子のゆえに、非常に苦しくあった。",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "そして苦しくあった"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "その事は"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "〜の目に"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その息子"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:19.441808646Z",
+  "model": "glm-5.2"
+}

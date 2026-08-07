@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "⟨彼⟩は癒す、心の砕かれた者を。そして⟨彼⟩は包む、彼らの痛みを。",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "癒す"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "砕かれた者に"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心の"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "そして包む"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "彼らの痛みを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:54.758048049Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 8:32",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "またミクロトは⟨את⟩シマを生んだ。これらの者も彼らの兄弟の前に、イェルシャライム（エルサレム）に彼らの兄弟とともに住んだ。",
+  "tokens": [
+    {
+      "surface": "ומקלות",
+      "gloss": "またミクロト"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "…を生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シマ"
+    },
+    {
+      "surface": "שמאה",
+      "gloss": "シマ"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "これらの者も"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "…の前に"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "彼らの兄弟"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "住んだ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライム（エルサレム）に"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…とともに"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "彼らの兄弟"
+    }
+  ],
+  "timestamp": "2026-08-07T14:02:55.917170612Z",
+  "model": "glm-5.2"
+}

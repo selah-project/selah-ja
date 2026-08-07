@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "「あなたのために、私の心は言った：『わたしの顔を求めよ。』あなたの顔を、⟨את⟩、ヤハウェ、私は求める。」",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "私の心は"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "求めよ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "わたしの顔を"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの顔を"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの顔を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "私は求める"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:12.679605303Z",
+  "model": "glm-5.2"
+}

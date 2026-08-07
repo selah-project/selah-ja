@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 20:15",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "彼は言った。「彼らはあなたの家で何を見たのか。」ヒゼキヤは言った。「⟨את⟩私の家にあるすべてのものを彼らは見ました。私の宝物庫の中で、私が彼らに見せなかったものは何一つありません。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "見た"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "あなたの家で"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ヒゼキヤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "私の家にある"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "見た"
+    },
+    {
+      "surface": "לא",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "もの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "הראיתם",
+      "gloss": "私は彼らに見せた"
+    },
+    {
+      "surface": "באצרתי",
+      "gloss": "私の宝物庫の中で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:17:48.397538504Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして、もしあなたが下ることを恐れるなら、あなたとあなたの従者プラーが宿営へ下りなさい。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "下ることを"
+    },
+    {
+      "surface": "רד",
+      "gloss": "下れ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "そしてプラー"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "あなたの従者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "宿営"
+    }
+  ],
+  "timestamp": "2026-08-07T10:33:46.544436159Z",
+  "model": "glm-5.2"
+}

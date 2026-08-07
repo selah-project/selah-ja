@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "咎の上に咎を与えよ、彼らがあなたの義に入らないように。",
+  "tokens": [
+    {
+      "surface": "תְּֽנָה",
+      "gloss": "与えよ"
+    },
+    {
+      "surface": "עָ֭וֺן",
+      "gloss": "咎"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "עֲוֺנָ֑ם",
+      "gloss": "彼らの咎"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "…ないように"
+    },
+    {
+      "surface": "יָ֝בֹ֗אוּ",
+      "gloss": "彼らが入ら"
+    },
+    {
+      "surface": "בְּצִדְקָתֶֽךָ",
+      "gloss": "あなたの義に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:29.601732840Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 73,
+  "translation": "彼らは天に口を置き、⟨彼らの⟩舌は地を歩き回る。",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "彼らは置く"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "天に"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "彼らの口を"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "そして彼らの舌は"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "歩き回る"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:04.093771129Z",
+  "model": "glm-5.2"
+}

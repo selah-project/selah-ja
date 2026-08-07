@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 80,
+  "translation": "なぜあなたはその垣根を切り開いたのか。道を通り過ぎる者がみな、それを摘み取ってしまう。",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "あなたは切り開いた"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "その垣根を"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "そして…摘み取る"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "通り過ぎる者"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:17.022611927Z",
+  "model": "glm-5.2"
+}

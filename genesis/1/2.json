@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "地は荒れ果て、空虚であった。闇が深淵の面の上にあり、エロヒムの霊が水の面の上を舞っていた。",
+  "tokens": [
+    {
+      "surface": "וְהָאָ֗רֶץ",
+      "gloss": "そして地"
+    },
+    {
+      "surface": "הָיְתָ֥ה",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "תֹ֨הוּ֙",
+      "gloss": "荒れ果て"
+    },
+    {
+      "surface": "וָבֹ֔הוּ",
+      "gloss": "空虚"
+    },
+    {
+      "surface": "וְחֹ֖שֶׁךְ",
+      "gloss": "闇"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פְּנֵ֣י",
+      "gloss": "面の"
+    },
+    {
+      "surface": "תְה֑וֹם",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "וְר֣וּחַ",
+      "gloss": "そして霊"
+    },
+    {
+      "surface": "אֱלֹהִ֔ים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "מְרַחֶ֖פֶת",
+      "gloss": "舞っていた"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上を"
+    },
+    {
+      "surface": "פְּנֵ֥י",
+      "gloss": "面の"
+    },
+    {
+      "surface": "הַמָּֽיִם",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:40.945908279Z",
+  "model": "glm-5.2"
+}

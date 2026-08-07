@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 18:43",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "彼は自分の若者に言った。「どうか上って行き、海の方をよく見てくれ。」彼は上って行き、見て、言った。「何もありません。」彼は言った。「七度戻れ。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "彼の若者に"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上って行け"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "よく見よ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "〜の方を"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海の"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "そして彼は上った"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "何も"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "שב",
+      "gloss": "戻れ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "度"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:13.158900843Z",
+  "model": "glm-5.2"
+}

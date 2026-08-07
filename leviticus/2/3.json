@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてミンハーから残ったものはアハロンとその子らのもの ⟨である⟩ — ヤハウェの火の捧げ物のうちの聖なるものの聖。",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "そして残ったもの"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "そのミンハー"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "アハロンに"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "そしてその子らに"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "聖なるものの"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "火の捧げ物のうちの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:31:19.237231513Z",
+  "model": "glm-5.2"
+}

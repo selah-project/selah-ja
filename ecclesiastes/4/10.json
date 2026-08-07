@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "もし⟨彼らの⟩ひとりが倒れるなら、その同僚は⟨את⟩彼を起こす。しかしひとりきりで倒れ、彼を起こす第二の者がいない者は、哀れである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜ならば"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "倒れる"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ひとりは"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "起こす"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "その同僚"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "しかし"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ひとりは"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "倒れる"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "שני",
+      "gloss": "第二の者が"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "彼を起こす"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:31.095135426Z",
+  "model": "glm-5.2"
+}

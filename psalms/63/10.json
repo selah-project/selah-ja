@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 63,
+  "translation": "そして彼らは荒廃のために私のנפשיを捜し求め、地の底に―地の最深部に―入っていく。",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "そして彼らは"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "荒廃のために"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "捜し求める"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私のנפשי（命）"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "入っていく"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "地の底に（最深部）"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T18:40:27.334274386Z",
+  "model": "glm-5.2"
+}

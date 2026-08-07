@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして⟨私⟩は貧しく、かつ乏しい。アドナイ、⟨私⟩に味方して計ってください。あなたは私の助け、そして私の逃れ場。エロハイよ、引き延ばすな。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "そして私は"
+    },
+    {
+      "surface": "עני",
+      "gloss": "貧しい"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "そして乏しい"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "計ってくださる"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "私の助け"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "そして私の逃れ場"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "エロハイ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "引き延ばす"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:58.001809386Z",
+  "model": "glm-5.2"
+}

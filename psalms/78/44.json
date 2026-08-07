@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "そして彼らの川を血に変えられ、その流れを——彼らは飲むことができなかった。",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "そして変えられた"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "血に"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "彼らの川を"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "その流れを"
+    },
+    {
+      "surface": "בל",
+      "gloss": "決して〜ない"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "彼らは飲むことができ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:44.299951507Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ヤハウェはあなたがたの先祖たちに、激しい怒りを抱かれた。",
+  "tokens": [
+    {
+      "surface": "קָצַ֧ף",
+      "gloss": "怒られた"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "אֲבֽוֹתֵיכֶ֖ם",
+      "gloss": "あなたがたの先祖たち"
+    },
+    {
+      "surface": "קָֽצֶף",
+      "gloss": "激しい怒りを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:30:26.625917563Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてラムは⟨את⟩アミナダブを生み、アミナダブは⟨את⟩ナフションを生んだ — ユダの子らの君。",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "そしてラムは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アミナダブ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "アミナダブ"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "そしてアミナダブは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナフション"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ナフション"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "君"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子らの"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:41.365183700Z",
+  "model": "glm-5.2"
+}

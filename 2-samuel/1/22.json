@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 1:22",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "刺し殺された者の血から、勇士の脂肪から、ヨナタンの弓は退かず、サウルの剣は空しく帰らなかった。",
+  "tokens": [
+    {
+      "surface": "מדם",
+      "gloss": "血から"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "刺し殺された者の"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "脂肪から"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "勇士の"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓は"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ヨナタンの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "נשוג",
+      "gloss": "退いた"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "後ろへ"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "そして剣は"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウルの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "帰った"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "空しく"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:45.724481862Z",
+  "model": "glm-5.2"
+}

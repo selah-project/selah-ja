@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして、もしあなたの供え物が鍋のミンハー⟨である⟩なら、油を含んだ細かい粉で作られなければならない。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ミンハー"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "鍋"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "あなたの供え物"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細かい粉"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "油を含んだ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "作られなければならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:42.084091966Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "あなたは彼らの力の栄光であり、あなたの好意によって我らの角は高く上げられる。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "栄光"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "彼らの力の"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは⟨～である⟩"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "そしてあなたの好意によって"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "高く上げる"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "我らの角を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:29.752318585Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 60:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 60,
+  "translation": "あなたが見捨てられ、憎まれ、通り過ぎる者もいない代わりに、わたしはあなたを永遠の⟨誇り⟩、世代と世代の喜びとする。",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わりに"
+    },
+    {
+      "surface": "היותך",
+      "gloss": "あなたが…である"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "見捨てられ"
+    },
+    {
+      "surface": "ושנואה",
+      "gloss": "憎まれ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "…もいない"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "通り過ぎる者"
+    },
+    {
+      "surface": "ושמתיך",
+      "gloss": "わたしはあなたを…とする"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "誇りに"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠の"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "喜び"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "と世代"
+    }
+  ],
+  "timestamp": "2026-08-07T11:37:35.648974224Z",
+  "model": "glm-5.2"
+}

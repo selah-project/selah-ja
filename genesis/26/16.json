@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そしてアビメレクはイサクに言った、「我々から去れ。あなたは我々よりはるかに強くなっているのだから。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "アビメレクは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イサク"
+    },
+    {
+      "surface": "לך",
+      "gloss": "去れ"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "我々から"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "強くなった"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "我々より"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "はるかに"
+    }
+  ],
+  "timestamp": "2026-08-07T08:58:43.129462587Z",
+  "model": "glm-5.2"
+}

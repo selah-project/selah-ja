@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そしてあなたたちは守り、行うべきである、ヤハウェ・あなたたちのエロヒムがあなたたちに命じられたとおりに。右にも左にもそれてはならない。",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "そしてあなたたちは守る"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行うために"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のとおりに"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "あなたたちのエロヒム"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたたちを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "あなたたちはそれては"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "右"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "そして左"
+    }
+  ],
+  "timestamp": "2026-08-07T16:35:43.992353739Z",
+  "model": "glm-5.2"
+}

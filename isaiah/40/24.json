@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 40:24",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "いや、彼らは植えられさえしない、いや、彼らは蒔かれさえしない、いや、彼らの幹は地に根を下ろさえしない。そして⟨彼⟩が彼らの上に息を吹きかけると、彼らは枯れ、暴風が藁のように彼らを運び去る。",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "いや"
+    },
+    {
+      "surface": "בל",
+      "gloss": "〜さえしない"
+    },
+    {
+      "surface": "נטעו",
+      "gloss": "彼らは植えられた"
+    },
+    {
+      "surface": "אף",
+      "gloss": "いや"
+    },
+    {
+      "surface": "בל",
+      "gloss": "〜さえしない"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "彼らは蒔かれた"
+    },
+    {
+      "surface": "אף",
+      "gloss": "いや"
+    },
+    {
+      "surface": "בל",
+      "gloss": "〜さえしない"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "根を下ろす"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "גזעם",
+      "gloss": "彼らの幹は"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "そして"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "息を吹きかけると"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "彼らの上に"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "彼らは枯れ"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "暴風が"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "藁のように"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "彼らを運び去る"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:12.677336628Z",
+  "model": "glm-5.2"
+}

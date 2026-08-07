@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "⟨את⟩ 庭院の垂れ幕、⟨את⟩ その柱と ⟨את⟩ その台座、そして ⟨את⟩ 庭院の門の覆いを、",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "庭院の垂れ幕"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "垂れ幕"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭院の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その柱"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "その柱"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と ⟨את⟩",
+      "marks": "その台座"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "その台座"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして ⟨את⟩",
+      "marks": "庭院の門の覆い"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "覆い"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門の"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭院の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:28.061231263Z",
+  "model": "glm-5.2"
+}

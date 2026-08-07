@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そしてヨセフの主人は彼を取って、⟨את⟩ 彼を王の囚人たちが縛られる監獄、その場所に入れた。そして彼はそこにいた — 監獄の中に。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "主人"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフの"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "そして彼を入れた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "監獄"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "円形の"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "場所"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "囚人たち"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "縛られる"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして彼はいた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "監獄の中に"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "円形の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:07:09.910984725Z",
+  "model": "glm-5.2"
+}

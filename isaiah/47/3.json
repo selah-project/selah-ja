@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "お前の裸があらわになり、お前の恥もまた見られるであろう。わたしは復讐を取る、そしてわたしは誰の顔をもはばからない。」",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "あらわになる"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "お前の裸"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "見られる"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "お前の恥"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "復讐"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "わたしは取る"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "わたしは顔をはばかる"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:38.664541392Z",
+  "model": "glm-5.2"
+}

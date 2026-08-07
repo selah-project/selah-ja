@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "隣人を蔑む者は心に欠けがあり、分別のある人は沈黙する。",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "蔑む者は"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "隣人を"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "欠けがあり"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心に"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "そして〜の人は"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "分別のある"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "沈黙する"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:46.105174626Z",
+  "model": "glm-5.2"
+}

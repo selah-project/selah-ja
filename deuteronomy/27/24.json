@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "呪われよ、隠れて自分の隣人を打つ者は。そして全⟨民⟩は言う、アーメン。",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "呪われよ"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "打つ者"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "自分の隣人"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "隠れて"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "そして言う"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨民⟩"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "アーメン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:00.482666242Z",
+  "model": "glm-5.2"
+}

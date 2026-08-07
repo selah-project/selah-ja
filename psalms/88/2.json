@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 88,
+  "translation": "ヤハウェ、私の救いのエロヒム、昼も夜も私は御前に叫んでおります。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "〜のエロヒム"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "私の救い"
+    },
+    {
+      "surface": "יום",
+      "gloss": "昼"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "私は叫んだ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "夜に"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "御前に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:54:48.396603241Z",
+  "model": "glm-5.2"
+}

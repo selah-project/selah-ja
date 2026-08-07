@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "彼の後、エフタに代わって⟨את⟩イスラエルを裁いたのは、ベト・レヘムのイブツァンであった。",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "そして裁いた"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "彼の後"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "イブツァン"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…の出"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ベト・レヘム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:36:25.187712410Z",
+  "model": "glm-5.2"
+}

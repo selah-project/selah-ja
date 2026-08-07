@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 42:27",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "そして一人が宿場で自分のろばに飼い葉を与えようと⟨את⟩自分の袋を開けたとき、彼は⟨את⟩自分の銀を見た。すると見よ、それが彼の袋の口にあった。",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "そして開けた"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一人が"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の袋"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "自分の袋"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "与えようと"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "飼い葉"
+    },
+    {
+      "surface": "לחמרו",
+      "gloss": "自分のろばに"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "宿場で"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の銀"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "自分の銀"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "すると見よ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "〜の口に"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "彼の袋"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:43.373107540Z",
+  "model": "glm-5.2"
+}

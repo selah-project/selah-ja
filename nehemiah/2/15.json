@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 2:15",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "夜、谷を上り、城壁を詳しく調べた。そして引き返し、谷の門から入って、帰った。",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "私は〜した"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上り"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "谷を"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "私は〜した"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "詳しく調べた"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "城壁を"
+    },
+    {
+      "surface": "ואשוב",
+      "gloss": "そして引き返し"
+    },
+    {
+      "surface": "ואבוא",
+      "gloss": "入って"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "門から"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "谷の"
+    },
+    {
+      "surface": "ואשוב",
+      "gloss": "帰った"
+    }
+  ],
+  "timestamp": "2026-08-07T13:55:32.772327282Z",
+  "model": "glm-5.2"
+}

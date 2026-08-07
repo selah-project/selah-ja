@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 103,
+  "translation": "ヤハウェをほめたたえよ、その御使いたち、力ある勇者たち、み言葉を行う者たち、み言葉の声に聞従うために。",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "ほめたたえよ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "彼の御使いたち"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "力ある勇者たち"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力の"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "行う者たち"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "彼の言葉"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "聞従うために"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "〜の声に"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "彼の言葉"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:51.455057737Z",
+  "model": "glm-5.2"
+}

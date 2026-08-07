@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "聞け、遠くの者たちよ、⟨私が⟩行ったことを。知れ、近くの者たちよ、私の力を。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "遠くの者たちよ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（関係詞）"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "私が行ったこと"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "知れ"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "近くの者たちよ"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "私の力を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:58.352717452Z",
+  "model": "glm-5.2"
+}

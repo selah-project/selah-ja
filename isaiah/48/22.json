@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "「シャロームはない」とヤハウェは仰る — 悪人には。",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "…はない"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "シャローム"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "仰る"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "悪人には"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:10.815081889Z",
+  "model": "glm-5.2"
+}

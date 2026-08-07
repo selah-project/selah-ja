@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 91,
+  "translation": "座する者 — 至高者 ⟨エル・エルヨン⟩ の隠れ場に、シャッダイの影に宿る ⟨者⟩。",
+  "tokens": [
+    {
+      "surface": "יֹ֭שֵׁב",
+      "gloss": "座する者"
+    },
+    {
+      "surface": "בְּסֵ֣תֶר",
+      "gloss": "隠れ場に"
+    },
+    {
+      "surface": "עֶלְי֑וֹן",
+      "gloss": "至高者"
+    },
+    {
+      "surface": "בְּצֵ֥ל",
+      "gloss": "影に"
+    },
+    {
+      "surface": "שַׁ֝דַּ֗י",
+      "gloss": "シャッダイ"
+    },
+    {
+      "surface": "יִתְלוֹנָֽן",
+      "gloss": "宿る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:46.624801677Z",
+  "model": "glm-5.2"
+}

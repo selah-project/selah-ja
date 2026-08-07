@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 2:24",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "立ち上がれ、旅立て、そして⟨את⟩アルノンのナハルを渡れ。見よ、わたしはあなたの手に⟨את⟩ヘシュボンの王、アモリ人シホンを与えた。そして⟨את⟩彼の地 — 相続を始めよ、そして彼と戦いを挑め。",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "立ち上がれ"
+    },
+    {
+      "surface": "סעו",
+      "gloss": "旅立て"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "そして渡れ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アルノンのナハル"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ナハル"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "アルノン"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "わたしは与えた"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "あなたの手に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヘシュボンの王、アモリ人シホン"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "シホン"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ヘシュボン"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "アモリ人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼の地"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "彼の地"
+    },
+    {
+      "surface": "החל",
+      "gloss": "始めよ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "相続を"
+    },
+    {
+      "surface": "והתגר",
+      "gloss": "そして挑め"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼と"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦いを"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:51.493615656Z",
+  "model": "glm-5.2"
+}

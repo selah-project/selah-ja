@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 1:4",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ツィヨンの道は嘆き悲しむ — 集会の来訪者がいないから。そのすべての門は荒廃している。その祭司たちは呻き、その乙女たちは苦しみ、彼女自身は苦痛である。",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "道は"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨンの"
+    },
+    {
+      "surface": "אבלות",
+      "gloss": "嘆き悲しむ"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "〜がないから"
+    },
+    {
+      "surface": "באי",
+      "gloss": "来訪者が"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "集会の"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "שעריה",
+      "gloss": "門は"
+    },
+    {
+      "surface": "שוממין",
+      "gloss": "荒廃している"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "祭司たちは"
+    },
+    {
+      "surface": "נאנחים",
+      "gloss": "呻き"
+    },
+    {
+      "surface": "בתולתיה",
+      "gloss": "乙女たちは"
+    },
+    {
+      "surface": "נוגות",
+      "gloss": "苦しみ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "彼女自身は"
+    },
+    {
+      "surface": "מר",
+      "gloss": "苦痛"
+    },
+    {
+      "surface": "לה",
+      "gloss": "である"
+    }
+  ],
+  "timestamp": "2026-08-07T13:34:40.701062837Z",
+  "model": "glm-5.2"
+}

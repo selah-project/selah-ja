@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして事があった — モーシェ、ヤハウェのしもべの死の後、ヤハウェはヌンの子エホシュア、モーシェの仕える者に語られた — こう言って、",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして事があった"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…の後"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "しもべ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "…は語られた"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "エホシュア"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ヌン"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "仕える者"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "こう言って"
+    }
+  ],
+  "timestamp": "2026-08-07T10:24:13.721460575Z",
+  "model": "glm-5.2"
+}

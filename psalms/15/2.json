@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "全き者として歩み、義を行い、その心において真実を語る⟨者⟩。",
+  "tokens": [
+    {
+      "surface": "הוֹלֵ֣ךְ",
+      "gloss": "歩む"
+    },
+    {
+      "surface": "תָּ֭מִים",
+      "gloss": "全き者として"
+    },
+    {
+      "surface": "וּפֹעֵ֥ל",
+      "gloss": "行い"
+    },
+    {
+      "surface": "צֶ֑דֶק",
+      "gloss": "義を"
+    },
+    {
+      "surface": "וְדֹבֵ֥ר",
+      "gloss": "語る"
+    },
+    {
+      "surface": "אֱ֝מֶ֗ת",
+      "gloss": "真実を"
+    },
+    {
+      "surface": "בִּלְבָבֽוֹ",
+      "gloss": "その心において"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:16.308760347Z",
+  "model": "glm-5.2"
+}

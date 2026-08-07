@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "ジムリはバアシャの全家を根絶した。預言者イエフの手によってバアシャに対して語られた、ヤハウェの言葉のとおりに。",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "根絶した"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ジムリは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "バアシャの全家"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "バアシャの"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "〜の言葉のとおりに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるもの"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "バアシャ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "〜の手によって"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "イエフ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "預言者"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:05.840075019Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして⟨את⟩魚の門をハ・セナアの子らが建てた。彼らはこれに梁を渡し、その扉、その錠、その閂を立て据えた。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "魚の門"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "魚の"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "ハ・セナアの"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "これに梁を渡した"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "そして彼らは立て据えた"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "その扉"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "その錠"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "そしてその閂"
+    }
+  ],
+  "timestamp": "2026-08-07T13:55:45.379512111Z",
+  "model": "glm-5.2"
+}

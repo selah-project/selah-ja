@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてモーシェはその日に ⟨את⟩ 民に命じた、言う、",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "そして命じた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言う"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:38.614330416Z",
+  "model": "glm-5.2"
+}

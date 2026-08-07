@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 84,
+  "translation": "涙の谷を過ぎる者たち — ⟨彼ら⟩はそれを泉とする、まばらな雨も祝福で覆う⟨であろう⟩。",
+  "tokens": [
+    {
+      "surface": "עֹבְרֵ֤י",
+      "gloss": "過ぎる者たち"
+    },
+    {
+      "surface": "בְּעֵ֣מֶק",
+      "gloss": "谷を"
+    },
+    {
+      "surface": "הַבָּכָא",
+      "gloss": "涙の"
+    },
+    {
+      "surface": "מַעְיָ֣ן",
+      "gloss": "泉"
+    },
+    {
+      "surface": "יְשִׁית֑וּהוּ",
+      "gloss": "彼らはそれとする"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "も"
+    },
+    {
+      "surface": "בְּרָכ֗וֹת",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "יַעְטֶ֥ה",
+      "gloss": "覆う"
+    },
+    {
+      "surface": "מוֹרֶֽה",
+      "gloss": "雨"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:10.440821195Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして王は民に厳しく答えた。そして⟨彼は⟩⟨את⟩長老たちの助言を捨てた――彼らが彼に助言した⟨ところの⟩。",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "そして答えた"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "厳しく"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "そして捨てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "長老たちの助言を"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "助言"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "長老たちの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "彼らが彼に助言した"
+    }
+  ],
+  "timestamp": "2026-08-07T11:04:05.540260508Z",
+  "model": "glm-5.2"
+}

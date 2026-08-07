@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 112,
+  "translation": "闇の中に光が昇る、まっすぐな人のために。恵み深く、あわれみ深く、正しいかた。",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "昇る"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "闇の中に"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "まっすぐな人のために"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "恵み深く"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "あわれみ深く"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "正しいかた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:22.866717485Z",
+  "model": "glm-5.2"
+}

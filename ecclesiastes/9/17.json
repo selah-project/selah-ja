@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "知恵ある者の言葉は静かに聞かれる、愚か者たちの中で支配する者の叫びよりも。",
+  "tokens": [
+    {
+      "surface": "דִּבְרֵ֣י",
+      "gloss": "言葉は"
+    },
+    {
+      "surface": "חֲכָמִ֔ים",
+      "gloss": "知恵ある者の"
+    },
+    {
+      "surface": "בְּנַ֖חַת",
+      "gloss": "静かに"
+    },
+    {
+      "surface": "נִשְׁמָעִ֑ים",
+      "gloss": "聞かれる"
+    },
+    {
+      "surface": "מִזַּעֲקַ֥ת",
+      "gloss": "〜よりも"
+    },
+    {
+      "surface": "מוֹשֵׁ֖ל",
+      "gloss": "支配する者の"
+    },
+    {
+      "surface": "בַּכְּסִילִֽים",
+      "gloss": "愚か者たちの中で"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:42.628084301Z",
+  "model": "glm-5.2"
+}

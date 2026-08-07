@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "二人は一緒に歩くだろうか、彼らが会っているのでなければ。",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "歩くだろうか"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二人は"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "一緒に"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "〜でなければ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし〜でなければ"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "彼らが会っている"
+    }
+  ],
+  "timestamp": "2026-08-07T12:21:31.614032711Z",
+  "model": "glm-5.2"
+}

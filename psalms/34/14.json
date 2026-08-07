@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "あなたの舌を悪から守り、あなたの唇を欺きを語ることから ⟨守れ⟩。",
+  "tokens": [
+    {
+      "surface": "נְצֹ֣ר",
+      "gloss": "守れ"
+    },
+    {
+      "surface": "לְשׁוֹנְךָ֣",
+      "gloss": "あなたの舌を"
+    },
+    {
+      "surface": "מֵרָ֑ע",
+      "gloss": "悪から"
+    },
+    {
+      "surface": "וּ֝שְׂפָתֶ֗יךָ",
+      "gloss": "そしてあなたの唇を"
+    },
+    {
+      "surface": "מִדַּבֵּ֥ר",
+      "gloss": "語ることから"
+    },
+    {
+      "surface": "מִרְמָֽה",
+      "gloss": "欺きを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:58.687394283Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "あなたたちは、私がエジプトにしたことを見た。そして私はあなたたちを鷲の翼に乗せて運び、私の⟨もと⟩に連れて来た。",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "あなたたちは"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "見た"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "私はした"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "エジプトに"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "私は運び"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたたちを"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に乗せて"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "翼"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "鷲の"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "私は連れて来た"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたたちを"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私の⟨もと⟩に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:20:13.553996255Z",
+  "model": "glm-5.2"
+}

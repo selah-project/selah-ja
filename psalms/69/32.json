@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "それはヤハウェに喜ばれる — 角を持つ、蹄の割れた雄牛よりも。",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "それは…喜ばれる"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "משור",
+      "gloss": "…よりも"
+    },
+    {
+      "surface": "פר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "角を持つ"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "蹄の割れた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:35.806476114Z",
+  "model": "glm-5.2"
+}

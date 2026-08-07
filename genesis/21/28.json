@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてアブラハムは群れの雌羊七匹を⟨את⟩、単独で据えた。",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "そして据えた"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハムは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "七匹の雌羊を"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "匹の雌羊"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "群れの"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "単独で"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:44.384575016Z",
+  "model": "glm-5.2"
+}

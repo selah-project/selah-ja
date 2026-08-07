@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "私の嘆きの声 ⟨のゆえに⟩、私の骨が私の肉にへばりついた。",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "〜の声のゆえに"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "私の嘆き"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "へばりついた"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "私の骨が"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "私の肉に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:45.718200271Z",
+  "model": "glm-5.2"
+}

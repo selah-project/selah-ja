@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "ヨセフは朝に彼らのところに入って来て、彼らを⟨את⟩見た。そして見よ、彼らは怒っていた。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "入って来て"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らのところに"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフは"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝に"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "見た"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼らを"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "そして見よ、彼らは"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "怒っていた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:22.107580718Z",
+  "model": "glm-5.2"
+}

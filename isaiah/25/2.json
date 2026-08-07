@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "あなたが都市を石塚とし、堅固な城を廃墟とされたからです。外国人の城は都市から ⟨解き放たれ⟩、とこしへに建てられない。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "あなたが〜とした"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "都市を"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "石塚として"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "城を"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "堅固な"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "廃墟として"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "城は"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "外国人の"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "都市から"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしへに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "建てられ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:57.305281774Z",
+  "model": "glm-5.2"
+}

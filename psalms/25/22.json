@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "エロヒム、贖い出してください、⟨את⟩イスラエルを、そのすべての苦しみから。",
+  "tokens": [
+    {
+      "surface": "פְּדֵה",
+      "gloss": "贖い出してください"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מִכֹּל",
+      "gloss": "〜のすべての"
+    },
+    {
+      "surface": "צָרוֹתָיו",
+      "gloss": "苦しみ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:40.441607347Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "すべての⟨彼の⟩裁きが私の前にあり、私から⟨彼の⟩定めを退けなかったからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "⟨彼の⟩裁きが"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "私の前にあり"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "そして⟨彼の⟩定めを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "私が退け"
+    },
+    {
+      "surface": "מני",
+      "gloss": "私から"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:34.305605183Z",
+  "model": "glm-5.2"
+}

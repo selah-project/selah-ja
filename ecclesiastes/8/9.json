@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "⟨את⟩すべてこれを私は見た。そして私は⟨את⟩私の心を、太陽の下でなされるすべてのわざに与えた。人が人を支配する時が⟨ある⟩—それがその人にとっての悪⟨となる⟩⟨ことに⟩。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべてこれ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "そして与えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の心"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "私の心"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての〜に"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "わざ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "なされる"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下で"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜が"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "支配する"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "人を"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "悪として"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:54.820449821Z",
+  "model": "glm-5.2"
+}

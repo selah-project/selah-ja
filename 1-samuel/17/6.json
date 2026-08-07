@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "青銅の脛当てが彼の脚にあり、青銅の投擲槍が彼の両肩の間にあった。",
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "脛当てが"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "彼の脚"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "投擲槍が"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間に"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "彼の両肩"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:37.636153953Z",
+  "model": "glm-5.2"
+}

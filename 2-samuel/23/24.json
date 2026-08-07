@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "アサエル、ヨアブの兄弟、三十人の中に。エルハナン、ドドの子、ベテ・レヘムの。",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "アサエル"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחי",
+      "gloss": "…の兄弟"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "三十人の中に"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "エルハナン"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "ドド"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベテ・"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "レヘムの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:09.863557874Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "私は言った、「ヤハウェ、私に恩恵を垂れてください。私のנפשを癒してください。私があなたに向かって罪を犯したからです。」",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "私に恩恵を垂れてください"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "癒してください"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私のנפשを"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "罪を犯した"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに向かって"
+    }
+  ],
+  "timestamp": "2026-08-07T18:39:46.533955059Z",
+  "model": "glm-5.2"
+}

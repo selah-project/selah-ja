@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "そして彼は彼らに追いつき、彼らにこれらのことばを語った。",
+  "tokens": [
+    {
+      "surface": "וַֽיַּשִּׂגֵ֑ם",
+      "gloss": "そして彼は彼らに追いついた"
+    },
+    {
+      "surface": "וַיְדַבֵּ֣ר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "אֲלֵהֶ֔ם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "これらのことば"
+    },
+    {
+      "surface": "הַדְּבָרִ֖ים",
+      "gloss": "ことばを"
+    },
+    {
+      "surface": "הָאֵֽלֶּה",
+      "gloss": "これらの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:19.226112695Z",
+  "model": "glm-5.2"
+}

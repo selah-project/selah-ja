@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "あなたの父の妻の裸を、あなたは露わしてはならない。それはあなたの父の裸である。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "裸"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻の"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "あなたは露わしては"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "裸"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父の"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨である⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:46.359859188Z",
+  "model": "glm-5.2"
+}

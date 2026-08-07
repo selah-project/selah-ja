@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 19:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてこれが、そこへ逃れて生きる殺人者についての件である。すなわち、知らずに隣人を ⟨את⟩ 打つ者であり、彼が昨日も一昨日も彼を憎んでいなかった者である。",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "そしてこれが〜である"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "件"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "その殺人者"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "逃れる"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこへ"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "そして生きる"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜者"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "打つ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "隣人"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "彼の隣人"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "〜なく"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そして彼は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "憎んでいた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "מתמל",
+      "gloss": "昨日から"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "一昨日まで"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:24.393561808Z",
+  "model": "glm-5.2"
+}

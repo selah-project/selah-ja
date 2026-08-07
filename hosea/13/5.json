@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "わたしは荒野のうちに、⟨あなたを⟩知った。乾燥の地に。",
+  "tokens": [
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "יְדַעְתִּ֖יךָ",
+      "gloss": "あなたを知った"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֑ר",
+      "gloss": "荒野のうちに"
+    },
+    {
+      "surface": "בְּאֶ֖רֶץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "תַּלְאֻבֽוֹת",
+      "gloss": "乾燥の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:53.942980828Z",
+  "model": "glm-5.2"
+}

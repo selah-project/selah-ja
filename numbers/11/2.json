@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "民がモーセに叫び、モーセがヤハウェに祈ると、火は静まった。",
+  "tokens": [
+    {
+      "surface": "וַיִּצְעַ֥ק",
+      "gloss": "叫び"
+    },
+    {
+      "surface": "הָעָ֖ם",
+      "gloss": "民が"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "מֹשֶׁ֑ה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "וַיִּתְפַּלֵּ֤ל",
+      "gloss": "祈ると"
+    },
+    {
+      "surface": "מֹשֶׁה֙",
+      "gloss": "モーセが"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וַתִּשְׁקַ֖ע",
+      "gloss": "静まった"
+    },
+    {
+      "surface": "הָאֵֽשׁ",
+      "gloss": "火は"
+    }
+  ],
+  "timestamp": "2026-08-07T09:54:48.166196883Z",
+  "model": "glm-5.2"
+}

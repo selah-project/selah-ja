@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてユダの子らはイェルシャライムと戦い、それを捕らえ、剣の口でこれを打ち、⟨את⟩ その町を火で焼き払った。",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "そして彼らは戦った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らは"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライムと"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "そして彼らは捕らえた"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "それを"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "そして彼らは打った"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "口で"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その町"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町を"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "彼らは焼き払った"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:31:19.988736836Z",
+  "model": "glm-5.2"
+}

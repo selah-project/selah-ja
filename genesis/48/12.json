@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "ヨセフは彼らを彼の膝の間から連れ出し、彼は地に向かって彼の顔にひれ伏した。",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "そして連れ出した"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "〜の間から"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "彼の膝"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "そしてひれ伏した"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "彼の顔に"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地に向かって"
+    }
+  ],
+  "timestamp": "2026-08-07T09:11:22.189694405Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "然后、飲料方の長官はファラオに向かって語った、言って、私の罪過を、私が今日思い起こす——",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長官"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "飲料方の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ファラオ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ファラオ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の罪過"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "私の罪過"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "思い起こす"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:03.964532701Z",
+  "model": "glm-5.2"
+}

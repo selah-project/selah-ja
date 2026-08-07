@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 146,
+  "translation": "高貴な者たちに信頼を置くな、救いのない人の子に⟨頼るな⟩。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜するな"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "信頼するな"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "高貴な者たちに"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "〜の子に"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "〜がない"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "救い"
+    }
+  ],
+  "timestamp": "2026-08-07T17:23:43.368464499Z",
+  "model": "glm-5.2"
+}

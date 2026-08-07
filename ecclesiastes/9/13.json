@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "またこれを、私は見た—太陽の下にある知恵を、そしてそれは私にとって大いなるものである。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これを"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "そして大いなる"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私にとって"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:32.232508290Z",
+  "model": "glm-5.2"
+}

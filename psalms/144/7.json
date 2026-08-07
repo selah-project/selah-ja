@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 144,
+  "translation": "高いところからあなたの手を伸ばし、私を救い出し、多くの水から、⟨また⟩異国の子らの手から私を助け出してください。",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "伸ばし"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "あなたの手を"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "高いところから"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "私を救い出し"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "私を助け出してください"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "水から"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "〜の手から"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "異国の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:00.899797036Z",
+  "model": "glm-5.2"
+}

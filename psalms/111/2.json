@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 111,
+  "translation": "大いなるはヤハウェのみわざ、すべてその望みを抱く者たちによって探し求められる。",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "みわざは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "探し求められる"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "その望みを抱く者たちによって"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:52.950455543Z",
+  "model": "glm-5.2"
+}

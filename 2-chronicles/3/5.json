@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして⟨את⟩大いなる家をモミの木で覆い、彼はそれを良き金で覆った。そしてその上にシュロの飾りと鎖を上げた。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "大いなる家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "覆った"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "モミの"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "そして彼はそれを覆った"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良き"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "そして彼は上げた"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "シュロの飾り"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "そして鎖"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:42.592738139Z",
+  "model": "glm-5.2"
+}

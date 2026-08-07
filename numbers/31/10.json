@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "⟨את⟩彼らのすべての町々、その居住地において、そして⟨את⟩彼らのすべての砦を、彼らは火で焼き払った。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "すべての町々"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "彼らの町々"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "その居住地において"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "すべての砦"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "彼らの砦"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "焼き払った"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:03:39.564035878Z",
+  "model": "glm-5.2"
+}

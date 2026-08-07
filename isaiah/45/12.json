@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "わたしが地を造り、その上に人を創造した。わたしが――わたしの手が天を伸ばし、そのすべての万象をわたしが命じた。",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "造り"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "そして人を"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "創造した"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "わたしの手が"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "伸ばし"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天を"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてそのすべての"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "万象を"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "命じた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:54.829494633Z",
+  "model": "glm-5.2"
+}

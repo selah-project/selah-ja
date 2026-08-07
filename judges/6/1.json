@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 6:1",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてイスラエルの子らはヤハウェの目に悪と⟨なるもの⟩を行い、ヤハウェは⟨彼ら⟩をミディヤンの手に七年間渡された。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…の目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "そして…渡された"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…の手に"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ミディヤン"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年間"
+    }
+  ],
+  "timestamp": "2026-08-07T10:33:24.053689358Z",
+  "model": "glm-5.2"
+}

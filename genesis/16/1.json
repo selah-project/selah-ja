@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてサライ、アブラムの妻は、彼に生まなかった。彼女には奴隷、ミツリ人があり、その名はハガルであった。",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "そしてサライは"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "〜の妻"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "アブラム"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "彼女には"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "奴隷が"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "ミツリ人"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "その名は"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ハガル"
+    }
+  ],
+  "timestamp": "2026-08-07T08:53:48.479463372Z",
+  "model": "glm-5.2"
+}

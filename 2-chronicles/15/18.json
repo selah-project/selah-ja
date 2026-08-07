@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして彼は⟨את⟩父の聖別された物と彼自身の聖別された物をエロヒムの家に運び入れた — 銀と金と器具。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして彼は…運び入れた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "父の聖別された物と彼自身の聖別された物"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "聖別された物"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "父の"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "と彼自身の聖別された物"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀と"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "金と"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "器具"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:02.055287923Z",
+  "model": "glm-5.2"
+}

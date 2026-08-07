@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして彼は⟨自分の⟩兄弟たちのところに戻り、言った。「あの少年はいない。そしてこの私、私はどこへ行けばよいのか。」",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "戻った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところに"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "自分の兄弟たち"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "あの少年"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "いない"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "そして私は"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "どこへ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "בא",
+      "gloss": "行くのか"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:53.426363185Z",
+  "model": "glm-5.2"
+}

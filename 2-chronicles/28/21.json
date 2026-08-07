@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "アハズは⟨את⟩ヤハウェの家と、⟨את⟩王の家と、諸君たちを引き裂いて、アッシュールの王に与えたが、それは彼の助けとはならなかった。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "חָלַ֤ק",
+      "gloss": "引き裂いた"
+    },
+    {
+      "surface": "אָחָז֙",
+      "gloss": "アハズ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの家"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "王の家"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "家"
+    },
+    {
+      "surface": "הַמֶּ֖לֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "וְהַשָּׂרִ֑ים",
+      "gloss": "諸君たち"
+    },
+    {
+      "surface": "וַיִּתֵּן֙",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "לְמֶ֣לֶךְ",
+      "gloss": "王に"
+    },
+    {
+      "surface": "אַשּׁ֔וּר",
+      "gloss": "アッシュール"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "…なかった"
+    },
+    {
+      "surface": "לְעֶזְרָ֖ה",
+      "gloss": "助けに"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:18:04.407803697Z",
+  "model": "glm-5.2"
+}

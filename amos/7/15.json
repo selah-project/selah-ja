@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 7:15",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "ヤハウェが私を羊の群れの後ろから取られた。そしてヤハウェは私に言われた。「行って、わたしの民イスラエルに預言せよ。」",
+  "tokens": [
+    {
+      "surface": "ויקחני",
+      "gloss": "取られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "〜の後ろから"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊の群れ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言われた"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "לך",
+      "gloss": "行って"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "預言せよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:22:59.541957284Z",
+  "model": "glm-5.2"
+}

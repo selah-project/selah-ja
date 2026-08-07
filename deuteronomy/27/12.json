@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "これらの者が ⟨את⟩ 民を祝福するために立つ、ギリジム山の上に、あなたたちが ⟨את⟩ ヨルダンを渡るとき—シメオン、レビ、ユダ、イッサカル、ヨセフ、ベニヤミン。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらの者"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "祝福するために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "ギリジム"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "あなたたちが渡るとき"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨルダン"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルダン"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "シメオン"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "レビ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "イッサカル"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ベニヤミン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:38.614422507Z",
+  "model": "glm-5.2"
+}

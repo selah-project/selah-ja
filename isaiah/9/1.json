@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "闇を歩んでいた民は大きな光を見た。死の影の地に住む者たちの上に光が輝いた。",
+  "tokens": [
+    {
+      "surface": "הָעָם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "הַהֹלְכִים",
+      "gloss": "歩んでいた"
+    },
+    {
+      "surface": "בַּחֹשֶׁךְ",
+      "gloss": "闇を"
+    },
+    {
+      "surface": "רָאוּ",
+      "gloss": "見た"
+    },
+    {
+      "surface": "אוֹר",
+      "gloss": "光を"
+    },
+    {
+      "surface": "גָּדוֹל",
+      "gloss": "大きな"
+    },
+    {
+      "surface": "יֹשְׁבֵי",
+      "gloss": "住む者たち"
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "〜の地に"
+    },
+    {
+      "surface": "צַלְמָוֶת",
+      "gloss": "死の影の"
+    },
+    {
+      "surface": "אוֹר",
+      "gloss": "光が"
+    },
+    {
+      "surface": "נָגַהּ",
+      "gloss": "輝いた"
+    },
+    {
+      "surface": "עֲלֵיהֶם",
+      "gloss": "〜の上に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:39.346035806Z",
+  "model": "glm-5.2"
+}

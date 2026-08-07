@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして私は私の中に語りかけている⟨その⟩御使いに言った。「彼女たちは⟨את⟩エファをどこへ運んで行くのですか。」",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "そして私は言った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "その御使いに"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "語りかけている"
+    },
+    {
+      "surface": "בי",
+      "gloss": "私の中に"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "どこへ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼女たちは"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "運んで行くのか"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エファ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "エファを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:30:34.732118448Z",
+  "model": "glm-5.2"
+}

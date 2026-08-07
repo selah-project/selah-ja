@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "見よ、今、私は口を開いた、私の舌は⟨私の⟩口の中で語る。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "私は開いた"
+    },
+    {
+      "surface": "פי",
+      "gloss": "私の口を"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "語る"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "私の舌は"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "⟨私の⟩口の中で"
+    }
+  ],
+  "timestamp": "2026-08-07T13:28:17.700634525Z",
+  "model": "glm-5.2"
+}

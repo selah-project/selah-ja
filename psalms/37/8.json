@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "怒りをやめ、激怒を捨てよ。怒りを燃やすな、それはただ悪を行うこと〈に至る〉だけだ。",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "やめよ"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "怒りを"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "そして捨てよ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "激怒を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "怒りを燃やす"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "悪を行うことに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:17.554520721Z",
+  "model": "glm-5.2"
+}

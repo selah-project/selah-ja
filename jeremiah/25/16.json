@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 25:16",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "彼らは飲み、よろめき、狂い出る — わたしが彼らの間に遣わす剣のゆえに。」",
+  "tokens": [
+    {
+      "surface": "ושתו",
+      "gloss": "そして彼らは飲み"
+    },
+    {
+      "surface": "והתגעשו",
+      "gloss": "よろめき"
+    },
+    {
+      "surface": "והתהללו",
+      "gloss": "狂い出る"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "遣わす"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "彼らの間に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:49:09.829714265Z",
+  "model": "glm-5.2"
+}

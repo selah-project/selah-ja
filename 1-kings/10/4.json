@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてシェバの女王は、シュロモのすべての知恵と、彼が建てた家を ⟨את⟩見た。",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "そして…見た"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "…の女王"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "シェバ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シュロモのすべての知恵と…家"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "知恵"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモの"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "そして…家"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…を"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "彼が建てた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:18.433456983Z",
+  "model": "glm-5.2"
+}

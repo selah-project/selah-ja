@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "それは、私が ⟨את⟩ イスラエルの家を彼らの心において捕えるためである — 彼らは皆、その偶像によって私から離れ去った ⟨者たち⟩ である。」",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "〜のため"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "私が捕える"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "彼らの心において"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である者たち"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "離れ去った"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "私から"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "その偶像によって"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "彼らは皆"
+    }
+  ],
+  "timestamp": "2026-08-07T12:05:16.653309767Z",
+  "model": "glm-5.2"
+}

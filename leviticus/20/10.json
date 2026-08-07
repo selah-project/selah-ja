@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "また、人が、もし人の妻と姦淫するなら——隣人の妻と姦淫するなら——姦夫も姦婦も、共に死をもって死ななければならない。",
+  "tokens": [
+    {
+      "surface": "וְאִ֗ישׁ",
+      "gloss": "また人が"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "〜という者が"
+    },
+    {
+      "surface": "יִנְאַף֙",
+      "gloss": "姦淫する"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "人の妻"
+    },
+    {
+      "surface": "אֵ֣שֶׁת",
+      "gloss": "〜の妻"
+    },
+    {
+      "surface": "אִ֔ישׁ",
+      "gloss": "人"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "יִנְאַ֖ף",
+      "gloss": "姦淫する"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "隣人の妻"
+    },
+    {
+      "surface": "אֵ֣שֶׁת",
+      "gloss": "〜の妻"
+    },
+    {
+      "surface": "רֵעֵ֑הוּ",
+      "gloss": "隣人"
+    },
+    {
+      "surface": "מֽוֹת",
+      "gloss": "死をもって"
+    },
+    {
+      "surface": "יוּמַ֥ת",
+      "gloss": "死ななければならない"
+    },
+    {
+      "surface": "הַנֹּאֵ֖ף",
+      "gloss": "姦夫も"
+    },
+    {
+      "surface": "וְהַנֹּאָֽפֶת",
+      "gloss": "姦婦も"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:04.845218671Z",
+  "model": "glm-5.2"
+}

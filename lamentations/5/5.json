@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "首の上に⟨私たちは⟩追われた、私たちは息切れした、休むことが⟨私たちに⟩与えられなかった。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "私たちの首"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "私たちは追われた"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "私たちは息切れした"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "与えられなかった"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:47.197210919Z",
+  "model": "glm-5.2"
+}

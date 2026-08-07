@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "裸の高地の上に声が聞かれる、イスラエルの子らの泣き嘆きと恳願が。彼らが⟨את⟩自分たちの道を曲げたからであり、彼らが⟨את⟩ヤハウェを、彼らのエロヒムを忘れたからである。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "声が"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "裸の高地"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "聞かれる"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "泣き嘆き"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "恳願"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子らの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だからである"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "彼らが曲げた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分たちの道"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "自分たちの道"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "彼らが忘れた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "彼らのエロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T11:40:43.663251135Z",
+  "model": "glm-5.2"
+}

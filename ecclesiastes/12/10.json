@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "コヘレト ⟨は⟩ 喜ばれることばを見いだそうと求め、書きしるされた ⟨もの は⟩ 正しく、真理のことば ⟨であった⟩。",
+  "tokens": [
+    {
+      "surface": "בִּקֵּשׁ",
+      "gloss": "求めた"
+    },
+    {
+      "surface": "קֹהֶלֶת",
+      "gloss": "コヘレト"
+    },
+    {
+      "surface": "לִמְצֹא",
+      "gloss": "見いだす"
+    },
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "〜のことば"
+    },
+    {
+      "surface": "חֵפֶץ",
+      "gloss": "喜ばれる"
+    },
+    {
+      "surface": "וְכָתוּב",
+      "gloss": "書きしるされた"
+    },
+    {
+      "surface": "יֹשֶׁר",
+      "gloss": "正しく"
+    },
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "〜のことば"
+    },
+    {
+      "surface": "אֱמֶת",
+      "gloss": "真理"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:32.093058619Z",
+  "model": "glm-5.2"
+}

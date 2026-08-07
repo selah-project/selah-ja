@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてヤハウェはカインに言われた、あなたの兄弟ヘベルはどこにいるのか。彼は言った、知らない。私が兄弟の守り人だろうか。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "קין",
+      "gloss": "カイン"
+    },
+    {
+      "surface": "אי",
+      "gloss": "どこに"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ヘベル"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "私は知ら"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "守り人"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "私の兄弟"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私は…か"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:48.274043188Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "北と右を、あなたはそれらを創造された。タボルとヘルモンはあなたの御名において喜び歌う。",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "北"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "と右"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "それらを創造された"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "タボル"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "とヘルモン"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "あなたの御名において"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "喜び歌う"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:19.005349390Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "人は⟨彼の⟩務めに出て、夕べまで⟨彼の⟩労働に⟨向かう⟩。",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "〜は出る"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人が"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "⟨彼の⟩務めに"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "そして⟨彼の⟩労働に"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "夕び"
+    }
+  ],
+  "timestamp": "2026-08-07T12:59:00.134117424Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ヤハウェのヘセド、すなわち私たちが絶やされなかったのは、そのあわれみが尽きなかったからである。",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ヘセド"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "すなわち"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "私たちは絶やされなかった"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "尽きなかった"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "そのあわれみが"
+    }
+  ],
+  "timestamp": "2026-08-07T13:35:50.849172130Z",
+  "model": "glm-5.2"
+}

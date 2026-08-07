@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "それを贖罪とする祭司は、それを食べる。聖なる場所で食べられ、会見の天幕の庭で⟨食べられる⟩。",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "その祭司"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "贖罪とする者"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それを"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "それを食べる"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "…の場所で"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食べられよ"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "…の庭で"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:46.311452892Z",
+  "model": "glm-5.2"
+}

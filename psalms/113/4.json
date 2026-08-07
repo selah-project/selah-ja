@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 113,
+  "translation": "すべての国々の上に高い、ヤハウェ。その栄光は天の上に ⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "高い"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "その栄光"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:08.845322827Z",
+  "model": "glm-5.2"
+}

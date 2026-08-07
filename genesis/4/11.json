@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして今、あなたは呪われている。地から。その地は口を開けて、あなたの手からあなたの兄弟の血を受け取ったのだ。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "呪われている"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "その…は"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "開けて"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "口"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "その口"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "受け取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "血"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟の"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "あなたの手から"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:48.274357373Z",
+  "model": "glm-5.2"
+}

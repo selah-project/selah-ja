@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "あなたは、ヤハウェこそエロヒムであり、彼のほかに ⟨誰も⟩いない、と知るために示された。",
+  "tokens": [
+    {
+      "surface": "אַתָּה֙",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "הָרְאֵ֣תָ",
+      "gloss": "示された"
+    },
+    {
+      "surface": "לָדַ֔עַת",
+      "gloss": "知るために"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "こそ"
+    },
+    {
+      "surface": "הָאֱלֹהִ֑ים",
+      "gloss": "エロヒムである"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "ע֖וֹד",
+      "gloss": "ほかに"
+    },
+    {
+      "surface": "מִלְבַדּֽוֹ",
+      "gloss": "彼の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:29.725553999Z",
+  "model": "glm-5.2"
+}

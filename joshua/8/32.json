@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼はそこで石の上に書き記した — イスラエルの子らの前にモーセが書いたところの、モーセのトーラーの写しを⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "書き記した"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "石"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーセのトーラーの写し"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "写し"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "トーラー"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "書いた"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:25:20.448499057Z",
+  "model": "glm-5.2"
+}

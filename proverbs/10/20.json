@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "選ばれた銀は義人の舌、悪者たちの心はほとんど価値がない。",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "銀は"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "選ばれた"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌は"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人の"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心は"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たちの"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ほとんど…ない"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:27.001081746Z",
+  "model": "glm-5.2"
+}

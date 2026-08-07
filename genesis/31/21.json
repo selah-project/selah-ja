@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 31:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "彼は逃げた、彼およびすべて彼のものと共に。そして彼は立ち上がり、⟨את⟩川を渡り、彼の顔を⟨את⟩ギルアドの山に向けた。",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "そして彼は逃げた"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "およびすべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜にあるもの"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のもの"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "そして彼は立ち上がった"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "そして彼は渡った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "川"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "川"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "そして彼は向けた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の顔"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "彼の顔"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ギルアド"
+    }
+  ],
+  "timestamp": "2026-08-07T09:02:20.160834822Z",
+  "model": "glm-5.2"
+}

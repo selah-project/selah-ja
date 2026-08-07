@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ぶどう酒と強い酒から区別して離れよ。ぶどう酒の酢も、強い酒の酺も飲んではならない。ぶどうの浸し汁も一切飲んではならない。生のぶどうも乾ぶどうも食べてはならない。」",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "ぶどう酒から"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "そして強い酒から"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "区別する"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "酢"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ぶどう酒の"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "そして酢"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "強い酒の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "飲む"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そして一切の"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "浸し汁"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "ぶどうの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "飲む"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "そしてぶどう"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "生の"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "そして乾いた"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:51:41.835848939Z",
+  "model": "glm-5.2"
+}

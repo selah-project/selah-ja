@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "それは、ヤハウェは⟨את⟩ ⟨者⟩愛する者を戒められるからだ。そして父は⟨את⟩ 子を喜ばれる。",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "それは〜だからだ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨者⟩愛する者"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "⟨者⟩"
+    },
+    {
+      "surface": "יֶאֱהַ֣ב",
+      "gloss": "愛する"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יוֹכִ֑יחַ",
+      "gloss": "戒められる"
+    },
+    {
+      "surface": "וּ֝כְאָ֗ב",
+      "gloss": "そして父のように"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "子"
+    },
+    {
+      "surface": "בֵּ֥ן",
+      "gloss": "子"
+    },
+    {
+      "surface": "יִרְצֶֽה",
+      "gloss": "喜ばれる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:15.106446838Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 61,
+  "translation": "日々に、王の日々の上に、加えてください。その年を、代々に及ぶように。",
+  "tokens": [
+    {
+      "surface": "יָמִ֣ים",
+      "gloss": "日々に"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "上に"
+    },
+    {
+      "surface": "יְמֵי",
+      "gloss": "日々の"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "王の"
+    },
+    {
+      "surface": "תּוֹסִ֑יף",
+      "gloss": "加えてください"
+    },
+    {
+      "surface": "שְׁנוֹתָ֗יו",
+      "gloss": "その年を"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "のように"
+    },
+    {
+      "surface": "דֹ֥ר",
+      "gloss": "代々に"
+    },
+    {
+      "surface": "וָדֹֽר",
+      "gloss": "及ぶ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:24.772586709Z",
+  "model": "glm-5.2"
+}

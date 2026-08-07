@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして祭司は見る、そして見よ、皮膚に白い腫れがあり、それが髪を白く変え、腫れの中に生きた肉の回復があるならば、",
+  "tokens": [
+    {
+      "surface": "וְרָאָ֣ה",
+      "gloss": "そして〜は見る"
+    },
+    {
+      "surface": "הַכֹּהֵ֗ן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "וְהִנֵּ֤ה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "שְׂאֵת",
+      "gloss": "腫れが"
+    },
+    {
+      "surface": "לְבָנָה֙",
+      "gloss": "白い"
+    },
+    {
+      "surface": "בָּע֔וֹר",
+      "gloss": "皮膚に"
+    },
+    {
+      "surface": "וְהִ֕יא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "הָפְכָ֖ה",
+      "gloss": "変えた"
+    },
+    {
+      "surface": "שֵׂעָ֣ר",
+      "gloss": "髪を"
+    },
+    {
+      "surface": "לָבָ֑ן",
+      "gloss": "白く"
+    },
+    {
+      "surface": "וּמִֽחְיַ֛ת",
+      "gloss": "〜の回復が"
+    },
+    {
+      "surface": "בָּשָׂ֥ר",
+      "gloss": "肉の"
+    },
+    {
+      "surface": "חַ֖י",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "בַּשְׂאֵֽת",
+      "gloss": "腫れの中に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:21.378474837Z",
+  "model": "glm-5.2"
+}

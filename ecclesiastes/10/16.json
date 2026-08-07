@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "ああ、あなた、地よ — あなたの王が若者であり、あなたの君主たちが朝から飲み食いしている⟨とき⟩は。",
+  "tokens": [
+    {
+      "surface": "אִֽי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "לָ֣ךְ",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "אֶ֔רֶץ",
+      "gloss": "地よ"
+    },
+    {
+      "surface": "שֶׁמַּלְכֵּ֖ךְ",
+      "gloss": "あなたの王が"
+    },
+    {
+      "surface": "נָ֑עַר",
+      "gloss": "若者である"
+    },
+    {
+      "surface": "וְשָׂרַ֖יִךְ",
+      "gloss": "そしてあなたの君主たちは"
+    },
+    {
+      "surface": "בַּבֹּ֥קֶר",
+      "gloss": "朝から"
+    },
+    {
+      "surface": "יֹאכֵֽלוּ",
+      "gloss": "飲み食いしている"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:07.566140357Z",
+  "model": "glm-5.2"
+}

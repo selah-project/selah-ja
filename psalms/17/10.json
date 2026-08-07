@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "彼らの脂肪 ⟨が⟩ 彼らを閉じ込めた、彼らの口は高慢をもって語った。",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "彼らの脂肪は"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "閉じ込めた"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "彼らの口は"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "語った"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "高慢をもって"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:10.325615741Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "ビルハは身ごもり、ヤアコブに息子を産んだ。",
+  "tokens": [
+    {
+      "surface": "וַתַּ֣הַר",
+      "gloss": "身ごもり"
+    },
+    {
+      "surface": "בִּלְהָ֔ה",
+      "gloss": "ビルハは"
+    },
+    {
+      "surface": "וַתֵּ֥לֶד",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "לְיַעֲקֹ֖ב",
+      "gloss": "ヤアコブに"
+    },
+    {
+      "surface": "בֵּֽן",
+      "gloss": "息子を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:33.921919270Z",
+  "model": "glm-5.2"
+}

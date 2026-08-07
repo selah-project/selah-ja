@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてわれわれは彼のすべての町を捕えた — ⟨את⟩その時、われわれが彼らから取らなかった町は一つもなかった。六十の町、アルゴブの全地域、バシャンにあるオグの王国。",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "そしてわれわれは捕えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼のすべての町"
+    },
+    {
+      "surface": "כל",
+      "gloss": "…のすべて"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "彼の町"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "…の時に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…なかった"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "町"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…なかった"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "われわれが取ら"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "彼らから"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "כל",
+      "gloss": "…のすべて"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "地域"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "アルゴブ"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "…の王国"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "オグ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "バシャンにある"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:07.225322290Z",
+  "model": "glm-5.2"
+}

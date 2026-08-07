@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして彼は彼らを ⟨את⟩ モアブの王の顔の前に導いた。そして彼らは彼と共に、ダビデが要塞にいる間のすべての日々の間、住んだ。",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "そして……導いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モアブの王の顔"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔の"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブの"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "そして……住んだ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日々の"
+    },
+    {
+      "surface": "היות",
+      "gloss": "……である間の"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデが"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "要塞に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:13.233716096Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "そしてそれは食い尽くした、彼らの地のすべての草を、そしてそれは食い尽くした、彼らの土の実りを。",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "そしてそれは食い尽くした"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草を"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "彼らの地の"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "そしてそれは食い尽くした"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "実りを"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "彼らの土の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:39.027289272Z",
+  "model": "glm-5.2"
+}

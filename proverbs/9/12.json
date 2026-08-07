@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "もしあなたが賢くなったのなら、あなたは自分自身のために賢いのであり、もしあなたが嘲るなら、あなただけが⟨それを⟩負う。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "あなたが賢くなった"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "賢い"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたは自分自身のために…である"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "もしあなたが嘲るなら"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "あなただけが"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "⟨それを⟩負う"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:01.244771587Z",
+  "model": "glm-5.2"
+}

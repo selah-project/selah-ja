@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "彼の左の手⟨は⟩私の頭の下に、そして彼の右の手⟨は⟩私を抱きしめる。",
+  "tokens": [
+    {
+      "surface": "שְׂמֹאלוֹ",
+      "gloss": "彼の左の手⟨は⟩"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "לְרֹאשִׁי",
+      "gloss": "私の頭"
+    },
+    {
+      "surface": "וִימִינוֹ",
+      "gloss": "そして彼の右の手⟨は⟩"
+    },
+    {
+      "surface": "תְּחַבְּקֵנִי",
+      "gloss": "私を抱きしめる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:08.651620950Z",
+  "model": "glm-5.2"
+}

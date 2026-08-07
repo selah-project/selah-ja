@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてヤハウェはモシェに言われた — パロのもとへ行け。わたしが彼の心と⟨את⟩彼のしもべたちの心を重くしたのは、これらのわたしのしるしを彼のうちに置くためである。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "重くした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の心"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "彼の心"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "しもべたちの心"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "彼のしもべたちの"
+    },
+    {
+      "surface": "למען",
+      "gloss": "…のため"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "置く"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "わたしのしるし"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "彼のうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:13.995916614Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして彼は穀物の供え物を近づけ、その中で手のひらいっぱいに取り、全焼の供え物に加えて、それを祭壇の上で香として焼いた——朝の全焼の供え物のほかに。",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "そして彼は近づけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "穀物の供え物"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "穀物の供え物"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "そして満たした"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "彼の手のひらを"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "それから"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "そして香として焼いた"
+    },
+    {
+      "surface": "על",
+      "gloss": "の上で"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "〜のほかに"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "全焼の供え物"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "朝の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:43.263459259Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "また、ふたりが共に横たわるなら、彼らには暖かさがある。しかしひとりには、どうして暖かくなろうか。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜ならば"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "横たわる"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ふたりが"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "暖かさがある"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らには"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "しかしひとりには"
+    },
+    {
+      "surface": "איך",
+      "gloss": "どうして"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "暖かくなろうか"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:31.095227827Z",
+  "model": "glm-5.2"
+}

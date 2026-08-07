@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "彼はヤハウェから祝福を、彼の救いのエロヒムから義を受ける。",
+  "tokens": [
+    {
+      "surface": "יִשָּׂ֣א",
+      "gloss": "彼は受ける"
+    },
+    {
+      "surface": "בְ֭רָכָה",
+      "gloss": "祝福を"
+    },
+    {
+      "surface": "מֵאֵ֣ת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וּ֝צְדָקָ֗ה",
+      "gloss": "そして義を"
+    },
+    {
+      "surface": "מֵאֱלֹהֵ֥י",
+      "gloss": "〜のエロヒムから"
+    },
+    {
+      "surface": "יִשְׁעֽוֹ",
+      "gloss": "彼の救い"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:38.814500628Z",
+  "model": "glm-5.2"
+}

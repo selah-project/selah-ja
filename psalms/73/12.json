@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 73,
+  "translation": "見よ、これらが悪者たち、そしていつくしみの世の安らいある者たち、⟨彼らは⟩力を増大させた。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらが"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たち"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "そして安らいある者たち"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "世の"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "⟨彼らは⟩増大させた"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "力を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:04.094166532Z",
+  "model": "glm-5.2"
+}

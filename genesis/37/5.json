@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "ヨセフは夢を夢見た。そして⟨彼⟩はそれを兄弟たちに告げた。すると彼らは彼を憎むことをさらに加えた。",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "夢見た"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "夢を"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "兄弟たちに"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "加えた"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "憎むことを"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:15.225278278Z",
+  "model": "glm-5.2"
+}

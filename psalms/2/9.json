@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "あなたは鉄の笏で⟨彼らを⟩打ち砕き、陶器師の器のように彼らを粉砕する。",
+  "tokens": [
+    {
+      "surface": "תְּ֭רֹעֵם",
+      "gloss": "あなたは打ち砕く"
+    },
+    {
+      "surface": "בְּשֵׁ֣בֶט",
+      "gloss": "笏で"
+    },
+    {
+      "surface": "בַּרְזֶ֑ל",
+      "gloss": "鉄の"
+    },
+    {
+      "surface": "כִּכְלִ֖י",
+      "gloss": "器のように"
+    },
+    {
+      "surface": "יוֹצֵ֣ר",
+      "gloss": "陶器師の"
+    },
+    {
+      "surface": "תְּנַפְּצֵֽם",
+      "gloss": "彼らを粉砕する"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:00.884739090Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "独りで座り、沈黙せよ ⟨彼が⟩ それを ⟨彼の上に⟩ 負わせたのだから。",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "座り"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "独りで"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "沈黙せよ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜のだから"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "負わせた"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼の上に"
+    }
+  ],
+  "timestamp": "2026-08-07T17:29:43.706199301Z",
+  "model": "glm-5.2"
+}

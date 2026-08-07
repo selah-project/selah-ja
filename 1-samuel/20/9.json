@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 20:9",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてヨナタンは言った、「あなたにとって〔それは〕絶対にあってはならないことだ。もし私が、私の父からあなたに向かって悪が決定されたことを知るなら、私はそれをあなたに告げないであろうか」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ヨナタン"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "絶対にあってはならない"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたにとって"
+    },
+    {
+      "surface": "כי",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜ならば"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "私が知る"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "決定された"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "悪が"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "私の父"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "向かって来る"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ないであろうか"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "私が告げる"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:08.798252890Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "女は ⟨その⟩ 乳飲み子を忘れようか、⟨その⟩ 胎の息子に慈悲を欠こうか。これらが忘れても、わたしはあなたを忘れない。",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "忘れようか"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女は"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "⟨その⟩ 乳飲み子を"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "胎の"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子に"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "⟨その⟩ 胎の"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜ても"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらが"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "忘れても"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "あなたを忘れ"
+    }
+  ],
+  "timestamp": "2026-08-07T16:59:07.678500319Z",
+  "model": "glm-5.2"
+}

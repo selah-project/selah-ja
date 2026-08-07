@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "その君主たちはその中に吼える獅子、その裁き人たちは夕暮の狼である — 朝まで骨を残さない。",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "その君主たちは"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "その中に"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "吼える"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "その裁き人たちは"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "狼"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "夕暮の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "残さない"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "朝まで"
+    }
+  ],
+  "timestamp": "2026-08-07T12:29:50.558560582Z",
+  "model": "glm-5.2"
+}

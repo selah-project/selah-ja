@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 109,
+  "translation": "邪悪な者の口と欺きの口が私に向かって開かれたからです。彼らは偽りの舌で私に語りかけました。",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "פִ֪י",
+      "gloss": "…の口"
+    },
+    {
+      "surface": "רָשָׁ֡ע",
+      "gloss": "邪悪な者"
+    },
+    {
+      "surface": "וּֽפִי",
+      "gloss": "そして…の口"
+    },
+    {
+      "surface": "מִ֭רְמָה",
+      "gloss": "欺き"
+    },
+    {
+      "surface": "עָלַ֣י",
+      "gloss": "私に向かって"
+    },
+    {
+      "surface": "פָּתָ֑חוּ",
+      "gloss": "彼らは開いた"
+    },
+    {
+      "surface": "דִּבְּר֥וּ",
+      "gloss": "彼らは語った"
+    },
+    {
+      "surface": "אִ֝תִּ֗י",
+      "gloss": "私に"
+    },
+    {
+      "surface": "לְשׁ֣וֹן",
+      "gloss": "…の舌で"
+    },
+    {
+      "surface": "שָֽׁקֶר",
+      "gloss": "偽り"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:23.247071021Z",
+  "model": "glm-5.2"
+}

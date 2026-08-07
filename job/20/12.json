@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 20:12",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "もし悪が彼の口で甘くなるなら、彼はそれを隠す — 彼の舌の下に。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תמתיק",
+      "gloss": "甘くなる"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "彼の口で"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪"
+    },
+    {
+      "surface": "יכחידנה",
+      "gloss": "彼はそれを隠す"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "彼の舌"
+    }
+  ],
+  "timestamp": "2026-08-07T13:25:42.683795852Z",
+  "model": "glm-5.2"
+}

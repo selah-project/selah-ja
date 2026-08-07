@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 20:18",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "あなたから出てくるあなたの子らのうちから、あなたが生む者たちが取られ、彼らはバビロンの王の宮殿で宦官となるであろう。",
+  "tokens": [
+    {
+      "surface": "ומבניך",
+      "gloss": "そしてあなたの子らのうちから"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜者たちが"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出てくる"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "あなたから"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜者たちを"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "あなたが生む"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "取られ"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "彼らは〜となる"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "宦官"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "宮殿で"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロンの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:17:27.219081670Z",
+  "model": "glm-5.2"
+}

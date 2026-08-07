@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "また呪文を唱える者、口寄せに問う者、霊媒師、また死者に問う者がいてはならない。",
+  "tokens": [
+    {
+      "surface": "וְחֹבֵ֖ר",
+      "gloss": "また呪文を唱える者"
+    },
+    {
+      "surface": "חָ֑בֶר",
+      "gloss": "呪文を"
+    },
+    {
+      "surface": "וְשֹׁאֵ֥ל",
+      "gloss": "また問う者"
+    },
+    {
+      "surface": "אוֹב֙",
+      "gloss": "口寄せに"
+    },
+    {
+      "surface": "וְיִדְּעֹנִ֔י",
+      "gloss": "および霊媒師"
+    },
+    {
+      "surface": "וְדֹרֵ֖שׁ",
+      "gloss": "また求める者"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "הַמֵּתִֽים",
+      "gloss": "死者"
+    }
+  ],
+  "timestamp": "2026-08-07T10:14:42.449032448Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "刈り入れは過ぎた、夏は終わった、だがわたしたちは救われなかった",
+  "tokens": [
+    {
+      "surface": "עָבַ֥ר",
+      "gloss": "過ぎた"
+    },
+    {
+      "surface": "קָצִ֖יר",
+      "gloss": "刈り入れは"
+    },
+    {
+      "surface": "כָּ֣לָה",
+      "gloss": "終わった"
+    },
+    {
+      "surface": "קָ֑יִץ",
+      "gloss": "夏は"
+    },
+    {
+      "surface": "וַאֲנַ֖חְנוּ",
+      "gloss": "そしてわたしたちは"
+    },
+    {
+      "surface": "ל֥וֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נוֹשָֽׁעְנוּ",
+      "gloss": "救われた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:43:53.213990861Z",
+  "model": "glm-5.2"
+}

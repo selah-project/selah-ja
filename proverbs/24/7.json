@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "知恵は 愚か者には 高すぎる；門のうちで 彼はその 口を 開かない。",
+  "tokens": [
+    {
+      "surface": "רָאמ֣וֹת",
+      "gloss": "高すぎる"
+    },
+    {
+      "surface": "לֶֽאֱוִ֣יל",
+      "gloss": "愚か者には"
+    },
+    {
+      "surface": "חָכְמ֑וֹת",
+      "gloss": "知恵"
+    },
+    {
+      "surface": "בַּ֝שַּׁ֗עַר",
+      "gloss": "門のうちで"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִפְתַּח",
+      "gloss": "開く"
+    },
+    {
+      "surface": "פִּֽיהוּ",
+      "gloss": "彼の口"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:51.904670336Z",
+  "model": "glm-5.2"
+}

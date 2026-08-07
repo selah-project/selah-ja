@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして彼は言った。「私はアブラハムのしもべです。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "しもべ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハムの"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私は〜である"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:03.667967085Z",
+  "model": "glm-5.2"
+}

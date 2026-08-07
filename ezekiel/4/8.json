@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 4:8",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "見よ、わたしはあなたの上に縛り縄を置く。あなたは自分の側から別の側へと身を返してはならない、あなたの包囲の日々を終えるまで。",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "わたしは置く"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたの上に"
+    },
+    {
+      "surface": "עבותים",
+      "gloss": "縛り縄を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "～てはならない"
+    },
+    {
+      "surface": "תהפך",
+      "gloss": "あなたは身を返す"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "自分の側から"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～へ"
+    },
+    {
+      "surface": "צדך",
+      "gloss": "あなたの側"
+    },
+    {
+      "surface": "עד",
+      "gloss": "～まで"
+    },
+    {
+      "surface": "כלותך",
+      "gloss": "あなたが終える"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日々を"
+    },
+    {
+      "surface": "מצורך",
+      "gloss": "あなたの包囲の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:01:34.904282668Z",
+  "model": "glm-5.2"
+}

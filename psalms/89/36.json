@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "一度、わたしの聖なるものによってわたしは誓った — もしダビデに欺くことがあるならば。",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "一度"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "わたしは誓った"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "わたしの聖なるものによって"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデに"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "欺く"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:40.109287252Z",
+  "model": "glm-5.2"
+}

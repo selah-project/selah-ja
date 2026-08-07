@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 109,
+  "translation": "彼の子らは孤児となり、彼の妻はやもめとなれ。",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "〜となれ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "彼の子らは"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "孤児"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "そして彼の妻は"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "やもめ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:10.883751899Z",
+  "model": "glm-5.2"
+}

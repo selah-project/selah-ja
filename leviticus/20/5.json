@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "わたし自身が⟨את⟩わたしの顔をその男とその氏族に向ける。そしてわたしは彼と、彼に従ってモレクに従って姦淫するすべての者を、彼らの民の真ん中から断ち切る。",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "わたしは向ける"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたし自身が"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの顔"
+    },
+    {
+      "surface": "פני",
+      "gloss": "わたしの顔"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "その男"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "とその氏族に"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "そしてわたしは断ち切る"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "すべての"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "姦淫する者"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "彼に従って"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "姦淫するために"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "に従って"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "モレク"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "から"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "彼らの民の真ん中"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:37.339738634Z",
+  "model": "glm-5.2"
+}

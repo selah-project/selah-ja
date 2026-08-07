@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 27:7",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そして満六十歳以上であれば、男性ならあなたの評価は十五シュケル、女性は十シュケルとなる。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歳"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "以上"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男性"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "あなたの評価"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "シュケル"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "女性には"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "シュケル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:45:05.235102837Z",
+  "model": "glm-5.2"
+}

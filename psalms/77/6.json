@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 77,
+  "translation": "私は思い巡らせた、前の日のことを、永の年のことを。",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "私は思い巡らせた"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日の"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "前の"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "年の"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "永の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:37.194698410Z",
+  "model": "glm-5.2"
+}

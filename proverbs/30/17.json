@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 30:17",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "父をあざ笑う目、\/ 母の〈教え〉を侮る⟨目⟩、\/ 谷川のカラスがそれをくり抜き、\/ 鷲の子らがそれを食らう。",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "目"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "あざ笑う"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "父を"
+    },
+    {
+      "surface": "ותבוז",
+      "gloss": "侮る"
+    },
+    {
+      "surface": "ליקהת",
+      "gloss": "〈教え〉を"
+    },
+    {
+      "surface": "אם",
+      "gloss": "母の"
+    },
+    {
+      "surface": "יקרוה",
+      "gloss": "それをくり抜き"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "カラスが"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "谷川の"
+    },
+    {
+      "surface": "ויאכלוה",
+      "gloss": "それを食らう"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らが"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "鷲の"
+    }
+  ],
+  "timestamp": "2026-08-07T17:25:57.073422603Z",
+  "model": "glm-5.2"
+}

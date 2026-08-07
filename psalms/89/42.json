@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "道を行き来する者はすべて彼を略奪⟨し⟩、彼は隣人たちの恥となった。",
+  "tokens": [
+    {
+      "surface": "שַׁ֭סֻּהוּ",
+      "gloss": "彼を略奪した"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "עֹ֣בְרֵי",
+      "gloss": "行き来する者"
+    },
+    {
+      "surface": "דָ֑רֶךְ",
+      "gloss": "道を"
+    },
+    {
+      "surface": "הָיָ֥ה",
+      "gloss": "なった"
+    },
+    {
+      "surface": "חֶ֝רְפָּ֗ה",
+      "gloss": "恥として"
+    },
+    {
+      "surface": "לִשְׁכֵנָֽיו",
+      "gloss": "彼の隣人たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:42.093948824Z",
+  "model": "glm-5.2"
+}

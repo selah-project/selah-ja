@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "あなたの知恵にしたがって行い、彼の白髪をシャオルに平和のうちに下らせてはならない。」",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "そして行う"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "あなたの知恵にしたがって"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜てはならない"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "下らせる"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "彼の白髪を"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "平和のうちに"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "シャオルに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:46.717412397Z",
+  "model": "glm-5.2"
+}

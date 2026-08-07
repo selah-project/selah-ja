@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 30:30",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そしてヤハウェは ⟨את⟩ 御声の威光を聞かせ、御腕の下臨を示される — 怒りの激怒と、焼き尽くす火の炎とともに — 暴風と豪雨と雹の石とともに。",
+  "tokens": [
+    {
+      "surface": "והשמיע",
+      "gloss": "そして聞かせる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "御声の威光"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "威光"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "御声"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "そして下臨"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "御腕"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "示される"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "激怒とともに"
+    },
+    {
+      "surface": "אף",
+      "gloss": "怒り"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "そして炎"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "焼き尽くす"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "暴風"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "そして豪雨"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "そして石"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "雹"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:38.126662748Z",
+  "model": "glm-5.2"
+}

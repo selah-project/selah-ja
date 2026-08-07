@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 8:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして私は女預言者に近づいた。彼女は身ごもって息子を産んだ。そしてヤハウェは私に言われた：「その名をマヘル・シャラル・ハシュ・バズと呼べ。」",
+  "tokens": [
+    {
+      "surface": "ואקרב",
+      "gloss": "そして…近づいた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "女預言者"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "そして…身ごもった"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "そして…産んだ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子を"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼べ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "その名を"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "マヘル"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "・シャラル"
+    },
+    {
+      "surface": "חש",
+      "gloss": "・ハシュ"
+    },
+    {
+      "surface": "בז",
+      "gloss": "・バズ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:12.808605146Z",
+  "model": "glm-5.2"
+}

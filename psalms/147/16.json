@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "雪を羊毛のように与え、霜を灰のように散らす方",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "与える方"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "雪を"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "羊毛のように"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "霜を"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "灰のように"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "散らす"
+    }
+  ],
+  "timestamp": "2026-08-07T17:23:58.489081555Z",
+  "model": "glm-5.2"
+}

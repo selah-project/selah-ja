@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "悪者のいのちは悪を欲し、彼の目には隣人が恵みを〈見出さない〉。",
+  "tokens": [
+    {
+      "surface": "נֶ֣פֶשׁ",
+      "gloss": "いのち"
+    },
+    {
+      "surface": "רָ֭שָׁע",
+      "gloss": "悪者の"
+    },
+    {
+      "surface": "אִוְּתָה",
+      "gloss": "欲する"
+    },
+    {
+      "surface": "רָ֑ע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יֻחַ֖ן",
+      "gloss": "恵みを得させる"
+    },
+    {
+      "surface": "בְּעֵינָ֣יו",
+      "gloss": "彼の目に"
+    },
+    {
+      "surface": "רֵעֵֽהוּ",
+      "gloss": "隣人が"
+    }
+  ],
+  "timestamp": "2026-08-07T17:25:14.843994079Z",
+  "model": "glm-5.2"
+}

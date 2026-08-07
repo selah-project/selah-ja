@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "地は汚れた。そしてわたしはその咎をそれの上に問うた。そして地はその住民を⟨את⟩吐き出した。",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "そして…汚れた"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "そしてわたしは…問うた"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "その咎を"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "それの上に"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "そして…吐き出した"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その住民を"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "その住民を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:23.811980491Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "彼女は ⟨彼女の⟩ 若い女たちを遣わした。彼女は呼ばわる、町の高き所の上に。",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "彼女は遣わした"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "若い女たちを"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "彼女は呼ばわる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "側面に"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "高き所の"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "町の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:13.648834278Z",
+  "model": "glm-5.2"
+}

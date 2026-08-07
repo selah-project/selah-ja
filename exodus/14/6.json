@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして彼は⟨את⟩自分の戦車を結びつけ、⟨את⟩自分の民を自分と共に連れて行った。",
+  "tokens": [
+    {
+      "surface": "וַיֶּאְסֹ֖ר",
+      "gloss": "そして彼は結びつけた"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "自分の戦車"
+    },
+    {
+      "surface": "רִכְבּ֑וֹ",
+      "gloss": "自分の戦車"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "そして⟨את⟩",
+      "marks": "自分の民"
+    },
+    {
+      "surface": "עַמּ֖וֹ",
+      "gloss": "自分の民"
+    },
+    {
+      "surface": "לָקַ֥ח",
+      "gloss": "連れて行った"
+    },
+    {
+      "surface": "עִמּֽוֹ",
+      "gloss": "自分と共に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:42.879814937Z",
+  "model": "glm-5.2"
+}

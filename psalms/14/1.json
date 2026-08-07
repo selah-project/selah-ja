@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "指揮者へ。ダビデの⟨詩⟩。愚か者は心の中で言った、「エロヒムはいない」と。彼らは腐敗し、忌むべき行いをした。善を行う者はいない。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者へ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "愚か者は"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "心の中で"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "腐敗した"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "忌むべきことをした"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "行いを"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行う者は"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:59.169817793Z",
+  "model": "glm-5.2"
+}

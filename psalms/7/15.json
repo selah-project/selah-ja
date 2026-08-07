@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "見よ、⟨彼は⟩不法を身ごもり、害をもうけ、偽りを産む。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "身ごもる"
+    },
+    {
+      "surface": "און",
+      "gloss": "不法"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "そしてもうける"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "害"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "そして産む"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽り"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:28.727888035Z",
+  "model": "glm-5.2"
+}

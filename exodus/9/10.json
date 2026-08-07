@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "彼らはかまどの煤を取り、パロの前に立った。そしてモーシェはそれを天に向かってまき散らした。すると腫れ上がる膿疱が噴出する腫物が人と家畜の上に生じた。",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "彼らは取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "かまどの煤"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "煤"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "かまどの"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "彼らは立った"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前に"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "彼はまき散らした"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "それを"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "天に向かって"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "すると…となった"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "腫物"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "腫れ上がる膿疱"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "噴出する"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "人の上に"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "そして家畜の上に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:28.160609610Z",
+  "model": "glm-5.2"
+}

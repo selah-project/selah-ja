@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 53,
+  "translation": "エロヒームは天から人の子らの上に目を注いだ。悟る者、⟨את⟩エロヒームを尋ね求める者がいるか、見るために。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒーム"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "天から"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "目を注いだ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見るために"
+    },
+    {
+      "surface": "היש",
+      "gloss": "いるか"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "悟る者"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "尋ね求める者"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エロヒーム"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒーム"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:22.275328364Z",
+  "model": "glm-5.2"
+}

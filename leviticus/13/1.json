@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてヤハウェはモシェとアハロンに語って言われた、",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "および〜に"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言う"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:19.602278508Z",
+  "model": "glm-5.2"
+}

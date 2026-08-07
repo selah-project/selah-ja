@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "⟨את⟩その一羽の雄羊をあなたは朝に行い、そして⟨את⟩その二羽目の雄羊をあなたは二つの夕のあいだに行いなさい。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その一羽の雄羊"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "その雄羊"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一羽の"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "あなたは行う"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝に"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その二羽目の雄羊"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "その雄羊"
+    },
+    {
+      "surface": "השני",
+      "gloss": "二羽目の"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "あなたは行う"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜のあいだに"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "二つの夕"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:33.261589877Z",
+  "model": "glm-5.2"
+}

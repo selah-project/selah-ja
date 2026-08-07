@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "アタルヤは⟨את⟩近衛兵と民の声を聞き、民のところへ、ヤハウェの宮に来た。",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "聞いた"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "アタルヤは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "声"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "近衛兵の"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "בית",
+      "gloss": "宮"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T16:53:15.442474611Z",
+  "model": "glm-5.2"
+}

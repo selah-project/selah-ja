@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 72,
+  "translation": "終わった、ダヴィデの祈りが、イシャイの子の。コレフ終。",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "終わった"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "祈り"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィデの"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "イシャイの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:19.695532898Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "ヤハウェは単独で⟨彼を⟩導き、共に⟨彼と⟩外国のエルはいなかった。",
+  "tokens": [
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בָּדָ֣ד",
+      "gloss": "単独で"
+    },
+    {
+      "surface": "יַנְחֶ֑נּוּ",
+      "gloss": "⟨彼を⟩導き"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "〜はいなかった"
+    },
+    {
+      "surface": "עִמּ֖וֹ",
+      "gloss": "共に⟨彼と⟩"
+    },
+    {
+      "surface": "אֵ֥ל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "נֵכָֽר",
+      "gloss": "外国の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:21:28.806390599Z",
+  "model": "glm-5.2"
+}

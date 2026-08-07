@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そして⟨את⟩ネゲブ、そして⟨את⟩低地、すなわちエリコの谷——なつめやしの町——ツォアルまで。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ネゲブ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ネゲブ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "低地"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "低地"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "…の谷"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "エリコ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "なつめやしの"
+    },
+    {
+      "surface": "עד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "צער",
+      "gloss": "ツォアル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:22:16.109882275Z",
+  "model": "glm-5.2"
+}

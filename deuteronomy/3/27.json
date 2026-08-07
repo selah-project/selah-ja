@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 3:27",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ピスガの頂に登り、あなたの目を上げよ—西へ、北へ、南へ、東へ、そしてあなたの目で見よ。あなたは渡らないからである、⟨את⟩このヨルデンを。",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "登れ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頂に"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "ピスガの"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "そして上げよ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "あなたの目を"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "西へ"
+    },
+    {
+      "surface": "וצפנה",
+      "gloss": "そして北へ"
+    },
+    {
+      "surface": "ותימנה",
+      "gloss": "そして南へ"
+    },
+    {
+      "surface": "ומזרחה",
+      "gloss": "そして東へ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "あなたの目で"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だからである"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "あなたは渡る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "このヨルデン"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルデン"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:10.400540154Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 19:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "彼は⟨彼ら⟩に大いに迫り、彼らは彼のもとに曲がり、彼の家に入った。彼は⟨彼ら⟩のために宴を設け、マツォットを焼いた。彼らは食べた。",
+  "tokens": [
+    {
+      "surface": "ויפצר",
+      "gloss": "迫り"
+    },
+    {
+      "surface": "בם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大いに"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "曲がった"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼のもとに"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "入った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "彼の家"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "設け"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らのために"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "宴を"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "マツォットを"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "焼いた"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "食べた"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:09.316314690Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 2:5",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ひとりのユダヤ人がシュシャン⟨の⟩城塞にいた。その名はモルデカイ、ヤイルの子、シムイの子、キシュの子、ベニヤミン人であった。",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ひとりの"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "ユダヤ人"
+    },
+    {
+      "surface": "היה",
+      "gloss": "いた"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "シュシャン"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "⟨の⟩城塞"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "その名は"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "モルデカイ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "の子"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ヤイル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "の子"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "シムイ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "の子"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "キシュ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ベニヤミン"
+    }
+  ],
+  "timestamp": "2026-08-07T13:41:16.197488155Z",
+  "model": "glm-5.2"
+}

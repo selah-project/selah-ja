@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "「あなたは今日、⟨את⟩ モアブの国境、⟨את⟩ アルを通過している。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "通過している"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モアブの国境"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "国境"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アル"
+    },
+    {
+      "surface": "ער",
+      "gloss": "アル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:37.057006180Z",
+  "model": "glm-5.2"
+}

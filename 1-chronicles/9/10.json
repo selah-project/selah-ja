@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして祭司たちのうちから、エダヤ、エホヤリブ、ヤキン。",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "そして〜のうちから"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "エダヤ"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "エホヤリブ"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ヤキン"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:12.356241946Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 2:36",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "何とお前はひどく歩み去ることか、⟨את⟩ お前の道を変えようと。またミツライム（エジプト）からお前は恥を負う、アッシュールから恥を負ったように。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "何と"
+    },
+    {
+      "surface": "תזלי",
+      "gloss": "歩み去る"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ひどく"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "変えようと"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "お前の道を"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "お前の道を"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ミツライム（エジプト）から"
+    },
+    {
+      "surface": "תבושי",
+      "gloss": "お前は恥を負う"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜ように"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "恥を負った"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "アッシュールから"
+    }
+  ],
+  "timestamp": "2026-08-07T11:39:38.896763268Z",
+  "model": "glm-5.2"
+}

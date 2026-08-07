@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "いつまで ⟨私は⟩ 私の nefesh の中に 計らうのか、心の中に 悩みを ⟨抱いて⟩ 日々。いつまで 私の敵は 私の上に 高く上がるのか",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "いつまで"
+    },
+    {
+      "surface": "אָ֨נָה",
+      "gloss": ""
+    },
+    {
+      "surface": "אָשִׁ֪ית",
+      "gloss": "私は置く"
+    },
+    {
+      "surface": "עֵצ֡וֹת",
+      "gloss": "計らい"
+    },
+    {
+      "surface": "בְּנַפְשִׁ֗י",
+      "gloss": "私の nefesh の中に"
+    },
+    {
+      "surface": "יָג֣וֹן",
+      "gloss": "悩み"
+    },
+    {
+      "surface": "בִּלְבָבִ֣י",
+      "gloss": "私の心の中に"
+    },
+    {
+      "surface": "יוֹמָ֑ם",
+      "gloss": "日々"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "いつまで"
+    },
+    {
+      "surface": "אָ֓נָה",
+      "gloss": ""
+    },
+    {
+      "surface": "יָר֖וּם",
+      "gloss": "高く上がる"
+    },
+    {
+      "surface": "אֹיְבִ֣י",
+      "gloss": "私の敵"
+    },
+    {
+      "surface": "עָלָֽי",
+      "gloss": "私の上に"
+    }
+  ],
+  "timestamp": "2026-08-07T18:39:21.583064081Z",
+  "model": "glm-5.2"
+}

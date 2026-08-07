@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 150,
+  "translation": "ショファルを吹き鳴らして⟨彼⟩を賛美せよ、ネベルとキノルで⟨彼⟩を賛美せよ。",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "⟨彼⟩を賛美せよ"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "吹き鳴らして"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ショファル"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "⟨彼⟩を賛美せよ"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ネベルで"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "とキノルで"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:19.317903530Z",
+  "model": "glm-5.2"
+}

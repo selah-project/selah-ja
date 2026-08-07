@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 35:17",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そして彼女の出産が激しくなったとき、助産婦は彼女に言った、「恐れてはならない、この者もまたあなたに⟨与えられた⟩息子である」と。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…になった"
+    },
+    {
+      "surface": "בהקשתה",
+      "gloss": "彼女の出産が激しくなるとき"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "彼女の出産"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "そして彼女は言った"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "助産婦は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "恐れては"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "זה",
+      "gloss": "この者"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたにとって"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:09.342251112Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "あなたの矢は鋭い — 諸民はあなたの下に落ちる — ⟨それらは⟩王の敵たちの心臓⟨の中に⟩。",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "あなたの矢"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "鋭い"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "諸民"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "あなたの下に"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "落ちる"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "心臓の中に"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "の敵たち"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:29.141496816Z",
+  "model": "glm-5.2"
+}

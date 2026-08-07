@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "⟨את⟩ 奉仕の衣、聖所で奉仕するためのもの、⟨את⟩ 聖なる衣、アロンの祭司のためのもの、そして⟨את⟩ 彼の子らの衣、祭司として仕えるためのもの",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "奉仕の衣"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "衣"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "奉仕の"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "奉仕するためのもの"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "聖所で"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "聖なる衣"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "衣"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "アロンの"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼の子らの衣"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "衣"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "彼の子らの"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "祭司として仕えるためのもの"
+    }
+  ],
+  "timestamp": "2026-08-07T16:29:10.928357989Z",
+  "model": "glm-5.2"
+}

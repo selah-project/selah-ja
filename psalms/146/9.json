@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 146,
+  "translation": "ヤハウェは寄留者⟨את⟩を守り、孤児とやもめを支え、悪者たちの道を曲げられる。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "守り"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "寄留者"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "寄留者"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "孤児"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "やもめ"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "支え"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たちの"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "曲げられる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:06.909690274Z",
+  "model": "glm-5.2"
+}

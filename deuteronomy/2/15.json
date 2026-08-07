@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてまた、ヤハウェの手が彼らの上にあった — 彼らを宿営の中から打ち砕くために、彼らが終わるまで。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "בם",
+      "gloss": "彼らの上に"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "打ち砕くために"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "〜の中から"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "その宿営"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "彼らが終わる"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:34.521728487Z",
+  "model": "glm-5.2"
+}

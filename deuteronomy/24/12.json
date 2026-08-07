@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "もし その人 が 貧しい人 であれば、彼の質 のもとに 寝てはならない。",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "その人が"
+    },
+    {
+      "surface": "עָנִ֖י",
+      "gloss": "貧しい人"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "であれば"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תִשְׁכַּ֖ב",
+      "gloss": "寝てはならない"
+    },
+    {
+      "surface": "בַּעֲבֹטֽוֹ",
+      "gloss": "彼の質のもとに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:17:46.671463053Z",
+  "model": "glm-5.2"
+}

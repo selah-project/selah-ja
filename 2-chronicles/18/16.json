@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 18:16",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そこで彼は言った。「私は見た、⟨את⟩ 全イスラエルが、牧者のいない羊のように、⟨その⟩山々の上に散らされているのを。そしてヤハウェは言われた。『これらには主君がいない。各人は自分の家へ、平和のうちに帰れ。』」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そこで言った"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全イスラエル"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "נפוצים",
+      "gloss": "散らされている"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "⟨その⟩山々"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "羊のように"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "אין",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "להן",
+      "gloss": "それらに"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "牧者が"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "主君が"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "これらに"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "帰れ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人は"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "自分の家へ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "平和のうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:14:39.025305615Z",
+  "model": "glm-5.2"
+}

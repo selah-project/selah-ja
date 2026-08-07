@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "パロは使いを送った。すると見よ、イスラエルの家畜から一頭まで死んだものはなかった。しかしパロの心は重くなり、⟨彼は⟩⟨את⟩民を去らせなかった。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…送った"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "すると見よ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…なかった"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死んだ"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "家畜から"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一頭"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "重くなった"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…なかった"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "去らせ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:08.182693479Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そして、軽率な者の心は知識を悟り、どもる者の舌は明快に語ることを急ぐ。",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "心は"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "軽率な者の"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "悟る"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "知識を"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "舌は"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "どもる者の"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "急ぐ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "語ることを"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "明快に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:17.366326528Z",
+  "model": "glm-5.2"
+}

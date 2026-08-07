@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "彼らは彼の奴隷となって、わたしの奉仕と諸国の王国の奉仕との違いを知るようになるからである」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "～となる"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼の"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "奴隷として"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "そして彼らは知る"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "わたしの奉仕を"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "と～の奉仕を"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "王国の"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "諸国の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:25.172500623Z",
+  "model": "glm-5.2"
+}

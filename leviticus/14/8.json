@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして清められる者は⟨את⟩自分の衣を洗い、そして⟨את⟩すべて自分の毛を剃り、水で身を洗い、清くなる。その後、宿営に入り、自分の天幕の外に七日間住む。",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "そして洗う"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "清められる者は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の衣"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "自分の衣"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "そして剃る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて自分の毛"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "自分の毛"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "そして洗う"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水で"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "清くなる"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "その後"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "入る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "宿営"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして住む"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外に"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "自分の天幕の"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:55.335147781Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 11:3",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "牧者たちの嘆きの声、彼らの威光が略奪されたからだ。若ライオンのほえ声、ヨルダンの誇りが略奪されたからだ。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "יללת",
+      "gloss": "嘆き"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "牧者たちの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だからだ"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "略奪された"
+    },
+    {
+      "surface": "אדרתם",
+      "gloss": "彼らの威光"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "שאגת",
+      "gloss": "ほえ声"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "若ライオンの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だからだ"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "略奪された"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "誇り"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルダンの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:37:56.397815131Z",
+  "model": "glm-5.2"
+}

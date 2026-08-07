@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "滅びがその中にあり、抑圧と欺きがその広場から離れない。",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "滅びが"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "その中にあり"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "離れる"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "その広場から"
+    },
+    {
+      "surface": "תך",
+      "gloss": "抑圧"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "と欺きが"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:06.859413577Z",
+  "model": "glm-5.2"
+}

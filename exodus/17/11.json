@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そして、モーシェが⟨その⟩手を上げると、イスラエルが優勢になり、彼が⟨その⟩手を休めると、アマレクが優勢になった。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そして…になった"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "～すると"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "上げる"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェが"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手を"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "そして…優勢になる"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "そして～すると"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "休める"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手を"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "そして…優勢になる"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "アマレク"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:44.154998754Z",
+  "model": "glm-5.2"
+}

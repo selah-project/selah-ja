@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "レアヤ、ショバルの子、は⟨את⟩ヤハテを生み、ヤハテは⟨את⟩アフマイと⟨את⟩ラハデを生んだ。これらはツォラティの氏族である。",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "レアヤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "の子"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "ショバル"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハテ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ヤハテ"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "ヤハテ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アフマイ"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "アフマイ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ラハデ"
+    },
+    {
+      "surface": "להד",
+      "gloss": "ラハデ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "氏族"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "ツォラティ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:17.325861423Z",
+  "model": "glm-5.2"
+}

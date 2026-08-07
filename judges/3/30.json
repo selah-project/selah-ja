@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 3:30",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてモアブはその日、イスラエルの手の下に服した。そして地は八十年、静まった。",
+  "tokens": [
+    {
+      "surface": "ותכנע",
+      "gloss": "そして服した"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "その日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "～の下に"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "そして静まった"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "八十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-08-07T10:32:32.702538442Z",
+  "model": "glm-5.2"
+}

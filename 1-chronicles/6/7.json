@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ケハトの子ら：アミナダブ、その子、コラハ、その子、アシル、その子。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ケハト"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "アミナダブ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "コラハ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "アシル"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    }
+  ],
+  "timestamp": "2026-08-07T17:35:44.190837339Z",
+  "model": "glm-5.2"
+}

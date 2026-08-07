@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして⟨彼は⟩⟨את⟩造作をその家の全〈壁〉の上に、高さ五アンマで建てた。そして⟨彼は⟩⟨את⟩その家を杉の木材で固く取り付けた。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "そして…建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "造作"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "造作"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "その高さ"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "そして…固く取り付けた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "…の木材で"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "杉の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:45.899802941Z",
+  "model": "glm-5.2"
+}

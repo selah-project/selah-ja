@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "エサヴはセイルの山に住んだ。エサヴこそエドムである。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして住んだ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサヴは"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山に"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "セイルの"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサヴ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "こそ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:03.364428874Z",
+  "model": "glm-5.2"
+}

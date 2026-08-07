@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "エハレレルの⟨子ら⟩は、ジフ、ジファ、ティルヤ、アシュアル。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "～の子ら"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "エハレレル"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ジフ"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "ジファ"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "ティルヤ"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "アシュアル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:10.100173977Z",
+  "model": "glm-5.2"
+}

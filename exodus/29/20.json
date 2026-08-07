@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 29:20",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして⟨את⟩あの雄羊を屠りなさい。その血を取り、アハロンの耳の垂の上、およびその子らの右の耳の垂の上、および彼らの右の手の親指の上、および彼らの右の足の親指の上に置き、そして⟨את⟩その血を祭壇の上の回りに撒きなさい。",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "そして屠りなさい"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あの雄羊"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "あの雄羊"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "そして取りなさい"
+    },
+    {
+      "surface": "מדמו",
+      "gloss": "その血を"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "そして置きなさい"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "垂"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳の"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロンの"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "および〜の上に"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "垂"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳の"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "その子らの"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右の"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "および〜の上に"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "親指"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "手の"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右の"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "および〜の上に"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "親指"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "足の"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右の"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "そして撒きなさい"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "その血"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "回りに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:05.276722864Z",
+  "model": "glm-5.2"
+}

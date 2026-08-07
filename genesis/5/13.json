@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 5:13",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ケナンはマハラルエルを⟨את⟩生んでから後、四十⟨年⟩と八百⟨年⟩生き、息子たちと娘たちを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ケナン"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "後"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "彼が生んで"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "マハラルエル"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "マハラルエル"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "と八"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "と娘たち"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:03.465023163Z",
+  "model": "glm-5.2"
+}

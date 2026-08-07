@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "穀物を踏む牛に口籠をはめてはならない。",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תַחְסֹ֥ם",
+      "gloss": "口籠をはめてはならない"
+    },
+    {
+      "surface": "שׁ֖וֹר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "בְּדִישֽׁוֹ",
+      "gloss": "穀物を踏む"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:20.056673932Z",
+  "model": "glm-5.2"
+}

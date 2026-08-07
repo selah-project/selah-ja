@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "アダはエサウに⟨את⟩エリファズを産み、バセマトは⟨את⟩ルエルを産んだ。",
+  "tokens": [
+    {
+      "surface": "וַתֵּלֶד",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "עָדָה",
+      "gloss": "アダ"
+    },
+    {
+      "surface": "לְעֵשָׂו",
+      "gloss": "エサウに"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "エリファズ"
+    },
+    {
+      "surface": "אֱלִיפָז",
+      "gloss": "エリファズ"
+    },
+    {
+      "surface": "וּבָשְׂמַת",
+      "gloss": "バセマト"
+    },
+    {
+      "surface": "יָלְדָה",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ルエル"
+    },
+    {
+      "surface": "רְעוּאֵל",
+      "gloss": "ルエル"
+    }
+  ],
+  "timestamp": "2026-08-07T16:25:25.112663249Z",
+  "model": "glm-5.2"
+}

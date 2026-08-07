@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 4:2",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "「イスラエルの子らに語って言え。人の魂が過ちによって罪を犯すことがあれば、ヤハウェのすべての命令のうちの一つから — それは行ってはならないものであるが — その一つを行ってしまったなら、",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言え"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "魂"
+    },
+    {
+      "surface": "כי",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "罪を犯す"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "過ちによって"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "すべての〜のうちから"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ではない"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "行ってはならない"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "מאחת",
+      "gloss": "一つから"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "それらの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:31:08.601040520Z",
+  "model": "glm-5.2"
+}

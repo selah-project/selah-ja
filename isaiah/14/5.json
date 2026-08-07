@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "ヤハウェは悪者たちの杖を折り、支配する者たちの笏を⟨折った⟩。",
+  "tokens": [
+    {
+      "surface": "שָׁבַ֥ר",
+      "gloss": "折られた"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "מַטֵּ֣ה",
+      "gloss": "杖を"
+    },
+    {
+      "surface": "רְשָׁעִ֑ים",
+      "gloss": "悪者たちの"
+    },
+    {
+      "surface": "שֵׁ֖בֶט",
+      "gloss": "笏を"
+    },
+    {
+      "surface": "מֹשְׁלִֽים",
+      "gloss": "支配する者たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:24:02.036434946Z",
+  "model": "glm-5.2"
+}

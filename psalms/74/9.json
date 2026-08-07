@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 74,
+  "translation": "わたしたちのしるしをわたしたちは見ない、もはや預言者はいない、わたしたちの中にはいつまでかを知る者もいない。",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "わたしたちのしるしを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "わたしたちは見た"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "わたしたちと共に"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知る者"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "מה",
+      "gloss": "いつ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:43.363355133Z",
+  "model": "glm-5.2"
+}

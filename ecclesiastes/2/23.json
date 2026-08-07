@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そのすべての日々は痛みであり、その仕事は苛立ち — また、夜にもその心は休まらない。これもまたヘブル（空しさ）である。",
+  "tokens": [
+    {
+      "surface": "כִּ֧י",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "יָמָ֣יו",
+      "gloss": "その日々は"
+    },
+    {
+      "surface": "מַכְאֹבִ֗ים",
+      "gloss": "痛み"
+    },
+    {
+      "surface": "וָכַ֨עַס֙",
+      "gloss": "そして苛立ち"
+    },
+    {
+      "surface": "עִנְיָנ֔וֹ",
+      "gloss": "その仕事は"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "また"
+    },
+    {
+      "surface": "בַּלַּ֖יְלָה",
+      "gloss": "夜に"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שָׁכַ֣ב",
+      "gloss": "横たわる（休む）"
+    },
+    {
+      "surface": "לִבּ֑וֹ",
+      "gloss": "その心は"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "これもまた"
+    },
+    {
+      "surface": "זֶ֖ה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "הֶ֥בֶל",
+      "gloss": "ヘブル（空しさ）"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "である"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:31.300960232Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてヤハウェの火が落ちた。そして ⟨את⟩ 全焼のささげ物と ⟨את⟩ 木と ⟨את⟩ 石と ⟨את⟩ちりを食い尽くし、溝の中にあった ⟨את⟩ 水をなめた。",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "そして落ちた"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "そして食い尽くした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全焼のささげ物"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼のささげ物"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "木"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "木"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "石"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "石"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ちり"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ちり"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "水"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "溝の中に"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "なめた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:09.395710612Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "恵みは偽り、美しさは虚妄。ヤハウェを恐れる女、彼女こそ讃め称えられる。",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "偽り"
+    },
+    {
+      "surface": "החן",
+      "gloss": "恵みは"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "そして虚妄"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "美しさは"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "〜を恐れる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "彼女こそ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "讃め称えられる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:28.582929101Z",
+  "model": "glm-5.2"
+}

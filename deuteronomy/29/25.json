@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして⟨彼らは⟩行き、ほかのエロヒムに仕え、⟨彼らに⟩ひれ伏した—⟨彼らが⟩知らなかったエロヒム、⟨彼らに⟩割り当てられなかった⟨エロヒム⟩。",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "そして仕えた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ほかの"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "そしてひれ伏した"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "彼らが知らなかった"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "割り当てた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:20:10.701892940Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 8:27",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてヤハウェはモシェの言葉通りになし、あぶの群れはパロ、彼のしもべたち、および彼の民から去った。一つも残らなかった。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そしてなした"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "〜の言葉通りに"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "そして去った"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "あぶの群れ"
+    },
+    {
+      "surface": "מפרעה",
+      "gloss": "パロから"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "彼のしもべたちから"
+    },
+    {
+      "surface": "ומעמו",
+      "gloss": "そして彼の民から"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "残った"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:30.377586821Z",
+  "model": "glm-5.2"
+}

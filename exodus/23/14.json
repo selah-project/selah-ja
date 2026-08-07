@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "年に三度、あなたは私のために祭りを祝え。",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "度（足・祭りの巡礼）"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "あなたは祭りを祝え"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "年に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:12.270500165Z",
+  "model": "glm-5.2"
+}

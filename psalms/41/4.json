@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "ヤハウェが⟨彼を⟩病の床の上で支えられる。⟨あなたは⟩その寝床をすべて、彼の病の中で変えられた。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "支えられる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "床の"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "病の"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべてを"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "その寝床を"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "変えられた"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "彼の病の中で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:14.030422095Z",
+  "model": "glm-5.2"
+}

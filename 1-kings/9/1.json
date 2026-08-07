@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてこうなった — シェロモが ⟨את⟩ ヤハウェの家と ⟨את⟩ 王の家と、さらに ⟨את⟩ シェロモのすべての願いを建て終えたとき、彼が行おうと望んだ ⟨ものの⟩。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうなった"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "終えたとき"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモが"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "建てる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "王の家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "すべての願い"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "願い"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨もの⟩"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "望んだ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行おうと"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:11.305371664Z",
+  "model": "glm-5.2"
+}

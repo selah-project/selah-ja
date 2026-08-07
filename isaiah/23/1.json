@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "ツォルの重荷。タルシシュの船よ、哀れな声をあげよ。家から、入り口から、全く荒らされたから⟨⟩。キッティムの地から彼らに明らかにされた。",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "重荷"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ツォル"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "哀れな声をあげよ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "船よ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "タルシシュ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "荒らされた"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "家から"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "入り口から"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "地から"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "キッティム"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "明らかにされた"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T16:56:41.270400326Z",
+  "model": "glm-5.2"
+}

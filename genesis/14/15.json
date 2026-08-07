@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 14:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして彼は、彼のしもべたちと共に夜、彼らに対して分かれ、彼らを打った。そしてダマシェクの左にあるホバまで彼らを追った。",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "そして…分かれた"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らに対して"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "そして彼のしもべたち"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "そして…打った"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "そして…追った"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "חובה",
+      "gloss": "ホバ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "左"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "ダマシェクの"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:43.411743297Z",
+  "model": "glm-5.2"
+}

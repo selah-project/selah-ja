@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 73,
+  "translation": "私の心が発酵し ⟨的になった⟩ 时、私の腎臓が私を刺し貫いた ⟨とき⟩。",
+  "tokens": [
+    {
+      "surface": "כִּ֭י",
+      "gloss": "〜する时"
+    },
+    {
+      "surface": "יִתְחַמֵּ֣ץ",
+      "gloss": "発酵する"
+    },
+    {
+      "surface": "לְבָבִ֑י",
+      "gloss": "私の心"
+    },
+    {
+      "surface": "וְ֝כִלְיוֹתַ֗י",
+      "gloss": "私の腎臓"
+    },
+    {
+      "surface": "אֶשְׁתּוֹנָֽן",
+      "gloss": "刺し貫いた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:05.247504507Z",
+  "model": "glm-5.2"
+}

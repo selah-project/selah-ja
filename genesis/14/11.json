@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして彼らは⟨את⟩ ソドムとアモラのすべての財産、および⟨את⟩ 彼らのすべての食料を取って、去って行った。",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "そして彼らは取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての財産"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "財産"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ソドム"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "およびアモラ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "すべての食料"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "彼らの食料"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "そして去って行った"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:32.734493938Z",
+  "model": "glm-5.2"
+}

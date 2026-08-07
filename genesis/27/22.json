@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "ヤアコブは父イツハクに近づき、⟨彼⟩は彼に触れた。そして言った、「声はヤアコブの声、だが手はエサウの手だ」",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "そして近づいた"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イツハク"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "そして彼は彼に触れた"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "その声は"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "だがその手は"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "〜の手"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:18.608266431Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてダビデは名声を得た。彼が⟨את⟩アラムを打って帰ったとき、塩の谷において。一万八千。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…得た"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名声"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "彼が帰ったとき"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "打って"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アラム"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラム"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "谷において"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "塩"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "八"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:10.388321849Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "都市には荒廃が残された、そして門は打ち砕かれた。",
+  "tokens": [
+    {
+      "surface": "נִשְׁאַ֥ר",
+      "gloss": "残された"
+    },
+    {
+      "surface": "בָּעִ֖יר",
+      "gloss": "都市には"
+    },
+    {
+      "surface": "שַׁמָּ֑ה",
+      "gloss": "荒廃が"
+    },
+    {
+      "surface": "וּשְׁאִיָּ֖ה",
+      "gloss": "そして廃墟が"
+    },
+    {
+      "surface": "יֻכַּ֥ת",
+      "gloss": "打ち砕かれた"
+    },
+    {
+      "surface": "שָֽׁעַר",
+      "gloss": "門は"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:07.216399713Z",
+  "model": "glm-5.2"
+}

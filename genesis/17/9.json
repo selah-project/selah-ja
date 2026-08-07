@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてエロヒムはアブラハムに言われた、「あなたは⟨את⟩私の契約を守れ、あなたと、あなたの後のあなたの子孫が、彼らの世代において。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の契約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "私の契約"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "守れ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "そしてあなたの子存"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "あなたの後に"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "彼らの世代において"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:45.988165454Z",
+  "model": "glm-5.2"
+}

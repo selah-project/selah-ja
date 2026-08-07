@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "深淵を衣のように〈あなたは〉覆われた ― 水は山々の上に立った。",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "深淵を"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "衣のように"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "覆われた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山々の"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "立った"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:55.299228919Z",
+  "model": "glm-5.2"
+}

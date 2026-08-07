@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 23:2",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "彼らはユダを巡り歩き、ユダのすべての町からレビ人を、またイスラエルの父祖たちのかしらを集めて、エルシャライムに来た。",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "彼らは巡り歩いた"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ユダに"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "そして彼らは集めた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レビ人"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人を"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "町から"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "そしてかしらを"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "父祖たちの"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "そして彼らは来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "エルシャライム"
+    }
+  ],
+  "timestamp": "2026-08-07T17:39:48.286858287Z",
+  "model": "glm-5.2"
+}

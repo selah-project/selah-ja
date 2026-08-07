@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "小麦と大麦の地、ぶどうの木といちじくの木とざくろの地、オリーブ油と蜜の地。",
+  "tokens": [
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "חִטָּה",
+      "gloss": "小麦と"
+    },
+    {
+      "surface": "וּשְׂעֹרָה",
+      "gloss": "大麦の"
+    },
+    {
+      "surface": "וְגֶפֶן",
+      "gloss": "ぶどうの木と"
+    },
+    {
+      "surface": "וּתְאֵנָה",
+      "gloss": "いちじくの木と"
+    },
+    {
+      "surface": "וְרִמּוֹן",
+      "gloss": "ざくろの"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "זֵית",
+      "gloss": "オリーブ"
+    },
+    {
+      "surface": "שֶׁמֶן",
+      "gloss": "油と"
+    },
+    {
+      "surface": "וּדְבָשׁ",
+      "gloss": "蜜の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:09:48.259018571Z",
+  "model": "glm-5.2"
+}

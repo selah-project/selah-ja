@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 24:25",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そしてヨシュアはその日、民のために契約を結び、シェケムにおいて彼らのために定めと裁きを置いた。",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "そして…結んだ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "民のために"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…の日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "そして…置いた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼らのために"
+    },
+    {
+      "surface": "חק",
+      "gloss": "定め"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "と裁き"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "シェケムに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:30:58.854393822Z",
+  "model": "glm-5.2"
+}

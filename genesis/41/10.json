@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "ファラオは⟨その⟩僕たちに怒りを発し、私を監禁した、処刑人長の家の看守に——私と、⟨את⟩パン方の長官を。",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "ファラオ"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "怒った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "彼の僕たち"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして与えた"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩私を",
+      "marks": "監禁"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "監禁に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長官"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "処刑人の"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩私を",
+      "marks": "パン方の長官と共に"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "パン方の長官"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長官"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "パン方の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:03.964724669Z",
+  "model": "glm-5.2"
+}

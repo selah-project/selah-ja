@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてさらに、私は太陽の下で見た。さばきの場、そこに悪が⟨ある⟩。そして正義の場、そこに悪が⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "そしてさらに"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "の下で"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "場"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "さばきの"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "そして〜場"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "正義の"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "悪"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:33.332443276Z",
+  "model": "glm-5.2"
+}

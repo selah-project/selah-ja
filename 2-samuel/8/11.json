@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 8:11",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "これらをも、ダビデ王はヤハウェに聖別した。銀と金と共に—すべての国々から聖別したもの、彼が征服した国々から。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "これらをも"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "聖別した"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "聖別した"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "その銀"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "そしてその金"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "聖別した"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "国々から"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "征服した"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:20.700434669Z",
+  "model": "glm-5.2"
+}

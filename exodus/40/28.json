@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして彼は幕屋の入口の覆いを⟨את⟩設けた。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "そして設けた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "覆いを"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "覆いを"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "入口の"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "幕屋の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:51.589041945Z",
+  "model": "glm-5.2"
+}

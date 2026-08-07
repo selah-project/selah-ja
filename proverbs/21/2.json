@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "人の道はすべて、自分の目にまっすぐ⟨見える⟩、しかしヤハウェは心を量られる。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "まっすぐ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "自分の目に"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "しかし量られる"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "心を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:03.071579138Z",
+  "model": "glm-5.2"
+}

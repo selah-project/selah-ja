@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 135,
+  "translation": "耳を⟨彼らは⟩持つが、聞こうとしない。まことに、彼らの口の中には息がない。",
+  "tokens": [
+    {
+      "surface": "אָזְנַ֣יִם",
+      "gloss": "耳"
+    },
+    {
+      "surface": "לָ֭הֶם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יַאֲזִ֑ינוּ",
+      "gloss": "聞く"
+    },
+    {
+      "surface": "אַ֝֗ף",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יֶשׁ",
+      "gloss": ""
+    },
+    {
+      "surface": "ר֥וּחַ",
+      "gloss": "息"
+    },
+    {
+      "surface": "בְּפִיהֶֽם",
+      "gloss": "彼らの口の中に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:54.123389629Z",
+  "model": "glm-5.2"
+}

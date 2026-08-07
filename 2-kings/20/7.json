@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 20:7",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてイザヤは言った。「無花果の饼を取れ。」そして彼らは取り、腫物の上に置いた。そして彼は生き返った。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "イザヤ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "דבלת",
+      "gloss": "餅"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "無花果の"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "そして彼らは取った"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "そして彼らは置いた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "腫物"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "そして彼は生き返った"
+    }
+  ],
+  "timestamp": "2026-08-07T11:19:18.011558184Z",
+  "model": "glm-5.2"
+}

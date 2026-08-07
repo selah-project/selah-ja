@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "第二の月の十四日、夕暮れの間に、彼らは⟨את⟩それを行わなければならない。種なしパンと苦菜を添えて彼らはそれを食べる。",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "月の"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二の"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "四の"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日に"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間に"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "夕暮れ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "彼らは行う"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ（過ぎ越し）"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜を添えて"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "種なしパン"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "そして苦菜"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "彼らはそれを食べる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:54:30.351976342Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "genesis 41:49",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "ヨセフは穀物を集め、海の砂のように非常に多いものとした。数えるのをやめるほどに。数がない〈ので〉。",
+  "tokens": [
+    {
+      "surface": "ויצבר",
+      "gloss": "そして集めた"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "穀物"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "砂のように"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海の"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "多く"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜なので"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "やめた"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "数えるのを"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜なので"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "数が"
+    }
+  ],
+  "timestamp": "2026-08-07T09:07:54.624729643Z",
+  "model": "glm-5.2"
+}

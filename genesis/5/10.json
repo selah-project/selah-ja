@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "エノシュは⟨את⟩ケナンを生んでから後、十五年と八百年⟨を⟩生き、息たちと娘たちを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "エノシュ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "後"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "彼が生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ケナン"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ケナン"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "と八"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息たち"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "娘たち"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:45.472340111Z",
+  "model": "glm-5.2"
+}

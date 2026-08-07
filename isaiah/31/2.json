@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "また ⟨彼⟩ も知恵ある方 ⟨である⟩。そして災いをもたらし、⟨את⟩ 御言葉を撤回されない。悪を行う者の家に向かって、また害悪をなす働き手の助けに向かって立ち上がられる。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "また"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "知恵ある方"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "もたらし"
+    },
+    {
+      "surface": "רע",
+      "gloss": "災いを"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "御言葉"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "御言葉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "撤回され"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "立ち上がられる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "悪を行う者の"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜に向かって"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "助け"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "働き手"
+    },
+    {
+      "surface": "און",
+      "gloss": "害悪をなす"
+    }
+  ],
+  "timestamp": "2026-08-07T11:28:13.361332797Z",
+  "model": "glm-5.2"
+}

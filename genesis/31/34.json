@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 31:34",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "そしてラケルは⟨את⟩テラフィムを取って、それらをらくだの鞍の中に置き、その上に座った。そしてラバンは⟨את⟩天幕のすべてを手探りしたが、見つけなかった。",
+  "tokens": [
+    {
+      "surface": "ורחל",
+      "gloss": "そしてラケルは"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "テラフィムを"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "テラフィムを"
+    },
+    {
+      "surface": "ותשמם",
+      "gloss": "そして置いた"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "鞍の中に"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "らくだの"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "そして座った"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "וימשש",
+      "gloss": "そして手探りした"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ラバンは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "天幕のすべてを"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべてを"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "天幕の"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "見つけ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:02:54.426450864Z",
+  "model": "glm-5.2"
+}

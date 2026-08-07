@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "ダビデはハダドエゼルの奴隷たちの上にあった⟨את⟩金の盾を取り、それらをイェルシャライム（エルサレム）に持ち込んだ。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして…取った"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "金の盾"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "盾"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "היו",
+      "gloss": "あった"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "奴隷たち"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ハダドエゼルの"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "そして…持ち込んだ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライム（エルサレム）へ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:06:33.069632974Z",
+  "model": "glm-5.2"
+}

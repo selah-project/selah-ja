@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そしてモシェはした ——ヤハウェが彼に命じられたすべてのことに従って――そのようにした。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼はした"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "すべての～に従って"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～ところの"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "彼はした"
+    }
+  ],
+  "timestamp": "2026-08-07T14:23:11.274324108Z",
+  "model": "glm-5.2"
+}

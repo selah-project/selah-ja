@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "彼らは私の災いの日に私に立ち向かい、ヤハウェは私のために支えとなられた。",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "彼らは私に先行した"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "私の災い"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜となられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "支えとして"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:33.349732548Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてヤハウェはモシェに言われた。「一日に一人の指導者、一日に一人の指導者 — 彼らは⟨את⟩自分たちの供え物を、⟨את⟩祭壇の奉献のために近づけるであろう。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…は言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "指導者"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一人"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "一日に"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "指導者"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一人"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "一日に"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "彼らは近づける"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分たちの供え物"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "彼らの供え物"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "奉献のために"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:51:38.229101990Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 27:16",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてもし人がその所有地の畑から⟨一部⟩をヤハウェに聖別するなら、あなたの評価はその種に応じたものとなる — 大麦一ホメルの種は五十シェケルの銀である。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "〜の畑から"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "その所有地の"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "聖別する"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人が"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "そしてそれは〜となる"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "あなたの評価"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "〜に応じて"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "その種"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "種"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "一ホメルの"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "大麦"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "シェケル"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:43.617474009Z",
+  "model": "glm-5.2"
+}

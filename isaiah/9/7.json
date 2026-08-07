@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "みことばをアドナイはヤアコブに遣わされた。そしてそれはイスラエルに下った。",
+  "tokens": [
+    {
+      "surface": "דָּבָ֛ר",
+      "gloss": "みことば"
+    },
+    {
+      "surface": "שָׁלַ֥ח",
+      "gloss": "遣わされた"
+    },
+    {
+      "surface": "אֲדֹנָ֖י",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "בְּיַעֲקֹ֑ב",
+      "gloss": "ヤアコブに"
+    },
+    {
+      "surface": "וְנָפַ֖ל",
+      "gloss": "そして下った"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵֽל",
+      "gloss": "イスラエルに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:57.222372185Z",
+  "model": "glm-5.2"
+}

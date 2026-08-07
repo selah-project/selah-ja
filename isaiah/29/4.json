@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 29:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "あなたは低められ、地から語り、塵からあなたの言葉は低められる。あなたの声は地から出る霊のようになり、塵からあなたの言葉は囁く。",
+  "tokens": [
+    {
+      "surface": "ושפלת",
+      "gloss": "あなたは低められ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "地から"
+    },
+    {
+      "surface": "תדברי",
+      "gloss": "語る"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "塵から"
+    },
+    {
+      "surface": "תשח",
+      "gloss": "低められる"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "あなたの言葉は"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "それは…になる"
+    },
+    {
+      "surface": "כאוב",
+      "gloss": "霊のように"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "地から"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "あなたの声は"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "塵から"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "あなたの言葉は"
+    },
+    {
+      "surface": "תצפצף",
+      "gloss": "囁く"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:36.295949607Z",
+  "model": "glm-5.2"
+}

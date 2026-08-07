@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 9:23",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてモシェは⟨את⟩自分の杖を天に向けて伸ばした。するとヤハウェは声と雹を与え、火が地を行き巡った。そしてヤハウェはミツライムの地に雹を降らせた。",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "そして伸ばした"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の杖"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "自分の杖"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "するとヤハウェ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "声々"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "そして雹"
+    },
+    {
+      "surface": "ותהלך",
+      "gloss": "そして歩いた"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地に向かって"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "そして降らせた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "雹を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:45.244672935Z",
+  "model": "glm-5.2"
+}

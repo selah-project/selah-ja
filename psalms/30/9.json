@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "あなたに、ヤハウェよ、私は呼ばわり、アドナイに私は恩赦を請う。",
+  "tokens": [
+    {
+      "surface": "אֵלֶ֣יךָ",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "אֶקְרָ֑א",
+      "gloss": "私は呼ばわり"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אֲ֝דֹנָ֗י",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "אֶתְחַנָּֽן",
+      "gloss": "私は恩赦を請う"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:03.119382812Z",
+  "model": "glm-5.2"
+}

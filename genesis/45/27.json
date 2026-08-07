@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 45:27",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "そして彼らは彼に語った — ⟨את⟩ ヨセフのすべての言葉を、彼が彼らに語った ⟨もの⟩ — そして彼は⟨見た⟩ ⟨את⟩ ヨセフが送った車を、彼を運ぶために。そしてヤコブ、彼らの父の霊が生き返った。",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "そして彼らは語った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨセフのすべての言葉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "彼が語った"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "そして彼は⟨見た⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "車"
+    },
+    {
+      "surface": "העגלות",
+      "gloss": "車"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "送った"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフが"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "運ぶために"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 彼を",
+      "marks": "彼（ヤコフ）"
+    },
+    {
+      "surface": "ותחי",
+      "gloss": "そして生き返った"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤコブ"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "彼らの父の"
+    }
+  ],
+  "timestamp": "2026-08-07T16:26:11.660452244Z",
+  "model": "glm-5.2"
+}

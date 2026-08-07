@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 85,
+  "translation": "まことに、⟨彼の⟩救いは⟨彼を⟩畏れる者たちに近い。栄光が私たちの地に宿るために。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "近い"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "⟨彼を⟩畏れる者たちに"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "⟨彼の⟩救い"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "宿るために"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "栄光"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "私たちの地に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:54:52.104287286Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 48:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "イスラエルの目は年老いて重くなり、見ることができなかった。彼が⟨את⟩彼らを自分のところに近づけると、彼は彼らに口づけし、彼らを抱きしめた。",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "そして〜の目"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "重くなった"
+    },
+    {
+      "surface": "מזקן",
+      "gloss": "年老いて"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "できた"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見ることを"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "そして近づけた"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼のところに"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "そして口づけした"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "そして抱きしめた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らを"
+    }
+  ],
+  "timestamp": "2026-08-07T09:11:22.189446638Z",
+  "model": "glm-5.2"
+}

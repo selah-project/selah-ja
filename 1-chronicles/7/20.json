@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 7:20",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてエフライムの子らはシュテラハ、ベレドその子、タハトその子、エルアダその子、タハトその子であった。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "そして〜の子ら"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライム"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "シュテラハ"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "そしてベレド"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "そしてタハト"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "ואלעדה",
+      "gloss": "そしてエルアダ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "そしてタハト"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:28.185083612Z",
+  "model": "glm-5.2"
+}

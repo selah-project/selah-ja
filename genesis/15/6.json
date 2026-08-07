@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 15:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして彼はヤハウェに信頼した。そして⟨彼⟩はそれを彼に義とみなされた。",
+  "tokens": [
+    {
+      "surface": "וְהֶאֱמִ֖ן",
+      "gloss": "そして…信頼した"
+    },
+    {
+      "surface": "בַּֽיהוָ֑ה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "וַיַּחְשְׁבֶ֥הָ",
+      "gloss": "そして…みなした"
+    },
+    {
+      "surface": "לּ֖וֹ",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "צְדָקָֽה",
+      "gloss": "義として"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:38.398232032Z",
+  "model": "glm-5.2"
+}

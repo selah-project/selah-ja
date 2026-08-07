@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "わたしが「わたしの足はすべる」と言ったとき、あなたのヘセド、ヤハウェよ、⟨⟩わたしを支えられた。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "〜とき"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "わたしは言った"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "すべる"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "わたしの足"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "あなたのヘセド"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "わたしを支える"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:02.355057907Z",
+  "model": "glm-5.2"
+}

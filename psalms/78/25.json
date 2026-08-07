@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "人はアビリムのパンを食べた。⟨彼は⟩飽きるほどに彼らに食物を送られた。",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "アビリムの"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食べた"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "食物を"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "送られた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "飽きるほどに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:34.858476875Z",
+  "model": "glm-5.2"
+}

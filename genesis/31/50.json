@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "もしあなたが⟨את⟩私の娘たちを苦しめるなら、またもしあなたが私の娘たちの上に女たちをめとるなら — 私たちと共に人はいない。見よ、エロヒムが私とあなたの間の証人である。」",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "あなたが苦しめるなら"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の娘たちを"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "私の娘たち"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "またもし"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "あなたがめとるなら"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "女たちを"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "私の娘たち"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "私たちと共に"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムが"
+    },
+    {
+      "surface": "עד",
+      "gloss": "証人"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "私と"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "あなたの間の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:12.978349393Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "のろいが⟨彼の⟩口に満ち、欺きと害悪が⟨ある⟩、⟨彼の⟩舌の下には労苦と不義が⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "のろい"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "彼の口"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "満ち"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "欺きと"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "害悪"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "彼の舌"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "労苦"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "不義"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:26.482578107Z",
+  "model": "glm-5.2"
+}

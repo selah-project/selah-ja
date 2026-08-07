@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "ただし、バモットは除かれなかった。民はなおバモットで犠牲を屠り、香を焚いていた。",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "バモットは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "除かれた"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "なお"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "犠牲を屠り"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "そして香を焚き"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "バモットで"
+    }
+  ],
+  "timestamp": "2026-08-07T11:14:52.599336405Z",
+  "model": "glm-5.2"
+}

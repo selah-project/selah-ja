@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "わたしは人を純金よりも稀にし、人をオフィルの純金よりも稀にする。",
+  "tokens": [
+    {
+      "surface": "אוֹקִ֥יר",
+      "gloss": "わたしは稀にする"
+    },
+    {
+      "surface": "אֱנ֖וֹשׁ",
+      "gloss": "人を"
+    },
+    {
+      "surface": "מִפָּ֑ז",
+      "gloss": "純金よりも"
+    },
+    {
+      "surface": "וְאָדָ֖ם",
+      "gloss": "人を"
+    },
+    {
+      "surface": "מִכֶּ֥תֶם",
+      "gloss": "純金よりも"
+    },
+    {
+      "surface": "אוֹפִֽיר",
+      "gloss": "オフィルの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:43.478489121Z",
+  "model": "glm-5.2"
+}

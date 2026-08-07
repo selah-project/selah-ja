@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 7:14",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "彼はナフタリ部族のやもめの女の息子であった — その父はツォル人で、青銅の職人であった — そして彼は知恵と理解力と知識を満たされて、青銅であらゆる仕事をする⟨ことができた⟩。彼はシュロモ王のところに来て、彼のすべての仕事をした。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女の"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "やもめ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "部族の"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ナフタリ"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "そしてその父は"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ツォル"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "職人"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "そして…満たされた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "知恵"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "知恵"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "理解力"
+    },
+    {
+      "surface": "התבונה",
+      "gloss": "理解力"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "知識"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "するために"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "仕事"
+    },
+    {
+      "surface": "בנחשת",
+      "gloss": "青銅で"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "そして…来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のところに"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "そして…した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "彼の仕事"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:17.656706254Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてエロヒムの霊がシャウルの上に力強く臨んだ——彼が⟨את⟩これらの言葉を聞いたとき——そして彼の怒りは激しく燃え上がった。",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "そして力強く臨んだ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "彼が聞いたとき"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらの言葉"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "そして燃え上がった"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "彼の怒り"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "激しく"
+    }
+  ],
+  "timestamp": "2026-08-07T10:42:31.033253213Z",
+  "model": "glm-5.2"
+}

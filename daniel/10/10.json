@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 10:10",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "見よ、一つの手が私に触れた。そしてそれは私を膝の上に、そして手のひらの上に揺り動かした。",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "触れた"
+    },
+    {
+      "surface": "בי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "ותניעני",
+      "gloss": "そして私を揺り動かした"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "私の膝"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "そして〜のひら"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "私の手の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:47:02.815352708Z",
+  "model": "glm-5.2"
+}

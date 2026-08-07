@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "これらはシェムの子ら、彼らの氏族ごとに、彼らの言語ごとに、彼らの地において、彼らの国民として〈ある〉。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "שם",
+      "gloss": "シェム"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "彼らの氏族ごとに"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "彼らの言語ごとに"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "彼らの地において"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "彼らの国民として"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:28.139589616Z",
+  "model": "glm-5.2"
+}

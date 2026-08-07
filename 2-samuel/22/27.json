@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "純粋な者には、あなたは純粋に⟨示される⟩。そして曲がった者には、あなたはねじれて⟨示される⟩。",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "〜には"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "純粋な者"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "あなたは純粋に⟨示される⟩"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "そして〜には"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "曲がった者"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "あなたはねじれて⟨示される⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:33.366550323Z",
+  "model": "glm-5.2"
+}

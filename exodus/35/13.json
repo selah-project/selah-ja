@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "⟨את⟩ 表、および⟨את⟩ その棒、および⟨את⟩ そのすべての器具、そして⟨את⟩ 顔のパンを",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "表"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "表"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "その棒"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "その棒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "そのすべての器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "その器具"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "顔のパン"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "顔の"
+    }
+  ],
+  "timestamp": "2026-08-07T16:29:09.129149880Z",
+  "model": "glm-5.2"
+}

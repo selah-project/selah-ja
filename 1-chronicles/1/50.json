@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-chronicles 1:50",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "バアル・ハナンが死に、彼に代わってハダドが王となった。彼の都市の名はパウ、彼の妻の名はメヘタベル、マトレドの娘、メイ・ザハブの娘であった。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "～が死に"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "バアル・"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ハナン"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代わって"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ハダド"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "～の名は"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "彼の都市の"
+    },
+    {
+      "surface": "פעי",
+      "gloss": "パウ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "～の名は"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "彼の妻の"
+    },
+    {
+      "surface": "מהיטבאל",
+      "gloss": "メヘタベル"
+    },
+    {
+      "surface": "בת",
+      "gloss": "～の娘"
+    },
+    {
+      "surface": "מטרד",
+      "gloss": "マトレド"
+    },
+    {
+      "surface": "בת",
+      "gloss": "～の娘"
+    },
+    {
+      "surface": "מי",
+      "gloss": "メイ・"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ザハブ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:16.914895158Z",
+  "model": "glm-5.2"
+}

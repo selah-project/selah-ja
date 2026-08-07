@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "彼は平和のうちに、私のネフェシを贖われた — ⟨私の⟩近くにいた者たちから。多数が私と共にいた ⟨から⟩。",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "彼は贖われた"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "平和のうちに"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私のネフェシを"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "多数の中で"
+    },
+    {
+      "surface": "היו",
+      "gloss": "いた"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "私と共に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:27.422782022Z",
+  "model": "glm-5.2"
+}

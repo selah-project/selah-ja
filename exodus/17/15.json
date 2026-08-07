@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてモーセは祭壇を建て、その名をヤハウェ・ニシ（ヤハウェはわたしの旗）と呼んだ。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "そして…建てた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセは"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇を"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして…呼んだ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "その名を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "・ニシ（わたしの旗）"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:25.575409399Z",
+  "model": "glm-5.2"
+}

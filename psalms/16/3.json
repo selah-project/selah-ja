@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "地にある聖なる者たちに——彼らは⟨そうだ⟩、すべて私の喜びは彼らにある。",
+  "tokens": [
+    {
+      "surface": "לִקְדוֹשִׁים",
+      "gloss": "聖なる者たちに"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "בָּאָרֶץ",
+      "gloss": "地にある"
+    },
+    {
+      "surface": "הֵמָּה",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "וְאַדִּירֵי",
+      "gloss": "そして栄ある"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חֶפְצִי",
+      "gloss": "私の喜び"
+    },
+    {
+      "surface": "בָּם",
+      "gloss": "彼らにある"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:16.181031995Z",
+  "model": "glm-5.2"
+}

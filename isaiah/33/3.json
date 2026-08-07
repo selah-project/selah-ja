@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "轟きの声から諸々の民は逃げ惑った。あなたの高揚から諸国は散らされた。",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "～の声から"
+    },
+    {
+      "surface": "המון",
+      "gloss": "轟き"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "逃げ惑った"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "諸々の民は"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "あなたの高揚から"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "散らされた"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "諸国は"
+    }
+  ],
+  "timestamp": "2026-08-07T11:28:21.455766845Z",
+  "model": "glm-5.2"
+}

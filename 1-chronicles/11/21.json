@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 11:21",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "三人对する二人の中で重んぜられた。そして彼らにとって長となった。しかし三人の所には⟨至らなかった⟩。",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "～の中で"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "三人"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "二人の中で"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "重んぜられた"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして～となった"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らにとって"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "長として"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "しかし～に至るまで"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "三人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "בא",
+      "gloss": "至った"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:02.691667841Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "祝福されよ ⟨あなたの⟩籠と ⟨あなたの⟩こね鉢",
+  "tokens": [
+    {
+      "surface": "בָּר֥וּךְ",
+      "gloss": "祝福されよ"
+    },
+    {
+      "surface": "טַנְאֲךָ֖",
+      "gloss": "あなたの籠"
+    },
+    {
+      "surface": "וּמִשְׁאַרְתֶּֽךָ",
+      "gloss": "そしてあなたのこね鉢"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:34.068629148Z",
+  "model": "glm-5.2"
+}

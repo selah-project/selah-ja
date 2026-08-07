@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 146,
+  "translation": "ヤハウェはとこしえに王である。おお ツィヨン、あなたのエロヒムは、代々にわたって。ハレル ヤハ。",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "王である"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨン"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "代々"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "にわたって"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ハレル"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:06.909963429Z",
+  "model": "glm-5.2"
+}

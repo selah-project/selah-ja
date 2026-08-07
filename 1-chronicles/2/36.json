@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてアッタイは⟨את⟩ナタンをもうけ、ナタンは⟨את⟩ザバドをもうけた。",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "そしてアッタイ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "もうけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナタン"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ナタン"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "そしてナタン"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "もうけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ザバド"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ザバド"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:47.375488887Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてダビデに告げられた — ⟨את⟩リツパ・アヤの娘、シャウルの側女が行ったこと。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "そして告げられた"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "リツパが行ったこと"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…たこと"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "行った"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "リツパ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "…の娘"
+    },
+    {
+      "surface": "איה",
+      "gloss": "アヤ"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "側女"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:15.286145551Z",
+  "model": "glm-5.2"
+}

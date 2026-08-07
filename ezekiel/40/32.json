@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 40:32",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして彼は私を東の方から内の庭に連れて入り、彼は⟨את⟩その門を測った — これらの寸法に〈等しく〉。",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "彼は私を連れて入った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "内の"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "〜の方から"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "東"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "彼は測った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その門"
+    },
+    {
+      "surface": "השער",
+      "gloss": "その門"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "〜の寸法に等しく"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:14:02.360271754Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "食べよ、わたしの子よ、蜜を。それは良いから。そして蜜のしたたりは、あなたの口蓋に甘い。",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "食べよ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "わたしの子よ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "蜜を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "それは〜だから"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "そして蜜のしたたりは"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "甘い"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "あなたの口蓋"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:54.704850275Z",
+  "model": "glm-5.2"
+}

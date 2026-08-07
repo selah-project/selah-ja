@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして彼は⟨את⟩内臓と⟨את⟩脚を洗い、全焼の献げ物と共に祭壇の上で焼いた。",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "そして彼は洗った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "内臓"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "内臓"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "脚"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "脚"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "そして彼は焼いた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の献げ物"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "祭壇の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:25.168394588Z",
+  "model": "glm-5.2"
+}

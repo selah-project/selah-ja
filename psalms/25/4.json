@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "あなたの道を、ヤハウェ、私に知らせてください。あなたの小道を私に教えてください。",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "あなたの道"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "私に知らせてください"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "あなたの小道"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "私に教えてください"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:00.657744693Z",
+  "model": "glm-5.2"
+}

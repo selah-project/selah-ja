@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "アマサは ⟨את⟩ ユダを呼び集めるために行ったが、彼が彼に定めた定められた時を過ぎた。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "アマサ"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "呼び集めるために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ユダ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "そして遅れた"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "その定められた時"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "彼が彼に定めた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:55:20.228331556Z",
+  "model": "glm-5.2"
+}

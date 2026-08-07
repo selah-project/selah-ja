@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 4:8",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼は十の机を作り、神殿に置いた — 右に五つ、左に五つ。そして彼は金の鉢を百作った。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は作った"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "机を"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "そして彼は置いた"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "神殿に"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五つ"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "右から"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "そして五つ"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "左から"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は作った"
+    },
+    {
+      "surface": "מזרקי",
+      "gloss": "鉢を"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    }
+  ],
+  "timestamp": "2026-08-07T19:13:31.731907407Z",
+  "model": "glm-5.2"
+}

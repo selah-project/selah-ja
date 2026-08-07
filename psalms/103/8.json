@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 103,
+  "translation": "憐れみ深く、恵み豊かなヤハウェ、怒るのに遅く、ヘセドに富む",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "憐れみ深く"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "恵み豊かな"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "遅く"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "怒るのに"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "富む"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ヘセドに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:32.764618548Z",
+  "model": "glm-5.2"
+}

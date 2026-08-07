@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "ヤアコブは住んだ、その父の滞在の地において、ケナンの地において。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして住んだ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "〜の地において"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "滞在の"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "その父の"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "〜の地において"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ケナン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:17.661115051Z",
+  "model": "glm-5.2"
+}

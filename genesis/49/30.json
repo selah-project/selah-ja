@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 49:30",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "あの洞窟に——それはマクペラの畑にあるもので、マムレの東にあり、クナアンの地にある。それはアブラハムがヒッタイト人エフロンから ⟨את⟩ その畑を買い取ったもの、墓地の所有として。」",
+  "tokens": [
+    {
+      "surface": "במערה",
+      "gloss": "あの洞窟に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "畑にある"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "マクペラ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の東に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔、正面"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "マムレ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地にある"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "クナアン"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "買い取った"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その畑を"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "その畑"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "עפרן",
+      "gloss": "エフロン"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ヒッタイト人"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "所有として"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "墓"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:08.953236468Z",
+  "model": "glm-5.2"
+}

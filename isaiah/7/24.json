@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "矢と弓で、その所に人は来る。全地が茨と藪となるからである。",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "矢で"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "と弓で"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "茨と"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "藪"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "…となる"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地が"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:27.574596682Z",
+  "model": "glm-5.2"
+}

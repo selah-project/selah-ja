@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "わずかに彼らは地の上でわたしを絶ち滅ぼそうとした、しかしわたしはあなたのピクディムを捨てなかった。",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "わずかに"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "彼らはわたしを絶ち滅ぼそうとした"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地の上で"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "しかしわたしは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "捨て"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "あなたのピクディムを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:22.093298403Z",
+  "model": "glm-5.2"
+}

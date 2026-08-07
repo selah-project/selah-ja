@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "富へ急ぐ者、悪い目の男 — そして知らない、欠乏が自分に襲いかかることを。",
+  "tokens": [
+    {
+      "surface": "נִֽבֳהָ֥ל",
+      "gloss": "急ぐ者"
+    },
+    {
+      "surface": "לַה֗וֹן",
+      "gloss": "富へ"
+    },
+    {
+      "surface": "אִ֭ישׁ",
+      "gloss": "男"
+    },
+    {
+      "surface": "רַ֣ע",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "עָ֑יִן",
+      "gloss": "目の"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יֵ֝דַע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "חֶ֥סֶר",
+      "gloss": "欠乏が"
+    },
+    {
+      "surface": "יְבֹאֶֽנּוּ",
+      "gloss": "自分に襲いかかる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:00.823764592Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "彼の家臣たちが立ち上がり、謀りを謀り、ミロの家、すなわちシラに下る⟨道⟩で⟨את⟩ ヨアシュを打った。",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "そして立ち上がった"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "彼の家臣たちは"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "そして謀った"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "謀りを"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "そして打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨアシュ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ヨアシュを"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家で"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ミロの"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "下る"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "シラに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:13:59.625292836Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 19:23",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "モーセはヤハウェに言われた — 民はシナイ山に上ることができない。あなたが私たちに証言して、「山に境界を設け、それを聖別せよ」と言われたからです。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言われた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "できる"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "上ることに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "シナイ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "העדתה",
+      "gloss": "証言された"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "私たちに"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "境界を設けよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "山を"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "その山に"
+    },
+    {
+      "surface": "וקדשתו",
+      "gloss": "そしてそれを聖別せよ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:49.199230729Z",
+  "model": "glm-5.2"
+}

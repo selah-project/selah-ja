@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "幸福なる、審判を守る者たち、義をなす者はすべての時に。",
+  "tokens": [
+    {
+      "surface": "אַ֭שְׁרֵי",
+      "gloss": "幸福なる"
+    },
+    {
+      "surface": "שֹׁמְרֵ֣י",
+      "gloss": "守る者たち"
+    },
+    {
+      "surface": "מִשְׁפָּ֑ט",
+      "gloss": "審判を"
+    },
+    {
+      "surface": "עֹשֵׂ֖ה",
+      "gloss": "なす者は"
+    },
+    {
+      "surface": "צְדָקָ֣ה",
+      "gloss": "義を"
+    },
+    {
+      "surface": "בְכָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עֵֽת",
+      "gloss": "時に"
+    }
+  ],
+  "timestamp": "2026-08-07T18:41:18.825485447Z",
+  "model": "glm-5.2"
+}

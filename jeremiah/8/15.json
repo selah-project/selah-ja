@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "シャロムを待ち望んだが、善きものはない。いやすべき時に、見よ、恐怖だ。",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "待ち望んだ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "シャロムを"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善きもの"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "時に"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "いやすべき"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "恐怖"
+    }
+  ],
+  "timestamp": "2026-08-07T14:31:53.996046072Z",
+  "model": "glm-5.2"
+}

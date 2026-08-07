@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 3:12",
+  "book": "nahum",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "あなたのすべての要塞は ⟨、⟩ 初熟のいちじくと共にあるいちじく ⟨のようだ⟩。もしそれらが揺さぶられるなら、食べる者の口の中に落ちる。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "あなたの要塞"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "いちじく"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…と共に"
+    },
+    {
+      "surface": "בכורים",
+      "gloss": "初熟の"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "揺さぶられる"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "そして落ちる"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の中に"
+    },
+    {
+      "surface": "פי",
+      "gloss": "口"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "食べる者の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:27:58.946540012Z",
+  "model": "glm-5.2"
+}

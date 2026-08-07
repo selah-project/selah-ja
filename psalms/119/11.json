@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "私はあなたの言を心に秘めました。あなたに対して罪を犯さないために。",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "心に"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "私は秘めました"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "あなたの言"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "私が罪を犯す"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに対して"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:36.983039198Z",
+  "model": "glm-5.2"
+}

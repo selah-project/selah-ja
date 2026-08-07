@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 24:9",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そしてヨアブは民の点呼の数を王に与えた。イスラエルは八十万の剣を抜く勇士⟨となった⟩。ユダの男たちは五十万人⟨であった⟩。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして…与えた"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民の点呼の数"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "…の数"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "点呼"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "八"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "…の人々"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "抜く"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣を"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "そして…の人々"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:16.554103084Z",
+  "model": "glm-5.2"
+}

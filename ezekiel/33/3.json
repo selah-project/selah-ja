@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "彼が⟨את⟩剣が地に来るのを見、シャファールを吹き、⟨את⟩民に警告を発するなら——",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "見る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "剣"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "באה",
+      "gloss": "来る"
+    },
+    {
+      "surface": "על",
+      "gloss": "～の上に"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "吹く"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "シャファールに"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "警告する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    }
+  ],
+  "timestamp": "2026-08-07T14:36:40.123568322Z",
+  "model": "glm-5.2"
+}

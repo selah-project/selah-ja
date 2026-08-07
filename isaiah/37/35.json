@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "isaiah 37:35",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "わたしはこの町を守り、これを救う — わたし自身のために、またわたしのしもべダヴィドのために。」",
+  "tokens": [
+    {
+      "surface": "וגנותי",
+      "gloss": "わたしは守る"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "この町"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "להושיעה",
+      "gloss": "これを救うために"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "わたし自身のために"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "そして〜のために"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "わたしのしもべ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:28:44.440838056Z",
+  "model": "glm-5.2"
+}

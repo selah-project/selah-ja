@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 76,
+  "translation": "エロヒムはユダにおいて知られている、イスラエルにおいて御名は大いなる。",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "知られている"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ユダにおいて"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルにおいて"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "御名は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:52.568219691Z",
+  "model": "glm-5.2"
+}

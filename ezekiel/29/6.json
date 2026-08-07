@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 29:6",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてミツライム（エジプト）のすべての住民は知るであろう、わたしがヤハウェであることを。彼らがイスラエルの家にとって葦の杖となっていたからだ。",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "そして彼らは知るであろう"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "住民"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～ということを"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "～だから"
+    },
+    {
+      "surface": "היותם",
+      "gloss": "彼らが～であったこと"
+    },
+    {
+      "surface": "משענת",
+      "gloss": "杖"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "葦の"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "～の家にとって"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:10:25.562066962Z",
+  "model": "glm-5.2"
+}

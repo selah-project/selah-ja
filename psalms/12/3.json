@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "空しさを、人は ⟨את⟩ その隣人と語る。滑らかな唇で、心と心とを ⟨用いて⟩ 語る。",
+  "tokens": [
+    {
+      "surface": "שָׁ֤וְא",
+      "gloss": "空しさを"
+    },
+    {
+      "surface": "יְֽדַבְּרוּ֮",
+      "gloss": "語る"
+    },
+    {
+      "surface": "אִ֤ישׁ",
+      "gloss": "人は"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "その隣人"
+    },
+    {
+      "surface": "רֵ֫עֵ֥הוּ",
+      "gloss": "その隣人"
+    },
+    {
+      "surface": "שְׂפַ֥ת",
+      "gloss": "唇"
+    },
+    {
+      "surface": "חֲלָק֑וֹת",
+      "gloss": "滑らかな"
+    },
+    {
+      "surface": "בְּלֵ֖ב",
+      "gloss": "心と"
+    },
+    {
+      "surface": "וָלֵ֣ב",
+      "gloss": "心と"
+    },
+    {
+      "surface": "יְדַבֵּֽרוּ",
+      "gloss": "語る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:47.733708437Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "これらすべてにおいても、彼らはなお罪を犯し、その驚くべきわざを信じなかった。",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "〜のすべてにおいて"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これら"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "彼らは罪を犯し"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "なお"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "信じ"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "その驚くべきわざを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:47.419446555Z",
+  "model": "glm-5.2"
+}

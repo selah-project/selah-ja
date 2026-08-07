@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 87,
+  "translation": "そして歌う者たちは笛吹き者たちのように⟨踊る⟩ — 「私のすべての泉はあなたの中にある」と。",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "そして歌う者たちは"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "笛吹き者たちのように"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "私の泉"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたの中にある"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:11.582839563Z",
+  "model": "glm-5.2"
+}

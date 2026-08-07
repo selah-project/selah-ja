@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてヤハウェのことばがヨナに二度目に来た、語って言う",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…あった"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ヨナ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "二度目に"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "語って言う"
+    }
+  ],
+  "timestamp": "2026-08-07T12:26:03.773358142Z",
+  "model": "glm-5.2"
+}

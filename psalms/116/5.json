@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 116,
+  "translation": "恵み深い方はヤハウェ、かつ正しい方、そして私たちのエロヒムは憐れんでくださる方。",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "恵み深い"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "そして正しい"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "そして私たちのエロヒム"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "憐れんでくださる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:26.108859301Z",
+  "model": "glm-5.2"
+}

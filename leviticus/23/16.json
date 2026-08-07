@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 23:16",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "第七の安息日の翌日まで、あなたがたは五十日を数えよ。そして新しい穀物の捧げ物をヤハウェに近づけて捧げよ。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "翌日"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "その安息日の"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "第七の"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "あなたがたは数えよ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "そしてあなたがたは近づけて捧げよ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "穀物の捧げ物"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "新しい"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:39.945141328Z",
+  "model": "glm-5.2"
+}

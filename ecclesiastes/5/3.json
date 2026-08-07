@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "エロヒムに誓願を立てるとき、それを果たすのを遅らせてはならない。因为彼らは愚か者たちの中に望みを持たない。⟨את⟩あなたが誓願を立てたもの、果たせ。",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "〜するとき"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "誓願を立てる"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "誓願"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "エロヒムに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "遅らせる"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "それを果たす"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "אין",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "望み"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "愚か者たちの中に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたが誓願を立てたもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "誓願を立てる"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "果たせ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:42.561391171Z",
+  "model": "glm-5.2"
+}

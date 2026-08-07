@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてこれらのことばは、〈あなたの〉心の上にあらねばならない、〈すなわち〉私がきょうあなたに命じるこれらのことばは。",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "そして…あらねばならない"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "これらのことば"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（関係詞）"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私が"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "あなたに命じる"
+    },
+    {
+      "surface": "היום",
+      "gloss": "きょう"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "あなたの心"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:31.633495691Z",
+  "model": "glm-5.2"
+}

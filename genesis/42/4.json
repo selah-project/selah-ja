@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "そして⟨את⟩ベニヤミン、ヨセフの兄弟を、ヤアコブは⟨את⟩兄弟たちと共に送らなかった。というのは、彼は言ったからだ、「万一彼に災難が降りかかるといけないから」と。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ベニヤミン"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "ベニヤミン"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "送った"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "兄弟たち"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "兄弟たち"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "彼は言った"
+    },
+    {
+      "surface": "פן",
+      "gloss": "万一〜といけないから"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "彼に出会う"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "災難が"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:33.536910846Z",
+  "model": "glm-5.2"
+}

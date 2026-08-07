@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "まことに、直かなるはヤハウェの御言葉。そしてすべての彼の御業は真実をもって。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "直かなるは"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "御言葉"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "彼の御業は"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "真実をもって"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:12.373774758Z",
+  "model": "glm-5.2"
+}

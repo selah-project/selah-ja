@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "見よ、わたしは遠くへ逃れ、さまよい、荒野に宿ろう。セラ。",
+  "tokens": [
+    {
+      "surface": "הִ֭נֵּה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אַרְחִ֣יק",
+      "gloss": "わたしは遠くへ"
+    },
+    {
+      "surface": "נְדֹ֑ד",
+      "gloss": "逃れ、さまよい"
+    },
+    {
+      "surface": "אָלִ֖ין",
+      "gloss": "宿ろう"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֣ר",
+      "gloss": "荒野に"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:15.994779156Z",
+  "model": "glm-5.2"
+}

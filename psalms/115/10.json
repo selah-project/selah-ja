@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 115,
+  "translation": "アハロンの家よ、ヤハウェに拠り頼め。⟨彼らの⟩助け、⟨彼らの⟩盾は⟨彼⟩だ。",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "拠り頼め"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "彼らの助け"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "彼らの盾"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:49.330391163Z",
+  "model": "glm-5.2"
+}

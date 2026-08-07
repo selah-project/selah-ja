@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 11:16",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "というのは、彼らがエジプトから上って来たとき、イスラエルは荒野を通って葦の海まで行き、カデシュに来たからだ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのは\/だから"
+    },
+    {
+      "surface": "בעלותם",
+      "gloss": "上って来たとき"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "エジプトから"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルは"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野を"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "葦の"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "カデシュに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:36:05.982506775Z",
+  "model": "glm-5.2"
+}

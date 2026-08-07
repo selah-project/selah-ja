@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "六日のあいだ、あなたは労して、あなたのすべての仕事を為さなければならない。",
+  "tokens": [
+    {
+      "surface": "שֵׁ֤שֶׁת",
+      "gloss": "六の"
+    },
+    {
+      "surface": "יָמִים֙",
+      "gloss": "日々"
+    },
+    {
+      "surface": "תַּֽעֲבֹ֔ד",
+      "gloss": "あなたは労する"
+    },
+    {
+      "surface": "וְעָשִׂ֖יתָ",
+      "gloss": "そしてあなたは為す"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מְלַאכְתֶּֽךָ",
+      "gloss": "あなたの仕事"
+    }
+  ],
+  "timestamp": "2026-08-07T09:20:45.981314098Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 5:27",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "其中に疲れた者もつまずく者もなく、まどろむことも眠ることもない。その腰の帯は解かれず、その靴のひもは切られない。",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "疲れた者"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "つまずく者"
+    },
+    {
+      "surface": "בו",
+      "gloss": "其中に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "まどろむ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "眠る"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "נפתח",
+      "gloss": "解かれた"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "帯は"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "その腰の"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "切られた"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "ひも"
+    },
+    {
+      "surface": "נעליו",
+      "gloss": "その靴の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:31.826235007Z",
+  "model": "glm-5.2"
+}

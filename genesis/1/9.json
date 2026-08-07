@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "エロヒムは言われた、「天の下の水が一つの場所に集まれ、そして乾いた地が現れよ」。そしてそのようになった。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "集まれ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水は"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "〜の下の"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "場所"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "そして現れよ"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "乾いた地は"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜になった"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    }
+  ],
+  "timestamp": "2026-08-07T14:20:53.699653634Z",
+  "model": "glm-5.2"
+}

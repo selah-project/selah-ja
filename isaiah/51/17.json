@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 51:17",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "目覚めよ、目覚めよ、立ち上がれ、イェルシャライム、ヤハウェの手から怒りの杯を飲んだ者よ。よろめきの杯の、⟨את⟩その深い杯を飲み干し、絞り出した者よ。",
+  "tokens": [
+    {
+      "surface": "התעוררי",
+      "gloss": "目ざめよ"
+    },
+    {
+      "surface": "התעוררי",
+      "gloss": "目ざめよ"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "立ち上がれ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムよ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜者よ"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "飲んだ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "〜の手から"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "怒りの杯"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "杯"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "怒りの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "深い杯"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "深い杯"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "杯の"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "よろめき"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "飲み干した"
+    },
+    {
+      "surface": "מצית",
+      "gloss": "絞り出した"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:09.331120118Z",
+  "model": "glm-5.2"
+}

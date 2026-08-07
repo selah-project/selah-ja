@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして、すべての肉なるもののうち、その中にいのちの霊があるものから、二つ二つ、ノアの元へ、箱舟へと入った。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "そして…入った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…の元へ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノア"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "箱舟"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二つ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二つ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "すべての…から"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "肉なるもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "בו",
+      "gloss": "その中に"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "いのちの"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:22.536878799Z",
+  "model": "glm-5.2"
+}

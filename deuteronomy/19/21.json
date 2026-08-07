@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてあなたの目は容赦してはならない — ネフェシュはネフェシュのために、目は目のために、歯は歯のために、手は手のために、足は足のために。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "容赦する"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "あなたの目"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ネフェシュ"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ネフェシュのために"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "目のために"
+    },
+    {
+      "surface": "שן",
+      "gloss": "歯"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "歯のために"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手のために"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "足"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "足のために"
+    }
+  ],
+  "timestamp": "2026-08-07T16:37:14.638738587Z",
+  "model": "glm-5.2"
+}

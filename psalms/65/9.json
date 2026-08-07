@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 65,
+  "translation": "地の果ての住民もあなたのしるしを恐れる。朝のもとと夕べのもとは ⟨喜びの声を⟩ 上げる。",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "そして彼らは恐れる"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "〜の住民"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "果て"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "あなたのしるしに"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "〜のもと"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "と夕べ"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "喜びの声を上げる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:26.815535474Z",
+  "model": "glm-5.2"
+}

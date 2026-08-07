@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "風に飛ばされる葉をおののかせ、⟨את⟩乾したわらを追い立てるのか。",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "飛ばされる葉を"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "風に散らされる"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "おののかせるのか"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "乾したわらを"
+    },
+    {
+      "surface": "קש",
+      "gloss": "わらを"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "乾いた"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "追い立てるのか"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:49.902606984Z",
+  "model": "glm-5.2"
+}

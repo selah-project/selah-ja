@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 21:15",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして民はベニヤミンのために嘆いた。ヤハウェがイスラエルの部族のうちに穴を開けられたからである。",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "そして民は"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "嘆いた"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "ベニヤミンのために"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "開けられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "穴を"
+    },
+    {
+      "surface": "בשבטי",
+      "gloss": "〜の部族のうちに"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:39:21.058116568Z",
+  "model": "glm-5.2"
+}

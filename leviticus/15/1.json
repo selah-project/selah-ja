@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そしてヤハウェはモシェとアハロンに語り、告げて仰せられた。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "告げて仰せられた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:21.765731945Z",
+  "model": "glm-5.2"
+}

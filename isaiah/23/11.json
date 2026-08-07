@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 23:11",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "⟨彼の⟩手を海の上に伸ばし、国々を震わせた。ヤハウェがカナンについて命じ、その砦を滅ぼすために。",
+  "tokens": [
+    {
+      "surface": "ידו",
+      "gloss": "手"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "伸ばした"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "הרגיז",
+      "gloss": "震わせた"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "国々を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…について"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "カナン"
+    },
+    {
+      "surface": "לשמד",
+      "gloss": "滅ぼすために"
+    },
+    {
+      "surface": "מעזניה",
+      "gloss": "その砦"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:36.557994506Z",
+  "model": "glm-5.2"
+}

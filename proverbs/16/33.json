@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "ふところに ⟨את⟩ くじは投げられる、しかし ⟨その⟩ すべての裁きは ヤハウェ からのものだ。",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "ふところに"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "投げられる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "くじ"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "くじ"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "しかしヤハウェから"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "その裁き"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:39.112213105Z",
+  "model": "glm-5.2"
+}

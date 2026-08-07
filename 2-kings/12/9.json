@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして祭司たちは同意した — 民から銀を取らないことに、そして家の破損を修繕しないことに。",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "そして…同意した"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たちは"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "〜しないために"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "取る"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀を"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "そして〜しないために"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "修繕する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "破損を"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "破損の"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:15:06.237875120Z",
+  "model": "glm-5.2"
+}

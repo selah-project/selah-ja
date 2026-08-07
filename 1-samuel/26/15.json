@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 26:15",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "ダビデはアブネルに言った。「あなたは男ではないのか。イスラエルであなたに並ぶ者は誰か。なぜあなたは主人である王を守らなかったのか。民の一人が、王なるあなたの主人を滅ぼすために来たのだ。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "アブネル"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "〜ではないのか"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "そして誰"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "あなたに並ぶ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルで"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "守ら"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "あなたの主人"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王なる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一人"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "滅ぼすために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "あなたの主人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:55.959316738Z",
+  "model": "glm-5.2"
+}

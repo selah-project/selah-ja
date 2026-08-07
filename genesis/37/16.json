@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "彼は言った、「私は⟨את⟩私の兄弟たちを探しています。どうか私に言ってください、彼らはどこで群れを飼っているのですか」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の兄弟たち"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "私の兄弟たち"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私は"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "探している"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "言ってください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "どこで"
+    },
+    {
+      "surface": "הם",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "飼っているのですか"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:11.225486783Z",
+  "model": "glm-5.2"
+}

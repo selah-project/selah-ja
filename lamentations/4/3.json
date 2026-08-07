@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "ジャッカルでさえ胸を差し出し、その幼獣に乳を飲ませる。だが、わたしの民の娘は荒野のダチョウのように残酷となった。",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "〜でさえ"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "ジャッカル"
+    },
+    {
+      "surface": "חָ֣לְצוּ",
+      "gloss": "差し出し"
+    },
+    {
+      "surface": "שַׁ֔ד",
+      "gloss": "胸を"
+    },
+    {
+      "surface": "הֵינִ֖יקוּ",
+      "gloss": "乳を飲ませる"
+    },
+    {
+      "surface": "גוּרֵיהֶ֑ן",
+      "gloss": "その幼獣に"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "עַמִּ֣י",
+      "gloss": "わたしの民の"
+    },
+    {
+      "surface": "לְאַכְזָ֔ר",
+      "gloss": "残酷となった"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "ダチョウ"
+    },
+    {
+      "surface": "בַּמִּדְבָּֽר",
+      "gloss": "荒野の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:07.537415040Z",
+  "model": "glm-5.2"
+}

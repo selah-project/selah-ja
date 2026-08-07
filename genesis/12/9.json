@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてアヴラムは旅立った — 進み続け、移り続けながら、ネゲブ（南方の地）へ。",
+  "tokens": [
+    {
+      "surface": "וַיִּסַּע",
+      "gloss": "そして旅立った"
+    },
+    {
+      "surface": "אַבְרָם",
+      "gloss": "アヴラム"
+    },
+    {
+      "surface": "הָלוֹךְ",
+      "gloss": "進み続け"
+    },
+    {
+      "surface": "וְנָסוֹעַ",
+      "gloss": "移り続けながら"
+    },
+    {
+      "surface": "הַנֶּגְבָּה",
+      "gloss": "ネゲブ（南方の地）へ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:07.166493692Z",
+  "model": "glm-5.2"
+}

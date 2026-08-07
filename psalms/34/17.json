@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "ヤハウェの顔は悪を行う者に向かい、地から彼らの記憶を断ち切るためである。",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "顔"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "行う者たち"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "断ち切るため"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "地から"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "彼らの記憶"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:42.715297274Z",
+  "model": "glm-5.2"
+}

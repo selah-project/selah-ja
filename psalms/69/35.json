@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "天と地は彼を賛美せよ、海々とその中を這い動くすべてのものは。",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "彼を賛美せよ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天は"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "地と"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "海々"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "すべてのもの"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "這い動く"
+    },
+    {
+      "surface": "בם",
+      "gloss": "その中を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:15.926171160Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "祝福されるように、ヤハウェ、とこしえに。アーメン、そしてアーメン。",
+  "tokens": [
+    {
+      "surface": "בָּר֖וּךְ",
+      "gloss": "祝福されるように"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לְ֝עוֹלָ֗ם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "אָ֘מֵ֥ן",
+      "gloss": "アーメン"
+    },
+    {
+      "surface": "וְאָמֵֽן",
+      "gloss": "そしてアーメン"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:31.713166095Z",
+  "model": "glm-5.2"
+}

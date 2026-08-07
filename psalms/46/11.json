@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "弛め、そして知れ — わたしこそエロヒムであることを。わたしは諸国民のうちに高められ、わたしは地に高められる。」",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "弛め"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "そして知れ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "高められる"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "諸国民のうちに"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "高められる"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:02.986812016Z",
+  "model": "glm-5.2"
+}

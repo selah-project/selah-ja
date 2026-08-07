@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "賛歌、ダヴィデの、記憶させるための⟨もの⟩",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "賛歌"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "ダヴィデの"
+    },
+    {
+      "surface": "לְהַזְכִּיר",
+      "gloss": "記憶させるための"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:54.683962754Z",
+  "model": "glm-5.2"
+}

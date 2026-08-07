@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてアラムの王はイスラエルと戦っていた。そして彼は自分のしもべたちに相談して言った、「あれこれの場所に⟨私の⟩陣営を張ろう」。",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "そして…王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラムの"
+    },
+    {
+      "surface": "היה",
+      "gloss": "いた"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "戦って"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルと"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "そして彼は…相談して"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "自分のしもべたち"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "場所"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "あれ"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "これ"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "陣営を張ろう"
+    }
+  ],
+  "timestamp": "2026-08-07T11:11:36.272760167Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "deuteronomy 28:59",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そしてヤハウェは⟨あなたの⟩打ち傷と、⟨あなたの⟩種の打ち傷を並外れたものとされる — 大いなる打ち傷と確固たるもの、そして悪しき病と確固たるものを。",
+  "tokens": [
+    {
+      "surface": "והפלא",
+      "gloss": "並外れたものとされる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの打ち傷"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "あなたの打ち傷"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "種の打ち傷"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "打ち傷"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "あなたの種"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "打ち傷"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "ונאמנות",
+      "gloss": "確固たる"
+    },
+    {
+      "surface": "וחלים",
+      "gloss": "そして病"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "悪しき"
+    },
+    {
+      "surface": "ונאמנים",
+      "gloss": "確固たる"
+    }
+  ],
+  "timestamp": "2026-08-07T14:25:06.132155287Z",
+  "model": "glm-5.2"
+}

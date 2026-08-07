@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 137,
+  "translation": "思い出せ、ヤハウェよ、エドムの子らに、⟨את⟩ イェルシャライムの日を、彼らの言った者たち、「裸にせよ、裸にせよ、その基礎に至るまで」と。",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "思い出せ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〜の子らに"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イェルシャライムの日を"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日を"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムの"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "言った者たち"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "裸にせよ"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "裸にせよ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "その基礎"
+    },
+    {
+      "surface": "בה",
+      "gloss": "その"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:18.051066729Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 20:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "いま、わたしは知った。ヤハウェが ⟨其の⟩ メシアを救われることを。 ⟨彼は⟩ 其の聖なる天々から ⟨彼に⟩ 答えられる。 ⟨其の⟩ 右手の救いの力をもって。",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "いま"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "わたしは知った"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "救われる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "メシアを"
+    },
+    {
+      "surface": "יענהו",
+      "gloss": "彼に答えられる"
+    },
+    {
+      "surface": "משמי",
+      "gloss": "天々から"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "力をもって"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "救いの"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "右手の"
+    }
+  ],
+  "timestamp": "2026-08-07T17:17:18.039729844Z",
+  "model": "glm-5.2"
+}

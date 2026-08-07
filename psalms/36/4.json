@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "彼の口の言葉は害悪と欺ぎである。彼は分別を持つことをやめ、善を行うことをやめた。",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "言葉は"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "彼の口の"
+    },
+    {
+      "surface": "און",
+      "gloss": "害悪と"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "欺ぎ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "やめた"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "分別を持つことを"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "善を行うことを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:50.711628275Z",
+  "model": "glm-5.2"
+}

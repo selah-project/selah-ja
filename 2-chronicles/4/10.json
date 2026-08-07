@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして⟨את⟩海を、すなわち右肩から東の方へ、南の正面に置いた。",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "そして⟨את⟩",
+      "marks": "海"
+    },
+    {
+      "surface": "הַיָּ֗ם",
+      "gloss": "海を"
+    },
+    {
+      "surface": "נָתַ֞ן",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "מִכֶּ֧תֶף",
+      "gloss": "〜の肩から"
+    },
+    {
+      "surface": "הַיְמָנִ֛ית",
+      "gloss": "右"
+    },
+    {
+      "surface": "קֵ֖דְמָה",
+      "gloss": "東の方へ"
+    },
+    {
+      "surface": "מִמּ֥וּל",
+      "gloss": "〜の正面に"
+    },
+    {
+      "surface": "נֶֽגְבָּה",
+      "gloss": "南の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:32.904369179Z",
+  "model": "glm-5.2"
+}

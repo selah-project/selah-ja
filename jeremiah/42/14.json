@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 42:14",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "すなわち「いや、むしろ私たちはミツライム（エジプト）の地に行こう。そこでは戦いを見ず、ショファルの声も聞かず、パンに飢えることもない」と言い、そこに住もう、⟨と⟩。",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "すなわち"
+    },
+    {
+      "surface": "לא",
+      "gloss": "いや"
+    },
+    {
+      "surface": "כי",
+      "gloss": "むしろ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "〜の地に"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "私たちは行こう"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこでは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "私たちは見ない"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦いを"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "〜の声"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ショファルの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "私たちは聞かない"
+    },
+    {
+      "surface": "וללחם",
+      "gloss": "そしてパンに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נרעב",
+      "gloss": "私たちは飢えない"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そしてそこに"
+    },
+    {
+      "surface": "נשב",
+      "gloss": "私たちは住もう"
+    }
+  ],
+  "timestamp": "2026-08-07T11:56:29.546680128Z",
+  "model": "glm-5.2"
+}

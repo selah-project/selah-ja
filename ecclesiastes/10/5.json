@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "悪が⟨ある⟩、わたしが太陽の下で見たようなものとして — それは権力者の顔から出る過失のように、",
+  "tokens": [
+    {
+      "surface": "יֵ֣שׁ",
+      "gloss": "ある"
+    },
+    {
+      "surface": "רָעָ֔ה",
+      "gloss": "悪が"
+    },
+    {
+      "surface": "רָאִ֖יתִי",
+      "gloss": "わたしが見た"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "〜の下で"
+    },
+    {
+      "surface": "הַשָּׁ֑מֶשׁ",
+      "gloss": "太陽の"
+    },
+    {
+      "surface": "כִּשְׁגָגָ֕ה",
+      "gloss": "過失常のように"
+    },
+    {
+      "surface": "שֶׁיֹּצָ֖א",
+      "gloss": "出る"
+    },
+    {
+      "surface": "מִלִּפְנֵ֥י",
+      "gloss": "〜の顔から"
+    },
+    {
+      "surface": "הַשַּׁלִּֽיט",
+      "gloss": "権力者の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:17.427277819Z",
+  "model": "glm-5.2"
+}

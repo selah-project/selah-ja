@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 80,
+  "translation": "火で焼かれ、切り倒され、あなたの顔の責めによって滅びる。",
+  "tokens": [
+    {
+      "surface": "שְׂרֻפָ֣ה",
+      "gloss": "焼かれ"
+    },
+    {
+      "surface": "בָאֵ֣שׁ",
+      "gloss": "火で"
+    },
+    {
+      "surface": "כְּסוּחָ֑ה",
+      "gloss": "切り倒され"
+    },
+    {
+      "surface": "מִגַּעֲרַ֖ת",
+      "gloss": "〜の責めによって"
+    },
+    {
+      "surface": "פָּנֶ֣יךָ",
+      "gloss": "あなたの顔の"
+    },
+    {
+      "surface": "יֹאבֵֽדוּ",
+      "gloss": "滅びる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:18.061369531Z",
+  "model": "glm-5.2"
+}

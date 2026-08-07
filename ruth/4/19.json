@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてヘツロンは⟨את⟩ラムを生み、ラムは⟨את⟩アミナダブを生んだ。",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "そしてヘツロンは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ラム"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ラムを"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "そしてラムは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アミナダブ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "アミナダブを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:35:14.575355592Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 19:35",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "バルジライは王に言った。「私のいのちの年の日数はどれほどでしょうか。私が⟨את⟩王と共にイェルシャライムへ上るなど。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "バルジライは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "どれほど"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日の"
+    },
+    {
+      "surface": "שני",
+      "gloss": "年"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "私のいのち"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だろうか（疑問）"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "私が上る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムへ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:55:48.728835119Z",
+  "model": "glm-5.2"
+}

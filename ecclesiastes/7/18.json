@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "良いのは、⟨あなた⟩ がこれをしっかりと握り、またあれからも ⟨あなた⟩ の手を引いてはならないこと。すなわち、エロヒムを畏れる者は ⟨それらすべて⟩ から ⟨את⟩ 出ていく ⟨את⟩ からである。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良いのは"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ということ"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "握る"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "これを"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "また"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "あれから"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜するな"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "引く\/下ろす"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの手"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも\/すなわち"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "畏れる者"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出ていく"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "それらすべて"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "それらすべて"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:58.552750100Z",
+  "model": "glm-5.2"
+}

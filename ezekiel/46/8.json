@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 46:8",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "そして君が入る時、門の玄関の道を通って入り、同じ道を通って出るべきである。",
+  "tokens": [
+    {
+      "surface": "ובבוא",
+      "gloss": "そして〜入る時"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "君が"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道を"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "玄関の"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門の"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "入る"
+    },
+    {
+      "surface": "ובדרכו",
+      "gloss": "そしてその道を"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出る"
+    }
+  ],
+  "timestamp": "2026-08-07T14:37:09.771814928Z",
+  "model": "glm-5.2"
+}

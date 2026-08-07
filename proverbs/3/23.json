@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そのとき、あなたは安心してあなたの道を歩き、あなたの足はつまずかない。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "そのとき"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "歩く"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安心して"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "あなたの道を"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "あなたの足は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "つまずく"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:32.161491704Z",
+  "model": "glm-5.2"
+}

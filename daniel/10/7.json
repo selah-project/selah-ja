@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 10:7",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして私、ダニエルだけが⟨את⟩この幻を見た。私と共にいた人々は⟨את⟩この幻を見なかった。しかし、大きな恐怖が彼らに襲いかかり、彼らは隠れて逃げた。",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "そして私は見た"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ダニエル"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ただひとりで"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この幻"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "幻"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "そして人々は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "היו",
+      "gloss": "いた"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "私と共に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この幻"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "幻"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "しかし"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "恐怖"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "大きな"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "襲いかかった"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "ויברחו",
+      "gloss": "そして彼らは逃げた"
+    },
+    {
+      "surface": "בהחבא",
+      "gloss": "隠れて"
+    }
+  ],
+  "timestamp": "2026-08-07T13:46:20.312943015Z",
+  "model": "glm-5.2"
+}

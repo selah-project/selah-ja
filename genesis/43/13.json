@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "そして⟨את⟩あなたたちの兄弟を連れて行き、立ち上がって、あの男のもとへ帰りなさい。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "あなたたちの兄弟"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "あなたたちの兄弟"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "連れて行け"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "そして立ち上がれ"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "帰れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "あの男"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:17.199573337Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして地の目を覆い、地を見ることができないようになる。そして雹からあなたがたのために残された残りの逃れたものを食べ、野からあなたがたのために芽生えるすべての木を ⟨את⟩ 食べる。",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "そして…覆く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地の目"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ことができる"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "見る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "そして…食べた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "残りの…逃れたもの"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "残りの"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "逃れたもの"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "残されている"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたのために"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "雹"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "そして…食べた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての…木"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "木"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "芽生える"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたのために"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:41.169622673Z",
+  "model": "glm-5.2"
+}

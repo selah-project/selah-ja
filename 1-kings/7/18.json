@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 7:18",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして彼は⟨את⟩柱を作り、一つの網細工の回りに二列のものがあって、ざくろの頭の上にある柱頭を覆った。そして第二の柱頭にも同様にした。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は作った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "柱"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "柱"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "そして二つの"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "列"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "回りに"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "網細工の"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "覆うため"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "柱頭"
+    },
+    {
+      "surface": "הכתרת",
+      "gloss": "柱頭"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "ざくろの"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "そして同様に"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "彼はした"
+    },
+    {
+      "surface": "לכתרת",
+      "gloss": "柱頭に"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "第二の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:12.841120717Z",
+  "model": "glm-5.2"
+}

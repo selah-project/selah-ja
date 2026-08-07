@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてこの民を幸いと呼ぶ者たちは迷わせ、その幸いと呼ばれる者たちは飲み込まれている。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "そして…た"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "幸いと呼ぶ者たちは"
+    },
+    {
+      "surface": "העם",
+      "gloss": "この民を"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "迷わせる"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "その幸いと呼ばれる者たちは"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "飲み込まれている"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:13.842301769Z",
+  "model": "glm-5.2"
+}

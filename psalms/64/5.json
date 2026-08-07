@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 64,
+  "translation": "隠れ場で全き者を射るために、突然彼を射、恐れない。",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "射るために"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "隠れ場で"
+    },
+    {
+      "surface": "תם",
+      "gloss": "全き者"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "突然"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "彼を射る"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "恐れる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:49.286268821Z",
+  "model": "glm-5.2"
+}

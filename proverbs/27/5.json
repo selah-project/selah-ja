@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "隠された愛よりも、明らかにされた戒めのほうが良い。",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "良い"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "戒め"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "明らかにされた"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "愛よりも"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "隠された"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:06.984515832Z",
+  "model": "glm-5.2"
+}

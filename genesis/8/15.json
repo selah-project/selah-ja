@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてエロヒムはノアに語って、言われた。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして…語った"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノア"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言われた"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:17.239946602Z",
+  "model": "glm-5.2"
+}

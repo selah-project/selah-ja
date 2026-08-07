@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 12:22",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "⟨彼は⟩深淵を闇から露わにし、死の陰を光のもとに連れ出す。",
+  "tokens": [
+    {
+      "surface": "מגלה",
+      "gloss": "露わにする"
+    },
+    {
+      "surface": "עמקות",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "מני",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "闇"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "連れ出す"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "光のもとに"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "死の陰"
+    }
+  ],
+  "timestamp": "2026-08-07T13:23:36.478789250Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "彼女は⟨彼の⟩名をヨセフと呼び、言った。「ヤハウェが私にもう一人の息子を加えてくださるように。」",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の名"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "加えてくださる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "もう一人の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:42.510831198Z",
+  "model": "glm-5.2"
+}

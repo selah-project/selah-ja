@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして今、ヤハウェ、わたしのエロヒム、あなたは ⟨את⟩ あなたのしもべを、わたしの父ダビデに代えて王とされた。そしてわたしは若い者、小さく、⟨いかに⟩ 出で入るべきかを知らない。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "わたしのエロヒム"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "王とされた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたのしもべ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "あなたのしもべ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜に代えて"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "わたしの父"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "そしてわたしは"
+    },
+    {
+      "surface": "נער",
+      "gloss": "若い者"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "小さく"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "知らない"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "出で"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "入る"
+    }
+  ],
+  "timestamp": "2026-08-07T14:27:06.463419786Z",
+  "model": "glm-5.2"
+}

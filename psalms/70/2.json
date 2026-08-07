@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 70,
+  "translation": "エロヒム、私を救い出すために。ヤハウェ、私の助けのために。急げ。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "私を救い出すために"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "私の助けのために"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "急げ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:00.130735127Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "バビロンは諸王国の飾り、カルデア人の誇りの光であったが、エロヒムが⟨את⟩セドムと⟨את⟩アモラを覆されたように覆される。",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "〜であったが"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロン"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "飾り"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "諸王国の"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "光"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "誇りの"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "カルデア人の"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "覆されたように"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "セドム"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "セドム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アモラ"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "アモラ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:43.776073310Z",
+  "model": "glm-5.2"
+}

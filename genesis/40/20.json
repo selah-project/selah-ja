@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして第三日目になった — パロが⟨את⟩生まれた日である — 彼はすべてのしもべたちに宴会を催した。そして彼は献酌役の長の頭を、またパン焼きの長の頭を、そのしもべたちの中で持ち上げた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜になった"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日は"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "パロ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "そして催した"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "宴会"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての〜に"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "彼のしもべたち"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "そして持ち上げた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "献酌役の長の頭"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長の"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "献酌役"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "パン焼きの長の頭"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長の"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "パン焼き"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "〜の中で"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "彼のしもべたち"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:37.093102956Z",
+  "model": "glm-5.2"
+}

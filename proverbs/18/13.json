@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "答える者、言葉を、聞く前に — それは彼にとって愚かさであり、恥である。",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "答える者"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "言葉を"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "聞く"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "愚かさ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それ⟨である⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼にとって"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "そして恥"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:00.669518242Z",
+  "model": "glm-5.2"
+}

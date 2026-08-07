@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "彼は憩いが良いことを見、また⟨את⟩地が快いことを見、その肩を屈めて担ぎ、労役に仕える者となった。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "快い"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "屈めて"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "その肩"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "担ぐために"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "〜となった"
+    },
+    {
+      "surface": "למס",
+      "gloss": "労役（貢納）に"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "仕える者"
+    }
+  ],
+  "timestamp": "2026-08-07T09:12:44.252321815Z",
+  "model": "glm-5.2"
+}

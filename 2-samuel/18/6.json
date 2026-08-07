@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして民は野に出て、イスラエルを迎え撃つために進んだ。そして戦いはエフライムの森の中で⟨あった⟩。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして出た"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野へ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "迎え撃つために"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "そして⟨あった⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戦いは"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "森の中で"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライムの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:54:44.940298553Z",
+  "model": "glm-5.2"
+}

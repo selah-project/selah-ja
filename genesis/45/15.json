@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "彼はすべての兄弟たちに口づけし、彼らの上で泣いた。その後、兄弟たちは彼と語り合った。",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "そして彼は口づけした"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "兄弟たちに"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "そして泣いた"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らの上で"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "そして〜の後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そう"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "語り合った"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "兄弟たちは"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と"
+    }
+  ],
+  "timestamp": "2026-08-07T09:10:44.436730010Z",
+  "model": "glm-5.2"
+}

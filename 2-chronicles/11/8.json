@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして⟨את⟩ガトと⟨את⟩マレシャと⟨את⟩ジフ⟨を建てた⟩。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ガト"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ガト"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "マレシャ"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "マレシャ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "ジフ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ジフ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:11:58.434025638Z",
+  "model": "glm-5.2"
+}

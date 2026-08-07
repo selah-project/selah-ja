@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "探す時、そして失う時。守る時、そして投げ捨てる時。",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "探す"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "そして時"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "失う"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "守る"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "そして時"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "投げ捨てる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:25.494120590Z",
+  "model": "glm-5.2"
+}

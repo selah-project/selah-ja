@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "⟨彼の⟩住まいの御座から⟨彼は⟩鋭く目を注がれる、地のすべての住民に向かって。",
+  "tokens": [
+    {
+      "surface": "מִֽמְּכוֹן",
+      "gloss": "御座から"
+    },
+    {
+      "surface": "שִׁבְתּ֥וֹ",
+      "gloss": "住まいの"
+    },
+    {
+      "surface": "הִשְׁגִּ֑יחַ",
+      "gloss": "鋭く目を注がれる"
+    },
+    {
+      "surface": "אֶ֖ל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "יֹשְׁבֵ֣י",
+      "gloss": "住民"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:10.121030227Z",
+  "model": "glm-5.2"
+}

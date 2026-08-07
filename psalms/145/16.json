@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 145,
+  "translation": "あなたは⟨את⟩あなたの手を開き、すべての生ける者を望みのうちに満ち足らせる。",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "開き"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの手"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手を"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "そして満ち足らせる"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生ける者を"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "望みのうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:20.888696448Z",
+  "model": "glm-5.2"
+}

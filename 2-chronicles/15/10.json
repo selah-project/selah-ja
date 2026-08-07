@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして彼らはイェルシャライムに集まった。第三の月に、アサの王権の第十五年に。",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "そして彼らは集まった"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムに"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "月の"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三の"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "～年に"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "王権の"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "アサ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:03.754685736Z",
+  "model": "glm-5.2"
+}

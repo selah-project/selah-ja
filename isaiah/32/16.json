@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そうして、裁きは荒野に住み、義は果樹園に宿るであろう。",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "そうして〜は住む"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野に"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "裁きは"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "そして義は"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "果樹園に"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "宿る"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:17.226891562Z",
+  "model": "glm-5.2"
+}

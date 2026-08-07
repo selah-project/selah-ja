@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "どうか、わたしは人の顔を ⟨持ち上げない⟩、そして人にはめった名を与えないように。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "わたしは…持ち上げない"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして…には"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "わたしはめった名を与える"
+    }
+  ],
+  "timestamp": "2026-08-07T13:27:56.754808581Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "ダビデの ⟨賛歌⟩。ヤハウェに ⟨属する⟩、地とその満ちるもの、世界とそこに住む者たち。",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "⟨賛歌⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに⟨属する⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "とその満ちるもの"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "とそこに住む者たち"
+    },
+    {
+      "surface": "בה",
+      "gloss": "そこに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:45.608605187Z",
+  "model": "glm-5.2"
+}

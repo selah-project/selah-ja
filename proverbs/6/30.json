@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "空腹のゆえに ⟨自分の⟩ ネフェシを満たすために盗むとき、盗人を侮らない — 〈彼が〉飢えて ⟨いるから⟩。",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יָב֣וּזוּ",
+      "gloss": "侮る"
+    },
+    {
+      "surface": "לַ֭גַּנָּב",
+      "gloss": "盗人を"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "〜とき"
+    },
+    {
+      "surface": "יִגְנ֑וֹב",
+      "gloss": "盗む"
+    },
+    {
+      "surface": "לְמַלֵּ֥א",
+      "gloss": "満たすために"
+    },
+    {
+      "surface": "נַ֝פְשׁ֗וֹ",
+      "gloss": "自分のネフェシ"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "יִרְעָֽב",
+      "gloss": "飢える"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:41.857425987Z",
+  "model": "glm-5.2"
+}

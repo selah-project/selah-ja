@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 16:21",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "ヤハウェはだれにも彼らを虐げることを許さず、彼らのゆえに王たちを戒められた。",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "הִנִּ֤יחַ",
+      "gloss": "許された"
+    },
+    {
+      "surface": "לְאִישׁ֙",
+      "gloss": "だれにも"
+    },
+    {
+      "surface": "לְעָשְׁקָ֔ם",
+      "gloss": "彼らを虐げることを"
+    },
+    {
+      "surface": "וַיּ֥וֹכַח",
+      "gloss": "そして戒められた"
+    },
+    {
+      "surface": "עֲלֵיהֶ֖ם",
+      "gloss": "彼らのゆえに"
+    },
+    {
+      "surface": "מְלָכִֽים",
+      "gloss": "王たちを"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:14.205171253Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして護衛の長はヨセフに⟨את⟩彼らを付け、彼は彼らに仕えた。そして彼らは監視のもとで日々を過ごした。",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "そして…付けた"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "護衛たちの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨセフ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフに"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "彼らを"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "そして彼は仕えた"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "そして…であった"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "監視のもとで"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:13.539570278Z",
+  "model": "glm-5.2"
+}

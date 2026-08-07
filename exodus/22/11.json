@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "しかし、もしそれが彼から盗まれたなら、彼はその所有者に償わなければならない。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "しかし、もし"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "盗まれた"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "確かに盗まれた"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "彼から"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "償う"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "その所有者に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:45.781106390Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 28:32",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "あなたの息子たちとあなたの娘たちがほかの民に与えられ、あなたの目は見る、そして彼らを慕って日の終わりに尽き果てる。そしてあなたの手には力がない。",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "あなたの息子たちが"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "あなたの娘たちと"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "与えられ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "民に"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ほかの"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "あなたの目は"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "見る"
+    },
+    {
+      "surface": "וכלות",
+      "gloss": "尽き果てる"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らを慕って"
+    },
+    {
+      "surface": "כל",
+      "gloss": "〜の終わりに"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そしてない"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "力"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:52.774048732Z",
+  "model": "glm-5.2"
+}

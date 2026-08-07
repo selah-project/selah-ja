@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 18:8",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "密告者の言葉は甘い一口のようだ、それらは腹の奥底に下っていく。",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "言葉は"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "密告者の"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "甘い一口のようだ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "それらは"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "下っていく"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "奥底"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "腹の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:32.435374064Z",
+  "model": "glm-5.2"
+}

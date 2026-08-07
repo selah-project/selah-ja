@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 139,
+  "translation": "暁の翼を ⟨私は⟩ 持ち上げよう、海の果てに ⟨私は⟩ 住もうとも、",
+  "tokens": [
+    {
+      "surface": "אֶשָּ֥א",
+      "gloss": "私は持ち上げよう"
+    },
+    {
+      "surface": "כַנְפֵי",
+      "gloss": "〜の翼を"
+    },
+    {
+      "surface": "שָׁ֑חַר",
+      "gloss": "暁"
+    },
+    {
+      "surface": "אֶ֝שְׁכְּנָ֗ה",
+      "gloss": "私は住もう"
+    },
+    {
+      "surface": "בְּאַחֲרִ֥ית",
+      "gloss": "〜の果てに"
+    },
+    {
+      "surface": "יָֽם",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:39.039282924Z",
+  "model": "glm-5.2"
+}

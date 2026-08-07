@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 5:20",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "天から彼らは戦った。星々はその道からシセラと戦った。",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "戦った"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "星々"
+    },
+    {
+      "surface": "ממסלותם",
+      "gloss": "その道から"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "戦った"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "シセラ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:32:53.905857348Z",
+  "model": "glm-5.2"
+}

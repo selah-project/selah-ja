@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "その時、シェロモは言った。「ヤハウェは、濃き闇に住むと言われた。」",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "その時"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言われた"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "住む"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "濃き闇に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:44.368480056Z",
+  "model": "glm-5.2"
+}

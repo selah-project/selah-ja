@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 139,
+  "translation": "ああ、エロアハよ、あなたが邪悪な者を殺されるなら――血の男たちよ、わたしから退け。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ああ…なら"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "あなたが殺される"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "エロアハよ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "邪悪な者を"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "そして…の男たちよ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "血の"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "退け"
+    },
+    {
+      "surface": "מני",
+      "gloss": "わたしから"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:35.776802116Z",
+  "model": "glm-5.2"
+}

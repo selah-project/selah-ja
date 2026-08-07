@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "震えよ、そして罪を犯すな。⟨あなたたちの⟩心のうちで語れ、⟨あなたたちの⟩寝床の上で、そして黙せ。セラ",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "震えよ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜なかれ"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "罪を犯す"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "あなたたちの心のうちで"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "あなたたちの寝床"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "そして黙せ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:33:56.757451594Z",
+  "model": "glm-5.2"
+}

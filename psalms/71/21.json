@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 71,
+  "translation": "私の偉大さを増やし、〈振り返って〉私を慰めてください。",
+  "tokens": [
+    {
+      "surface": "תֶּ֤רֶב",
+      "gloss": "増やす"
+    },
+    {
+      "surface": "גְּֽדֻלָּתִ֗י",
+      "gloss": "私の偉大さ"
+    },
+    {
+      "surface": "וְתִסֹּ֥ב",
+      "gloss": "〈振り返って〉"
+    },
+    {
+      "surface": "תְּֽנַחֲמֵֽנִי",
+      "gloss": "私を慰める"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:44.558573612Z",
+  "model": "glm-5.2"
+}

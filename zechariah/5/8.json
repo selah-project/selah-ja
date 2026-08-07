@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして彼は言った、「これは悪さである」、そして彼女をそのエパの中に投げ入れた、そして ⟨את⟩ 鉛の石をその口に投げ入れた。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これは"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "悪さ"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "そして投げ入れた"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "彼女を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の中へ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "真ん中の"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "そのエパの"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "そして投げ入れた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "鉛の石を"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "鉛の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "その口"
+    }
+  ],
+  "timestamp": "2026-08-07T12:31:16.338004456Z",
+  "model": "glm-5.2"
+}

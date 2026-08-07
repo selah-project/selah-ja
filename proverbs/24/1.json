@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "悪しき者たちを妬んではならない。彼らと共に⟨いること⟩を願ってはならない。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "妬むな"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "者たちにおいて"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪しき"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "願うな"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "〜であること"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "彼らと共に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:41.383272561Z",
+  "model": "glm-5.2"
+}

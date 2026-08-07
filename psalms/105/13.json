@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "そして彼らは国から国へ、ある王国から別の民へと歩き回った、",
+  "tokens": [
+    {
+      "surface": "וַֽ֭יִּתְהַלְּכוּ",
+      "gloss": "そして彼らは歩き回った"
+    },
+    {
+      "surface": "מִגּ֣וֹי",
+      "gloss": "国から"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "גּ֑וֹי",
+      "gloss": "国"
+    },
+    {
+      "surface": "מִ֝מַּמְלָכָ֗ה",
+      "gloss": "王国から"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "עַ֥ם",
+      "gloss": "民"
+    },
+    {
+      "surface": "אַחֵֽר",
+      "gloss": "別の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:40.142470816Z",
+  "model": "glm-5.2"
+}

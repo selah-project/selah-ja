@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "その日にそれが食べられる。あなたがたは朝まで何も残してはならない。わたしはヤハウェである。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "…日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べられる"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "あなたがたは残してはならない"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "それから"
+    },
+    {
+      "surface": "עד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:45.787048475Z",
+  "model": "glm-5.2"
+}

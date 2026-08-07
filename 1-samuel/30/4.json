@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "ダヴィデと、彼と共にいた民は、声を上げて泣いた。彼らの中に泣く力がなくなるまで。",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "そして…は上げた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィデ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "そして民"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "声を"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "彼らの声"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "そして泣いた"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "彼らの中に"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "泣く"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:39.063573525Z",
+  "model": "glm-5.2"
+}

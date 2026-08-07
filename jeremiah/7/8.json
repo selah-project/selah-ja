@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "見よ、あなたたちは自分たちのために偽りの言葉に頼んでいる — 益とならない⟨言葉に⟩。",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֤ה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אַתֶּם֙",
+      "gloss": "あなたたちは"
+    },
+    {
+      "surface": "בֹּטְחִ֣ים",
+      "gloss": "頼んでいる"
+    },
+    {
+      "surface": "לָכֶ֔ם",
+      "gloss": "自分たちのために"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "דִּבְרֵ֖י",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "הַשָּׁ֑קֶר",
+      "gloss": "偽りの"
+    },
+    {
+      "surface": "לְבִלְתִּ֖י",
+      "gloss": "〜ない（結果）"
+    },
+    {
+      "surface": "הוֹעִֽיל",
+      "gloss": "益となる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:41:54.685795227Z",
+  "model": "glm-5.2"
+}

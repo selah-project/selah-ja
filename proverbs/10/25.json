@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "暴風の過ぎ去るように、悪者は⟨いなくなり⟩、然り、義人は永遠の礎である。",
+  "tokens": [
+    {
+      "surface": "כַּעֲב֣וֹר",
+      "gloss": "〜のように過ぎ去る"
+    },
+    {
+      "surface": "ס֭וּפָה",
+      "gloss": "暴風"
+    },
+    {
+      "surface": "וְאֵ֣ין",
+      "gloss": "そして〜はいない"
+    },
+    {
+      "surface": "רָשָׁ֑ע",
+      "gloss": "悪者"
+    },
+    {
+      "surface": "וְ֝צַדִּ֗יק",
+      "gloss": "そして義人は"
+    },
+    {
+      "surface": "יְס֣וֹד",
+      "gloss": "礎"
+    },
+    {
+      "surface": "עוֹלָֽם",
+      "gloss": "永遠の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:35.390861620Z",
+  "model": "glm-5.2"
+}

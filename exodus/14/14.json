@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "ヤハウェがあなたたちのために戦われる、そしてあなたたちは黙っているだろう。」",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "戦われる"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちのために"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "そしてあなたたちは"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "黙っているだろう"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:17.561196348Z",
+  "model": "glm-5.2"
+}

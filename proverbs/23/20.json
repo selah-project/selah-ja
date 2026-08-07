@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "ぶどう酒をがぶ飲みする者たちの中にいてはならない。肉を食いあさる者たちの中にいてはならない。",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תְּהִי",
+      "gloss": "いてはならない"
+    },
+    {
+      "surface": "בְּסֹבְאֵי",
+      "gloss": "がぶ飲みする者たちの中に"
+    },
+    {
+      "surface": "יָיִן",
+      "gloss": "ぶどう酒を"
+    },
+    {
+      "surface": "בְּזֹלֲלֵי",
+      "gloss": "食いあさる者たちの中に"
+    },
+    {
+      "surface": "בָשָׂר",
+      "gloss": "肉を"
+    },
+    {
+      "surface": "לָמוֹ",
+      "gloss": "彼らのために"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:19.032449056Z",
+  "model": "glm-5.2"
+}

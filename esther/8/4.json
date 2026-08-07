@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして王はエステルに⟨את⟩金の笏を差し伸べた。エステルは立ち上がり、王の前に立った。",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "そして〜差し伸べた"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "エステルに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "金の笏"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "笏"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "そして〜立ち上がった"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "エステルは"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "そして〜立った"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:49.354498222Z",
+  "model": "glm-5.2"
+}

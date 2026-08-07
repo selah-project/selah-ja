@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 15:3",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そしてわたしは彼らの上に四つの〈集団〉を任命する、ヤハウェの御告げ——剣を殺すために、犬を引きずるために、そして空の鳥と地の獣を食らって滅ぼすために。",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "そしてわたしは任命する"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らの上に"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四つの"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "集団"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "剣"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "殺すために"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "犬"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "犬"
+    },
+    {
+      "surface": "לסחב",
+      "gloss": "引きずるために"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "空の鳥"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "空の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "地の獣"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "獣"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "食らう"
+    },
+    {
+      "surface": "ולהשחית",
+      "gloss": "そして滅ぼす"
+    }
+  ],
+  "timestamp": "2026-08-07T14:32:27.750050060Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "計り事を謀れ、それは破られる。言葉を語れ、それは立たない。因みに、私たちと共にいるのはエルだからだ。",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "謀れ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "計り事を"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "それは破られる"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "言葉を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "それは立つ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因みに"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "私たちと共に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:05.153633646Z",
+  "model": "glm-5.2"
+}

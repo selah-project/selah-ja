@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 26:5",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "第六はアミエル、第七はイッサカル、第八はペウレタイ。エロヒムが彼を祝福したからである。",
+  "tokens": [
+    {
+      "surface": "עמיאל",
+      "gloss": "アミエル"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "第六"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "イッサカル"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "ペウレタイ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "第八"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "彼を祝福した"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:08:37.185850041Z",
+  "model": "glm-5.2"
+}

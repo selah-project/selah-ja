@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 41:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "すると見よ、やせ細った穂が七つ、東風に焼かれたものが、それらの後に生い出た。",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "すると見よ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七つ"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "穂が"
+    },
+    {
+      "surface": "דקות",
+      "gloss": "やせ細った"
+    },
+    {
+      "surface": "ושדופת",
+      "gloss": "焼かれた"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東風に"
+    },
+    {
+      "surface": "צמחות",
+      "gloss": "生い出た"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "それらの後に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:07:35.294825606Z",
+  "model": "glm-5.2"
+}

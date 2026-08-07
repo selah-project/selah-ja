@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 4:10",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "あなたが食べる食物は、量で計って——一日二十シェケル。時から時までそれを食べること。",
+  "tokens": [
+    {
+      "surface": "ומאכלך",
+      "gloss": "そしてあなたの食物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "——"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "あなたが食べる"
+    },
+    {
+      "surface": "במשקול",
+      "gloss": "量で計って"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "シェケル"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "時から"
+    },
+    {
+      "surface": "עד",
+      "gloss": "～まで"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "それを食べること"
+    }
+  ],
+  "timestamp": "2026-08-07T12:01:34.233385519Z",
+  "model": "glm-5.2"
+}

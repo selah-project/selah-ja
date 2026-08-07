@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "彼はエラトを建て、それをユダに帰させた。王が彼の父祖たちと共に横たわった後のことであった。",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エラト"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "エラト"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "そして彼はそれを帰させた"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ユダに"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "〜の後"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "横たわった"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の父祖たち"
+    }
+  ],
+  "timestamp": "2026-08-07T11:14:23.199789628Z",
+  "model": "glm-5.2"
+}

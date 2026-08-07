@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "私のエロヒム、あなたに私は信頼した。私が恥に入らぬように。私の敵たちが私⟨のこと⟩で勝ち誇らないように。",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "私のエロヒム"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "私は信頼した"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "私が恥に入る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "勝ち誇る"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "私の敵たちが"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私⟨のこと⟩で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:00.657527739Z",
+  "model": "glm-5.2"
+}

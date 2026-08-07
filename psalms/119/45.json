@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "そして私は広き所を歩まん、あなたの戒めを私は尋ね求めたから",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "そして私は歩まん"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "広き所を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "あなたの戒めを"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "私は尋ね求めた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:28.803120198Z",
+  "model": "glm-5.2"
+}

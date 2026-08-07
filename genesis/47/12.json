@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "ヨセフは ⟨את⟩ 自分の父と ⟨את⟩ 兄弟たち、そして ⟨את⟩ 自分の父の家のすべての者を、子供の数に応じてパンで養った。",
+  "tokens": [
+    {
+      "surface": "וַיְכַלְכֵּ֤ל",
+      "gloss": "養った"
+    },
+    {
+      "surface": "יוֹסֵף֙",
+      "gloss": "ヨセフは"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "自分の父"
+    },
+    {
+      "surface": "אָבִ֣יו",
+      "gloss": "自分の父"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "兄弟たち"
+    },
+    {
+      "surface": "אֶחָ֔יו",
+      "gloss": "兄弟たち"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "אָבִ֑יו",
+      "gloss": "自分の父の"
+    },
+    {
+      "surface": "לֶ֖חֶם",
+      "gloss": "パンで"
+    },
+    {
+      "surface": "לְפִ֥י",
+      "gloss": "〜に応じて"
+    },
+    {
+      "surface": "הַטָּֽף",
+      "gloss": "子供の数"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:50.325491978Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 36:35",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "フシャムが死に、⟨彼に⟩代わってベダドの子ハダドが王として治めた。⟨彼⟩はモアブの野で⟨את⟩ミディヤンを撃った者で、その町の名はアビトであった。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして…死んだ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "フシャム"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "…王として治めた"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨彼に⟩代わって"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ハダド"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ベダド"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "撃った者"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ミディヤン"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ミディヤンを"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "…の野で"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブの"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そして…の名は"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "彼の町"
+    },
+    {
+      "surface": "עוית",
+      "gloss": "アビト"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:31.753447212Z",
+  "model": "glm-5.2"
+}

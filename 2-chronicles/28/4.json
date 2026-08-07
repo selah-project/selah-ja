@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 28:4",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "彼はいけにえを捧げ、高き所で香を焚き、丘の上で、またすべての青々とした木の下で⟨そうした⟩。",
+  "tokens": [
+    {
+      "surface": "וַיְזַבֵּ֧חַ",
+      "gloss": "いけにえを捧げ"
+    },
+    {
+      "surface": "וַיְקַטֵּ֛ר",
+      "gloss": "香を焚き"
+    },
+    {
+      "surface": "בַּבָּמ֖וֹת",
+      "gloss": "高き所で"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "～の上で"
+    },
+    {
+      "surface": "הַגְּבָע֑וֹת",
+      "gloss": "丘"
+    },
+    {
+      "surface": "וְתַ֖חַת",
+      "gloss": "～の下で"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עֵ֥ץ",
+      "gloss": "木の"
+    },
+    {
+      "surface": "רַעֲנָֽן",
+      "gloss": "青々とした"
+    }
+  ],
+  "timestamp": "2026-08-07T14:17:40.829745171Z",
+  "model": "glm-5.2"
+}

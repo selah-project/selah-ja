@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "ヤハウェの目は正しい者たちの上に、そして ⟨御⟩耳は彼らの叫びの上に。",
+  "tokens": [
+    {
+      "surface": "עֵינֵ֣י",
+      "gloss": "目は"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "צַדִּיקִ֑ים",
+      "gloss": "正しい者たち"
+    },
+    {
+      "surface": "וְ֝אָזְנָ֗יו",
+      "gloss": "そして ⟨御⟩耳は"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "שַׁוְעָתָֽם",
+      "gloss": "彼らの叫び"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:58.687580577Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 118,
+  "translation": "ヤハウェの右の手は高く上げられ、ヤハウェの右の手は力あるわざをなす。",
+  "tokens": [
+    {
+      "surface": "יְמִ֣ין",
+      "gloss": "右の手は"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "רוֹמֵמָ֑ה",
+      "gloss": "高く上げられ"
+    },
+    {
+      "surface": "יְמִ֥ין",
+      "gloss": "右の手は"
+    },
+    {
+      "surface": "יְ֝הוָה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "עֹ֣שָׂה",
+      "gloss": "なす"
+    },
+    {
+      "surface": "חָֽיִל",
+      "gloss": "力あるわざを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:03.305013750Z",
+  "model": "glm-5.2"
+}

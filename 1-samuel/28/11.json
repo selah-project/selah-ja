@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そして女は言った。「⟨את⟩誰をあなたのために上がらせましょうか。」彼は言った。「⟨את⟩シュムエルを。私のために上がらせてくれ。」",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "誰"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰を"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "上がらせましょうか"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シュムエル"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエルを"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "上がらせてくれ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:17.518489357Z",
+  "model": "glm-5.2"
+}

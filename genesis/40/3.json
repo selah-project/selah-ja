@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして彼は⟨את⟩彼らを護衛の長の家の監視のもとに — 監獄の家の中に、ヨセフがそこで囚われ人であった場所 — と置いた。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして彼は…置いた"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "監視のもとに"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家の"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "護衛たちの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…の中へ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "監獄の"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "場所"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "囚われ人であった"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:13.539439621Z",
+  "model": "glm-5.2"
+}

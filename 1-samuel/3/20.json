@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして全イスラエルは、ダンからベエル・シェバまで、シュムエルがヤハウェの預言者として確立されていることを知った。",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "そして知った"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ダンから"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ベエル"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "シェバ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "確立されている"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエル"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "預言者として"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:56.549945696Z",
+  "model": "glm-5.2"
+}

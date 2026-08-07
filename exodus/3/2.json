@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ヤハウェの使いが炎の火の中から茨の中から彼に現れた。彼が見ると、見よ、その茨が火で燃えているのに、その茨は焼き尽くされない。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして現れた"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "使いが"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "炎の中に"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火の"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "〜の中から"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "茨の"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "そして彼は見た"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "その茨が"
+    },
+    {
+      "surface": "בער",
+      "gloss": "燃えている"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "その茨は"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "〜ではない"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "焼き尽くされ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:09.674422949Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "王はヒルキヤ祭司と⟨את⟩シャファンの子アヒカムと⟨את⟩ミカヤの子アクボルと⟨את⟩シャファン書記と⟨את⟩王のしもべアサヤに命じて言った。",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "そして…命じた"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヒルキヤ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ヒルキヤ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アヒカム"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "アヒカム"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "シャファン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アクボル"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "アクボル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "ミカヤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "シャファン"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "シャファン"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "書記"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アサヤ"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "アサヤ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "しもべ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    }
+  ],
+  "timestamp": "2026-08-07T11:18:05.908741830Z",
+  "model": "glm-5.2"
+}

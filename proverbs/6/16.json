@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "六つのものがある、ヤハウェはそれらを憎む、七つは⟨彼の⟩ nephesh にとって忌むべきもの⟨である⟩。",
+  "tokens": [
+    {
+      "surface": "שֶׁשׁ",
+      "gloss": "六つの"
+    },
+    {
+      "surface": "הֵ֭נָּה",
+      "gloss": "ものがある"
+    },
+    {
+      "surface": "שָׂנֵ֣א",
+      "gloss": "憎む"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וְ֝שֶׁ֗בַע",
+      "gloss": "七つ"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "忌むべきもの"
+    },
+    {
+      "surface": "נַפְשֽׁוֹ",
+      "gloss": "nephesh"
+    }
+  ],
+  "timestamp": "2026-08-07T18:41:55.552272670Z",
+  "model": "glm-5.2"
+}

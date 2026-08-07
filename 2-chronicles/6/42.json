@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ヤハウェ、エロヒム、あなたのメシアの顔を背けないでください。あなたのしもべダビデのヘセドを思い出してください。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "背けないで"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔を"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "あなたのメシアの"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "思い出してください"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "〜のヘセドを"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "あなたのしもべ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:40.344858989Z",
+  "model": "glm-5.2"
+}

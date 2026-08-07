@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "するとエサウは言った。「私にはたくさんある、私の兄弟よ。あなたのものはあなたの ⟨ものである⟩ よ。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウは"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ある"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "רב",
+      "gloss": "たくさん"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "私の兄弟よ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "〜であれ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜というものは"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:14.431441558Z",
+  "model": "glm-5.2"
+}

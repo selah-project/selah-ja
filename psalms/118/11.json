@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 118,
+  "translation": "彼らは私を囲んだ、まことに、私を囲んだ — ヤハウェの名において、まことに、私は彼らを断ち切る。",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "彼らは私を囲んだ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "私を囲んだ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "名において"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "私は彼らを断ち切る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:49.272159748Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "ヤハウェ・ツェバオトはわたしたちと共におられ、ヤコブのエロヒムはわたしたちの⟨避けの⟩高き所である。セラ",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ツェバオト"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "わたしたちと共に"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "高き所"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "わたしたちの"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤコブの"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:02.986888797Z",
+  "model": "glm-5.2"
+}

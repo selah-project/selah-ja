@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "イスラエルの王がエリシャに言った — 彼らを見たときに — 「わたしの父よ、わたしは⟨את⟩彼らを打ちましょうか、打ちましょうか」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "エリシャ"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "彼が見たとき"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "打ちましょうか"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "打ちましょうか"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "わたしの父よ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:12:11.851123863Z",
+  "model": "glm-5.2"
+}

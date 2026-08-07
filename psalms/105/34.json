@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "⟨彼は⟩語り、そしてイナゴが来た、そしてヤイムが、そして数がなかった。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "イナゴが"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "そしてヤイムが"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして…なかった"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "数が"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:39.027211229Z",
+  "model": "glm-5.2"
+}

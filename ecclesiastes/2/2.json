@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "笑いについて⟨は⟩—私は言った、それは狂気である、そして喜びについて、これは何をしているのか⟨と⟩。",
+  "tokens": [
+    {
+      "surface": "לִשְׂח֖וֹק",
+      "gloss": "笑いについて"
+    },
+    {
+      "surface": "אָמַ֣רְתִּי",
+      "gloss": "私は言った"
+    },
+    {
+      "surface": "מְהוֹלָ֑ל",
+      "gloss": "狂気である"
+    },
+    {
+      "surface": "וּלְשִׂמְחָ֖ה",
+      "gloss": "そして喜びについて"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "זֹּ֥ה",
+      "gloss": "これは"
+    },
+    {
+      "surface": "עֹשָֽׂה",
+      "gloss": "しているのか"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:25.488582574Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 87,
+  "translation": "ヤハウェが、諸民を書き記すとき、数えられる、「この者がそこに生まれた」と。セラ。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "数えられる"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "書き記すとき"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "諸民"
+    },
+    {
+      "surface": "זה",
+      "gloss": "この者"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:11.582758113Z",
+  "model": "glm-5.2"
+}

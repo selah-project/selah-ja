@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そしてアブラハムは立ち上がり、地の民に、ヘトの子らに躬を屈めた。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして立ち上がり"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハムは"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "躬を屈めた"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "…に"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…の子らに"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ヘトの"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:55.541672142Z",
+  "model": "glm-5.2"
+}

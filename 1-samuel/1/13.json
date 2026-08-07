@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 1:13",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてハンナは⟨彼女⟩の心に語っていた — ただ彼女の唇だけが動き、彼女の声は聞こえなかった。それでエリは⟨彼女⟩を酔っていると見なした。",
+  "tokens": [
+    {
+      "surface": "וחנה",
+      "gloss": "そしてハンナは"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨彼女⟩"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "語っていた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "彼女の心"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "彼女の唇"
+    },
+    {
+      "surface": "נעות",
+      "gloss": "動いていた"
+    },
+    {
+      "surface": "וקולה",
+      "gloss": "そして彼女の声"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "聞こえた"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "そして彼は見なした"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "エリは"
+    },
+    {
+      "surface": "לשכרה",
+      "gloss": "酔っていると"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:04.820158825Z",
+  "model": "glm-5.2"
+}

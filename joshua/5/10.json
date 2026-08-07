@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そしてイスラエルの子らはギルガルに宿営し、月の十四日、夕暮れに、エリコの平野で ⟨את⟩過ぎ越しを行った。",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "そして……宿営した"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ギルガルに"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "そして……行った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "過ぎ越し"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "過ぎ越し"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "月の"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "夕暮れに"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "……の平野で"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "エリコ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:24:12.583844743Z",
+  "model": "glm-5.2"
+}

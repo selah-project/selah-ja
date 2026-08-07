@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてヤハウェはモシェに言われた——あなたの⟨את⟩ 手を海の上に伸ばせ。そして水はミツライムの上、その戦車の上、その騎兵の上に返れ。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "伸ばせ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの手"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "そして…返れ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "その戦車"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして…の上に"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "その騎兵"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:04.196830107Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "エフライム — その栄光は鳥のように飛び去る。出産もなく、胎もなく、妊娠もなく。",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "エフライム"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "鳥のように"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "飛び去る"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "彼らの栄光"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "出産もなく"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "胎もなく"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "妊娠もなく"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:40.571803969Z",
+  "model": "glm-5.2"
+}

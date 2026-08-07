@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 79,
+  "translation": "彼らはヤコブを食い尽くし、その住処を荒廃させたからである。",
+  "tokens": [
+    {
+      "surface": "כִּ֭י",
+      "gloss": "〜だからである"
+    },
+    {
+      "surface": "אָכַ֣ל",
+      "gloss": "食い尽くした"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤコブ"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "ヤコブ"
+    },
+    {
+      "surface": "וְֽאֶת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その住処"
+    },
+    {
+      "surface": "נָוֵ֥הוּ",
+      "gloss": "その住処"
+    },
+    {
+      "surface": "הֵשַֽׁמּוּ",
+      "gloss": "荒廃させた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:41.703453651Z",
+  "model": "glm-5.2"
+}

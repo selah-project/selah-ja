@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして長き日々、イスラエルには——真実のエロヒムがなく、教える祭司がなく、トーラーがなかった。",
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "そして日々"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "長き"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "イスラエルには"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "〜がなく"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真実の"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "および〜がなく"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "教える"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "および〜がなく"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "トーラー"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:20.995662953Z",
+  "model": "glm-5.2"
+}

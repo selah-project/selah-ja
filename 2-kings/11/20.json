@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして地の全〈民〉は喜び、市は静まった。そして⟨את⟩アタルヤを彼らは剣で死なせた——王の家で。",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "そして…喜んだ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地の"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "そしてその市"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "静まった"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アタルヤ"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "アタルヤ"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "彼らは…死なせた"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "剣で"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:15:32.785571532Z",
+  "model": "glm-5.2"
+}

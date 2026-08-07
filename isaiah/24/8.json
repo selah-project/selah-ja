@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "手鼓の喜びは止み、陽気な者たちの騒ぎはやんだ。琴の喜びは止んだ。",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "止んだ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "喜びは"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "手鼓の"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "やんだ"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "騒ぎは"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "陽気な者たちの"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "止んだ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "喜びは"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "琴の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:11.947444693Z",
+  "model": "glm-5.2"
+}

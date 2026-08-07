@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 10:19",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "ヤハウェは非常に強い海の風に⟨向きを⟩変え、⟨את⟩そのイナゴを持ち上げ、それをスフの海へ押しやられた。ミツライムの全域の境界に一匹のイナゴも残らなかった。",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "そして変えられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風を"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海の"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "強い"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "そして持ち上げた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "そのイナゴ"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "そのイナゴ"
+    },
+    {
+      "surface": "ויתקעהו",
+      "gloss": "そしてそれを押しやった"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "海へ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "スフの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "残った"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "イナゴが"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一匹"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "〜の全域に"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:42.219325649Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 16:15",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "王の顔の光の中に命がある、そしてその好意は春の雨の雲のようだ。",
+  "tokens": [
+    {
+      "surface": "בְּאוֹר",
+      "gloss": "光の中に"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "顔の"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "王の"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "命がある"
+    },
+    {
+      "surface": "וּ֝רְצוֹנ֗וֹ",
+      "gloss": "そしてその好意は"
+    },
+    {
+      "surface": "כְּעָ֣ב",
+      "gloss": "〜の雲のようだ"
+    },
+    {
+      "surface": "מַלְקֽוֹשׁ",
+      "gloss": "春の雨の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:30.137732141Z",
+  "model": "glm-5.2"
+}

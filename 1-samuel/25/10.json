@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "ナバルはダビデの⟨את⟩若者たちに答えて言った。「ダビデとは誰だ。エシャイの子とは誰だ。今日、主人の顔から逃げ出す者たちが多い。」",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "答えて"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ナバルは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダビデの若者たち"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "若者たち"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰だ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデとは"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "〜とは誰だ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "エシャイの"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "多い"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "しもべ"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "逃げ出す者たち"
+    },
+    {
+      "surface": "איש",
+      "gloss": "者"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜の顔から"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "主人の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:28.630017277Z",
+  "model": "glm-5.2"
+}

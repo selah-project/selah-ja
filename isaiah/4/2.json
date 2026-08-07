@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "その日、ヤハウェの若枝は⟨美しさ⟩と栄光のためにあり、地の果実はイスラエルの生き残り⟨たち⟩の誇りと光栄のためにある。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "その日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "若枝は"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "⟨美しさ⟩の"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "栄光の"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "果実は"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "誇りの"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "光栄の"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "生き残り⟨たち⟩の"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:29.636779403Z",
+  "model": "glm-5.2"
+}

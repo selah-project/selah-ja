@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "⟨彼らは⟩彼を仰ぎ見て輝いた。彼らの顔は決して恥じることがない。",
+  "tokens": [
+    {
+      "surface": "הִבִּ֣יטוּ",
+      "gloss": "…仰ぎ見た"
+    },
+    {
+      "surface": "אֵלָ֣יו",
+      "gloss": "彼に向かって"
+    },
+    {
+      "surface": "וְנָהָ֑רוּ",
+      "gloss": "そして輝いた"
+    },
+    {
+      "surface": "וּ֝פְנֵיהֶ֗ם",
+      "gloss": "そして彼らの顔は"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "יֶחְפָּֽרוּ",
+      "gloss": "恥じる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:58.533346640Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてシャウルに告げられた — ダビデがガトへ逃げた、と。それで彼はもう二度と彼を捜し求めなかった。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "そして…告げられた"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "シャウルに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "逃げた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデが"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ガトへ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…なかった"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "もはや…しなかった"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "二度と"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "彼を捜し求める"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:03.720930645Z",
+  "model": "glm-5.2"
+}

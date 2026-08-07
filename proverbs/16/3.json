@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "あなたの業をヤハウェに転がせ、そうすればあなたの思惑は確立される。",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "転がせ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "あなたの業を"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "そうすれば…確立される"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "あなたの思惑は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:04.561061452Z",
+  "model": "glm-5.2"
+}

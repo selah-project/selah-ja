@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてあなたは⟨את⟩あなたの民イスラエルをとこしえにあなたのために民として与えられた。そしてあなた、ヤハウェは彼らのためにエロヒムとなられた。",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "そしてあなたは与えられた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの民イスラエルを"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたの民"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "民として"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "そしてあなた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "となられた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らのために"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "エロヒムとして"
+    }
+  ],
+  "timestamp": "2026-08-07T14:06:26.228074376Z",
+  "model": "glm-5.2"
+}

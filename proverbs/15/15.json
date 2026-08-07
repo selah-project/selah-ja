@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "苦しむ者のすべての日は悪である、しかし良き心は絶えず宴をする。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "יְמֵ֣י",
+      "gloss": "〜の日は"
+    },
+    {
+      "surface": "עָנִ֣י",
+      "gloss": "苦しむ者の"
+    },
+    {
+      "surface": "רָעִ֑ים",
+      "gloss": "悪である"
+    },
+    {
+      "surface": "וְטֽוֹב",
+      "gloss": "しかし良き"
+    },
+    {
+      "surface": "לֵ֝֗ב",
+      "gloss": "心は"
+    },
+    {
+      "surface": "מִשְׁתֶּ֥ה",
+      "gloss": "宴をする"
+    },
+    {
+      "surface": "תָמִֽיד",
+      "gloss": "絶えず"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:46.819230146Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 41:42",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "パルオは自分の手から⟨את⟩自分の印章指輪を外し、それをヨセフの手にはめ、⟨את⟩彼に麻の衣を着せ、⟨את⟩彼の首に金の首飾りを置いた。",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "そして外した"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パルオ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の印章指輪を"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "自分の印章指輪"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "自分の手"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして置いた"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それを"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "そして着せた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼に"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "衣"
+    },
+    {
+      "surface": "שש",
+      "gloss": "麻の"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "そして置いた"
+    },
+    {
+      "surface": "רבד",
+      "gloss": "首飾り"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "彼の首"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:25.814732368Z",
+  "model": "glm-5.2"
+}

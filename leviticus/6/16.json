@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして祭司のすべてのミンハーは全焼で⟨ある⟩ — 食べられてはならない。」",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "מִנְחַ֥ת",
+      "gloss": "ミンハー（穀物の捧げ物）"
+    },
+    {
+      "surface": "כֹּהֵ֛ן",
+      "gloss": "祭司の"
+    },
+    {
+      "surface": "כָּלִ֥יל",
+      "gloss": "全焼で"
+    },
+    {
+      "surface": "תִּהְיֶ֖ה",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תֵאָכֵֽל",
+      "gloss": "食べられては"
+    }
+  ],
+  "timestamp": "2026-08-07T09:33:19.108553976Z",
+  "model": "glm-5.2"
+}

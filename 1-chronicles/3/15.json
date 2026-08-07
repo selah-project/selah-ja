@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 3:15",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ヨシヤフの子らは、長子ヨハナン、第二ヤハヤキム、第三ツィドキヤフ、第四シャルム。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "そして〜の子ら"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ヨシヤフ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "長子"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "ヨハナン"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "ヤハヤキム"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ツィドキヤフ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "第四"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "シャルム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:00:36.277865114Z",
+  "model": "glm-5.2"
+}

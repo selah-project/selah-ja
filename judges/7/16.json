@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 7:16",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして彼は三百人を三組に分け、すべての者の手に角笛と、空の水がめと、その水がめの中に松明を与えた。",
+  "tokens": [
+    {
+      "surface": "ויחץ",
+      "gloss": "分け"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "三百人"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "人を"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "組に"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "שופרות",
+      "gloss": "角笛"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手に"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "すべての者の"
+    },
+    {
+      "surface": "וכדים",
+      "gloss": "水がめ"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "空の"
+    },
+    {
+      "surface": "ולפדים",
+      "gloss": "松明"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "の中に"
+    },
+    {
+      "surface": "הכדים",
+      "gloss": "その水がめ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:34:18.573790066Z",
+  "model": "glm-5.2"
+}

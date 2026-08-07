@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そして彼は⟨ヤハウェに⟩言った。「もしあなたの顔が進み行かないのなら、私たちをここから上らせないでください。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אין",
+      "gloss": "〜ないなら"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの顔が"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "進み行く"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "私たちを上らせないで"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ここから"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:26.136043933Z",
+  "model": "glm-5.2"
+}

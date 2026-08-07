@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "高い山々はヤエルのため、岩々はシャファンの隠れ場である。",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "山々"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "高い"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "ヤエル（野生の山羊）のため"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "岩々"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "隠れ場"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "シャファン（岩狸）のため"
+    }
+  ],
+  "timestamp": "2026-08-07T12:59:05.279834495Z",
+  "model": "glm-5.2"
+}

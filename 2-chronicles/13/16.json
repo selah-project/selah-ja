@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 13:16",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてイスラエルの子らはユダの前から逃げた。エロヒムは彼らを彼らの手に渡された。",
+  "tokens": [
+    {
+      "surface": "וינוסו",
+      "gloss": "そして逃げた"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子らは"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜の前から"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "そして渡された"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "彼らの手に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:28.461940937Z",
+  "model": "glm-5.2"
+}

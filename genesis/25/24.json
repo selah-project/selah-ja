@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 25:24",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "彼女の、産むための日々が満ちた。見よ、双子が彼女の胎内に⟨いた⟩。",
+  "tokens": [
+    {
+      "surface": "וַיִּמְלְא֥וּ",
+      "gloss": "満ちた"
+    },
+    {
+      "surface": "יָמֶ֖יהָ",
+      "gloss": "彼女の日々が"
+    },
+    {
+      "surface": "לָלֶ֑דֶת",
+      "gloss": "産むための"
+    },
+    {
+      "surface": "וְהִנֵּ֥ה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "תוֹמִ֖ם",
+      "gloss": "双子が"
+    },
+    {
+      "surface": "בְּבִטְנָֽהּ",
+      "gloss": "彼女の胎内に"
+    }
+  ],
+  "timestamp": "2026-08-07T08:58:18.977048891Z",
+  "model": "glm-5.2"
+}

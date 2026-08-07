@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 95,
+  "translation": "四十年の間、私はその世代を嫌悪し、こう言った、「心の迷える民、彼らは。そして彼らは私の道を知らない。」",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "私は嫌悪した"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "その世代を"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "迷える"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心の"
+    },
+    {
+      "surface": "הם",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "והם",
+      "gloss": "そして彼らは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知った"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "私の道を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:30.401356066Z",
+  "model": "glm-5.2"
+}

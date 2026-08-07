@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "というのも、イスラエルの子らは多くの日々の間、座することになるからだ。王がなく、君主がなく、犠牲がなく、石柱がなく、エポドがなく、テラフィムもない。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "彼らは座することになる"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子らは"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אין",
+      "gloss": "〜がない"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして〜がない"
+    },
+    {
+      "surface": "שר",
+      "gloss": "君主"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして〜がない"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "犠牲"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして〜がない"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "石柱"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして〜がない"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "エポド"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "そしてテラフィム"
+    }
+  ],
+  "timestamp": "2026-08-07T12:18:38.612969423Z",
+  "model": "glm-5.2"
+}

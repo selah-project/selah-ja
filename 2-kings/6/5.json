@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてこうなった — 一人が梁を倒していると、⟨את⟩鉄が水の中に落ちた。そして彼は叫び、言った、「ああ、私の主よ！それは借りたものだった」。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうなった"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一人が"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "倒していると"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "梁を"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "鉄"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "鉄が"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "落ちた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "の中に"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "そして彼は叫び"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "私の主よ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "借りたものだった"
+    }
+  ],
+  "timestamp": "2026-08-07T11:11:36.272236351Z",
+  "model": "glm-5.2"
+}

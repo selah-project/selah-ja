@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "あなたがたの目は、ヤハウェのすべての大いなるわざ ⟨את⟩ を見てきた、⟨すなわち⟩ ⟨彼が⟩ 行ったすべてのことを。",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "因为"
+    },
+    {
+      "surface": "עֵֽינֵיכֶם֙",
+      "gloss": "あなたがたの目"
+    },
+    {
+      "surface": "הָֽרֹאֹ֔ת",
+      "gloss": "見てきた"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מַעֲשֵׂ֥ה",
+      "gloss": "わざ"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הַגָּדֹ֑ל",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "⟨すなわち⟩"
+    },
+    {
+      "surface": "עָשָֽׂה",
+      "gloss": "行った"
+    }
+  ],
+  "timestamp": "2026-08-07T14:24:50.926130604Z",
+  "model": "glm-5.2"
+}

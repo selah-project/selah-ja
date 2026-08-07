@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そして彼らは自分たちの咎と、彼らの先祖の咎を、⟨自分たちが⟩わたしに対して犯した不信の罪とともに告白する。また、わたしに反抗して歩んだこと ⟨をも⟩告白する。",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "そして彼らは告白する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分たちの咎"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "自分たちの咎"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "先祖の咎"
+    },
+    {
+      "surface": "עון",
+      "gloss": "咎"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "彼らの先祖の"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "彼らの不信の罪において"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "彼らが不信を犯した"
+    },
+    {
+      "surface": "בי",
+      "gloss": "わたしに対して"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "また"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であること"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "彼らが歩んだ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしとともに"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "反抗して"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:03.888802359Z",
+  "model": "glm-5.2"
+}

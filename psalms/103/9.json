@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 103,
+  "translation": "永遠に争うことなく、とこしえに怒りを抱くことなく、",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "לָנֶ֥צַח",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "יָרִ֑יב",
+      "gloss": "争う"
+    },
+    {
+      "surface": "וְלֹ֖א",
+      "gloss": "そして～ない"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "יִטּֽוֹר",
+      "gloss": "怒りを抱く"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:50.477199539Z",
+  "model": "glm-5.2"
+}

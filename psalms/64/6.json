@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 64,
+  "translation": "彼らは自らのために悪い企てを固く抱き、隠された罠を数え立てて言う、「誰がそれを見るか」と。",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "固くする"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼らのために"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事／企て"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "数え立てる"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "隠された"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "罠"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "言う"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "見る"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼ら⟨を⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:49.286449975Z",
+  "model": "glm-5.2"
+}

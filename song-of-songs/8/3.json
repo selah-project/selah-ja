@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "彼の左手は私の頭の下に、彼の右手は私を抱きしめる。",
+  "tokens": [
+    {
+      "surface": "שְׂמֹאלוֹ",
+      "gloss": "彼の左手は"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "רֹאשִׁי",
+      "gloss": "私の頭の"
+    },
+    {
+      "surface": "וִֽימִינוֹ",
+      "gloss": "彼の右手は"
+    },
+    {
+      "surface": "תְּחַבְּקֵֽנִי",
+      "gloss": "私を抱きしめる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:34:26.586201695Z",
+  "model": "glm-5.2"
+}

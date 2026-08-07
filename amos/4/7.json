@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 4:7",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてまた、わたしはあなたがたから⟨את⟩雨を止ませた。刈り入れまでなお三か月⟨ある⟩時に、ある一つの町には雨を降らせ、ある一つの町には雨を降らせなかった。一つの区画は雨を降らされ、雨が降らなかった区画は枯れた。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "止ませた"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "あなたがたから"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雨"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "雨"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "なお〜ある時に"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "か月"
+    },
+    {
+      "surface": "לקציר",
+      "gloss": "刈り入れまで"
+    },
+    {
+      "surface": "והמטרתי",
+      "gloss": "そしてわたしは降らせた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "わたしは降らせた"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "区画"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "תמטר",
+      "gloss": "雨を降らされた"
+    },
+    {
+      "surface": "וחלקה",
+      "gloss": "そして区画"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תמטיר",
+      "gloss": "雨を降らせた"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "枯れた"
+    }
+  ],
+  "timestamp": "2026-08-07T14:37:12.124506080Z",
+  "model": "glm-5.2"
+}

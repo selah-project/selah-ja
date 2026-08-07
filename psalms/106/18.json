@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 106:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "火が彼らの会衆の中で燃え上がり、炎が悪者たちを焼き尽くした。",
+  "tokens": [
+    {
+      "surface": "ותבער",
+      "gloss": "そして燃え上がり"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火が"
+    },
+    {
+      "surface": "בעדתם",
+      "gloss": "彼らの会衆の中で"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "炎が"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "焼き尽くした"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たちを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:11.198497508Z",
+  "model": "glm-5.2"
+}

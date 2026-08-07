@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 53:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 53,
+  "translation": "彼は⟨彼⟩の前に若木のように上り、乾いた地から根のように出た。彼には姿も⟨なかった⟩、威光も⟨なかった⟩。彼を見ても、何の見ばえも⟨なかった⟩。彼を慕っても。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "そして上った"
+    },
+    {
+      "surface": "כיונק",
+      "gloss": "若木のように"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "彼の前に"
+    },
+    {
+      "surface": "וכשרש",
+      "gloss": "そして根のように"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "地から"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "乾いた"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "姿"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "威光"
+    },
+    {
+      "surface": "ונראהו",
+      "gloss": "そして彼を見ても"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "見ばえ"
+    },
+    {
+      "surface": "ונחמדהו",
+      "gloss": "そして彼を慕うべき"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:38.420329666Z",
+  "model": "glm-5.2"
+}

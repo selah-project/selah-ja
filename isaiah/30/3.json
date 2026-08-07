@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そうしてパロの砦はあなたがたにとって恥となり、ミツライム（エジプト）の陰への避けは辱めとなる。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そうして〜となる"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたにとって"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "砦"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "恥として"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "避け"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "陰に"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "辱めとして"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:36.937938794Z",
+  "model": "glm-5.2"
+}

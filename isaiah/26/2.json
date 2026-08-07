@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "門を開け。義なる国民が入って来る、真実を守る者が。",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "開け"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "門を"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして入って来る"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "国民が"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義なる"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "守る者"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "真実を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:31.545205151Z",
+  "model": "glm-5.2"
+}

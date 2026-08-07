@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 15:24",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "彼はヤハウェの目に悪と ⟨なること⟩ を行った。ヤロブアム・ベン・ネバトの罪から離れなかった。すなわち ⟨彼が⟩ ⟨את⟩ イスラエルに罪を犯させた。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "〜の目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "סר",
+      "gloss": "離れた"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "罪から"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ヤロブアム"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の息子"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ネバト"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "すなわち〜ところの"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "罪を犯させた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T11:14:18.904345490Z",
+  "model": "glm-5.2"
+}

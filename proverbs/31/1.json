@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "レムエル王の言葉、⟨すなわち⟩彼の母が彼を訓戒した託宣。",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "レムエル"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "משא",
+      "gloss": "託宣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨すなわち⟩"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "彼女は彼を訓戒した"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "彼の母"
+    }
+  ],
+  "timestamp": "2026-08-07T17:25:55.164603827Z",
+  "model": "glm-5.2"
+}

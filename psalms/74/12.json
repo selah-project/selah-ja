@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 74,
+  "translation": "そしてエロヒムはわたしの王、とこしえから、⟨彼は⟩地のただ中で救いをなさる ⟨お方である⟩。",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "そしてエロヒムは"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "わたしの王"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "とこしえから"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "なさる"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "救いを"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "〜のただ中で"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:43.363725859Z",
+  "model": "glm-5.2"
+}

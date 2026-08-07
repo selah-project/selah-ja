@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてヤハウェはモシェに言われた、パロの〈ところに〉行き、彼に語って言え、ヤハウェ、ヘブライ人のエロヒムはこう言われる、わたしの民を ⟨את⟩ 去らせよ、彼らがわたしに仕えるために。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "行け"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "そして…語れ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "…言う"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…のエロヒム"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ヘブライ人"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "去らせよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの民"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "そして…わたしに仕える"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:24.243412301Z",
+  "model": "glm-5.2"
+}

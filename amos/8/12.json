@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼らは海から海まで、北から東まで彷徨い、ヤハウェの言葉 ⟨את⟩ を求めて駆け巡る、しかし見つけることはない。",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "そして彼らは彷徨う"
+    },
+    {
+      "surface": "מים",
+      "gloss": "海から"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "そして北から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "そして…まで"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "東"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "彼らは駆け巡る"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "求めて"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの言葉"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし…ない"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "見つけることは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:22:55.081313435Z",
+  "model": "glm-5.2"
+}

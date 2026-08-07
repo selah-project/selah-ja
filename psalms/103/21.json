@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 103,
+  "translation": "ヤハウェをほめたたえよ、⟨彼の⟩すべての天の軍勢、⟨彼の⟩み仕え手、⟨彼の⟩みこころを行う者たちよ。",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "ほめたたえよ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェを"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "⟨彼の⟩天の軍勢"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "⟨彼の⟩み仕え手"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "行う者たち"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "⟨彼の⟩みこころを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:34.300354325Z",
+  "model": "glm-5.2"
+}

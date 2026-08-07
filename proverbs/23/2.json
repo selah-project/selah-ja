@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "あなたが食欲の主人であるなら、あなたの喉にナイフを置け。",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "そして置け"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "ナイフを"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "あなたの喉に"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし〜なら"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "主人"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "食欲の"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:14.364523210Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "そしてヤアコブは立ち上がり、⟨自分の⟩息子たちと⟨自分の⟩妻たちをらくだに乗せた。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして立ち上がった"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "そして乗せた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の息子たち"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "自分の息子たち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "自分の妻たち"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "自分の妻たち"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "らくだ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:02:40.349918041Z",
+  "model": "glm-5.2"
+}

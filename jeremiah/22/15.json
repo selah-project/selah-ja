@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 22:15",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "あなたは杉に張り合って王となるのか。あなたの父は食べ、飲み、公義と正義を行わなかったか。その時、彼にとって良かったのではないか。",
+  "tokens": [
+    {
+      "surface": "התמלך",
+      "gloss": "あなたは王となるのか"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だからといって"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "מתחרה",
+      "gloss": "張り合う"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "杉に"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父は"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食べ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "そして飲み"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "そして行なった"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公義と"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "正義を"
+    },
+    {
+      "surface": "אז",
+      "gloss": "その時"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良かった"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼にとって"
+    }
+  ],
+  "timestamp": "2026-08-07T11:48:03.368850661Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 36:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そしてディション、そしてエツェル、そしてディシャン。これらはホリ人⟨の⟩首長たち、セイル⟨の⟩子ら、エドム⟨の⟩地⟨に⟩。",
+  "tokens": [
+    {
+      "surface": "ודשון",
+      "gloss": "そしてディション"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "そしてエツェル"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "そしてディシャン"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "首長たち"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "ホリ人"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "セイル"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:48.405699150Z",
+  "model": "glm-5.2"
+}

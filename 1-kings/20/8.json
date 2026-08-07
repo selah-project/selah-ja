@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "するとすべての長老とすべての民は彼に言った。「聞いてはならない。同意してもならない。」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "長老と"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "聞いては…ならない"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "同意しても…ならない"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:43.901480221Z",
+  "model": "glm-5.2"
+}

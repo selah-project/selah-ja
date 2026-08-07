@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "地 — そこであなたは貧しさのうちにパンを食べることなく、そこで何一つ欠くことのない地。その石は鉄、その山々からあなたは青銅を切り出す地。",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "貧しさのうちに"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "あなたは食べる"
+    },
+    {
+      "surface": "בה",
+      "gloss": "それで"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "あなたは欠く"
+    },
+    {
+      "surface": "כל",
+      "gloss": "何一つ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "それで"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "その"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "石は"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鉄"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "その山々から"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "あなたは切り出す"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅"
+    }
+  ],
+  "timestamp": "2026-08-07T10:09:50.746283359Z",
+  "model": "glm-5.2"
+}

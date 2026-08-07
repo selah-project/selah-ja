@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 5:10",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "白ろばに乗る者たち、ふかふかの敷物の上に座る者たち、道を歩く者たち、語り合え。",
+  "tokens": [
+    {
+      "surface": "רכבי",
+      "gloss": "乗る者たち"
+    },
+    {
+      "surface": "אתנות",
+      "gloss": "ろばに"
+    },
+    {
+      "surface": "צחרות",
+      "gloss": "白"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "座る者たち"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ふかふかの敷物"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "そして歩く者たち"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "語り合え"
+    }
+  ],
+  "timestamp": "2026-08-07T10:32:32.655954350Z",
+  "model": "glm-5.2"
+}

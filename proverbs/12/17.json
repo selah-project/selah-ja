@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "真実を吹き出す者は正義を告げる、偽りの証人は欺き。",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "吹き出す者は"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "真実を"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "告げる"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "正義を"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "そして証人は"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "偽りの"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "欺き"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:42.940052930Z",
+  "model": "glm-5.2"
+}

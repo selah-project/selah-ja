@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "四角形である、二重にされる、その長さは一尺、そしてその幅は一尺。",
+  "tokens": [
+    {
+      "surface": "רָב֥וּעַ",
+      "gloss": "四角形"
+    },
+    {
+      "surface": "יִֽהְיֶ֖ה",
+      "gloss": "である"
+    },
+    {
+      "surface": "כָּפ֑וּל",
+      "gloss": "二重にされる"
+    },
+    {
+      "surface": "זֶ֥רֶת",
+      "gloss": "一尺"
+    },
+    {
+      "surface": "אָרְכּ֖וֹ",
+      "gloss": "その長さ"
+    },
+    {
+      "surface": "וְזֶ֥רֶת",
+      "gloss": "そして一尺"
+    },
+    {
+      "surface": "רָחְבּֽוֹ",
+      "gloss": "その幅"
+    }
+  ],
+  "timestamp": "2026-08-07T16:28:14.486212047Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "すると⟨その者⟩はわたしに言った、「夕べと朝、二千三百。すると聖所は正しくされる」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "すると……は言った"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "עד",
+      "gloss": "——"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "夕べ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "二千"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "と三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "すると……は正しくされる"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖所"
+    }
+  ],
+  "timestamp": "2026-08-07T13:46:24.414274454Z",
+  "model": "glm-5.2"
+}

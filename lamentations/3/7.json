@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "わたしの周りに ⟨垣根⟩を設け、わたしは出て行けない。わたしの青銅の足かせを重くされた。",
+  "tokens": [
+    {
+      "surface": "גָּדַ֧ר",
+      "gloss": "⟨垣根⟩を設け"
+    },
+    {
+      "surface": "בַּעֲדִ֛י",
+      "gloss": "わたしの周りに"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אֵצֵ֖א",
+      "gloss": "わたしは出て行く"
+    },
+    {
+      "surface": "הִכְבִּ֥יד",
+      "gloss": "重くされた"
+    },
+    {
+      "surface": "נְחָשְׁתִּֽי",
+      "gloss": "わたしの青銅の（足かせ）"
+    }
+  ],
+  "timestamp": "2026-08-07T13:36:09.260122511Z",
+  "model": "glm-5.2"
+}

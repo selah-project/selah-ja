@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "幸いなこと、その人、ヤハウェが⟨彼⟩に咎を数え立てない者、そして⟨彼⟩の霊に欺きが⟨ない⟩者。",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "幸いなこと"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "その人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "数え立てない"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨彼⟩に"
+    },
+    {
+      "surface": "עון",
+      "gloss": "咎"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして⟨ない⟩"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "⟨彼⟩の霊に"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "欺き"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:29.230045966Z",
+  "model": "glm-5.2"
+}

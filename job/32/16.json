@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そして私は待った — というのは、彼らは語らなかったからだ。彼らは立ち止まった、もはや答えなかったからだ。",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "そして私は待った"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "彼らは語った"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "彼らは立ち止まった"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "彼らは答えた"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    }
+  ],
+  "timestamp": "2026-08-07T17:28:19.214284484Z",
+  "model": "glm-5.2"
+}

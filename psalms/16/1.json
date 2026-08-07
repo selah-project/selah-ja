@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "ダビデのミフタム。私を守ってください、エル。あなたに身を避けるからです。",
+  "tokens": [
+    {
+      "surface": "מִכְתָּם",
+      "gloss": "ミフタム"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "שָׁמְרֵנִי",
+      "gloss": "私を守ってください"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "חָסִיתִי",
+      "gloss": "身を避けた"
+    },
+    {
+      "surface": "בָּךְ",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:16.180602185Z",
+  "model": "glm-5.2"
+}

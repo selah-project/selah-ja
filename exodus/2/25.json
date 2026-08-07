@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてエロヒムは⟨את⟩イスラエルの子らを見、エロヒムは知られた。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして…見た"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子ら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "そして…知られた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:11:16.559602578Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "地は哀れみ、衰え、レバノンは恥じて枯れ、シャロンは荒野のようになり、バシャンとカルメルは⟨実を⟩揺り落とす。",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "哀れみ"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "衰え"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "恥じて"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "レバノン"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "枯れ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "〜となった"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "シャロン"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "荒野のよう"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "揺り落とす"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "バシャン"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "カルメル"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:40.793142139Z",
+  "model": "glm-5.2"
+}

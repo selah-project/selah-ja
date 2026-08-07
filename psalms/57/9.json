@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 57,
+  "translation": "目覚めよ、わが栄光、目覚めよ、ネベルとキノル、わたしは暁を⟨一人で⟩目覚めさせよう",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "目覚めよ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "わが栄光"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "目覚めよ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ネベル"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "とキノル"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "わたしは目覚めさせよう"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "暁を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:04.904132976Z",
+  "model": "glm-5.2"
+}

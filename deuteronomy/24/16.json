@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "父たちは子どものゆえに殺されてはならない、そして子どもたちは父たちのゆえに殺されてはならない。おのおの自分の罪によって殺されるであろう。",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יוּמְתוּ",
+      "gloss": "殺される"
+    },
+    {
+      "surface": "אָבוֹת",
+      "gloss": "父たち"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "בָּנִים",
+      "gloss": "子どもたち"
+    },
+    {
+      "surface": "וּבָנִים",
+      "gloss": "そして子どもたち"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יוּמְתוּ",
+      "gloss": "殺される"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "אָבוֹת",
+      "gloss": "父たち"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "בְּחֶטְאוֹ",
+      "gloss": "自分の罪によって"
+    },
+    {
+      "surface": "יוּמָתוּ",
+      "gloss": "殺されるであろう"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:19.286077624Z",
+  "model": "glm-5.2"
+}

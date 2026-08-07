@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてエロヒムの人は王に言った、「もしあなたが私に⟨את⟩あなたの家の半分を与えても、私はあなたと共には行かず、またパンを食べず、水も飲まない、この場所で。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "あなたが与える"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの家の半分"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "半分"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "あなたの家の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "私は行く"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "私は食べる"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "私は飲む"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "〜で、場所"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T18:30:43.175539960Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "あなたの口のトーラーは私にとって良い — 千々の金と銀にまさって。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私にとって"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "トーラーは"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "あなたの口の"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "千々の…にまさって"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金と"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "銀"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:02.925416988Z",
+  "model": "glm-5.2"
+}

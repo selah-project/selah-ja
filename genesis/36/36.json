@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 36:36",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "ハダドが死に、⟨彼に⟩代わってマスレカのサムラが王として治めた。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして…死んだ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ハダド"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "…王として治めた"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨彼に⟩代わって"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "サムラ"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "マスレカの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:31.753579042Z",
+  "model": "glm-5.2"
+}

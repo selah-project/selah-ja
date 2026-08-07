@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 140,
+  "translation": "燃えさしを彼らの上に揺り落とせ、火の ⟨中に⟩ 彼らを投げ落とせ、深淵の ⟨中に⟩ — 彼らは決して立たない。",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "揺り落とせ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らの上に"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "燃えさしを"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火の"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "彼らを投げ落とせ"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "深淵の"
+    },
+    {
+      "surface": "בל",
+      "gloss": "決して〜ない"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "彼らは立つ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:25.383114573Z",
+  "model": "glm-5.2"
+}

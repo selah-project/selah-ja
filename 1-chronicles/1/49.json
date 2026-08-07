@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "シャウルが死に、彼に代わってバアル・ハナン、アクボルの子が王となった。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "～が死に"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代わって"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "バアル・"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ハナン"
+    },
+    {
+      "surface": "בן",
+      "gloss": "～の子"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "アクボル"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:16.914685338Z",
+  "model": "glm-5.2"
+}

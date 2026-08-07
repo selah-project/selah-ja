@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 22:30",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "わたしは彼らの中に、垣を築く者を、破れ口に立つ者を探した——わたしの前に、地のために、それが滅ぼされないために。しかし見つけなかった。",
+  "tokens": [
+    {
+      "surface": "ואבקש",
+      "gloss": "わたしは探した"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "彼らの中に"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人を"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "築く"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "垣を"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "立つ者を"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "破れ口に"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "わたしの前に"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ために"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "〜ないために"
+    },
+    {
+      "surface": "שחתה",
+      "gloss": "それが滅ぼされ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜なかった"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "見つけ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:08:00.818654338Z",
+  "model": "glm-5.2"
+}

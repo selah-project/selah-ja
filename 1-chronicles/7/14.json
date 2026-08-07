@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "マナセの子ら：アスリエル — 彼女が産んだ — 彼のそばめ、⟨その⟩アラムの女が⟨את⟩マキルを産んだ、ギルアドの父。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "マナセ"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "アスリエル"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "彼女が産んだ"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "彼のそばめ"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "⟨その⟩アラムの女"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "マキル"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "マキル"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ギルアド"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:49.067428416Z",
+  "model": "glm-5.2"
+}

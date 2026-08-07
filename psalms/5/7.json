@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "偽りを語る者たちを、あなたは滅ぼされる。血を流す者と欺く者を、ヤハウェは忌み嫌われる。",
+  "tokens": [
+    {
+      "surface": "תְּאַבֵּד֮",
+      "gloss": "あなたは滅ぼされる"
+    },
+    {
+      "surface": "דֹּבְרֵ֪י",
+      "gloss": "語る者たち"
+    },
+    {
+      "surface": "כָ֫זָ֥ב",
+      "gloss": "偽り"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "人"
+    },
+    {
+      "surface": "דָּמִ֥ים",
+      "gloss": "血"
+    },
+    {
+      "surface": "וּמִרְמָ֗ה",
+      "gloss": "そして欺き"
+    },
+    {
+      "surface": "יְתָ֘עֵ֥ב",
+      "gloss": "忌み嫌われる"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:09.737466135Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "これらはガドの子らの中の者、軍勢のかしらたち。最小の者は百にひとり、最大の者は千⟨にひとり⟩であった。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "〜の子らの中の"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ガド"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "かしらたち"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "軍勢の"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ひとり"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "百に"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "最小の者は"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "そして最大の者は"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "千に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:08.565959774Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 8:24",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "深淵が ⟨存在しなかった⟩ 時、⟨私は⟩ 生み出された、水を豊かにたたえた泉が ⟨存在しなかった⟩ 時 ⟨に⟩。",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "〜が存在しなかった時"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "生み出された"
+    },
+    {
+      "surface": "באין",
+      "gloss": "〜が存在しなかった時"
+    },
+    {
+      "surface": "מעינות",
+      "gloss": "泉"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "豊かにたたえた"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:46.698593618Z",
+  "model": "glm-5.2"
+}

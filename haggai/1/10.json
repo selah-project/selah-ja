@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "それゆえ、あなたがたのゆえに、天は露を引き止め、地はその産物を引き止めた。",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "עֲלֵיכֶם",
+      "gloss": "あなたがたの（ゆえに）"
+    },
+    {
+      "surface": "כָּלְאוּ",
+      "gloss": "引き止めた"
+    },
+    {
+      "surface": "שָמַיִם",
+      "gloss": "天は"
+    },
+    {
+      "surface": "מִטָּל",
+      "gloss": "露を"
+    },
+    {
+      "surface": "וְהָאָ֨רֶץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "כָּלְאָ֥ה",
+      "gloss": "引き止めた"
+    },
+    {
+      "surface": "יְבוּלָֽהּ",
+      "gloss": "その産物を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:31:54.061249240Z",
+  "model": "glm-5.2"
+}

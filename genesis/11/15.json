@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてシェラフは⟨エベル⟩を⟨את⟩生んでから後、三百年と四年生き、息子たちと娘たちを生んだ。",
+  "tokens": [
+    {
+      "surface": "וַֽיְחִי",
+      "gloss": "そして生きた"
+    },
+    {
+      "surface": "שֶׁ֗לַח",
+      "gloss": "シェラフ"
+    },
+    {
+      "surface": "אַחֲרֵי֙",
+      "gloss": "後"
+    },
+    {
+      "surface": "הוֹלִיד֣וֹ",
+      "gloss": "彼が生んだ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "エベル"
+    },
+    {
+      "surface": "עֵ֔בֶר",
+      "gloss": "エベル"
+    },
+    {
+      "surface": "שָׁלֹ֣שׁ",
+      "gloss": "三"
+    },
+    {
+      "surface": "שָׁנִ֔ים",
+      "gloss": "年"
+    },
+    {
+      "surface": "וְאַרְבַּ֥ע",
+      "gloss": "と四"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "百"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "年"
+    },
+    {
+      "surface": "וַיּ֥וֹלֶד",
+      "gloss": "そして生んだ"
+    },
+    {
+      "surface": "בָּנִ֖ים",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "וּבָנֽוֹת",
+      "gloss": "と娘たち"
+    }
+  ],
+  "timestamp": "2026-08-07T16:23:09.280437776Z",
+  "model": "glm-5.2"
+}

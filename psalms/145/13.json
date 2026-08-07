@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 145,
+  "translation": "あなたの国は、すべての世の国であり、あなたの支配はすべての世代に及ぶ。",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "あなたの国は"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "国"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "世の"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "そしてあなたの支配は"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代に"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "（及ぶ）"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:20.888329419Z",
+  "model": "glm-5.2"
+}

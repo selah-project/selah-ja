@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そして地のすべての十分の一 — 地の種から、木の果実から — それはヤハウェのもの、ヤハウェへの聖なるものである。",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "מַעְשַׂ֨ר",
+      "gloss": "十分の一"
+    },
+    {
+      "surface": "הָאָ֜רֶץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "מִזֶּ֤רַע",
+      "gloss": "種から"
+    },
+    {
+      "surface": "הָאָ֨רֶץ֙",
+      "gloss": "地の"
+    },
+    {
+      "surface": "מִפְּרִ֣י",
+      "gloss": "果実から"
+    },
+    {
+      "surface": "הָעֵ֔ץ",
+      "gloss": "木の"
+    },
+    {
+      "surface": "לַיהוָ֖ה",
+      "gloss": "ヤハウェのもの"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "קֹ֖דֶשׁ",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "לַֽיהוָֽה",
+      "gloss": "ヤハウェへの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:45:06.850854677Z",
+  "model": "glm-5.2"
+}

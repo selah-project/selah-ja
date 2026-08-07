@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そして東の山々の頂から、そして永遠の丘々の霊玉なるものから。」",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "そして〜の頂から"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "山々"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "東"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "そして〜の霊玉なるものから"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "丘々"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-08-07T10:21:49.487786064Z",
+  "model": "glm-5.2"
+}

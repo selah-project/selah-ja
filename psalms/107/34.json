@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "果実の地を塩地とし、そこに住む者たちの悪のゆえに。",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果実の"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "塩地とし"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "…の悪のゆえに"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "住む者たちの"
+    },
+    {
+      "surface": "בה",
+      "gloss": "そこに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:41.173197533Z",
+  "model": "glm-5.2"
+}

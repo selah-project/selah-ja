@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 140,
+  "translation": "高ぶる者たちは私のために罠を隠し、綱を⟨用いて⟩網を道のそばに広げた。私のためにわなを仕掛けた。セラ。",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "彼らは隠した"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "高ぶる者たちは"
+    },
+    {
+      "surface": "פח",
+      "gloss": "罠を"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "そして綱を"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "彼らは広げた"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "網を"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "〜のそばに"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "道の"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "わなを"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "彼らは仕掛けた"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:43.678438384Z",
+  "model": "glm-5.2"
+}

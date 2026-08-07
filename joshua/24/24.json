@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして民はヨシュアに言った。⟨את⟩ヤハウェ私たちのエロヒムに仕えよう、そして御声に聞き従おう。",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "私たちのエロヒム"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "仕えよう"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "そして御声に"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "聞き従おう"
+    }
+  ],
+  "timestamp": "2026-08-07T16:41:36.547360150Z",
+  "model": "glm-5.2"
+}

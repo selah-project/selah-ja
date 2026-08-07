@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "悪しき者は借りて返さず、正しき者は恵みを施し与える。",
+  "tokens": [
+    {
+      "surface": "לֹוֶ֣ה",
+      "gloss": "借りる"
+    },
+    {
+      "surface": "רָ֭שָׁע",
+      "gloss": "悪しき者"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יְשַׁלֵּ֑ם",
+      "gloss": "返す"
+    },
+    {
+      "surface": "וְ֝צַדִּ֗יק",
+      "gloss": "そして正しき者"
+    },
+    {
+      "surface": "חוֹנֵ֥ן",
+      "gloss": "恵みを施す"
+    },
+    {
+      "surface": "וְנוֹתֵֽן",
+      "gloss": "そして与える"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:27.424010036Z",
+  "model": "glm-5.2"
+}

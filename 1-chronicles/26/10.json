@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 26:10",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そしてホサに — メラリの子らから — ⟨ある⟩息子たちが⟨いた⟩：シムリが頭であった。彼は長子ではなかったが、その父は彼を頭として立てた。",
+  "tokens": [
+    {
+      "surface": "ולחסה",
+      "gloss": "そしてホサには"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "בני",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "メラリ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たちが"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "シムリ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "長子"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "そして彼を立てた"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "彼の父は"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "頭として"
+    }
+  ],
+  "timestamp": "2026-08-07T14:08:33.827634312Z",
+  "model": "glm-5.2"
+}

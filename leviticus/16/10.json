@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 16:10",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そして、その上にアザゼルのくじが上ったやぎは、生きたままでヤハウェの前に立たせ、それのために贖いをし、それを荒野のアザゼルへ送り出すため⟨את⟩それを送り出す。",
+  "tokens": [
+    {
+      "surface": "והשעיר",
+      "gloss": "そしてそのやぎ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上った"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "くじ"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "アザゼルのために"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "立たせる"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生きたままで"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "贖いをするため"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "それのために"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "送り出すため"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ(アザゼル)"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "アザゼルへ"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "荒野へ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:46.067143732Z",
+  "model": "glm-5.2"
+}

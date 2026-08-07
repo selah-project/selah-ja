@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 29:45",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "わたしはイスラエルの子らのうちに住み、彼らにとってエロヒムとなる。",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "わたしは住む"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "〜のうちに"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "わたしは〜となる"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らにとって"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "エロヒムに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:21.012757545Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして雌牛と熊は共に草を食い、彼らの子らは共に伏す。そしてライオンは雄牛のようにわらを食らう。",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "そして雌牛"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "と熊"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "草を食う"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "共に"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "伏す"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "彼らの子ら"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "そしてライオン"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "雄牛のように"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食らう"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "わら"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:44.147077299Z",
+  "model": "glm-5.2"
+}

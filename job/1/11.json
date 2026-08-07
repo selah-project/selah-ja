@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 1:11",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "しかし、あなたの手を伸ばし、彼のすべての持ち物に触れてみよ。彼は間違いなく、あなたの顔に向かってあなたを呪うであろう。」",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "しかし"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "伸ばし"
+    },
+    {
+      "surface": "נא",
+      "gloss": "〜してみよ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手を"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "そして触れて"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "〜のすべてに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼の"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜でないなら"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの顔"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "彼はあなたを呪うであろう"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:44.215297014Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてあなたがたはそれらをあなたがたの家の門柱とあなたがたの門に書き記すであろう。",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "そしてあなたがたは書き記す"
+    },
+    {
+      "surface": "על",
+      "gloss": "～の上に"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "門柱"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "あなたがたの家の"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "そしてあなたがたの門に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:10:46.926023309Z",
+  "model": "glm-5.2"
+}

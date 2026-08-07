@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 14:21",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "モーシェは⟨自分の⟩手を海の上に伸ばした。ヤハウェは強い東風で海を終夜退かせ、海を乾いた地とし、水は割れた。",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "伸ばした"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の手"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "手"
+    },
+    {
+      "surface": "על",
+      "gloss": "～の上に"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ויולך",
+      "gloss": "退かせた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "風で"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "強い"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "乾いた地に"
+    },
+    {
+      "surface": "ויבקעו",
+      "gloss": "割れた"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水は"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:25.096854439Z",
+  "model": "glm-5.2"
+}

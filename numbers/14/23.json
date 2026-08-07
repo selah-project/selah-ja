@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "彼らは、わたしその先祖たちに誓った ⟨את⟩ その地を見ない — わたしを侮る者はすべて、それを見ないであろう。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "見る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "誓った"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "その先祖たちに"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "わたしを侮る者"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "それを見るであろう"
+    }
+  ],
+  "timestamp": "2026-08-07T09:55:26.006572435Z",
+  "model": "glm-5.2"
+}

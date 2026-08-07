@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 7:22",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "ヨシュアは使者たちを遣わした。彼らは天幕へ走った。そして見よ、それは彼の天幕に隠されており、銀はその下にあった。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "～は遣わした"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使者たちを"
+    },
+    {
+      "surface": "וירצו",
+      "gloss": "彼らは走った"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "天幕へ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "טמונה",
+      "gloss": "隠されている"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "彼の天幕に"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "銀は"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "その下に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:26:13.775823864Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "わたしたちはあなたに対して破壊的に振る舞い、⟨את⟩命令も、⟨את⟩定めも、⟨את⟩判決も守りませんでした。それらはあなたがあなたのしもべモーセに⟨את⟩命じられたものです。",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "破壊的に"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "わたしたちは振る舞った"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに対して"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "守ら"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "命令"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "命令も"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "定め"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "定めも"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "判決"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "判決も"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それらは"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "あなたが命じた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーセ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセに"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "あなたのしもべ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:53:21.419427205Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてシュムエルは民に言った——「さあ、行こう。ハ・ギルガルへ。そしてそこで王権を更新しよう。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエル"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "さあ、行け"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "そして行こう"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ハ・ギルガル"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "そして更新しよう"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "王権"
+    }
+  ],
+  "timestamp": "2026-08-07T10:42:09.092132395Z",
+  "model": "glm-5.2"
+}

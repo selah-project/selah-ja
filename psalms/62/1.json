@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 62,
+  "translation": "指揮者に、エドゥトンのために、ダビデのミズモル",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֥חַ",
+      "gloss": "指揮者に"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "יְדוּת֗וּן",
+      "gloss": "エドゥトン"
+    },
+    {
+      "surface": "מִזְמ֥וֹר",
+      "gloss": "ミズモル"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "ダビの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:05.282659593Z",
+  "model": "glm-5.2"
+}

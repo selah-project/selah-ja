@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 12:14",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "見よ、⟨彼が⟩引き倒せば、それは再び建てられない。⟨彼が⟩ひとりの上に閉ざせば、それは開かれない。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "יהרוס",
+      "gloss": "引き倒せば"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "建てられ"
+    },
+    {
+      "surface": "יסגר",
+      "gloss": "閉ざせば"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ひとり（の人）"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "開かれ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:23:19.607451265Z",
+  "model": "glm-5.2"
+}

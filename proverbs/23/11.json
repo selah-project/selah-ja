@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "彼らの贖い主は強く、彼は⟨את⟩彼らの訴えをあなたと共に争うからだ。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "גֹאֲלָ֥ם",
+      "gloss": "彼らの贖い主は"
+    },
+    {
+      "surface": "חָזָ֑ק",
+      "gloss": "強い"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "יָרִ֖יב",
+      "gloss": "争う"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの訴えを"
+    },
+    {
+      "surface": "רִיבָ֣ם",
+      "gloss": "彼らの訴えを"
+    },
+    {
+      "surface": "אִתָּֽךְ",
+      "gloss": "あなたと共に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:06.617718031Z",
+  "model": "glm-5.2"
+}

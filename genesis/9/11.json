@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 9:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "「わたしはわたしの契約を、⟨あなたがた⟩と共に立てる。すべての肉がもはや大洪水の水によって断たれることはなく、地を滅ぼす大洪水が再びあることもない」",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "そしてわたしは立てる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの契約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "わたしの契約"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたがたと共に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "断たれる"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "〜の水によって"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "大洪水"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再び"
+    },
+    {
+      "surface": "מבול",
+      "gloss": "大洪水"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "滅ぼすための"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地を"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:13.208842174Z",
+  "model": "glm-5.2"
+}

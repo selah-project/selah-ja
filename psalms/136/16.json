@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 136,
+  "translation": "荒野で彼の民を導いた方に⟨向かって⟩ — まことに、とこしえに彼のヘセドはある。",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "導いた方に"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼の民を"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野で"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "彼のヘセドは"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:09.639351478Z",
+  "model": "glm-5.2"
+}

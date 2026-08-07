@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ただし、園の中央にある木の果実については、エロヒムが仰せました。『あなたたちはそれを食べてはならない。それに触れてもならない。死ぬことのないように。』」",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "ただし果実については"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "木の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "中央に"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "園の"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "仰せた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "食べては"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "それを"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "触れては"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "פן",
+      "gloss": "死ぬことのないように"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "あなたたちは死ぬ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:36.727616670Z",
+  "model": "glm-5.2"
+}

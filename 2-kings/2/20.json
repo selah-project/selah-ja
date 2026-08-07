@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして彼は言った、「わたしに新しい鉢を持って来い。そしてそこに塩を置け」。彼らはそれを彼のもとに持って来た。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "持って来い"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "鉢"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "新しい"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "そして置け"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "塩"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "そして彼らは持って来た"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼のもとに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:57.080495984Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "退けられた銀、彼らは⟨彼らに⟩そう呼んだ。ヤハウェが⟨彼らを⟩退けられたからだ。",
+  "tokens": [
+    {
+      "surface": "כֶּ֣סֶף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "נִמְאָ֔ס",
+      "gloss": "退けられた"
+    },
+    {
+      "surface": "קָרְא֖וּ",
+      "gloss": "彼らは呼んだ"
+    },
+    {
+      "surface": "לָהֶ֑ם",
+      "gloss": "⟨彼らに⟩"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "מָאַ֥ס",
+      "gloss": "退けられた"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "בָּהֶֽם",
+      "gloss": "⟨彼らを⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T11:40:34.145185677Z",
+  "model": "glm-5.2"
+}

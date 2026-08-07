@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 144,
+  "translation": "エロヒム、新しい歌をあなたに私は歌おう、十弦のネベルであなたに私は奏でよう",
+  "tokens": [
+    {
+      "surface": "אֱֽלֹהִ֗ים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "שִׁ֣יר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "חָ֭דָשׁ",
+      "gloss": "新しい"
+    },
+    {
+      "surface": "אָשִׁ֣ירָה",
+      "gloss": "私は歌おう"
+    },
+    {
+      "surface": "לָּ֑ךְ",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "בְּנֵ֥בֶל",
+      "gloss": "ネベルで"
+    },
+    {
+      "surface": "עָ֝שׂ֗וֹר",
+      "gloss": "十弦の"
+    },
+    {
+      "surface": "אֲזַמְּרָה",
+      "gloss": "私は奏でよう"
+    },
+    {
+      "surface": "לָּֽךְ",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:10.575385285Z",
+  "model": "glm-5.2"
+}

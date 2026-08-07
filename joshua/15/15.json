@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして彼はそこからデビルの住民のもとに上った。そしてデビルの名は以前はキルヤテ・セフェルであった。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "そして…上った"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "住民"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "デビルの"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そして…名は"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "デビルの"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "以前"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "キルヤテ・"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "セフェル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:28:28.272793811Z",
+  "model": "glm-5.2"
+}

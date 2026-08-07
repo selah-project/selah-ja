@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "人はかがめられ、人は低くされ、高ぶる者の目は低くされる。",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "かがめられ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人は"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "低くされ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "目は"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "高ぶる者の"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "低くされる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:18.902827499Z",
+  "model": "glm-5.2"
+}

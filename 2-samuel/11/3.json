@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "ダヴィドは遣わし、その女について問い求めた。そして⟨彼は⟩言った。「これはバト・シェバ、エリヤムの娘、ヒッテ人ウリヤの妻ではないか。」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "…は遣わした"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "…は問い求めた"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "その女について"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "…は言った"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "…ではないか"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これは"
+    },
+    {
+      "surface": "בת",
+      "gloss": "…の娘"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "シェバ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "…の娘"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "エリヤム"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "…の妻"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ウリヤ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "そのヒッテ人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:52:26.688338718Z",
+  "model": "glm-5.2"
+}

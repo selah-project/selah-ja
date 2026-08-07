@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして彼は⟨את⟩表を会見の天幕に、幕屋の北側の、垂れ幕の外側に置いた。",
+  "tokens": [
+    {
+      "surface": "וַיִּתֵּ֤ן",
+      "gloss": "そして彼は置いた"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "表"
+    },
+    {
+      "surface": "הַשֻּׁלְחָן֙",
+      "gloss": "表"
+    },
+    {
+      "surface": "בְּאֹ֣הֶל",
+      "gloss": "天幕に"
+    },
+    {
+      "surface": "מוֹעֵ֔ד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "עַ֛ל",
+      "gloss": "～の"
+    },
+    {
+      "surface": "יֶ֥רֶךְ",
+      "gloss": "側"
+    },
+    {
+      "surface": "הַמִּשְׁכָּ֖ן",
+      "gloss": "幕屋"
+    },
+    {
+      "surface": "צָפֹ֑נָה",
+      "gloss": "北側の"
+    },
+    {
+      "surface": "מִח֖וּץ",
+      "gloss": "外側に"
+    },
+    {
+      "surface": "לַפָּרֹֽכֶת",
+      "gloss": "垂れ幕の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:03.349186437Z",
+  "model": "glm-5.2"
+}

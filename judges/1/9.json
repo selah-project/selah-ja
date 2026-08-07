@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 1:9",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "その後、ユダの子らは下って行き、山地とネゲブと低地に住むカナン人と戦った。",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "その後"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "下って行った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "の子ら"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "戦うために"
+    },
+    {
+      "surface": "בכנעני",
+      "gloss": "カナン人と"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "住む者"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山地"
+    },
+    {
+      "surface": "והנגב",
+      "gloss": "とネゲブ"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "と低地"
+    }
+  ],
+  "timestamp": "2026-08-07T10:30:48.087042552Z",
+  "model": "glm-5.2"
+}

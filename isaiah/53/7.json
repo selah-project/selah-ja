@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 53:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 53,
+  "translation": "彼は苦しめられ、かつ虐げられたのに、彼は口を開かなかった。屠り場に引かれて行く羊のように、羊毛を刈る者たちの前に黙する雌羊のように、彼は口を開かなかった。",
+  "tokens": [
+    {
+      "surface": "נגש",
+      "gloss": "苦しめられた"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そして彼は"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "虐げられた"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "開いた"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "彼の口を"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "羊のように"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "屠り場に"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "引かれて行く"
+    },
+    {
+      "surface": "וכרחל",
+      "gloss": "そして雌羊のように"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "גזזיה",
+      "gloss": "その刈る者たちの"
+    },
+    {
+      "surface": "נאלמה",
+      "gloss": "黙する"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "開いた"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "彼の口を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:17.949978764Z",
+  "model": "glm-5.2"
+}

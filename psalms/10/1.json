@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "なぜ、ヤハウェ、あなたは遠くに立っておられるのか。苦しみの時に、あなたは身を隠されるのか。",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "あなたは立っておられる"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "遠くに"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "あなたは隠される"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "時に"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "苦しみの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:48.248855470Z",
+  "model": "glm-5.2"
+}

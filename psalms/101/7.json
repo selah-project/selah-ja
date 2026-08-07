@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 101,
+  "translation": "欺きを行う者は私の家の中に住めない。偽りを語る者は私の目の前に立ってはならない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יֵשֵׁב",
+      "gloss": "住め"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "の中に"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "私の家"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行う者"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "欺きを"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語る者"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "偽りを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יִכּוֹן",
+      "gloss": "立て"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "前に"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "私の目の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:31.126060878Z",
+  "model": "glm-5.2"
+}

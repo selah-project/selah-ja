@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 31:29",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "多くの娘たちが⟨את⟩力を成した、しかしあなたは彼女らすべての上に昇った。",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "娘たちが"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "成した"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "力を"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "しかし⟨את⟩",
+      "marks": "あなた"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "昇った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "彼女らすべて"
+    }
+  ],
+  "timestamp": "2026-08-07T18:42:35.378183086Z",
+  "model": "glm-5.2"
+}

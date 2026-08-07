@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 40:17",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして最上のかごには、パロのすべての食べ物、パン焼きの仕事⟨のもの⟩があった。そして鳥がそれらをかごから私の頭の上から食べていた。」",
+  "tokens": [
+    {
+      "surface": "ובסל",
+      "gloss": "そしてかごには"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "最上の"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "〜のすべての"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "食べ物"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "仕事"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "パン焼き"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "そして鳥が"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食べていた"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それら"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הסל",
+      "gloss": "かご"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜の上から"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "私の頭"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:37.092653423Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "パン種を入れて焼いてはならない。わたしの火の献げ物から彼らの分としてわたしは⟨את⟩それを与えた。それは至聖である。罪の献げ物や償いの献げ物と同じである。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "焼いてはならない"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "パン種"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "彼らの分"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "わたしは与えた"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "わたしの火の献げ物から"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "至聖"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "罪の献げ物と同じ"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "そして償いの献げ物と"
+    }
+  ],
+  "timestamp": "2026-08-07T09:33:13.784174265Z",
+  "model": "glm-5.2"
+}

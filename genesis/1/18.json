@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "また昼と夜を治め、光と闇との間を分かつためであった。そしてエロヒムはそれを見て、良かったとした。",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "また治めるため"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "昼を"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "夜と"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "また分かつため"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間を"
+    },
+    {
+      "surface": "האור",
+      "gloss": "光"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "闇"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:37.468464526Z",
+  "model": "glm-5.2"
+}

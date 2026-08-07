@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "ダビデは斥候を遣わし、シャウルが確かに来たことを知った。",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁלַ֥ח",
+      "gloss": "遣わし"
+    },
+    {
+      "surface": "דָּוִ֖ד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "מְרַגְּלִ֑ים",
+      "gloss": "斥候"
+    },
+    {
+      "surface": "וַיֵּ֕דַע",
+      "gloss": "知った"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "בָ֥א",
+      "gloss": "来た"
+    },
+    {
+      "surface": "שָׁא֖וּל",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜のところに"
+    },
+    {
+      "surface": "נָכֽוֹן",
+      "gloss": "確かに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:33.464120518Z",
+  "model": "glm-5.2"
+}

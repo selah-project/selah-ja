@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 30:20",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そしてアドナイはあなたがたに苦しみのパンと圧迫の水を与えられる。あなたの教える者はもはや隠れない。あなたの目は⟨あなたの⟩ ⟨את⟩ 教える者を見る。",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "与えられる"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "צר",
+      "gloss": "苦しみの"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "水"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "圧迫の"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "もはや〜ない"
+    },
+    {
+      "surface": "יכנף",
+      "gloss": "隠れる"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "あなたの教える者"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "そして〜なる"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "あなたの目"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "見る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの教える者"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "あなたの教える者"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:14.555931730Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "あなたは、自分の主人のもとから逃れてあなたのもとに来たしもべを、その主人に引き渡してはならない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "あなたは引き渡しては"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "しもべを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "その主人の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "逃れて"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたのもとに"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "…から"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "その主人の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:17:45.872599200Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 112,
+  "translation": "良い者是恵みを施し、貸す者 — ⟨彼⟩は自分の事柄を裁きによって支える。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "איש",
+      "gloss": "者は"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "恵みを施し"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "貸す"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "支える"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "自分の事柄を"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "裁きによって"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:26.999432107Z",
+  "model": "glm-5.2"
+}

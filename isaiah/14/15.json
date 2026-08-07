@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "確かに、あなたはシェオルに下され⟨る⟩、穴の果てに。」",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シェオル"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "あなたは下され⟨る⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "果てに"
+    },
+    {
+      "surface": "בור",
+      "gloss": "穴の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:53.949585099Z",
+  "model": "glm-5.2"
+}

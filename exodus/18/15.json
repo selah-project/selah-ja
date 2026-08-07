@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "モシェは義父に言った。「民が私のところに来るからです。エロヒムを尋ね求めるために。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…は言った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "義父に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…というのは"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "…が来る"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のところに"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "尋ね求めるために"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:10.236311131Z",
+  "model": "glm-5.2"
+}

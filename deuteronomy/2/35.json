@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 2:35",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ただ家畜だけは私たちが自分たちのために略奪し、それから私たちが捕えた町々の分捕り物⟨も⟩⟨した⟩。",
+  "tokens": [
+    {
+      "surface": "רַ֥ק",
+      "gloss": "ただ…だけ"
+    },
+    {
+      "surface": "הַבְּהֵמָ֖ה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "בָּזַ֣זְנוּ",
+      "gloss": "私たちは略奪した"
+    },
+    {
+      "surface": "לָ֑נוּ",
+      "gloss": "私たちのために"
+    },
+    {
+      "surface": "וּשְׁלַ֥ל",
+      "gloss": "そして…分捕り物"
+    },
+    {
+      "surface": "הֶעָרִ֖ים",
+      "gloss": "町々の"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "לָכָֽדְנוּ",
+      "gloss": "私たちが捕えた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:38.518278497Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そしてその富は悪い悩みによって滅び失せ、彼は息子をもうけたが、その手には何一つない。",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "そして滅びた"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "その富は"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "悩みによって"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "そしてもうけた"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子を"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "なく"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "その手に"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "何一つ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:35.168273301Z",
+  "model": "glm-5.2"
+}

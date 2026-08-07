@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "彼らの羊の群れと彼らの牛の群れとをもって、彼らはヤハウェを捜し求めて行くが、見いだせない。⟨彼は⟩彼らから引き離されたのだ。",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "彼らの羊の群れと"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "彼らの牛の群れと"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "彼らは行く"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "捜し求めて"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "見いだせ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "引き離された"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "彼らから"
+    }
+  ],
+  "timestamp": "2026-08-07T17:11:56.748441125Z",
+  "model": "glm-5.2"
+}

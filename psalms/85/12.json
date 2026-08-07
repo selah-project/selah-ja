@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 85,
+  "translation": "まことが地から芽生える。そしてツェデクが天から見下ろす。",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "まこと"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "地から"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "芽生える"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "そしてツェデク"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "天から"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "見下ろす"
+    }
+  ],
+  "timestamp": "2026-08-07T12:54:52.104505844Z",
+  "model": "glm-5.2"
+}

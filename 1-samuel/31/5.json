@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "武器持ち⟨は⟩、シャウルが死んだのを見て、彼もまた自分の剣の上に倒れ、彼と共に死んだ。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "見て"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "持ち"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "武器"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨…⟩"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死んだ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "倒れた"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "על",
+      "gloss": "の上に"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "自分の剣"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "死んだ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:32.787062702Z",
+  "model": "glm-5.2"
+}

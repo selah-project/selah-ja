@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 2:3",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "私は ⟨王⟩に言った。「 ⟨王⟩よ、とこしえに生きてください。私の顔が悲しくないはずがありましょうか。私の先祖たちの墓の家であるあの町は荒廃し、その門は火で焼き尽くされているではありませんか。」",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "私は言った"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "生きてください"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "悲しい"
+    },
+    {
+      "surface": "פני",
+      "gloss": "私の顔"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "あの町"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "墓の"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "私の先祖たちの"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "荒廃している"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "そしてその門は"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "焼き尽くされている"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    }
+  ],
+  "timestamp": "2026-08-07T13:53:24.517102351Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 27:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてリベカはその子ヤアコブに語って言った。「見よ、私は聞いた、⟨את⟩あなたの父があなたの兄弟エサヴに語るのを、こう言って。」",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "そしてリベカは"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "語った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "その子"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "私は聞いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの父"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "語るのを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサヴ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    }
+  ],
+  "timestamp": "2026-08-07T08:59:05.750690333Z",
+  "model": "glm-5.2"
+}

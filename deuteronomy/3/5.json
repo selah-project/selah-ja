@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "これらすべての都市は、高い城壁、扉と閂で要塞化されていた。ペラジ人の都市を除いて、非常に多く⟨あった⟩。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אֵ֜לֶּה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "עָרִ֧ים",
+      "gloss": "都市は"
+    },
+    {
+      "surface": "בְּצֻר֛וֹת",
+      "gloss": "要塞化されていた"
+    },
+    {
+      "surface": "חוֹמָ֥ה",
+      "gloss": "城壁"
+    },
+    {
+      "surface": "גְבֹהָ֖ה",
+      "gloss": "高い"
+    },
+    {
+      "surface": "דְּלָתַ֣יִם",
+      "gloss": "扉"
+    },
+    {
+      "surface": "וּבְרִ֑יחַ",
+      "gloss": "と閂"
+    },
+    {
+      "surface": "לְבַ֛ד",
+      "gloss": "除いて"
+    },
+    {
+      "surface": "מֵעָרֵ֥י",
+      "gloss": "…の都市"
+    },
+    {
+      "surface": "הַפְּרָזִ֖י",
+      "gloss": "ペラジ人の"
+    },
+    {
+      "surface": "הַרְבֵּ֥ה",
+      "gloss": "多く"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "非常に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:59.254116652Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 2:8",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "彼は自分のために陶器のかけらを取り、それで身をかきむしりながら、灰の中に座っていた。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "自分のために"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "陶器のかけらを"
+    },
+    {
+      "surface": "להתגרד",
+      "gloss": "身をかきむしるために"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それで"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そして彼は"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "座っていた"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "〜の中に"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "灰の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:19:25.732438035Z",
+  "model": "glm-5.2"
+}

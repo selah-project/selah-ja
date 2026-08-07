@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして家畜を打つ者はそれを償い、人を打つ者は死なされる。",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "そして打つ者"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "それを償う"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "そして打つ者"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "死なされる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:29.953280704Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 10:14",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "すべての人は知識から ⟨獣のようになり⟩、すべての鋳造師は刻像によって恥じる。まことに、その鋳造した像は偽りであり、彼らのうちに息はない。",
+  "tokens": [
+    {
+      "surface": "נבער",
+      "gloss": "⟨獣のようになり⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人は"
+    },
+    {
+      "surface": "מדעת",
+      "gloss": "知識から"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "恥じる"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "鋳造師は"
+    },
+    {
+      "surface": "מפסל",
+      "gloss": "刻像によって"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りであり"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "その鋳造した像は"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "息"
+    },
+    {
+      "surface": "בם",
+      "gloss": "彼らのうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:43:30.522731621Z",
+  "model": "glm-5.2"
+}

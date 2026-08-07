@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そして彼は⟨את⟩全焼の祭壇をアカシア材で作った。長さ五キュビト、幅五キュビト、四角形、高さ三キュビトであった。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は作った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全焼の祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "材"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "アカシア"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "キュビト"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "その長さ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "そして五"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "キュビト"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "その幅"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "四角形"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "そして三"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "キュビト"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "その高さ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:05.639964143Z",
+  "model": "glm-5.2"
+}

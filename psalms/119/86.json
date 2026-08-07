@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "あなたのすべてのミツワーは真実である、偽りで彼らはわたしを追った — わたしを助けてください。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "あなたのミツワーは"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "真実である"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りで"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "彼らはわたしを追った"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "わたしを助けてください"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:22.093183458Z",
+  "model": "glm-5.2"
+}

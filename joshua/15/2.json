@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 15:2",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "彼らの南の境界は、塩の海の端から、南を向く舌から⟨始まった⟩。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…だった"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らの"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "南の"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "〜の端から"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "塩の"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הלשן",
+      "gloss": "舌"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "向く"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "南を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:28:03.221719555Z",
+  "model": "glm-5.2"
+}

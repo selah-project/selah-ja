@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "貧しい者が全きをもって歩むことは良い、唇の曲がる者は——彼は愚か者 ⟨のことである⟩。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "רש",
+      "gloss": "貧しい者"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "歩む"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "全きをもって"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "曲がる"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "唇の"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そして彼は"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚か者"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:03.094975297Z",
+  "model": "glm-5.2"
+}

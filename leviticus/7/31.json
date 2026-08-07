@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして祭司は ⟨את⟩ 脂肪を祭壇で燔にする。そして胸はアロンとその子らのものとなる。",
+  "tokens": [
+    {
+      "surface": "וְהִקְטִ֧יר",
+      "gloss": "そして〜は燔にする"
+    },
+    {
+      "surface": "הַכֹּהֵ֛ן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "脂肪"
+    },
+    {
+      "surface": "הַחֵ֖לֶב",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֑חָה",
+      "gloss": "祭壇で"
+    },
+    {
+      "surface": "וְהָיָה֙",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "הֶֽחָזֶ֔ה",
+      "gloss": "胸"
+    },
+    {
+      "surface": "לְאַהֲרֹ֖ן",
+      "gloss": "アロンに"
+    },
+    {
+      "surface": "וּלְבָנָֽיו",
+      "gloss": "とその子らに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:33:53.891689307Z",
+  "model": "glm-5.2"
+}

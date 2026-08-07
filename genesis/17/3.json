@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "アブラムは顔を伏せた。するとエロヒムは彼に語りかけ、こう仰せになった。",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "そして伏せた"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "アブラム"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "彼の顔"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "そして語りかけた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "こう仰せになって"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:53.827104482Z",
+  "model": "glm-5.2"
+}

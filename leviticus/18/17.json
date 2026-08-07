@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "女とその娘の裸を、あなたは露わにしてはならない。彼女の息子の娘⟨את⟩も、彼女の娘の娘⟨את⟩も、彼女の裸を露わにするために取ってはならない。彼女らは近親肉である。それはみだらかである。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "裸"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女の"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "とその娘の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "あなたは露わにしては"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "娘"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "彼女の息子の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "娘"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "彼女の娘の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "あなたは取っては"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "露わにするために"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "彼女の裸を"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "彼女らは近親肉"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "である"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "みだらか"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "である"
+    }
+  ],
+  "timestamp": "2026-08-07T17:43:03.532747966Z",
+  "model": "glm-5.2"
+}

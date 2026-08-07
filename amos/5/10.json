@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "彼らは門で責める者を憎み、全きことを語る者を忌み嫌う。",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "彼らは憎んだ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "門で"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "責める者"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "そして語る者"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "全きこと"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "彼らは忌み嫌う"
+    }
+  ],
+  "timestamp": "2026-08-07T12:22:47.086088712Z",
+  "model": "glm-5.2"
+}

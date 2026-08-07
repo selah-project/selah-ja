@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "国々がざわめき、王国が揺れ動いた。⟨彼が⟩御声を発たると、地は溶けた。",
+  "tokens": [
+    {
+      "surface": "הָמ֣וּ",
+      "gloss": "ざわめき"
+    },
+    {
+      "surface": "ג֭וֹיִם",
+      "gloss": "国々が"
+    },
+    {
+      "surface": "מָ֣טוּ",
+      "gloss": "揺れ動いた"
+    },
+    {
+      "surface": "מַמְלָכ֑וֹת",
+      "gloss": "王国が"
+    },
+    {
+      "surface": "נָתַ֥ן",
+      "gloss": "発たると"
+    },
+    {
+      "surface": "בְּ֝קוֹל֗וֹ",
+      "gloss": "御声を"
+    },
+    {
+      "surface": "תָּמ֥וּג",
+      "gloss": "溶けた"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "地は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:20.665197595Z",
+  "model": "glm-5.2"
+}

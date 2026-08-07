@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 2:6",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "水々が私を取り囲んだ、⟨ nephesh ⟩ に至るまで。深淵が私を囲んだ、藻が私の頭に巻きついた。",
+  "tokens": [
+    {
+      "surface": "אֲפָפ֤וּנִי",
+      "gloss": "取り囲んだ"
+    },
+    {
+      "surface": "מַ֨יִם֙",
+      "gloss": "水々が"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "נֶ֔פֶשׁ",
+      "gloss": "⟨ nephesh ⟩"
+    },
+    {
+      "surface": "תְּה֖וֹם",
+      "gloss": "深淵が"
+    },
+    {
+      "surface": "יְסֹבְבֵ֑נִי",
+      "gloss": "囲んだ"
+    },
+    {
+      "surface": "ס֖וּף",
+      "gloss": "藻が"
+    },
+    {
+      "surface": "חָב֥וּשׁ",
+      "gloss": "巻きついた"
+    },
+    {
+      "surface": "לְרֹאשִֽׁי",
+      "gloss": "私の頭に"
+    }
+  ],
+  "timestamp": "2026-08-07T18:38:20.819998930Z",
+  "model": "glm-5.2"
+}

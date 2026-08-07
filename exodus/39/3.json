@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 39:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そして彼らは⟨את⟩金の板を打ち伸ばし、それを切って糸とし、青色の中、紫の中、緋色の虫の中、そして細麻の中で造るためとした。熟練者のわざである。",
+  "tokens": [
+    {
+      "surface": "וירקעו",
+      "gloss": "そして彼らは打ち伸ばした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "板を"
+    },
+    {
+      "surface": "פחי",
+      "gloss": "板を"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "そして彼は切った"
+    },
+    {
+      "surface": "פתילם",
+      "gloss": "糸と"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "造るため"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "〜の中で"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "青色の"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "そして〜の中で"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "紫の"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "そして〜の中で"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "〜の虫"
+    },
+    {
+      "surface": "השני",
+      "gloss": "緋色"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "そして〜の中で"
+    },
+    {
+      "surface": "השש",
+      "gloss": "細麻の"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "わざである"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "熟練者の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:39.610765186Z",
+  "model": "glm-5.2"
+}

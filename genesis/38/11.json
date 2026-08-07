@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 38:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "ユダは嫁タマルに言った、「わたしの子シェラが大きくなるまで、あなたの父の家でやもめとして座していなさい」。彼は「兄たちのように彼もまた死ぬといけない」と思ったからである。タマルは行き、父の家に座した。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "タマルに"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "嫁"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "座していなさい"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "やもめ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父の"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "大きくなる"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "シェラ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "わたしの子"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "彼は言った"
+    },
+    {
+      "surface": "פן",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死ぬ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜もまた"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "兄たちのように"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "そして彼女は行った"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "タマル"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "そして座した"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "彼女の父の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:07:22.595387194Z",
+  "model": "glm-5.2"
+}

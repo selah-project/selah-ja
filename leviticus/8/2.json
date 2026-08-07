@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "「アハロンとその子らを彼とともに連れて来い。⟨את⟩衣服と、⟨את⟩注ぎの油と、⟨את⟩罪のための雄牛と、⟨את⟩二匹の雄羊と、⟨את⟩種なしパンの籠を⟨取れ⟩。",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アハロン"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その子ら"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "その子ら"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼とともに"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "衣服"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "衣服"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "注ぎの油"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "注ぎの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "雄牛"
+    },
+    {
+      "surface": "פר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "罪のための"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "二匹の雄羊"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二匹の"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "雄羊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "籠"
+    },
+    {
+      "surface": "סל",
+      "gloss": "籠"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "種なしパンの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:33:32.838092567Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "戦いはシャウルに重くのしかかり、弓を持つ者たちである射手が彼を見つけた。そして彼は射手たちによって非常に苦しめられた。",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "重くなった"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戦いは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "彼を見つけた"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "射手たちが"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人々"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "弓を持つ"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "苦しめられた"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "射手たちによって"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:39.654425307Z",
+  "model": "glm-5.2"
+}

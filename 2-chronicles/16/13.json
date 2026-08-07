@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 16:13",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "アサは⟨その⟩先祖たちと共に横たわり、⟨彼⟩は治世の第四十年に、そして第一年に死んだ。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "横たわった"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "アサは"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の先祖たち"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "〜の年に"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "そして一"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "彼の治世の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:36.430070347Z",
+  "model": "glm-5.2"
+}

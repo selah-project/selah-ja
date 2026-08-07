@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして若者シュムエルはエリの前にあってヤハウェに⟨את⟩仕えていた。そしてヤハウェのことばはそれらの日々に希少であった、突き破る幻はなかった。",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "そして若者"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエル"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "仕えていた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "の前にあって"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "エリ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "そしてことば"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "希少"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "日々に"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "それらの"
+    },
+    {
+      "surface": "אין",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "幻"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "突き破る"
+    }
+  ],
+  "timestamp": "2026-08-07T16:43:31.044799882Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "あなたは⟨彼⟩を、彼の家を、彼のすべての持ち物を、周囲から囲んでおではないか。あなたは彼の手の業を祝福し、彼の家畜は地に増え広がっている。",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "את",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "囲んで"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "彼を"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "そして〜を"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "彼の家"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "そして〜を"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼の"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "周囲から"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "業を"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "彼の手の"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "あなたは祝福し"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "そして彼の家畜は"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "増え広がっている"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:44.215194874Z",
+  "model": "glm-5.2"
+}

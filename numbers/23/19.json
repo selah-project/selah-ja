@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 23:19",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "エルは人ではなく、偽ることはない。人の子ではなく、思い返すことはない。⟨彼は⟩語ったのに、行わないことがあろうか。語ったのに、それを成し遂げないことがあろうか。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ではない"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "ויכזב",
+      "gloss": "偽ることはない"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ויתנחם",
+      "gloss": "思い返すことはない"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その方は"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "行う"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יקימנה",
+      "gloss": "成し遂げる"
+    }
+  ],
+  "timestamp": "2026-08-07T10:00:17.825656810Z",
+  "model": "glm-5.2"
+}

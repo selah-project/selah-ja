@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてヤハウェは言われた — 「ソドムとアモラの叫びは大きく、彼らの罪は非常に重い。",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יְהו֔וָה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "זַעֲקַ֛ת",
+      "gloss": "叫び"
+    },
+    {
+      "surface": "סְדֹ֥ם",
+      "gloss": "ソドムと"
+    },
+    {
+      "surface": "וַעֲמֹרָ֖ה",
+      "gloss": "アモラの"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "רָבָ֑ה",
+      "gloss": "大きい"
+    },
+    {
+      "surface": "וְחַטָּאתָ֖ם",
+      "gloss": "そして彼らの罪"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "それは…だから"
+    },
+    {
+      "surface": "כָבְדָ֖ה",
+      "gloss": "重い"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "非常に"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:00.026505202Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ヘベル・ハバリム、コヘレトは言う、ヘベル・ハバリム、すべてはヘベルである。",
+  "tokens": [
+    {
+      "surface": "הֲבֵ֤ל",
+      "gloss": "ヘベル"
+    },
+    {
+      "surface": "הֲבָלִים֙",
+      "gloss": "・ヘバリム（ヘベルの複数）"
+    },
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "言う"
+    },
+    {
+      "surface": "קֹהֶ֔לֶת",
+      "gloss": "コヘレト"
+    },
+    {
+      "surface": "הֲבֵ֥ל",
+      "gloss": "ヘベル"
+    },
+    {
+      "surface": "הֲבָלִ֖ים",
+      "gloss": "・ヘバリム"
+    },
+    {
+      "surface": "הַכֹּ֥ל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "הָֽבֶל",
+      "gloss": "ヘベルである"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:09.645340308Z",
+  "model": "glm-5.2"
+}

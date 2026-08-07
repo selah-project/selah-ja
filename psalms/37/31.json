@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "彼のエロヒムのトーラーは彼の心のうちに、彼の歩みはよろめかない。",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "トーラー"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "彼のエロヒムの"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "彼の心のうちに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "よろめかない"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "彼の歩みは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:23.367603090Z",
+  "model": "glm-5.2"
+}

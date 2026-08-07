@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "あなたの憤りと、あなたの激怒のゆえに。あなたが私を高く持ち上げ、私を投げ捨てたからだ。",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "あなたの憤りと"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "あなたの激怒の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "あなたは私を高く持ち上げ"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "私を投げ捨てた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:20.594870202Z",
+  "model": "glm-5.2"
+}

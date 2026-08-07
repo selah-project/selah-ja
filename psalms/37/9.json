@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "悪をなす者は断ち切られ、ヤハウェを待ち望む者、彼らこそが地を相続する。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "מְ֭רֵעִים",
+      "gloss": "悪をなす者"
+    },
+    {
+      "surface": "יִכָּרֵת֑וּן",
+      "gloss": "断ち切られる"
+    },
+    {
+      "surface": "וְקֹוֵ֥י",
+      "gloss": "…を待ち望む者"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הֵ֣מָּה",
+      "gloss": "彼らこそ"
+    },
+    {
+      "surface": "יִֽירְשׁוּ",
+      "gloss": "相続する"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:40.357161700Z",
+  "model": "glm-5.2"
+}

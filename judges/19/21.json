@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 19:21",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "彼は彼を自分の家に連れて入り、ろばに飼い葉を与えた。彼らは足を洗い、食べ、飲んだ。",
+  "tokens": [
+    {
+      "surface": "ויביאהו",
+      "gloss": "彼は彼を連れて入れた"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "自分の家に"
+    },
+    {
+      "surface": "ויבול",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "לחמורים",
+      "gloss": "ろばに"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "彼らは洗った"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "彼らの足を"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "食べた"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "飲んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:38:24.814029096Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてシャウルのしもべたちは彼に言った。「見よ、どうか、エロヒムからの悪い霊があなたを恐怖させています。」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "しもべたち"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "あなたを恐怖させている"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:32.262278213Z",
+  "model": "glm-5.2"
+}

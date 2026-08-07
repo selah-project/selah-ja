@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "「私の民に下るであろう⟨את⟩悪を見て、どうして私は耐えられようか。私の親族の滅びを見て、どうして私は耐えられようか。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "どうして"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "私ができようか"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "そして私が見る"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "悪に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜が"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "下るであろう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の民"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "私の民"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "そしてどうして"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "私ができようか"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "そして私が見る"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "滅びに"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "私の親族の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:43:43.639403297Z",
+  "model": "glm-5.2"
+}

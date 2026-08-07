@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 20:2",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "彼に言った。「とんでもない、あなたは死なない。見よ、父が大きな事でも小さな事でも行うとき、⟨私の⟩耳に告げ知らせないことはない。なぜ父が私からこの事を隠すだろうか。そのようなことはない。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "とんでもない"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "あなたは死のう"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "〜ない（否定不定詞）"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行う"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "父は"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事を"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大きな"
+    },
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事を"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "小さな"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "告げ知らせる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の耳"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "私の耳に"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "そしてなぜ"
+    },
+    {
+      "surface": "יסתיר",
+      "gloss": "隠すのだろうか"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "父は"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私から"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この事"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "事を"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "אין",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "そのようなことは"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:47.910733909Z",
+  "model": "glm-5.2"
+}

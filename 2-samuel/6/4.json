@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 6:4",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "彼らはそれをギブアにあるアビナダブの家から拾い上げた — エロヒムの箱と共に — そしてアヒヨは箱の前を歩いていた。",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "そして彼らは彼を拾い上げた"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "〜の家から"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "アビナダブ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこにある"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "ギブアに"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "そしてアヒヨ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "歩いていた"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前を"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "その箱"
+    }
+  ],
+  "timestamp": "2026-08-07T16:45:52.177297318Z",
+  "model": "glm-5.2"
+}

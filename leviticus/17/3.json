@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "イスラエルの家からの人、だれでも、宿営の中で牛、または羊、または山羊を屠る者、あるいは宿営の外で屠る者 — ",
+  "tokens": [
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "人"
+    },
+    {
+      "surface": "אִישׁ֙",
+      "gloss": "だれでも"
+    },
+    {
+      "surface": "מִבֵּ֣ית",
+      "gloss": "〜の家から"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יִשְׁחַ֜ט",
+      "gloss": "屠る"
+    },
+    {
+      "surface": "שׁ֥וֹר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "אוֹ",
+      "gloss": "または"
+    },
+    {
+      "surface": "כֶ֛שֶׂב",
+      "gloss": "羊"
+    },
+    {
+      "surface": "אוֹ",
+      "gloss": "または"
+    },
+    {
+      "surface": "עֵ֖ז",
+      "gloss": "山羊"
+    },
+    {
+      "surface": "בַּֽמַּחֲנֶ֑ה",
+      "gloss": "宿営の中で"
+    },
+    {
+      "surface": "א֚וֹ",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יִשְׁחַ֔ט",
+      "gloss": "屠る"
+    },
+    {
+      "surface": "מִח֖וּץ",
+      "gloss": "外で"
+    },
+    {
+      "surface": "לַֽמַּחֲנֶֽה",
+      "gloss": "宿営の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:43.223336299Z",
+  "model": "glm-5.2"
+}

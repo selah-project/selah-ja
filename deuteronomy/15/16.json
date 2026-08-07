@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そしてこうなる。彼があなたに、「私はあなたのもとから出て行かない」と言うなら。それは彼があなたと⟨את⟩あなたの家を愛しているからであり、あなたと共にいるのが彼にとって良いからである。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そしてこうなる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜なら"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "彼が言う"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "私は出て行く"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "あなたのもとから"
+    },
+    {
+      "surface": "כי",
+      "gloss": "それは〜だからだ"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "彼はあなたを愛している"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの家"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "あなたの家"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼にとって"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたと共にいるのが"
+    }
+  ],
+  "timestamp": "2026-08-07T10:13:52.664335436Z",
+  "model": "glm-5.2"
+}

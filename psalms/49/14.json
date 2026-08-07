@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "これが彼らの道、彼らのために⟨ある⟩愚かさ。そして彼らの後に⟨来る者たちは⟩彼らの口の言葉に満足する。セラ。",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "これが"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "彼らの道"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "愚かさ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼らのために"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "そして彼らの後に"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "彼らの口の"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "満足する"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:57.487092473Z",
+  "model": "glm-5.2"
+}

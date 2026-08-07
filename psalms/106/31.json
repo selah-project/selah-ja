@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "そしてそれは彼に義として算えられた、世々から永遠まで。",
+  "tokens": [
+    {
+      "surface": "וַתֵּחָ֣שֶׁב",
+      "gloss": "そして算えられた"
+    },
+    {
+      "surface": "ל֭וֹ",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "לִצְדָקָ֑ה",
+      "gloss": "義として"
+    },
+    {
+      "surface": "לְדֹ֥ר",
+      "gloss": "世代に"
+    },
+    {
+      "surface": "וָ֝דֹ֗ר",
+      "gloss": "世代へ"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "עוֹלָֽם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:27.948716142Z",
+  "model": "glm-5.2"
+}

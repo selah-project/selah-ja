@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "もし⟨その⟩雄牛が奴隷または女奴隷を突くなら、銀三十シェケルをその主人に与えなければならず、その雄牛は石で打たれなければならない。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴隷"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "突く"
+    },
+    {
+      "surface": "השור",
+      "gloss": "その雄牛が"
+    },
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "女奴隷"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "シェケル"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与えなければならない"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "その主人に"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "その雄牛は"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "石で打たれる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:01.566749828Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼の長子イェテルに言った。「立って、⟨彼らを⟩殺せ。」しかし、若者は剣を抜かなかった。彼は恐れたからである。彼はまだ若者であった。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "～に"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "彼の長子"
+    },
+    {
+      "surface": "קום",
+      "gloss": "立って"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "殺せ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし～なかった"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "抜いた"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "若者は"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "彼の剣を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～だから"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "彼は恐れた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～だから"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "彼はまだ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "若者であった"
+    }
+  ],
+  "timestamp": "2026-08-07T10:34:29.310027295Z",
+  "model": "glm-5.2"
+}

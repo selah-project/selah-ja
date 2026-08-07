@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 9:9",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "彼らは深くまで腐敗した、ギブアの日々のように。彼らの不義をヤハウェは思い出す、彼らの罪を罰せられる。",
+  "tokens": [
+    {
+      "surface": "העמיקו",
+      "gloss": "深くまで"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "腐敗した"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "〜の日々のように"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "ギブア"
+    },
+    {
+      "surface": "יזכור",
+      "gloss": "思い出す"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "彼らの不義"
+    },
+    {
+      "surface": "יפקוד",
+      "gloss": "罰せられる"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "彼らの罪"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:40.571561294Z",
+  "model": "glm-5.2"
+}

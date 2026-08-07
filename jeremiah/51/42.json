@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "海がバビロンの上にのぼった。その波の轟きによって覆われた。",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "のぼった"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロン"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海が"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "轟きによって"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "その波の"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "覆われた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:59:33.207508014Z",
+  "model": "glm-5.2"
+}

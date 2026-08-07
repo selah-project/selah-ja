@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして彼の後にヤイル — ギルアデの人 — が立ち上がり、⟨את⟩イスラエルを裁いた — 二十二年間。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして立った"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "彼の後に"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ヤイル"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "ギルアデの人"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "そして彼は裁いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "と二"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年間"
+    }
+  ],
+  "timestamp": "2026-08-07T10:35:12.905279636Z",
+  "model": "glm-5.2"
+}

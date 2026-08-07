@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 101,
+  "translation": "密かに隣人を中傷する者、それを⟨את⟩私は根絶する。目の高ぶる者と心の広がる者、それを⟨את⟩私は耐えられない。",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "中傷する者"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "密かに"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "隣人を"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "私は根絶する"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "高ぶる"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "目の"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "広がる"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心の"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "私は耐えられ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:31.125687247Z",
+  "model": "glm-5.2"
+}

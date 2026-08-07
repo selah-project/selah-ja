@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 2:2",
+  "book": "nahum",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "打ち砕く者がお前の御顔に向かって上って来た。要塞を守れ、道を見張れ、腰を強くせよ、力を大いに奮い立たせよ。",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "上って来た"
+    },
+    {
+      "surface": "מפיץ",
+      "gloss": "打ち砕く者が"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に向かって"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "お前の御顔"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "守れ"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "要塞を"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "見張れ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道を"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "強くせよ"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "腰を"
+    },
+    {
+      "surface": "אמץ",
+      "gloss": "奮い立たせよ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力を"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大いに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:28:05.702979255Z",
+  "model": "glm-5.2"
+}

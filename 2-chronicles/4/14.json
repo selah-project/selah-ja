@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして⟨את⟩台座を、彼は造った。そして⟨את⟩洗盤を、彼は台座の上に造った。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "台座"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "台座"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "彼は造った"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "洗盤"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "洗盤"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "彼は造った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "台座"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:25.399147622Z",
+  "model": "glm-5.2"
+}

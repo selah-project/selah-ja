@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして、ヤハウェのことばに心を向けなかった者は、⟨את⟩自分のしもべたちと⟨את⟩自分の家畜を野に残した。",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "そして〜という者"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שם",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "彼の心"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "そして残した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分のしもべたち"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "自分のしもべたち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "自分の家畜"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "自分の家畜"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "野に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:45.244405891Z",
+  "model": "glm-5.2"
+}

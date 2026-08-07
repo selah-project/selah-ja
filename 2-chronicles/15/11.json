@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 15:11",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして彼らはその日、ヤハウェにいけにえを献げた。彼らが持ち帰った分捕り物の中から、牛七百と羊七千を。",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "そして彼らは献げた"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～の中から"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "分捕り物"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "彼らが持ち帰った"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "と羊"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:03.754785462Z",
+  "model": "glm-5.2"
+}

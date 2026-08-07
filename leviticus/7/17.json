@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして、第三日に犠牲の肉から残ったものは、火で焼かれる。",
+  "tokens": [
+    {
+      "surface": "וְהַנּוֹתָ֖ר",
+      "gloss": "そして残ったもの"
+    },
+    {
+      "surface": "מִבְּשַׂ֣ר",
+      "gloss": "肉から"
+    },
+    {
+      "surface": "הַזָּ֑בַח",
+      "gloss": "犠牲の"
+    },
+    {
+      "surface": "בַּיּוֹם֙",
+      "gloss": "日に"
+    },
+    {
+      "surface": "הַשְּׁלִישִׁ֔י",
+      "gloss": "第三"
+    },
+    {
+      "surface": "בָּאֵ֖שׁ",
+      "gloss": "火で"
+    },
+    {
+      "surface": "יִשָּׂרֵֽף",
+      "gloss": "焼かれる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:02.805087684Z",
+  "model": "glm-5.2"
+}

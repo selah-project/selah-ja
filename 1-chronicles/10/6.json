@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "こうしてシャウルは死に、彼の三人の息子たち、また彼の全家も共に死んだ。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "こうして…死んだ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "そして三人の"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "彼の息子たち"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "またすべての"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "彼の家"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "共に"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "死んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:24.253499869Z",
+  "model": "glm-5.2"
+}

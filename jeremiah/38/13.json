@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 38:13",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そして彼らは綱で⟨את⟩エルミヤを引き上げ、彼を穴から引き上げた。そしてエルミヤは監視の庭に住んだ。",
+  "tokens": [
+    {
+      "surface": "וימשכו",
+      "gloss": "そして彼らは引き上げた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エルミヤ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "エルミヤ"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "綱で"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "そして彼らは上がらせた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩彼を",
+      "marks": "彼を"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "穴"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして住んだ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "エルミヤ"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "庭に"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "監視の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:54:04.514116825Z",
+  "model": "glm-5.2"
+}

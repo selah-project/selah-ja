@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "サウルと彼ら、およびすべてイスラエルの男は、エラの谷で、ペリシテ人と戦っていた。",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "そしてサウル"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "彼ら"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "およびすべて"
+    },
+    {
+      "surface": "איש",
+      "gloss": "〜の男"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "谷で"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "エラの"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "戦っていた"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:40.389840696Z",
+  "model": "glm-5.2"
+}

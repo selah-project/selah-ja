@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてヤハウェは民の中に⟨את⟩燃える蛇たちを送られた。そして⟨それら⟩は民を噛んだ。そしてイスラエルから多くの民が死んだ。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…送られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "民の中に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燃える蛇たち"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "蛇たち"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "燃える"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "そして…噛んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民を"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして…死んだ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民が"
+    },
+    {
+      "surface": "רב",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "イスラエルから"
+    }
+  ],
+  "timestamp": "2026-08-07T14:24:05.376821432Z",
+  "model": "glm-5.2"
+}

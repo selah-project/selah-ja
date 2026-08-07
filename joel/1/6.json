@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 1:6",
+  "book": "joel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ある国が — 数えきれないほど強大な国が、わたしの地の上に攻め上ったからだ。その歯は獅子の歯、雌獅子の牙が⟨それ⟩にはある。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "国が"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "攻め上った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "わたしの地"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "強大な"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "数が"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "その歯は"
+    },
+    {
+      "surface": "שני",
+      "gloss": "〜の歯"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "ומתלעות",
+      "gloss": "そして牙"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "雌獅子の"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨それ⟩にはある"
+    }
+  ],
+  "timestamp": "2026-08-07T12:20:27.981785115Z",
+  "model": "glm-5.2"
+}

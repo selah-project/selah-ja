@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 33:18",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "ヤアコブは無事にシェケムの町⟨に⟩来た — それはカナンの地にある — パッダン・アラムから来たときであった。そして⟨彼は⟩その町の面前⟨に⟩幕営した。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブは"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "無事に"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "シェケムの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地にある"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "カナンの"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "来たときであった"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "パッダンから"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラムの"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "そして幕営した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その町の面前"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:27.355694754Z",
+  "model": "glm-5.2"
+}

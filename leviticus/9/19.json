@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして ⟨את⟩ 脂肪を——雄牛から、そして雄羊から——脂肪の尾と内臓を覆うものと腎臓と肝臓の小葉を。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "脂肪"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "השור",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "そして〜から"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "雄羊"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "脂肪の尾"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "そして覆うもの"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "そして腎臓"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "そして小葉"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "肝臓の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:43.263797431Z",
+  "model": "glm-5.2"
+}

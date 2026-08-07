@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 39:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "あなたから出てくるあなたの子ら、あなたが産む者たちが連れ去られる。彼らはバヴェルの王の宮殿で宮廷人となる。」",
+  "tokens": [
+    {
+      "surface": "ומבניך",
+      "gloss": "そしてあなたの子らのうちから"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜者たち"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出てくる"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "あなたから"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜者たち"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "あなたが産む"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "連れ去られる"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "そして彼らは〜となる"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "宮廷人"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "宮殿で"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バヴェルの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:29:37.235430511Z",
+  "model": "glm-5.2"
+}

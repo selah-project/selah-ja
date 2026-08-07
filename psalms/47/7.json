@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "エロヒムに向かって歌え、歌え、歌え、わたしたちの王に向かって、歌え。",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "歌え"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムに向かって"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "歌え"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "歌え"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "わたしたちの王に向かって"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "歌え"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:16.277569379Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "人のすべての労苦のうちに、太陽の下で労する⟨ことの⟩、何の益が⟨あるのか⟩。",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "何の"
+    },
+    {
+      "surface": "יִּתְר֖וֹן",
+      "gloss": "益"
+    },
+    {
+      "surface": "לָֽאָדָ֑ם",
+      "gloss": "人に"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "すべての…のうちに"
+    },
+    {
+      "surface": "עֲמָל֔וֹ",
+      "gloss": "彼の労苦"
+    },
+    {
+      "surface": "שֶֽׁיַּעֲמֹ֖ל",
+      "gloss": "彼が労する"
+    },
+    {
+      "surface": "תַּ֥חַת",
+      "gloss": "…の下で"
+    },
+    {
+      "surface": "הַשָּֽׁמֶשׁ",
+      "gloss": "太陽"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:09.645463019Z",
+  "model": "glm-5.2"
+}

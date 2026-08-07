@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ヤハウェは⟨回復された⟩、⟨את⟩ヤコブの誇りを、イスラエルの誇りのように。emptiersが彼らをemptied-outしたからである、そして彼らのvine-branchesを彼らはruined。",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "​​"
+    },
+    {
+      "surface": "שָׁ֤ב",
+      "gloss": "回復された"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤコブの誇り"
+    },
+    {
+      "surface": "גְּא֣וֹן",
+      "gloss": "誇り"
+    },
+    {
+      "surface": "יַעֲקֹ֔ב",
+      "gloss": "ヤコブの"
+    },
+    {
+      "surface": "כִּגְא֖וֹן",
+      "gloss": "…の誇りのように"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "בְקָקוּם֙",
+      "gloss": "彼らをemptied-outした"
+    },
+    {
+      "surface": "בֹּֽקְקִ֔ים",
+      "gloss": "emptiersが"
+    },
+    {
+      "surface": "וּזְמֹרֵיהֶ֖ם",
+      "gloss": "彼らのvine-branchesを"
+    },
+    {
+      "surface": "שִׁחֵֽתוּ",
+      "gloss": "ruined"
+    }
+  ],
+  "timestamp": "2026-08-07T18:38:35.827517409Z",
+  "model": "glm-5.2"
+}

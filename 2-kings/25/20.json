@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてネブザルアダン、衛兵長は⟨את⟩彼ら⟨を⟩捕え、⟨את⟩彼ら⟨を⟩連れて行った、バビロの王のもとへ、リブラテへ。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして…捕えた"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "ネブザルアダン"
+    },
+    {
+      "surface": "רב",
+      "gloss": "長"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "衛兵"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして…連れて行った"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "על",
+      "gloss": "…のもとへ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロの"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "リブラテ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:25.650130225Z",
+  "model": "glm-5.2"
+}

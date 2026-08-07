@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "年に三度、あなたのすべての男子は主権者ヤハウェの御顔に⟨向かって⟩現れなければならない。",
+  "tokens": [
+    {
+      "surface": "שָׁלֹ֥שׁ",
+      "gloss": "三"
+    },
+    {
+      "surface": "פְּעָמִ֖ים",
+      "gloss": "度"
+    },
+    {
+      "surface": "בַּשָּׁנָ֑ה",
+      "gloss": "年に"
+    },
+    {
+      "surface": "יֵרָאֶה֙",
+      "gloss": "現れなければならない"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "זְכ֣וּרְךָ֔",
+      "gloss": "あなたの男子"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "פְּנֵ֖י",
+      "gloss": "御顔"
+    },
+    {
+      "surface": "הָאָדֹ֥ן",
+      "gloss": "主権者"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:28.450683747Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 144,
+  "translation": "ダビデの⟨詩⟩。祝福される、ヤハウェ、わが岩。わたしの手を戦い⟨のために⟩教える方、わたしの指を合戦⟨のために⟩。",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "祝福される"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "わが岩"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "教える方"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "わたしの手を"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "戦い"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "わたしの指を"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "合戦"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:47.743518724Z",
+  "model": "glm-5.2"
+}

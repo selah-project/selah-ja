@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてエロヒムはアブラハムに言った。「あなたの妻サライ—あなたは彼女の名をサライと呼んではならない。サラが彼女の名だからである。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "サライ"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "あなたの妻"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "あなたは呼んでは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼女の名"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "彼女の名を"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "サライ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "サラ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "彼女の名は"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:57.894997153Z",
+  "model": "glm-5.2"
+}

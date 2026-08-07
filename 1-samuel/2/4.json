@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "勇士たちの弓は折り砕かれ、つまずく者たちは力を帯で締めた。",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "勇士たちの"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "折り砕かれ"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "そしてつまずく者たちは"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "帯で締めた"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "力を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:39:35.045796060Z",
+  "model": "glm-5.2"
+}

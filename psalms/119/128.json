@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "それゆえ、あなたのすべての規定を — すべて ⟨について⟩ — わたしは正しいとみなした。すべての偽りの道を、わたしは憎んだ。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "あなたの規定を"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "わたしは正しいとみなした"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "道を"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りの"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "わたしは憎んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:59.417402389Z",
+  "model": "glm-5.2"
+}

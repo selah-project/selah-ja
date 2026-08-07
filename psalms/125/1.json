@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 125,
+  "translation": "上りの歌。ヤハウェに信頼する者たち⟨は⟩、ツィヨンの山のようだ — 揺らぐことはない、とこしえに住み続ける。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上りの"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "信頼する者たち"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "〜の山のようだ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨン"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "揺らぐことは"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "住み続ける"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:06.778465575Z",
+  "model": "glm-5.2"
+}

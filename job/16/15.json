@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "荒布を私の肌の上に縫い付け、ちりの中に私の角を転がした。",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "荒布を"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "縫い付けた"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "私の肌の"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "そして転がした"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ちりの中に"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "私の角を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:24:35.275823592Z",
+  "model": "glm-5.2"
+}

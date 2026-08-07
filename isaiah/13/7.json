@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "それゆえ、すべての手はたるみ、すべての人の心は溶ける。",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "כֵּ֖ן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "יָדַ֣יִם",
+      "gloss": "手"
+    },
+    {
+      "surface": "תִּרְפֶּ֑ינָה",
+      "gloss": "たるむ"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "とすべての"
+    },
+    {
+      "surface": "לְבַ֥ב",
+      "gloss": "心"
+    },
+    {
+      "surface": "אֱנ֖וֹשׁ",
+      "gloss": "人の"
+    },
+    {
+      "surface": "יִמָּס",
+      "gloss": "溶ける"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:32.255847520Z",
+  "model": "glm-5.2"
+}

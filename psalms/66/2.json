@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "御名の栄光を琴でほめ歌え。⟨御⟩誉れを輝かしいものとして置け。",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "琴でほめ歌え"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "栄光を"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "御名の"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "置け"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "輝かしいものとして"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "⟨御⟩誉れを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:58.382069470Z",
+  "model": "glm-5.2"
+}

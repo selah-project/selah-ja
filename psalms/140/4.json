@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 140,
+  "translation": "彼らは舌を研ぎ澄ませた、蛇のように。コブラの毒が ⟨彼らの⟩ 唇の下に。セラ。",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "彼らは……研ぎ澄ませた"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "舌を"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "～のように"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "毒"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "コブラの"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "……の下に"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "唇の"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:28.729011922Z",
+  "model": "glm-5.2"
+}

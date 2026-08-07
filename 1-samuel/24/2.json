@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 24:2",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして⟨こう⟩だった — サウルがペリシテ人の後ろから戻ったとき — ⟨彼ら⟩は彼に告げて言った。「見よ、ダビドはエン・ゲディの荒野に⟨いる⟩。」",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして⟨こう⟩だった"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のとき"
+    },
+    {
+      "surface": "שב",
+      "gloss": "戻った"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウルが"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "〜の後ろから"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人の"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "⟨彼ら⟩は告げた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野に"
+    },
+    {
+      "surface": "עין",
+      "gloss": "エン・"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ゲディの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:24.007965880Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 30:27",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "ベート・エルにいる者たちへ、そしてネゲブのラモトにいる者たちへ、そしてヤッティルにいる者たちへ。",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "…にいる者たちへ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "…に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ベート・エル"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "そして…にいる者たちへ"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "…に"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ネゲブのラモト"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "そして…にいる者たちへ"
+    },
+    {
+      "surface": "ביתר",
+      "gloss": "ヤッティルに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:13.960955689Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 77,
+  "translation": "厚い雲々は水を注ぎ出した。もろもろの空は声を放った。またあなたの矢々は行き来した。",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "注ぎ出した"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "厚い雲々は"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声を"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "放った"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "もろもろの空は"
+    },
+    {
+      "surface": "אף",
+      "gloss": "また"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "あなたの矢々は"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "行き来した"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:58.261457475Z",
+  "model": "glm-5.2"
+}

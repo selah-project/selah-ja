@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして彼は⟨את⟩その机をアカシヤ材で作った——その長さは二キュビト、その幅は一キュビト、その高さは一キュビト半⟨であった⟩。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は作った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その机を"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "その机を"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "〜の材で"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "アカシア"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "二キュビト"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "その長さは"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "そして一キュビト"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "その幅は"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "そして一キュビト"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "と半"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "その高さは"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:33.001106912Z",
+  "model": "glm-5.2"
+}

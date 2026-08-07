@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "ヤハウェ、⟨天に⟩あるあなたのヘセド、あなたの真実さは雲にまで及ぶ。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "天に"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "あなたのヘセド"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "あなたの真実さ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜にまで及ぶ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "雲"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:32.267597543Z",
+  "model": "glm-5.2"
+}

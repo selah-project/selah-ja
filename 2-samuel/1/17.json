@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ダビデは哀歌を歌った、⟨את⟩この哀歌を、シャウルとその子ヤホナタンについて。",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "哀歌を歌った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この哀歌"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "哀歌"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "על",
+      "gloss": "について"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "と〜について"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ヤホナタン"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:21.430438422Z",
+  "model": "glm-5.2"
+}

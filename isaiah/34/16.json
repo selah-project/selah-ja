@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 34:16",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "ヤハウェの書から探し求めよ、そして読め。これらのうち一つも欠けるものはなく、雌はその仲間を欠くことがない。まことに御口がそれを命じ、御霊がそれらを集めたからだ。",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "探し求めよ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "書"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "そして読め"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一つ"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "これらのうち"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נעדרה",
+      "gloss": "欠ける"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "雌は"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "その仲間を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "欠く"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに〜だからだ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "御口が"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それが"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "ורוחו",
+      "gloss": "と御霊が"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それが"
+    },
+    {
+      "surface": "קבצן",
+      "gloss": "集めた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:29:44.558641433Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "彼は海を裂き、彼らを通らせ、水を堆のように立たせた。",
+  "tokens": [
+    {
+      "surface": "בָּ֣קַע",
+      "gloss": "裂き"
+    },
+    {
+      "surface": "יָ֭ם",
+      "gloss": "海を"
+    },
+    {
+      "surface": "וַיַּֽעֲבִירֵ֑ם",
+      "gloss": "彼らを通らせ"
+    },
+    {
+      "surface": "וַֽיַּצֶּב",
+      "gloss": "立たせた"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "水を"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "のように"
+    },
+    {
+      "surface": "נֵֽד",
+      "gloss": "堆"
+    }
+  ],
+  "timestamp": "2026-08-07T12:54:31.621419779Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "「あなたは私を仮庵に隠されるから、悪の日には、⟨私⟩をご自身の天幕の隠れ場に隠し、岩の上に私を高く上げられる。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "あなたは私を隠される"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "仮庵に"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "⟨私⟩を隠される"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "隠れ場に"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ご自身の天幕の"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "岩の上に"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "私を高く上げられる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:12.679285969Z",
+  "model": "glm-5.2"
+}

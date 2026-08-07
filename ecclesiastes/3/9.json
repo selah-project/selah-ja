@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "働く者は、自らが労している事において、何の益を⟨得る⟩のか。",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "何の"
+    },
+    {
+      "surface": "יִּתְרוֹן֙",
+      "gloss": "益"
+    },
+    {
+      "surface": "הָֽעוֹשֶׂ֔ה",
+      "gloss": "働く者は"
+    },
+    {
+      "surface": "בַּאֲשֶׁ֖ר",
+      "gloss": "〜において"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "עָמֵֽל",
+      "gloss": "労している"
+    }
+  ],
+  "timestamp": "2026-08-07T17:30:01.239037475Z",
+  "model": "glm-5.2"
+}

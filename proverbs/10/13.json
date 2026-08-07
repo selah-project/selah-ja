@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 10:13",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "悟る者の唇に ⟨は⟩ 知恵が見いだされる、そして杖は心に欠ける者の背のために ⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "〜の唇に"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "悟る者の"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "見いだされる"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "そして杖は"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "〜の背のために"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "欠ける"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:32.084501150Z",
+  "model": "glm-5.2"
+}

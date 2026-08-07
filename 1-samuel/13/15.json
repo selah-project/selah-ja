@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "シャムエルは立ち上がり、ギルガルからベニヤミンのギブアへ上った。シャウルは自分とともにいる ⟨את⟩ 民を点検した。六百人であった。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "立ち上がり"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シャムエルは"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "上った"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ギルガル"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ギブアへ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ベニヤミンの"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "点検した"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民を"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "いる"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "自分とともに"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:02.083905962Z",
+  "model": "glm-5.2"
+}

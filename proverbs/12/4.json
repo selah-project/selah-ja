@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "力ある妻はその夫の冠。しかし恥をもたらす⟨者⟩はその骨の中の腐敗のようである。",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "〜の妻"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "力ある"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "冠"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "その夫の"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "しかし腐敗のようである"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "その骨の中の"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "恥をもたらす者"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:46.305529279Z",
+  "model": "glm-5.2"
+}

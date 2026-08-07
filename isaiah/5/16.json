@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 5:16",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そしてヤハウェ・ツェバオトは裁きによって高く上げられ、聖なるエルは義によって聖とされる。",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "高く上げられ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ツェバオトは"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "裁きによって"
+    },
+    {
+      "surface": "והאל",
+      "gloss": "そして〜エルは"
+    },
+    {
+      "surface": "הקדוש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "נקדש",
+      "gloss": "聖とされる"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "義によって"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:18.902918316Z",
+  "model": "glm-5.2"
+}

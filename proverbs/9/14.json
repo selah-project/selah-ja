@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして彼女は自分の家の入口に座り、町の高所の席に ⟨座る⟩。",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "そして彼女は座る"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "入口に"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "彼女の家の"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "席"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "高所の"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "町"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:07.014493939Z",
+  "model": "glm-5.2"
+}

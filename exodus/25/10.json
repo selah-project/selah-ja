@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして彼らはアカシア材の箱を造らなければならない。その長さは二キュビト半、その幅は一キュビト半、その高さは一キュビト半。",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "そして彼らは造らなければならない"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱を"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "…の材の"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "アカシア"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "二キュビト"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "と半"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "その長さ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "一キュビト"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "と半"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "その幅"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "一キュビト"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "と半"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "その高さ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:17.615512087Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして彼女は王に言った——私の国で聞いた、あなたの事とあなたの知恵についての⟨その⟩言葉は、真実であった",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "そして彼女は言った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真実"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "その言葉"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "私が聞いた"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "私の国で"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "あなたの事"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "と〜について"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "あなたの知恵"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:22.074488255Z",
+  "model": "glm-5.2"
+}

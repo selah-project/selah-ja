@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてアハロンの子らは⟨את⟩それを祭壇の上で、燃やされる供物の上で、火の上にある木の上で、香として焼く。それはヤハウェへの安らぎの香りである、火による供物として。",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "そして…焼く"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "祭壇の上で"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上で"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の供物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "木"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火による供物"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "…の香り"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "安らぎの"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェへの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:31:01.898972646Z",
+  "model": "glm-5.2"
+}

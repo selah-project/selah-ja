@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "アブラムは行った。ヤハウェが彼に語られた通りであった。ロトも彼と共に行った。アブラムはハランを出たとき七十五年の歳であった。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "〜は行った"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "アブラムは"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜の通りに"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "〜も行った"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ロトは"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "アブラムは"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の歳で"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歳"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "出たとき"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "ハランを"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:15.870039598Z",
+  "model": "glm-5.2"
+}

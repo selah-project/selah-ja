@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "「わたしはわたしの契約をわたしとあなたの間に立てる。そしてあなたを極めて多くする。」",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "わたしは…立てる"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "わたしの契約を"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "わたしと"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "あなたの間に"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "そして…多くする"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "あなた"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "極めて"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "多く"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:53.826984558Z",
+  "model": "glm-5.2"
+}

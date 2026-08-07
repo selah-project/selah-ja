@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 10:17",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてイスラエルの光は火となり、その聖なる方は炎となる。そしてそれは燃え上がり、彼の茨と彼の薊を一日のうちに焼き尽くす。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "火として"
+    },
+    {
+      "surface": "וקדושו",
+      "gloss": "そしてその聖なる方は"
+    },
+    {
+      "surface": "ללהבה",
+      "gloss": "炎として"
+    },
+    {
+      "surface": "ובערה",
+      "gloss": "そして燃え上がり"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "そして焼き尽くす"
+    },
+    {
+      "surface": "שיתו",
+      "gloss": "彼の茨を"
+    },
+    {
+      "surface": "ושמירו",
+      "gloss": "そして彼の薊を"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "一日の"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "うちに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:11.912035100Z",
+  "model": "glm-5.2"
+}

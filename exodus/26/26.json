@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 26:26",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そしてあなたは横木を、アカシヤ材の、五本、幕屋の一面の板のために作る。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "そしてあなたは…を作る"
+    },
+    {
+      "surface": "בריחם",
+      "gloss": "横木"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "…の材"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "アカシヤ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "…の板のために"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "側面"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋の"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一つの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:13.716707974Z",
+  "model": "glm-5.2"
+}

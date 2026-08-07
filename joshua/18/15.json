@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 18:15",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして南の方角はキルヤト・エアルムの端から⟨始まり⟩、境界は西へ出て、ネフトアハの水の泉へ出た。",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "そして方角は"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "南の"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "〜の端から"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "キルヤト"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "エアルム"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして出た"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "境界は"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "西へ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして出た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "泉"
+    },
+    {
+      "surface": "מי",
+      "gloss": "〜の水"
+    },
+    {
+      "surface": "נפתוח",
+      "gloss": "ネフトアハ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:29:08.211881487Z",
+  "model": "glm-5.2"
+}

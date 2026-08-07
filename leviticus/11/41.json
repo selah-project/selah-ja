@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして地の上を這うすべての這うものは忌み物である — それは食べてはならない",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "這うもの"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "這う"
+    },
+    {
+      "surface": "על",
+      "gloss": "の上を"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "忌み物"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨それ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べられては"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:44.555415599Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 27:8",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "巣からさまよい出る鳥のように——そのように、自分の場所からさまよい出る人は⟨そのようだ⟩。",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "鳥のように"
+    },
+    {
+      "surface": "נודדת",
+      "gloss": "さまよい出る"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "巣"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "さまよい出る"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "自分の場所から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:06.984866458Z",
+  "model": "glm-5.2"
+}

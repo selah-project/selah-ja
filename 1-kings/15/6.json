@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 15:6",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして戦争がレハヴァムとヤロヴァムとの間にあった、その生涯の全日において。",
+  "tokens": [
+    {
+      "surface": "וּמִלְחָמָ֨ה",
+      "gloss": "そして戦争"
+    },
+    {
+      "surface": "הָיְתָ֧ה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "בֵין",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "רְחַבְעָ֛ם",
+      "gloss": "レハヴァム"
+    },
+    {
+      "surface": "וּבֵ֥ין",
+      "gloss": "〜との間に"
+    },
+    {
+      "surface": "יָרָבְעָ֖ם",
+      "gloss": "ヤロヴァム"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "全"
+    },
+    {
+      "surface": "יְמֵ֥י",
+      "gloss": "〜の日々"
+    },
+    {
+      "surface": "חַיָּֽיו",
+      "gloss": "彼の生涯"
+    }
+  ],
+  "timestamp": "2026-08-07T11:06:54.611964600Z",
+  "model": "glm-5.2"
+}

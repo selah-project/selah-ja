@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして今、私の父はあなたたちに重い首木を負わせたが、私はあなたたちの首木に加えよう。私の父は鞭であなたたちを懲らしめたが、私は蠍であなたたちを懲らしめる。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "私の父は"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "負わせた"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "あなたたちに"
+    },
+    {
+      "surface": "על",
+      "gloss": "首木を"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "重い"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "加えよう"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "あなたたちの首木"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "私の父は"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "懲らしめた"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ あなたたちを",
+      "marks": "鞭で"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "鞭で"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "懲らしめる"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ あなたたちを",
+      "marks": "蠍で"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "蠍で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:03:57.888495461Z",
+  "model": "glm-5.2"
+}

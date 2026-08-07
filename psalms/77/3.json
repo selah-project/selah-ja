@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 77,
+  "translation": "苦しみの日に私はアドナイを尋ね求めた。夜、私の手は伸ばされ、衰えることがなかった。私のナフシュは慰められることを拒んだ。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "日に"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "私の苦しみの"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイを"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "私は尋ね求めた"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "私の手は"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "伸ばされ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "衰える"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "拒んだ"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "慰められること"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私のナフシュは"
+    }
+  ],
+  "timestamp": "2026-08-07T18:40:48.042479058Z",
+  "model": "glm-5.2"
+}

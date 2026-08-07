@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "アルナンは振り向いた。そして⟨את⟩御使いを見た。彼と共にいた彼の四人の息子たちは身を隠していた。アルナンは小麦を打っていた。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして振り向いた"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "アルナンは"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "御使いを"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "御使い"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "そして四人の"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "彼の息子たちは"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共にいた"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "身を隠していた"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "そしてアルナンは"
+    },
+    {
+      "surface": "דש",
+      "gloss": "打っていた"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "小麦を"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:20.056561224Z",
+  "model": "glm-5.2"
+}

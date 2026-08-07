@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 50:43",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "バビロンの王は⟨את⟩彼らの噂を聞き、その両手は弱った。苦悩が彼を捕らえた。陣痛が、産む女の⟨ように⟩。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "聞き"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロンの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの噂"
+    },
+    {
+      "surface": "שמעם",
+      "gloss": "彼らの噂"
+    },
+    {
+      "surface": "ורפו",
+      "gloss": "弱った"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "その両手は"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "苦悩が"
+    },
+    {
+      "surface": "החזיקתהו",
+      "gloss": "彼を捕らえた"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "陣痛が"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "産む女のように"
+    }
+  ],
+  "timestamp": "2026-08-07T11:59:13.158639637Z",
+  "model": "glm-5.2"
+}

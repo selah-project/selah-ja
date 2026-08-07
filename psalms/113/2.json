@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 113,
+  "translation": "ヤハウェの御名がほむべきものとなりますように、今よりとこしえまで。",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "〜となりますように"
+    },
+    {
+      "surface": "שם",
+      "gloss": "御名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ほむべきもの"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "今より"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "とこしえ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:08.845110621Z",
+  "model": "glm-5.2"
+}

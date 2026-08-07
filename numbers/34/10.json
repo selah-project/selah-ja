@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そしてあなたがたは東の境界として、ハツァル・エナンからシェファムまで⟨測り⟩定める。",
+  "tokens": [
+    {
+      "surface": "והתאויתם",
+      "gloss": "そしてあなたがたは〜定める"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたのために"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "境界として"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "東に向かう"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "ハツァル・から"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "・エナン"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "シェファムまで"
+    }
+  ],
+  "timestamp": "2026-08-07T10:05:00.831415675Z",
+  "model": "glm-5.2"
+}

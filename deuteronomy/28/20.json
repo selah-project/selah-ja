@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "ヤハウェは あなたの 上に 送る — ⟨את⟩ 呪詛 と ⟨את⟩ 混乱 と ⟨את⟩ 沮喪 を、あなたの 手 を 差し出すすべての事において、あなたが 行う 限り、あなたが 滅ぼされる まで、また 急いで 滅びる まで、あなたの 行い の 悪 に ゆえに、あなたが わたしを 捨てた からである。",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "送る"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたの 上に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "呪詛"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "呪詛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "混乱"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "混乱"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と ⟨את⟩",
+      "marks": "沮喪"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "沮喪"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "差出し"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの 手"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "あなたが行う"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜の限り"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "あなたが滅ぼされる"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "また〜の限り"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "あなたが滅びる"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "急いで"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜に ゆえに"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "あなたの 行い"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "あなたが わたしを 捨てた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:46.037867289Z",
+  "model": "glm-5.2"
+}

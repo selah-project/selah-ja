@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼はその手をそのやぎの頭の上に置き、ヤハウェの前で全焼の献げ物を屠る場所で⟨את⟩それを屠らなければならない。それは贖罪祭である。",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "そして彼は置く"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "その手を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭の"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "そのやぎの"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "そして彼は屠る"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩それを"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "場所で"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜する"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "彼が屠る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全焼の献げ物"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の献げ物"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前で"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "贖罪祭"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それ⟨である⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T09:33:14.994734843Z",
+  "model": "glm-5.2"
+}

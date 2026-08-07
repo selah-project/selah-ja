@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "あなたはすべての飲み込む言葉を愛した、欺きの舌よ。",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "あなたは愛した"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "言葉を"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "飲み込む"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌よ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "欺きの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:46.891098129Z",
+  "model": "glm-5.2"
+}

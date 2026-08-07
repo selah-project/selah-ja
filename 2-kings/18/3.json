@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして彼はヤハウェの目に正しいことを行った。父ダヴィデが行ったすべてのことに等しく。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は行った"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "正しいことを"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…の目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "すべてのことに等しく"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィデ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:28.066502531Z",
+  "model": "glm-5.2"
+}

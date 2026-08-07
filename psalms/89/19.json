@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "ヤハウェに属するのは我らの盾、イスラエルの聖者に属するのは我らの王。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "我らの盾は"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "そして聖者に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "我らの王は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:29.752427808Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "富める者の富は ⟨彼の⟩ 力の城、貧しい者たちの破滅は ⟨彼らの⟩ 貧困。",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "富は"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "富める者の"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "城"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "彼の力の"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "破滅は"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "貧しい者たちの"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "彼らの貧困"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:32.084800226Z",
+  "model": "glm-5.2"
+}

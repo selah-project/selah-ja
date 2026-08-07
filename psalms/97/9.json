@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 97,
+  "translation": "あなたこそヤハウェ、全地の上にいと高き方、すべてのエロヒムをはるかに超えて高く上げられた方。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "אַתָּ֤ה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עֶלְי֥וֹן",
+      "gloss": "いと高き方"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מְאֹ֥ד",
+      "gloss": "はるかに"
+    },
+    {
+      "surface": "נַ֝עֲלֵ֗יתָ",
+      "gloss": "高く上げられた"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אֱלֹהִֽים",
+      "gloss": "エロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:21.734854381Z",
+  "model": "glm-5.2"
+}

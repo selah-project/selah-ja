@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 4:20",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "我々の鼻の息 — ヤハウェのメシア — 彼らの罠 ⟨に⟩ 捕らえられた、〈私たちが〉彼について言った ⟨のは⟩、彼の影 ⟨の下で⟩ 国々 ⟨の中で⟩ 生きよう、⟨ということだった⟩。",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "息"
+    },
+    {
+      "surface": "אפינו",
+      "gloss": "我々の鼻"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "メシア"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "נלכד",
+      "gloss": "捕らえられた"
+    },
+    {
+      "surface": "בשחיתותם",
+      "gloss": "彼らの罠"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜については"
+    },
+    {
+      "surface": "אמרנו",
+      "gloss": "言った"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "彼の影"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "生きよう"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "国々"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:38.215575736Z",
+  "model": "glm-5.2"
+}

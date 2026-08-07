@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "あなたの敵のつまずきにあっては、喜ってはならない。彼の倒れるとき、あなたの心は〈歓喜しては〉ならない。",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "〜の倒れるとき"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "あなたの敵"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "喜んで"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "彼のつまずきにあっては"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "歓喜して"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "あなたの心"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:40.004684903Z",
+  "model": "glm-5.2"
+}

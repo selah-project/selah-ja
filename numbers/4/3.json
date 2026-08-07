@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 4:3",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "三十歳から上、および五十歳に至るまで、会見の天幕において務めを行なうために、軍勢に来るすべての者を⟨登録せよ⟩。",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歳"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "そして上"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "そして…に至るまで"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歳"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来る者"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "軍勢に"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行なうために"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "務めを"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "…において"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の天幕"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:56.679469317Z",
+  "model": "glm-5.2"
+}

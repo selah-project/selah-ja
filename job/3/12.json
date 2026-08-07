@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "なぜ膝が私を迎えたのか。なぜ乳房があったのか、それゆえに私は吸ったのか。」",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "私を迎えたのか"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "膝が"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "そしてなぜ"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "乳房が"
+    },
+    {
+      "surface": "כי",
+      "gloss": "それゆえに"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "私は吸ったのか"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:51.711172207Z",
+  "model": "glm-5.2"
+}

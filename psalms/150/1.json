@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 150,
+  "translation": "ハレル・ヤハ、エルを⟨その⟩聖所において賛美せよ、⟨彼⟩を⟨その⟩力の大空において賛美せよ。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "賛美せよ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "賛美せよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "⟨その⟩聖所において"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "⟨彼⟩を賛美せよ"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "大空において"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "⟨その⟩力の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:19.317589084Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてあなたは彼らに言え。イスラエルの家からの人、人、また彼らの中に滞在している寄留者で、全焼の献げ物あるいは犠牲を献げる者、",
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "そして彼らに"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "あなたは言え"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "〜の家から"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "また〜から"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "寄留者"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "滞在している"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "彼らの中に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの者"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "献げる"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "全焼の献げ物"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "犠牲"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:58.780242921Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてあなたは民に周囲に境界を設けよ。言って、『あなたたちは山に上ること、その境界に触れることに気をつけよ。山に触れる者はみな、必ず死ななければならない。』",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "そしてあなたは境界を設けよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲に"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "気をつけよ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちは"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "上ることに"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "その山に"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "そして触れることに"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "その境界に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "触れる者"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "その山に"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "必ず死ぬ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:49.369488942Z",
+  "model": "glm-5.2"
+}

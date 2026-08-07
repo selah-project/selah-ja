@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "これがノアの息子たち、シェム、ハム、ヤフェトの歴史である。大洪水ののち、彼らに息子たちが生まれた。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "これが"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "歴史"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の息子たち"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノア"
+    },
+    {
+      "surface": "שם",
+      "gloss": "シェム"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ハム"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ヤフェト"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たちが"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "〜ののち"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "大洪水"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:39.767469757Z",
+  "model": "glm-5.2"
+}

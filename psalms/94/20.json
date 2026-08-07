@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "破滅の座はあなたと結び合うか、困難を定めをもって形造るものが。",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "あなたと結び合うか"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "座"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "破滅"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "形造る"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "困難"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "〜をもって"
+    },
+    {
+      "surface": "חק",
+      "gloss": "定め"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:02.355231086Z",
+  "model": "glm-5.2"
+}

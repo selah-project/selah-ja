@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 24:16",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "彼は闇の中に家々を穴あけする—昼間彼らは封印した。彼らは光を知らない。",
+  "tokens": [
+    {
+      "surface": "חתר",
+      "gloss": "穴あけする"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "闇の中に"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "家々を"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "昼間"
+    },
+    {
+      "surface": "חתמו",
+      "gloss": "封印した"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知る"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:26:29.910913599Z",
+  "model": "glm-5.2"
+}

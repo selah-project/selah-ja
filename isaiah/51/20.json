@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "あなたの子らは気絶し、すべての通りの端に横たわっている。網にかかった野牛のように。ヤハウェの怒り、あなたのエロヒムの叱責に満ちている。",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "あなたの子らは"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "気絶し"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "横たわっている"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "〜の端に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "通りの"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "網にかかった"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "満ちている"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "怒り"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "叱責"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:09.331605267Z",
+  "model": "glm-5.2"
+}

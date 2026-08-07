@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そして銀は、会衆の登録された者たちの⟨もの⟩、百タラントと千七百七十五シェケル、聖所のシェケルによる。",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "そして銀は"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "登録された者たちの"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "会衆の"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "百"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "タラント"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "と千"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "と七"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "と五"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "と七十"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "シェケル"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "シェケルによる"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:37.752059904Z",
+  "model": "glm-5.2"
+}

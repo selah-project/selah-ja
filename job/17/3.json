@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 17:3",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "どうか保証を置いてください、あなたと共に。だれが⟨彼だ⟩、わたしの手に固く打ち立てる者は。",
+  "tokens": [
+    {
+      "surface": "שימה",
+      "gloss": "置いてください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "保証を"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "מי",
+      "gloss": "だれが"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼だ⟩"
+    },
+    {
+      "surface": "לידי",
+      "gloss": "わたしの手に"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "固く打ち立てる者は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:24:29.199409249Z",
+  "model": "glm-5.2"
+}

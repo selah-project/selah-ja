@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてわたしはパロの心を頑なにし、わたしのしるしとわたしの奇跡をミツライムの地で数多くする。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "そしてわたしは"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "わたしは頑なにする"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "心"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "そしてわたしは数多くする"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしのしるし"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "わたしのしるし"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "わたしの奇跡"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "わたしの奇跡"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "〜の地で"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:09.126573525Z",
+  "model": "glm-5.2"
+}

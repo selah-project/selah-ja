@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして もし ひとりのゲルが あなたの国で あなたとともに宿るなら、あなたがたは ⟨את⟩ 彼を搾取してはならない。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "宿る"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "あなたとともに"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ゲル"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "あなたの国で"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "あなたがたは搾取しては"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:00.329752517Z",
+  "model": "glm-5.2"
+}

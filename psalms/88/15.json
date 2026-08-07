@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 88,
+  "translation": "なぜ、ヤハウェ、⟨あなたは⟩わたしのנפשי（いのち）を退けるのか。⟨あなたは⟩御顔をわたしから隠すのか。",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "退ける"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "わたしのנפשי（いのち）"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "隠す"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "御顔"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "わたしから"
+    }
+  ],
+  "timestamp": "2026-08-07T18:40:59.812872879Z",
+  "model": "glm-5.2"
+}

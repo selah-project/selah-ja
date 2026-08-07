@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 31:1",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "その時に、ヤハウェの御言葉──⟨私⟩はイスラエルのすべての氏族にとってエロヒムとなり、彼らは⟨私⟩にとって民となる。」",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "その時に"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "その"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御言葉"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "私は……となる"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "エロヒムとして"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "氏族"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "そして彼らは"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "……となる"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私にとって"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "民として"
+    }
+  ],
+  "timestamp": "2026-08-07T11:51:13.504160401Z",
+  "model": "glm-5.2"
+}

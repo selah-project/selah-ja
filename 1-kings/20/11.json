@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてイスラエルの王は答えて言った、「告げよ。帯を締める者は、解く者のようであってはならない」。",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "そして彼は答えた"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "告げよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "誇る"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "帯を締める者"
+    },
+    {
+      "surface": "כמפתח",
+      "gloss": "解く者のように"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:15.024516235Z",
+  "model": "glm-5.2"
+}

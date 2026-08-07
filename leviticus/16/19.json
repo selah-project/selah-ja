@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 16:19",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そして彼は指でその上に血を七回振りかけ、それをきよめ、イスラエルの子らの汚れからそれを聖別する。",
+  "tokens": [
+    {
+      "surface": "והזה",
+      "gloss": "そして振りかける"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "彼の指で"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "回"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "そしてそれをきよめ"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "そしてそれを聖別し"
+    },
+    {
+      "surface": "מטמאת",
+      "gloss": "汚れから"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:59.773835347Z",
+  "model": "glm-5.2"
+}

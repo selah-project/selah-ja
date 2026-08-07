@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 10:1",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "死蝿は調香師の油を発して恶臭を放たせる — ⟨このように⟩知恵と栄光 ⟨に⟩まさって尊い ⟨もの⟩を、わずかな愚かさ ⟨が〉台無しにする。",
+  "tokens": [
+    {
+      "surface": "זְבוּבֵי",
+      "gloss": "蝿（ハエ）"
+    },
+    {
+      "surface": "מָוֶת",
+      "gloss": "死"
+    },
+    {
+      "surface": "יַבְאִישׁ",
+      "gloss": "恶臭を放たせる"
+    },
+    {
+      "surface": "יַבִּיעַ",
+      "gloss": "発して"
+    },
+    {
+      "surface": "שֶׁמֶן",
+      "gloss": "油"
+    },
+    {
+      "surface": "רוֹקֵחַ",
+      "gloss": "調香師の"
+    },
+    {
+      "surface": "יָקָר",
+      "gloss": "尊い"
+    },
+    {
+      "surface": "מֵחָכְמָה",
+      "gloss": "知恵にまさって"
+    },
+    {
+      "surface": "מִכָּבוֹד",
+      "gloss": "栄光にまさって"
+    },
+    {
+      "surface": "סִכְלוּת",
+      "gloss": "愚かさ"
+    },
+    {
+      "surface": "מְעָט",
+      "gloss": "わずかな"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:12.509088213Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 58,
+  "translation": "ほんとうに、沈黙のうちに義を語るのか。まっすぐに裁くのか、人の子らよ。",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "ほんとうに"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "沈黙のうちに"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "義を"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "語るのか"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "まっすぐに"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "裁くのか"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子らよ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:53.457197502Z",
+  "model": "glm-5.2"
+}

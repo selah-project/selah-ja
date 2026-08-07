@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 28:7",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そしてわたしは彼の王国をとこしえに備え立てる。もしこの日のように、わたしの戒めとわたしの定めを行うことに強く立つなら。",
+  "tokens": [
+    {
+      "surface": "והכינותי",
+      "gloss": "そしてわたしは備え立てる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の王国を"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "彼の王国を"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし〜なら"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "強く立つ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行うことに"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "わたしの戒めを"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "そしてわたしの定めを"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "この日のように"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T14:09:27.166135203Z",
+  "model": "glm-5.2"
+}

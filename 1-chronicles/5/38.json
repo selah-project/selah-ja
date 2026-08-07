@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "アヒトブは⟨את⟩ツァドクを生み、ツァドクは⟨את⟩シャルムを生んだ。",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "アヒトブ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ツァドク"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ツァドク"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ツァドク"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シャルム"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "シャルム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:00:50.976789102Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてさらに、コヘレト ⟨は⟩ 知恵のある者 ⟨であった⟩ — ⟨彼⟩ はなお ⟨民⟩ に知識を教え、耳を傾け、探り求め、多くのたとえを整えた。",
+  "tokens": [
+    {
+      "surface": "וְיֹתֵר",
+      "gloss": "そしてさらに"
+    },
+    {
+      "surface": "שֶׁהָיָה",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "קֹהֶלֶת",
+      "gloss": "コヘレト"
+    },
+    {
+      "surface": "חָכָם",
+      "gloss": "知恵のある者"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "なお"
+    },
+    {
+      "surface": "לִמַּד",
+      "gloss": "教えた"
+    },
+    {
+      "surface": "דַּעַת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "民"
+    },
+    {
+      "surface": "וְאִזֵּן",
+      "gloss": "耳を傾け"
+    },
+    {
+      "surface": "וְחִקֵּר",
+      "gloss": "探り求め"
+    },
+    {
+      "surface": "תִּקֵּן",
+      "gloss": "整えた"
+    },
+    {
+      "surface": "מְשָׁלִים",
+      "gloss": "たとえ"
+    },
+    {
+      "surface": "הַרְבֵּה",
+      "gloss": "多くの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:32.092849249Z",
+  "model": "glm-5.2"
+}

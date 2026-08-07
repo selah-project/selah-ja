@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "あなたの口を開き、正義を裁き、苦しむ者と乏しい者を⟨裁きの対象として⟩弁護せよ。",
+  "tokens": [
+    {
+      "surface": "פְּתַח",
+      "gloss": "開け"
+    },
+    {
+      "surface": "פִּ֥יךָ",
+      "gloss": "あなたの口を"
+    },
+    {
+      "surface": "שְׁפָט",
+      "gloss": "裁け"
+    },
+    {
+      "surface": "צֶ֑דֶק",
+      "gloss": "正義を"
+    },
+    {
+      "surface": "וְ֝דִ֗ין",
+      "gloss": "そして裁き"
+    },
+    {
+      "surface": "עָנִ֥י",
+      "gloss": "苦しむ者を"
+    },
+    {
+      "surface": "וְאֶבְיֽוֹן",
+      "gloss": "乏しい者を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:32.278412212Z",
+  "model": "glm-5.2"
+}

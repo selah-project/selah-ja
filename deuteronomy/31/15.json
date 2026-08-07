@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "そしてヤハウェは、雲の柱によって天幕に現れた。そして雲の柱は天幕の入り口の上に立った。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして現れた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "天幕に"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "〜の柱によって"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "そして立った"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "柱"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲の"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "天幕の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:23:01.125022361Z",
+  "model": "glm-5.2"
+}

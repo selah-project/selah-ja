@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "「惡しき者の腕は折り砕かれ、義人を支へる者はヤハウェである」",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "〜 because"
+    },
+    {
+      "surface": "זְרוֹע֣וֹת",
+      "gloss": "腕"
+    },
+    {
+      "surface": "רְ֭שָׁעִים",
+      "gloss": "惡しき者たちの"
+    },
+    {
+      "surface": "תִּשָּׁבַ֑רְנָה",
+      "gloss": "折り砕かれる"
+    },
+    {
+      "surface": "וְסוֹמֵ֖ךְ",
+      "gloss": "そして支へる"
+    },
+    {
+      "surface": "צַדִּיקִ֣ים",
+      "gloss": "義人たちを"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T18:39:38.695083660Z",
+  "model": "glm-5.2"
+}

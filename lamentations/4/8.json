@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "黒よりも暗くなった彼らの顔。彼らは通りで認識されない。彼らの皮膚は彼らの骨の上に張りつき、干からびて、木のようになった。",
+  "tokens": [
+    {
+      "surface": "חָשַׁ֤ךְ",
+      "gloss": "暗くなった"
+    },
+    {
+      "surface": "מִשְּׁחוֹר֙",
+      "gloss": "黒よりも"
+    },
+    {
+      "surface": "תָּֽאֳרָ֔ם",
+      "gloss": "彼らの顔は"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נִכְּר֖וּ",
+      "gloss": "認識される"
+    },
+    {
+      "surface": "בַּחוּצ֑וֹת",
+      "gloss": "通りで"
+    },
+    {
+      "surface": "צָפַ֤ד",
+      "gloss": "張りついた"
+    },
+    {
+      "surface": "עוֹרָם֙",
+      "gloss": "彼らの皮膚は"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "עַצְמָ֔ם",
+      "gloss": "彼らの骨の"
+    },
+    {
+      "surface": "יָבֵ֖שׁ",
+      "gloss": "干からびて"
+    },
+    {
+      "surface": "הָיָ֥ה",
+      "gloss": "〜になった"
+    },
+    {
+      "surface": "כָעֵֽץ",
+      "gloss": "木のよう（に）"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:14.690651842Z",
+  "model": "glm-5.2"
+}

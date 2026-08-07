@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "この四十年のあいだ、あなたの着物はあなたの上からすり減らず、あなたの足は腫れなかった。」",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "あなたの着物は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "すり減ら"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "あなたの上から"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "あなたの足は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "腫れ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-08-07T10:11:22.015540459Z",
+  "model": "glm-5.2"
+}

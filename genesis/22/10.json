@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そしてアブラハムは手を伸ばし、⟨את⟩ 刃物を取った。彼の子を屠るために。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして伸ばした"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の手"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "刃物"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "刃物"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "屠るために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の子"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の子"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:33.378013216Z",
+  "model": "glm-5.2"
+}

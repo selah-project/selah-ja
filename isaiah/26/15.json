@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "あなたは国民を増やされた、ヤハウェよ。あなたは国民を増やされた。あなたは重きを加えた。地の果てという果てをすべて遠く ⟨退けた⟩。",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "あなたは増やした"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "国民を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "あなたは増やした"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "国民を"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "あなたは重きを加えた"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "あなたは遠く退けた"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "果てを"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:24.296710723Z",
+  "model": "glm-5.2"
+}

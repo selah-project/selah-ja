@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "彼らはひとつになって集まり、ヨシュアおよびイスラエルと戦うために、一つ口で",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "集まった"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ひとつになって"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "戦うために"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…と"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "および…と"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "פה",
+      "gloss": "口"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:25:13.422998213Z",
+  "model": "glm-5.2"
+}

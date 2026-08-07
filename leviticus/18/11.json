@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "あなたの父の妻の娘 — あなたの父に生まれた者、彼女はあなたの姉妹⟨である⟩ — その裸を明らかにしてはならない。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "裸"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻の"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父の"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "生まれた者"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父に"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "あなたの姉妹"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨である⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "明らかにしては"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "彼女の裸を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:15.113758214Z",
+  "model": "glm-5.2"
+}

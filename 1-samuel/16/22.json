@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 16:22",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "シャウルはイシャイのところへ人を遣わして言った。「どうかダビデを⟨私⟩の前に立たせてください。彼は⟨私⟩の目に恵みを見出したからです。」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "遣わした"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～のところへ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "イシャイ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "立たせてください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビドを"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨私⟩の前に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～だから"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "見出した"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恵みを"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⟨私⟩の目に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:08.730286736Z",
+  "model": "glm-5.2"
+}

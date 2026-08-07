@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "穴を掘る者はその中に落ち、垣根を破る者を蛇が噛む。",
+  "tokens": [
+    {
+      "surface": "חֹפֵ֥ר",
+      "gloss": "掘る者"
+    },
+    {
+      "surface": "גּוּמָּ֖ץ",
+      "gloss": "穴を"
+    },
+    {
+      "surface": "בּ֣וֹ",
+      "gloss": "その中に"
+    },
+    {
+      "surface": "יִפּ֑וֹל",
+      "gloss": "落ちる"
+    },
+    {
+      "surface": "וּפֹרֵ֥ץ",
+      "gloss": "破る者"
+    },
+    {
+      "surface": "גָּדֵ֖ר",
+      "gloss": "垣根を"
+    },
+    {
+      "surface": "יִשְּׁכֶ֥נּוּ",
+      "gloss": "噛む"
+    },
+    {
+      "surface": "נָחָֽשׁ",
+      "gloss": "蛇が"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:17.427891260Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "羊毛と亜麻を共に織り混ぜたシャアトネズを着てはならない。",
+  "tokens": [
+    {
+      "surface": "לֹ֤א",
+      "gloss": "〜てはならない"
+    },
+    {
+      "surface": "תִלְבַּשׁ֙",
+      "gloss": "あなたは着る"
+    },
+    {
+      "surface": "שַׁעַטְנֵ֔ז",
+      "gloss": "シャアトネズを"
+    },
+    {
+      "surface": "צֶ֥מֶר",
+      "gloss": "羊毛"
+    },
+    {
+      "surface": "וּפִשְׁתִּ֖ים",
+      "gloss": "また亜麻"
+    },
+    {
+      "surface": "יַחְדָּֽו",
+      "gloss": "共に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:53.069132899Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 145,
+  "translation": "恵み深く、あわれみに富む方、ヤハウェ。怒るのに遅く、ヘセドの大いなる方。",
+  "tokens": [
+    {
+      "surface": "חַנּ֣וּן",
+      "gloss": "恵み深い"
+    },
+    {
+      "surface": "וְרַח֣וּם",
+      "gloss": "そしてあわれみに富む"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֶ֥רֶךְ",
+      "gloss": "遅い"
+    },
+    {
+      "surface": "אַ֝פַּ֗יִם",
+      "gloss": "怒りに"
+    },
+    {
+      "surface": "וּגְדָל",
+      "gloss": "そして大いなる"
+    },
+    {
+      "surface": "חָֽסֶד",
+      "gloss": "ヘセド"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:12.195676196Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "なんと悲しく、ひとり座っている、あの都は — 民の多かった⟨者⟩が、やもめのようになった。諸国の民の間で多き⟨者⟩となり、諸州の支配者であった⟨者⟩が、貢ぎの⟨身⟩となった。",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "なんと悲しく"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "座っている"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ひとりで"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "あの都は"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "多かった"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "〜となった"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "やもめのように"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "多き"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "諸国の民の間で"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "支配者"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "諸州の"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "למס",
+      "gloss": "貢ぎの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:34:40.700517219Z",
+  "model": "glm-5.2"
+}

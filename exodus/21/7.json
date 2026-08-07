@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "また、ある人が ⟨את⟩ 自分の娘を女奴隷として売る場合、彼女は男奴隣たちが出て行くように出て行ってはならない。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "また〜の場合"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "売る"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ある人が"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の娘"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "自分の娘"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "女奴隷として"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "彼女は出て行っては"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "〜のように出て行く"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "男奴隷たち"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:25.251752176Z",
+  "model": "glm-5.2"
+}

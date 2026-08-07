@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "アブネルの言葉はイスラエルの長老たちと共にあった、言って、「昨日も、一昨日も、あなたがたは⟨את⟩ダヴィドをあなたがたの上の王として求めていたのだに」と。",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "そして言葉は"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "アブネルの"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老たち"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "גם",
+      "gloss": "も"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "昨日"
+    },
+    {
+      "surface": "גם",
+      "gloss": "も"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "一昨日"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "あなたがたは〜であった"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "求めていた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダヴィド"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王として"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "あなたがたの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:33.206116150Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そして刈り入れの祭りを。あなたが畑に蒔くあなたの働きの初穂によって。そして取り入れの祭りを。年の出でに、あなたが畑からあなたの働きを ⟨את⟩集め入れる時に。",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "そして祭り"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "刈り入れの"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "初穂"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "あなたの働きの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "あなたが蒔く"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "畑に"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "そして祭り"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "取り入れの"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "出でに"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "年の"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "あなたが集め入れる時に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの働きを"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "あなたの働きを"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "畑"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:12.270720276Z",
+  "model": "glm-5.2"
+}

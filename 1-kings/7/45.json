@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 7:45",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "また⟨את⟩鍋と、⟨את⟩園芸道具と、⟨את⟩鉢と、⟨את⟩すべての器具を——ヒラムがシュロモ王のためにヤハウェの家に作ったこれらのもの——彼は鏡面に磨かれた青銅で作った。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "鍋"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "鍋"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "園芸道具"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "園芸道具"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "鉢"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "鉢"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "すべての器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "器具"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "これらのもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜る"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "作った"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ヒラム"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王のために"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅で"
+    },
+    {
+      "surface": "ממרט",
+      "gloss": "鏡面に磨かれた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:01:50.613551924Z",
+  "model": "glm-5.2"
+}

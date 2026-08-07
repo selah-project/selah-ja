@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 62,
+  "translation": "ただ⟨彼⟩、私の岩、そして私の救い、私の高きやぐら、大きく揺らぐことはない",
+  "tokens": [
+    {
+      "surface": "אַ֣ךְ",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "⟨彼⟩"
+    },
+    {
+      "surface": "צ֭וּרִי",
+      "gloss": "私の岩"
+    },
+    {
+      "surface": "וִֽישׁוּעָתִ֑י",
+      "gloss": "そして私の救い"
+    },
+    {
+      "surface": "מִ֝שְׂגַּבִּ֗י",
+      "gloss": "私の高きやぐら"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אֶמּ֥וֹט",
+      "gloss": "揺らぐことは"
+    },
+    {
+      "surface": "רַבָּֽה",
+      "gloss": "大きく"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:05.282987785Z",
+  "model": "glm-5.2"
+}

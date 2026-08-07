@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "火を燃やしてはならない、あなたがたのすべての住処で、安息日の日に。」",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "燃やす"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火を"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "…のすべての"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "あなたがたの住処で"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…の日に"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "安息日"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:36.634069754Z",
+  "model": "glm-5.2"
+}

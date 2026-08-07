@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてイシュマエルその子は十三歳であった ——彼の包皮の肉に割礼を受ける⟨とき⟩ ⟨את⟩彼の包皮の肉は。",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "そしてイシュマエル"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の齢"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "と十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歳"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "割礼を受けるとき"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の包皮の肉"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "彼の包皮の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:23.537954189Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "あざける者は知恵を求めるが、⟨それは⟩ない。理解ある者には知識は軽い。",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "求める"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "あざける者は"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵を"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そしてない"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "そして知識は"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "理解ある者には"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "軽い"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:07.824650560Z",
+  "model": "glm-5.2"
+}

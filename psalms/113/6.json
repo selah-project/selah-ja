@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 113,
+  "translation": "天において、また地において⟨あるもの⟩を見るために、みずからを低くされる⟨方⟩。",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "低くされる⟨方⟩"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見るために"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "天において"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "また地において"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:08.829528111Z",
+  "model": "glm-5.2"
+}

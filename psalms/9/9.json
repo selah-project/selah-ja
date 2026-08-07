@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして⟨彼⟩は地を義をもってさばき、もろもろの民を正しいさばきでさばく。",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "そして⟨彼⟩は"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "さばく"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "地を"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "義をもって"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "さばく"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "もろもろの民を"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "正しいさばきで"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:23.481544982Z",
+  "model": "glm-5.2"
+}

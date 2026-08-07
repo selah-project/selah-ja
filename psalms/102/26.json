@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "昔、あなたは地を据え、天はあなたの両手のわざ〈である〉。",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "昔"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "あなたは据えた"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "〜のわざ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "あなたの両手の"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:50.890251638Z",
+  "model": "glm-5.2"
+}

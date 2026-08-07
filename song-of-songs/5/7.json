@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 5:7",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "私を見つけた、街を巡回していた見張りたちが。彼らは私を打った、私に傷を負わせた、彼らは⟨את⟩私のベールを私から取り上げた、城壁の見張りたちが。",
+  "tokens": [
+    {
+      "surface": "מצאני",
+      "gloss": "私を見つけた"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "見張りたちが"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "巡回していた"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "街を"
+    },
+    {
+      "surface": "הכוני",
+      "gloss": "彼らは私を打った"
+    },
+    {
+      "surface": "פצעוני",
+      "gloss": "私に傷を負わせた"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "彼らは〜取り上げた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私のベール"
+    },
+    {
+      "surface": "רדידי",
+      "gloss": "私のベールを"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "私から"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "見張りたちが"
+    },
+    {
+      "surface": "החמות",
+      "gloss": "城壁の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:58.953822366Z",
+  "model": "glm-5.2"
+}

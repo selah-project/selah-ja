@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "メオノタイは⟨את⟩オフラを生み、セラヤは⟨את⟩ヨアブを生んだ。ヨアブはゲ・ハラシムの父である。彼らが職人であったからである。",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "メオノタイ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "オフラ"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "オフラ"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "セラヤ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨアブ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "～の父"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "谷"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ハラシム"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～だから"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "職人"
+    },
+    {
+      "surface": "היו",
+      "gloss": "であった"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:10.099985358Z",
+  "model": "glm-5.2"
+}

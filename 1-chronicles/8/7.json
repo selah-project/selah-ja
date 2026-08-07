@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてナアマン、アヒヤ、ゲラ――彼⟨こそ⟩彼らを捕囚として引いて行った――そして彼は⟨את⟩ウザと⟨את⟩アヒフドを生んだ。",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "そしてナアマン"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "アヒヤ"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "ゲラ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "彼らを捕囚として引いて行った"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "そして…を生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ウザ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ウザ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "アヒフド"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "アヒフド"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:46.156448510Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "シャウルの娘ミカルは⟨את⟩ダビドを愛した。人々がシャウルに告げると、そのことが彼の目に良かった。",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "そして愛した"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ミカル"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダビド"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビド"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "シャウルに"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "そして良かった"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "そのことが"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "彼の目に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:37.896456372Z",
+  "model": "glm-5.2"
+}

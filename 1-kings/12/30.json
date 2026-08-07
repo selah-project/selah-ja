@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてこのことは罪となった。民は一つの前に進み続け、ダンに至った。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "この事は"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "罪"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "そして進み続けた"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ダン"
+    }
+  ],
+  "timestamp": "2026-08-07T11:03:36.145546477Z",
+  "model": "glm-5.2"
+}

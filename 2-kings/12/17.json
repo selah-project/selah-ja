@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "罪過の銀および罪の銀はヤハウェの家に持って入られなかった。祭司たちのものとなった。",
+  "tokens": [
+    {
+      "surface": "כֶּ֤סֶף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "אָשָׁם֙",
+      "gloss": "罪過"
+    },
+    {
+      "surface": "וְכֶ֣סֶף",
+      "gloss": "および銀"
+    },
+    {
+      "surface": "חַטָּא֔וֹת",
+      "gloss": "罪"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יוּבָ֖א",
+      "gloss": "持って入られる"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לַכֹּהֲנִ֖ים",
+      "gloss": "祭司たちに"
+    },
+    {
+      "surface": "יִהְיֽוּ",
+      "gloss": "なる"
+    }
+  ],
+  "timestamp": "2026-08-07T16:53:33.255185612Z",
+  "model": "glm-5.2"
+}

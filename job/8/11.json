@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "ガマは沼なしで高く育つのか。アフは水なしで育つのか。",
+  "tokens": [
+    {
+      "surface": "הֲיִֽגְאֶה",
+      "gloss": "高く育つのか"
+    },
+    {
+      "surface": "גֹּ֭מֶא",
+      "gloss": "ガマは"
+    },
+    {
+      "surface": "בְּלֹ֣א",
+      "gloss": "〜なしで"
+    },
+    {
+      "surface": "בִצָּ֑ה",
+      "gloss": "沼が"
+    },
+    {
+      "surface": "יִשְׂגֶּה",
+      "gloss": "育つのか"
+    },
+    {
+      "surface": "אָ֥חוּ",
+      "gloss": "アフは"
+    },
+    {
+      "surface": "בְלִי",
+      "gloss": "〜なしで"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "水が"
+    }
+  ],
+  "timestamp": "2026-08-07T13:21:39.440571092Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "その後こうしてあった。ダビデは⟨את⟩ペリシテ人を打ち、彼らを屈服させた。そしてダビデはペリシテ人の手からメテグ・アマを取った。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして～があった"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "～の後に"
+    },
+    {
+      "surface": "כן",
+      "gloss": "こう"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "打った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ペリシテ人"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "彼らを屈服させた"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "取った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "メテグ・アマ"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "手綱"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "母"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "～の手から"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:52.788526127Z",
+  "model": "glm-5.2"
+}

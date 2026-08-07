@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "万軍のヤハウェはこう仰る——見よ、わたしはわたしの民を東の地から、また太陽の入り口の地から救い出す。",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "仰る"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "万軍の"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "わたしは〜救い出す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの民"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民を"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "〜の地から"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "東"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "また〜の地から"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "入り口の"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:31:01.900407788Z",
+  "model": "glm-5.2"
+}

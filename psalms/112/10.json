@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 112,
+  "translation": "悪者は見て、憤り、歯を食いしばり、溶けゆく——悪者たちの渇望は滅びうせる。",
+  "tokens": [
+    {
+      "surface": "רָ֘שָׁ֤ע",
+      "gloss": "悪者は"
+    },
+    {
+      "surface": "יִרְאֶ֨ה",
+      "gloss": "見て"
+    },
+    {
+      "surface": "וְכָעָ֗ס",
+      "gloss": "憤り"
+    },
+    {
+      "surface": "שִׁנָּ֣יו",
+      "gloss": "歯を"
+    },
+    {
+      "surface": "יַחֲרֹ֣ק",
+      "gloss": "食いしばり"
+    },
+    {
+      "surface": "וְנָמָ֑ס",
+      "gloss": "溶けゆく"
+    },
+    {
+      "surface": "תַּאֲוַ֖ת",
+      "gloss": "渇望は"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "悪者たちの"
+    },
+    {
+      "surface": "תֹּאבֵֽד",
+      "gloss": "滅びうせる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:04.375146311Z",
+  "model": "glm-5.2"
+}

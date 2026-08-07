@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 98,
+  "translation": "琴を〈奏でて〉ヤハウェに〈賛せよ〉、琴と歌声の〈〈賛〉で〉。",
+  "tokens": [
+    {
+      "surface": "זַמְּרוּ",
+      "gloss": "奏でよ"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "בְּכִנּוֹר",
+      "gloss": "琴で"
+    },
+    {
+      "surface": "בְּכִנּוֹר",
+      "gloss": "琴と"
+    },
+    {
+      "surface": "וְקוֹל",
+      "gloss": "声"
+    },
+    {
+      "surface": "זִמְרָה",
+      "gloss": "賛"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:24.294408210Z",
+  "model": "glm-5.2"
+}

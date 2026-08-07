@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして⟨彼ら⟩に言った、「あなたがたは⟨את⟩ラバンを、ナホルの子を、知っているか」。彼らは言った、「知っている」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "あなたがたは知っているか"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ラバン"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ラバン"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ナホル"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして彼らは言った"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "知っている"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:17.706830299Z",
+  "model": "glm-5.2"
+}

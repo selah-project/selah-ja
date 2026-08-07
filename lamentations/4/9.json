@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "剣で刺し殺された者たちは、飢餓で刺し殺された者たちより良かった。彼らは、刺し貫かれて、畑の産物の不足のゆえに流れ去ったからである。",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "良かった"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨〜であった⟩"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "刺し殺された者たち"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "〜より"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "飢餓"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "彼らは〜だから"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "流れ去った"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "刺し貫かれて"
+    },
+    {
+      "surface": "מתנובת",
+      "gloss": "産物の不足"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "畑の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:12.681136492Z",
+  "model": "glm-5.2"
+}

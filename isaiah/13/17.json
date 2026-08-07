@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "見よ、わたしは彼らに向かって⟨את⟩マダイを奮い立たせる。彼らは銀を重んぜず、金を喜ばない。",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "奮い立たせる"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らに向かって"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "マダイ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "マダイ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "重んぜず"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "喜ばない"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:43.775605165Z",
+  "model": "glm-5.2"
+}

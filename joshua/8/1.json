@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 8:1",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてヤハウェはヨシュアに告げた。「恐れるな、おののくな。あなたと共に戦いのすべての民を連れ、立って、ハアイ（アイ）に上れ。見よ、わたしはあなたの手にハアイの王と、⟨את⟩その民と、⟨את⟩その町と、⟨את⟩その地とを与えた。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…告げた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜なかれ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜なかれ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "おののく"
+    },
+    {
+      "surface": "קח",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "戦いのすべての民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戦いの"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "そして立て"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上れ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ハアイ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "わたしは…与えた"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "あなたの手に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ハアイの王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ハアイの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その民"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "その民"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その町"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "その町"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その地"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "その地"
+    }
+  ],
+  "timestamp": "2026-08-07T10:26:19.381177646Z",
+  "model": "glm-5.2"
+}

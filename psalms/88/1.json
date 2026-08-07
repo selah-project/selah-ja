@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 88,
+  "translation": "歌、楽曲、コラフの子らの⟨もの⟩。指揮者へ、マハラテ・レアノトの⟨旋律に⟩。教訓の詩、エズラフ人ヘマンの⟨もの⟩。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "楽曲"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〜の子らの"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "コラフ"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者へ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "マハラテ"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "レアノト"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "教訓の詩"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "ヘマンの"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "エズラフ人"
+    }
+  ],
+  "timestamp": "2026-08-07T12:54:48.396383261Z",
+  "model": "glm-5.2"
+}

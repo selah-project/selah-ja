@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "ezekiel 16:62",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてわたしは、わたしの契約をあなたと共に立てる。そしてあなたは知るであろう、わたしこそヤハウェであることを。",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "そしてわたしは立てる"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの契約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "わたしの契約"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "そしてあなたは知る"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜であることを"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしこそ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:04:46.471843151Z",
+  "model": "glm-5.2"
+}

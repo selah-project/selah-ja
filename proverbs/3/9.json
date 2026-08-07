@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "栄光を与えよ、⟨את⟩ ヤハウェを、あなたの富から、そしてすべての収穫の初物から。",
+  "tokens": [
+    {
+      "surface": "כַּבֵּ֣ד",
+      "gloss": "栄光を与えよ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מֵהוֹנֶ֑ךָ",
+      "gloss": "あなたの富から"
+    },
+    {
+      "surface": "וּ֝מֵרֵאשִׁ֗ית",
+      "gloss": "そして〜の初物から"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "תְּבוּאָתֶֽךָ",
+      "gloss": "あなたの収穫"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:15.105997208Z",
+  "model": "glm-5.2"
+}

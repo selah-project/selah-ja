@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "およびベラ——アザズの子、シェマの子、ヨエルの子——⟨彼は⟩アロエルに、そしてネボまで、およびバアル・メオンに住んでいた。",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "およびベラ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "アザズ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "シェマ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ヨエル"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼は⟩"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "住んでいた"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "アロエルに"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "そして〜まで"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ネボ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "およびバアル・"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "メオン"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:20.766867530Z",
+  "model": "glm-5.2"
+}

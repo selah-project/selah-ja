@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そしてルベンの子らは ⟨את⟩ ヘシュボンと ⟨את⟩ エルアレと ⟨את⟩ キルヤタイムを建てた。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "そして…の子ら"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ルベン"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヘシュボン"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ヘシュボン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "エルアレ"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "エルアレ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "キルヤタイム"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "キルヤタイム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:03:28.260171195Z",
+  "model": "glm-5.2"
+}

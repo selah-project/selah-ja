@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "彼は御力によって永遠に支配する。御目は諸国の民を見張っている。反逆者たちが自分たちを高く上げないようにせよ。セラ。",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "支配する"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "御力によって"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "御目は"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "諸国の民を"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "見張っている"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "反逆者たちが"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "高く上げる"
+    },
+    {
+      "surface": "למו",
+      "gloss": "自分たちを"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:49:00.142498489Z",
+  "model": "glm-5.2"
+}

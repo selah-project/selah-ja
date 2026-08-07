@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "また ⟨את⟩ その徴と ⟨את⟩ そのわざを——すなわちかれがミツライムのただ中で、ミツライムの王パロに、またそのすべての地に行ったものを——",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "また ⟨את⟩",
+      "marks": "その徴"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "その徴"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また ⟨את⟩",
+      "marks": "そのわざ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "そのわざ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "かれは行った"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "〜のただ中で"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "パロに"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "そして〜のすべての"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "その地"
+    }
+  ],
+  "timestamp": "2026-08-07T10:11:18.297997679Z",
+  "model": "glm-5.2"
+}

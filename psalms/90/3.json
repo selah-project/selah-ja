@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 90,
+  "translation": "あなたは人を粉砕⟨に⟩帰らせ、そして言われる、「帰れ、アダムの子らよ」と。",
+  "tokens": [
+    {
+      "surface": "תָּשֵׁב",
+      "gloss": "あなたは帰らせ"
+    },
+    {
+      "surface": "אֱנוֹשׁ",
+      "gloss": "人を"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "に"
+    },
+    {
+      "surface": "דַּכָּא",
+      "gloss": "粉砕"
+    },
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "そして言われる"
+    },
+    {
+      "surface": "שׁוּבוּ",
+      "gloss": "帰れ"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "子らよ"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "アダムの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:22.292866071Z",
+  "model": "glm-5.2"
+}

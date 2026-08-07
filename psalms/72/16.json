@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 72,
+  "translation": "地のもろもろの山々の頂に穀物の豊穣があるように。その実はレバノンのように揺れ、地の草のように町から芽吹き出るであろう。",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "あるように"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "豊穣"
+    },
+    {
+      "surface": "בר",
+      "gloss": "穀物の"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "〜の頂に"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山々の"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "揺れる"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "レバノンのように"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "その実"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "そして芽吹き出る"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "町から"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "草のように"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:21.896871245Z",
+  "model": "glm-5.2"
+}

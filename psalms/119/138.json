@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 138,
+  "ref": "psalms 119:138",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "あなたはあなたの〈あかし〉を義をもって命じた、彼らは極めて真実である。",
+  "tokens": [
+    {
+      "surface": "צוית",
+      "gloss": "あなたは命じた"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "義をもって"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "あなたのあかし"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "そして真実"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極めて"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:39.298668908Z",
+  "model": "glm-5.2"
+}

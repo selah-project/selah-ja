@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてあなたはそれらを一つのかごの上に置き、かごの中にそれらを近づけて差し出せ — ⟨את⟩ 雄牛および ⟨את⟩ 二匹の雄羊とともに。",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "そしてあなたは置け"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "それらを"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "סל",
+      "gloss": "かご"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "そしてあなたは近づけて差し出せ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それらを"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "かごの中に"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "雄牛"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "その雄牛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "二匹の雄羊"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二匹の"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "その雄羊"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:07.929696471Z",
+  "model": "glm-5.2"
+}

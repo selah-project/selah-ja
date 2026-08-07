@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 92,
+  "translation": "獣のような男は知らず、愚か者は悟らない、⟨את⟩ これを。",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "男は"
+    },
+    {
+      "surface": "בער",
+      "gloss": "獣のような"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ず"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知ら"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "愚か者は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "悟ら"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:39.461528009Z",
+  "model": "glm-5.2"
+}

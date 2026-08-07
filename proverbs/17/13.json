@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "善に代えて悪を返す者、悪は彼の家から移らない。",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "返す者"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "に代えて"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "善"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "移る"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪は"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "彼の家から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:14.159276485Z",
+  "model": "glm-5.2"
+}

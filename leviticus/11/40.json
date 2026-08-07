@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 11:40",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてその死骸を食べる者は自分の衣服を洗い、夕方まで汚れる。またその死骸を⟨את⟩担ぐ者は自分の衣服を洗い、夕方まで汚れる。",
+  "tokens": [
+    {
+      "surface": "והאכל",
+      "gloss": "そして食べる者は"
+    },
+    {
+      "surface": "מנבלתה",
+      "gloss": "その死骸を"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "洗う"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "自分の衣服を"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "そして汚れる"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "夕方"
+    },
+    {
+      "surface": "והנשא",
+      "gloss": "そして担ぐ者は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その死骸"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "その死骸"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "洗う"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "自分の衣服を"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "そして汚れる"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "夕方"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:03.918006350Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "ヤハウェは ⟨את⟩ あなたの地の雨を塵と灰に与える。それが天からあなたの上に下る — あなたが滅ぼし尽くされるまで〈続いて〉。",
+  "tokens": [
+    {
+      "surface": "יִתֵּ֧ן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの地の雨"
+    },
+    {
+      "surface": "מְטַ֥ר",
+      "gloss": "雨"
+    },
+    {
+      "surface": "אַרְצְךָ֖",
+      "gloss": "あなたの地の"
+    },
+    {
+      "surface": "אָבָ֣ק",
+      "gloss": "塵"
+    },
+    {
+      "surface": "וְעָפָ֑ר",
+      "gloss": "そして灰"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הַשָּׁמַ֨יִם֙",
+      "gloss": "天"
+    },
+    {
+      "surface": "יֵרֵ֣ד",
+      "gloss": "下る"
+    },
+    {
+      "surface": "עָלֶ֔יךָ",
+      "gloss": "あなたの上に"
+    },
+    {
+      "surface": "עַ֖ד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "הִשָּׁמְדָֽךְ",
+      "gloss": "あなたが滅ぼし尽くされる"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:44.895773236Z",
+  "model": "glm-5.2"
+}

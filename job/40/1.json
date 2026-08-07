@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そしてヤハウェは⟨את⟩ヨブに答え、こう言われた。",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "そして答えた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨブ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ヨブ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    }
+  ],
+  "timestamp": "2026-08-07T13:32:08.448972030Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "指揮者へ、弦楽器によって。ダビデのマスキール。",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֥חַ",
+      "gloss": "指揮者へ"
+    },
+    {
+      "surface": "בִּנְגִינֹ֗ת",
+      "gloss": "弦楽器によって"
+    },
+    {
+      "surface": "מַשְׂכִּ֥יל",
+      "gloss": "マスキール"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "ダビデの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:37.709325607Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "ヨセフは自分の召使いたち、⟨את⟩医師たちに命じて、⟨את⟩父を防腐処理するようにした。そして医師たちは⟨את⟩イスラエルを防腐処理した。",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "召使いたち"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "召使いたち"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "医師たち"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "医師たち"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "防腐処理するために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "父"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "父"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "防腐処理した"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "医師たちは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:03.563002352Z",
+  "model": "glm-5.2"
+}

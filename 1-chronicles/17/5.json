@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "わたしが⟨את⟩イスラエルを上らせた日からこの日に至るまで、家に住んだことがないからである。わたしは天幕から天幕へ、また幕舎から⟨幕舎へ⟩移って来た。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "わたしは住まなかった"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "היום",
+      "gloss": "その日"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜した"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "わたしが上らせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "わたしは〜であった"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "天幕から"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "また幕舎から"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:01.701754932Z",
+  "model": "glm-5.2"
+}

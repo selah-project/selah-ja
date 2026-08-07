@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 145,
+  "translation": "ヤハウェはすべてに恵み深く、そのあわれみはすべてのみわざの上にある。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "恵み深い"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべてに"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "そのあわれみは"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "みわざ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:22.701004822Z",
+  "model": "glm-5.2"
+}

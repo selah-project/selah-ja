@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 18:5",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "アハブはオバデヤに言った。「地を行き巡り、すべての水の泉と、すべての谷川へ行け。もしかすると草が見つかり、馬と騾馬を生かしておけるかもしれない。家畜のうちから⟨何かを⟩絶やさずに済むように。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "アハブ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "オバデヤ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "行け"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "泉"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜へ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "谷川"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "もしかすると"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "見つかる"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "そして生かしておける"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "ופרד",
+      "gloss": "と騾馬"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "נכרית",
+      "gloss": "絶やす"
+    },
+    {
+      "surface": "מהבהמה",
+      "gloss": "家畜のうちから"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:20.274673791Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "彼女は行って、エリヤの言葉どおりにした。彼女と彼と彼女の家は、日々の糧を食べた。",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "彼女は行って"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "そしてした"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "言葉どおりに"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "エリヤの"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "そして食べた"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "そして彼女"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "そして彼女の家"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々（の糧）"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:43.676691363Z",
+  "model": "glm-5.2"
+}

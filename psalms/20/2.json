@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "ヤハウェが苦しみの日にあなたに答え、ヤアコブのエロヒムの御名があなたを高く上げるように。",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "あなたに答える"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "苦しみ"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "あなたを高く上げる"
+    },
+    {
+      "surface": "שם",
+      "gloss": "御名"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:08.299743545Z",
+  "model": "glm-5.2"
+}

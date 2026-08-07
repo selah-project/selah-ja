@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてあなたたちは ⟨את⟩ 聖所の任務と ⟨את⟩ 祭壇の任務を守りなさい。そうすれば、もはやイスラエルの子らの上に憤り ⟨が⟩ あることはないであろう。",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "そしてあなたたちは守る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "聖所の任務"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "任務"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "祭壇の任務"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "任務"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "あるであろう"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "憤り"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:58:15.873901424Z",
+  "model": "glm-5.2"
+}

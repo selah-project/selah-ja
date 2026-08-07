@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 15:22",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "あなたの門のうちで、あなたはそれを食べる — 汚れた者と清い者が共に、ガゼルのように、また鹿のように。",
+  "tokens": [
+    {
+      "surface": "בשעריך",
+      "gloss": "あなたの門のうちで"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "あなたはそれを食べる"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "汚れた者"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "そして清い者が"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "共に"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "ガゼルのように"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "また鹿のように"
+    }
+  ],
+  "timestamp": "2026-08-07T10:13:34.429113443Z",
+  "model": "glm-5.2"
+}

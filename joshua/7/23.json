@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 7:23",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "彼らは⟨それらを⟩天幕の真ん中から取り、ヨシュアとイスラエルのすべての子らとのところに持って来て、ヤハウェの前に置いた。",
+  "tokens": [
+    {
+      "surface": "ויקחום",
+      "gloss": "彼らは～を取った"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "真ん中から"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "天幕の"
+    },
+    {
+      "surface": "ויבאום",
+      "gloss": "彼らは～を持って来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～のところに"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "と～に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ויצקם",
+      "gloss": "彼らは～を置いた"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "～の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:26:13.775935303Z",
+  "model": "glm-5.2"
+}

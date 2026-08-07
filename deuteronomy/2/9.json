@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてヤハウェは私に言われた、「モアブを苦しめるな、⟨את⟩モアブと戦って挑発するな。あなたに彼の地を所有地として与えないからである。ロトの子らに私は⟨את⟩アルを所有地として与えたからである。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜するな"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "苦しめるな"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モアブ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜するな"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "挑発するな"
+    },
+    {
+      "surface": "בם",
+      "gloss": "彼らと"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦って"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "私は与える"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "彼の地の"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "所有地として"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〜の子らに"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ロト"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "私は与えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アル"
+    },
+    {
+      "surface": "ער",
+      "gloss": "アル"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "所有地として"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:00.330983980Z",
+  "model": "glm-5.2"
+}

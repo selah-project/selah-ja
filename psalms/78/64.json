@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "⟨彼の⟩祭司たちは剣に倒れ、⟨彼の⟩やもめたちは泣くことがなかった。",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "⟨彼の⟩祭司たちは"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "剣に"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "倒れた"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "⟨彼の⟩やもめたちは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "泣いた"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:17.003077548Z",
+  "model": "glm-5.2"
+}

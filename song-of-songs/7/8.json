@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "お前の背丈はナツメヤシに似ている。そしてお前の胸はぶどうの房に。",
+  "tokens": [
+    {
+      "surface": "זֹ֤את",
+      "gloss": "これは"
+    },
+    {
+      "surface": "קֽוֹמָתֵךְ֙",
+      "gloss": "お前の背丈"
+    },
+    {
+      "surface": "דָּֽמְתָ֣ה",
+      "gloss": "似ている"
+    },
+    {
+      "surface": "לְתָמָ֔ר",
+      "gloss": "ナツメヤシに"
+    },
+    {
+      "surface": "וְשָׁדַ֖יִךְ",
+      "gloss": "そしてお前の胸は"
+    },
+    {
+      "surface": "לְאַשְׁכֹּלֽוֹת",
+      "gloss": "房に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:34:22.971872490Z",
+  "model": "glm-5.2"
+}

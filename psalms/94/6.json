@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "やもめと寄留者を彼らは殺し、みなごを彼らは殺害する。",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "やもめを"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "そして寄留者を"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "彼らは殺し"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "そしてみなごを"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "彼らは殺害する"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:15.095764878Z",
+  "model": "glm-5.2"
+}

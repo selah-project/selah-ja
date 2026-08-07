@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "悪者は悪者の網を欲する、しかし義者の根は⟨実を⟩与える。",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "欲する"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者は"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "網を"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "悪者の"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "しかし根は"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義者の"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与える"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:35.644169557Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "わたしはたとえに耳を傾け、琴でわたしのなぞを開く——",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "わたしは傾ける"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "たとえに"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "わたしの耳"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "わたしは開く"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "琴で"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "わたしのなぞ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:56.317208085Z",
+  "model": "glm-5.2"
+}

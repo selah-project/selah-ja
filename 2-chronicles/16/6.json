@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてアサ王はユダの全⟨民⟩を取った。彼らはラマの石と、バアシャが建てたその木材を運び去った。彼はそれで⟨את⟩ゲバと⟨את⟩ミツパを建てた。",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "そしてアサ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ユダの全"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "彼らは運び去った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ラマの石"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "石"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ラマの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その木材"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "その木材"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…を"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "バアシャは"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "彼は建てた"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "それで"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ゲバ"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "ゲバ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ミツパ"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ミツパ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:16:14.297964266Z",
+  "model": "glm-5.2"
+}

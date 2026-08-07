@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 136,
+  "translation": "ミツライムをその初子において撃った〈方に〉。まことに、とこしへまで〈永遠に〉続くそのヘセド。",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "撃った〈方に〉"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムを"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "その初子において"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしへまで"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "そのヘセド"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:53.261472139Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "若い獅子たちは獲物に向かってほえ、エルから⟨彼らの⟩食物を求める。",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "若い獅子たちは"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "ほえる"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "獲物に向かって"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "そして求める"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "エルから"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "⟨彼らの⟩食物"
+    }
+  ],
+  "timestamp": "2026-08-07T12:59:00.133828228Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "あなたにより、私たちのひしめく者たちを角で突く、あなたの御名により、私たちに立ち上がる者たちを踏みつける。",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "あなたにより"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "私たちの敵を"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "角で突く"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "あなたの御名により"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "踏みつける"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "私たちに立ち上がる者たちを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:24.247420595Z",
+  "model": "glm-5.2"
+}

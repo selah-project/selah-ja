@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして人の牛が同僚の⟨את⟩牛を突いて死んだ場合、彼らは生きている⟨את⟩その牛を売り、その銀を半分にし、また⟨את⟩死んだものも半分にする。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "突く"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛が"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "牛"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "同僚の"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "そして死ぬ"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "そして売る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その牛"
+    },
+    {
+      "surface": "השור",
+      "gloss": "その牛"
+    },
+    {
+      "surface": "החי",
+      "gloss": "生きている"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "そして半分にする"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その銀"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "その銀"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "また"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "死んだもの"
+    },
+    {
+      "surface": "המת",
+      "gloss": "死んだもの"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "半分にする"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:24.687727141Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして私は言った。「聞け、今、ヤアコブのかしらたち、イスラエルの家の支配者たちよ。あなたがたにとって、ミシュパトを知ることは⟨ではないか⟩」",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "そして私は言った"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "かしらたち"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブの"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "そして支配者たち"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたにとって"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "知ることは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ミシュパトを"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ミシュパト"
+    }
+  ],
+  "timestamp": "2026-08-07T12:24:23.937940927Z",
+  "model": "glm-5.2"
+}

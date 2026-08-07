@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "あなたのゆえに、私たちは一日中殺され、屠りの群れのように数えられるからだ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたのゆえに"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "私たちは殺され"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ずっと"
+    },
+    {
+      "surface": "היום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "私たちは数えられ"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "群れのように"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "屠りの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:29.710445677Z",
+  "model": "glm-5.2"
+}

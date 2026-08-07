@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 12:18",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "軽率に語る者がある、剣の刺し傷のようだ、しかし知恵ある者の舌は癒やし。",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ある"
+    },
+    {
+      "surface": "בוטה",
+      "gloss": "軽率に語る者が"
+    },
+    {
+      "surface": "כמדקרות",
+      "gloss": "〜の刺し傷のようだ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣の"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "しかし〜の舌は"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "知恵ある者の"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "癒やし"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:42.940219236Z",
+  "model": "glm-5.2"
+}

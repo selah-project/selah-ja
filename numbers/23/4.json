@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "エロヒムはビルアムに出会った。彼は言った——⟨את⟩七つの祭壇を整えたのであり、私は祭壇で雄牛と雄羊を献げた、と。",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "出会った"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ビルアム"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "七つの祭壇"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七つの"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "整えた"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "そして献げた"
+    },
+    {
+      "surface": "פר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "と雄羊"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "祭壇で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:00:18.393190299Z",
+  "model": "glm-5.2"
+}

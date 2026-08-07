@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "一つのトーラーと一つの裁きがあなたがたのため、そしてあなたがたと共にいる寄留者のためにも⟨ある⟩であろう。」",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "トーラー"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "そして裁き"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ある⟩であろう"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたのため"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "そして寄留者のためにも"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "寄留する"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたがたと共にいる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:57:09.615279198Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 3:26",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "モアブの王は、戦いが自分より強いのを見て、剣を抜いた七百人の者を ⟨את⟩ 彼と共に取った — エドムの王の方へ突破口を開くために。しかし彼らはできなかった。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして彼は見た"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "強い"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "自分より"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戦いが"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして彼は取った"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "七百人（の者）"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の者を"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "抜いている"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣を"
+    },
+    {
+      "surface": "להבקיע",
+      "gloss": "突破口を開くために"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の方へ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドムの"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜なかった"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "彼らはできた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:11:35.794176144Z",
+  "model": "glm-5.2"
+}

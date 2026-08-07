@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "leviticus 14:51",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして杉の木と、ヒソプと、緋色のものと、生きている鳥を取り、それらを屠られた鳥の血と生きた水に浸し、七回その家に向かって振り撒く。",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "そして取る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "木を"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "その杉"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ヒソプを"
+    },
+    {
+      "surface": "האזב",
+      "gloss": "そのヒソプ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "緋色のものを"
+    },
+    {
+      "surface": "שני",
+      "gloss": "緋色"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "その虫（染料）"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "鳥を"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "その鳥"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "生きている"
+    },
+    {
+      "surface": "וטבל",
+      "gloss": "そして浸す"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それらを"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "血に"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "その鳥"
+    },
+    {
+      "surface": "השחוטה",
+      "gloss": "屠られた"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "と水に"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "そして振り撒く"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "回"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:36.084279112Z",
+  "model": "glm-5.2"
+}

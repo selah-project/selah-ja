@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "義と公正を愛し、ヤハウェのヘセドが地を満たしている⟨⟩",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "愛し"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "義を"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "と公正を"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ヘセドが"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "満たしている"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:12.621877281Z",
+  "model": "glm-5.2"
+}

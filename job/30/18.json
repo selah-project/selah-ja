@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 30:18",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "力の多さによって⟨私の⟩衣は変えられ、⟨私の⟩上着の口のように⟨私の⟩首を締める。",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "〜の多さによって"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力の"
+    },
+    {
+      "surface": "יתחפש",
+      "gloss": "変えられる"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "私の衣は"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "〜の口のように"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "私の上着の"
+    },
+    {
+      "surface": "יאזרני",
+      "gloss": "私⟨の首⟩を締める"
+    }
+  ],
+  "timestamp": "2026-08-07T13:27:58.820292525Z",
+  "model": "glm-5.2"
+}

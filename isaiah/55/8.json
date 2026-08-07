@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "「わたしの思いはあなたがたの思いではなく、あなたがたの道はわたしの道ではない」とヤハウェは語る。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "わたしの思いは"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "あなたがたの思い"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "あなたがたの道は"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "わたしの道"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "語る"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:16.468904406Z",
+  "model": "glm-5.2"
+}

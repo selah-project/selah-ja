@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そして王がトーラーのことばを聞いたとき、王は⟨⟨自分の衣を引き裂いた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして起こった"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "聞いたとき"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王が"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "トーラーのことば"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ことばを"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "トーラーの"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "彼は引き裂いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の衣"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "自分の衣を"
+    }
+  ],
+  "timestamp": "2026-08-07T14:20:12.066801072Z",
+  "model": "glm-5.2"
+}

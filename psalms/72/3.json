@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 72,
+  "translation": "山々は民にシャロームを持ち上げよう、そして丘は義において⟨そうしよう⟩。",
+  "tokens": [
+    {
+      "surface": "יִשְׂאוּ",
+      "gloss": "持ち上げよう"
+    },
+    {
+      "surface": "הָרִים",
+      "gloss": "山々は"
+    },
+    {
+      "surface": "שָׁלוֹם",
+      "gloss": "シャロームを"
+    },
+    {
+      "surface": "לָעָם",
+      "gloss": "民に"
+    },
+    {
+      "surface": "וּגְבָעוֹת",
+      "gloss": "そして丘は"
+    },
+    {
+      "surface": "בִּצְדָקָה",
+      "gloss": "義において"
+    }
+  ],
+  "timestamp": "2026-08-07T17:20:10.036577239Z",
+  "model": "glm-5.2"
+}

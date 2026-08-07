@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 15:22",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "メナヘムは彼の先祖たちと共に横たわり、彼の息子ペカフヤが彼の代わりに王となった。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "そして横たわった"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "メナヘム"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の先祖たち"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "そして王となった"
+    },
+    {
+      "surface": "פקחיה",
+      "gloss": "ペカフヤ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の息子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼の代わりに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:14:18.904129888Z",
+  "model": "glm-5.2"
+}

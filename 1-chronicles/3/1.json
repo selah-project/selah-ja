@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 3:1",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "これらがダヴィドの子らであった、彼にヘブロンで生まれた者。長子はアムノン、アヒノアムの、イズレエル女。第二はダニエル、アビガイルの、カルメル女。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "היו",
+      "gloss": "あった"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィドの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～であるところの"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ヘブロンで"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "長子は"
+    },
+    {
+      "surface": "אמנן",
+      "gloss": "アムノン"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "アヒノアムの"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "イズレエル女"
+    },
+    {
+      "surface": "שני",
+      "gloss": "第二は"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ダニエル"
+    },
+    {
+      "surface": "לאביגיל",
+      "gloss": "アビガイルの"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "カルメル女"
+    }
+  ],
+  "timestamp": "2026-08-07T14:43:00.132956141Z",
+  "model": "glm-5.2"
+}

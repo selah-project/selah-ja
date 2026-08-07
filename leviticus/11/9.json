@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "⟨את⟩ これを、あなたたちは食べてよい — 水の中のすべてのうちで、水の中、海の中、また川の中で、ヒレとウロコを持つすべてのもの、⟨את⟩ それらをあなたたちは食べてよい。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたたちは食べてよい"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "〜のすべてのうちで"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるもの"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水の中の"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべてのもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるもの"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ヒレ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "とウロコ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水の中で"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "海の中で"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "また川の中で"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それらを"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたたちは食べてよい"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:01.312028783Z",
+  "model": "glm-5.2"
+}

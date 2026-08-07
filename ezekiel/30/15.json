@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 30:15",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "わたしはミツライム（エジプト）の要塞、シン（ペルシウム）の上にわたしの怒りを注ぎ、⟨את⟩ノーの群衆を断ち切る。",
+  "tokens": [
+    {
+      "surface": "ושפכתי",
+      "gloss": "わたしは…を注ぐ"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "わたしの怒りを"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "סין",
+      "gloss": "シン（ペルシウム）"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "要塞"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）の"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "わたしは…を断ち切る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ノーの群衆"
+    },
+    {
+      "surface": "המון",
+      "gloss": "群衆を"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ノー（テーベ）の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:10:43.796171981Z",
+  "model": "glm-5.2"
+}

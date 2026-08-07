@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "ヤワンの息子たち：エリシャ、タルシシュ、キティム、ドダニム。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "〜の息子たち"
+    },
+    {
+      "surface": "יון",
+      "gloss": "ヤワン"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "エリシャ"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "タルシシュ"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "キティム"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "ドダニム"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:39.767908576Z",
+  "model": "glm-5.2"
+}

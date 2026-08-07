@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "全地はヤハウェを恐れよ、世界のすべての住民は⟨彼⟩を畏れよ。",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "恐れよ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ヤハウェを"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨彼⟩を"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "畏れよ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "住民は"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:12.622323874Z",
+  "model": "glm-5.2"
+}

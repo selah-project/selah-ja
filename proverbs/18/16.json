@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "人の贈り物は彼のために道を広げる。そして大いなる者たちの前に、彼を導く。",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "贈り物"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "広げる"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "そして〜の前に"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "大いなる者たち"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "彼を導く"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:00.669866854Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 34:32",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "「私が見えないものを、あなたが教えてください。私が不義を行ったのなら、もう加えません」。",
+  "tokens": [
+    {
+      "surface": "בלעדי",
+      "gloss": "〜を除いて（私が見えないものを）"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "私が見る"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "הרני",
+      "gloss": "教えてください"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜のなら"
+    },
+    {
+      "surface": "עול",
+      "gloss": "不義を"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "行った"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "加え"
+    }
+  ],
+  "timestamp": "2026-08-07T13:31:14.546727609Z",
+  "model": "glm-5.2"
+}

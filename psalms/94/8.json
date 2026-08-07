@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "悟れ、民のうちの獣のような者たちよ。そして愚か者たちよ、いつあなたたちは賢くなるのか。",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "悟れ"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "獣のような者たちよ"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "民のうちの"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "そして愚か者たちよ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "いつ"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "あなたたちは賢くなるのか"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:15.095938198Z",
+  "model": "glm-5.2"
+}

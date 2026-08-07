@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 11:24",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてモーシェは出て行き、ヤハウェのことばを民に告げた。そして民の長老の中から七十人の人を集め、⟨את⟩彼らを天幕の回りに立たせた。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て行った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェのことば"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "そして集めた"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人を"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "長老の中から"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "そして立たせた"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩彼らを",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "回りに"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "天幕の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:55:20.096238517Z",
+  "model": "glm-5.2"
+}

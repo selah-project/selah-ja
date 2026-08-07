@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 59:8",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "シャロームの道を彼らは知らない。彼らの軌跡には裁きがない。彼らの小道は彼ら自身のために曲げられた。そこを歩む者はだれもシャロームを知らない。",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "道を"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "シャロームの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知る"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そしてない"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "裁きが"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "彼らの軌跡に"
+    },
+    {
+      "surface": "נתיבותיהם",
+      "gloss": "彼らの小道は"
+    },
+    {
+      "surface": "עקשו",
+      "gloss": "曲げられた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼ら自身のために"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "歩む者は"
+    },
+    {
+      "surface": "בה",
+      "gloss": "そこを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "シャロームを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:45.926556137Z",
+  "model": "glm-5.2"
+}

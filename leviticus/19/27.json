@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "あなたがたは頭のもみあげを丸く刈り込んではならない。ひげの端を損なってはならない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "あなたがたは刈り込んで"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "端を"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "あなたがたの頭の"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "損なって"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ひげの端"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "端の"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "あなたのひげの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:40:54.591793722Z",
+  "model": "glm-5.2"
+}

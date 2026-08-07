@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "「立って、ニネベ ⟨の⟩大いなる ⟨都⟩へ行け。そして ⟨あなた⟩に向かって、⟨את⟩ ⟨わたしが⟩あなたに語るその宣告を叫び ⟨伝えよ⟩。」",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "立って"
+    },
+    {
+      "surface": "לך",
+      "gloss": "行け"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ニネベ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "都"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "そして叫び伝えよ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "それに向かって"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その宣告"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "宣告"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語る"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:26:03.773556290Z",
+  "model": "glm-5.2"
+}

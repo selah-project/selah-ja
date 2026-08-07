@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "ただし、血は食べてはならない — 地の上にそれを水のように注ぎ出せ。",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたたちは食べては"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "あなたはそれを注ぎ出せ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "水のように"
+    }
+  ],
+  "timestamp": "2026-08-07T14:24:36.261988483Z",
+  "model": "glm-5.2"
+}

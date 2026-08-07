@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "あなたがた は知っているからである、私たちが エジプト の地 に住んでいた ⟨את⟩ こと、そして私たちが 通り過ぎた ⟨את⟩ 諸国 の中 を、あなたがたが 通り過ぎた 諸国 を。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたがたは"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "知っている"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "こと"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…という"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "私たちが住んだ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "…の地に"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "エジプト"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "こと"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…という"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "私たちが通り過ぎた"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "…の中を"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "諸国"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "あなたがたが"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "通り過ぎた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:20:10.359803555Z",
+  "model": "glm-5.2"
+}

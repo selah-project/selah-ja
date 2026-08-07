@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 27:24",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "ヨベルの年には、その畑は彼がそれを買い求めた者——その者にとって地の所有地であった者——のもとに返る。",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "～の年に"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "ヨベルの"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "返る"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "その畑は"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "～の者のもとに"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "彼がそれを買い求めた"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "彼から"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "～の者に"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼にとって"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "所有地であった"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:29.333411747Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "幸いなこと、歓呼を知る民は。ヤハウェ、彼らはあなたの御顔の光において歩む。",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "幸いなこと"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "知る"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "歓呼を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "〜の光において"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの御顔の"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "彼らは歩む"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:19.005733942Z",
+  "model": "glm-5.2"
+}

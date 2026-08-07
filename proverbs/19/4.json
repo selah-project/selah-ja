@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "富 ⟨は⟩ 友を多く加える、そして貧しい者はその友から離れ ⟨させられる⟩。",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "富"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "加える"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "友を"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多く"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "そして貧しい者"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "その友から"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "離れる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:03.095284142Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そして彼はそれをもって、会見の天幕の入り口の ⟨את⟩ 台座、および ⟨את⟩ 青銅の祭壇、およびそれに属する ⟨את⟩ 青銅の網、および ⟨את⟩ 祭壇のすべての器具を造った。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は造った"
+    },
+    {
+      "surface": "בה",
+      "gloss": "それをもって"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "台座"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "台座"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口の"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "青銅の祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "青銅の網"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "網"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それに属する"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "すべての器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:31.375304941Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてアザルヤフ、ナタンの子は、任務に就く者たちの上に⟨いた⟩。そしてザブド、ナタンの子は祭司であり、王の友であった。",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "そしてアザルヤフ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ナタン"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "任務に就く者たち"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "そしてザブド"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ナタン"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "友"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:17.941760566Z",
+  "model": "glm-5.2"
+}

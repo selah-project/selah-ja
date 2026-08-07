@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "わたしは山々を荒廃させ、丘々を⟨荒廃させ⟩、そのすべての草を干上がらせる。わたしは川々を島々に变え、沼地を干上がらせる。",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "荒廃させる"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山々を"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "丘々を"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そのすべての"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "草を"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "干上がらせる"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "わたしは置く"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "川々を"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "島々に"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "沼地を"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "干上がらせる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:37.280141028Z",
+  "model": "glm-5.2"
+}

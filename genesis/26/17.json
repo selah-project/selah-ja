@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そしてイツハクはそこから去り、ゲラルの谷に天幕を張り、そこに住んだ。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして去った"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イツハク"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "そして天幕を張った"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "谷に"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "ゲラルの"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして住んだ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    }
+  ],
+  "timestamp": "2026-08-07T08:58:49.503757712Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして見よ、それらの型どおりに作れ。あなたが山で見せられている⟨ものの⟩。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "そして作れ"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "それらの型どおりに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "見せられている"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:59.757137691Z",
+  "model": "glm-5.2"
+}

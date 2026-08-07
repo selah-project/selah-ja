@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 92,
+  "translation": "私の目は私に立ち向かう者たちの末路を見た。私の耳は私に立ち向かう悪を行う者たちのことを聞いた。",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "見た"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "私の目は"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "末路を"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "立ち向かう者たち"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "悪を行う者たち"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "聞いた"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "私の耳は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:07.158647391Z",
+  "model": "glm-5.2"
+}

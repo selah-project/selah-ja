@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "指揮者のため、シュシャニム（百合の調べ）に合わせて、コラフの子らのための。マシュキール（教訓の詩）。愛の歌。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者のため"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に合わせて"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "シュシャニム（百合の調べ）"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〜の子らのための"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "コラフ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "マシュキール（教訓の詩）"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "愛の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:12.734883321Z",
+  "model": "glm-5.2"
+}

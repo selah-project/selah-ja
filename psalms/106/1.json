@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "ハレル、ヤハに。ヤハウェに感謝せよ。主は善であるから。主のヘセドはとこしえまであるから。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ほめよ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハに"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "感謝せよ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善である"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえまで"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "主のヘセド"
+    }
+  ],
+  "timestamp": "2026-08-07T17:21:38.676176040Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "あなたの二つの乳房は二の子鹿のよう、雌ガゼルの双子、百合の間を草はんでいる",
+  "tokens": [
+    {
+      "surface": "שְׁנֵ֥י",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "שָׁדַ֛יִךְ",
+      "gloss": "あなたの乳房"
+    },
+    {
+      "surface": "כִּשְׁנֵ֥י",
+      "gloss": "〜のよう、二つの"
+    },
+    {
+      "surface": "עֳפָרִ֖ים",
+      "gloss": "子鹿"
+    },
+    {
+      "surface": "תְּאוֹמֵ֣י",
+      "gloss": "〜の双子"
+    },
+    {
+      "surface": "צְבִיָּ֑ה",
+      "gloss": "雌ガゼル"
+    },
+    {
+      "surface": "הָרוֹעִ֖ים",
+      "gloss": "草はんでいる"
+    },
+    {
+      "surface": "בַּשּׁוֹשַׁנִּֽים",
+      "gloss": "百合の間を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:42.520141347Z",
+  "model": "glm-5.2"
+}

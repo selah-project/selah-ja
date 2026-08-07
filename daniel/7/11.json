@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 7:11",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "その時、わたしは見た——その角が語っていた大いなる言葉の声のゆえに。わたしは見ていた——生き物が殺され、その体が滅ぼされ、燃える火に与えられるまで。",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "わたしは見た"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "（見ていた）"
+    },
+    {
+      "surface": "באדין",
+      "gloss": "その時"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～のゆえに"
+    },
+    {
+      "surface": "קל",
+      "gloss": "声"
+    },
+    {
+      "surface": "מליא",
+      "gloss": "言葉の"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "די",
+      "gloss": "～の"
+    },
+    {
+      "surface": "קרנא",
+      "gloss": "角"
+    },
+    {
+      "surface": "ממללה",
+      "gloss": "語っていた"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "わたしは見ていた"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "（見ていた）"
+    },
+    {
+      "surface": "עד",
+      "gloss": "～するまで"
+    },
+    {
+      "surface": "די",
+      "gloss": "～した時"
+    },
+    {
+      "surface": "קטילת",
+      "gloss": "殺され"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "生き物が"
+    },
+    {
+      "surface": "והובד",
+      "gloss": "滅ぼされ"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "その体が"
+    },
+    {
+      "surface": "ויהיבת",
+      "gloss": "与えられ"
+    },
+    {
+      "surface": "ליקדת",
+      "gloss": "燃える～に"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "火"
+    }
+  ],
+  "timestamp": "2026-08-07T13:46:03.114377782Z",
+  "model": "glm-5.2"
+}

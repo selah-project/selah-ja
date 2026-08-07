@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 91,
+  "translation": "あなたの脇に千人が倒れ、あなたの右手に万人が倒れても — それはあなたに近づかない。",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "倒れる"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "あなたの脇に"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千人が"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "そして万人が"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "あなたの右手に"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "近づく"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:27.070585846Z",
+  "model": "glm-5.2"
+}

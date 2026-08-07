@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 137,
+  "translation": "どうして私たちはヤハウェの歌を歌えようか、⟨את⟩ 外邦の地の上で。",
+  "tokens": [
+    {
+      "surface": "אֵ֗ךְ",
+      "gloss": "どうして"
+    },
+    {
+      "surface": "נָשִׁ֥יר",
+      "gloss": "私たちは歌えようか"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの歌"
+    },
+    {
+      "surface": "שִׁיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "עַ֝ל",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "אַדְמַ֥ת",
+      "gloss": "地"
+    },
+    {
+      "surface": "נֵכָֽר",
+      "gloss": "外邦の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:02.387399523Z",
+  "model": "glm-5.2"
+}

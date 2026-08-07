@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "あなたは海を踏んだ、あなたの馬で。多くの水の堆く涡を。",
+  "tokens": [
+    {
+      "surface": "דָּרַ֥כְתָּ",
+      "gloss": "あなたは踏んだ"
+    },
+    {
+      "surface": "בַיָּ֖ם",
+      "gloss": "海を"
+    },
+    {
+      "surface": "סוּסֶ֑יךָ",
+      "gloss": "あなたの馬で"
+    },
+    {
+      "surface": "חֹ֖מֶר",
+      "gloss": "堆く涡を"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "水の"
+    },
+    {
+      "surface": "רַבִּֽים",
+      "gloss": "多くの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:29:17.612017920Z",
+  "model": "glm-5.2"
+}

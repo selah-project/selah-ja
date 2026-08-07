@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "賢い者に与えよ、そうすれば⟨彼は⟩さらに賢くなる。義なる者に知らせよ、そうすれば⟨彼は⟩学びを増そう。",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "与えよ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "賢い者に"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "そうすれば⟨彼は⟩賢くなる"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "知らせよ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "義なる者に"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "そうすれば⟨彼は⟩増そう"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "学びを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:01.244319322Z",
+  "model": "glm-5.2"
+}

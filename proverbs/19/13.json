@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 19:13",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "息子の愚かさは父への破滅、女の争いは絶え間なく滴る水のようだ。",
+  "tokens": [
+    {
+      "surface": "הות",
+      "gloss": "破滅"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "彼の父への"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚かな"
+    },
+    {
+      "surface": "ודלף",
+      "gloss": "滴る"
+    },
+    {
+      "surface": "טרד",
+      "gloss": "絶え間なく続く"
+    },
+    {
+      "surface": "מדיני",
+      "gloss": "争い"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:17.140618848Z",
+  "model": "glm-5.2"
+}

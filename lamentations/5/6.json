@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ミツライムに、アッシュールに、手を差し出した、パンを満たされるために。",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "私たちは差し出した"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アッシュール（アッシリア）"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "満たされるために"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:47.197578800Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "善を憎む者、悪を愛する者。彼らの皮を彼らの上から剥ぎ取り、彼らの肉を彼らの骨の上から引き裂く者。",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "憎む者"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善を"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "そして愛する者"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "剥ぎ取る者"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "彼らの皮を"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "彼らの上から"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "そして彼らの肉を"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜の上から"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "彼らの骨の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:24:23.938140879Z",
+  "model": "glm-5.2"
+}

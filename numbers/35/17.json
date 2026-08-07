@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 35:17",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "また、もし人が、それで死ぬことができる手の石で、彼を打ち、彼が死ぬなら、彼は殺人者である — その殺人者は必ず殺されなければならない。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "また、もし"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "石で"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— それで"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死ぬことができる"
+    },
+    {
+      "surface": "בה",
+      "gloss": "それで"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "彼を打ったなら"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして彼が死ぬなら"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "殺人者"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は〜である"
+    },
+    {
+      "surface": "מות",
+      "gloss": "必ず殺され"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "殺されなければならない"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "その殺人者は"
+    }
+  ],
+  "timestamp": "2026-08-07T18:27:38.485308852Z",
+  "model": "glm-5.2"
+}

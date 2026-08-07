@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして王は言った。「こちらが『これは私の生きている息子、あなたの息子が死んだ者だ』と言い、あちらが『いや、あなたの息子が死んだ者、私の息子が生きている者だ』と言う。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "こちら"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "が言う"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "私の息子"
+    },
+    {
+      "surface": "החי",
+      "gloss": "生きている"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "あなたの息子"
+    },
+    {
+      "surface": "המת",
+      "gloss": "死んだ者"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "あちら"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "が言う"
+    },
+    {
+      "surface": "לא",
+      "gloss": "いや"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "あなたの息子"
+    },
+    {
+      "surface": "המת",
+      "gloss": "死んだ者"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "私の息子"
+    },
+    {
+      "surface": "החי",
+      "gloss": "生きている者"
+    }
+  ],
+  "timestamp": "2026-08-07T14:27:21.646506863Z",
+  "model": "glm-5.2"
+}

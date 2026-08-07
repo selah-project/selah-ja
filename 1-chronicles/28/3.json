@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "しかしエロヒムは私に言われた。『あなたは私の名のために家を建ててはならない。あなたは戦争の人であり、血を流したからである。』",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "しかしエロヒムは"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言われた"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "あなたは建てては"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家を"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "私の名のため"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "戦争の"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "そして血を"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "流した"
+    }
+  ],
+  "timestamp": "2026-08-07T14:09:54.787450437Z",
+  "model": "glm-5.2"
+}

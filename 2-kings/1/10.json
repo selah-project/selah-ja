@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "エリヤフは答え、そして五十人の隊長に告げた。「もし私がエロヒムの男なら、火が天から下って来て、あなた⟨את⟩とあなたの五十人を食い尽くすように。」すると火が天から下って来て、彼⟨את⟩と彼の五十人を食い尽くした。",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "答え"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "エリヤフ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "שר",
+      "gloss": "隊長"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "五十人の"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私（が）"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "下って来る"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火が"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～から"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "食い尽くす"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "あなた"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの五十人"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "あなたの五十人"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "下って来た"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火が"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～から"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "食い尽くした"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼の五十人"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "彼の五十人"
+    }
+  ],
+  "timestamp": "2026-08-07T16:51:17.434140687Z",
+  "model": "glm-5.2"
+}

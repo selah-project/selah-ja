@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "もし⟨彼が⟩立ち返らなければ、⟨彼は⟩その剣を鍛え、その弓を張り、これを備える。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "立ち返る"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "彼の剣"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "鍛える"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "彼の弓"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "張る"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "そしてこれを備える"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:28.727645731Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "鳥は地の罠の上に落ちるか、それに⟨わな⟩がないのに。罠は地から上がり、捕らえないのに⟨何か⟩を捕らえるか。",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "落ちるか"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "鳥は"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פח",
+      "gloss": "罠"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "そして罠"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "לה",
+      "gloss": "それに"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "上がるか"
+    },
+    {
+      "surface": "פח",
+      "gloss": "罠は"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "そして捕らえること"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "捕らえる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:21:17.230571923Z",
+  "model": "glm-5.2"
+}

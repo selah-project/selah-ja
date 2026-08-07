@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 59:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "まむしの卵を孵化させ、くもの巣を織る。彼らの卵を食べる者は死に、それを押しつぶす者からは毒蛇が破り出る。",
+  "tokens": [
+    {
+      "surface": "ביצי",
+      "gloss": "卵は"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "まむしの"
+    },
+    {
+      "surface": "בקעו",
+      "gloss": "孵化させる"
+    },
+    {
+      "surface": "וקורי",
+      "gloss": "そして巣を"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "くもの"
+    },
+    {
+      "surface": "יארגו",
+      "gloss": "織る"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "食べる者は"
+    },
+    {
+      "surface": "מביציהם",
+      "gloss": "彼らの卵から"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死ぬ"
+    },
+    {
+      "surface": "והזורה",
+      "gloss": "そしてそれを押しつぶす者から"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "破り出る"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "毒蛇が"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:45.925882429Z",
+  "model": "glm-5.2"
+}

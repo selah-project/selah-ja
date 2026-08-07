@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてサタンは答えた——ヤハウェの⟨את⟩。そして言った。「ただで、ヨブはエロヒムを恐れるのか。」",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "そして答えた"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "サタンは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "ただで"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "恐れるのか"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ヨブは"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:44.214992658Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 45:17",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "そしてパロはヨセフに言った、「あなたの兄弟たちに言え、『これを行え。⟨あなたがたの⟩家畜を負わせ、去って、カナンの地へ行け』」と。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言え"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟たち"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これを"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "行え"
+    },
+    {
+      "surface": "טענו",
+      "gloss": "負わせよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがたの家畜"
+    },
+    {
+      "surface": "בעירכם",
+      "gloss": "あなたがたの家畜"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "そして去れ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "行け"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "〜の地へ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "カナン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:10:50.599681457Z",
+  "model": "glm-5.2"
+}

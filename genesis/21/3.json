@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてアブラハムは、自分に生まれた息子の名を、サラが自分に産んだ⟨その子⟩、イツハクと呼んだ。",
+  "tokens": [
+    {
+      "surface": "וַיִּקְרָ֨א",
+      "gloss": "そして呼んだ"
+    },
+    {
+      "surface": "אַבְרָהָ֜ם",
+      "gloss": "アブラハムは"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "名"
+    },
+    {
+      "surface": "שֶׁם",
+      "gloss": "名を"
+    },
+    {
+      "surface": "בְּנ֧וֹ",
+      "gloss": "自分の息子の"
+    },
+    {
+      "surface": "הַנּֽוֹלַד",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "ל֛וֹ",
+      "gloss": "自分に"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "יָלְדָה",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "לּ֥וֹ",
+      "gloss": "自分に"
+    },
+    {
+      "surface": "שָׂרָ֖ה",
+      "gloss": "サラが"
+    },
+    {
+      "surface": "יִצְחָֽק",
+      "gloss": "イツハク"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:11.476022489Z",
+  "model": "glm-5.2"
+}

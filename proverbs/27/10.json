@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "あなたの友、そしてあなたの父の友を捨てるな。あなたの兄弟の家には、あなたの災いの日に入るな。近くに住む隣人は、遠くの兄弟より良い。",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "あなたの友を"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "そして……の友を"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "捨てる"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "そして……の家に"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "入る"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "……の日"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "あなたの災い"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "住む者は"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "近くに"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "兄弟よりも"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "遠くの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:35.447011633Z",
+  "model": "glm-5.2"
+}

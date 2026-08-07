@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "サウルはダヴィドの顔を恐れた。ヤハウェが彼と共におられたからであり、サウルから離れたので。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "恐れた"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウルは"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "～の顔を"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィドの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～だから"
+    },
+    {
+      "surface": "היה",
+      "gloss": "おられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "～から離れて"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウル"
+    },
+    {
+      "surface": "סר",
+      "gloss": "離れた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:26.462505205Z",
+  "model": "glm-5.2"
+}

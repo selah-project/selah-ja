@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 65,
+  "translation": "咎の事がらが私を圧倒した。私たちの背きについては、あなた ⟨が⟩ それらを贖われる。",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "事がらが"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "咎の"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "圧倒した"
+    },
+    {
+      "surface": "מני",
+      "gloss": "私を"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "私たちの背きについては"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "贖われる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:39.801675024Z",
+  "model": "glm-5.2"
+}

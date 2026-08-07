@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして王は誓って言った。「生けるヤハウェによって。⟨彼⟩は⟨את⟩私のネフェシをあらゆる苦難から贖い出された⟨方⟩」",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "そして誓った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生ける"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～という"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "贖い出された"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私のネフェシ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私のネフェシ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "あらゆる"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "苦難から"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:39.228332786Z",
+  "model": "glm-5.2"
+}

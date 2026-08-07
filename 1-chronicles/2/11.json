@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてナフションは⟨את⟩サルマを生み、サルマは⟨את⟩ボアズを生んだ。",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "そしてナフションは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "サルマ"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "サルマ"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "そしてサルマは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ボアズ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ボアズ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:41.365302172Z",
+  "model": "glm-5.2"
+}

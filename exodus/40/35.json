@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 40:35",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そしてモーセは会見の天幕に入ることができなかった。雲がその上に留まっていたからであり、ヤハウェの栄光が⟨את⟩幕屋に満ちていたからである。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして〜できなかった"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "できた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "入ることに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "留まっていた"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "そして栄光"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "満ちていた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "幕屋"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋"
+    }
+  ],
+  "timestamp": "2026-08-07T16:29:40.747534273Z",
+  "model": "glm-5.2"
+}

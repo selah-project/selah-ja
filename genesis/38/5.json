@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そして彼女は再び加えて、息子を産み、⟨את⟩彼の名をシェラと呼んだ。そして彼女が彼を産んだとき、彼⟨は⟩キズブにいた。",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "そして彼女は加えた"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再び"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "そして産んだ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "そして彼女は呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の名を"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の名を"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "シェラ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "そして〜だった"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "キズブに"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "彼女が産んだとき"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:27.953505267Z",
+  "model": "glm-5.2"
+}

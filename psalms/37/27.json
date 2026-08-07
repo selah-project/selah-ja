@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "悪から離れよ、そして善を行なえ、そうすれば⟨あなたは⟩とこしえに住まう。",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "離れよ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "悪から"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "そして行なえ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善を"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "そして住まう"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:33.472269844Z",
+  "model": "glm-5.2"
+}

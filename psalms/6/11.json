@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "私のすべての敵は恥を見よ、大いに恐れおののけ。彼らは引き返せ、瞬く間に恥を見よ。",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "恥を見よ"
+    },
+    {
+      "surface": "ובהלו",
+      "gloss": "そして恐れおののけ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大いに"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "私の敵"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "引き返せ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "恥を見よ"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "瞬く間に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:33:51.191825110Z",
+  "model": "glm-5.2"
+}

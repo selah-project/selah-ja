@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 12:28",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして今、⟨את⟩ 残りの民を集め、その町に対して陣を敷き、それを攻略せよ。私が ⟨את⟩ その町を攻略し、私の名がそれの上に呼ばれることのないために。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "集めよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "残りの民"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "残りの"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "וחנה",
+      "gloss": "陣を敷け"
+    },
+    {
+      "surface": "על",
+      "gloss": "に対して"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "それを攻略せよ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "〜ないために"
+    },
+    {
+      "surface": "אלכד",
+      "gloss": "私が攻略する"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その町"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "ונקרא",
+      "gloss": "呼ばれる"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "私の名"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "その上に"
+    }
+  ],
+  "timestamp": "2026-08-07T16:46:28.869225865Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "そしてあなたは ⟨את⟩ 罪過の雄牛を取り、家の定められた場所、聖所の外でそれを焼かなければならない。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "そしてあなたは取る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "罪過の雄牛"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "罪過"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "そしてそれは焼かれる"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "定められた場所で"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外に"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "聖所の"
+    }
+  ],
+  "timestamp": "2026-08-07T17:11:08.930499368Z",
+  "model": "glm-5.2"
+}

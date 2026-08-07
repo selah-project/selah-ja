@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてサラは見た — ハガル、そのミツライムの女が、アブラハムに産んだ ⟨את⟩ その息子が、戯れているのを。",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "サラ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "息子"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ハガル"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "そのミツライムの女"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "彼女が産んだ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "アブラハムに"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "戯れて"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:36.642590198Z",
+  "model": "glm-5.2"
+}

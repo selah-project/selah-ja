@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "まことに、彼らは不正を行わず、⟨彼の⟩道に歩んだ。",
+  "tokens": [
+    {
+      "surface": "אַ֭ף",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "פָעֲל֣וּ",
+      "gloss": "行った"
+    },
+    {
+      "surface": "עַוְלָ֑ה",
+      "gloss": "不正"
+    },
+    {
+      "surface": "בִּדְרָכָ֥יו",
+      "gloss": "道に"
+    },
+    {
+      "surface": "הָלָֽכוּ",
+      "gloss": "歩んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:24.624791779Z",
+  "model": "glm-5.2"
+}

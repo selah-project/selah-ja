@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 6:6",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "下層の階状構造は幅五アンマ、中層は幅六アンマ、第三層は幅七アンマであった。家の周囲の外側に段差を設けたからである — 家の壁を〈抱え込まない〉ために。",
+  "tokens": [
+    {
+      "surface": "היצוע",
+      "gloss": "階状構造"
+    },
+    {
+      "surface": "התחתנה",
+      "gloss": "下層の"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "幅"
+    },
+    {
+      "surface": "והתיכנה",
+      "gloss": "そして中層"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "幅"
+    },
+    {
+      "surface": "והשלישית",
+      "gloss": "そして第三層"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "幅"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "מגרעות",
+      "gloss": "段差を"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "設けた"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲に"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "外側の"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "〜しないために"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "抱え込む"
+    },
+    {
+      "surface": "בקירות",
+      "gloss": "壁を"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:16.195371650Z",
+  "model": "glm-5.2"
+}

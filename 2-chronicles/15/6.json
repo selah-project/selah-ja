@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして国は国によって、町は町によって打ち砕かれた。エロヒムがあらゆる苦難において彼らをかき乱されたからである。",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "そして打ち砕かれた"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "国は"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "国によって"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "そして町は"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町によって"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムが"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "彼らをかき乱された"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "あらゆる"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "苦難において"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:29.105824491Z",
+  "model": "glm-5.2"
+}

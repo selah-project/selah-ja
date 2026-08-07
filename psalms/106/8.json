@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "そして彼は彼らを救った、彼の名のゆえに、知らせるために ⟨את⟩ 彼の力を。",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "そして彼は彼らを救った"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の名"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "知らせるために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の力を"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "彼の力"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:17.685372619Z",
+  "model": "glm-5.2"
+}

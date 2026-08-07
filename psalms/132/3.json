@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 132,
+  "translation": "「もし私が私の家の天幕に入らないなら、もし私が私の寝床のひたいの上に上らないなら、",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "私が入らないなら"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "天幕に"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "私の家の"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "私が上らないなら"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "寝床の"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ひたい"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:27.634214759Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "わたしは泣いた、断食のうちに、わたしのネフェシュは。そしてそれはわたしにとってそしりとなった。",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "わたしは泣いた"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "断食のうちに"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "わたしのネフェシュ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "そしてそれは〜となった"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "そしりとして"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしにとって"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:29.429803990Z",
+  "model": "glm-5.2"
+}

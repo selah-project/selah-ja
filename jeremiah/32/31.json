@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 32:31",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "というのも、わたしの怒りと、わたしの憤りのゆえに、この町は彼らがそれを建てた日からこの日に至るまで、わたしにとって⟨そう⟩であったからである──わたしの顔の前からそれを退けるために。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "わたしの怒り"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜のゆえに"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "わたしの憤り"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "であった"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしにとって"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町は"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "למן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "היום",
+      "gloss": "その日"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼らが建てた"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "それ（町）"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "そして〜に至るまで"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "להסירה",
+      "gloss": "それを退けるために"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "פני",
+      "gloss": "わたしの顔の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:52:53.074198962Z",
+  "model": "glm-5.2"
+}

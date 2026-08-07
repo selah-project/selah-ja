@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてわたしは彼の子の手から王権を取り、⟨את⟩ 十の部族をあなたに与えよう。",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "そしてわたしは取る"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "王権を"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "〜の手から"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の子"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "そしてわたしはそれを与える"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "十の部族"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "十の"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "部族"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:56.903725857Z",
+  "model": "glm-5.2"
+}

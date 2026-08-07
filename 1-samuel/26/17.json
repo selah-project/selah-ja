@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "シャウルはダビドの声を認め、言った。「あなたの声⟨は⟩これ⟨か⟩、わたしの子ダビドよ。」ダビドは言った。「わたしの声⟨です⟩、わたしの主、王よ。」",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "認めた"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダビドの声"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビドの"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "あなたの声"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "わたしの子"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビドよ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビドは"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "わたしの声"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "わたしの主"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王よ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:44.086304950Z",
+  "model": "glm-5.2"
+}

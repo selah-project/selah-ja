@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ヨシュアはイスラエルの子らに言った。「ここに近づき、ヤハウェ ⟨את⟩ あなたがたのエロヒムのことばを聞け。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュアは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "近づけ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ここに"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "そして聞け"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ことば"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "あなたがたのエロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T16:39:21.826655640Z",
+  "model": "glm-5.2"
+}

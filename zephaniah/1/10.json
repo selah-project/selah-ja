@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 1:10",
+  "book": "zephaniah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "「その日が来る — ヤハウェの御告げ — 魚の門から叫びの声が、第二区から哀哭が、丘々から大いなる破滅が。」",
+  "tokens": [
+    {
+      "surface": "וְהָיָה",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "בַיּוֹם",
+      "gloss": "その日に"
+    },
+    {
+      "surface": "הַהוּא",
+      "gloss": "その"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "קוֹל",
+      "gloss": "声が"
+    },
+    {
+      "surface": "צְעָקָה",
+      "gloss": "叫びの"
+    },
+    {
+      "surface": "מִשַּׁעַר",
+      "gloss": "〜の門から"
+    },
+    {
+      "surface": "הַדָּגִים",
+      "gloss": "魚の"
+    },
+    {
+      "surface": "וִילָלָה",
+      "gloss": "哀哭が"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הַמִּשְׁנֶה",
+      "gloss": "第二区"
+    },
+    {
+      "surface": "וְשֶׁבֶר",
+      "gloss": "破滅が"
+    },
+    {
+      "surface": "גָּדוֹל",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "מֵהַגְּבָעוֹת",
+      "gloss": "丘々から"
+    }
+  ],
+  "timestamp": "2026-08-07T14:37:29.294153173Z",
+  "model": "glm-5.2"
+}

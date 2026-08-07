@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 40:36",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "雲が幕屋の上から上がるとき、イスラエルの子らはそのすべての旅路において旅立った。",
+  "tokens": [
+    {
+      "surface": "ובהעלות",
+      "gloss": "そして〜上がるとき"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲が"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜の上から"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "旅立った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "そのすべての"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "旅路において"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:14.424393538Z",
+  "model": "glm-5.2"
+}

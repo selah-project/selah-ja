@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そして⟨את⟩ バセマトを — イシュマエルの娘、ネバヨトの姉妹を。",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "そして⟨את⟩",
+      "marks": "バセマト"
+    },
+    {
+      "surface": "בָּשְׂמַת",
+      "gloss": "バセマト"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "יִשְׁמָעֵאל",
+      "gloss": "イシュマエル"
+    },
+    {
+      "surface": "אֲחוֹת",
+      "gloss": "姉妹"
+    },
+    {
+      "surface": "נְבָיוֹת",
+      "gloss": "ネバヨト"
+    }
+  ],
+  "timestamp": "2026-08-07T16:25:25.450036869Z",
+  "model": "glm-5.2"
+}

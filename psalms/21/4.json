@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "あなたが彼を良き祝福で迎えるので、あなたは彼の頭に純金の冠を置かれるから。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜ので、だから"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "あなたは彼を迎える"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "祝福で"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良き"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "あなたは置かれる"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "彼の頭に"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "冠を"
+    },
+    {
+      "surface": "פז",
+      "gloss": "純金の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:31.765982916Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてヤハウェの使いはエリヤに語った。「彼とともに下れ。彼を恐れるな。」そして⟨彼は⟩立ち上がり、彼とともに王の⟨ところへ⟩下って行った。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "使いは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "エリヤ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "下れ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "彼とともに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "彼を"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "そして立ち上がった"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "そして下って行った"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "彼とともに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-08-07T11:10:16.638905744Z",
+  "model": "glm-5.2"
+}

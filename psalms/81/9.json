@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 81,
+  "translation": "聞け、わたしの民、わたしはあなたに警戒しよう。イスラエルよ、もしあなたがわたしに聞き従うなら。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "わたしは警戒しよう"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたに対して"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルよ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "あなたが聞き従う"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:09.589057550Z",
+  "model": "glm-5.2"
+}

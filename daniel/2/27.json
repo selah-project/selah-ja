@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "daniel 2:27",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ダニエルは王の前に答えて言った。王がお尋ねになるその秘密は、賢者たち、呪術者たち、魔術師たち、占者たちが王に示すことはできないのです。",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "答えて"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ダニエルは"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "前に"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王の"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "秘密は"
+    },
+    {
+      "surface": "די",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王が"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "お尋ねになる"
+    },
+    {
+      "surface": "לא",
+      "gloss": "できない"
+    },
+    {
+      "surface": "חכימין",
+      "gloss": "賢者たちも"
+    },
+    {
+      "surface": "אשפין",
+      "gloss": "呪術者たちも"
+    },
+    {
+      "surface": "חרטמין",
+      "gloss": "魔術師たちも"
+    },
+    {
+      "surface": "גזרין",
+      "gloss": "占者たちも"
+    },
+    {
+      "surface": "יכלין",
+      "gloss": "〜ことが"
+    },
+    {
+      "surface": "להחויה",
+      "gloss": "示す"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "王に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:44:02.648411212Z",
+  "model": "glm-5.2"
+}

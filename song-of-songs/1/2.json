@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "彼が私に口の口づけで口づけしてくださればよい。あなたの愛は酒よりも良い。",
+  "tokens": [
+    {
+      "surface": "יִשָּׁקֵ֨נִי֙",
+      "gloss": "彼が私に口づけしてくださればよい"
+    },
+    {
+      "surface": "מִנְּשִׁיק֣וֹת",
+      "gloss": "〜の口づけで"
+    },
+    {
+      "surface": "פִּ֔יהוּ",
+      "gloss": "彼の口"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "טוֹבִ֥ים",
+      "gloss": "良い"
+    },
+    {
+      "surface": "דֹּדֶ֖יךָ",
+      "gloss": "あなたの愛"
+    },
+    {
+      "surface": "מִיָּֽיִן",
+      "gloss": "酒よりも"
+    }
+  ],
+  "timestamp": "2026-08-07T13:32:46.127100675Z",
+  "model": "glm-5.2"
+}

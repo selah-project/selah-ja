@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "ヤハウェはヨシュアに言われた。「立って上がれ。なぜあなたは顔を覆ってうずくまっているのか。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "קם",
+      "gloss": "立ち上がれ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "このように"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "倒れている"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "顔を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:25:40.071981996Z",
+  "model": "glm-5.2"
+}

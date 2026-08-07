@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 18:23",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "また、いかなる獣に対しても、あなたは自分の寝床を与えてはならない — それによって汚れてはならない。また、女は獣の前に立ってこれと交わってはならない。それは混交である。",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "またいかなる"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "獣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "あなたは与えてはならない"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "あなたの寝床"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "汚れによって"
+    },
+    {
+      "surface": "בה",
+      "gloss": "それにおいて"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "また女は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "立ってはならない"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "獣"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "これと交わるために"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "混交"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それ⟨である⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T16:30:53.071399852Z",
+  "model": "glm-5.2"
+}

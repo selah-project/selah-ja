@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてその人エルカナと彼の全家は上って行った、ヤハウェに⟨את⟩年ごとの犠牲と⟨את⟩彼の誓願を献げるために。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "そして上って行った"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その人は"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "エルカナ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そして…全体"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "彼の家"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "献げるために"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "年ごとの犠牲"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "犠牲"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "年ごとの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼の誓願"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "彼の誓願"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:31.475624052Z",
+  "model": "glm-5.2"
+}

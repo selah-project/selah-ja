@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "貧しい者⟨となる⟩、欺きの手を働かせる者は。しかし勤勉な手は富ませる。",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "貧しい者"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "働かせる者"
+    },
+    {
+      "surface": "כף",
+      "gloss": "手（ひら）"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "欺きの"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "しかし手"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "勤勉な"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "富ませる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:17.465228445Z",
+  "model": "glm-5.2"
+}

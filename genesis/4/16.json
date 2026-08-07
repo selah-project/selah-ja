@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "こうしてカインはヤハウェの顔から出て行き、ノド（さすらい）の地、エデンの東に住んだ。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て行った"
+    },
+    {
+      "surface": "קין",
+      "gloss": "カインは"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "〜の顔から"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして住んだ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "ノド（さすらい）"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "〜の東に"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "エデンの"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:02.585515897Z",
+  "model": "glm-5.2"
+}

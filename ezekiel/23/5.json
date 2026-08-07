@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 23:5",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "アホラはわたしのもとで淫行を行い、彼女の恋人たち――近くにいるアッシュールの人々に――身を焦がした。",
+  "tokens": [
+    {
+      "surface": "ותזן",
+      "gloss": "そして淫行を行った"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "アホラ"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "わたしのもとで"
+    },
+    {
+      "surface": "ותעגב",
+      "gloss": "そして身を焦がした"
+    },
+    {
+      "surface": "על",
+      "gloss": "～に"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "彼女の恋人たち"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に向かって"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アッシュール"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "近くにいる"
+    }
+  ],
+  "timestamp": "2026-08-07T14:35:27.861787154Z",
+  "model": "glm-5.2"
+}

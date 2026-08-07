@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nahum 3:8",
+  "book": "nahum",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "あなたはナオ・アモンよりも良かったのか。それは川のほとりに住み、水がその周りにあり、海がその城壁、海がその防壁であるところの者。",
+  "tokens": [
+    {
+      "surface": "התיטבי",
+      "gloss": "あなたは〜より良かったのか"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "〜よりも"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "アモン"
+    },
+    {
+      "surface": "הישבה",
+      "gloss": "住む"
+    },
+    {
+      "surface": "ביארים",
+      "gloss": "川のほとりに"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水が"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周りに"
+    },
+    {
+      "surface": "לה",
+      "gloss": "それの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ところの"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "防壁"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海が"
+    },
+    {
+      "surface": "מים",
+      "gloss": "海が"
+    },
+    {
+      "surface": "חומתה",
+      "gloss": "その城壁"
+    }
+  ],
+  "timestamp": "2026-08-07T12:27:28.301884675Z",
+  "model": "glm-5.2"
+}

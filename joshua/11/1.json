@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 11:1",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして、ハツォルの王ヤビンが ⟨これらを⟩ 聞くと、彼はマドンの王ヨバブに、およびシムロンの王に、およびアクシャフの王に遣わした。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…になった"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "…が聞くと"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ヤビン"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ハツォル"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "彼は遣わした"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に向かって"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ヨバブ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "マドン"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "および…に向かって"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "シムロン"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "および…に向かって"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "アクシャフ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:27:39.453504187Z",
+  "model": "glm-5.2"
+}

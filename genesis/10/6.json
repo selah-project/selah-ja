@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "ハムの子らはクシュ、ミツライム、プト、カナンである。",
+  "tokens": [
+    {
+      "surface": "וּבְנֵ֖י",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "חָ֑ם",
+      "gloss": "ハム"
+    },
+    {
+      "surface": "כּ֥וּשׁ",
+      "gloss": "クシュ"
+    },
+    {
+      "surface": "וּמִצְרַ֖יִם",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "וּפ֥וּט",
+      "gloss": "プト"
+    },
+    {
+      "surface": "וּכְנָֽעַן",
+      "gloss": "カナン"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:41.101029896Z",
+  "model": "glm-5.2"
+}

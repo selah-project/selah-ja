@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "ヤハウェはパロの心を強くされたので、⟨彼⟩はイスラエルの子らを去らせなかった。",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "そして強くされた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "パロの心"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心を"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "去らせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子ら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:42.219496063Z",
+  "model": "glm-5.2"
+}

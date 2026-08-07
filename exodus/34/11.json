@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "私が今日あなたに命じる ⟨את⟩ ⟨事⟩ を守れ。見よ、私はあなたの前から ⟨את⟩ エモリ人とカナン人とヒッタイト人とペリジ人とヒビ人とエブス人を追い払う。」",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "守れ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなた自身"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの⟨事⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私が"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "あなたに命じる"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "見よ、私は〜する"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "追い払う"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "あなたの前から"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エモリ人"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "エモリ人"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "とカナン人"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "とヒッタイト人"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "とペリジ人"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "とヒビ人"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "とエブス人"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:12.853587076Z",
+  "model": "glm-5.2"
+}

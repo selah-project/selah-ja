@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "彼女を隠そうとする者は風を隠し、そして彼の右手の油は叫び出る。",
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "彼女を隠そうとする者は"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "隠す"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風を"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "そして油は"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "彼の右手の"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "叫び出る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:34.091748984Z",
+  "model": "glm-5.2"
+}

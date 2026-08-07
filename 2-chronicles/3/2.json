@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼は建て始めた、第二の月の、二日に、彼の治世の四年に。",
+  "tokens": [
+    {
+      "surface": "וַ֠יָּחֶל",
+      "gloss": "そして…始めた"
+    },
+    {
+      "surface": "לִבְנ֞וֹת",
+      "gloss": "建てる"
+    },
+    {
+      "surface": "בַּחֹ֤דֶשׁ",
+      "gloss": "…月に"
+    },
+    {
+      "surface": "הַשֵּׁנִי֙",
+      "gloss": "第二の"
+    },
+    {
+      "surface": "בַּשֵּׁנִ֔י",
+      "gloss": "二日に"
+    },
+    {
+      "surface": "בִּשְׁנַ֥ת",
+      "gloss": "…年に"
+    },
+    {
+      "surface": "אַרְבַּ֖ע",
+      "gloss": "四"
+    },
+    {
+      "surface": "לְמַלְכוּתֽוֹ",
+      "gloss": "彼の治世の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:24.928971779Z",
+  "model": "glm-5.2"
+}

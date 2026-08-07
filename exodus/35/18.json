@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "⟨את⟩ 幕屋の釘、そして ⟨את⟩ 庭院の釘、と ⟨את⟩ それらの網を、",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "幕屋の釘"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "釘"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして ⟨את⟩",
+      "marks": "庭院の釘"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "釘"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭院の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と ⟨את⟩",
+      "marks": "それらの網"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "それらの網"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:28.061432588Z",
+  "model": "glm-5.2"
+}

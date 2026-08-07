@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そしてシェロモの知恵は、東のすべての子ら⟨の⟩知恵より、またミツライム⟨の⟩すべての知恵より増し加わった。",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "そして増し加わった"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "知恵"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモの"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "〜の知恵より"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "東の"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "またすべての〜より"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "知恵"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    }
+  ],
+  "timestamp": "2026-08-07T16:48:51.585405063Z",
+  "model": "glm-5.2"
+}

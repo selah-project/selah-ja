@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてあなたたちは⟨את⟩わたしの定めを守り、それを行え。わたしこそあなたたちを聖別するヤハウェである。",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "あなたたちは守る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの定め"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "わたしの定め"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "そしてあなたたちは行う"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "それらを"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしこそ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "あなたたちを聖別する"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:37.340168670Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そして地の民は王アモンに対して謀反を企てた者たちすべてを打ち、地の民はその子ヨシヤを彼に代わって王とした。",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "そして…打った"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "謀反を企てた者たちすべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "謀反を企てた者たち"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に対して"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "アモン"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "そして…王とした"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨシヤ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ヨシヤ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代わって"
+    }
+  ],
+  "timestamp": "2026-08-07T14:19:25.128409423Z",
+  "model": "glm-5.2"
+}

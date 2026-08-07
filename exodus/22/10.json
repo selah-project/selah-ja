@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "ヤハウェの誓いが二人の間にあって、彼が同僚の業に手を伸ばさなかったかどうか⟨を確かめる⟩。その所有者はそれを受け入れ、彼は償ってはならない。",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "誓い"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間に"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "二人"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜かどうか"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "伸ばした"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "手を"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "〜の業に"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "同僚"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "そして受け入れる"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "その所有者は"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "償う"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:45.781016093Z",
+  "model": "glm-5.2"
+}

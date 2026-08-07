@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして彼は⟨את⟩全焼の献げ物を近づけ、定めに従ってそれを行った。",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "そして彼は近づけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全焼の献げ物"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の献げ物"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "そして彼は行った"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "定めに従って"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:25.168651241Z",
+  "model": "glm-5.2"
+}

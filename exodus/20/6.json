@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてヘセドを千〈世代〉に行う、わたしを愛する者たちに、そしてわたしのミツァボットを守る者たちに。",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "そして行う"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ヘセド"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "千に"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "わたしを愛する者たちに"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "そして守る者たちに"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "わたしのミツァボット"
+    }
+  ],
+  "timestamp": "2026-08-07T09:20:09.036707653Z",
+  "model": "glm-5.2"
+}

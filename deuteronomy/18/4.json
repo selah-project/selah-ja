@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "あなたの穀物の初物、あなたの新しいぶどう酒、あなたの油、そしてあなたの羊の毛の初物を彼に与えなければならない。",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "初物を"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "あなたの穀物の"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "あなたの新しいぶどう酒を"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "とあなたの油を"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "そして初物を"
+    },
+    {
+      "surface": "גז",
+      "gloss": "毛の"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "あなたの羊の"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:20.255604231Z",
+  "model": "glm-5.2"
+}

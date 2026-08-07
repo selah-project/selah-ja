@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "モーシェは命じた、⟨את⟩レビ人たちに — ヤハウェの契約の箱を担ぐ者たちに — 言って、",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "そして命じた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レビ人たち"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人たち"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "担ぐ者たち"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約の"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    }
+  ],
+  "timestamp": "2026-08-07T10:20:57.822525811Z",
+  "model": "glm-5.2"
+}

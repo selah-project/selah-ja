@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてカナンは⟨את⟩ツィドンを、その長子を、生み、そして⟨את⟩ヘトを、",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "そしてカナンは"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ツィドン"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ツィドン"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "その長子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ヘト"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ヘト"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:15.556775251Z",
+  "model": "glm-5.2"
+}

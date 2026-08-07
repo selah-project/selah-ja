@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "この者が⟨その⟩アハロンとモシェである — ヤハウェが彼らに、「イスラエルの子らをエジプトの地から、その軍勢にしたがって出させよ」と言った⟨者たち⟩。",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "この者が"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "とモシェ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である者たち"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "…と言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "出させよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子ら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "…の地から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "エジプト"
+    },
+    {
+      "surface": "על",
+      "gloss": "にしたがって"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "その軍勢"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:53.272512696Z",
+  "model": "glm-5.2"
+}

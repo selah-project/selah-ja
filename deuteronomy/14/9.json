@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "⟨את⟩これを、水の中にいるすべての⟨もの⟩から食べてよい。すべて、それにヒレとウロコがあるものを、あなたたちは食べてよい。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたたちは食べてよい"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "〜のすべてから"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水の中に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ヒレ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "とウロコ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたたちは食べてよい"
+    }
+  ],
+  "timestamp": "2026-08-07T10:12:52.964062830Z",
+  "model": "glm-5.2"
+}

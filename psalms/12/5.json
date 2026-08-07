@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "「私たちの舌によって力を振るおう。私たちの唇は私たちと共に⟨ある⟩。私たちの主は誰か」と言った者たち⟨について⟩。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "言った者たち"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "私たちの舌によって"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "力を振るおう"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "私たちの唇は"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "私たちと共に"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰か"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "主は"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:52.597632743Z",
+  "model": "glm-5.2"
+}

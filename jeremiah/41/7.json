@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 41:7",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "彼らが町の中央に入ったとき、イシュマエル・ベン・ネタヌヤは⟨彼らを⟩虐殺した。⟨彼⟩および彼と共にいた人々が、穴の中央⟨に⟩。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして├あった"
+    },
+    {
+      "surface": "כבואם",
+      "gloss": "彼らが入ったとき┤"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～へ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "中央"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町の"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "虐殺した"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "イシュマエル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "├ベン"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "ネタヌヤ┤は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～へ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "中央"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "穴の"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "および人々"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "├～である┤"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と共に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:54:33.693386242Z",
+  "model": "glm-5.2"
+}

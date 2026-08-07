@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "もし盗品が彼の手の中に見つかることが見つかったなら――牛から、ろばまで、羊まで──生きていれば、彼は二倍を償わなければならない。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "見つかることが"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "見つかったなら"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "彼の手の中に"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "盗品が"
+    },
+    {
+      "surface": "משור",
+      "gloss": "牛から"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ろば"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "שה",
+      "gloss": "羊"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "生きていれば"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二倍を"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "償わなければならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:29.480857805Z",
+  "model": "glm-5.2"
+}

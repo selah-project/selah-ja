@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 21:14",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして ⟨ひとりの⟩ 人が隣人に対して、狡猾をもって彼を殺すために傲然と企むなら、わたしの祭壇から ⟨あなたは⟩ 彼を取って死なせよ。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "そして…の場合"
+    },
+    {
+      "surface": "יזד",
+      "gloss": "傲然と企む"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "על",
+      "gloss": "～に対して"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "隣人"
+    },
+    {
+      "surface": "להרגו",
+      "gloss": "彼を殺すために"
+    },
+    {
+      "surface": "בערמה",
+      "gloss": "狡猾をもって"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "～から"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "わたしの祭壇"
+    },
+    {
+      "surface": "תקחנו",
+      "gloss": "あなたは彼を取る"
+    },
+    {
+      "surface": "למות",
+      "gloss": "死ぬために"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:40.698997366Z",
+  "model": "glm-5.2"
+}

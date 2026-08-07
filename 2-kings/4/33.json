@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 4:33",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼は入った。そして彼は二人のために扉を閉ざし、ヤハウェに祈った。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして彼は入った"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "そして彼は閉ざした"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "扉"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "のために"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "二人"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "そして彼は祈った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T16:52:00.382463761Z",
+  "model": "glm-5.2"
+}

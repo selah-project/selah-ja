@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そして⟨彼は⟩贖罪のささげ物の脂肪を祭壇の上で香として炊き上げる。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "脂肪"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "贖罪のささげ物の"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "香として炊き上げる"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "祭壇の上で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:56.249582072Z",
+  "model": "glm-5.2"
+}

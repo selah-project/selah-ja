@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして⟨את⟩二つの腎臓と、⟨את⟩その上にある脂肪、すなわち腰にあるものの上にあるもの、および⟨את⟩肝臓の上の附属物を——腎臓とともに——彼は取り除く。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "二つの腎臓"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "腎臓"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "脂肪"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "腰"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "肝臓の上の附属物"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "附属物"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上の"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "肝臓"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "腎臓"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "彼は取り除く"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:54.744347710Z",
+  "model": "glm-5.2"
+}

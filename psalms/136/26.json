@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 136,
+  "translation": "天のエルに感謝せよ — まことに、とこしえに（永遠に）続くそのヘセド（恵み）。",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "感謝せよ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "エルに"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "そのヘセド"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:57.686065992Z",
+  "model": "glm-5.2"
+}

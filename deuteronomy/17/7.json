@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "証人たちの手が彼を死なせるのに最初にならなければならず、すべての民の手がその後にならなければならない。あなたはあなたの中から悪を除き払わなければならない。",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "証人たちの"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "〜でなければならない"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "最初に"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "彼を死なせるのに"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "そして〜の手"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "その後に"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "そしてあなたは除き払わなければならない"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "あなたの中から"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:44.923893222Z",
+  "model": "glm-5.2"
+}

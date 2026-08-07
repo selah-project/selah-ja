@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてヤハウェはイスラエルの家畜とミツライムの家畜との間に区別を設けられる。イスラエルの子らのもののうち、すべてから一つも死ぬことはない。」",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "そして…区別を設けられる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…と"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "…と"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "…死ぬ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "すべて…から"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…の子らのもの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一つ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:24.243739042Z",
+  "model": "glm-5.2"
+}

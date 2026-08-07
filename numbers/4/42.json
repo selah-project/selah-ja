@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "メリャリの子らの諸家族の数えられた者たち、彼らの諸家族ごとに、彼らの父祖の家ごとに――",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "そして数えられた者たち"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "諸家族の"
+    },
+    {
+      "surface": "בני",
+      "gloss": "の子らの"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "メリャリ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "彼らの諸家族ごとに"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "家ごとに"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "彼らの父祖の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:50:03.377843793Z",
+  "model": "glm-5.2"
+}

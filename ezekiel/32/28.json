@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 32:28",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そしてあなたも、包皮のない者たちの中で打ち砕かれ、剣で刺し貫かれた者たち⟨את⟩とともに横たわるであろう。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "そしてあなたも"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "〜の中で"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "包皮のない者たち"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "打ち砕かれ"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "そして横たわる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "剣で刺し貫かれた者たち"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "刺し貫かれた者たち"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    }
+  ],
+  "timestamp": "2026-08-07T12:11:35.436672405Z",
+  "model": "glm-5.2"
+}

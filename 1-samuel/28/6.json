@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "シャウルはヤハウェに伺いを立てたが、ヤハウェは彼に答えなかった — 夢によっても、ウリムによっても、預言者たちによっても。",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "伺いを立てた"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルは"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "彼に答え"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜によっても"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "夢"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜によっても"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "ウリム"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜によっても"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "預言者たち"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:10.405500409Z",
+  "model": "glm-5.2"
+}

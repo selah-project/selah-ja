@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 109,
+  "translation": "しかし、あなたは ヤハウェ、アドナイ、あなたの御名のゆえに、私に対してしてください。あなたのヘセドは良いから、私を救い出してください。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "しかし、あなたは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "してください"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "私に対して"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの御名"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "あなたのヘセド"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "私を救い出してください"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:25.187713370Z",
+  "model": "glm-5.2"
+}

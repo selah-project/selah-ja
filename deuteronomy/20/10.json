@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "あなたが戦うために一つの町に近づくとき、それに平和を呼びかける。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…のとき"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "あなたは近づく"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "戦うために"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "それに向かって"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "そしてあなたは呼びかける"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "それに"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "平和を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:14:55.132967763Z",
+  "model": "glm-5.2"
+}

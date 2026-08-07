@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 28:26",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "あなたの死体は空のすべての鳥と地の獣への食物となり、⟨それを追い払う者は⟩ いない。",
+  "tokens": [
+    {
+      "surface": "וְהָיְתָ֤ה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "נִבְלָֽתְךָ֙",
+      "gloss": "あなたの死体"
+    },
+    {
+      "surface": "לְמַאֲכָ֔ל",
+      "gloss": "食物として"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ע֥וֹף",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "הַשָּׁמַ֖יִם",
+      "gloss": "空の"
+    },
+    {
+      "surface": "וּלְבֶהֱמַ֣ת",
+      "gloss": "〜と獣"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "וְאֵ֖ין",
+      "gloss": "〜はいない"
+    },
+    {
+      "surface": "מַחֲרִֽיד",
+      "gloss": "追い払う者"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:50.233741465Z",
+  "model": "glm-5.2"
+}

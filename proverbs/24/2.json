@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "彼らの心は破壊を企て、彼らの唇は害を語るからだ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "שד",
+      "gloss": "破壊"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "企てる"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "彼らの心"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "そして害"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "彼らの唇"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "語る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:41.383484376Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして彼女はアブラハムに言った。「この女奴隷と ⟨את⟩ 彼女の息子を追い出しなさい。因为这个女奴隷の息子が、私の息子と、イサクと共に相続することは〈ない〉からである。」",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "そして彼女は言った"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "アブラハムに"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "追い出しなさい"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "この女奴隷"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼女の息子"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "彼女の息子"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "相続する"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "女奴隷"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "私の息子"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イサク"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:36.642910135Z",
+  "model": "glm-5.2"
+}

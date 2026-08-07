@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "今や、知恵と知識を私にお与えください。私がこの民の前に出て入りするためです。あなたのこの大いなる民を裁く者がだれである⟨のですか⟩。",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "今や"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "と知識"
+    },
+    {
+      "surface": "תן",
+      "gloss": "お与えください"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "私が出て"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "私が入りする"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "מי",
+      "gloss": "だれ"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "裁く者が"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの民"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたの民"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大いなる"
+    }
+  ],
+  "timestamp": "2026-08-07T14:09:53.175555993Z",
+  "model": "glm-5.2"
+}

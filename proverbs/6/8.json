@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "夏の間に自分のパンを備え、収穫の時に自分の食物を集める。",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "備える"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "夏の間に"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "自分のパンを"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "集める"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "収穫の時に"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "自分の食物を"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:28.325460818Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "あなたは私のそしりと、私の恥と、私の屈辱を知っておられる、私の敵はすべてあなたの前に⟨いる⟩。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "知っておられる"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "私のそしり"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "と私の恥"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "と私の屈辱"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "あなたの前に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "私の敵は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:22.340526730Z",
+  "model": "glm-5.2"
+}

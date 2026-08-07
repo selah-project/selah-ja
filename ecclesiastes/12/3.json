@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "その日に — 家の守りたちが震え、力ある者たちがかがみ、粉ひきたちが少なくなったゆえに休み、窓から見る者たちが暗くなるとき。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "その日に"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "〜が震える"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "守りたち"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "そしてかがむ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "者たち"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "力ある"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "そして休む"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "粉ひきたち"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ゆえに"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "少なくなる"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "そして暗くなる"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "見る者たち"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "窓から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:35.507632222Z",
+  "model": "glm-5.2"
+}

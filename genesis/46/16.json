@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "ガドの息子たち：ツィフヨン、ハギ、シュニ、エツボン、エリ、アロディ、アルエリ。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "そして〜の息子たち"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ガド"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "ツィフヨン"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "およびハギ"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "シュニ"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "およびエツボン"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "エリ"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "およびアロディ"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "およびアルエリ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:10:15.014026271Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてミツライムは⟨את⟩ルディムと、⟨את⟩アナミムと、⟨את⟩レハビムと、⟨את⟩ナフトヒムを生んだ。",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "そしてミツライムは"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ルディム"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "ルディム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アナミム"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "アナミム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "レハビム"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "レハビム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ナフトヒム"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "ナフトヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:30.309256695Z",
+  "model": "glm-5.2"
+}

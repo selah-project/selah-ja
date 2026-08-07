@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてもしこれら三つを彼女に行わないなら、彼女はただで、銀なしに出て行く。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三つを"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "彼が行わないなら"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "そして彼女は出て行く"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ただで"
+    },
+    {
+      "surface": "אין",
+      "gloss": "〜なしに"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:17.056054949Z",
+  "model": "glm-5.2"
+}

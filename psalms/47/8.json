@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "全地の王として、エロヒムが⟨おられる⟩。悟りある者として歌え。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜として"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムが"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "歌え"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "悟りある者として"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:16.277685446Z",
+  "model": "glm-5.2"
+}

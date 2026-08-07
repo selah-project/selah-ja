@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "ヤハウェの御声によってアッシュールは打ち砕かれる — 杖で打たれる。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "～によって"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "御声"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "打ち砕かれる"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アッシュール"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "杖で"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "打たれる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:38.126786400Z",
+  "model": "glm-5.2"
+}

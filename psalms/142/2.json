@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 142,
+  "translation": "私の声を、私はヤハウェに向かって叫ぶ。私の声を、私はヤハウェに向かって恩を乞う。",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "私の声を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "私は叫ぶ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "私の声を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "私は恩を乞う"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:25.182251849Z",
+  "model": "glm-5.2"
+}

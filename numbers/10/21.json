@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてケハト人⟨たち⟩、聖所の運び手⟨たち⟩、旅立った。そして⟨彼ら⟩は⟨את⟩幕屋を、彼らの到着までに、立てた。",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "そして旅立った"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "ケハト人たち"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "運び手"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "聖所の"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "そして立てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "幕屋"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜までに"
+    },
+    {
+      "surface": "באם",
+      "gloss": "彼らの到着"
+    }
+  ],
+  "timestamp": "2026-08-07T14:23:32.570743344Z",
+  "model": "glm-5.2"
+}

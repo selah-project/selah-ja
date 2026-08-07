@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼らはそれと⟨את⟩そのすべての器をタハシェ革の覆いの中に置き、それを担ぎ棒の上に置く。",
+  "tokens": [
+    {
+      "surface": "וְנָתְנ֤וּ",
+      "gloss": "そして彼らは置く"
+    },
+    {
+      "surface": "אֹתָהּ֙",
+      "gloss": "⟨את⟩それ",
+      "marks": "金の燭台"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "そのすべての器"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כֵּלֶ֔יהָ",
+      "gloss": "その器"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜の中に"
+    },
+    {
+      "surface": "מִכְסֵ֖ה",
+      "gloss": "覆い"
+    },
+    {
+      "surface": "ע֣וֹר",
+      "gloss": "革"
+    },
+    {
+      "surface": "תָּ֑חַשׁ",
+      "gloss": "タハシェ"
+    },
+    {
+      "surface": "וְנָתְנ֖וּ",
+      "gloss": "そして彼らは置く"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הַמּֽוֹט",
+      "gloss": "その担ぎ棒"
+    }
+  ],
+  "timestamp": "2026-08-07T09:50:15.098791794Z",
+  "model": "glm-5.2"
+}

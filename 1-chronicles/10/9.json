@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "彼を剥ぎ取り、⟨את⟩彼の頭と⟨את⟩彼の武具を取り、巡らしてペリシテ人の地に送り、⟨את⟩彼らの偶像と⟨את⟩民に告げ知らせるためであった。",
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "彼を剥ぎ取り"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "取り"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の頭"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "彼の頭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼の武具"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "彼の武具"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "送り"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人の"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "巡らして"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "告げ知らせるため"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの偶像"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "彼らの偶像"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:47.810604896Z",
+  "model": "glm-5.2"
+}

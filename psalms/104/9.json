@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "境界を⟨あなたは⟩定められた、彼らは渡り越さない、再び地を覆そうと戻らない。",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "境界を"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "定められた"
+    },
+    {
+      "surface": "בל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "彼らは渡り越す"
+    },
+    {
+      "surface": "בל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "彼らは戻る"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "覆すために"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:53.626648053Z",
+  "model": "glm-5.2"
+}

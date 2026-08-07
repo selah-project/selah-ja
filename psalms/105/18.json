@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "足かせで ⟨彼の⟩ 足を苦しめ、鉄が ⟨彼の⟩ ネフェシュに入った。",
+  "tokens": [
+    {
+      "surface": "עִנּ֣וּ",
+      "gloss": "苦しめ"
+    },
+    {
+      "surface": "בַכֶּ֣בֶל",
+      "gloss": "足かせで"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": " ⟨彼の⟩ 足を"
+    },
+    {
+      "surface": "בַּ֝רְזֶ֗ל",
+      "gloss": "鉄が"
+    },
+    {
+      "surface": "בָּ֣אָה",
+      "gloss": "入った"
+    },
+    {
+      "surface": "נַפְשֽׁוֹ",
+      "gloss": " ⟨彼の⟩ ネフェシュに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:59.127601312Z",
+  "model": "glm-5.2"
+}

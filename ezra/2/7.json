@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "エイラムの⟨子ら⟩、千二百五十四。",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "～の⟨子ら⟩"
+    },
+    {
+      "surface": "עֵילָ֔ם",
+      "gloss": "エイラム"
+    },
+    {
+      "surface": "אֶ֕לֶף",
+      "gloss": "千"
+    },
+    {
+      "surface": "מָאתַ֖יִם",
+      "gloss": "二百"
+    },
+    {
+      "surface": "חֲמִשִּׁ֥ים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "וְאַרְבָּעָֽה",
+      "gloss": "および四"
+    }
+  ],
+  "timestamp": "2026-08-07T13:49:35.346747709Z",
+  "model": "glm-5.2"
+}

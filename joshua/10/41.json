@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてヨシュアはカデシュ・バルネアからアッザまで、また⟨את⟩ゴシェンの全地をギブオンまで打った。",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "そして打った"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "カデシュ"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "・バルネア"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "から〜まで"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "アッザ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ゴシェンの全地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "ゴシェン"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ギブオン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:26:32.352462219Z",
+  "model": "glm-5.2"
+}

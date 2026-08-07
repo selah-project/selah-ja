@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして、もし人がその隣人から⟨借用する⟩とき、それが折れるか、あるいは死ぬかして、その所有者が共にいないなら、彼は必ず償わなければならない。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "そして、もし"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "借り受ける"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人が"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "その隣人"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "そして折れるか"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死ぬ"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "その所有者が"
+    },
+    {
+      "surface": "אין",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "共に"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "必ず"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "償わなければならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:04.780264710Z",
+  "model": "glm-5.2"
+}

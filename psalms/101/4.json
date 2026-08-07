@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 101,
+  "translation": "曲がった心はわたしから離れ去れ。わたしは悪を知らない。",
+  "tokens": [
+    {
+      "surface": "לֵבָ֣ב",
+      "gloss": "心は"
+    },
+    {
+      "surface": "עִ֭קֵּשׁ",
+      "gloss": "曲がった"
+    },
+    {
+      "surface": "יָס֣וּר",
+      "gloss": "離れ去れ"
+    },
+    {
+      "surface": "מִמֶּ֑נִּי",
+      "gloss": "わたしから"
+    },
+    {
+      "surface": "רָ֝֗ע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אֵדָֽע",
+      "gloss": "わたしは知る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:33.111574509Z",
+  "model": "glm-5.2"
+}

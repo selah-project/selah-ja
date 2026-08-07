@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "彼女はエリヤに言った。「エロヒムの人よ、私とあなたの間に何があるというのですか。私の咎を思い出させるため、そして私の息子を死なせるために、私のところに来たのですか。」",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "彼女は言った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "エリヤ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何が"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私と"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "あなたとの間に"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "באת",
+      "gloss": "来た"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のところに"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "思い出させるため"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の咎"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "私の咎"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "そして死なせるため"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の息子"
+    },
+    {
+      "surface": "בני",
+      "gloss": "私の息子"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:51.036070824Z",
+  "model": "glm-5.2"
+}

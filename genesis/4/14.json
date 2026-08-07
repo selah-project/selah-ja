@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 4:14",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "見よ、あなたはきょう私を地の顔から追い出された。私はあなたの顔から身を隠し、地においてさすらう者となろう。そして私を見つける者は皆、私を殺すだろう。」",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "גרשת",
+      "gloss": "あなたは追い出された"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "私"
+    },
+    {
+      "surface": "היום",
+      "gloss": "きょう"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔の"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地"
+    },
+    {
+      "surface": "ומפניך",
+      "gloss": "そしてあなたの顔から"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "私は身を隠す"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "そして私は〜となる"
+    },
+    {
+      "surface": "נע",
+      "gloss": "さまよい"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "逃げ惑う者"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地において"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "そしてそれはこうなる"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "私を見つける者"
+    },
+    {
+      "surface": "יהרגני",
+      "gloss": "私を殺すだろう"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:02.585332989Z",
+  "model": "glm-5.2"
+}

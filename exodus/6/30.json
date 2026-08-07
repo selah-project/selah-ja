@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてモシェはヤハウェの御前で言った、「見よ、わたしは唇の包皮を持つ者、それでどうしてパロがわたしに耳を傾けるであろうか。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の御前で"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "包皮を持つ者"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "唇の"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "それでどうして"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "耳を傾けるであろうか"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロが"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:25.584154123Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そしてわたしはわたしの幕屋をあなたがたのうちに置く、わたしの nefesh は ⟨את⟩あなたがたを忌み嫌わない。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "そしてわたしは置く"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "わたしの幕屋を"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "あなたがたのうちに"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "忌み嫌う"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "わたしのnefeshは"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがた"
+    }
+  ],
+  "timestamp": "2026-08-07T18:26:45.777303013Z",
+  "model": "glm-5.2"
+}

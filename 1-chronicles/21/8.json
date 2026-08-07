@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "ダビデはエロヒムに言った。「私は激しく罪を犯しました。この⟨את⟩事を行ったことで。今、どうか⟨את⟩あなたのしもべの咎を過ぎ越してください。私が激しく愚かだったからです。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "罪を犯した"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "激しく"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "行った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "事"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "過ぎ越してください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたのしもべの咎"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "咎"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "あなたのしもべの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "愚かだった"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "激しく"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:16.413008008Z",
+  "model": "glm-5.2"
+}

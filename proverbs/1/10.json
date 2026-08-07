@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "わが子よ、罪人たちがあなたを誘惑するなら、承知してはならない。",
+  "tokens": [
+    {
+      "surface": "בְּנִ֡י",
+      "gloss": "わが子よ"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יְפַתּ֥וּךָ",
+      "gloss": "あなたを誘惑するなら"
+    },
+    {
+      "surface": "חַ֝טָּאִ֗ים",
+      "gloss": "罪人たちが"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תֹּבֵֽא",
+      "gloss": "承知する"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:11.069642339Z",
+  "model": "glm-5.2"
+}

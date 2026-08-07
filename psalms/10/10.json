@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "⟨彼は⟩打ち砕き、⟨彼は⟩かがみ、倒れる、⟨彼の⟩力強いものの下に、哀れな者たち⟨は⟩。",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "打ち砕き"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "かがみ"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "倒れる"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "⟨彼の⟩力強いものの下に"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "哀れな者たち"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:33.107320518Z",
+  "model": "glm-5.2"
+}

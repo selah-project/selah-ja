@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "あなたは町で呪われ、あなたは野で呪われる。",
+  "tokens": [
+    {
+      "surface": "אָר֥וּר",
+      "gloss": "呪われ"
+    },
+    {
+      "surface": "אַתָּ֖ה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "בָּעִ֑יר",
+      "gloss": "町で"
+    },
+    {
+      "surface": "וְאָר֥וּר",
+      "gloss": "そして呪われ"
+    },
+    {
+      "surface": "אַתָּ֖ה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "בַּשָּׂדֶֽה",
+      "gloss": "野で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:23.823059780Z",
+  "model": "glm-5.2"
+}

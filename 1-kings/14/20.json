@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 14:20",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "ヤラブアムが王であった日数は二十二年であった。彼は彼の先祖たちと共に横たわり、彼の息子ナダブが彼の代わりに王となった。",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "日数は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "−"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王であった"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ヤラブアムが"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十二"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "（年）"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年であった"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "横たわり"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の先祖たち"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ナダブ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の息子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼の代わりに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:06:28.985153053Z",
+  "model": "glm-5.2"
+}

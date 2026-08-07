@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 28:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "見よ、アドナイには強き者、力ある者が⟨いる⟩。雹の激流のように、破壊の暴風のように、大水の押し流す激流のように、彼はそれを手で地に打ち棄てる。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "強き者"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "⟨そして⟩力ある者"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "アドナイには"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "〜の激流のように"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "雹の"
+    },
+    {
+      "surface": "שער",
+      "gloss": "暴風の"
+    },
+    {
+      "surface": "קטב",
+      "gloss": "破壊の"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "〜の激流のように"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "שטפים",
+      "gloss": "押し流す"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "打ち棄てる"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:41.664968938Z",
+  "model": "glm-5.2"
+}

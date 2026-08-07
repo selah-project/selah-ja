@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 3:18",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてシュムエルは彼に ⟨את⟩ すべてのことばを告げ、彼から隠さなかった。すると彼は言った、「ヤハウェ ⟨*⟩ であられる。その目に良く見えることを ⟨*⟩ なさるように。」",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのことば"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "כחד",
+      "gloss": "隠した"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "彼から"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨*⟩"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "良く見えること"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "その目に"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "なさる"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:56.549764832Z",
+  "model": "glm-5.2"
+}

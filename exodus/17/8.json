@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてアマレクが来て、イスラエルと共にレピディムで戦った。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "アマレク"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "そして戦った"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "レピディムで"
+    }
+  ],
+  "timestamp": "2026-08-07T09:21:59.631370171Z",
+  "model": "glm-5.2"
+}

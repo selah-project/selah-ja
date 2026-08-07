@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ヤハウェの箱はペリシテ人の野に七ヶ月の間あった。",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֧י",
+      "gloss": "そして…あった"
+    },
+    {
+      "surface": "אֲרוֹן",
+      "gloss": "箱"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "בִּשְׂדֵ֥ה",
+      "gloss": "…の野に"
+    },
+    {
+      "surface": "פְלִשְׁתִּ֖ים",
+      "gloss": "ペリシテ人の"
+    },
+    {
+      "surface": "שִׁבְעָ֥ה",
+      "gloss": "七"
+    },
+    {
+      "surface": "חֳדָשִֽׁים",
+      "gloss": "ヶ月"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:57.212893656Z",
+  "model": "glm-5.2"
+}

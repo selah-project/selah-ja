@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "雌山羊二百、雄山羊二十、雌羊二百、雄羊二十",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "雌山羊"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "二百"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "雄山羊"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "雌羊"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "二百"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "雄羊"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:53.041632996Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "⟨את⟩机、⟨את⟩そのすべての器具、そして ⟨את⟩臨在のパンを。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "机"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "机"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "その器具"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "パン"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "臨在の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:58.372880872Z",
+  "model": "glm-5.2"
+}

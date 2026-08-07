@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そしてその市の長老たちはその男を取って、彼を懲らしめる。",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "そして彼らは取る"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老たちは"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その市の"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "あの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その男を"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その男を"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "そして彼らは懲らしめる"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 彼を",
+      "marks": "彼"
+    }
+  ],
+  "timestamp": "2026-08-07T10:17:43.639124391Z",
+  "model": "glm-5.2"
+}

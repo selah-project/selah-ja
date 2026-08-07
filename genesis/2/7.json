@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてヤハウェ・エロヒムは、地の塵で ⟨את⟩人を形造り、その鼻に命の息を吹き込まれた。そして人は生きた魂となった。",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "そして…形造られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塵"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "そして…吹き込まれた"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "その鼻に"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "息"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "命の"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして…なった"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人は"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "…としての魂"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "生きた"
+    }
+  ],
+  "timestamp": "2026-08-07T16:21:47.677667018Z",
+  "model": "glm-5.2"
+}

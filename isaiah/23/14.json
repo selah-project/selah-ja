@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "哀れげ、タルシシュの船よ。あなたがたの砦が略奪されたからだ。",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "哀れげ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "船よ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "タルシシュの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "略奪された"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "あなたがたの砦"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:45.991881453Z",
+  "model": "glm-5.2"
+}

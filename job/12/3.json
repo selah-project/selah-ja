@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "私にもまた、あなたたちのような心がある。私はあなたたちに劣っていない。そして⟨את⟩これらのような者はいない⟨のか⟩。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心がある"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "あなたたちのような"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "劣っている"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私は"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "あなたたちに"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "これら"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "〜のような"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    }
+  ],
+  "timestamp": "2026-08-07T13:23:37.688093612Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "これが⟨あなたたち⟩が食べてよい家畜である: 牛、羊の小羊、やぎの子。",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "これが"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "食べてよい"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "שה",
+      "gloss": "小羊"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "羊の"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "やぎの子"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "やぎの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:12:56.476894870Z",
+  "model": "glm-5.2"
+}

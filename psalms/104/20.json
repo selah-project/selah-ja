@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "あなたが闇を置かれると、夜となる — その中を森のすべての獣が這い回る。",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "あなたが置かれると"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "闇を"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "〜となると"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "בו",
+      "gloss": "その中を"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "這い回る"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "獣が"
+    },
+    {
+      "surface": "יער",
+      "gloss": "森の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:59:05.280090596Z",
+  "model": "glm-5.2"
+}

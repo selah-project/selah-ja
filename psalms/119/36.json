@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "私の心をかたむけてください、あなたのあかしのほうへ、そして不正な利得のほうへ⟨は⟩かたむけないでください",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "かたむけてください"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "私の心を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のほうへ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "あなたのあかしの"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜ないでください"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のほうへ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "不正な利得"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:02.951251291Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 62,
+  "translation": "抑圧に信頼するな、略奪に ⟨も⟩ 空しくなるな。富が増し加える時に、それに心を置くな。",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תִּבְטְח֣וּ",
+      "gloss": "信頼する"
+    },
+    {
+      "surface": "בְעֹשֶׁק֮",
+      "gloss": "抑圧に"
+    },
+    {
+      "surface": "וּבְגָזֵ֪ל",
+      "gloss": "〜に ⟨も⟩"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תֶּ֫הְבָּ֥לוּ",
+      "gloss": "空しくなる"
+    },
+    {
+      "surface": "חַ֤יִל",
+      "gloss": "富"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜時に"
+    },
+    {
+      "surface": "יָנ֑וּב",
+      "gloss": "増し加える"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תָּשִׁ֥יתוּ",
+      "gloss": "置く"
+    },
+    {
+      "surface": "לֵֽב",
+      "gloss": "心"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:30.864038043Z",
+  "model": "glm-5.2"
+}

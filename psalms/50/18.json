@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "盗人を見ると、あなたは彼とつるみ、姦淫する者たちとともにあなたの分け前を⟨定めた⟩。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "見たなら"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "盗人を"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "そして走った"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼とともに"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "そして〜とともに"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "姦淫する者たち"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "あなたの分け前"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:34.540218261Z",
+  "model": "glm-5.2"
+}

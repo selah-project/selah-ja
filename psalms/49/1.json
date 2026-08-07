@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "指揮者に。コラの子らによって。ミズモル。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者に"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〜の子らに"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "コラ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ミズモル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:08.394173144Z",
+  "model": "glm-5.2"
+}

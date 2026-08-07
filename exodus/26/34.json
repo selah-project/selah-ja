@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そしてあなたは ⟨את⟩ 贖罪蓋を、証の箱の上に、至聖所に置かなければならない。",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "そしてあなたは置く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "贖罪蓋"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "その贖罪蓋"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "その証"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "聖に"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "その聖所たち"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:45.700250239Z",
+  "model": "glm-5.2"
+}

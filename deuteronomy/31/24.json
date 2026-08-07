@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "そして、モーセが ⟨את⟩この律法の言葉を書物に書き記すことを終えた時、それらが完全に〈なる〉までになった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "…を終えた時"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセが"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "書き記すことを"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この律法の言葉"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "…の言葉"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "律法"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "書物"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "完全に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:20:54.341823639Z",
+  "model": "glm-5.2"
+}

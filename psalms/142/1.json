@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 142,
+  "translation": "ダビデのマスキール、彼が洞窟にいたときの ⟨の⟩ 祈り",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "マスキール"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "彼が〜であったとき"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "洞窟に"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "祈り"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:25.181986289Z",
+  "model": "glm-5.2"
+}

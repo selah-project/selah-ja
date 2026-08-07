@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 146,
+  "translation": "ハレル・ヤハ。私の魂よ、ハレル ⟨את⟩ ヤハウェ ⟨を⟩。",
+  "tokens": [
+    {
+      "surface": "הַֽלְלוּ",
+      "gloss": "ハレル（賛美せよ）"
+    },
+    {
+      "surface": "יָ֡הּ",
+      "gloss": "ヤハ"
+    },
+    {
+      "surface": "הַלְלִ֥י",
+      "gloss": "ハレル（賛美せよ）"
+    },
+    {
+      "surface": "נַ֝פְשִׁ֗י",
+      "gloss": "私の魂よ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T17:23:43.643215280Z",
+  "model": "glm-5.2"
+}

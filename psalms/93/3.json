@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 93,
+  "translation": "大河は扬げた、ヤハウェよ、大河は扬げた⟨彼らの⟩声を。大河は扬げる、⟨その⟩砕ける波を。",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "扬げた"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "大河は"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "扬げた"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "大河は"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "⟨彼らの⟩声を"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "扬げる"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "大河は"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "砕ける波を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:38.087562445Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "全地はあなたにひれ伏し、あなたに向かってほめ歌う。あなたの御名をほめ歌う。セラ。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ひれ伏し"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "ほめ歌う"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに向かって"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ほめ歌う"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの御名を"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:58.382320691Z",
+  "model": "glm-5.2"
+}

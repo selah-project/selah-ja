@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして私はその時、あなたがたの裁き人たちに命じて言った。「あなたがたの兄弟の間を聞き、人とその兄弟の間、そして彼の中にいる寄留者の間を、正義をもって裁きなさい。」",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "そして私は命じた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがたの裁き人たち"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "あなたがたの裁き人たちを"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "〜の時に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間を"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "あなたがたの兄弟"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "そしてあなたがたは裁け"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "正義をもって"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間を"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "そして〜の間を"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "その兄弟"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "そして〜の間を"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "彼の寄留者"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:23.920311616Z",
+  "model": "glm-5.2"
+}

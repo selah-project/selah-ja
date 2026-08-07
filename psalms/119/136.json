@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "水の流れが私の目から下った—彼らがあなたのトーラーを守らなかったことに⟨ついて⟩。",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "水の流れが"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "下った"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "私の目から"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "守らなかった"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "彼らが守った（否定）"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "あなたのトーラーを"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:08.706586323Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして一根の枝がイシャイの切り株から出て、若枝が⟨彼の⟩根から実を結ぶであろう。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして出る"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "一根の枝が"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "〜の切り株から"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "イシャイの"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "そして若枝が"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "⟨彼の⟩根から"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "実を結ぶ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:05.289083774Z",
+  "model": "glm-5.2"
+}

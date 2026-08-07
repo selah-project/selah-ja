@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてヤハウェの言葉がシェロモーにあった、⟨言って⟩。",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִי֙",
+      "gloss": "そして…あった"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "שְׁלֹמֹ֖ה",
+      "gloss": "シェロモー"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "⟨言って⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T16:49:00.217958647Z",
+  "model": "glm-5.2"
+}

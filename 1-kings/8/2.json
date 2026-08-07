@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてイスラエルのすべての人々が、王シェロモのもとに集まった — 祭りの日に、エタニムの月に。それは第七の月である。",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "そして集まった"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人々が"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "〜の月に"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "エタニム"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "祭りの日に"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "月である"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:48.966917883Z",
+  "model": "glm-5.2"
+}

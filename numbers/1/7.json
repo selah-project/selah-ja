@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ユダには、アミナダブの子ナフション。",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "ユダには"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ナフション"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "アミナダブ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:17.888269129Z",
+  "model": "glm-5.2"
+}

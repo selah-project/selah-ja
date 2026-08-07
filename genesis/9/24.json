@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてノアハは彼のブドウ酒から目を覚まし、彼の末の息子が彼にしたことを知った。",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "そして目を覚ました"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノアハ"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "彼のブドウ酒から"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "そして知った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の末の息子が彼にしたこと"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜したこと（を）"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "した"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の息子"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "末の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:40.444440679Z",
+  "model": "glm-5.2"
+}

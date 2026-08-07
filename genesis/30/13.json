@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 30:13",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そしてレアは言った。「私の幸いにより、娘たちが私を幸いと呼ぶから。」そして彼女は⟨את⟩彼の名をアシェルと呼んだ。",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "レア"
+    },
+    {
+      "surface": "באשרי",
+      "gloss": "私の幸いにより"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אשרוני",
+      "gloss": "私を幸いと呼ぶ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "娘たち"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "そして呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の名"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "アシェル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:53.422501915Z",
+  "model": "glm-5.2"
+}

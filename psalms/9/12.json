@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "ツィヨンに座するヤハウェに向かって歌え。もろもろの民の間に⟨彼の⟩みわざを告げ知らせよ。",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "歌え"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに向かって"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "座する"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨンに"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "告げ知らせよ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "もろもろの民の間に"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "⟨彼の⟩みわざを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:23.481855299Z",
+  "model": "glm-5.2"
+}

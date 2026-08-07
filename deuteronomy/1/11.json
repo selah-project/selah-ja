@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ヤハウェ あなたがたの父祖たちのエロヒムが、あなたがたの上にあなたがたのように千倍も加え、あなたがたの ⟨את⟩ をあなたがたに語られたように祝福してくださるように。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "〜のエロヒム"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "あなたがたの父祖たちの"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "加え"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "あなたがたの上に"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "あなたがたのように"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千（倍）"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "倍"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "そして祝福してくださるように"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがた"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜ように"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:06:58.995666473Z",
+  "model": "glm-5.2"
+}

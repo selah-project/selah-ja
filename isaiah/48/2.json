@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 48:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "「まことに、聖なる都 ⟨から⟩ 呼ばれた ⟨と彼らは言い〉、イスラエルのエロヒムに頼っている――ヤハウェ・ツァヴァオトがその名。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "都⟨から⟩"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "נקראו",
+      "gloss": "呼ばれた"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "נסמכו",
+      "gloss": "頼っている"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ツァヴァオト"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "その名"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:17.125759544Z",
+  "model": "glm-5.2"
+}

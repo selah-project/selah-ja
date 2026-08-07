@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "⟨彼⟩は彼らに言った。「どうか、私が夢見たこの夢を聞いてください。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聞いてください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "夢を"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "私が夢見た"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:15.225592115Z",
+  "model": "glm-5.2"
+}

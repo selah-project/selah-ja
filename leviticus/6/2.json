@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "「アハロンとその子らに命じて言え。これこそ全焼の供え物のトーラである。それは祭壇の上の燃やし場の上で、夜通し朝まで〈置かれる〉。それは全焼の供え物であり、祭壇の火はその上で燃え続ける。」",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "命よ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アハロン"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その子ら"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "その子ら"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言うこと"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "〜のトーラ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の供え物"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の供え物"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "燃やし場"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "כל",
+      "gloss": "〜の全(夜)"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "そして火"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "燃える"
+    },
+    {
+      "surface": "בו",
+      "gloss": "その中で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:03.837207555Z",
+  "model": "glm-5.2"
+}

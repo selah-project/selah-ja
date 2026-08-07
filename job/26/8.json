@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 26:8",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "水を雲の中に束ね、雲はその下で裂けない。",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "束ねる"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    },
+    {
+      "surface": "בעביו",
+      "gloss": "雲の中に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נבקע",
+      "gloss": "裂ける"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "雲は"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "その下で"
+    }
+  ],
+  "timestamp": "2026-08-07T14:40:43.828583383Z",
+  "model": "glm-5.2"
+}

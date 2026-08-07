@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "これこそ私に起こったこと、私があなたの戒めを守ったからに。",
+  "tokens": [
+    {
+      "surface": "זֹ֥את",
+      "gloss": "これこそ"
+    },
+    {
+      "surface": "הָֽיְתָה",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "לִּ֑י",
+      "gloss": "私にとって"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "פִקֻּדֶ֣יךָ",
+      "gloss": "あなたの戒めを"
+    },
+    {
+      "surface": "נָצָֽרְתִּי",
+      "gloss": "私は守った"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:36.224187491Z",
+  "model": "glm-5.2"
+}

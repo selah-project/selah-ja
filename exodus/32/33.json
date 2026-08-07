@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そしてヤハウェはモシェに言われた——わたしに対して罪を犯した者は、だれであれ、わたしはその者をわたしの書から消し去る。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "だれであれ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜する者は"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "罪を犯した"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしに対して"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "わたしはその者を消し去る"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "わたしの書から"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:44.297476945Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてウリヤは王の家の入り口で、その主のすべてのしもべたちと共に⟨את⟩寝た。そして自分の家へは下らなかった。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "そして寝た"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ウリヤ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口で"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのしもべたち"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "しもべたち"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "その主の"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "下ら"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "自分の家"
+    }
+  ],
+  "timestamp": "2026-08-07T10:52:18.239099370Z",
+  "model": "glm-5.2"
+}

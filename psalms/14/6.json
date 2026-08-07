@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "苦しむ者の計り事を、あなたがたは恥ずかしめる。まことにヤハウェが彼の避け所だからだ。",
+  "tokens": [
+    {
+      "surface": "עֲצַת",
+      "gloss": "…の計り事を"
+    },
+    {
+      "surface": "עָנִי",
+      "gloss": "苦しむ者"
+    },
+    {
+      "surface": "תָבִישׁוּ",
+      "gloss": "あなたがたは恥ずかしめる"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מַחְסֵהוּ",
+      "gloss": "彼の避け所"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:45.539419299Z",
+  "model": "glm-5.2"
+}

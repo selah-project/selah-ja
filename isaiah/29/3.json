@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "わたしは輪のようにあなたの上に宿営し、あなたの上に攻囲の陣を敷き、あなたの上に堡塁を築く。",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "わたしは…宿営する"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "輪のように"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたの上に"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "わたしは…攻め囲む"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたの上に"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "陣を"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "わたしは…築く"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたの上に"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "堡塁を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:36.295853559Z",
+  "model": "glm-5.2"
+}

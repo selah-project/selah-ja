@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 2:16",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "知恵者の記憶は愚か者とともにとこしへまで ⟨ない⟩。来たるべき日々にはすべてが忘れられるからだ。そして知恵者はどのように死ぬのか — 愚か者とともに。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "אין",
+      "gloss": "〜はない"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "記憶"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "知恵者の"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "愚か者"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしへまで"
+    },
+    {
+      "surface": "בשכבר",
+      "gloss": "すでに"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日々において"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "来たるべき"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "すべてが"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "忘れられる"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "そしてどのように"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死ぬのか"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "知恵者"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "愚か者"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:17.136467900Z",
+  "model": "glm-5.2"
+}

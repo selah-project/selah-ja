@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてモーセは民のもとに下り、彼らに告げた。",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֥רֶד",
+      "gloss": "そして下った"
+    },
+    {
+      "surface": "מֹשֶׁ֖ה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "הָעָ֑ם",
+      "gloss": "民"
+    },
+    {
+      "surface": "וַיֹּ֖אמֶר",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "אֲלֵהֶֽם",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:20:34.242110358Z",
+  "model": "glm-5.2"
+}

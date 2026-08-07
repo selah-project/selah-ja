@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "あなたが敵に対して宿営を出るとき、あなたはすべての悪いことから身を守らなければならない。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜のとき"
+    },
+    {
+      "surface": "תֵצֵ֥א",
+      "gloss": "あなたは出る"
+    },
+    {
+      "surface": "מַחֲנֶ֖ה",
+      "gloss": "宿営を"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "אֹיְבֶ֑יךָ",
+      "gloss": "あなたの敵"
+    },
+    {
+      "surface": "וְנִ֨שְׁמַרְתָּ֔",
+      "gloss": "あなたは身を守る"
+    },
+    {
+      "surface": "מִכֹּ֖ל",
+      "gloss": "すべての〜から"
+    },
+    {
+      "surface": "דָּבָ֥ר",
+      "gloss": "事"
+    },
+    {
+      "surface": "רָֽע",
+      "gloss": "悪い"
+    }
+  ],
+  "timestamp": "2026-08-07T10:17:58.352803010Z",
+  "model": "glm-5.2"
+}

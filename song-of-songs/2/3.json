@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 2:3",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "森の木々の中の林檎の木のように、そのように、わたしの愛する人は若者たちの中に⟨いる⟩。わたしはその陰で慕い、座り、その実はわたしの口に甘い。",
+  "tokens": [
+    {
+      "surface": "כתפוח",
+      "gloss": "林檎の木のように"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "木々の中に"
+    },
+    {
+      "surface": "היער",
+      "gloss": "森の"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "わたしの愛する人は"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の中に"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "若者たちの"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "その陰で"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "慕い"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "座り"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "その実は"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "甘い"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "口に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:32:44.588309702Z",
+  "model": "glm-5.2"
+}

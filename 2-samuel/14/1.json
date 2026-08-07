@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてツルヤの子ヨアブは知った — 王の心がアブシャロムの上にある⟨ことを⟩。",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "そして…知った"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "ツルヤ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上にある"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "アブシャロム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:53:09.803798903Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてこのわたし、見よ、わたしはわたしの契約を、⟨あなたがた⟩および⟨あなたがた⟩の後のあなたがたの子孫と共に立てる」",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "そしてわたし"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "立てる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの契約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "わたしの契約"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたがたと共に"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "あなたがたの子孫"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "あなたがたの子孫"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "あなたがたの後に"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:13.208556144Z",
+  "model": "glm-5.2"
+}

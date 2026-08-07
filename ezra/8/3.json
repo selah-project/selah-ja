@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 8:3",
+  "book": "ezra",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "シェカンヤの子らから——パロシュの子らからゼカルヤ、そして彼と共に、男として系谱に登録された者が百五十人。",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "…の子らから"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "シェカンヤ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "…の子らから"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "パロシュ"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "ゼカルヤ"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "そして彼と共に"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "系谱に登録された者が"
+    },
+    {
+      "surface": "לזכרים",
+      "gloss": "男として"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "そして五十"
+    }
+  ],
+  "timestamp": "2026-08-07T13:52:27.995162693Z",
+  "model": "glm-5.2"
+}

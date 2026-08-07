@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 7:23",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして彼は彼の妻の ⟨ところ⟩ に入り、彼女は身ごもって息子を産んだ。そして彼は ⟨את⟩ 彼の名をベリアと呼んだ、彼の家に悪事があったからである。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして彼は入った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の〈ところに〉"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "彼の妻"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "そして彼女は身ごもった"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "そして彼女は産んだ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子を"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして彼は呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の名を"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "ベリア"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "悪事の中に"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "彼の家に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:26.198500553Z",
+  "model": "glm-5.2"
+}

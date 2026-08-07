@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 48:14",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "あなたがたはみな集まり、聞け。彼らのうちのだれが⟨את⟩これらを告げたか。ヤハウェは彼を愛した。彼はバビロンで御心をなす。その腕はカルデア人⟨に向く⟩。",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "集まり"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "あなたがたはみな"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "מי",
+      "gloss": "だれが"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "彼らのうちの"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "告げたか"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これら"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらを"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "愛した"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "なす"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "御心を"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "バビロンで"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "その腕は"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "カルデア人"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:43.088825Z",
+  "model": "glm-5.2"
+}

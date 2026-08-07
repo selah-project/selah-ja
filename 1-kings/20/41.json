@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "すると彼は急ぎ、⟨את⟩目から頭巾を取り除いた。イスラエルの王は彼を認めた — 彼が預言者たちの一人だからである。",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "急いで"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "取り除いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "頭巾"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "頭巾"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "彼の目"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "認めた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "預言者たちの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:37.315508631Z",
+  "model": "glm-5.2"
+}

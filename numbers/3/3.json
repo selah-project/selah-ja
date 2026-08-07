@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "これらは油注がれた祭司たち、すなわち祭司として仕えるために⟨彼らの⟩手を満たされたアハロンの息子たちの名前⟨である⟩。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名前"
+    },
+    {
+      "surface": "בני",
+      "gloss": "息子たちの"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロンの"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "油注がれた"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "満たされた"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "彼らの手を"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "祭司として仕えるために"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:45.522860642Z",
+  "model": "glm-5.2"
+}

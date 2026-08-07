@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてヤハウェの使いが彼女を見つけた、荒野の泉のそばで、シュルへの道の泉のそばで。",
+  "tokens": [
+    {
+      "surface": "וַֽיִּמְצָאָ֞הּ",
+      "gloss": "そして彼を見つけた"
+    },
+    {
+      "surface": "מַלְאַ֧ךְ",
+      "gloss": "使い"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜のそばで"
+    },
+    {
+      "surface": "עֵ֥ין",
+      "gloss": "泉"
+    },
+    {
+      "surface": "הַמַּ֖יִם",
+      "gloss": "水の"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֑ר",
+      "gloss": "荒野の"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜のそばで"
+    },
+    {
+      "surface": "הָעַ֖יִן",
+      "gloss": "その泉"
+    },
+    {
+      "surface": "בְּדֶ֥רֶךְ",
+      "gloss": "〜への道の"
+    },
+    {
+      "surface": "שֽׁוּר",
+      "gloss": "シュル"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:07.408189132Z",
+  "model": "glm-5.2"
+}

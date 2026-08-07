@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "あなた自身に気をつけよ — あなたのすべての日々、あなたの土地の上で、⟨את⟩レビ人を見捨てないように。」",
+  "tokens": [
+    {
+      "surface": "הִש׼ָׁ֣מֶר",
+      "gloss": "気をつけよ"
+    },
+    {
+      "surface": "לְךָ֔",
+      "gloss": "あなた自身に"
+    },
+    {
+      "surface": "פֶּֽן",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "תַּעֲזֹ֖ב",
+      "gloss": "あなたは見捨てる"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "レビ人"
+    },
+    {
+      "surface": "הַלֵּוִ֑י",
+      "gloss": "レビ人"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "יָמֶ֖יךָ",
+      "gloss": "あなたの日々"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "אַדְמָתֶֽךָ",
+      "gloss": "あなたの土地"
+    }
+  ],
+  "timestamp": "2026-08-07T10:13:11.977490273Z",
+  "model": "glm-5.2"
+}

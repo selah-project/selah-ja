@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "私の目は怒りによって衰え、私のすべての敵のゆえに老い込んだ。",
+  "tokens": [
+    {
+      "surface": "עָֽשְׁשָׁ֣ה",
+      "gloss": "衰えた"
+    },
+    {
+      "surface": "מִכַּ֣עַס",
+      "gloss": "怒りによって"
+    },
+    {
+      "surface": "עֵינִ֑י",
+      "gloss": "私の目"
+    },
+    {
+      "surface": "עָֽ֝תְקָ֗ה",
+      "gloss": "老い込んだ"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "צוֹרְרָֽי",
+      "gloss": "私の敵"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:40.606644015Z",
+  "model": "glm-5.2"
+}

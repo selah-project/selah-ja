@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 107:40",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "⟨彼は⟩高貴な者たちの上に蔑みを注ぎ、彼らを道のない荒れ果てた地にさまよわせる。",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "注ぐ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "蔑みを"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "高貴な者たち"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "そして彼らをさまよわせる"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "荒れ果てた地に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道が"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:32.508696707Z",
+  "model": "glm-5.2"
+}

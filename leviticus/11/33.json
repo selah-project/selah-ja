@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして土器のどんな器であれ、それらのものがその中に落ち込むようなものは、その中にあるすべてのものは汚れる。そして⟨את⟩それをあなたたちは打ち砕かなければならない。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "土器の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "落ちる"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "それらから"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の中へ"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "その内部"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところのもの"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "その中にある"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "汚れる"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "それを"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "あなたたちは打ち砕く"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:07.836063646Z",
+  "model": "glm-5.2"
+}

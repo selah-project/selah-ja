@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "彼の軍勢およびその数は六万二千七百である。",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "そして彼の軍勢"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "およびその数は"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "および六十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "および七"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:03.843491376Z",
+  "model": "glm-5.2"
+}

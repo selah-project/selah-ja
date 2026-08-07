@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 16:11",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "エルは私を曲がった者の手に渡し、 悪者の手の中に私を投げ落とされた。",
+  "tokens": [
+    {
+      "surface": "יסגירני",
+      "gloss": "私を渡された"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "עויל",
+      "gloss": "曲がった者"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "手"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者の"
+    },
+    {
+      "surface": "ירטני",
+      "gloss": "私を投げ落とされた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:24:29.909501270Z",
+  "model": "glm-5.2"
+}

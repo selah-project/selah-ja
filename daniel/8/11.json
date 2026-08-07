@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 8:11",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "さらに、軍勢の君にまで⟨自らを〉大きくした。そしてそれから常供の供物は取り去られ、彼の聖所の基座は投げ捨てられた。",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "さらに〜にまで"
+    },
+    {
+      "surface": "שר",
+      "gloss": "君"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "軍勢の"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "⟨自らを〉大きくした"
+    },
+    {
+      "surface": "וממנו",
+      "gloss": "そしてそれから"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "取り去られた"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "常供の供物は"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "投げ捨てられた"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "基座"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "彼の聖所の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:46:27.006144228Z",
+  "model": "glm-5.2"
+}

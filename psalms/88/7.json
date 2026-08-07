@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 88,
+  "translation": "あなたは私を置かれた、最も低い穴の中に、暗闇の中に、深淵の中に。",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "あなたは私を置かれた"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "穴の中に"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "最も低い"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "暗闇の中に"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "深淵の中に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:04.248061649Z",
+  "model": "glm-5.2"
+}

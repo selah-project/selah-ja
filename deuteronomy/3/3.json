@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてヤハウェ私たちのエロヒムは、バシャンの王オグと彼のすべての民を ⟨את⟩私たちの手に渡された。そしてわれわれは彼を打ち、彼に生き残りの者がないまでにした。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして…は渡された"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "私たちのエロヒム"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "私たちの手に"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "オグ"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "オグ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "バシャン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼のすべての民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "…のすべて"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼の民"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "そしてわれわれは彼を打った"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "…ないこと"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "残す"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "生き残りを"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:07.225232895Z",
+  "model": "glm-5.2"
+}

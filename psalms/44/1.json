@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "指揮者へ。コラの子らへ。マスキール。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者へ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〜の子らへ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "コラ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "マスキール"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:30.624251990Z",
+  "model": "glm-5.2"
+}

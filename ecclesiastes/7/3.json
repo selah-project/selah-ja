@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "怒りは笑い ⟨よりも⟩良い — 顔のこわばりによって心は良くされる ⟨から⟩。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "怒りは"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "笑い ⟨よりも⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜⟨から⟩"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "〜のこわばりによって"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "顔の"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "良くされる"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:21.801788242Z",
+  "model": "glm-5.2"
+}

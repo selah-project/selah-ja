@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 9:17",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてエロヒムはノアに言われた、「これが、わたしと、地の上にあるすべての肉なるものとの間に立てた契約のしるしである」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言われた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノア"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これが"
+    },
+    {
+      "surface": "אות",
+      "gloss": "しるし"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "契約の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…（関係詞）"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "わたしが立てた"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "わたしと"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "…との間に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉なるもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…（関係詞）"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上にある"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T16:22:41.646201604Z",
+  "model": "glm-5.2"
+}

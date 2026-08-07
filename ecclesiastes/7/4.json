@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "知恵ある者たちの心は喪の家に ⟨ある⟩、そして愚か者たちの心は喜びの家に ⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "心は"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "知恵ある者たちの"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "〜の家に"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "喪の"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "そして心"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "愚か者たちの"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "〜の家に"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "喜びの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:21.801915301Z",
+  "model": "glm-5.2"
+}

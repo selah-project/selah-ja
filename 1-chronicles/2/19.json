@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてアズバは死んだ。そしてカレブは自分のために⟨את⟩エフラテをめとった。そして彼女は彼のために⟨את⟩フルを産んだ。",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "アズバ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "自分のために"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "カレブは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エフラテ"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "エフラテ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "そして産んだ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "フル"
+    },
+    {
+      "surface": "חור",
+      "gloss": "フル"
+    }
+  ],
+  "timestamp": "2026-08-07T13:58:56.531983312Z",
+  "model": "glm-5.2"
+}

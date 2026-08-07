@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そしてこうなった — ラヘルがヨセフを産んだとき、ヤアコブはラバンに言った、「私を送り出してください。そうすれば私は私の場所と私の地へ行きますから」。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうなった"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜とき"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ラヘル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨセフ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ラバン"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "私を送り出してください"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "そうすれば私は行きます"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "私の場所"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "そして私の地"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:17.686411623Z",
+  "model": "glm-5.2"
+}

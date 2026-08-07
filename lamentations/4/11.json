@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "ヤハウェはご自分の怒りを完遂された。⟨את⟩ご自分の激しい怒りを注ぎ出された。そして火をツィヨンに点火し、それはその基礎を食い尽くした。",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "完遂された"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ご自分の怒り"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "ご自分の怒り"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "注ぎ出された"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "燃える"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ご自分の怒り"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "そして点火し"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火を"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ツィヨンに"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "それは食い尽くした"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "その基礎を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:12.681432371Z",
+  "model": "glm-5.2"
+}

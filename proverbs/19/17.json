@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "ヤハウェに貸す者は貧しい者に恵みを施し、その報いを⟨彼⟩は彼に返す。",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "貸す者は"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "恵みを施し"
+    },
+    {
+      "surface": "דל",
+      "gloss": "貧しい者に"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "その報いを"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "返す"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:23.753806419Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "あなたの義はエルの大いなる山々のよう。あなたの裁きは大いなる淵。人間と獣を、あなたは救われる、ヤハウェよ。",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "あなたの義"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "〜の山々のよう"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エルの"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "あなたの裁き"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "淵"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人間を"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "と獣を"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "あなたは救われる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:32.267702337Z",
+  "model": "glm-5.2"
+}

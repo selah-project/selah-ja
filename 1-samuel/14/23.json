@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてヤハウェはその日に⟨את⟩イスラエルを救った。そして戦いは⟨את⟩ベート・アヴェンを越えて移った。",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "そして救った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "そして戦いは"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "越えて移った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ベート・アヴェン"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベート"
+    },
+    {
+      "surface": "און",
+      "gloss": "・アヴェン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:50.429805449Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 87,
+  "translation": "栄光ある事が ⟨あなたについて⟩ 語られる、エロヒムの⟨の⟩町よ。セラ。",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "栄光ある事が"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "語られる"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたについて"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:24.596947875Z",
+  "model": "glm-5.2"
+}

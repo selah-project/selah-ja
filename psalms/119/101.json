@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "すべての悪の道から私の足を引き留めた—あなたの言葉を守るために。",
+  "tokens": [
+    {
+      "surface": "מִכָּל",
+      "gloss": "すべての〜から"
+    },
+    {
+      "surface": "אֹ֣רַח",
+      "gloss": "道"
+    },
+    {
+      "surface": "רָ֭ע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "כָּלִ֣אתִי",
+      "gloss": "引き留めた"
+    },
+    {
+      "surface": "רַגְלָ֑י",
+      "gloss": "私の足"
+    },
+    {
+      "surface": "לְ֝מַ֗עַן",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "אֶשְׁמֹ֥ר",
+      "gloss": "守る"
+    },
+    {
+      "surface": "דְּבָרֶֽךָ",
+      "gloss": "あなたの言葉"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:03.349410763Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "ジムリははいり、彼を打ち、彼を殺した。ユダの王アサの第二十七年に。そして彼の代わりに王となった。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "はいり"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ジムリは"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "彼を打ち"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "彼を殺した"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "〜年に"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "と七"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "アサの"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼の代わりに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:05.839798407Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 23:15",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "さらに⟨את⟩、ベート・エルにある祭壇を、すなわちヤロブアム・ベン・ネバトが作り、彼が⟨את⟩イスラエルに罪を犯させた高き所にある祭壇をも、その⟨את⟩祭壇も⟨את⟩高き所も彼は引き倒した。そしてその高き所を焼き、粉々に砕いて灰にし、アシェラ像を焼いた。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "〜にある"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ベート・エル"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "高き所の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "作った"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ヤロブアム"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ネバト"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼が〜したところの"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "罪を犯させた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "高き所"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "高き所"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "引き倒した"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "そして焼き"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "高き所"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "高き所"
+    },
+    {
+      "surface": "הדק",
+      "gloss": "粉々に砕き"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "灰に"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "そして焼いた"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "アシェラ像"
+    }
+  ],
+  "timestamp": "2026-08-07T11:19:05.702530552Z",
+  "model": "glm-5.2"
+}

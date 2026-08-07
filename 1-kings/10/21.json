@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 10:21",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてシャロモ王のすべての飲み物の器は金、レバノンの森の家のすべての器は純金であった。銀はシャロモの日々には何物としても数えられなかった。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "飲み物の"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シャロモ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "יער",
+      "gloss": "森の"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "レバノンの"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "純"
+    },
+    {
+      "surface": "אין",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "数えられた"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "の日々には"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シャロモ"
+    },
+    {
+      "surface": "למאומה",
+      "gloss": "何物としても"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:22.092336432Z",
+  "model": "glm-5.2"
+}

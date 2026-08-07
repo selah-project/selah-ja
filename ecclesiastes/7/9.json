@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "あなたの霊に急ぎ立てられて怒るな。怒りは愚か者の懐に憩うからだ。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "急ぎ立てられる"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "あなたの霊に"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "怒る"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "怒り"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "懐に"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "愚か者の"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "憩う"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:18.682082104Z",
+  "model": "glm-5.2"
+}

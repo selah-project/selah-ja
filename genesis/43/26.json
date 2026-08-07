@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 43:26",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "ヨセフは家に入った。彼らは彼に、手に持っていた⟨את⟩贈り物を家の中に持って来た。そして彼らは彼に地まで伏し拝んだ。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "入った"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "家に"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "彼らは持って来た"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "贈り物"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "贈り物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "彼らの手に"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "家の中に"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "彼らは伏し拝んだ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地まで"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:48.822826532Z",
+  "model": "glm-5.2"
+}

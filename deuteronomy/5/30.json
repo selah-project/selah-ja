@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "行け、彼らに告げよ：「あなたがたの天幕へ帰れ。」",
+  "tokens": [
+    {
+      "surface": "לֵ֖ךְ",
+      "gloss": "行け"
+    },
+    {
+      "surface": "אֱמֹ֣ר",
+      "gloss": "告げよ"
+    },
+    {
+      "surface": "לָהֶ֑ם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "שׁ֥וּבוּ",
+      "gloss": "帰れ"
+    },
+    {
+      "surface": "לָכֶ֖ם",
+      "gloss": "あなたがたは"
+    },
+    {
+      "surface": "לְאָהֳלֵיכֶֽם",
+      "gloss": "あなたがたの天幕へ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:38.800692858Z",
+  "model": "glm-5.2"
+}

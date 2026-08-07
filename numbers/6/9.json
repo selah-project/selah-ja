@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 6:9",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "もし突然、思いがけなく彼のそばで死ぬ者が死に、彼の聖別の頭が汚れたなら、彼は自分の頭をその清めの日に剃り、第七日にそれを剃らなければならない。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "もし"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死ぬなら"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死ぬ者が"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼のそばで"
+    },
+    {
+      "surface": "בפתע",
+      "gloss": "突然"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "思いがけなく"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "そして汚れた"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "彼の聖別の"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "そして彼は剃る"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "彼の頭を"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "彼の清め"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "יגלחנו",
+      "gloss": "彼はそれを剃る"
+    }
+  ],
+  "timestamp": "2026-08-07T09:51:26.883909509Z",
+  "model": "glm-5.2"
+}

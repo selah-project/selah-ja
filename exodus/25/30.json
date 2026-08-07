@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてあなたは表の上に、私の顔の前のパンを絶えず置かなければならない。",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "そしてあなたは置く"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "その表"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "顔"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "絶えず"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:53.373390480Z",
+  "model": "glm-5.2"
+}

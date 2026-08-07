@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてすべて、それにヒレとウロコがないものは、あなたたちは食べてはならない。それはあなたたちにとって汚れている。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべて"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ヒレ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "とウロコ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたたちは食べる"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れている"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちにとって"
+    }
+  ],
+  "timestamp": "2026-08-07T10:12:52.964296519Z",
+  "model": "glm-5.2"
+}

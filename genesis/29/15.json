@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 29:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ラバンはヤコブに言った。「あなたは私の兄弟⟨だ⟩からといって、ただで私に仕える⟨のか⟩。私に告げよ、あなたの報酬は何か。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ラバン"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ヤコブに"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "〜だからといって"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "私の兄弟"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "ועבדתני",
+      "gloss": "私に仕える"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ただで"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "告げよ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何か"
+    },
+    {
+      "surface": "משכרתך",
+      "gloss": "あなたの報酬"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:08.094646103Z",
+  "model": "glm-5.2"
+}

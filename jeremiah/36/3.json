@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 36:3",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "「あるかもしれない ― ユフダーの家が、私が彼らに行なおうと計らっている ⟨את⟩ すべての災いを聞けば、彼らが各々その悪い道から立ち返るために。そうすれば私は彼らの咎と彼らの罪を赦そう。」",
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "あるかもしれない"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "彼らが聞けば"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユフダー"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての災い"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "災い"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～ところの"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私が"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "計らっている"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行なおうと"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "למען",
+      "gloss": "～のために"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "彼らが立ち返る"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各々"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "その道から"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "וסלחתי",
+      "gloss": "そして私は赦そう"
+    },
+    {
+      "surface": "לעונם",
+      "gloss": "彼らの咎を"
+    },
+    {
+      "surface": "ולחטאתם",
+      "gloss": "また彼らの罪を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:52:31.924107633Z",
+  "model": "glm-5.2"
+}

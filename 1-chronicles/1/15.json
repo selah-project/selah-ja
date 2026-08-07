@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして⟨את⟩ヒビ人、そして⟨את⟩アルキ人、そして⟨את⟩シニ人を、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ヒビ人"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ヒビ人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アルキ人"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "アルキ人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "シニ人"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "シニ人"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:15.557224010Z",
+  "model": "glm-5.2"
+}

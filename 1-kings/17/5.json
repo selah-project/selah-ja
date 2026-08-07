@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そして彼は行った、そしてヤハウェの言葉のとおりに行った。そして彼は行って、ヤルデンの前にあるクリトのナハルに住んだ。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして彼は行った"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "〜の言葉のとおりに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして彼は行った"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして住んだ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ナハルに"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "クリトの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面の"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヤルデン"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:21.395998417Z",
+  "model": "glm-5.2"
+}

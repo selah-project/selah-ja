@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 36:31",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そして彼はシュッティムの木の横木を五本作った — 幕屋の一つの側面の板のために。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は…作った"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "横木（複数）"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "…の木"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "シュッティム（アカシア）"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "…の板のために"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "側面"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋の"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一つの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:48.506625013Z",
+  "model": "glm-5.2"
+}

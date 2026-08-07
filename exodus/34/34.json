@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 34:34",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "モーシェがヤハウェの前に進み出て、⟨彼⟩に語るために入るたび、彼は⟨את⟩その覆いを、出るまでの間、取り除いた。そして彼は出て行き、イスラエルの子らに、命じられるところの⟨את⟩事柄を語った。",
+  "tokens": [
+    {
+      "surface": "ובבא",
+      "gloss": "…のたび入る"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "語るために"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨彼⟩に"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "取り除いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その覆い"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "その覆い"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "彼が出る"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして彼は出た"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "事柄"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "事柄を"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "命じられる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:10.684242387Z",
+  "model": "glm-5.2"
+}

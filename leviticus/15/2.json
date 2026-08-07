@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 15:2",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "イスラエルの人々に語り、彼らに言え。すべての人、その身から漏出がある者は、その漏出によって汚れている。",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の人々"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "そして言え"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜（のとき）"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "זב",
+      "gloss": "漏出がある者"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "その身から"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "その漏出によって"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れている"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:21.765958895Z",
+  "model": "glm-5.2"
+}

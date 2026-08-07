@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "多くのことを見ながら、あなたは守らない。耳を開かれながら、⟨彼は⟩聞かない。",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "あなたは見た"
+    },
+    {
+      "surface": "רַבּ֖וֹת",
+      "gloss": "多くのことを"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תִשְׁמֹ֑ר",
+      "gloss": "守らない"
+    },
+    {
+      "surface": "פָּק֥וֹחַ",
+      "gloss": "開かれ"
+    },
+    {
+      "surface": "אָזְנַ֖יִם",
+      "gloss": "耳は"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִשְׁמָֽע",
+      "gloss": "聞かない"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:23.139744110Z",
+  "model": "glm-5.2"
+}

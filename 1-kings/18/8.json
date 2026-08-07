@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "彼は彼に言った。「私です。行って、あなたの主に言いなさい。見よ、エリヤがここにいる。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私だ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "行け"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言え"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "あなたの主に"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "エリヤが"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:20.275158290Z",
+  "model": "glm-5.2"
+}

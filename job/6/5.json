@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "野生のロバは草の上で鳴き声を上げるか。雄牛は自分の飼い葉の上で吼えるか。",
+  "tokens": [
+    {
+      "surface": "הֲיִֽנְהַק",
+      "gloss": "鳴き声を上げるか"
+    },
+    {
+      "surface": "פֶּ֥רֶא",
+      "gloss": "野生のロバ"
+    },
+    {
+      "surface": "עֲלֵי",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "דֶ֑שֶׁא",
+      "gloss": "草"
+    },
+    {
+      "surface": "אִ֥ם",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "יִגְעֶה",
+      "gloss": "吼えるか"
+    },
+    {
+      "surface": "שּׁ֝וֹר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "בְּלִילֽוֹ",
+      "gloss": "自分の飼い葉"
+    }
+  ],
+  "timestamp": "2026-08-07T13:21:36.503482637Z",
+  "model": "glm-5.2"
+}

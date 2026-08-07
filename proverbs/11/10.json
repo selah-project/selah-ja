@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "義人たちの幸いによって町は喜び躍り、悪人たちの滅びにおいて歓声が⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "〜の幸いによって"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人たちの"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "喜び躍る"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "町は"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "〜の滅びにおいて"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪人たちの"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "歓声"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:46.104956178Z",
+  "model": "glm-5.2"
+}

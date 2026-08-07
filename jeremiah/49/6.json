@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "そしてそののち、わたしは⟨את⟩捕囚の回復ををもたらす、アンモンの子らの、ヤハウェの御告げ。",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "そしてそののち"
+    },
+    {
+      "surface": "כן",
+      "gloss": "（接続）"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "もたらす"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "捕囚の回復"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "捕囚の回復"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アンモンの"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:58:25.313430350Z",
+  "model": "glm-5.2"
+}

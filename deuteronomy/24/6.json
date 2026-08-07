@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "ひき臼の上石をも質に取ってはならない。それは ⟨彼が⟩ 命を質に取ることだからである。",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יַחֲבֹ֥ל",
+      "gloss": "質に取っては"
+    },
+    {
+      "surface": "רֵחַ֖יִם",
+      "gloss": "ひき臼を"
+    },
+    {
+      "surface": "וָרָ֑כֶב",
+      "gloss": "上石をも"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "נֶ֖פֶשׁ",
+      "gloss": "命を"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "חֹבֵֽל",
+      "gloss": "質に取ること"
+    }
+  ],
+  "timestamp": "2026-08-07T10:17:55.151395186Z",
+  "model": "glm-5.2"
+}

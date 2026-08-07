@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "これらのうち、ヤハウェの家の務めを監督する者が二万四千、そして吏員と裁き人で六千であった。",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "これらのうち"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "監督する者"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "〜の務め"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "および四"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "そして吏員"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "と裁き人"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "六"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-08-07T14:08:00.653837860Z",
+  "model": "glm-5.2"
+}

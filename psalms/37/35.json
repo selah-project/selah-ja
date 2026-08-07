@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "私は見た、暴れ狂う悪者を。そして⟨彼⟩は自らを誇り、青々と茂る在来の木のように⟨ふえひろがっていた⟩。",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者を"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "暴れ狂う"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "そして⟨彼⟩は自らを誇る"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "在来の木のように"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "青々と茂る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:31.409223729Z",
+  "model": "glm-5.2"
+}

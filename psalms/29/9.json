@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ヤハウェの御声は雌鹿を ⟨もたらす⟩、そして森を裸にする ― そして ⟨彼の⟩宮において、そのすべては「栄光」と言う。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "御声"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "引き起こす"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "雌鹿"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "そして裸にする"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "森"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "そして彼の宮において"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "そのすべては"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言う"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "栄光"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:11.148955259Z",
+  "model": "glm-5.2"
+}

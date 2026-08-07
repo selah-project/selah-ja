@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 10:18",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして彼の森の栄光と彼の豊かな野は、〈命〉から肉に至るまで消し去られる。そしてそれは旗手の〈よろめき〉のようになる。",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "そして栄光は"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "彼の森の"
+    },
+    {
+      "surface": "וכרמלו",
+      "gloss": "そして彼の豊かな野は"
+    },
+    {
+      "surface": "מנפש",
+      "gloss": "〈命〉から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "消し去られる"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "כמסס",
+      "gloss": "〈よろめき〉のように"
+    },
+    {
+      "surface": "נסס",
+      "gloss": "旗手の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:11.912262654Z",
+  "model": "glm-5.2"
+}

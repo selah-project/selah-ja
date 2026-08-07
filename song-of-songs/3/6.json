@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 3:6",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "これは誰か、荒野から上って来るのは、煙の柱のように、没薬と乳香と、商人のあらゆる粉末で薫かれているのは。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これ（は）"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上って来る"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "荒野"
+    },
+    {
+      "surface": "כתימרות",
+      "gloss": "柱のように"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "煙の"
+    },
+    {
+      "surface": "מקטרת",
+      "gloss": "薫かれている"
+    },
+    {
+      "surface": "מור",
+      "gloss": "没薬"
+    },
+    {
+      "surface": "ולבונה",
+      "gloss": "と乳香"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "あらゆる"
+    },
+    {
+      "surface": "אבקת",
+      "gloss": "粉末"
+    },
+    {
+      "surface": "רוכל",
+      "gloss": "商人の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:07.541349341Z",
+  "model": "glm-5.2"
+}

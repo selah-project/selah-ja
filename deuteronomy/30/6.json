@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そしてヤハウェ・あなたのエロヒムはあなたの心とあなたの子孫の心に割礼を施される — ヤハウェ・あなたのエロヒムを ⟨あなたの⟩ 全心と全⟨ネフェシュ⟩で愛するために、あなたが生きるために。",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "そして割礼を施す"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの心"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "あなたの心"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "心"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "あなたの子孫"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "愛するために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "あなたの心"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "と全"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "あなたのネフェシュ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "あなたが生きる"
+    }
+  ],
+  "timestamp": "2026-08-07T10:20:27.349202219Z",
+  "model": "glm-5.2"
+}

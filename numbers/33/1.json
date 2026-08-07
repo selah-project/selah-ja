@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 33:1",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "これらはイスラエルの子らの出発の旅程であり、彼らが部隊を編成してミツライム（エジプト）の地から出て行ったもので、モーシェとアハロンの手による。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "מסעי",
+      "gloss": "出発の旅程"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～ところの"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出て行った"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "～の地から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "部隊を編成して"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "～の手による"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "とアハロンの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:04:42.544276181Z",
+  "model": "glm-5.2"
+}

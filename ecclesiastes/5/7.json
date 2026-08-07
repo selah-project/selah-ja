@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 5:7",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "もし ⟨あなたが⟩ 貧しき者の圧迫と、暴力 ⟨の⟩ 略奪 ⟨である⟩ 裁きと義を州において見るなら、その事柄に ⟨決して⟩ 驚くな。高い者 ⟨の⟩ 上に高い者が見守り、さらに高い者たちが ⟨彼ら⟩ の上に ⟨いる⟩ からである。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "圧迫"
+    },
+    {
+      "surface": "רש",
+      "gloss": "貧しき者の"
+    },
+    {
+      "surface": "וגזל",
+      "gloss": "と暴力の略奪"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "裁き"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "と義"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "あなたは見る"
+    },
+    {
+      "surface": "במדינה",
+      "gloss": "州において"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תתמה",
+      "gloss": "驚く"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "その事柄"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "高い者"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "高い者が"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "見守る"
+    },
+    {
+      "surface": "וגבהים",
+      "gloss": "さらに高い者たちが"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T17:30:28.605831936Z",
+  "model": "glm-5.2"
+}

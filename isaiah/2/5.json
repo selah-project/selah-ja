@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ヤコブの家よ、来たれ、われらはヤハウェの光にあることを歩もう。",
+  "tokens": [
+    {
+      "surface": "בֵּ֖ית",
+      "gloss": "家よ"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "ヤコブの"
+    },
+    {
+      "surface": "לְכ֥וּ",
+      "gloss": "来たれ"
+    },
+    {
+      "surface": "וְנֵלְכָ֖ה",
+      "gloss": "そしてわれらは歩もう"
+    },
+    {
+      "surface": "בְּא֥וֹר",
+      "gloss": "…の光に"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:29.517884284Z",
+  "model": "glm-5.2"
+}

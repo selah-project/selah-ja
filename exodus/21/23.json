@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "しかし、もし致命的な損傷があれば、あなたは命を命の代わり⟨として⟩与えなければならない。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "しかし、もし"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "致命的な損傷が"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "あれば"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "あなたは与えなければならない"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "命を"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わり"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "命"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:23.843311676Z",
+  "model": "glm-5.2"
+}

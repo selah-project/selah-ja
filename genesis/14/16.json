@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして彼はすべての財産を⟨את⟩取り戻し、また自分の兄弟ロトとその財産をも⟨את⟩連れ戻した。また女たちをも⟨את⟩、そして民をも⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして…取り戻した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての財産"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "財産"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "また"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ロト"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ロト"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "自分の兄弟"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "そしてその財産"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "連れ戻した"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "また"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "女たち"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "女たち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:43.411840667Z",
+  "model": "glm-5.2"
+}

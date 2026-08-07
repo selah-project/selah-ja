@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "そして彼らは彼のみわざと、彼が彼らに示された不思議なわざを忘れた。",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "そして彼らは忘れた"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "彼のみわざ"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "そして彼の不思議なわざ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "彼らに示された"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:32.814014364Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "このヨベルの年に、お前たちは各々その所有地に戻らなければならない。",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "〜の年に"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "ヨベルの"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "お前たちは戻る"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各々"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "その所有地"
+    }
+  ],
+  "timestamp": "2026-08-07T09:43:43.933865673Z",
+  "model": "glm-5.2"
+}

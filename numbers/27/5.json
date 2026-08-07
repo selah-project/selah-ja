@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてモーシェは ⟨את⟩ 彼女たちの裁きをヤハウェの御前に近づけた。",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "そして…近づけた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼女たちの裁き"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "彼女たちの裁き"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の御前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:02:02.240519474Z",
+  "model": "glm-5.2"
+}

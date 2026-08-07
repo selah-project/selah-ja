@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "ゴメルの息子たち：アシュケナズ、リファテ、トガルマ。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "〜の息子たち"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ゴメル"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "アシュケナズ"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "リファテ"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "トガルマ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:39.767820864Z",
+  "model": "glm-5.2"
+}

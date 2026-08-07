@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 135,
+  "translation": "諸国の民の偶像は銀と金、人の手のわざ。",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "〜の偶像"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "諸国の民"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "そして金"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "わざ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "手の"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:41.103819108Z",
+  "model": "glm-5.2"
+}

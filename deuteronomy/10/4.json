@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 10:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして⟨彼は⟩最初の書き込みのように、⟨את⟩十のことばを板に書きしるされた――ヤハウェが集りの日に、山で火の中からあなたがたに語られたものである。そしてヤハウェはそれらを私にお与えになった。",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "そして⟨彼は⟩書きしるされた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "板に"
+    },
+    {
+      "surface": "כמכתב",
+      "gloss": "〜の書き込みのように"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "最初の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "十のことば"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "十の"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ことばを"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山で"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "〜の中から"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火の"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "集りの"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "そして⟨彼は⟩それらを与えた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:24:40.511979654Z",
+  "model": "glm-5.2"
+}

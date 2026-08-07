@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして私は言った、「あなたがたを牧さない。死ぬ者は死に、滅ぼされる者は滅ぼされ、残された者たち⟨は⟩、おのおのその隣人の肉を食らえ」。",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "そして私は言った"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "私が牧する"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩あなたがたを",
+      "marks": "あなたがたを"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "死ぬ者は"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "死ね"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "そして滅ぼされる者は"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "滅ぼされよ"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "そして残された者たち"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "食らえ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "肉を"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "その隣人の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:32:14.668103953Z",
+  "model": "glm-5.2"
+}

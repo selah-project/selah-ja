@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "あなたの頭の上にある天は青銅となり、あなたの下にある地は鉄となる。",
+  "tokens": [
+    {
+      "surface": "וְהָי֥וּ",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "שָׁמֶ֛יךָ",
+      "gloss": "あなたの天"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ところの"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "רֹאשְׁךָ֖",
+      "gloss": "あなたの頭"
+    },
+    {
+      "surface": "נְחֹ֑שֶׁת",
+      "gloss": "青銅"
+    },
+    {
+      "surface": "וְהָאָ֥רֶץ",
+      "gloss": "そして地"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ところの"
+    },
+    {
+      "surface": "תַּחְתֶּ֖יךָ",
+      "gloss": "あなたの下に"
+    },
+    {
+      "surface": "בַּרְזֶֽל",
+      "gloss": "鉄"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:44.895664202Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 1:25",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "なんと勇士たちは倒れた、戦いのただ中に。エホナタン、あなたの高き所で刺し殺されて。",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "なんと"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "倒れた"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "勇士たちは"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "〜のただ中に"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戦いの"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "エホナタン"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "あなたの高き所"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "刺し殺されて"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:19.253766101Z",
+  "model": "glm-5.2"
+}

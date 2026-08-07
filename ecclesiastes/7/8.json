@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "一つのことの終わりはその初めよりも⟨良い⟩。霊が長い者は霊が高い者よりも⟨良い⟩。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "終わりは"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一つのことの"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "その初めよりも"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長い"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊が"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "高い者よりも"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊が"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:05.488749573Z",
+  "model": "glm-5.2"
+}

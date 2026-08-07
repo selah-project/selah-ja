@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 40:20",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして外庭の、その面が北の方向にある門を、彼はその長さと幅を測った。",
+  "tokens": [
+    {
+      "surface": "והשער",
+      "gloss": "そして門"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "その面が"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "〜の方向に"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "北"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "〜の庭の"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "外の"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "彼は測った"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "その長さ"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "そしてその幅"
+    }
+  ],
+  "timestamp": "2026-08-07T12:14:24.803187502Z",
+  "model": "glm-5.2"
+}

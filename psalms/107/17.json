@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "愚か者たちは ⟨彼らの⟩ 反逆のゆえに ⟨苦しみ⟩、彼らの不義のために ⟨彼ら自身を⟩ 苦しめる。",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "愚か者たちは"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "彼らの反逆"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "そして彼らの不義のために"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "苦しめる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:36.353952098Z",
+  "model": "glm-5.2"
+}

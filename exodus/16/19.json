@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてモーシェは彼らに言った。「人はそれを朝まで残してはならない。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…してはならない"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "残す"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "それから"
+    },
+    {
+      "surface": "עד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "朝"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:03.075975336Z",
+  "model": "glm-5.2"
+}

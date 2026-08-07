@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "私は背く者たちにあなたの道を教えましょう。そうすれば罪人たちはあなたのもとに帰るでしょう。",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "私は教えましょう"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "背く者たちに"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "あなたの道を"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "そして罪人たちは"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたのもとに"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "帰るでしょう"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:56.027797255Z",
+  "model": "glm-5.2"
+}

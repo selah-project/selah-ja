@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 71,
+  "translation": "老いの時に私を投げ捨てないでください。私の力が尽きる時に、私を見捨てないでください。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "私を投げ捨てる"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "時に"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "老い"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "尽きる時に"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "私の力"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "私を見捨てる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:32.188596845Z",
+  "model": "glm-5.2"
+}

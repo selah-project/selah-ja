@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "ヤハウェは良く、かつ正しい ⟨方です⟩。それゆえ、ヤハウェは罪者たちを道のうちに教えます。",
+  "tokens": [
+    {
+      "surface": "טוֹב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "וְיָשָׁ֥ר",
+      "gloss": "そして正しい"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "それ"
+    },
+    {
+      "surface": "כֵּ֤ן",
+      "gloss": "ゆえに"
+    },
+    {
+      "surface": "יוֹרֶ֖ה",
+      "gloss": "教える"
+    },
+    {
+      "surface": "חַטָּאִ֣ים",
+      "gloss": "罪者たちを"
+    },
+    {
+      "surface": "בַּדָּֽרֶךְ",
+      "gloss": "道のうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:59.781808824Z",
+  "model": "glm-5.2"
+}

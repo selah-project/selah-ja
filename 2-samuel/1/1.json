@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてこうなった — シャウルの死の後、ダビデはアマレク ⟨את⟩ を打って帰り、ダビデはツィクラグに二日間とどまった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "こうなった"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…の後"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "שב",
+      "gloss": "帰った"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "打って"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アマレク"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "アマレク"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "とどまった"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "ツィクラグに"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:44.263951469Z",
+  "model": "glm-5.2"
+}

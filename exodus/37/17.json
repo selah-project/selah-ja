@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 37:17",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして彼は⟨את⟩メノラを純金で作った。打ち出し細工として彼は⟨את⟩メノラを作った — その台座、その枝、その杯、その球飾り、その花はそれから⟨出ていた⟩。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は…作った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "メノラを"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "メノラ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "打ち出し細工"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "彼は作った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "メノラを"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "メノラ"
+    },
+    {
+      "surface": "ירכה",
+      "gloss": "その台座"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "その枝"
+    },
+    {
+      "surface": "גביעיה",
+      "gloss": "その杯"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "その球飾り"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "その花"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "それから"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨出ていた⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:14.219776746Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "もし鉄が鈍くなり、かつ⟨彼が⟩切れ刃を研がないなら、力を増さなければならない。しかし知恵は成功をもたらす。",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "קֵהָה",
+      "gloss": "鈍くなり"
+    },
+    {
+      "surface": "הַבַּרְזֶל",
+      "gloss": "鉄が"
+    },
+    {
+      "surface": "וְהוּא",
+      "gloss": "かつ"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "פָּנִים",
+      "gloss": "切れ刃を"
+    },
+    {
+      "surface": "קִלְקַל",
+      "gloss": "研がない"
+    },
+    {
+      "surface": "וַחֲיָלִים",
+      "gloss": "力を"
+    },
+    {
+      "surface": "יְגַבֵּר",
+      "gloss": "増さなければならない"
+    },
+    {
+      "surface": "וְיִתְרוֹן",
+      "gloss": "しかし〜は有益である"
+    },
+    {
+      "surface": "הַכְשִׁיר",
+      "gloss": "成功をもたらす"
+    },
+    {
+      "surface": "חָכְמָה",
+      "gloss": "知恵"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:52.012768670Z",
+  "model": "glm-5.2"
+}

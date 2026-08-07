@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "ミツワーを守る者は自分のネフェシュを守る、自分の道を蔑む者は死ぬ。",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "守る者"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ミツワーを"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "守る"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "自分のネフェシュを"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "蔑む者"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "自分の道を"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "死ぬ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:17.141105481Z",
+  "model": "glm-5.2"
+}

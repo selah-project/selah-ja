@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "わたしは彼の種をとこしえに置き、彼の王座を天の日々のように⟨する⟩。",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "そしてわたしは置く"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "彼の種を"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "そして彼の王座を"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "〜の日々のように"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:41.453157248Z",
+  "model": "glm-5.2"
+}

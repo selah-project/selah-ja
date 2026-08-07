@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "ゲルションの子らについては、ヨエルが長、その兄弟百三十人。",
+  "tokens": [
+    {
+      "surface": "לִבְנֵ֖י",
+      "gloss": "〜の子らについては"
+    },
+    {
+      "surface": "גֵּרְשׁ֑וֹם",
+      "gloss": "ゲルション"
+    },
+    {
+      "surface": "יוֹאֵ֣ל",
+      "gloss": "ヨエル"
+    },
+    {
+      "surface": "הַשָּׂ֔ר",
+      "gloss": "長"
+    },
+    {
+      "surface": "וְאֶחָ֖יו",
+      "gloss": "その兄弟"
+    },
+    {
+      "surface": "מֵאָ֥ה",
+      "gloss": "百"
+    },
+    {
+      "surface": "וּשְׁלֹשִֽׁים",
+      "gloss": "三十"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:40.561118908Z",
+  "model": "glm-5.2"
+}

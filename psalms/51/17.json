@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "アドナイ、私の唇を開いてください。そうすれば私の口があなたの賛美を告げ示します。",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָי",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "שְׂפָתַי",
+      "gloss": "私の唇"
+    },
+    {
+      "surface": "תִּפְתָּח",
+      "gloss": "開いてください"
+    },
+    {
+      "surface": "וּפִי",
+      "gloss": "そして私の口"
+    },
+    {
+      "surface": "יַגִּיד",
+      "gloss": "告げ示す"
+    },
+    {
+      "surface": "תְּהִלָּתֶךָ",
+      "gloss": "あなたの賛美"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:56.454562251Z",
+  "model": "glm-5.2"
+}

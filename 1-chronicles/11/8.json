@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして彼は町を周囲に、ミロから回りまで建てた。そしてヨアブは⟨את⟩町の残りの部分を生き返らせた。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "そして…建てた"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町を"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "周囲に"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "ミロ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "回り"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "そしてヨアブ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "…生き返らせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "町の残りの部分"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "残りの部分"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:42.863942548Z",
+  "model": "glm-5.2"
+}

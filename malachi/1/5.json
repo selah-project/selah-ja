@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "あなたがたの目は見、あなたがたは言う、ヤハウェは大いなる方、イスラエルの境界を越えて、と。",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "そしてあなたがたの目は"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "見る"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "そしてあなたがたは"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "言う"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "大いなる方"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "境界の"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:32:58.764554254Z",
+  "model": "glm-5.2"
+}

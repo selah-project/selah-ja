@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "指揮者のため、弦楽器によって、八番目の調べで。ダビデのミズモル。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者のため"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "弦楽器によって"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "八番目の調べ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ミズモル"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:35.429638031Z",
+  "model": "glm-5.2"
+}

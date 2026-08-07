@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そしてエル・シャッダイがあなたを祝福し、あなたを実らせ、あなたを増やされるように。あなたは多くの民の集まりとなるように。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "そして…エル"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "シャッダイ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "…が祝福される"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "あなた"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "そして…実らせ"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "そして…増やされる"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "そして…あなたは…となる"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "…の集まりに"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "民々"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:24.572546903Z",
+  "model": "glm-5.2"
+}

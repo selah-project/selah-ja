@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そして幕屋と周囲の庭のすべての釘は青銅⟨製⟩⟨であった⟩。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "釘"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "幕屋の"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "と庭の"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲の"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:17.259102696Z",
+  "model": "glm-5.2"
+}

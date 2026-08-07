@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "彼らの足は悪へと走り、罪のない血を流そうと急ぐ。彼らの企ては咎の企て、略奪と破滅が彼らの道にある。",
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "彼らの足は"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "悪へと"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "走る"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "そして急ぐ"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "流すことに"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血を"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "罪のない"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "彼らの企ては"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "企てである"
+    },
+    {
+      "surface": "און",
+      "gloss": "咎の"
+    },
+    {
+      "surface": "שד",
+      "gloss": "略奪と"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "そして破滅が"
+    },
+    {
+      "surface": "במסלותם",
+      "gloss": "彼らの道にある"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:45.926391375Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "カナン — その手には欺きの秤。搾取することを愛する。",
+  "tokens": [
+    {
+      "surface": "כְּנַ֗עַן",
+      "gloss": "カナン"
+    },
+    {
+      "surface": "בְּיָד֛וֹ",
+      "gloss": "その手に"
+    },
+    {
+      "surface": "מֹאזְנֵ֥י",
+      "gloss": "秤"
+    },
+    {
+      "surface": "מִרְמָ֖ה",
+      "gloss": "欺き"
+    },
+    {
+      "surface": "לַעֲשֹׁ֥ק",
+      "gloss": "搾取することを"
+    },
+    {
+      "surface": "אָהֵֽב",
+      "gloss": "愛する"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:12.225001179Z",
+  "model": "glm-5.2"
+}

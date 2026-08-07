@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 18:10",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてヨシュアは彼らのために籤をシロでヤハウェの前に投げ、そこでヨシュアは⟨את⟩地をイスラエルの子らに彼らの区分に従って分けた。",
+  "tokens": [
+    {
+      "surface": "וישלך",
+      "gloss": "そして投げた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らのために"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュアは"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "籤を"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "シロで"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ויחלק",
+      "gloss": "そして分けた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュアは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "の子らに"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "כמחלקתם",
+      "gloss": "彼らの区分に従って"
+    }
+  ],
+  "timestamp": "2026-08-07T10:28:46.584039430Z",
+  "model": "glm-5.2"
+}

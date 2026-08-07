@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてあなたはこの民に言え。ヤハウェはこう仰る。見よ、わたしはあなたがたの前に⟨את⟩いのちの道と⟨את⟩死の道を置く。」",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "あなたは言え"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "仰る"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "わたしは〜を置く"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "あなたがたの前に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "いのちの道"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "いのちの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "死の道"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "המות",
+      "gloss": "死の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:47:56.846691051Z",
+  "model": "glm-5.2"
+}

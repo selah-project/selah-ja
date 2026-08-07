@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 13:32",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "これらはモーシェがモアブの平原で相続地として割り当てたもので、ヨルダンの向こう、エリコの東であった。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…を"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "相続地として割り当てた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェが"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "…の平原で"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブの"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "…の向こう"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "ヨルダンの"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "エリコの"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "東に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:27:42.767956088Z",
+  "model": "glm-5.2"
+}

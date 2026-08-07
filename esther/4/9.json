@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "ハタクは来て、エステルにモルデカイの⟨את⟩言葉を告げた。",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "そして…来た"
+    },
+    {
+      "surface": "התך",
+      "gloss": "ハタク"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "そして…告げた"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "エステルに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "言葉を"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "モルデカイの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:54.392524212Z",
+  "model": "glm-5.2"
+}

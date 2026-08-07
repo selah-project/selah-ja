@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "呪われよ、すべての獣と寝る者は。そして全⟨民⟩は言う、アーメン。",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "呪われよ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "寝る者"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "獣"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "そして言う"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨民⟩"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "アーメン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:00.482342307Z",
+  "model": "glm-5.2"
+}

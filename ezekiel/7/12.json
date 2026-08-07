@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 7:12",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "時は来た。日は到達した。買う者は喜ぶな。売る者は嘆くな。すべてのその群れに激怒が⟨ある⟩からだ。",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "העת",
+      "gloss": "時は"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "到達した"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日は"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "買う者は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "喜ぶ"
+    },
+    {
+      "surface": "והמוכר",
+      "gloss": "売る者は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "יתאבל",
+      "gloss": "嘆く"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "激怒が"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "その群れ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:01:14.667358837Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 57:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 57,
+  "translation": "木々の間で熱情する者たち、すべての青々とした木の下で、谷間で子どもたちを屠る者たち、岩の裂け目の下で⟨⟨いる⟩⟩。",
+  "tokens": [
+    {
+      "surface": "הנחמים",
+      "gloss": "熱情する者たち"
+    },
+    {
+      "surface": "באלים",
+      "gloss": "木々（エル）の間で"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下で"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "青々とした"
+    },
+    {
+      "surface": "שחטי",
+      "gloss": "屠る者たち"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "子どもたちを"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "谷間で"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下で"
+    },
+    {
+      "surface": "סעפי",
+      "gloss": "裂け目の"
+    },
+    {
+      "surface": "הסלעים",
+      "gloss": "岩の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:28.286778141Z",
+  "model": "glm-5.2"
+}

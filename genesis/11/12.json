@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "アルパクシャドは三十五歳で生き、⟨את⟩シェラフを生んだ。",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "そしてアルパクシャド"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "と三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "そして生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シェラフ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "シェラフ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:55.059277348Z",
+  "model": "glm-5.2"
+}

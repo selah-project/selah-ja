@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "これらは戦車に ⟨⟩、そしてこれらは馬に ⟨⟩。しかし私たちはヤハウェの御名を、私たちのエロヒムの、覚えよう。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "戦車に"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "馬に"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "しかし私たちは"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "〜の御名を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "私たちのエロヒム"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "覚えよう"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:11.955886912Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてすべての羽のある群がるもの —それはあなたがたにとって汚れたものである —それらは食べてはならない。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "群がるもの"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "羽のある"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れたものである"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたにとって"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "食べてはならない"
+    }
+  ],
+  "timestamp": "2026-08-07T10:12:53.831739545Z",
+  "model": "glm-5.2"
+}

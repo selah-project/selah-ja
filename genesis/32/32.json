@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そして太陽は彼の上に昇った——ペヌエルを通り過ぎたときに。そして彼は自分の腰の上で足を引きずっていた。",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "そして昇った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼の上に"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽は"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜たときに"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "通り過ぎた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ペヌエル"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ペヌエル"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そして彼は"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "足を引きずっていた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "自分の腰"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:40.593630451Z",
+  "model": "glm-5.2"
+}

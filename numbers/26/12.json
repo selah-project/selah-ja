@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "シメオンの子らは彼らの氏族ごとに：ネムエルにはネムエリ人の氏族、ヤミンにはヤミニ人の氏族、ヤキンにはヤキニ人の氏族。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "シメオン"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "彼らの氏族ごとに"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "ネムエルには"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "〜の氏族"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "ネムエリ人"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "ヤミンには"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "〜の氏族"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "ヤミニ人"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "ヤキンには"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "〜の氏族"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "ヤキニ人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:01:07.634109753Z",
+  "model": "glm-5.2"
+}

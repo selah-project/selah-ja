@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "私の日々は伸ばされた影のよう。私は草のように枯れた。",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "私の日々は"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "影のよう"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "伸ばされた"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "草のように"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "枯れた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:20.594958695Z",
+  "model": "glm-5.2"
+}

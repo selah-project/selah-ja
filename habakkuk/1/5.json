@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "諸国の中で見よ、そして目を注げ、そして驚愕せよ、驚き呆れよ。あなたがたの日々に一つのわざがなされているからだ、それは語られてもあなたがたは信じないだろう。",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "諸国の中で"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "そして目を注げ"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "そして驚愕せよ"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "驚き呆れよ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "一つのわざ"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "がなされている"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "あなたがたの日々に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "あなたがたは信じる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜時"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "語られても"
+    }
+  ],
+  "timestamp": "2026-08-07T12:28:45.595866180Z",
+  "model": "glm-5.2"
+}

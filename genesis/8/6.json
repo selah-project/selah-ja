@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "四十日の終わりに、ノアは自分の造った箱舟の窓を開けた。",
+  "tokens": [
+    {
+      "surface": "והי",
+      "gloss": "～となった"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "終わりに"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日の"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "開けた"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノアは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "窓を"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "窓"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "箱舟の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～ところの"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造った"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:23.717687150Z",
+  "model": "glm-5.2"
+}

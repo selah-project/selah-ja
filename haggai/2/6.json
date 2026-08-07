@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "まことに、万軍のヤハウェはこう言われる — なお一度、それはわずか ⟨である⟩、そしてわたしは ⟨את⟩ 天と ⟨את⟩ 地と ⟨את⟩ 海と ⟨את⟩ 乾いた地を揺り動かす。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "万軍の"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "なお"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一度"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "わずか"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨である⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "そしてわたしは"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "揺り動かす"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "天"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "乾いた地"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "乾いた地"
+    }
+  ],
+  "timestamp": "2026-08-07T12:30:12.964671195Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 14:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "イスラエルの子らに語って言え。彼らは引き返し、ピ・ハ・ヒロテの前に、ミグドルと海の間に宿営せよ。バアル・ツェフォンの前に、その向かいで海のほとりに宿営せよ。",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "そして彼らは引き返し"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "そして宿営せよ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前に"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ピ・"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "ハ・ヒロテ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…の間に"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "ミグドル"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と…の間に"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前に"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "バアル・"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "ツェフォン"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "その向かいで"
+    },
+    {
+      "surface": "תחנו",
+      "gloss": "宿営せよ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…のほとりに"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:25.484724963Z",
+  "model": "glm-5.2"
+}

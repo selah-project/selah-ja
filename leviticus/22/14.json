@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして、ある人が過失で聖なるものを食べたなら、その五分の一をそれに加え、⟨את⟩その聖なるものを祭司に与えなければならない。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "そしてある人が"
+    },
+    {
+      "surface": "כי",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べた"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なるものを"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "過失で"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "そして加える"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "その五分の一を"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "そして与える"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "祭司に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その聖なるもの"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "その聖なるもの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:46.623939810Z",
+  "model": "glm-5.2"
+}

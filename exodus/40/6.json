@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そしてあなたは、会見の天幕である幕屋の入り口の前に⟨את⟩全焼の祭壇を置く。",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "そしてあなたは置く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全焼の祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "の前に"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "幕屋"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:49.694778091Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "すべての羽ある群生するもの、すなわち四つ ⟨の足⟩ で歩くもの、それはあなたたちにとって忌むべきものである。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "群生するもの"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "羽ある"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "歩くもの"
+    },
+    {
+      "surface": "על",
+      "gloss": "で"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四つ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "忌むべきもの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "である"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちにとって"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:27.649670060Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 39:43",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "モシェは⟨את⟩すべての仕事を見た。そして見よ、彼らはそれを、ヤハウェが命じられたように、そのようにした。そしてモシェは彼らを祝福した。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして…見た"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての仕事"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "仕事を"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "彼らは…した"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "それを"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…ように"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "した"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "そして…祝福した"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェは"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:58.658468268Z",
+  "model": "glm-5.2"
+}

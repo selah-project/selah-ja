@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "「あなたがたの足の裏が踏むすべての場所 — わたしはそれをあなたがたに与えた。わたしがモーシェに語ったように。」",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "場所"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "踏む"
+    },
+    {
+      "surface": "כף",
+      "gloss": "裏"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "あなたがたの足の"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "わたしはそれを与えた"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…のように"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "わたしが語った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:24:13.721764331Z",
+  "model": "glm-5.2"
+}

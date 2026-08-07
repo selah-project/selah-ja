@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 11:8",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "民は歩き回り、それを拾い集め、ひき臼で挽くか、または乳鉢で砕き、鍋で煮て、それを⟨את⟩団子にした — その味はオリーブ油の豊かな味のようであった。",
+  "tokens": [
+    {
+      "surface": "שטו",
+      "gloss": "歩き回り"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "ולקטו",
+      "gloss": "拾い集め"
+    },
+    {
+      "surface": "וטחנו",
+      "gloss": "挽く"
+    },
+    {
+      "surface": "ברחים",
+      "gloss": "ひき臼で"
+    },
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "דכו",
+      "gloss": "砕き"
+    },
+    {
+      "surface": "במדכה",
+      "gloss": "乳鉢で"
+    },
+    {
+      "surface": "ובשלו",
+      "gloss": "煮て"
+    },
+    {
+      "surface": "בפרור",
+      "gloss": "鍋で"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "〜にした"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "団子"
+    },
+    {
+      "surface": "עגות",
+      "gloss": "団子"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "その味は〜であった"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "味"
+    },
+    {
+      "surface": "כטעם",
+      "gloss": "〜の味のようであった"
+    },
+    {
+      "surface": "לשד",
+      "gloss": "豊かな味"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "オリーブ油の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:44:27.502682877Z",
+  "model": "glm-5.2"
+}

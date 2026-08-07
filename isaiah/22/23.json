@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 22:23",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "わたしは彼を確かな場所のくぎとして打ち込む。彼は父の家の栄光の玉座となる。",
+  "tokens": [
+    {
+      "surface": "ותקעתיו",
+      "gloss": "わたしは彼を打ち込もう"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "くぎとして"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "〜の場所に"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "確かな"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "そして彼は⟨なる⟩"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "玉座として"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "栄光の"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "〜の家の"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:45.474710568Z",
+  "model": "glm-5.2"
+}

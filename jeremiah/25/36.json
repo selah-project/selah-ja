@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 25:36",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "牧者たちの叫びの声が⟨聞こえる⟩、羊の有力者たちの哀号が。ヤハウェが⟨את⟩彼らの牧場を荒廃させているからだ。」",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "…の声"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "叫びの"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "牧者たちの"
+    },
+    {
+      "surface": "ויללת",
+      "gloss": "そして…の哀号"
+    },
+    {
+      "surface": "אדירי",
+      "gloss": "…の有力者たちの"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だからだ"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "荒廃させている"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの牧場"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "彼らの牧場を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:49:22.194731820Z",
+  "model": "glm-5.2"
+}

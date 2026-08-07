@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "それらの上に天の鳥たちが住み、枝の間から声を上げる。",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "それらの上に"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "鳥たちが"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "住む"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "〜の間から"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "枝の"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "上げる"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:53.627111931Z",
+  "model": "glm-5.2"
+}

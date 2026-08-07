@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 39:6",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そしてバビロンの王はリブラで、彼の目の前で⟨את⟩ツィドキヤフの息子たちを屠った。また⟨את⟩ユダのすべての貴人たちを、バビロンの王は屠った。",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "そして…屠った"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロン"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ツィドキヤフの息子たち"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の息子たち"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ツィドキヤフ"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "リブラで"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "彼の目の前で"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "ユダのすべての貴人たち"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "貴人たち"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "…屠った"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロン"
+    }
+  ],
+  "timestamp": "2026-08-07T11:53:23.026115587Z",
+  "model": "glm-5.2"
+}

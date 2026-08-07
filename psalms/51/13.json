@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "私をあなたの顔の前から投げ捨てないでください。あなたの聖なる霊を私から取らないでください。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "私を投げ捨てないで"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "あなたの顔の前から"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "そして霊"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "あなたの聖なる"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "取らないで"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私から"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:56.027517308Z",
+  "model": "glm-5.2"
+}

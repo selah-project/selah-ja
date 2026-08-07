@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 9:17",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "アダルの月の十三日、⟨その⟩十四日に休み、これ⟨את⟩を宴と喜びの日とした。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "…の日に"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "十三"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "（十）"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "月の"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "アダル"
+    },
+    {
+      "surface": "ונוח",
+      "gloss": "そして休んだ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "十四日に"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "（十）"
+    },
+    {
+      "surface": "בו",
+      "gloss": "その"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "そして…とした"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "日"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "宴"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "と喜び"
+    }
+  ],
+  "timestamp": "2026-08-07T13:43:35.498462173Z",
+  "model": "glm-5.2"
+}

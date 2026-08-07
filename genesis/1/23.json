@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして夕べとなり、朝となった。第五日。",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִי",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "עֶ֥רֶב",
+      "gloss": "夕べ"
+    },
+    {
+      "surface": "וַֽיְהִי",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "בֹ֖קֶר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "י֥וֹם",
+      "gloss": "…日"
+    },
+    {
+      "surface": "חֲמִישִֽׁי",
+      "gloss": "第五"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:48.712228797Z",
+  "model": "glm-5.2"
+}

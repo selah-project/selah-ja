@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そして夕べの近づくとき、彼は水で身を洗い、日の入りとともに宿営の中に入ることができる。",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֥ה",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "לִפְנֽוֹת",
+      "gloss": "回る"
+    },
+    {
+      "surface": "עֶ֖רֶב",
+      "gloss": "夕べ"
+    },
+    {
+      "surface": "יִרְחַ֣ץ",
+      "gloss": "彼は洗う"
+    },
+    {
+      "surface": "בַּמָּ֑יִם",
+      "gloss": "水で"
+    },
+    {
+      "surface": "וּכְבֹ֣א",
+      "gloss": "そして入る"
+    },
+    {
+      "surface": "הַשֶּׁ֔מֶשׁ",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "יָבֹ֖א",
+      "gloss": "彼は入る"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "תּ֥וֹךְ",
+      "gloss": "中"
+    },
+    {
+      "surface": "הַֽמַּחֲנֶֽה",
+      "gloss": "宿営の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:17:58.353833600Z",
+  "model": "glm-5.2"
+}

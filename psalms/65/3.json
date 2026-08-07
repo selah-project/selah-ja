@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 65,
+  "translation": "祈りを聞く方、あなたのもとにすべての肉が来る。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "聞く方"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "祈りを"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "あなたのもとに"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉が"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "来る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:39.801579116Z",
+  "model": "glm-5.2"
+}

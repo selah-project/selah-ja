@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "ペリシテ人は、エロヒムが宿営に来た、と言って恐れた。そして彼らは言った。「私たちにとってわざわいだ。昨日も一昨日もこのよう ⟨なこと⟩ はなかったからだ。」",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "恐れた"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "ペリシテ人は"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "言って"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムが"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "宿営に"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "彼らは言った"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "わざわいだ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちにとって"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "このよう"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "昨日も"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "一昨日も"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:18.278175460Z",
+  "model": "glm-5.2"
+}

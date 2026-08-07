@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 10:18",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "憎しみを隠す⟨者には⟩偽りの唇、そして中傷を言い出す⟨者⟩、彼は愚か者。",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "隠す"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "憎しみを"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "唇"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りの"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "そして…言い出す"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "中傷を"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚か者"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:27.000819693Z",
+  "model": "glm-5.2"
+}

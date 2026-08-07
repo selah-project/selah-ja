@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 86,
+  "translation": "あなたのしもべの⟨נפש⟩を喜ばせよ、⟨あなたの⟩。因为アドナイ、あなたのもとに、この⟨נפש⟩を、私は持ち上げるからである。",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "喜ばせよ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨נפש⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "あなたのしもべ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたのもとに"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "この⟨נפש⟩"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "私は持ち上げる"
+    }
+  ],
+  "timestamp": "2026-08-07T18:40:45.714141227Z",
+  "model": "glm-5.2"
+}

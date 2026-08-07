@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "私が正しくあっても、私の口が私を罪ありとし、私が全きであっても、⟨彼⟩は私を曲がっているとする。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし…ても"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "私が正しくあれ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "私の口が"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "私を罪ありとする"
+    },
+    {
+      "surface": "תם",
+      "gloss": "全き"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私であれ"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "私を曲がっているとする"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:32.589658116Z",
+  "model": "glm-5.2"
+}

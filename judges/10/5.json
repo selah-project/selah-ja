@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "ヤイルは死に、カモンに葬られた。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ヤイル"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "そして葬られた"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "カモンに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:35:10.849579206Z",
+  "model": "glm-5.2"
+}

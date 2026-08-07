@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "王は立ち上がり、⟨את⟩その衣を引き裂き、地に横たわった。彼のすべての召使いは引き裂かれた衣のまま立っていた。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "立ち上がり"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "引き裂き"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その衣"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "その衣"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "横たわった"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地に"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "召使いは"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "立っていた"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "引き裂かれた"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "衣のまま"
+    }
+  ],
+  "timestamp": "2026-08-07T10:53:02.367739507Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "彼女は彼に息子たちを産んだ。⟨すなわち⟩イエウシュ、シェマルヤ、ザハム。",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "～は産んだ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イエウシュ"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "イエウシュ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "シェマルヤ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "シェマルヤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ザハム"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "ザハム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:42.905344600Z",
+  "model": "glm-5.2"
+}

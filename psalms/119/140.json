@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "あなたの〈みことば〉は極めて精錬されたもの、そしてあなたのしもべはそれを愛する。",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "精錬されたもの"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "あなたのみことば"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極めて"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "そしてあなたのしもべ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "それを愛する"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:39.298880723Z",
+  "model": "glm-5.2"
+}

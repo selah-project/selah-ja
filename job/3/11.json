@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "なぜ私は胎から死ななかったのか。なぜ私は腹から出てきて、息絶えなかったのか。」",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかったのか"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "胎から"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "私は死な"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "腹から"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "私は出てきて"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "そして息絶えなかった"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:51.711031051Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "そしてヨセフの兄弟たち十人は下った、穀物を買い求めるために、ミツライムから。",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "そして下った"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "兄弟たち"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフの"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十人"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "買い求めるために"
+    },
+    {
+      "surface": "בר",
+      "gloss": "穀物を"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ミツライムから"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:33.536802323Z",
+  "model": "glm-5.2"
+}

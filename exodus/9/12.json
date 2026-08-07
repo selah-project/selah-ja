@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてヤハウェはパロの ⟨את⟩ 心を強固にされた。そして ⟨彼は⟩ 彼らの声に聞き従わなかった。ヤハウェがモーシェに告げた ⟨ことおり⟩ であった。",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "そして強固にされた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "心"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞き従った"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らの声に"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜たとおりに"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:30.150215545Z",
+  "model": "glm-5.2"
+}

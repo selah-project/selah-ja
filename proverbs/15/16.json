@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "良い、わずかな量でも、ヤハウェを恐れることが — 多くの宝とその中の混乱にまさる。",
+  "tokens": [
+    {
+      "surface": "טֽוֹב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "מְ֭עַט",
+      "gloss": "わずかな量"
+    },
+    {
+      "surface": "בְּיִרְאַ֣ת",
+      "gloss": "〜を恐れることが"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מֵאוֹצָ֥ר",
+      "gloss": "多くの宝に"
+    },
+    {
+      "surface": "רָ֝֗ב",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "וּמְה֥וּמָה",
+      "gloss": "そして混乱"
+    },
+    {
+      "surface": "בֽוֹ",
+      "gloss": "その中に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:46.819329270Z",
+  "model": "glm-5.2"
+}

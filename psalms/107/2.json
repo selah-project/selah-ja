@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "ヤハウェに贖われた者たちが言おう、⟨すなわち⟩⟨彼⟩が敵の手から贖い出した者たちが。",
+  "tokens": [
+    {
+      "surface": "יֹ֭אמְרוּ",
+      "gloss": "言おう"
+    },
+    {
+      "surface": "גְּאוּלֵ֣י",
+      "gloss": "贖われた者たちが"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "⟨すなわち⟩"
+    },
+    {
+      "surface": "גְּאָלָ֗ם",
+      "gloss": "贖い出した"
+    },
+    {
+      "surface": "מִיַּד",
+      "gloss": "〜の手から"
+    },
+    {
+      "surface": "צָֽר",
+      "gloss": "敵"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:36.642566511Z",
+  "model": "glm-5.2"
+}

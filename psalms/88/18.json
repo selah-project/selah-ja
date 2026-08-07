@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 88,
+  "translation": "彼らは水のように私を囲んだ、一日中。彼らは共に私に向かって回った。",
+  "tokens": [
+    {
+      "surface": "סַבּ֣וּנִי",
+      "gloss": "彼らは私を囲んだ"
+    },
+    {
+      "surface": "כַ֭מַּיִם",
+      "gloss": "水のように"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "一日"
+    },
+    {
+      "surface": "הַיּ֑וֹם",
+      "gloss": "中"
+    },
+    {
+      "surface": "הִקִּ֖יפוּ",
+      "gloss": "彼らは回った"
+    },
+    {
+      "surface": "עָלַ֣י",
+      "gloss": "私に向かって"
+    },
+    {
+      "surface": "יָֽחַד",
+      "gloss": "共に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:54:47.013917307Z",
+  "model": "glm-5.2"
+}

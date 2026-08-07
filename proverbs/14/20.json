@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "貧しい人は、その隣人にさえ憎まれる。富む者を愛する者は多い。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": " даже"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "その隣人に"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "憎まれる"
+    },
+    {
+      "surface": "רש",
+      "gloss": "貧しい人"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "そして…を愛する者たち"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "富む者"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多い"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:18.058452518Z",
+  "model": "glm-5.2"
+}

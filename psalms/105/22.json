@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "彼の君たちを ⟨彼の⟩ 魂に縛るため、そして彼の長老たちに知恵を授けるため。",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "縛るため"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "彼の君たちを"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "彼の魂に"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "そして彼の長老たちに"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "知恵を授ける"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:38.520352657Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 2:2",
+  "book": "joel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "闇と濃暗の日、雲と深い闇の日。夜明けが山々に広がるように、数多く強い民が⟨現れる⟩。これのようなものは永遠からあったことがなく、その後も再びない、代々の年に至るまで。",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "〜の日"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "闇と"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "濃暗の"
+    },
+    {
+      "surface": "יום",
+      "gloss": "〜の日"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "雲と"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "深い闇の"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "夜明けが"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "広がるように"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "山々"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民が"
+    },
+    {
+      "surface": "רב",
+      "gloss": "数多く"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "強い"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "これのようなものは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "あったことがなく"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "その後も"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "再び"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "שני",
+      "gloss": "〜の年"
+    },
+    {
+      "surface": "דור",
+      "gloss": "代々"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "代々の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:21:45.120154123Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 6:3",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "彼女のところに牧者たちが、彼らの群れとともに来る。彼らは彼女の回りに天幕を打ち、おのおの ⟨את⟩ 自分の手の前に ⟨ある地⟩ を ⟨牧つ⟩。",
+  "tokens": [
+    {
+      "surface": "אליה",
+      "gloss": "彼女のところに"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "来る"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "牧者たちが"
+    },
+    {
+      "surface": "ועדריהם",
+      "gloss": "彼らの群れとともに"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "打ち"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "彼女の〜に"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "天幕を"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "回りに"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "牧つ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の手"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "自分の手"
+    }
+  ],
+  "timestamp": "2026-08-07T11:41:33.037423210Z",
+  "model": "glm-5.2"
+}

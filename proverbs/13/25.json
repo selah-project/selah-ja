@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "正しい者は食べて、自分のネフェシュの満ち足りるまで⟨⟨至る⟩⟩。しかし悪者たちの腹は欠ける。",
+  "tokens": [
+    {
+      "surface": "צַדִּיק",
+      "gloss": "正しい者は"
+    },
+    {
+      "surface": "אֹכֵל",
+      "gloss": "食べて"
+    },
+    {
+      "surface": "לְשֹׂבַע",
+      "gloss": "満ち足りるまで"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "自分のネフェシュの"
+    },
+    {
+      "surface": "וּבֶטֶן",
+      "gloss": "しかし…腹は"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "悪者たちの"
+    },
+    {
+      "surface": "תֶּחְסָר",
+      "gloss": "欠ける"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:42.670475447Z",
+  "model": "glm-5.2"
+}

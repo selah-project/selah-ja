@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "すべての人の労苦は彼の口のためである、しかしまた、⟨その⟩ネフェシュは満たされることがない。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עֲמַ֥ל",
+      "gloss": "労苦"
+    },
+    {
+      "surface": "הָאָדָ֖ם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "לְפִ֑יהוּ",
+      "gloss": "彼の口のためである"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "しかしまた"
+    },
+    {
+      "surface": "הַנֶּ֖פֶשׁ",
+      "gloss": "⟨その⟩ネフェシュは"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תִמָּלֵֽא",
+      "gloss": "満たされることが"
+    }
+  ],
+  "timestamp": "2026-08-07T18:43:37.255910778Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "勤勉な者の計画は、ただ豊かさに⟨向かい⟩、急ぐ者は皆、ただ欠乏に⟨向かう⟩。",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "計画は"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "勤勉な者の"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "豊かさに"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "急ぐ者"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "欠乏に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:45.003295661Z",
+  "model": "glm-5.2"
+}

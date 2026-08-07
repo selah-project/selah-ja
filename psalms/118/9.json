@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 118,
+  "translation": "ヤハウェに身を避けることは、貴人たちに信頼を置くことよりも良い。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "身を避けることは"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "〜よりも…信頼を置くこと"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "貴人たちに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:49.271872996Z",
+  "model": "glm-5.2"
+}

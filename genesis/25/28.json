@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてイツハクはエサヴを愛した —猟が彼の口に⟨あった⟩から— 。そしてリヴカはヤアコヴを愛⟨し⟩た。",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "そして愛した"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イツハクは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エサヴを"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサヴ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "猟が"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "彼の口に"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "そしてリヴカは"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "愛した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤアコヴを"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコヴ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:58:25.154122969Z",
+  "model": "glm-5.2"
+}

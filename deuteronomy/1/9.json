@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして私はその時にあなたがたに言って、こう言った —— 私は一人であなたがたの ⟨את⟩ を負うことはできない。",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "そして私は言った"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "〜時に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "こう言って"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "私はできる"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "私一人で"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "負うことは"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:06:58.995105526Z",
+  "model": "glm-5.2"
+}

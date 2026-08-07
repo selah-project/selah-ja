@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてもし、その奴隷が次のようにはっきりと告げて言うなら——『私は ⟨את⟩ 私の主人と、⟨את⟩ 私の妻と、⟨את⟩ 私の子らを愛しています。私は自由人としては出て行きません』と——、",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "告げて"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "言うなら"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "その奴隷"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "私は愛しています"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の主人"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "私の主人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の妻"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "私の妻"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "私の子ら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "私の子ら"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "私は出て行きます"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "自由人として"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:25.251454122Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして家畜のネフェシュを打つ者は、それを償わなければならない。ネフェシュはネフェシュの代わりである。",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "そして打つ者は"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ネフェシュ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "家畜の"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "それを償わなければならない"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ネフェシュは"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わりに"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ネフェシュ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:35.475462328Z",
+  "model": "glm-5.2"
+}

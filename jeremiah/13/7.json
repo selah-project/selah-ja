@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 13:7",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして私はペラテ（ユーフラテス）へ行き、掘り、⟨את⟩腰布を、私がそこに隠した場所から取り出した。そして見よ、腰布は損なわれていた。もはや何の役にも立たなかった。",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "そして私は行った"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "ペラテ（ユーフラテス）へ"
+    },
+    {
+      "surface": "ואחפר",
+      "gloss": "そして私は掘った"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "そして私は取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "腰布"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "腰布"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "場所の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "טמנתיו",
+      "gloss": "私はそこに隠した"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "נשחת",
+      "gloss": "損なわれていた"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "腰布は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "役に立つ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "何にとっても"
+    }
+  ],
+  "timestamp": "2026-08-07T11:45:53.453033837Z",
+  "model": "glm-5.2"
+}

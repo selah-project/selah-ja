@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 8:1",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "その日、アハシュエロシュ王はエステル王妃に⟨את⟩ハマンの家――ユダヤ人の敵――を与えた。そしてモルデカイは王の前に来た。エステルが彼が彼女にとって何であるかを告げたからである。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "その日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "あの"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "アハシュエロシュ"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "エステルに"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "王妃"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ハマンの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ハマンの"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "敵"
+    },
+    {
+      "surface": "היהודיים",
+      "gloss": "ユダヤ人の"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "そしてモルデカイは"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "エステルは"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼が"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女にとって"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:49.354140061Z",
+  "model": "glm-5.2"
+}

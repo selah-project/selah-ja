@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして地震の後に火⟨があった⟩。ヤハウェは火のうちに⟨いなかった⟩。そして火の後に、静かな細い声。",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "そして…の後に"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "地震"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火のうちに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "そして…の後に"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "静かな"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "細い"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:20.165174127Z",
+  "model": "glm-5.2"
+}

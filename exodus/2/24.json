@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "エロヒムは⟨את⟩彼らの呻きを聞き、エロヒムは⟨את⟩契約を思い出した——⟨את⟩アヴラハム、⟨את⟩イツハク、そして⟨את⟩ヤアコブとの。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聞き"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの呻き"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "彼らの呻き"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "思い出した"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "契約"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "契約"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アヴラハム"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アヴラハム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イツハク"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イツハク"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:07.342003825Z",
+  "model": "glm-5.2"
+}

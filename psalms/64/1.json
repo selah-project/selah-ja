@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 64,
+  "translation": "聖歌隊の指揮者に向けて。ダヴィデのミズモル。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者に向けて"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ミズモル"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダヴィデの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:48.796204085Z",
+  "model": "glm-5.2"
+}

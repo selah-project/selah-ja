@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "こうして、ヤハウェが嵐のうちに天へ⟨את⟩エリヤフを上げようとされたとき、エリヤフとエリシャはギルガルから出発した。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "こうして"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "上げようとされたとき"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エリヤフ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "エリヤフ"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "嵐のうちに"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天へ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "出発した"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "エリヤフ"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "とエリシャ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ギルガル"
+    }
+  ],
+  "timestamp": "2026-08-07T11:10:42.865552703Z",
+  "model": "glm-5.2"
+}

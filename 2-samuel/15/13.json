@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "報告者はダビデのもとに来て、言った。「イスラエルの男たちの心はアブシャロムの後についてしまった。」",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして…来た"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "報告者は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のもとに"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "היה",
+      "gloss": "…になってしまった"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心は"
+    },
+    {
+      "surface": "איש",
+      "gloss": "…の男たちの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…の後について"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "アブシャロム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:53:34.988501609Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "彼らは正しい者の⟨נפש⟩に逆って集結し、無垢の血を罪ありと宣告する。",
+  "tokens": [
+    {
+      "surface": "יָ֭גוֹדּוּ",
+      "gloss": "彼らは集結する"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜に逆って"
+    },
+    {
+      "surface": "נֶ֣פֶשׁ",
+      "gloss": "נפש"
+    },
+    {
+      "surface": "צַדִּ֑יק",
+      "gloss": "正しい者の"
+    },
+    {
+      "surface": "וְדָ֖ם",
+      "gloss": "そして血を"
+    },
+    {
+      "surface": "נָקִ֣י",
+      "gloss": "無垢の"
+    },
+    {
+      "surface": "יַרְשִֽׁיעוּ",
+      "gloss": "罪ありと宣告する"
+    }
+  ],
+  "timestamp": "2026-08-07T18:41:10.565754252Z",
+  "model": "glm-5.2"
+}

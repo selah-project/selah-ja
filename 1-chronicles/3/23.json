@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてネアルヤの子はエルヨエナイ、ヒズキヤ、アズリカム、三人。",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "そして〜の子"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "ネアルヤ"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "エルヨエナイ"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "およびヒズキヤ"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "およびアズリカム"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三人"
+    }
+  ],
+  "timestamp": "2026-08-07T14:00:40.441616170Z",
+  "model": "glm-5.2"
+}

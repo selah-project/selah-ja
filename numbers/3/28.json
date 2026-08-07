@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 3:28",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "数において、すべての男、生後一か月 ⟨以上⟩ の者は八千六百、聖なるものの任務を守る者たちである。",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "数において"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "…の子から"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "一か月"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "そして以上"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "八"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "そして六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "守る者たち"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "任務"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖なるもの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:51:24.650991677Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "思い出してください、私の命は息であることを。私の目はもはや善を見るために戻ることはない、と。",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "思い出してください"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜であることを"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "息は"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "私の命の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "戻ることは"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "私の目は"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見るために"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:23.197430179Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "幸いなことよ、全き心で⟨彼を⟩求めつつ、⟨彼の⟩あかしを守る者是。",
+  "tokens": [
+    {
+      "surface": "אַ֭שְׁרֵי",
+      "gloss": "幸いなことよ"
+    },
+    {
+      "surface": "נֹצְרֵ֥י",
+      "gloss": "守る者"
+    },
+    {
+      "surface": "עֵדֹתָ֗יו",
+      "gloss": "あかし"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "全き"
+    },
+    {
+      "surface": "לֵ֥ב",
+      "gloss": "心で"
+    },
+    {
+      "surface": "יִדְרְשֽׁוּהוּ",
+      "gloss": "彼を求めつつ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:24.624688276Z",
+  "model": "glm-5.2"
+}

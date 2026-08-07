@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 2:24",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "いや、わたしの子ら。私が聞いている評判は良くない。ヤハウェの民を罪を犯させる〈者たちよ〉。",
+  "tokens": [
+    {
+      "surface": "אַ֖ל",
+      "gloss": "いや"
+    },
+    {
+      "surface": "בָּנָ֑י",
+      "gloss": "わたしの子ら"
+    },
+    {
+      "surface": "כִּ֠י",
+      "gloss": "～ゆえに"
+    },
+    {
+      "surface": "לֽוֹא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "טוֹבָ֤ה",
+      "gloss": "良く"
+    },
+    {
+      "surface": "הַשְּׁמֻעָה֙",
+      "gloss": "評判は"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "～ところの"
+    },
+    {
+      "surface": "אָנֹכִ֣י",
+      "gloss": "私が"
+    },
+    {
+      "surface": "שֹׁמֵ֔עַ",
+      "gloss": "聞いている"
+    },
+    {
+      "surface": "מַעֲבִרִ֖ים",
+      "gloss": "罪を犯させる"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "～の民を"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:03.452007686Z",
+  "model": "glm-5.2"
+}

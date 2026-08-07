@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして王シュロモは、打ち伸ばした金の大盾二百を作った — 六百シェケルの金が一つの大盾の上にのぼった。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして作った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "二百"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "大盾"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "打ち伸ばした"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "のぼった"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "大盾"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一つの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:05.849596164Z",
+  "model": "glm-5.2"
+}

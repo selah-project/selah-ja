@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そしてオホリバマは⟨את⟩イエウシュと⟨את⟩ヤアルアムと⟨את⟩コラハを産んだ。これらはエサヴの子らであり、カナンの地で彼に生まれた者たちである。",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "そしてオホリバマは"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イエウシュ"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "イエウシュ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "ヤアルアム"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "ヤアルアム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "コラハ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "コラハ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサヴの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地で"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "カナンの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:03.363986724Z",
+  "model": "glm-5.2"
+}

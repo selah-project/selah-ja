@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして男たちは陸地に向かって戻ろうとこい進んだが、できなかった。海が彼らの上にますます荒れ狂ったからである。",
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "そして彼らはこい進んだ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "男たちは"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "戻そうとして"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ向かって"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "陸地"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜なかった"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "できた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海は"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "進み続け"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "荒れ狂った"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:24:31.922170214Z",
+  "model": "glm-5.2"
+}

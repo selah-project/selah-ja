@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "盗人と分かち合う者は自分の nefesh を憎む。彼は呪いの誓いを聞いても、それを告げない。",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "分かち合う者"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "盗人"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "憎む"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "自分の nefesh"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "呪いの誓い"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "聞く"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "告げる"
+    }
+  ],
+  "timestamp": "2026-08-07T18:42:23.142848082Z",
+  "model": "glm-5.2"
+}

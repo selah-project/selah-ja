@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 51:16",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "声を出すとき、天に水の轟きが⟨ある⟩。そして彼は地の果てから雲を上らせる。雨のためのいなずまを造り、ご自身の倉から風を連れ出す。",
+  "tokens": [
+    {
+      "surface": "לקול",
+      "gloss": "声に"
+    },
+    {
+      "surface": "תתו",
+      "gloss": "与える（出す）"
+    },
+    {
+      "surface": "המון",
+      "gloss": "轟きが"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "天に"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "そして上らせる"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "雲を"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "果てから"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "いなずまを"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "雨のための"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造る"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして連れ出す"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風を"
+    },
+    {
+      "surface": "מאצרתיו",
+      "gloss": "ご自身の倉から"
+    }
+  ],
+  "timestamp": "2026-08-07T11:59:38.483677890Z",
+  "model": "glm-5.2"
+}

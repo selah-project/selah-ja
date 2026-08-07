@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 56,
+  "translation": "聖歌隊長に。遠き所の沈黙の鳩に伴うもの。ダビデのミクタム。ペリシテ人が彼をガトで捕えたときに。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "聖歌隊長に"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に伴う"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "鳩"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "沈黙の"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "遠き所の"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ミクタム"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "〜が捕えたときに"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人が"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ガトで"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:44.636899911Z",
+  "model": "glm-5.2"
+}

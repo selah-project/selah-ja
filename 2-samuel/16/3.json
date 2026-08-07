@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 16:3",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "王は言った、「あなたの主人の息子はどこにいるのか」。ツィバは王に言った、「見よ、エルシャライムに座しているのです。彼は言った、『今日、イスラエルの家が父の王権を私に返してくれるのだ』と」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "そしてどこに"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "あなたの主人の"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "ツィバは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "座している"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "エルシャライムに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "彼は言った"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "返してくれる"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "父の王権"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "王権"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "父の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:54:21.619396611Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "タルタンのアシュドドへの到来の年に、アシュルの王サルゴンが彼を遣わしたとき、彼はアシュドドで戦い、それを捕らえた。",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "…の年に"
+    },
+    {
+      "surface": "בא",
+      "gloss": "到来"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "タルタン"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "アシュドドへ"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "…が遣わしたとき"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼を"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "サルゴン"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アシュル"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "彼は戦った"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "アシュドドで"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "それを捕らえた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:10.432598557Z",
+  "model": "glm-5.2"
+}

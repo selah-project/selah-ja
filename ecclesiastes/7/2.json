@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "喪の家へ行くのは宴の家へ行く ⟨よりも⟩良い — そこがすべての人の終わりであるゆえに、そして生きている者はそれを自分の心に与える ⟨べきである⟩。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "行くことは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "喪の"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "行くこと ⟨よりも⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "宴の"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "そこが〜であるゆえに"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "終わり"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "そして生きている者は"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "自分の心"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:21.801615985Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "訓戒を愛する⟨者⟩は知識を愛する。しかしこれを憎む⟨者⟩は獣のようである。",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "愛する"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "訓戒を"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛する"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識を"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "しかしこれを憎む"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "（これを）"
+    },
+    {
+      "surface": "בער",
+      "gloss": "獣のようである"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:46.305196938Z",
+  "model": "glm-5.2"
+}

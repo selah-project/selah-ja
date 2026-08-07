@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして⟨彼は⟩それを私の口に触れさせた。そして言った、「見よ、これがあなたの唇に触れた。そしてあなたの咎は移され、あなたの罪は贖われる」",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "そして⟨彼は⟩触れさせた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "פי",
+      "gloss": "私の口"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "触れた"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これが"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "あなたの唇"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "そして移された"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "あなたの咎は"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "そしてあなたの罪は"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "贖われる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:57.914215138Z",
+  "model": "glm-5.2"
+}

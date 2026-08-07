@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そして ⟨את⟩ やぎの子たちの皮を、彼の手の上に、また彼の首の滑らかな ⟨部分の⟩ 上に着せた。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "やぎの子たちの皮"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "皮"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "子やぎたちの"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "やぎの"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "彼女は着せた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "滑らかな"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "彼の首"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:22.700316845Z",
+  "model": "glm-5.2"
+}

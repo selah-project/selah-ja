@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "二つ二つ、ノアのところへ、箱舟へと、雄と雌が⟨入った⟩。エロヒムがノアに命じたとおりに、⟨את⟩ ノアに。",
+  "tokens": [
+    {
+      "surface": "שְׁנַ֨יִם",
+      "gloss": "二つ"
+    },
+    {
+      "surface": "שְׁנַ֜יִם",
+      "gloss": "二つ"
+    },
+    {
+      "surface": "בָּ֧אוּ",
+      "gloss": "入った"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "נֹ֛חַ",
+      "gloss": "ノア"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הַתֵּבָ֖ה",
+      "gloss": "箱舟"
+    },
+    {
+      "surface": "זָכָ֣ר",
+      "gloss": "雄"
+    },
+    {
+      "surface": "וּנְקֵבָ֑ה",
+      "gloss": "と雌"
+    },
+    {
+      "surface": "כַּֽאֲשֶׁ֛ר",
+      "gloss": "〜のとおりに"
+    },
+    {
+      "surface": "צִוָּ֥ה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ノア"
+    },
+    {
+      "surface": "נֹֽחַ",
+      "gloss": "ノア"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:14.367262304Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そしてあなたは全焼の祭壇に油を塗り — ⟨את⟩そのすべての器具に — そしてその祭壇を聖別する — ⟨את⟩その祭壇を — そしてその祭壇は至聖となる。",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "そしてあなたは油を塗る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "すべての"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "その器具"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "そしてあなたは聖別する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "その祭壇"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "そしてそれは〜となる"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "その祭壇"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "〜の聖"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:02.246345951Z",
+  "model": "glm-5.2"
+}

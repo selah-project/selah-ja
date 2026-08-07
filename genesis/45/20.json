@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "そしてあなたがたの目は、あなたがたの器具の上で惜しんではならない。なぜならミツライムの全土の最好的なものはあなたがたのものだからである。」",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "そしてあなたがたの目は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜てはならない"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "惜しんでは"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "あなたがたの器具"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "最好的なもの"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ものである"
+    }
+  ],
+  "timestamp": "2026-08-07T09:10:50.600202731Z",
+  "model": "glm-5.2"
+}

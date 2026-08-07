@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "ウジエルの子らの⟨うち⟩、アミナダブ長、およびその兄弟たち百十二。",
+  "tokens": [
+    {
+      "surface": "לִבְנֵ֖י",
+      "gloss": "〜の子らの"
+    },
+    {
+      "surface": "עֻזִּיאֵ֑ל",
+      "gloss": "ウジエル"
+    },
+    {
+      "surface": "עַמִּינָדָ֣ב",
+      "gloss": "アミナダブ"
+    },
+    {
+      "surface": "הַשָּׂ֔ר",
+      "gloss": "長"
+    },
+    {
+      "surface": "וְאֶחָ֕יו",
+      "gloss": "およびその兄弟たち"
+    },
+    {
+      "surface": "מֵאָ֖ה",
+      "gloss": "百"
+    },
+    {
+      "surface": "וּשְׁנֵ֥ים",
+      "gloss": "と二"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "十"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:55.226892043Z",
+  "model": "glm-5.2"
+}

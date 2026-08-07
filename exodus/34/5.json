@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そしてヤハウェは雲のうちに降りてこられ、そこで彼と共に立たれ、ヤハウェの御名によって宣言された。",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "そして降りて来られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "雲のうちに"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "そして立たれた"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして宣言された"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "御名によって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:43.847547392Z",
+  "model": "glm-5.2"
+}

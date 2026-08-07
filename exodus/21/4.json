@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "もしその主人が彼に妻を与え、彼女が彼に息子たちまたは娘たちを産んだなら、その妻とその子供たちはその女主人のものとなり、彼はその身一筋で出る。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "彼の主人が"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "妻を"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "そして彼女が産むなら"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "娘たちを"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "その妻は"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "とその子供たちは"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "その女主人のもの"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そして彼は"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出る"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "その身一筋で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:08.678053767Z",
+  "model": "glm-5.2"
+}

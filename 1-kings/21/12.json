@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "彼らは断食を呼びかけ、⟨את⟩ナボテを民の先頭に座らせた。",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "彼らは呼びかけた"
+    },
+    {
+      "surface": "צום",
+      "gloss": "断食を"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "そして座らせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナボテ"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ナボテを"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "〜の先頭に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:04.357708267Z",
+  "model": "glm-5.2"
+}

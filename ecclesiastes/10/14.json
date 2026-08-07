@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして愚か者は言葉を増やす — 人は⟨自分が⟩何になるかを知らない、そして自分の後に何が起こるかを、誰が彼に告げようか。",
+  "tokens": [
+    {
+      "surface": "וְהַסָּכָ֖ל",
+      "gloss": "そして愚か者は"
+    },
+    {
+      "surface": "יַרְבֶּ֣ה",
+      "gloss": "増やす"
+    },
+    {
+      "surface": "דְבָרִ֑ים",
+      "gloss": "言葉を"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יֵדַ֤ע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "הָאָדָם֙",
+      "gloss": "人は"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "שֶׁיִּֽהְיֶ֔ה",
+      "gloss": "なるか"
+    },
+    {
+      "surface": "וַאֲשֶׁ֤ר",
+      "gloss": "そして〜というもの"
+    },
+    {
+      "surface": "יִֽהְיֶה֙",
+      "gloss": "起こる"
+    },
+    {
+      "surface": "מֵֽאַחֲרָ֔יו",
+      "gloss": "自分の後に"
+    },
+    {
+      "surface": "מִ֖י",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "יַגִּ֥יד",
+      "gloss": "告げようか"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:07.565861942Z",
+  "model": "glm-5.2"
+}

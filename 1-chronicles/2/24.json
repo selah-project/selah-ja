@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 2:24",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ヘツロンの死後、カルブ・エフラタにおいて、ヘツロンの妻アビヤは彼に⟨את⟩アシュフルを産んだ — テコアの父である。",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "〜の後"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ヘツロン"
+    },
+    {
+      "surface": "בכלב",
+      "gloss": "カルブ・〜において"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "エフラタ"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "〜の妻"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ヘツロン"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "アビヤ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "彼女は産んだ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アシュフル"
+    },
+    {
+      "surface": "אשחור",
+      "gloss": "アシュフル"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "テコア"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:36.635019900Z",
+  "model": "glm-5.2"
+}

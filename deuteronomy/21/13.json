@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 21:13",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "彼女は⟨自分の⟩捕囚の衣服を自分の上から取り除き、あなたの家に住み、父と母のために一つの月の間、泣く。その後、あなたは彼女のところに入り、彼女を妻とし、彼女はあなたの妻となる。",
+  "tokens": [
+    {
+      "surface": "והסירה",
+      "gloss": "彼女は取り除き"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "捕囚の衣服"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "衣服"
+    },
+    {
+      "surface": "שביה",
+      "gloss": "捕囚の"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "彼女の上から"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "そして住み"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "あなたの家に"
+    },
+    {
+      "surface": "ובכתה",
+      "gloss": "そして泣く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "父"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "彼女の父"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "母"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "彼女の母"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "月"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日の"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "その後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そう"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "あなたは入る"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "彼女のところに"
+    },
+    {
+      "surface": "ובעלתה",
+      "gloss": "そして彼女を妻とする"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "そして彼女はなる"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "妻として"
+    }
+  ],
+  "timestamp": "2026-08-07T10:16:08.128480461Z",
+  "model": "glm-5.2"
+}

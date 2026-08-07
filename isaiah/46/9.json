@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 46:9",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "初めからの出来事を思い出せ、永遠から。わたしはエルであり、ほかに⟨はない⟩。エロヒムであり、わたしと同じものはいない。",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "思い出せ"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "初めからの"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "永遠から"
+    },
+    {
+      "surface": "כי",
+      "gloss": "（というのは）"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ほかに～ない"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "（ほかの）"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "（おり）"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "わたしと同じもの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:50.025023768Z",
+  "model": "glm-5.2"
+}

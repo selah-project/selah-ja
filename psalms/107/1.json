@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "ヤハウェに感謝をささげよ、⟨彼⟩は善であるから、そのヘセドはとこしえに⟨続く⟩から。",
+  "tokens": [
+    {
+      "surface": "הֹד֣וּ",
+      "gloss": "感謝をささげよ"
+    },
+    {
+      "surface": "לַיהוָ֣ה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "ט֑וֹב",
+      "gloss": "善である"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "חַסְדּֽוֹ",
+      "gloss": "そのヘセド"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:36.642378994Z",
+  "model": "glm-5.2"
+}

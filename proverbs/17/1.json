@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "乾いたパン切れ一つと、そのうちの平穏は、いけにえで満ちた争いの家にまさる。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "〜はまさる"
+    },
+    {
+      "surface": "פת",
+      "gloss": "パン切れ"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "乾いた"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "そして平穏"
+    },
+    {
+      "surface": "בה",
+      "gloss": "そのうちの"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "〜の家に"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "満ちた"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "いけにえの"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "争い"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:21.557295095Z",
+  "model": "glm-5.2"
+}

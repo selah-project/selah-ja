@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 96,
+  "translation": "天は喜び、地は躍れ。海とその満ちるものよ、轟け。",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "喜び"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天は"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "躍れ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "轟け"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "その満ちるもの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:58.577521089Z",
+  "model": "glm-5.2"
+}

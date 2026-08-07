@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そしてダビデに告げて言った。「見よ、ペリシテ人がケイラに向かって戦いを挑み、彼らは⟨את⟩打穀場を略奪している。」",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデに"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人が"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "戦いを挑み"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "ケイラに向かって"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "そして彼らは"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "略奪している"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "打穀場を"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "打穀場"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:52.987600275Z",
+  "model": "glm-5.2"
+}

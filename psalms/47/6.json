@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "エロヒムは歓呼のうちに昇られた、ヤハウェは角笛の音のうちに。",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "昇られた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "歓呼のうちに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "〜の音のうちに"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "角笛"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:16.277476948Z",
+  "model": "glm-5.2"
+}

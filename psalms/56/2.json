@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 56,
+  "translation": "私に恵みを与えてください、エロヒムよ。人が私を貪り食うので。終日、戦って彼は私を押し潰すから。",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "私に恵みを与えてください"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ので"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "私を貪り食う"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "人が"
+    },
+    {
+      "surface": "כל",
+      "gloss": "〜のすべて"
+    },
+    {
+      "surface": "היום",
+      "gloss": "終日"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "戦って"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "私を押し潰す"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:44.637096586Z",
+  "model": "glm-5.2"
+}

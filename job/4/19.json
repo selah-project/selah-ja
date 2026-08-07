@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 4:19",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "まして、粘土の家々に住む者は — 彼らの土台はちりの中に、蛾の前で彼らは砕かれる。",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "まして"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "住む者は"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "家々に"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "粘土の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ちりの中に"
+    },
+    {
+      "surface": "יסודם",
+      "gloss": "彼らの土台は"
+    },
+    {
+      "surface": "ידכאום",
+      "gloss": "砕かれる"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前で"
+    },
+    {
+      "surface": "עש",
+      "gloss": "蛾"
+    }
+  ],
+  "timestamp": "2026-08-07T13:19:09.776897449Z",
+  "model": "glm-5.2"
+}

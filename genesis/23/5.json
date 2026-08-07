@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そしてヘトの子らは答えて、アブラハムに⟨את⟩、彼に向かって言った、",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "そして答えた"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ヘト"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アブラハム"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "…と言って"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に向かって"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:55.541366704Z",
+  "model": "glm-5.2"
+}

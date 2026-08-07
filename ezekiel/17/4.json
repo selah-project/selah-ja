@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "⟨את⟩ その若枝の頂を、彼は切り取った、そして彼はそれをカナンの地、商人の街にもたらした、そこに彼は置いた。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その若枝の頂"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頂"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "その若枝"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "切り取った"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "そして彼はそれをもたらした"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "カナン"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "街に"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "商人たち"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼は置いた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:05:17.672813188Z",
+  "model": "glm-5.2"
+}

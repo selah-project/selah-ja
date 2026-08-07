@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "王はヤハウェに信頼するゆえに、そして至高者のヘセドによって、彼は決して揺るがない。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ゆえに"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "信頼する"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "そして〜のヘセドによって"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "至高者の"
+    },
+    {
+      "surface": "בל",
+      "gloss": "決して〜ない"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "揺るがない"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:27.300060833Z",
+  "model": "glm-5.2"
+}

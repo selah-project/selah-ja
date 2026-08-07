@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "支えられた思いを、あなたは守る。完全なる平和、平和を。あなたに信頼するからだ。",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "思いを"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "支えられた"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "あなたは守る"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平和"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平和"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だからだ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "信頼する"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:31.545300567Z",
+  "model": "glm-5.2"
+}

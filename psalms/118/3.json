@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 118,
+  "translation": "アハロンの家は今や言え、そのヘセドはとこしへまで ⟨ある⟩と。",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "言え"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今や"
+    },
+    {
+      "surface": "בית",
+      "gloss": "〜の家"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしへまで"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "そのヘセドは"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:54.799987868Z",
+  "model": "glm-5.2"
+}

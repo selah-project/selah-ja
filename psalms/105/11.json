@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "言って、「あなたに、わたしは与える ⟨את⟩ カナンの地を、あなたがたの嗣業の綱として」",
+  "tokens": [
+    {
+      "surface": "לֵאמֹ֗ר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "לְךָ֗",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "אֶתֵּ֥ן",
+      "gloss": "わたしは与える"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "カナンの地"
+    },
+    {
+      "surface": "אֶֽרֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כְּנָ֑עַן",
+      "gloss": "カナン"
+    },
+    {
+      "surface": "חֶ֝֗בֶל",
+      "gloss": "綱"
+    },
+    {
+      "surface": "נַחֲלַתְכֶֽם",
+      "gloss": "あなたがたの嗣業"
+    }
+  ],
+  "timestamp": "2026-08-07T17:21:30.783992339Z",
+  "model": "glm-5.2"
+}

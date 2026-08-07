@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "わたしはわたしの手をあなたに向けて戻し、灰汁のようにあなたの滓を精錬し、あなたの合金をすべて取り除く。",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "わたしは…戻し"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "わたしの手を"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたに向けて"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "…精錬し"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "灰汁のように"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "あなたの滓を"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "…取り除く"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "あなたの合金を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:19:37.152764385Z",
+  "model": "glm-5.2"
+}

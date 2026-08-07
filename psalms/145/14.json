@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 145,
+  "translation": "ヤハウェはすべての倒れる者を支え、すべてのかがむ者を起こし上げる。",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "支え"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "倒れる者を"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "そして起こし上げる"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "かがむ者を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:20.888506536Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "イスラエルの全会衆に語って言え。この月の十日に、彼らはおのおの父の家ごとに、一つの家につき一匹の小羊を自らのために取らなければならない、と。",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "会衆"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "十日に"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "月の"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "そして取れ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らのために"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "שה",
+      "gloss": "小羊"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "〜の家につき"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "父の"
+    },
+    {
+      "surface": "שה",
+      "gloss": "小羊"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "家につき"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:56.125539999Z",
+  "model": "glm-5.2"
+}

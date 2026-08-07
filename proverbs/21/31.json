@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "馬は戦いの日のために備えられる、しかし救いはヤハウェのものだ。",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "馬は"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "備えられる"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "〜の日のために"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦い"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "しかし〜のものだ、ヤハウェ"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "救いは"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:32.053248257Z",
+  "model": "glm-5.2"
+}

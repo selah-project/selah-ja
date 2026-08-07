@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "イスラエルは良いものを退けた。敵が ⟨彼を⟩ 追うだろう。",
+  "tokens": [
+    {
+      "surface": "זָנַ֥ח",
+      "gloss": "退けた"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ט֑וֹב",
+      "gloss": "良いもの"
+    },
+    {
+      "surface": "אוֹיֵ֖ב",
+      "gloss": "敵"
+    },
+    {
+      "surface": "יִרְדְּ׽פוֹ",
+      "gloss": "彼を追うだろう"
+    }
+  ],
+  "timestamp": "2026-08-07T12:20:07.024610594Z",
+  "model": "glm-5.2"
+}

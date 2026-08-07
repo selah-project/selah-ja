@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 101,
+  "translation": "私の目は⟨、⟩ 地の誠実な者たちに⟨向いている⟩、私と共に住むために。傷のない道を歩む者、彼が私に仕える。",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "私の目"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "誠実な者たちに"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "住むために"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "私と共に"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "歩む者"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道を"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "傷のない"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼が"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "私に仕える"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:31.125962966Z",
+  "model": "glm-5.2"
+}

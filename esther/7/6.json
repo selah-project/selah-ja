@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "エステルは言った。「押し迫る者、敵なるこの悪人ハマンです。」そしてハマンは王と王妃の前で恐れおののいた。",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "そして彼女は言った"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "エステル"
+    },
+    {
+      "surface": "איש",
+      "gloss": "者"
+    },
+    {
+      "surface": "צר",
+      "gloss": "押し迫る"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "そして敵"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ハマン"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "そしてハマン"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "恐れおののいた"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "〜の前で"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "と王妃"
+    }
+  ],
+  "timestamp": "2026-08-07T13:43:50.844679549Z",
+  "model": "glm-5.2"
+}

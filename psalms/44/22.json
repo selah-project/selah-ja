@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "エロヒムはこれを探り出さないのだろうか。⟨それは⟩彼が心の隠されたことを知っているからだ。",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "〜ではないのだろうか"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "探り出す"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これを"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知っている"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "隠されたことを"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:29.710364458Z",
+  "model": "glm-5.2"
+}

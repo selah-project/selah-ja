@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "聖所からあなたの助けを送り、ツィヨンからあなたを支えるように。",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "送る"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "あなたの助け"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "聖所から"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "そしてツィヨンから"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "あなたを支える"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:08.299839362Z",
+  "model": "glm-5.2"
+}

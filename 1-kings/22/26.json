@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "イスラエルの王は言った。「ミカヤフを連れて行き、⟨את⟩彼を都市の長アモンのもと、そして王の子ヨアシュのもとへ返せ。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "קח",
+      "gloss": "取れ・連れて行け"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ミカヤフ"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ミカヤフ"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "そして彼を返せ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のもとへ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "アモン"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "都市の"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして…のもとへ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ヨアシュ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:52.243528294Z",
+  "model": "glm-5.2"
+}

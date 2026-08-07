@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして王アハシュエロシュは地と海の島々に⟨⟩労役を課した。",
+  "tokens": [
+    {
+      "surface": "וַיָּשֶׂם֩",
+      "gloss": "そして…課した"
+    },
+    {
+      "surface": "הַמֶּ֨לֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "アハシュエロシュ"
+    },
+    {
+      "surface": "מַ֛ס",
+      "gloss": "労役"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "וְאִיֵּ֥י",
+      "gloss": "そして…の島々"
+    },
+    {
+      "surface": "הַיָּֽם",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:33.852318254Z",
+  "model": "glm-5.2"
+}

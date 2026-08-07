@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 15:20",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そしてすべてのもの、彼女がその隔離の上に寝るものは汚れる。そしてすべてのもの、彼女がその上に座るものは汚れる。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "彼女が寝る"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "彼女の隔離の"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "汚れる"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "彼女が座る"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "汚れる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:40:29.421355184Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 12:13",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "ダビデはナタンに言った。「私はヤハウェに対して罪を犯した。」ナタンはダビデに言った。「ヤハウェもまた、あなたの罪を過ぎ越させた。あなたは死なない。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ナタン"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "私は罪を犯した"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに対して"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ナタン"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "もまた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "過ぎ越させた"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "あなたの罪を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "あなたは死な"
+    }
+  ],
+  "timestamp": "2026-08-07T10:52:33.600478794Z",
+  "model": "glm-5.2"
+}

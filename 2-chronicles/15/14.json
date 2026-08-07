@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 15:14",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして彼らはヤハウェに、大いなる声と、歓呼と、ラッパと、ショファールをもって誓った。",
+  "tokens": [
+    {
+      "surface": "וישבעו",
+      "gloss": "そして彼らは誓った"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "声で"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "ובתרועה",
+      "gloss": "そして歓呼で"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "そしてラッパで"
+    },
+    {
+      "surface": "ובשופרות",
+      "gloss": "そしてショファールで"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:16.571509609Z",
+  "model": "glm-5.2"
+}

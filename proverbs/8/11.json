@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "知恵は真珠よりも良い、から。そしてすべての望ましいものは ⟨その⟩ ことと等しくされない、から。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "טוֹבָ֣ה",
+      "gloss": "良い"
+    },
+    {
+      "surface": "חָ֭כְמָה",
+      "gloss": "知恵は"
+    },
+    {
+      "surface": "מִפְּנִינִ֑ים",
+      "gloss": "真珠よりも"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "חֲ֝פָצִ֗ים",
+      "gloss": "望ましいもの"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִֽשְׁווּ",
+      "gloss": "等しくされる"
+    },
+    {
+      "surface": "בָֽהּ",
+      "gloss": "その ⟨こと⟩ と"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:55.391452503Z",
+  "model": "glm-5.2"
+}

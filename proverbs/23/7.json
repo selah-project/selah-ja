@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "彼が ⟨自分の⟩ネフェシュで計算するように、彼はそのとおりの者だ。「食べよ、飲め」と彼はあなたに言うが、彼の心はあなたと共にない。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…というのは"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "…のように"
+    },
+    {
+      "surface": "שער",
+      "gloss": "計算する"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "彼のネフェシュで"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのとおり"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は…だ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食べよ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "飲め"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "言う"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "しかし彼の心は"
+    },
+    {
+      "surface": "בל",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたと共に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:17.928654211Z",
+  "model": "glm-5.2"
+}

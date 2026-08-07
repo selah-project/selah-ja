@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "ダビデは進んだ、彼と彼と共にいた六百人の者たちが、そして彼らはナハル・ハブショル（ベソルの川）にまで来た。残された者たちはそこに立った。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして進んだ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼自身"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "と六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の者たち"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜にまで"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ナハル（川）"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "ハブショル（ベソル）"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "そして残された者たちは"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "立った"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:54.373370956Z",
+  "model": "glm-5.2"
+}

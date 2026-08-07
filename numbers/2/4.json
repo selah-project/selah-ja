@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして彼の軍団、および彼らの点呼された者たちは七万四千六百である。",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "そして彼の軍団"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "および彼らの点呼された者たちは"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "および七十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "および六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    }
+  ],
+  "timestamp": "2026-08-07T09:45:02.275053360Z",
+  "model": "glm-5.2"
+}

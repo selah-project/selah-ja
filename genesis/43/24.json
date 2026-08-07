@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "そしてその男は⟨את⟩その人々をヨセフの家に連れて入り、水を与え、彼らは足を洗った。そして彼はそのろばに餌を与えた。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして彼は連れて入った"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その男は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その人々"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "その人々"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "家に"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフの"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして彼は与えた"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "そして彼らは洗った"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "彼らの足"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして彼は与えた"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "餌"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "彼らのろばに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:01.439456806Z",
+  "model": "glm-5.2"
+}

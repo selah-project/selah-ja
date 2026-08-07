@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joel 1:11",
+  "book": "joel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "恥じよ、農夫たち。哀号せよ、ぶどう園の耕作者たち。小麦と大麦のゆえに。田野の収穫が滅びたのだから。",
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "恥じよ"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "農夫たち"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "哀号せよ"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ぶどう園の耕作者たち"
+    },
+    {
+      "surface": "על",
+      "gloss": "…のゆえに"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "小麦"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "と…のゆえに"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "大麦"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…のだから"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "滅びた"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "収穫"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田野の"
+    }
+  ],
+  "timestamp": "2026-08-07T17:12:10.180399157Z",
+  "model": "glm-5.2"
+}

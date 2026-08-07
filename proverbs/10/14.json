@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "知者たちは知識を蓄える、そして愚か者の口は破滅に近い。",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "知者たちは"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "蓄える"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識を"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "そして〜の口は"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "愚か者の"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "破滅に"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "近い"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:32.084701533Z",
+  "model": "glm-5.2"
+}

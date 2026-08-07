@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "職人たちに、建築者たちに、石工たちに、また木材と切り石を買うために — 家を修固するために。",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "職人たちに"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "そして建築者たちに"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "そして石工たちに"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "そして買うために"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "木材"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "そして石"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "切り"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "修固するために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家"
+    }
+  ],
+  "timestamp": "2026-08-07T14:28:10.924155153Z",
+  "model": "glm-5.2"
+}

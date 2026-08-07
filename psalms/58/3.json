@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 58,
+  "translation": "いや、心のうちに不正を働き、地の上に、あなたたちの手の暴力を量り出す。",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "いや"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "心のうちに"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "不正を"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "働き"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地の上に"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "暴力を"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "あなたたちの手の"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "量り出す"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:53.457293339Z",
+  "model": "glm-5.2"
+}

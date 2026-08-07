@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そして彼は、そこにいた高き所の祭司をすべて、祭壇の上でいけにえとしてささげ、人の骨をその上で焼いた。そして彼はイェルシャライムに帰った。",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "そしていけにえとしてささげた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "高き所の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "そして焼いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人の骨"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "骨"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして帰った"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:18:35.562673404Z",
+  "model": "glm-5.2"
+}

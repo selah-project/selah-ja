@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "「わたし、ヤハウェが、それを守る。絶えずわたしはそれに水を注ぐ。恐れ、誰かがそれに敵して訪れることのないように、わたしは夜も昼もそれを守る。」",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "わたし"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "それを守る"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "絶えず"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "それに水を注ぐ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "恐れ〜ないように"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "訪れる"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "それに敵して"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "そして昼"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "それを守る"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:10.439430055Z",
+  "model": "glm-5.2"
+}

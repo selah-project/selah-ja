@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そしてアダムの全生涯の日数は、彼が生きていた間、九百三十年であった。そして彼は死んだ。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "そして…になった"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日々"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "アダム"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…た"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生きる"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "九"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "と三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして彼は死んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:57.661259418Z",
+  "model": "glm-5.2"
+}

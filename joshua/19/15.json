@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 19:15",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "カタト、ナハラル、シムロン、イダラ、およびベイト・レヘム――十二の都市とその村落。",
+  "tokens": [
+    {
+      "surface": "וקטת",
+      "gloss": "カタト"
+    },
+    {
+      "surface": "ונהלל",
+      "gloss": "ナハラル"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "シムロン"
+    },
+    {
+      "surface": "וידאלה",
+      "gloss": "イダラ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ベイト・"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "レヘム"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "都市"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "とその村落"
+    }
+  ],
+  "timestamp": "2026-08-07T10:28:58.709220725Z",
+  "model": "glm-5.2"
+}

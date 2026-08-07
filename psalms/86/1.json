@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 86,
+  "translation": "祈り、ダヴィドの。ヤハウェ、⟨あなたの⟩耳を傾けて、私に答えてください。私⟨は⟩貧しく、かつ乏しい⟨者⟩だから。",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "祈り"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダヴィドの"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "傾けて"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "あなたの耳"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "私に答えてください"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "עני",
+      "gloss": "貧しい"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "かつ乏しい"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:26.142545613Z",
+  "model": "glm-5.2"
+}

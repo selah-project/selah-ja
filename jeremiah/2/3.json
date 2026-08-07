@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "イスラエルはヤハウェへの聖なるもの、⟨彼の⟩収穫の初穂。すべてそれを食する者は罪を負い、災いが彼らの上に来る、ヤハウェの御告げ。",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェへの"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "初穂"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "収穫の"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "それを食する者は"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "罪を負い"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "災い"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らの上に"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "…の御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:39:20.546291945Z",
+  "model": "glm-5.2"
+}

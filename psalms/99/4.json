@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 99,
+  "translation": "そして強き王、裁きを愛する方、あなたは公平を堅く立てられた。裁きと義をヤアコブにおいて、あなたは行われた。",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "そして強き"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "裁きを"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛する方"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "堅く立てられた"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "公平を"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "裁きと"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "義"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ヤアコブにおいて"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "行われた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:16.515980915Z",
+  "model": "glm-5.2"
+}

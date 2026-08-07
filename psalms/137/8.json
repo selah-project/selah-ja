@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 137,
+  "translation": "略奪される者、バビルの娘よ、幸いなるかな、あなたに報いる者は、⟨את⟩ あなたの行いを、あなたが私たちにしたように。",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "娘よ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビルの"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "略奪される者"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "幸いなるかな"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "報いる者は"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの行いを"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "あなたの行いを"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "あなたがした"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:18.051169631Z",
+  "model": "glm-5.2"
+}

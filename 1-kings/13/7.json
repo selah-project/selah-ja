@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 13:7",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "王はエロヒムの人に語りかけた。「わたしと一緒に家に来て、食事をとれ。そうすれば、わたしはあなたに贈り物を与えよう。」",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "語りかけた"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "באה",
+      "gloss": "来て"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "わたしと一緒に"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "家に"
+    },
+    {
+      "surface": "וסעדה",
+      "gloss": "食事をとれ"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "わたしは与えよう"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "贈り物を"
+    }
+  ],
+  "timestamp": "2026-08-07T18:30:40.801548833Z",
+  "model": "glm-5.2"
+}

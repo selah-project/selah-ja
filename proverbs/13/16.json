@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "すべての賢い者は知識をもって行い、愚か者は愚かさを広げる。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עָ֭רוּם",
+      "gloss": "賢い者"
+    },
+    {
+      "surface": "יַעֲשֶׂ֣ה",
+      "gloss": "行う"
+    },
+    {
+      "surface": "בְדָ֑עַת",
+      "gloss": "知識をもって"
+    },
+    {
+      "surface": "וּ֝כְסִ֗יל",
+      "gloss": "愚か者は"
+    },
+    {
+      "surface": "יִפְרֹ֥שׂ",
+      "gloss": "広げる"
+    },
+    {
+      "surface": "אִוֶּֽלֶת",
+      "gloss": "愚かさを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:10.375937977Z",
+  "model": "glm-5.2"
+}

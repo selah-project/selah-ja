@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "聖なる場所で水で⟨את⟩自分の身を洗い、⟨את⟩自分の衣を着け、出て行き、自分の全焼の献げ物と民の全焼の献げ物とを献げ、自分のため、また民のために贖いをする。",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "そして洗う"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の身"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "彼の身"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水で"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "〜の場所で"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "そして着ける"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の衣"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "彼の衣"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て行く"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "そして行う"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の全焼の献げ物"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "彼の全焼の献げ物"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "全焼の献げ物"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "全焼の献げ物"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "そして贖いをする"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "そして〜のために"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:55.545964045Z",
+  "model": "glm-5.2"
+}

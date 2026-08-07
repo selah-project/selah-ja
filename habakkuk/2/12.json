@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ああ、血で町を建てる者、不正で城を据え立てる者よ。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建てる者"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "血で"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "そして据え立てる"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "城"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "不正で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:27:49.954297594Z",
+  "model": "glm-5.2"
+}

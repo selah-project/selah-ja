@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 13:25",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "見よ、通りがかった人々が、道に投げ出された死骸を、また死骸のかたわらに立っている獅子を、見た。そして彼らは来て、あの年老いた預言者が住んでいる町で告げ知らせた。",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人々が"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "通りがかった"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "死骸"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "死骸"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "投げ出された"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道に"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "獅子"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "立っている"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "かたわらに"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "死骸"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "そして彼らは来て"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "告げ知らせた"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町で"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "年老いた"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "住んでいる"
+    },
+    {
+      "surface": "בה",
+      "gloss": "それに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:03:14.936415843Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そしてこれが、エロヒムの人モーシェが、その死ぬ前に、イスラエルの子らを祝福した⟨את⟩祝福のことばである。",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "そしてこれが"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜の"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "祝福した"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子ら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "その死"
+    }
+  ],
+  "timestamp": "2026-08-07T10:22:15.429866806Z",
+  "model": "glm-5.2"
+}

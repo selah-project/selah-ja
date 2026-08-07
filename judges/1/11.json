@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして彼はそこからデビルの住民たちのもとへ行った。デビルの名は以前はキルヤト・セフェルであった。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとへ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "住民たちの"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "デビル"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そして名は"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "デビルの"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "以前"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "キルヤト"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "セフェル"
+    }
+  ],
+  "timestamp": "2026-08-07T16:41:51.080281686Z",
+  "model": "glm-5.2"
+}

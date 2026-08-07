@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 9:24",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "ただし、パロの娘はダビデの町から、彼女のために建てられた彼女の家へ上った。その時、彼は⟨את⟩ミロを建てた。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "上った"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "〜の町から"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "彼女の家"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女のために"
+    },
+    {
+      "surface": "אז",
+      "gloss": "その時"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ミロ"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "ミロ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:01:43.213630958Z",
+  "model": "glm-5.2"
+}

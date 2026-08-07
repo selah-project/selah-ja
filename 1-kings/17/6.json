@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そして渡り鳥たちは朝に彼にパンと肉を運び、夕にパンと肉を運んだ。そして彼はナハルから飲んだ。",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "そして渡り鳥たちは"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "運んだ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "と肉を"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝に"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "そしてパンを"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "と肉を"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "夕に"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "そして〜から"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ナハル"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "彼は飲んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:21.396205152Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "真実の唇は永遠に堅く立つ、しかし偽りの舌はただ一瞬のことだ。",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "〜の唇は"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真実の"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "堅く立つ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "しかし"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "一瞬の"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "〜の舌は"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:42.940300225Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "イスラエルの子らは旅立ち、オボテに宿営した。",
+  "tokens": [
+    {
+      "surface": "וַיִּסְע֖וּ",
+      "gloss": "そして旅立った"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "וַֽיַּחֲנ֖וּ",
+      "gloss": "そして宿営した"
+    },
+    {
+      "surface": "בְּאֹבֹֽת",
+      "gloss": "オボテに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:23:53.942098089Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "ぶどう酒を見てはならない。赤く輝くときにも、杯の中にその色を出すときにも、なめらかに⟨喉を⟩下るときにも。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "見ては"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ぶどう酒"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜のときに"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "赤く輝く"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜のときに"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "出す"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "杯の中に"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "その色"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "なめらかに下る"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "まっすぐに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:25.419323441Z",
+  "model": "glm-5.2"
+}

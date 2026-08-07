@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "王はアマサに言った。「私のために⟨את⟩ユダの人々を呼び集めよ。三日間で。そしてあなたはここに立て。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "アマサ"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "呼び集めよ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ユダの人々"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人々"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ここに"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "立て"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:01.060710182Z",
+  "model": "glm-5.2"
+}

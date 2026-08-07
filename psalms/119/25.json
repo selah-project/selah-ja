@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "ちりに clingeth ⟨is⟩ my ネフェシュ — make me live, according to your word.",
+  "tokens": [
+    {
+      "surface": "דָּֽבְקָ֣ה",
+      "gloss": "clingeth"
+    },
+    {
+      "surface": "לֶעָפָ֣ר",
+      "gloss": "to the dust"
+    },
+    {
+      "surface": "נַפְשִׁ֑י",
+      "gloss": "my ネフェシュ"
+    },
+    {
+      "surface": "חַ֝יֵּ֗נִי",
+      "gloss": "make me live"
+    },
+    {
+      "surface": "כִּדְבָרֶֽךָ",
+      "gloss": "according to your word"
+    }
+  ],
+  "timestamp": "2026-08-07T18:41:28.107217608Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そして心の賢いすべての女は、その手で紡ぎ、紡いだ糸を携えて来た — ⟨את⟩青色、そして⟨את⟩紫色、⟨את⟩緋色の〈羊毛〉、そして⟨את⟩亜麻を。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "賢い"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "その手で"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "紡ぎ"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "そして彼女たちは携えて来た"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "紡いだ糸"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "青色"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "青色"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "紫色"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "紫色"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "緋色の羊毛"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "虫"
+    },
+    {
+      "surface": "השני",
+      "gloss": "緋色"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "亜麻"
+    },
+    {
+      "surface": "השש",
+      "gloss": "亜麻"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:09.402858178Z",
+  "model": "glm-5.2"
+}

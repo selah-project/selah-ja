@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "あなたの叱責から彼らは逃げた ― あなたの雷の声から彼らは急ぎ去った。",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "あなたの叱責"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "彼らは逃げた"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "あなたの雷の"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "彼らは急ぎ去った"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:55.299341730Z",
+  "model": "glm-5.2"
+}

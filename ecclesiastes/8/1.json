@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "誰が知恵ある者のようであろうか、そして誰がことばの解き明かしを知っていよう。人の知恵は⟨彼の⟩顔を輝かせ、その顔の⟨力⟩は変えられる。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "知恵ある者のようであろうか"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "そして誰が"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "知っていよう"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "解き明かしを"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことばの"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "知恵は"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "輝かせ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "顔を"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "そして…の力"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "その顔の"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "変えられる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:53.874014207Z",
+  "model": "glm-5.2"
+}

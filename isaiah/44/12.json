@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 44:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "鉄の職人 — 斧を⟨打ち⟩、火桶で働き、槌でそれを形造り、腕の力でそれを仕上げる。彼は飢え、そして力がない。水を飲まず、疲れ果てる。",
+  "tokens": [
+    {
+      "surface": "חרש",
+      "gloss": "職人"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鉄の"
+    },
+    {
+      "surface": "מעצד",
+      "gloss": "斧"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "そして働く"
+    },
+    {
+      "surface": "בפחם",
+      "gloss": "火桶で"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "そして槌で"
+    },
+    {
+      "surface": "יצרהו",
+      "gloss": "それを形造る"
+    },
+    {
+      "surface": "ויפעלהו",
+      "gloss": "そしてそれを仕上げる"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "腕で"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "彼の力の"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "彼は飢える"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "飲む"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    },
+    {
+      "surface": "וייעף",
+      "gloss": "そして疲れ果てる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:00.878452630Z",
+  "model": "glm-5.2"
+}

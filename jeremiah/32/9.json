@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 32:9",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そして私は⟨את⟩その畑を、アナトテにいる私の叔父の息子ハナムエルから買い取り、彼に⟨את⟩銀を量って与えた——七シェケルと銀十⟨シェケル⟩。",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "そして私は買った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その畑"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "その畑"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "חנמאל",
+      "gloss": "ハナムエル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "私の叔父"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜にある"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "アナトテ"
+    },
+    {
+      "surface": "ואשקלה",
+      "gloss": "そして私は量った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "銀"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "シェケル"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "と十"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀"
+    }
+  ],
+  "timestamp": "2026-08-07T11:51:36.951673625Z",
+  "model": "glm-5.2"
+}

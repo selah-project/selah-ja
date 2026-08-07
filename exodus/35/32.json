@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そして工夫を設計するために、金において、銀において、青銅において仕事をするために。",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "そして設計するために"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "工夫を"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "仕事をするために"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "金において"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "および銀において"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "および青銅において"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:27.199221923Z",
+  "model": "glm-5.2"
+}

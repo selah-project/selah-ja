@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "エロヒムは⟨את⟩光を見て、それが良いことを認められた。エロヒムは光と闇の間を区別された。",
+  "tokens": [
+    {
+      "surface": "וַיַּ֧רְא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "אֱלֹהִ֛ים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "光"
+    },
+    {
+      "surface": "הָא֖וֹר",
+      "gloss": "光"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "ט֑וֹב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "וַיַּבְדֵּ֣ל",
+      "gloss": "そして区別した"
+    },
+    {
+      "surface": "אֱלֹהִ֔ים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "בֵּ֥ין",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "הָא֖וֹר",
+      "gloss": "光"
+    },
+    {
+      "surface": "וּבֵ֥ין",
+      "gloss": "〜の間を"
+    },
+    {
+      "surface": "הַחֹֽשֶׁךְ",
+      "gloss": "闇"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:40.946274056Z",
+  "model": "glm-5.2"
+}

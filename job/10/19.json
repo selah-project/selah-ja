@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 10:19",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "私がいなかったかのように、私は⟨いなかったであろう⟩。胎から墓へ運ばれたであろう。",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "私はいなかった"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "私は⟨いなかったであろう⟩"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "胎から"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "墓へ"
+    },
+    {
+      "surface": "אובל",
+      "gloss": "運ばれたであろう"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:34.403057516Z",
+  "model": "glm-5.2"
+}

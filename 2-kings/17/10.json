@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 17:10",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そして彼らは自分たちのために聖柱とアシェラ像を立てた——すべての高い丘の上に、すべての青葉の木の下に。",
+  "tokens": [
+    {
+      "surface": "ויצבו",
+      "gloss": "そして彼らは立てた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼ら自身のために"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "聖柱"
+    },
+    {
+      "surface": "ואשרים",
+      "gloss": "とアシェラ像"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "丘"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "高い"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "そして〜の下に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "青葉の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:15.245411889Z",
+  "model": "glm-5.2"
+}

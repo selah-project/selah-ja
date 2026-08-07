@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "かれは闇を遣わし、それは暗くした。そしてかれらはかれのことばに⟨את⟩背かなかった。",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "遣わした"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "闇を"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "それは暗くした"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "背いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "かれのことば"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "かれのことば"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:01.039314258Z",
+  "model": "glm-5.2"
+}

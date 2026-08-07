@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 44:1",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "הַדָּבָר אֲשֶׁר הָיָה אֶל יִרְמְיָהוּ, אֶל כָּל הַיְּהוּדִים הַיֹּשְׁבִים בְּאֶרֶץ מִצְרַיִם — הַיֹּשְׁבִים בְּמִגְדֹּל וּבְתַחְפַּנְחֵס וּבְנֹף וּבְאֶרֶץ פַּתְרוֹס — לֵאמֹר:",
+  "tokens": [
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "הַדָּבָר",
+      "notes": "Lemma: דָּבָר (dāḇār). The root דָּבַר means to speak, arrange, or command. As a noun, it encompasses speech, matter, and purpose—anything ‘spoken’ into existence. Here, it marks the initiation of a formal prophetic oracle.",
+      "phonetics": "haddāḇār",
+      "grammar": "Noun, masculine singular, definite (article + noun)."
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "אֲשֶׁר",
+      "notes": "Relative pronoun. Links the noun to the following relative clause.",
+      "phonetics": "’ăšer",
+      "grammar": "Particle, relative."
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "הָיָה",
+      "notes": "Lemma: הָיָה (hāyāh). To be, become, come to pass. In prophetic literature, this often carries the weight of actualization—the word doesn’t just exist; it ‘happens’ or ‘arrives’ to the prophet.",
+      "phonetics": "hāyāh",
+      "grammar": "Verb, qal perfect, 3rd person masculine singular."
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "אֶל",
+      "notes": "Preposition denoting motion towards or direction. Indicates the word ‘came to’ or ‘was directed to’ the prophet.",
+      "phonetics": "’el",
+      "grammar": "Preposition."
+    },
+    {
+      "surface": "יִרְמְיָהוּ",
+      "gloss": "יִרְמְיָהוּ",
+      "notes": "Proper name. Meaning relates to ‘YHWH lifts up’ or ‘YHWH establishes.’",
+      "phonetics": "yirməyāhû",
+      "grammar": "Proper noun, masculine."
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "אֶל",
+      "notes": "Preposition, repeated for emphasis and clarity, specifying the secondary audience of the oracle.",
+      "phonetics": "’el",
+      "grammar": "Preposition."
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "כָּל",
+      "notes": "Noun meaning totality. Emphasizes the comprehensive nature of the oracle’s audience.",
+      "phonetics": "kōl",
+      "grammar": "Noun, masculine singular construct."
+    },
+    {
+      "surface": "הַיְּהוּדִים",
+      "gloss": "הַיְּהוּדִים",
+      "notes": "Gentilic name. Refers to the people of Judah, the Jews. This term becomes increasingly common in exilic and post-exilic texts.",
+      "phonetics": "hayyəhûdîm",
+      "grammar": "Adjective used as a substantive, masculine plural, definite."
+    },
+    {
+      "surface": "הַיֹּשְׁבִים",
+      "gloss": "הַיֹּשְׁבִים",
+      "notes": "From יָשַׁב (yāšaḇ), to sit, remain, dwell. The participle here specifies those who are settled or residing in a location.",
+      "phonetics": "hayyōšəḇîm",
+      "grammar": "Verb, qal active participle, masculine plural, definite."
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "בְּאֶרֶץ",
+      "notes": "Preposition בְּ + noun אֶרֶץ (’ereṣ). The noun means land, earth, or territory.",
+      "phonetics": "bə’ereṣ",
+      "grammar": "Preposition + Noun, feminine singular."
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "מִצְרַיִם",
+      "notes": "Proper noun. The dual form originally denoted Upper and Lower Egypt.",
+      "phonetics": "miṣrayim",
+      "grammar": "Proper noun, dual (used as singular)."
+    },
+    {
+      "surface": "הַיֹּשְׁבִים",
+      "gloss": "הַיֹּשְׁבִים",
+      "notes": "Participle repeated. The repetition narrows the general description to specific locations.",
+      "phonetics": "hayyōšəḇîm",
+      "grammar": "Verb, qal active participle, masculine plural, definite."
+    },
+    {
+      "surface": "בְּמִגְדֹּל",
+      "gloss": "בְּמִגְדֹּל",
+      "notes": "Preposition בְּ + proper noun מִגְדֹּל (Miḡdōl). A fortress or tower; here, a specific location in Egypt, likely near the eastern border.",
+      "phonetics": "bəmiḡdōl",
+      "grammar": "Preposition + Proper noun."
+    },
+    {
+      "surface": "וּבְתַחְפַּנְחֵס",
+      "gloss": "וּבְתַחְפַּנְחֵס",
+      "notes": "Conjunction + Preposition + proper noun. תַּחְפַּנְחֵס (Taḥpanḥēs) is identified with the Egyptian city of Daphnae, a frontier fortress.",
+      "phonetics": "ûḇətaḥpanḥēs",
+      "grammar": "Conjunction (waw) + Preposition + Proper noun."
+    },
+    {
+      "surface": "וּבְנֹף",
+      "gloss": "וּבְנֹף",
+      "notes": "Conjunction + Preposition + proper noun. נֹף (Nōp) is the Hebrew name for Memphis, the ancient capital of Egypt.",
+      "phonetics": "ûḇənōp",
+      "grammar": "Conjunction (waw) + Preposition + Proper noun."
+    },
+    {
+      "surface": "וּבְאֶרֶץ",
+      "gloss": "וּבְאֶרֶץ",
+      "notes": "Conjunction + Preposition + noun. The list concludes with a broader regional designation.",
+      "phonetics": "ûḇə’ereṣ",
+      "grammar": "Conjunction (waw) + Preposition + Noun, feminine singular."
+    },
+    {
+      "surface": "פַּתְרוֹס",
+      "gloss": "פַּתְרוֹס",
+      "notes": "Proper noun. Refers to Upper Egypt (Pathros). The association is further elaborated in Isaiah 11:11.",
+      "phonetics": "patrōs",
+      "grammar": "Proper noun, masculine (used as geographical name)."
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "לֵאמֹר",
+      "notes": "Infinitive construct from אָמַר (’āmar). Marks the beginning of direct discourse, setting up the quote to follow.",
+      "phonetics": "lēmōr",
+      "grammar": "Verb, qal infinitive construct."
+    }
+  ],
+  "timestamp": "2026-08-07T18:36:41.564951869Z",
+  "model": "glm-5.2"
+}

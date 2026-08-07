@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 64,
+  "translation": "火が薪を燃やすように、火が水を沸き立たせるように――あなたの御名をあなたの敵に知らせるため、あなたの御顔から国々が震えおののく⟨ように⟩。",
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "燃えるように"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火が"
+    },
+    {
+      "surface": "המסים",
+      "gloss": "薪を"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    },
+    {
+      "surface": "תבעה",
+      "gloss": "沸き立たせる"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火が"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "知らせるため"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの御名を"
+    },
+    {
+      "surface": "לצריך",
+      "gloss": "あなたの敵に"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "あなたの御顔から"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々が"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "震えおののく"
+    }
+  ],
+  "timestamp": "2026-08-07T11:37:39.165916793Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "また、あなたのしもべはそれらによって警告される。それらを守ることにおいて、大いなる報いがある。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "あなたのしもべは"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "警告される"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "それらによって"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "守ることにおいて"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "報い"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大いなる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:56.924871913Z",
+  "model": "glm-5.2"
+}

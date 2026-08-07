@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "ユダはイスラエルの前に打ち破られ、彼らはそれぞれ自分の天幕へ逃げた。",
+  "tokens": [
+    {
+      "surface": "וַיִּנָּ֥גֶף",
+      "gloss": "そして打ち破られた"
+    },
+    {
+      "surface": "יְהוּדָ֖ה",
+      "gloss": "ユダは"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "וַיָּנֻ֖סוּ",
+      "gloss": "そして逃げた"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "それぞれの人は"
+    },
+    {
+      "surface": "לְאֹהָלָֽיו",
+      "gloss": "自分の天幕へ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:17:07.582003122Z",
+  "model": "glm-5.2"
+}

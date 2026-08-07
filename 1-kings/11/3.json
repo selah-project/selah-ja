@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして彼には、妃たちが七百人、そして妾が三百人いた。そして彼の妻たちは⟨את⟩彼の心を傾けた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてあった"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼には"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "女性たちが"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "妃たち"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "そして妾が"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "そして彼女たちは傾けた"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "彼の妻たちは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の心"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "彼の心を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:03:53.747497037Z",
+  "model": "glm-5.2"
+}

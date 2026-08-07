@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "あなたは⟨את⟩あなたの隣人を搾取してはならず、かつ奪ってはならない。あなたのもとにいる雇い人の賃金は、朝まで寝かせてはならない。",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תַעֲשֹׁ֥ק",
+      "gloss": "搾取する"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの隣人"
+    },
+    {
+      "surface": "רֵֽעֲךָ֖",
+      "gloss": "あなたの隣人"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תִגְזֹ֑ל",
+      "gloss": "奪う"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תָלִ֞ין",
+      "gloss": "寝かせる"
+    },
+    {
+      "surface": "פְּעֻלַּ֥ת",
+      "gloss": "労働の"
+    },
+    {
+      "surface": "שָׂכִ֛יר",
+      "gloss": "雇い人"
+    },
+    {
+      "surface": "אִתְּךָ֖",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "בֹּֽקֶר",
+      "gloss": "朝"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:06.101810705Z",
+  "model": "glm-5.2"
+}

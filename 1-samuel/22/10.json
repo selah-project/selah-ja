@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして彼は彼のためにヤハウェに問い、食料を彼に与え、⟨את⟩ペリシテ人ゴリヤテの剣を彼に与えた。",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "そして問うた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "そして食料"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ペリシテ人ゴリヤテの剣"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "ゴリヤテ"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ペリシテ人"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:48.929342456Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "バト・シェバは身をかがめ、王にひれ伏した。王は言った。「何事ですか。」",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "そして身をかがめた"
+    },
+    {
+      "surface": "בת",
+      "gloss": "バト"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "シェバ"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "そしてひれ伏した"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王に"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何事"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたには"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:42.499713317Z",
+  "model": "glm-5.2"
+}

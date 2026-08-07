@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "彼の心の願いをあなたは彼に与え、彼の唇の求めをあなたは拒まなかった。セラ。",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "願い"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "彼の心の"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "あなたは与えた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "そして〜の求め"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "彼の唇の"
+    },
+    {
+      "surface": "בל",
+      "gloss": "決して〜ない"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "あなたは拒まなかった"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:31.765857611Z",
+  "model": "glm-5.2"
+}

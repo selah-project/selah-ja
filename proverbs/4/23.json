@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 4:23",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "すべての守りにまさってあなたの心を守れ、それから命の源が出るのだから。",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "すべての〜にまさって"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "守り"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "守れ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "あなたの心を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは〜だから"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "それから"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "源"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "命の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:13.396149439Z",
+  "model": "glm-5.2"
+}

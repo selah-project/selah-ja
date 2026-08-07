@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "無味なものは塩なしに食べられるか。スベリヒユの汁に味はあるか。",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "食べられるか"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "無味なものは"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "〜なしに"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "塩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "יש",
+      "gloss": "あるか"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "味は"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "汁に"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "スベリヒユの"
+    }
+  ],
+  "timestamp": "2026-08-07T17:26:10.691213995Z",
+  "model": "glm-5.2"
+}

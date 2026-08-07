@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "曲がった心は善を見出さず、舌の裏返る者は悪に落ちる。",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "曲がった"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "見出す"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善を"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "裏返る"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "その舌の"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "落ちる"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "悪に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:18.434412760Z",
+  "model": "glm-5.2"
+}

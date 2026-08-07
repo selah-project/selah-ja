@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 20:14",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "彼の内臓の中で ⟨彼の⟩ 食物は変わる、コブラの毒が ⟨彼の⟩ 奥底にある。",
+  "tokens": [
+    {
+      "surface": "לחמו",
+      "gloss": "彼の食物"
+    },
+    {
+      "surface": "במעיו",
+      "gloss": "彼の内臓の中で"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "変わる"
+    },
+    {
+      "surface": "מרורת",
+      "gloss": "毒"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "コブラ"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "彼の奥底に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:25:44.743115381Z",
+  "model": "glm-5.2"
+}

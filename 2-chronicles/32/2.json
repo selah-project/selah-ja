@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 32:2",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "ヒゼキヤは、センナケリブが来て、その顔がエルシャライムに対する戦いに向けられているのを見た。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして…は見た"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ヒゼキヤ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…であることを"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "センナケリブ"
+    },
+    {
+      "surface": "ופניו",
+      "gloss": "そして彼の顔は"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "戦いに向けられて"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に対する"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "エルシャライム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:19:09.582352186Z",
+  "model": "glm-5.2"
+}

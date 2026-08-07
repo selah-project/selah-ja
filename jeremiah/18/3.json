@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "わたしは陶器師の家に下った。見よ、彼は石の上で仕事をしていた。",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "わたしは下った"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "陶器師の"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "見よ、彼は"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "していた"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "仕事を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "石"
+    }
+  ],
+  "timestamp": "2026-08-07T11:47:34.951763800Z",
+  "model": "glm-5.2"
+}

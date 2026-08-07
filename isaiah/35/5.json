@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "その時、盲人の目は開かれ、耳の聞こえない者の耳は開かれる。",
+  "tokens": [
+    {
+      "surface": "אָ֥ז",
+      "gloss": "その時"
+    },
+    {
+      "surface": "תִּפָּקַ֖חְנָה",
+      "gloss": "開かれる"
+    },
+    {
+      "surface": "עֵינֵ֣י",
+      "gloss": "…の目"
+    },
+    {
+      "surface": "עִוְרִ֑ים",
+      "gloss": "盲人"
+    },
+    {
+      "surface": "וְאָזְנֵ֥י",
+      "gloss": "そして…の耳"
+    },
+    {
+      "surface": "חֵרְשִׁ֖ים",
+      "gloss": "耳の聞こえない者"
+    },
+    {
+      "surface": "תִּפָּתַֽחְנָה",
+      "gloss": "開かれる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:29:03.692798811Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "私は彼と共に全き者となり、私の咎から身を守った。",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "私は〜となった"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "全き者"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "そして私は身を守った"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "私の咎から"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:34.305680730Z",
+  "model": "glm-5.2"
+}

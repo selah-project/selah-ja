@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 96,
+  "translation": "威光と荘厳が⟨御〉前にあり、力と栄光が⟨御〉聖所にある。",
+  "tokens": [
+    {
+      "surface": "הוֹד",
+      "gloss": "威光"
+    },
+    {
+      "surface": "וְהָדָ֥ר",
+      "gloss": "と荘厳"
+    },
+    {
+      "surface": "לְפָנָ֑יו",
+      "gloss": "⟨御〉前に"
+    },
+    {
+      "surface": "עֹ֥ז",
+      "gloss": "力"
+    },
+    {
+      "surface": "וְ֝תִפְאֶ֗רֶת",
+      "gloss": "と栄光"
+    },
+    {
+      "surface": "בְּמִקְדָּשֽׁוֹ",
+      "gloss": "⟨御〉聖所に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:04.220114757Z",
+  "model": "glm-5.2"
+}

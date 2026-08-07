@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして⟨את⟩ ツォルのすべての王たち、そして⟨את⟩ ツィドンのすべての王たち、そして⟨את⟩ 海の向こうに住む島の王たちを、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ツォルのすべての王たち"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ツォル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ツィドンのすべての王たち"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ツィドン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "島の王たち"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "האי",
+      "gloss": "島の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "向こうに"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:48:45.382838422Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "あなたは、道に倒れているあなたの兄弟のろば ⟨את⟩ または彼の牛を見て見ぬふりをしてはならない。彼と共に必ず起こさなければならない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜てはならない"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "あなたは見る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの兄弟のろば"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ろば"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟の"
+    },
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "彼の牛"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "倒れている"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道に"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "そして見て見ぬふりをしては"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "それらから"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "必ず起こす"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "あなたは起こす"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:25:06.953841640Z",
+  "model": "glm-5.2"
+}

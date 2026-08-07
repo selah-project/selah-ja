@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "感謝の歌でヤハウェに応えよ。私たちのエロヒムに琴をかき鳴らせ。",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "応えよ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "感謝の歌で"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "かき鳴らせ"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "私たちのエロヒムに"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "琴を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:53.700146263Z",
+  "model": "glm-5.2"
+}

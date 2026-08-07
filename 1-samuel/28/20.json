@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 28:20",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "するとシャウルは急いだ。そして彼の背丈のいっぱい、地に向かって倒れた。彼はシェムエルの言葉を非常に恐れた。力も彼のうちになかった。彼はパンを食べていなかったからである。丸一日、そして丸一晩。",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "そして急いだ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "そして倒れた"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "いっぱい"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "彼の背丈の"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地に向かって"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "そして恐れた"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "מדברי",
+      "gloss": "言葉を"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シェムエルの"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼のうちに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食べた"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "夜"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:13.195284610Z",
+  "model": "glm-5.2"
+}

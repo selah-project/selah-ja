@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "長い日々のあいだ、ヨシュアは⟨את⟩これらすべての王たちと戦争を行った。",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "日々"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行った"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらすべての王たち"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦争を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:27:06.666904900Z",
+  "model": "glm-5.2"
+}

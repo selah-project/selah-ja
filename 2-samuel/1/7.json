@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "彼は後ろを振り向いて私を見た。そして私に呼びかけ、私は言った。「ここにいます。」",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "振り向いた"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "彼の後ろを"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "そして私を見た"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "呼びかけた"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ここにいます"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:19.449432833Z",
+  "model": "glm-5.2"
+}

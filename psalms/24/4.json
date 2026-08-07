@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "手の清い者、そして心の純な者。彼は ⟨自分の⟩ ネフェシを空しさに向けず、偽りにおいて誓わなかった者。",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "清い者"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "手の"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "そして純な者"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である者は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "向けた"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "空しさに"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨自分の⟩ネフェシを"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "誓った"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "偽りにおいて"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:45.609146495Z",
+  "model": "glm-5.2"
+}

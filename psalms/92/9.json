@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 92,
+  "translation": "そしてあなたはとこしえに高き所におられる、ヤハウェよ。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "そしてあなたは"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "高き所に"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:07.158192460Z",
+  "model": "glm-5.2"
+}

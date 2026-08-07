@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "すべてのやもめとみなしごを、あなたがたは苦しめてはならない。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אַלְמָנָ֥ה",
+      "gloss": "やもめ"
+    },
+    {
+      "surface": "וְיָת֖וֹם",
+      "gloss": "とみなしご"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תְעַנּֽוּן",
+      "gloss": "あなたがたは苦しめてはならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:45.698903744Z",
+  "model": "glm-5.2"
+}

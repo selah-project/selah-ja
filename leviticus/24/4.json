@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "純粋なメノラーの上で、彼はともしびを並べる。ヤハウェの前に、絶えず。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "メノラーの"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "純粋な"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "彼は並べる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ともしびを"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "ともしび"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "絶えず"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:32.981790975Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 143,
+  "translation": "朝に、あなたのヘセドを聞かせてください。あなたに私は信頼しましたから。私が歩むべき道を知らせてください。あなたに私は私の⟨魂⟩を向けたからです。",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "聞かせてください"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝に"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "あなたのヘセドを"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "私は信頼しました"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "知らせてください"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道を"
+    },
+    {
+      "surface": "זו",
+      "gloss": "この"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "私が歩むべき"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "私は向けた"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私の⟨魂⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:35.323694414Z",
+  "model": "glm-5.2"
+}

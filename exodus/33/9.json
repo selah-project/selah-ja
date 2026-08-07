@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 33:9",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そしてこうなった — モーシェが⟨天幕⟩の⟨中に⟩入るとき、雲の柱が下り、天幕の入り口に立ち、⟨彼⟩はモーシェと語り合った。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そしてこうなった"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "〜が入る（とき）"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "天幕の（中に）"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "下った"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "柱"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲の"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "そして立った"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口に"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "天幕の"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:57.564813857Z",
+  "model": "glm-5.2"
+}

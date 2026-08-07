@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "預言者ナタンが⟨彼の⟩ところに来たとき ― 彼がバト・シェバのところに入った当時のことに ―",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "来たとき"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨彼の⟩ところに"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ナタン"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のときに"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところに"
+    },
+    {
+      "surface": "בת",
+      "gloss": "バト"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "シェバ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:51.513473745Z",
+  "model": "glm-5.2"
+}

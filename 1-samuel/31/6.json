@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 31:6",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "シャウルは死に、彼の三人の息子たち、彼の武器持ち、また彼のすべての兵士たちも、その日共に⟨死んだ⟩。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死に"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "三人の"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "持ち"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "武器"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "兵士たち"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "その日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "共に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:32.787222596Z",
+  "model": "glm-5.2"
+}

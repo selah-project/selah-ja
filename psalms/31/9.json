@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "そしてあなたは私を敵の手に閉じ込められなかった。あなたは広い所に私の足を立たせた。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "あなたは私を閉じ込められた"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "〜の手に"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "敵"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "あなたは立たせた"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "広い所に"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "私の足"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:26.487223798Z",
+  "model": "glm-5.2"
+}

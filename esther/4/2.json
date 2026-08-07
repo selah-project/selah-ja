@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして王の門の前まで来た。荒布の着物で王の門の内側に入ることはできなかったからである。",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אין",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "入ることは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の中へ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "着ることは"
+    },
+    {
+      "surface": "שק",
+      "gloss": "荒布を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:41:49.480079894Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして⟨את⟩火皿、および⟨את⟩鉢 — 金であるものは金として、銀であるものは銀として — 護衛長が持ち去った。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "火皿"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "火皿"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "鉢"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "鉢"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるもの"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金として"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "および〜であるもの"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀として"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "持ち去った"
+    },
+    {
+      "surface": "רב",
+      "gloss": "長"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "護衛"
+    }
+  ],
+  "timestamp": "2026-08-07T16:54:59.260190628Z",
+  "model": "glm-5.2"
+}

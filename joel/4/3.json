@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 4:3",
+  "book": "joel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてわたしの民の上にくじを投げ、男の子を遊女⟨の代わり⟩に与え、女の子をぶどう酒⟨の代わり⟩に売って、飲んだ。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼らは投げた"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "くじ"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "そして彼らは与えた"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "男の子"
+    },
+    {
+      "surface": "בזונה",
+      "gloss": "遊女"
+    },
+    {
+      "surface": "והילדה",
+      "gloss": "そして女の子"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "彼らは売った"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "ぶどう酒"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "そして彼らは飲んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T18:38:03.490398972Z",
+  "model": "glm-5.2"
+}

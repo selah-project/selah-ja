@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 2:24",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして今、私を確立し、私の父ダビデの王座に着かせ、私に家を建ててくださった ⟨彼の⟩ 語られた通りに ⟨—⟩ 生けるヤハウェによって。アドニヤは今日殺されなければならない。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生ける"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜かた"
+    },
+    {
+      "surface": "הכינני",
+      "gloss": "私を確立した"
+    },
+    {
+      "surface": "ויושיביני",
+      "gloss": "そして私を着かせた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "王座"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "私の父"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "そして〜かた"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造られた"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家を"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜通りに"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "殺されなければならない"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "アドニヤ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:36.358748754Z",
+  "model": "glm-5.2"
+}

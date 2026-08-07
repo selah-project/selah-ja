@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "悪しき者の悪が終わりますように。しかし義人は堅く立てられますように。心と腎を試みるのは、義なるエロヒムである。",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "終わりますように"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪が"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪しき者の"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "堅く立てられますように"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人は"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "試みる"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "心と"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "腎を"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義なる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:29.106846398Z",
+  "model": "glm-5.2"
+}

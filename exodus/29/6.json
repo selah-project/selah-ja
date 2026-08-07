@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして⟨あなたは⟩頭巾をその頭の上に載せ、⟨את⟩聖なる冠を頭巾の上に置け。",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "そして⟨あなたは⟩載せる"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "頭巾"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "その頭"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "そして⟨あなたは⟩置く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "聖なる冠"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "冠"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "頭巾"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:40.595072574Z",
+  "model": "glm-5.2"
+}

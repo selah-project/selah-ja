@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして彼らは彼を取った。そして彼らは⟨את⟩彼を穴に投げ入れた。その穴は空だった—そこに水がなかった。",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "彼らは彼を取った"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "彼らは投げ入れた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "穴に"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "その穴は"
+    },
+    {
+      "surface": "רק",
+      "gloss": "空だった"
+    },
+    {
+      "surface": "אין",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "בו",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水が"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:20.686990248Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "あなたの兄弟の妻の裸を、あなたは露わにしてはならない。それはあなたの兄弟の裸〈である〉。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "…の裸"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "…の妻"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "あなたは露わにする"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "…の裸"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは〈…である〉"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:00.982374728Z",
+  "model": "glm-5.2"
+}

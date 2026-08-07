@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 73,
+  "translation": "人間の苦労において彼らは⟨ない⟩、そして人々と共に彼らは撃たれる⟨こと⟩がない。",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "…の苦労において"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "人間（死すべき者）"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "彼らは⟨ない⟩"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "そして…と共に"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人々"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "彼らは撃たれる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:46.691525754Z",
+  "model": "glm-5.2"
+}

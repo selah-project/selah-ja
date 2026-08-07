@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして第三年に、ユダの王エホシャファトはイスラエルの王の〈ところ〉に下っていった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "年に"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "第三"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "そして彼は下っていった"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "エホシャファト"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T11:10:20.247562686Z",
+  "model": "glm-5.2"
+}

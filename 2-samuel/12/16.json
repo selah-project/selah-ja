@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "ダビデはその少年のために ⟨את⟩ エロヒムを求め、ダビデは断食し、来て夜を過ごし、地に伏した。",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "そして求めた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エロヒムを"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "～のために"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "その少年"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "そして断食した"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "断食"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "そして夜を過ごした"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "そして伏した"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:52:33.600869120Z",
+  "model": "glm-5.2"
+}

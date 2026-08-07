@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして〈彼〉は彼らに⟨את⟩その都市の入口を示し、彼らは剣の口をもって⟨את⟩その都市を打った。そして⟨את⟩その男と⟨את⟩彼の全家族を、去らせた。",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "そして彼らに示した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その都市の入口"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "入口"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その都市の"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "そして彼らは打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その都市"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その都市"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "〜の口をもって"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その男"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その男"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼の全家族"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "彼の家族"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "去らせた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:31:30.114384180Z",
+  "model": "glm-5.2"
+}

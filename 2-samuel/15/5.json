@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 15:5",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして、ある人が近づいて彼にひれ伏そうとすると、彼は手を伸ばし、その者を抱きとめ、その者に口づけをした。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そして…だった"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "近づくとき"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ある人が"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "ひれ伏そうと"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "そして彼は伸ばした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の手"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手を"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "そして抱きとめ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "その者のために"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "そして口づけをした"
+    },
+    {
+      "surface": "לו",
+      "gloss": "その者に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:53:50.972028182Z",
+  "model": "glm-5.2"
+}

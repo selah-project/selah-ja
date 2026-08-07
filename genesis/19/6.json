@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてロトは彼らのもとに、入り口の所へ出て行った。そして彼は自分の後ろに扉を閉めた。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て行った"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らのもとに"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ロトは"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "入り口の所へ"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "そして扉を"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "閉めた"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "自分の後ろに"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:37.043437566Z",
+  "model": "glm-5.2"
+}

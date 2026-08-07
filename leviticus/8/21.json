@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 8:21",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして⟨את⟩内臓と⟨את⟩足を水で洗った。モーシェは⟨את⟩雄羊の全体を祭壇の上で燔祭として馨ぐ。それは全焼の献げ物であり、ヤハウェへの宥めの香りである。それはヤハウェへの火による献げ物である。ヤハウェが⟨את⟩モーシェに命じた通りであった。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "内臓"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "内臓"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "足"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "足"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "洗った"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水で"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "馨いだ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雄羊の全体"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全体"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "雄羊の"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "祭壇の上で"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "全焼の献げ物"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは〜である"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "香りとして"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "宥めの"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火による献げ物"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは〜である"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェへの"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜通りに"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーシェ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:49.273796920Z",
+  "model": "glm-5.2"
+}

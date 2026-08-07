@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 67,
+  "translation": "指揮者に向けて、弦楽器によって。ミズモル、歌。",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֥חַ",
+      "gloss": "指揮者に向けて"
+    },
+    {
+      "surface": "בִּנְגִינֹ֗ת",
+      "gloss": "弦楽器によって"
+    },
+    {
+      "surface": "מִזְמ֥וֹר",
+      "gloss": "ミズモル"
+    },
+    {
+      "surface": "שִֽׁיר",
+      "gloss": "歌"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:32.003190627Z",
+  "model": "glm-5.2"
+}

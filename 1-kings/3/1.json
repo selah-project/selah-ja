@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "シェロモはミツライムの王パロ ⟨את⟩ と姻戚関係を結び、パロの娘 ⟨את⟩ を娶って、彼女をダビデの町に連れて来た。自身の家 ⟨את⟩ とヤハウェの家 ⟨את⟩ とイェルシャライムの城壁 ⟨את⟩ の建築を完了するまでの間、⟨そこに⟩。",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "姻戚関係を結んだ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "パロ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "娶った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "パロの娘"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "連れて来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜するまで"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "完了する"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "建築を"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自身の家"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "自身の家"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "イェルシャライムの城壁"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "城壁"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムの"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲の"
+    }
+  ],
+  "timestamp": "2026-08-07T16:48:21.399475893Z",
+  "model": "glm-5.2"
+}

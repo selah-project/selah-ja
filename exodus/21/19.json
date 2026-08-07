@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "もし⟨彼が⟩起き上がり、杖をついて外を歩くなら、打った者は無罪となる。ただし彼の休業⟨期間⟩を与え、癒されるように徹底的に癒さなければならない。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "起き上がり"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "そして歩くなら"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "外を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜によって"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "杖を"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "そして無罪となる"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "打った者は"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "彼の休業を"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与え"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "そして癒すこと"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "徹底的に癒さなければならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:25.972238494Z",
+  "model": "glm-5.2"
+}

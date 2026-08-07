@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そして ⟨את⟩ ⟨その⟩幕屋を、その掟に従って立ち上げよ — ⟨あなたが⟩山で示された⟨もの⟩として。",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "そして立ち上げよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その幕屋"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "その幕屋"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "その掟に従って"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜として"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "示された"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:39.983307296Z",
+  "model": "glm-5.2"
+}

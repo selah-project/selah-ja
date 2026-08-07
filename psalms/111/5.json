@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 111,
+  "translation": "食料を与えられた、ご自分を恐れる者たちに。とこしえにご自分の契約を覚えられる。",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "食料"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えられた"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ご自分を恐れる者たちに"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "覚えられる"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ご自分の契約"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:50.378483975Z",
+  "model": "glm-5.2"
+}

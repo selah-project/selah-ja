@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして彼らは言う、⟨彼らが⟩ ⟨את⟩ ヤハウェ彼らのエロヒムの契約を捨て、他のエロヒムにひれ伏しそれらに仕えた〈ゆえに〉と。",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "そして彼らは言う"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜ゆえに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（関係詞）"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "捨てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "契約"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "彼らのエロヒムの"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "そしてひれ伏した"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "エロヒムに"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "他の"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "そしてそれらに仕えた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:47:42.935467309Z",
+  "model": "glm-5.2"
+}

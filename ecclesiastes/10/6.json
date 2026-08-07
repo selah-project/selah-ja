@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "愚かな者は高い位に多く置かれ、富んだ者たちは低きに座る、",
+  "tokens": [
+    {
+      "surface": "נִתַּ֣ן",
+      "gloss": "置かれ"
+    },
+    {
+      "surface": "הַסֶּ֔כֶל",
+      "gloss": "愚かな者は"
+    },
+    {
+      "surface": "בַּמְּרוֹמִ֖ים",
+      "gloss": "高い位に"
+    },
+    {
+      "surface": "רַבִּ֑ים",
+      "gloss": "多く"
+    },
+    {
+      "surface": "וַעֲשִׁירִ֖ים",
+      "gloss": "富んだ者たちは"
+    },
+    {
+      "surface": "בַּשֵּׁ֥פֶל",
+      "gloss": "低きに"
+    },
+    {
+      "surface": "יֵשֵֽׁבוּ",
+      "gloss": "座る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:17.427676951Z",
+  "model": "glm-5.2"
+}

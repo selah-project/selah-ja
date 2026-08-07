@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 95,
+  "translation": "感謝をもって⟨彼の⟩顔の前に行こう、賛歌をもって⟨彼に⟩歓声を上げよう。",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "行こう"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "顔の前"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "感謝をもって"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "賛歌をもって"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "歓声を上げよう"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨彼に⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:41.778662251Z",
+  "model": "glm-5.2"
+}

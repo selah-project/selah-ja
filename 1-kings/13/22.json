@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 13:22",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "「あなたは引き返し、パンを食べ、水を飲んだ。あなたに『パンを食べてはならない、水を飲んではならない』と言って告げたその場所で。あなたの死体はあなたの先祖たちの墓に届かない。」",
+  "tokens": [
+    {
+      "surface": "ותשב",
+      "gloss": "あなたは引き返した"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "そして食べた"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "そして飲んだ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "〜の場所で"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食べては"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜な"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "飲んでは"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "届か"
+    },
+    {
+      "surface": "נבלתך",
+      "gloss": "あなたの死体は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "墓"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "あなたの先祖たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:45.255664115Z",
+  "model": "glm-5.2"
+}

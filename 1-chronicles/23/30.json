@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 23:30",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "また、朝ごとに立ってヤハウェに感謝し、ヤハウェを賛美するため、同様に夕方にも⟨立つためである⟩。",
+  "tokens": [
+    {
+      "surface": "ולעמד",
+      "gloss": "また立つため"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ごとに"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "感謝する"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "また賛美する"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "同様に"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "夕方にも"
+    }
+  ],
+  "timestamp": "2026-08-07T14:08:31.923471949Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてシャムエルは生涯の全日数のあいだイスラエルをさばいた。",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "そして…さばいた"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シャムエルは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルを"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルを"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日数のあいだ"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "生涯の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:39.965674683Z",
+  "model": "glm-5.2"
+}

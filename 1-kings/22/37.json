@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "王は死に、ショムロンに運び込まれ、彼らは⟨את⟩王をショムロンに葬った。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "そして運び込まれた"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ショムロンに"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "そして彼らは葬った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王を"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ショムロンに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:53.118902258Z",
+  "model": "glm-5.2"
+}

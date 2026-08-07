@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "ヤハウェは王、永遠の、とこしえまで。もろもろの国々は彼の地から滅びうせた。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠の"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "とこしえまで"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "滅びうせた"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "もろもろの国々は"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "彼の地から"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:53.232524564Z",
+  "model": "glm-5.2"
+}

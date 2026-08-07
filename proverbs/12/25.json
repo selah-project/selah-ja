@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "悩みが人の心のうちにあれば、⟨それは⟩彼を沈ませ、しかし良いことばは彼を喜ばせる。",
+  "tokens": [
+    {
+      "surface": "דְּאָגָ֣ה",
+      "gloss": "悩み"
+    },
+    {
+      "surface": "בְלֶב",
+      "gloss": "心のうちに"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "人の"
+    },
+    {
+      "surface": "יַשְׁחֶ֑נָּה",
+      "gloss": "彼を沈ませ"
+    },
+    {
+      "surface": "וְדָבָ֖ר",
+      "gloss": "しかし…ことばは"
+    },
+    {
+      "surface": "ט֣וֹב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "יְשַׂמְּחֶֽנָּה",
+      "gloss": "彼を喜ばせる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:27.566370676Z",
+  "model": "glm-5.2"
+}

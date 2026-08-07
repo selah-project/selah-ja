@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 15:24",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "命の道は上に向かう、分別ある者にとって、それはシェオルから下に逸れるためである。",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "道"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "命の"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "上に"
+    },
+    {
+      "surface": "למשכיל",
+      "gloss": "分別ある者にとって"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜のためである"
+    },
+    {
+      "surface": "סור",
+      "gloss": "逸れる"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "シェオルから"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "下に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:45.943812291Z",
+  "model": "glm-5.2"
+}

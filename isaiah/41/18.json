@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 41:18",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "わたしは裸の高き所の上に川を開き、谷のただ中に泉を置く。わたしは荒野を水の池とし、乾いた地を水の源とする。",
+  "tokens": [
+    {
+      "surface": "אפתח",
+      "gloss": "わたしは開く"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "裸の高き所"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "川を"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "〜のただ中に"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "谷"
+    },
+    {
+      "surface": "מעינות",
+      "gloss": "泉を"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "わたしは置く"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "荒野を"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "〜の池として"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "〜の地を"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "乾いた"
+    },
+    {
+      "surface": "למוצאי",
+      "gloss": "〜の源として"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:30:56.417279335Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "「私の主よ、私を聞いてください。銀四百シェケルの地 ⟨です⟩ — 私とあなたの間で、それは何 ⟨でしょう⟩。そして ⟨את⟩ あなたの死者を葬りなさい。」",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "私の主よ"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "私を聞いてください"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "百"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "シェケル"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀の"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "私と"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "あなたの間で"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして ⟨את⟩",
+      "marks": "あなたの死者"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "あなたの死者"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "葬りなさい"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:41.746078842Z",
+  "model": "glm-5.2"
+}

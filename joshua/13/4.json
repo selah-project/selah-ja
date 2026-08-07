@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 13:4",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "南から、カナン人の全土、およびツィドニ人のものであるメアラ、アフェカに至るまで、エモリ人の境界に至るまで。",
+  "tokens": [
+    {
+      "surface": "מתימן",
+      "gloss": "南から"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "カナン人の"
+    },
+    {
+      "surface": "ומערה",
+      "gloss": "およびメアラ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "לצידנים",
+      "gloss": "ツィドニ人のもの"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "アフェカ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "エモリ人の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:27:43.149268496Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 156,
+  "ref": "psalms 119:156",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "あなたのあわれみは多い、ヤハウェよ。あなたの裁きにしたがって、私を生かしてください。",
+  "tokens": [
+    {
+      "surface": "רחמיך",
+      "gloss": "あなたのあわれみは"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多い"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "כמשפטיך",
+      "gloss": "あなたの裁きにしたがって"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "私を生かしてください"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:09.737125574Z",
+  "model": "glm-5.2"
+}

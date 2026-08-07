@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして彼がそこで裁くための玉座の廊下 — すなわち裁きの廊下を ⟨彼は⟩ 作った。そして杉の木で覆われた — 床から床まで。",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "そして廊下"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "玉座の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "裁く"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "廊下"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "裁きの"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "作った"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "そして覆われた"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "杉の木で"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "床から"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "床"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:24.540291718Z",
+  "model": "glm-5.2"
+}

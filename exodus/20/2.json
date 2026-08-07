@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "「わたしはヤハウェ、あなたのエロヒムである。わたしはあなたをミツライムの地から、奴隷の家から連れ出した者である。",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である者"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "あなたを連れ出した"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "…の地から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…の家から"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴隷"
+    }
+  ],
+  "timestamp": "2026-08-07T09:20:11.192897789Z",
+  "model": "glm-5.2"
+}

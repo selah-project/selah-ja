@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "諸民の集められる時、諸王国も共に、⟨את⟩ ヤハウェに仕えるために、",
+  "tokens": [
+    {
+      "surface": "בְּהִקָּבֵ֣ץ",
+      "gloss": "集められる時"
+    },
+    {
+      "surface": "עַמִּ֣ים",
+      "gloss": "諸民の"
+    },
+    {
+      "surface": "יַחְדָּ֑ו",
+      "gloss": "共に"
+    },
+    {
+      "surface": "וּ֝מַמְלָכ֗וֹת",
+      "gloss": "そして諸王国も"
+    },
+    {
+      "surface": "לַעֲבֹ֥ד",
+      "gloss": "仕えるために"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:18.459774143Z",
+  "model": "glm-5.2"
+}

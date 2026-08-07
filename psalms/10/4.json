@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "悪しき者は、その鼻の高さにおいて⟨は⟩、探し求めない — エロヒムはいない、それが彼のすべての企てである",
+  "tokens": [
+    {
+      "surface": "רָשָׁע",
+      "gloss": "悪しき者は"
+    },
+    {
+      "surface": "כְּגֹבַהּ",
+      "gloss": "高さにおいて"
+    },
+    {
+      "surface": "אַפּוֹ",
+      "gloss": "その鼻の"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יִדְרֹשׁ",
+      "gloss": "探し求め"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "אֱֹלהִים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מְזִמּוֹתָיו",
+      "gloss": "彼の企て"
+    }
+  ],
+  "timestamp": "2026-08-07T17:16:52.091598202Z",
+  "model": "glm-5.2"
+}

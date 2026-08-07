@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "聖歌隊の指揮者に、イェドトゥンのために。ダヴィデのミズモル。",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֥חַ",
+      "gloss": "指揮者に"
+    },
+    {
+      "surface": "לִידִיתֽוּן",
+      "gloss": "イェドトゥンのために"
+    },
+    {
+      "surface": "מִזְמ֥וֹר",
+      "gloss": "ミズモル"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "ダヴィデの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:10.862121100Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "彼らがまだ横にならないうちに、彼女は屋上の彼らのところに上って行った。",
+  "tokens": [
+    {
+      "surface": "וְהֵ֖מָּה",
+      "gloss": "そして彼らは"
+    },
+    {
+      "surface": "טֶ֣רֶם",
+      "gloss": "～ないうちに"
+    },
+    {
+      "surface": "יִשְׁכָּב֑וּן",
+      "gloss": "横になった"
+    },
+    {
+      "surface": "וְהִ֛יא",
+      "gloss": "そして彼女は"
+    },
+    {
+      "surface": "עָלְתָ֥ה",
+      "gloss": "上って行った"
+    },
+    {
+      "surface": "עֲלֵיהֶ֖ם",
+      "gloss": "彼らのところに"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "～の上の"
+    },
+    {
+      "surface": "הַגָּֽג",
+      "gloss": "屋上の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:23:31.462904197Z",
+  "model": "glm-5.2"
+}

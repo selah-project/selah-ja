@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "すなわち⟨את⟩金と⟨את⟩銀、⟨את⟩青銅、⟨את⟩鉄、⟨את⟩錫、そして⟨את⟩鉛。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "すなわち"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "金"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "銀"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "青銅"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "青銅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "鉄"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "鉄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "錫"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "錫"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "鉛"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "鉛"
+    }
+  ],
+  "timestamp": "2026-08-07T10:03:08.764652343Z",
+  "model": "glm-5.2"
+}

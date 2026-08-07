@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 4:15",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "さて、エリは九十八歳であった。 彼の目は⟨立ち止まって⟩、見ることができなかった。",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "そしてエリ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜（年）"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "九十"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "と八"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "彼の目は"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "立ち止まって"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "でき"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見ることが"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:48.297630223Z",
+  "model": "glm-5.2"
+}

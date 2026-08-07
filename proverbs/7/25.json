@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "あなたの心を彼女の道へとそれさせてはならない、その小道に迷ってはならない。",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "〜ないであれ"
+    },
+    {
+      "surface": "יֵ֣שְׂטְ",
+      "gloss": "それる"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "דְּרָכֶ֣יהָ",
+      "gloss": "彼女の道"
+    },
+    {
+      "surface": "לִבֶּ֑ךָ",
+      "gloss": "あなたの心"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜ないであれ"
+    },
+    {
+      "surface": "תֵּ֝תַע",
+      "gloss": "迷う"
+    },
+    {
+      "surface": "בִּנְתִיבוֹתֶֽיהָ",
+      "gloss": "その小道に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:21.613687318Z",
+  "model": "glm-5.2"
+}

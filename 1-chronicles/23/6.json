@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 23:6",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "ダビデは彼らを組に分けた。レビの子らのために、すなわちゲルション、ケハテ、メラリの⟨ため⟩に。",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "そして彼らを分けた"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "組に"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〜の子らのために"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "レビ"
+    },
+    {
+      "surface": "לגרשון",
+      "gloss": "ゲルションに"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ケハテ"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "およびメラリ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:52.639143815Z",
+  "model": "glm-5.2"
+}

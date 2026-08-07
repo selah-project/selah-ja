@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "一人が言った。「どうか承知して、⟨את⟩あなたのしもべたちと一緒に行ってください。」すると彼は言った。「私が行こう。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一人"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "承知してください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "そして行ってください"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたのしもべたち"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "あなたのしもべたち"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "行こう"
+    }
+  ],
+  "timestamp": "2026-08-07T11:12:16.929062417Z",
+  "model": "glm-5.2"
+}

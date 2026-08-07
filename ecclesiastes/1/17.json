@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして私は知恵を知ることに、また狂気と愚かさを知ることに、私の心を向けた。私は知った、これもまた風の追求であることを。",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "私は与えた"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "私の心を"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "知ることに"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵を"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "また知ることに"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "狂気を"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "愚かさを"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "私は知った"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "〜こともまた"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これが"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "である"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "追求"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:27.103389311Z",
+  "model": "glm-5.2"
+}

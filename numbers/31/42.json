@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "そしてイスラエルの人々の半分のうちから、モーシェが戦う人々から取ったものの",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "そして〜の半分から"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人々"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "半分にした"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "人々"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "戦う"
+    }
+  ],
+  "timestamp": "2026-08-07T10:03:45.279751365Z",
+  "model": "glm-5.2"
+}

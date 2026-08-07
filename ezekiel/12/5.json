@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 12:5",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "彼らの目の前で、壁に穴を開けよ。そしてそれを通して持ち出せ。」",
+  "tokens": [
+    {
+      "surface": "לְעֵינֵיהֶ֖ם",
+      "gloss": "彼らの目の前で"
+    },
+    {
+      "surface": "חֲתָר",
+      "gloss": "穴を開けよ"
+    },
+    {
+      "surface": "לְךָ֣",
+      "gloss": "あなた自身のために"
+    },
+    {
+      "surface": "בַקִּ֑יר",
+      "gloss": "壁に"
+    },
+    {
+      "surface": "וְהוֹצֵאתָ֖",
+      "gloss": "そしてあなたは持ち出せ"
+    },
+    {
+      "surface": "בּֽוֹ",
+      "gloss": "それを通して"
+    }
+  ],
+  "timestamp": "2026-08-07T12:03:15.425058771Z",
+  "model": "glm-5.2"
+}

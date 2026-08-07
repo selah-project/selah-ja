@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして⟨את⟩家を内側の周りから削り取らせ、彼らが削り取った⟨את⟩その土を、市の外の、汚れた場所へ注ぎ出さなければならない。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "削り取らせる"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "内側から"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周り"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "そして注ぎ出す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その土"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "その土"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "彼らが削り取った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外の"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "市に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "場所"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:59.045011092Z",
+  "model": "glm-5.2"
+}

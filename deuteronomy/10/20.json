@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "⟨את⟩ ヤハウェ あなたのエロヒムを畏れよ。⟨את⟩ 彼に仕えよ。彼にすがりつき、その名において誓え。",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יְהוָ֧ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֱלֹהֶ֛יךָ",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "תִּירָ֖א",
+      "gloss": "畏れよ"
+    },
+    {
+      "surface": "אֹת֣וֹ",
+      "gloss": "⟨את⟩彼に",
+      "marks": "彼に（仕える対象）"
+    },
+    {
+      "surface": "תַעֲבֹ֑ד",
+      "gloss": "仕えよ"
+    },
+    {
+      "surface": "וּב֣וֹ",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "תִדְבָּ֔ק",
+      "gloss": "すがりつき"
+    },
+    {
+      "surface": "וּבִשְׁמ֖וֹ",
+      "gloss": "その名において"
+    },
+    {
+      "surface": "תִּשָּׁבֵֽעַ",
+      "gloss": "誓え"
+    }
+  ],
+  "timestamp": "2026-08-07T16:36:31.687356684Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 15:22",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "計らいは密議のないところで挫折する、だが相談する者の多さにおいてそれは立つ。",
+  "tokens": [
+    {
+      "surface": "הפר",
+      "gloss": "挫折させる"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "計らい"
+    },
+    {
+      "surface": "באין",
+      "gloss": "〜のないところで"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "密議"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "そして多さにおいて"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "相談する者たち"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "それは立つ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:45.943625705Z",
+  "model": "glm-5.2"
+}

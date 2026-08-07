@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "またあなたを、⟨את⟩、契約の血によって、わたしはあなたの捕らわれ人を水のない穴から送り出した。",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "また"
+    },
+    {
+      "surface": "אַ֣תְ",
+      "gloss": "⟨את⟩",
+      "marks": "あなた"
+    },
+    {
+      "surface": "בְּדַם",
+      "gloss": "血によって"
+    },
+    {
+      "surface": "בְּרִיתֵ֗ךְ",
+      "gloss": "あなたの契約の"
+    },
+    {
+      "surface": "שִׁלַּ֤חְתִּי",
+      "gloss": "わたしは送り出した"
+    },
+    {
+      "surface": "אֲסִירַ֨יִךְ֙",
+      "gloss": "あなたの捕らわれ人を"
+    },
+    {
+      "surface": "מִבּ֔וֹר",
+      "gloss": "穴から"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "מַ֖יִם",
+      "gloss": "水が"
+    },
+    {
+      "surface": "בּֽוֹ",
+      "gloss": "その中に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:32:32.983299575Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "ぶどう酒より目は暗く輝き、そして乳より歯は白い。",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "暗く輝き"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "目は"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ぶどう酒より"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "そして白い"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "歯は"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "乳より"
+    }
+  ],
+  "timestamp": "2026-08-07T09:12:20.473538668Z",
+  "model": "glm-5.2"
+}

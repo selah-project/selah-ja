@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして彼らは ⟨את⟩ 脂肪を胸の上に置き、彼は脂肪を祭壇の上で香として焼いた。",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "そして彼らは置いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "脂肪"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "胸"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "そして彼は香として焼いた"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "祭壇の上へ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:43.263905803Z",
+  "model": "glm-5.2"
+}

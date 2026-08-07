@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 21:30",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "もし身代金が⟨彼の上に⟩課されるなら、彼は自分の命の贖いとして、⟨彼の上に⟩課されるすべてのものを与えなければならない。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "身代金"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "課される"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼の上に"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "彼は与える"
+    },
+    {
+      "surface": "פדין",
+      "gloss": "贖い"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "自分の命"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "課される"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼の上に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:01.566531279Z",
+  "model": "glm-5.2"
+}

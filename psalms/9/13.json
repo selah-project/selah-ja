@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "血を尋ね求める方は⟨את⟩彼らを覚え、貧しい者の叫びを忘れない。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜のは"
+    },
+    {
+      "surface": "דֹרֵ֣שׁ",
+      "gloss": "尋ね求める方は"
+    },
+    {
+      "surface": "דָּ֭מִים",
+      "gloss": "血を"
+    },
+    {
+      "surface": "אוֹתָ֣ם",
+      "gloss": "⟨את⟩",
+      "marks": "彼らを"
+    },
+    {
+      "surface": "זָכָ֑ר",
+      "gloss": "覚える"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שָׁ֝כַ֗ח",
+      "gloss": "忘れる"
+    },
+    {
+      "surface": "צַעֲקַ֥ת",
+      "gloss": "叫びを"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "貧しい者の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:25.882556321Z",
+  "model": "glm-5.2"
+}

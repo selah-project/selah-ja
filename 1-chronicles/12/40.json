@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 12:40",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして彼らはそこにダビデと共に三日の間いた、食べて飲んで。彼らの兄弟たちが彼らのために準備したからである。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "そして〜いた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "三"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "食べて"
+    },
+    {
+      "surface": "ושותים",
+      "gloss": "そして飲んで"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "準備した"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らのために"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "彼らの兄弟たち"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:34.311614468Z",
+  "model": "glm-5.2"
+}

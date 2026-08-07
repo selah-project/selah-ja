@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてその若い女は極めて美しかった。そして彼女は王の世話人となり、彼に仕えたが、王は彼女を知らなかった。",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "そしてその若い女は"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "美しかった"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜の限り"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極めて"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "そして彼女は〜となった"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王に"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "世話人"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "そして彼女は彼に仕えた"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "そして王は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "彼女を知ら"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:34.315044980Z",
+  "model": "glm-5.2"
+}

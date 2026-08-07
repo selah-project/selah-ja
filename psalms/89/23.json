@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "敵は彼を〈搾取して〉重くすることはなく、不法の子も彼を苦しめることはない",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "搾取して…することはない"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "敵"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼を"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "…の子も"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "不法"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "彼を苦しめる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:25.640531204Z",
+  "model": "glm-5.2"
+}

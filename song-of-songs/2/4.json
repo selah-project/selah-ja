@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "彼はわたしを葡萄酒の家に連れて行き、彼の旗はわたしの上に⟨ある⟩——それは愛⟨である⟩。",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "彼はわたしを連れて行き"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "היין",
+      "gloss": "葡萄酒の"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "彼の旗は"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "わたしの上に"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "愛"
+    }
+  ],
+  "timestamp": "2026-08-07T13:32:44.588416300Z",
+  "model": "glm-5.2"
+}

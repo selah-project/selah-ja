@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてヤハウェはモシェに語って言われた、",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言うこと"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:03.836914461Z",
+  "model": "glm-5.2"
+}

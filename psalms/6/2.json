@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ヤハウェよ、あなたの怒りで私を責めないでください。あなたの憤りで私を懲らしめないでください。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "あなたの怒りで"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "私を責め"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜ないでください"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "あなたの憤りで"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "私を懲らしめ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:35.429815789Z",
+  "model": "glm-5.2"
+}

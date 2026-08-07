@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "イスラエルの人々に語って言え。すべての脂肪 ― 雄牛と羊と山羊 ― をあなたがたは食べてはならない。",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人々"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "שור",
+      "gloss": "雄牛と"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "羊と"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "山羊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたがたは食べては"
+    }
+  ],
+  "timestamp": "2026-08-07T09:33:40.634048122Z",
+  "model": "glm-5.2"
+}

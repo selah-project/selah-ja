@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてシュムエルはシャウルを見たとき、ヤハウェは彼に答えて、「見よ、あなたについてわたしが話したその男、これがわたしの民を治める者である」と言われた。",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "そしてシュムエルは"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シャウル"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "彼に答えて"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その男"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～ところの"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "わたしが話した"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたについて"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これが"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "治める"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "わたしの民を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:42:49.913102060Z",
+  "model": "glm-5.2"
+}

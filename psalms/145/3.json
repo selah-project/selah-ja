@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 145,
+  "translation": "大いなる方はヤハウェ、大いに賛美されるべき方。そして⟨その⟩偉大さには探求⟨の果て⟩が⟨ない⟩。",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "大いなる方は"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "大いに賛美されるべき方"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大いに"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "そして⟨その⟩偉大さには"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨ない⟩"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "探求⟨の果て⟩が"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:17.860275826Z",
+  "model": "glm-5.2"
+}

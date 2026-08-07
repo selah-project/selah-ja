@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 11:27",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "また、すべての四つ足の生きもののうちで、その手のひらの上を歩くすべてのものは、あなたがたにとって汚れたものである。それらの死骸に触れる者はみな、夕方まで汚れる。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "またすべての"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "歩くもの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上を"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "その手のひら"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "生きもののうちで"
+    },
+    {
+      "surface": "ההלכת",
+      "gloss": "歩く"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上を"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四つ"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "汚れたもの"
+    },
+    {
+      "surface": "הם",
+      "gloss": "それらは"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたにとって"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "触れる者"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "それらの死骸に"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "汚れる"
+    },
+    {
+      "surface": "עד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "夕方"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:27.157390651Z",
+  "model": "glm-5.2"
+}

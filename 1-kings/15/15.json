@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして ⟨את⟩ 彼の父の聖別された物、および彼自身が聖別した物を、銀、金、および器とともに ヤハウェ の家に運び入れた。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして運び入れた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の父の聖別された物"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "聖別された物"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父の"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "および彼が聖別した物"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "および金"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "および器"
+    }
+  ],
+  "timestamp": "2026-08-07T11:06:33.169274Z",
+  "model": "glm-5.2"
+}

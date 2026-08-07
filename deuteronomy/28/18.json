@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "呪われよ、あなたの 胎 の 実 と、あなたの 土地 の 実、あなたの 牛 の 産み子 と、あなたの 羊の群れ の 繁殖。",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "呪われよ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "実"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "あなたの 胎"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "と実"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "あなたの 土地"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "産み子"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "あなたの 牛"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "と繁殖"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "あなたの 羊の群れ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:46.037654912Z",
+  "model": "glm-5.2"
+}

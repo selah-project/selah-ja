@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "ミツライムは民に強く迫り、彼らを地から急いで送り出そうとした。彼らが「私たちは皆、死んでしまう」と言ったからである。",
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "強く迫った"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムは"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "急いで"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "彼らを送り出すために"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "彼らが言った"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "私たちは皆"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "死んでしまう"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:32.875023190Z",
+  "model": "glm-5.2"
+}

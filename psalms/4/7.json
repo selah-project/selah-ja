@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "多くの者が言っている、「だれが私たちに良いものを示してくれるのか」と。ヤハウェ、あなたの御顔の光を私たちの上に掲げよ。",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "多くの者"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "言っている"
+    },
+    {
+      "surface": "מי",
+      "gloss": "だれが"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "示してくれる"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良いもの"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "掲げよ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "私たちの上に"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの御顔の"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:33:56.757702454Z",
+  "model": "glm-5.2"
+}

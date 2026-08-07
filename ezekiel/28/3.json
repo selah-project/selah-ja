@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "見よ、あなたはダニエルよりも賢い、何一つ隠されたものはあなたから隠されていない、",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "賢い"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "ダニエルよりも"
+    },
+    {
+      "surface": "כל",
+      "gloss": "あらゆる"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "隠されたもの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "あなたから隠された"
+    }
+  ],
+  "timestamp": "2026-08-07T12:10:02.834247408Z",
+  "model": "glm-5.2"
+}

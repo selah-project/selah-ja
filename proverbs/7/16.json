@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 7:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "「敷布で私は私の寝床を敷いた、彫り物の⟨布⟩、エジプトの糸で。」",
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "敷布で"
+    },
+    {
+      "surface": "רבדתי",
+      "gloss": "私は敷いた"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "私の寝床"
+    },
+    {
+      "surface": "חטבות",
+      "gloss": "彫り物の"
+    },
+    {
+      "surface": "אטון",
+      "gloss": "糸"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "エジプトの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:19.314835187Z",
+  "model": "glm-5.2"
+}

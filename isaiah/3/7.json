@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "その日に⟨彼は⟩声を上げて言うであろう、「私は包む者にはなれない。私の家にはパンもなく、外衣もない。私を民の首長に立ててはならない」。と。",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "声を上げる"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "私はなれない"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "包む者"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "そして私の家には"
+    },
+    {
+      "surface": "אין",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "外衣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "あなたたちは私を立てては"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "首長"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:53.793766319Z",
+  "model": "glm-5.2"
+}

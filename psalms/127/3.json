@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 127,
+  "translation": "見よ、子らはヤハウェの受け継ぐもの、腹の実は報酬。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "受け継ぐもの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子らは"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "報酬"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "実は"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "腹の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:59.816365668Z",
+  "model": "glm-5.2"
+}

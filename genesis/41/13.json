@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "そして ⟨それは⟩こうなった — 彼が私たちのために解き明かしたように、そのように ⟨それは⟩なった。私を ⟨彼は⟩私の地位に戻し、彼を ⟨彼は⟩吊るした。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうなった"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "解き明かした"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちのために"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "היה",
+      "gloss": "なった"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "私を"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "戻した"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כני",
+      "gloss": "私の地位"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "吊るした"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:39.324203270Z",
+  "model": "glm-5.2"
+}

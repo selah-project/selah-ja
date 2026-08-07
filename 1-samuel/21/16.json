@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "「私が狂人を欠いているからか、あなたがたが⟨את⟩この者を、私の面前で狂わせるために連れて来たというのか。この者が私の家に来るのか。」",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "欠いている"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "狂人"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私が"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だからか"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "あなたがたは連れて来た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この者"
+    },
+    {
+      "surface": "זה",
+      "gloss": "この者"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "狂うために"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私の面前で"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "来るのか"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "私の家"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:51.415192907Z",
+  "model": "glm-5.2"
+}

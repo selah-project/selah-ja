@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 48:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "「そしてあなたの後に生まれた子ら、あなたが彼らの後に得た者は、あなたのものとなる。彼らの相続地において、彼らは兄弟たちの名によって呼ばれる。」",
+  "tokens": [
+    {
+      "surface": "ומולדתך",
+      "gloss": "あなたの子ら"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜は"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "あなたが得た"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "彼らの後に"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのもの"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜によって"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "彼らの兄弟たちの"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "呼ばれる"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "彼らの相続地において"
+    }
+  ],
+  "timestamp": "2026-08-07T09:11:08.481786533Z",
+  "model": "glm-5.2"
+}

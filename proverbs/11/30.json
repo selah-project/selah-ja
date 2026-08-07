@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "正しい者の実は命の木、そして⟨人々の⟩ネフェシュを捕らえる者は知恵ある者である。",
+  "tokens": [
+    {
+      "surface": "פְּרִי",
+      "gloss": "実"
+    },
+    {
+      "surface": "צַדִּיק",
+      "gloss": "正しい者の"
+    },
+    {
+      "surface": "עֵץ",
+      "gloss": "木"
+    },
+    {
+      "surface": "חַיִּים",
+      "gloss": "命の"
+    },
+    {
+      "surface": "וְלֹקֵחַ",
+      "gloss": "そして捕らえる者"
+    },
+    {
+      "surface": "נְפָשׁוֹת",
+      "gloss": "ネフェシュを"
+    },
+    {
+      "surface": "חָכָם",
+      "gloss": "知恵ある者"
+    }
+  ],
+  "timestamp": "2026-08-07T17:24:46.658624650Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 80,
+  "translation": "その前に場所を清め、その根を張らせ、地を満たさせた。",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "向かせる・清める"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "その前に"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "そして根を張らせた"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "その根"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "そして満たした"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:03.396631899Z",
+  "model": "glm-5.2"
+}

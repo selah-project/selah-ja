@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "立ち上がり、 ⟨את⟩ 少年を抱き上げ、あなたの手を彼にしっかりと握り締めよ。わたしは彼を大いなる国民とするのだから。",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "立ち上がれ"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "抱き上げよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "少年"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "少年"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "そして強く握れ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの手"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "国民として"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "わたしは彼を置く"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:11.040717517Z",
+  "model": "glm-5.2"
+}

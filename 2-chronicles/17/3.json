@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてヤハウェはエホシュアファトと共におられた。彼が彼の父ダビデの最初の道に歩み、バアルたちに尋ね求めなかったからである。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜だった"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "エホシュアファト"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "歩んだ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "〜の道に"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "最初の"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "尋ね求めた"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "バアルたちに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:45.796015218Z",
+  "model": "glm-5.2"
+}

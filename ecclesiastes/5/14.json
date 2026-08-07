@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 5:14",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "母の胎から出たように、裸で来たように帰って行き、その労苦の何一つも、自分の手に携えて行くことはない。",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出た"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "胎から"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "母の"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "裸で"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "帰る"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "行って"
+    },
+    {
+      "surface": "כשבא",
+      "gloss": "来たように"
+    },
+    {
+      "surface": "ומאומה",
+      "gloss": "何一つ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "携えて行く"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "その労苦の"
+    },
+    {
+      "surface": "שילך",
+      "gloss": "行くために"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "自分の手に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:35.168459365Z",
+  "model": "glm-5.2"
+}

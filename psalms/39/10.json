@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "わたしは黙し、わたしの口を開きません。あなたがなさったからです。",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "わたしは黙し"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "開く"
+    },
+    {
+      "surface": "פי",
+      "gloss": "わたしの口を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "なさった"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:53.480677509Z",
+  "model": "glm-5.2"
+}

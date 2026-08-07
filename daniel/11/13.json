@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 11:13",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして北の王は立ち返り、最初よりも大群を立ち上げる。そして時の終わり、すなわち年々に、彼は来る、確かに大軍と豊かな財産をもって来る。",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "そして立ち返る"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "北の"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "そして立ち上げる"
+    },
+    {
+      "surface": "המון",
+      "gloss": "群衆"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜よりも"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "最初の"
+    },
+    {
+      "surface": "ולקץ",
+      "gloss": "そして終わりに"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "時の"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年々"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "彼は来る"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "軍をもって"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "וברכוש",
+      "gloss": "そして財産をもって"
+    },
+    {
+      "surface": "רב",
+      "gloss": "豊かな"
+    }
+  ],
+  "timestamp": "2026-08-07T13:49:45.995121139Z",
+  "model": "glm-5.2"
+}

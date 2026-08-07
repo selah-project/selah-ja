@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "あなたのしもべたちは彼女の石を喜び、そのちりを惜しむからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "喜ぶ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "あなたのしもべたちは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼女の石"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "彼女の石"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "そのちり"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "そのちり"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "惜しむ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:38.732422552Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "それは、悪者には終わりが〈ない〉からである。悪者のともしびは消される。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "それは、〜だから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "終わり"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "悪者には"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ともしび"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者の"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "消される"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:40.005054587Z",
+  "model": "glm-5.2"
+}

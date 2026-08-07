@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして王シェロモは全イスラエルの上に⟨王として⟩治めていた。",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִי֙",
+      "gloss": "そして…だった"
+    },
+    {
+      "surface": "הַמֶּ֣לֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "שְׁלֹמֹ֔ה",
+      "gloss": "シェロモ"
+    },
+    {
+      "surface": "מֶ֖לֶךְ",
+      "gloss": "王として"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "全"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:44.009798952Z",
+  "model": "glm-5.2"
+}

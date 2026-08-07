@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "今すぐ呼べ、あなたに答える者が⟨いる⟩か。そしてあなたは聖なる者たちのうちのだれに向かうのか。",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "呼べ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今すぐ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "〜がいるか"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "あなたに答える者"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "מי",
+      "gloss": "だれ"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "聖なる者たちのうちの"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "あなたは向く"
+    }
+  ],
+  "timestamp": "2026-08-07T13:21:48.812070555Z",
+  "model": "glm-5.2"
+}

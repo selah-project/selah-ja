@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 23:7",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "それゆえ、見よ、日々が来ている、ヤハウェの御告げ、彼らはもはや言わない、「生けるヤハウェに〈かけて〉」、と——⟨את⟩イスラエルの子らをエジプトの地から上らせた方の〈ことで〉。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々が"
+    },
+    {
+      "surface": "באים",
+      "gloss": "来ている"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "彼らは言う"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生ける"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～ところの"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "上らせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子らを"
+    },
+    {
+      "surface": "בני",
+      "gloss": "～の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "～の地から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "エジプト"
+    }
+  ],
+  "timestamp": "2026-08-07T14:32:31.774725547Z",
+  "model": "glm-5.2"
+}

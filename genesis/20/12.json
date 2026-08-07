@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "しかも本当に、彼女は私の姉妹です——私の父の娘⟨である⟩。ただし私の母の娘⟨ではない⟩。そして彼女は私の妻となった。」",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "しかも"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "本当に"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "私の姉妹"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "私の父の"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨である⟩"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "私の母の"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "そして彼女は……になった"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私の"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "妻"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:48.989134429Z",
+  "model": "glm-5.2"
+}

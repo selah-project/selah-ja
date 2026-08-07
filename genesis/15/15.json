@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 15:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "あなたは平和のうちにあなたの父祖たちのもとに行き、良い老齢によって葬られるであろう。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "そしてあなたは"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "行くであろう"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "あなたの父祖たち"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "平和のうちに"
+    },
+    {
+      "surface": "תקבר",
+      "gloss": "葬られるであろう"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "老齢によって"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "良い"
+    }
+  ],
+  "timestamp": "2026-08-07T08:53:50.785270549Z",
+  "model": "glm-5.2"
+}

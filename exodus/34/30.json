@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "アハロンとイスラエルのすべての子らはモーシェを見た — そして見よ、彼の顔の皮膚が角を放っていた。彼らは彼に近づくことを恐れた。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして…は見た"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーセ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "角を放っていた"
+    },
+    {
+      "surface": "עור",
+      "gloss": "皮膚"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "彼の顔の"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "そして彼らは恐れた"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "近づくことを"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:02.639367100Z",
+  "model": "glm-5.2"
+}

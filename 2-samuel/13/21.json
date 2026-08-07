@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてダビデ王は⟨את⟩これらすべてのことばを聞いた。そして⟨彼に⟩激しく怒った。",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "そして王"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらすべてのことば"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "そして怒った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨彼に⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "激しく"
+    }
+  ],
+  "timestamp": "2026-08-07T10:52:53.631628275Z",
+  "model": "glm-5.2"
+}

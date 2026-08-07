@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼らは⟨את⟩それらを積み上げた、山を成すほどに、山を成すほどに。そして地は悪臭を放った。",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "そして積み上げた"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それら（カエルの死骸）"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "山を成すほどに"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "山を成すほどに"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "そして悪臭を放った"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:38.353262662Z",
+  "model": "glm-5.2"
+}

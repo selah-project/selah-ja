@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 5:13",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "彼らの兄弟たち、彼らの父祖の家による⟨もの⟩は、ミカエル、メシュラム、シェバ、ヨライ、ヤカン、ジア、エベル——七人であった。",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "そして彼らの兄弟たち"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "の家による"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "彼らの父祖"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "ミカエル"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "およびメシュラム"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "およびシェバ"
+    },
+    {
+      "surface": "ויורי",
+      "gloss": "およびヨライ"
+    },
+    {
+      "surface": "ויעכן",
+      "gloss": "およびヤカン"
+    },
+    {
+      "surface": "וזיע",
+      "gloss": "およびジア"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "およびエベル"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七人"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:11.637752785Z",
+  "model": "glm-5.2"
+}

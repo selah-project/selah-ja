@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "ezra 2:65",
+  "book": "ezra",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "彼らの男女の奴隷を別にして、これらは七千三百三十七人。彼らには男の歌い手と女の歌い手が二百人いた。",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "〜を別にして"
+    },
+    {
+      "surface": "עבדיהם",
+      "gloss": "彼らの奴隷"
+    },
+    {
+      "surface": "ואמהתיהם",
+      "gloss": "および彼らの女奴隷"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "および七"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "そして彼らには"
+    },
+    {
+      "surface": "משררים",
+      "gloss": "男の歌い手"
+    },
+    {
+      "surface": "ומשררות",
+      "gloss": "および女の歌い手"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "二百"
+    }
+  ],
+  "timestamp": "2026-08-07T13:50:31.234840809Z",
+  "model": "glm-5.2"
+}

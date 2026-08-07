@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 18:17",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "訴訟において自分を最初に弁じる者は正しいと⟨見なされる⟩。しかし⟨その⟩隣人が来て、彼を調べる。",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "正しいと見なされる"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "最初の者"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "彼の訴訟において"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "彼の隣人"
+    },
+    {
+      "surface": "וחקרו",
+      "gloss": "そして彼を調べる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:03.067842081Z",
+  "model": "glm-5.2"
+}

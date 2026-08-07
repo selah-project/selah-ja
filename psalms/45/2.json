@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "わたしの心は美しいことばを溢れさせ、わたしは告げる、わたしのわざを王に。わたしの舌は速やかな書記の筆。",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "溢れさせる"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "わたしの心"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "美しい"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "告げる"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "わたしのわざ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王に"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "わたしの舌"
+    },
+    {
+      "surface": "עט",
+      "gloss": "筆"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "書記の"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "速やかな"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:12.735084976Z",
+  "model": "glm-5.2"
+}

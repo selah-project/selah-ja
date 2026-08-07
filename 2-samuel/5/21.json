@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして彼らはそこに ⟨את⟩ 彼らの偶像を捨てて行き、ダビデと彼の ⟨人々⟩ は ⟨それら⟩ を持ち去った。",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "そして…捨てた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの偶像"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "彼らの偶像"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "そして…持ち去った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "そして彼の人々"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:50.999632141Z",
+  "model": "glm-5.2"
+}

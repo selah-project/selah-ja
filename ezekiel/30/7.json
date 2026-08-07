@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 30:7",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "荒涼の地々のただ中で彼らは荒らされ、彼女の都市たちは廃墟の都市たちのただ中にある。",
+  "tokens": [
+    {
+      "surface": "ונשמו",
+      "gloss": "荒らされ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ただ中で"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "地々の"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "荒涼の"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "彼女の都市たちは"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ただ中にある"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "都市たちの"
+    },
+    {
+      "surface": "נחרבות",
+      "gloss": "廃墟の"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨ある⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:10:43.895020314Z",
+  "model": "glm-5.2"
+}

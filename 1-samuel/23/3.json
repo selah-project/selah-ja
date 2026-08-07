@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "ダビデの部下は彼に言った。「見よ、私たちはユダの地にいて恐れているのです。ましてケイラに行って、ペリシテ人の陣営に向かうとなれば、⟨なおさら⟩です。」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "部下"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "私たちは"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ここに"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ユダの地に"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "恐れている"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "まして"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～ならば"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "私たちが行く"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "ケイラに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に向かって"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "陣営"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:52.987862811Z",
+  "model": "glm-5.2"
+}

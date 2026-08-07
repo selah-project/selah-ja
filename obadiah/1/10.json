@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "暴力 — あなたの兄弟ヤコブへの — が恥であなたを覆い、あなたは永遠に断たれる。",
+  "tokens": [
+    {
+      "surface": "מֵחֲמַ֛ס",
+      "gloss": "暴力"
+    },
+    {
+      "surface": "אָחִ֥יךָ",
+      "gloss": "あなたの兄弟"
+    },
+    {
+      "surface": "יַעֲקֹ֖ב",
+      "gloss": "ヤコブ"
+    },
+    {
+      "surface": "תְּכַסְּךָ֣",
+      "gloss": "あなたを覆い"
+    },
+    {
+      "surface": "בוּשָׁ֑ה",
+      "gloss": "恥で"
+    },
+    {
+      "surface": "וְנִכְרַ֖תָּ",
+      "gloss": "あなたは断たれる"
+    },
+    {
+      "surface": "לְעוֹלָֽם",
+      "gloss": "永遠に"
+    }
+  ],
+  "timestamp": "2026-08-07T17:45:34.679180136Z",
+  "model": "glm-5.2"
+}

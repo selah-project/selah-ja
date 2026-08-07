@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 45:25",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "彼らはミツライムから上り、カナンの地へ、父ヤアコブのところへ来た。",
+  "tokens": [
+    {
+      "surface": "וַֽיַּעֲל֖וּ",
+      "gloss": "そして上った"
+    },
+    {
+      "surface": "מִמִּצְרָ֑יִם",
+      "gloss": "ミツライムから"
+    },
+    {
+      "surface": "וַיָּבֹ֨אוּ֙",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כְּנַ֔עַן",
+      "gloss": "カナン"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "יַעֲקֹ֖ב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "אֲבִיהֶֽם",
+      "gloss": "彼らの父"
+    }
+  ],
+  "timestamp": "2026-08-07T09:11:06.420625883Z",
+  "model": "glm-5.2"
+}

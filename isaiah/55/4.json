@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "見よ、私は彼を諸国民への証とした — 国々への支配者、そして命令する者を。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "証"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "諸国民への"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "私は彼を与えた"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "支配者"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "そして命令する者"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "国々への"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:45.236398460Z",
+  "model": "glm-5.2"
+}

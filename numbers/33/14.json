@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 33:14",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そして彼らはアルシュから旅立ち、レフィディムに宿営した。そこには民が飲むための水がなかった。",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "そして彼らは旅立ち"
+    },
+    {
+      "surface": "מאלוש",
+      "gloss": "アルシュから"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "そして宿営した"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "レフィディムに"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…なかった"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "民のために"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "飲むための"
+    }
+  ],
+  "timestamp": "2026-08-07T10:04:29.097222045Z",
+  "model": "glm-5.2"
+}

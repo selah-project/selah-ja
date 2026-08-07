@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "と⟨את⟩ 香の祭壇 と⟨את⟩ その棒 と⟨את⟩ 油 — 注ぎの — と⟨את⟩ 香料の香 と⟨את⟩ 幕屋の入口のための入口の垂れ幕、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "香の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "その棒"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "その棒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "油"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "注ぎの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "香"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "香料の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "垂れ幕"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "垂れ幕"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "入口の"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "入口のための"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:35.006255838Z",
+  "model": "glm-5.2"
+}

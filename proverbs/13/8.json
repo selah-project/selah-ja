@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 13:8",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "人のいのちの身代金は彼の富である。しかし貧しい者は非難の声を聞くことがない。",
+  "tokens": [
+    {
+      "surface": "כֹּ֣פֶר",
+      "gloss": "身代金"
+    },
+    {
+      "surface": "נֶֽפֶשׁ",
+      "gloss": "いのちの"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "人の"
+    },
+    {
+      "surface": "עָשְׁר֑וֹ",
+      "gloss": "彼の富である"
+    },
+    {
+      "surface": "וְ֝רָ֗שׁ",
+      "gloss": "しかし貧しい者は"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "שָׁמַ֥ע",
+      "gloss": "聞くことが"
+    },
+    {
+      "surface": "גְּעָרָֽה",
+      "gloss": "非難の声を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:06.403473524Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "指揮者へ。コラフの子らのために。ミズモル。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者へ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〜の子らのために"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "コラフ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ミズモル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:16.728715423Z",
+  "model": "glm-5.2"
+}

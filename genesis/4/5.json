@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "しかしカインと彼の献げ物には⟨顔を⟩向けられなかった。カインは激しく怒り、彼の顔は垂れ下がった。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "しかし…へ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "カイン"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして…へ"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "彼の献げ物"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "向けられなかった"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "怒った"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "カインに"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "激しく"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "そして…垂れ下がった"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "彼の顔"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:58.413637195Z",
+  "model": "glm-5.2"
+}

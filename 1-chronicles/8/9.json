@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼はホデシュ ⟨その妻⟩から ⟨את⟩ ヨバブと ⟨את⟩ ツィブヤと ⟨את⟩ メシャと ⟨את⟩ マルカムを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "そして彼は生んだ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ホデシュ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "その妻"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨバブ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ヨバブ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "ツィブヤ"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "ツィブヤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "メシャ"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "メシャ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "マルカム"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "マルカム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:34.102647982Z",
+  "model": "glm-5.2"
+}

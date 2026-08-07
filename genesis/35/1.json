@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 35:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そしてエロヒムはヤアコブに言われた。「立って、ベイト・エルに上り、そこに住め。そしてそこに、あなたがエサウあなたの兄弟の顔から逃げたときにあなたに現れたエルに、祭壇を造れ。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言われた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "קום",
+      "gloss": "立って"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上れ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベイト"
+    },
+    {
+      "surface": "אל",
+      "gloss": "・エル"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "そして…住め"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "そして…造れ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "エルに"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "現れた"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "בברחך",
+      "gloss": "あなたが逃げたとき"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…の顔から"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟"
+    }
+  ],
+  "timestamp": "2026-08-07T16:25:15.563257998Z",
+  "model": "glm-5.2"
+}

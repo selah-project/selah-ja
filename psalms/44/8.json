@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "あなたが私たちを敵から救い出し、私たちを憎む者たちを恥にかえされたからだ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…からだ"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "あなたが私たちを救い出し"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "敵から"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "そして私たちを憎む者たちを"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "恥にかえされた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:24.247665023Z",
+  "model": "glm-5.2"
+}

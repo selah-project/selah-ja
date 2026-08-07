@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 16:21",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "ダビデはシャウルのところに来て、⟨彼⟩の前に立った。⟨シャウル⟩は彼を非常に愛し、彼は⟨シャウル⟩の武器持ちとなった。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～のところに"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "立った"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "⟨彼⟩の前に"
+    },
+    {
+      "surface": "ויאהבהו",
+      "gloss": "愛した"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "なった"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨シャウル⟩の"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "持ち"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "武器"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:08.729350163Z",
+  "model": "glm-5.2"
+}

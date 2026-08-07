@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 122,
+  "translation": "私たちの足は立っていた — イェルシャライムよ、あなたの門の中に。",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "立って"
+    },
+    {
+      "surface": "היו",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "私たちの足は"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "あなたの門の中に"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムよ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:57.408175178Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして八日目に、彼の包皮の肉に割礼が施される。",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "そして〜の日に"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "第八"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "割礼が施される"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "彼の包皮の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:45.181345250Z",
+  "model": "glm-5.2"
+}

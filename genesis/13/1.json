@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてアブラムはミツライム（エジプト）から上った — ⟨彼⟩、⟨彼の⟩妻、そして彼に属するすべてのもの、そしてロットも ⟨彼と⟩共に、ネゲブへ。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "そして…上った"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "アブラムは"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ミツライム（エジプト）から"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "そして彼の妻"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜属するもの"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "そしてロット"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "ネゲブへ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:53.222471907Z",
+  "model": "glm-5.2"
+}

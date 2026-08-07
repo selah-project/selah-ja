@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "ある道が人の目にまっすぐに見えることがある、だがその終わりは死の道々である。",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ある"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "まっすぐな"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の目に"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "だがその終わりは"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "道々"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:09.701973444Z",
+  "model": "glm-5.2"
+}

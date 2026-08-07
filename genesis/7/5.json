@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてノアは、ヤハウェが彼に命じられたすべてのことを行った。",
+  "tokens": [
+    {
+      "surface": "וַיַּ֖עַשׂ",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "נֹ֑חַ",
+      "gloss": "ノア"
+    },
+    {
+      "surface": "כְּכֹ֥ל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "こと"
+    },
+    {
+      "surface": "צִוָּ֖הוּ",
+      "gloss": "彼に命じられた"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:50.602360196Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 27:23",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そして⟨彼⟩は彼を見分けなかった。彼の手が兄弟エサウの手のように毛深かったからである。そして彼は彼を祝福した。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "彼は彼を見分けた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "היו",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "כידי",
+      "gloss": "〜の手のように"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄弟"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "毛深い"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "そして彼は彼を祝福した"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:18.608385744Z",
+  "model": "glm-5.2"
+}

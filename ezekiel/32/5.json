@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "わたしは⟨את⟩あなたの肉を山々の上に置き、谷々をあなたの死体の山で満たす。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "わたしは置く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの肉"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "あなたの肉"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "山々"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "わたしは満たす"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "谷々"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "あなたの死体の山"
+    }
+  ],
+  "timestamp": "2026-08-07T14:35:48.849581500Z",
+  "model": "glm-5.2"
+}

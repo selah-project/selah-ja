@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そして彼は州の首長たちの若者たちを点呼した。彼らは二百三十二人であった。その後、彼はすべての民、すなわちイスラエルの子ら全員を点呼した——七千人であった。",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "そして彼は点呼した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "州の首長たちの若者たち"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "若者たち"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "首長たちの"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "州の"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "そして彼らは〜であった"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "二百"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "と三十"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "その後"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "彼は点呼した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:43.127160673Z",
+  "model": "glm-5.2"
+}

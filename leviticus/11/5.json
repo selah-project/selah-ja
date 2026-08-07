@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして⟨את⟩ハ・シャファンは、反芻するからといって、ひづめを分けないので、それはあなたがたにとって汚れている。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ハ・シャファン"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "ハ・シャファン（岩狸）"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜なので"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "上げる"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "反芻物"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "そしてひづめを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "分ける"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れている"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたにとって"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:23.261980618Z",
+  "model": "glm-5.2"
+}

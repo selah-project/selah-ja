@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして民はモーシェに対してつぶやいた。言って。「私たちは何を飲むのか。」",
+  "tokens": [
+    {
+      "surface": "וַיִּלֹּ֧נוּ",
+      "gloss": "そしてつぶやいた"
+    },
+    {
+      "surface": "הָעָ֛ם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "לֵּאמֹ֖ר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "נִּשְׁתֶּֽה",
+      "gloss": "飲むのか"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:21.176034104Z",
+  "model": "glm-5.2"
+}

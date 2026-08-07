@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてモツァは⟨את⟩ビネアを生んだ。レファヤ⟨その子⟩、エルアサ⟨その子⟩、アツェル⟨その子⟩。",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "そしてモツァは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ビネア"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "ビネア"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "レファヤ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "エルアサ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "アツェル"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    }
+  ],
+  "timestamp": "2026-08-07T14:43:13.215652969Z",
+  "model": "glm-5.2"
+}

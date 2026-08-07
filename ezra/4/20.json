@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 4:20",
+  "book": "ezra",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "力ある王々がイェルシャライムを治めていた。彼らは川の向こうの全土を支配しており、貢物・消費税・通行税が彼らに納められていた。",
+  "tokens": [
+    {
+      "surface": "ומלכין",
+      "gloss": "そして王々が"
+    },
+    {
+      "surface": "תקיפין",
+      "gloss": "力ある"
+    },
+    {
+      "surface": "הוו",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜を治めて"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライム"
+    },
+    {
+      "surface": "ושליטין",
+      "gloss": "支配者"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全土を"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "向こう"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "川の"
+    },
+    {
+      "surface": "ומדה",
+      "gloss": "そして貢物"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "消費税"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "および通行税"
+    },
+    {
+      "surface": "מתיהב",
+      "gloss": "納められていた"
+    },
+    {
+      "surface": "להון",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:51:28.335559031Z",
+  "model": "glm-5.2"
+}

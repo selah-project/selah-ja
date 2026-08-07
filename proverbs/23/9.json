@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "愚か者の耳に語ってはならない、彼はあなたの言葉の知恵を軽蔑するからだ。",
+  "tokens": [
+    {
+      "surface": "בְּאָזְנֵ֣י",
+      "gloss": "…の耳に"
+    },
+    {
+      "surface": "כְ֭סִיל",
+      "gloss": "愚か者"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תְּדַבֵּ֑ר",
+      "gloss": "語るな"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "יָ֝ב֗וּז",
+      "gloss": "軽蔑する"
+    },
+    {
+      "surface": "לְשֵׂ֣כֶל",
+      "gloss": "知恵を"
+    },
+    {
+      "surface": "מִלֶּֽיךָ",
+      "gloss": "あなたの言葉の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:06.617378316Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 33:9",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そしてマラから旅立ち、エリマに来た。エリムには十二の水の泉と七十のナツメヤシが⟨あった⟩。そして彼らはそこに宿営した。",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "そして旅立ち"
+    },
+    {
+      "surface": "ממרה",
+      "gloss": "マラから"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "אילמה",
+      "gloss": "エリマへ"
+    },
+    {
+      "surface": "ובאילם",
+      "gloss": "そしてエリムには"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "十二"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "（の）"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "泉"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "と七十の"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "ナツメヤシ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "そして宿営した"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:04:40.185222998Z",
+  "model": "glm-5.2"
+}

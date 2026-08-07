@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして彼は年々にそうした。彼女がヤハウェの家に上るたびに、⟨彼女の競争相手⟩ は彼女を同様に怒らせた。そして彼女は泣き、食べなかった。",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "そしてそう"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "彼はした"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "年々に"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "〜するたびに"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "彼女が上る"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "〜の家に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "כן",
+      "gloss": "同様に"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "彼女を怒らせた"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "そして彼女は泣き"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食べ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:39:35.664876111Z",
+  "model": "glm-5.2"
+}

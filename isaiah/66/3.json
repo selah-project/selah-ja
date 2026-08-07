@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 66:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "牛を屠る者は人を打つ者だ。羊を献げる者は犬の首を折る者だ。穀物の献げ物を携える者は豚の血だ。乳香を思い出す者は邪悪を祝福する者だ。彼らもまた自分たちの道を選び、自分たちの忌むべきものに彼らの命は喜びを覚えた。",
+  "tokens": [
+    {
+      "surface": "שוחט",
+      "gloss": "屠る者"
+    },
+    {
+      "surface": "השור",
+      "gloss": "牛を"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "打つ者"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人を"
+    },
+    {
+      "surface": "זובח",
+      "gloss": "献げる者"
+    },
+    {
+      "surface": "השה",
+      "gloss": "羊を"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "首を折る者"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "犬の"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "携える者"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "穀物の献げ物を"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "豚の"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "思い出す者"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "乳香を"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "祝福する者"
+    },
+    {
+      "surface": "און",
+      "gloss": "邪悪を"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜もまた"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼ら"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "選び"
+    },
+    {
+      "surface": "בדרכיהם",
+      "gloss": "自分たちの道を"
+    },
+    {
+      "surface": "ובשקוציהם",
+      "gloss": "そして自分たちの忌むべきものに"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "彼らの命は"
+    },
+    {
+      "surface": "חפצה",
+      "gloss": "喜びを覚えた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:39:47.252117958Z",
+  "model": "glm-5.2"
+}

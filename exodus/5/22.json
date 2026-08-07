@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "モーセはヤハウェのもとに帰り、言った、「アドナイ、なぜこの民に害を加えられたのですか。なぜこれのために私を遣わされたのですか。」",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして帰った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "のもとに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "害を加えられたのですか"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "民に"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これのために"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "私を遣わされたのですか"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:47.580809082Z",
+  "model": "glm-5.2"
+}

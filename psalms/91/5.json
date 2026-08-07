@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 91,
+  "translation": "夜の恐怖を恐れることはない、昼飛ぶ矢を⟨恐れることはない⟩。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "あなたは恐れる"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "恐怖を"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜の"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "矢を"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "飛ぶ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "昼"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:27.070306780Z",
+  "model": "glm-5.2"
+}

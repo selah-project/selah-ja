@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "歩き回る者是非を運ぶ者は秘密を明らかにし、霊の誠実な者は事柄を覆い隠す。",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "歩き回る者"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "是非を運ぶ者"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "明らかにし"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "秘密"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "そして誠実な"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊の"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "覆い隠す"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事柄"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:54.434569128Z",
+  "model": "glm-5.2"
+}

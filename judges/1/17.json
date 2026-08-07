@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 1:17",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてユダは兄弟シメオンとともに行き、ツェファトに住むカナン人を打った。そして彼らは⟨את⟩それを聖絶し、その町の名をホルマと呼んだ。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シメオン"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "シメオン"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄弟"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "そして彼らは打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "カナン人"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "カナン人"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "住む者"
+    },
+    {
+      "surface": "צפת",
+      "gloss": "ツェファト"
+    },
+    {
+      "surface": "ויחרימו",
+      "gloss": "そして彼らは聖絶した"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩それを"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして彼は呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町の"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "ホルマ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:31:36.309014600Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "彼らは⟨את⟩ハ・ショハムの石を、金の精巧な枠留めにはめ込み、印璽の彫り——イスラエルの子らの名の上に——として彫り込んだ。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "そして彼らは作った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ハ・ショハムの石"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "石"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ハ・ショハム"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "枠留めにして"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "精巧な留め"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "彫り込まれて"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "彫り"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "印璽の"
+    },
+    {
+      "surface": "על",
+      "gloss": "～の上に"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "בני",
+      "gloss": "～の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:36.989257538Z",
+  "model": "glm-5.2"
+}

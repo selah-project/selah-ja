@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そして⟨את⟩亜麻布のターバンと、⟨את⟩亜麻布の帽子の頭飾と、⟨את⟩亜麻布のもじり糸の下着を。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ターバン"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "そのターバンを"
+    },
+    {
+      "surface": "שש",
+      "gloss": "亜麻布の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "頭飾"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "頭飾を"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "帽子の"
+    },
+    {
+      "surface": "שש",
+      "gloss": "亜麻布の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "下着"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "下着を"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "亜麻の"
+    },
+    {
+      "surface": "שש",
+      "gloss": "亜麻布の"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "もじり糸の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:20.871566745Z",
+  "model": "glm-5.2"
+}

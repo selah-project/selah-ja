@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして、それらは天の大空の光源となり、地の上を照らすためのものとなった。そして、そうなった。",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "そして、それらは〜となった"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "光源として"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "大空に"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "照らすため"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上を"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして、そうなった"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    }
+  ],
+  "timestamp": "2026-08-07T14:20:55.560733977Z",
+  "model": "glm-5.2"
+}

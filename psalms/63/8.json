@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 63,
+  "translation": "あなたがわたしの助けであったから、わたしはあなたの翼の影にあって喜び歌います。",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "הָיִיתָ",
+      "gloss": "あなたは〜であった"
+    },
+    {
+      "surface": "עֶזְרָתָה",
+      "gloss": "助け"
+    },
+    {
+      "surface": "לִּי",
+      "gloss": "わたしの"
+    },
+    {
+      "surface": "וּבְצֵל",
+      "gloss": "そして〜の影にあって"
+    },
+    {
+      "surface": "כְנָפֶיךָ",
+      "gloss": "あなたの翼の"
+    },
+    {
+      "surface": "אֲרַנֵּן",
+      "gloss": "わたしは喜び歌う"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:48.262899595Z",
+  "model": "glm-5.2"
+}

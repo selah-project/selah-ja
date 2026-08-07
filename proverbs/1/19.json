@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "こうして、不正な利得を貪るすべての者の道 — ⟨彼は⟩ ⟨את⟩ その所有者の命を奪い取る。",
+  "tokens": [
+    {
+      "surface": "כֵּ֗ן",
+      "gloss": "こうして"
+    },
+    {
+      "surface": "אָ֭רְחוֹת",
+      "gloss": "道"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בֹּ֣צֵֽעַ",
+      "gloss": "貪る者"
+    },
+    {
+      "surface": "בָּ֑צַע",
+      "gloss": "不正な利得"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "命"
+    },
+    {
+      "surface": "נֶ֖פֶשׁ",
+      "gloss": "命"
+    },
+    {
+      "surface": "בְּעָלָ֣יו",
+      "gloss": "その所有者の"
+    },
+    {
+      "surface": "יִקָּֽח",
+      "gloss": "奪い取る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:29.765109703Z",
+  "model": "glm-5.2"
+}

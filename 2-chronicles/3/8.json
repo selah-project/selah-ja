@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 3:8",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼は⟨את⟩聖なる所、聖なる所たちの家を造った。その長さは家の幅に向かい合わせて二十キュビト、その幅は二十キュビトであった。そして彼はそれを良き金で覆った — 六百タラントで。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は造った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "聖なる所、聖なる所たちの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる所"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "聖なる所たちの"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "その長さ"
+    },
+    {
+      "surface": "על",
+      "gloss": "に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "向かい合わせて"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "幅"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "キュビト"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "そしてその幅"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "キュビト"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "そして彼はそれを覆った"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良き"
+    },
+    {
+      "surface": "לככרים",
+      "gloss": "タラントで"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:42.593144065Z",
+  "model": "glm-5.2"
+}

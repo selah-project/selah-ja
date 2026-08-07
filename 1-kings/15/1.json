@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして王ヤラブアム、ナバトの子の第十八年に、アビヤムがユダの上に王となった。",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "そして〜の年に"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "八"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王〜の"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ヤラブアム"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ナバト"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "アビヤム"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:06:53.884496668Z",
+  "model": "glm-5.2"
+}

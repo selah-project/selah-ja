@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして多くの者がそれにつまずき、そして倒れ、そして砕かれ、そして絡め取られ、そして捕らえられる。",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "そしてつまずき"
+    },
+    {
+      "surface": "בם",
+      "gloss": "それに"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの者が"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "そして倒れ"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "そして砕かれ"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "そして絡め取られ"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "そして捕らえられる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:11.515475267Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "目の高ぶりと心の広がり——悪者の耕作は罪。",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "高ぶり"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "目の"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "と広がり"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心の"
+    },
+    {
+      "surface": "נר",
+      "gloss": "耕作"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者の"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:03.071744021Z",
+  "model": "glm-5.2"
+}

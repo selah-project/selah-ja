@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "わたしは父にとって息子であったから。柔らかく、母の前で唯一の⟨者であった⟩。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "わたしは〜であった"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "わたしの父にとって"
+    },
+    {
+      "surface": "רך",
+      "gloss": "柔らかい"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "そして唯一の"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前で"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "わたしの母"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:29.283507965Z",
+  "model": "glm-5.2"
+}

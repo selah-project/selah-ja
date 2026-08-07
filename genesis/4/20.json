@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "アダは⟨את⟩ヤバルを産んだ。彼は天幕に住む者と家畜を持つ者の父であった。",
+  "tokens": [
+    {
+      "surface": "וַתֵּ֥לֶד",
+      "gloss": "彼女は産んだ"
+    },
+    {
+      "surface": "עָדָ֖ה",
+      "gloss": "アダ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤバル"
+    },
+    {
+      "surface": "יָבָ֑ל",
+      "gloss": "ヤバル"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "הָיָ֔ה",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "אֲבִ֕י",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "יֹשֵׁ֥ב",
+      "gloss": "住む者"
+    },
+    {
+      "surface": "אֹ֖הֶל",
+      "gloss": "天幕に"
+    },
+    {
+      "surface": "וּמִקְנֶֽה",
+      "gloss": "そして家畜を"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:11.339346025Z",
+  "model": "glm-5.2"
+}

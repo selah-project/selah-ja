@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "モーセはヤハウェの御前で語って言った。「見よ、イスラエルの子らは私に聞き従わなかった。それでどうしてパロが私に聞き従うだろうか。私は唇の包皮を持つ者だから。」",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセは"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の御前で"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聞き従った"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "それでどうして"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "私に聞き従うだろうか"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロが"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "包皮を持つ者"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "唇の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:12.847468064Z",
+  "model": "glm-5.2"
+}

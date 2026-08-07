@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そしてモーシェは⟨את⟩その血を取り、民の上に振りかけ、言った。「見よ、これこそヤハウェがこれらすべての言葉に基づいてあなたがたと結ばれた契約の血である。」",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして彼は取った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "その血"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "そして彼は振りかけた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "その契約"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "結ばれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "あなたがたと"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に基づいて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "これらの言葉"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これら"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:23.618374615Z",
+  "model": "glm-5.2"
+}

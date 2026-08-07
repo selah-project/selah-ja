@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして⟨アワブ⟩ ⟨את⟩ ハヒウィ、そして⟨アワブ⟩ ⟨את⟩ ハアルキ、そして⟨アワブ⟩ ⟨את⟩ ハシニ。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨アワブ⟩"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ハヒウィ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨アワブ⟩"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ハアルキ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨アワブ⟩"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ハシニ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:32.347288747Z",
+  "model": "glm-5.2"
+}

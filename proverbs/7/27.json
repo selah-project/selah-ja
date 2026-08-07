@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "シェオルの道が彼女の家だ、死の奥の間へと下っていく。",
+  "tokens": [
+    {
+      "surface": "דַּרְכֵ֣י",
+      "gloss": "〜の道"
+    },
+    {
+      "surface": "שְׁא֣וֹל",
+      "gloss": "シェオル"
+    },
+    {
+      "surface": "בֵּיתָ֑הּ",
+      "gloss": "彼女の家"
+    },
+    {
+      "surface": "יֹ֝רְד֗וֹת",
+      "gloss": "下っていくもの（複数女性）"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "חַדְרֵי",
+      "gloss": "〜の奥の間"
+    },
+    {
+      "surface": "מָֽוֶת",
+      "gloss": "死"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:21.614021953Z",
+  "model": "glm-5.2"
+}

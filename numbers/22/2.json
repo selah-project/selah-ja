@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そしてツィポルの子バラクは、イスラエルが⟨את⟩エモリ人にしたすべてのことを見た。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "バラク"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ツィポル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エモリ人にしたすべてのこと"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "した"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "エモリ人に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:23:50.627074386Z",
+  "model": "glm-5.2"
+}

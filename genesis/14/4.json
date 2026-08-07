@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "十二年間、彼らは ⟨את⟩ ケドルラオメルに仕えた。そして十三年目に彼らは反逆した。",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年間"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "彼らは仕えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ケドルラオメル"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "ケドルラオメル"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "そして三"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "彼らは反逆した"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:58.087297249Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "それはあなたの足が血のなかで敵から打ち砕くため、あなたの犬たちの舌が⟨それを⟩分け持つためである。",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "それは…ため"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "打ち砕く"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "あなたの足が"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "血のなかで"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "…の舌が"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "あなたの犬たちの"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "敵から"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "分け持つ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:43.588581253Z",
+  "model": "glm-5.2"
+}

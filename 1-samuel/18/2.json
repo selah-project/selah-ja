@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてシャウルは彼をその日に取った、そして彼が自分の父の家に帰るのを許さなかった。",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "そして彼は彼を取った"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…の日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…なかった"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "彼に与えた"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "帰ることを"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:34.307425300Z",
+  "model": "glm-5.2"
+}

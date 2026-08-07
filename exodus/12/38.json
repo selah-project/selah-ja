@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "また、多くの混雑した群衆も彼らと共に上った。羊と牛、非常に重い家畜⟨が⟩。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "また"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "混ざった群衆"
+    },
+    {
+      "surface": "רב",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上った"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "彼らと共に"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "そして羊"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "そして牛"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "重い"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:28.588855883Z",
+  "model": "glm-5.2"
+}

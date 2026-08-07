@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてある人のうちに死刑の罪があり、彼が処刑され、あなたが彼を木に掛けるならば —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "そして…ならば"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "人のうちに"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "罪が"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "裁定の"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "彼が処刑され"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "あなたが掛ける"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木"
+    }
+  ],
+  "timestamp": "2026-08-07T14:25:05.669616199Z",
+  "model": "glm-5.2"
+}

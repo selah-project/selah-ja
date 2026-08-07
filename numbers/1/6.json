@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "シメオンには、ツリシャッダイの子シェルミエル。",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "シメオンには"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "シェルミエル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "ツリシャッダイ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:17.888145628Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そして私は⟨את⟩セイルの山を荒廃と荒涼とし、そこから通り過ぎる者も帰る者も絶ち払う。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "そして私は与える\/する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "セイルの山"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "セイル"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "荒廃として"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "そして荒涼として"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "そして私は絶ち払う"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "通り過ぎる者"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "そして帰る者"
+    }
+  ],
+  "timestamp": "2026-08-07T12:12:49.079328699Z",
+  "model": "glm-5.2"
+}

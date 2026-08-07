@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてエフタは六年間⟨את⟩イスラエルを裁いた。そしてギルアデ人エフタは死に、ギルアデの諸都市に葬られた。",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "そして彼は裁いた"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "エフタ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年間"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "エフタ"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "ギルアデ人"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "そして葬られた"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "…の諸都市に"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ギルアデ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:36:25.187619508Z",
+  "model": "glm-5.2"
+}

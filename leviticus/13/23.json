@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 13:23",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてもし、その下に白斑が留まり、広がらなかったなら、それは火傷の瘢痕である。祭司は彼を清いと宣言しなければならない。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "その下に"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "留まる"
+    },
+    {
+      "surface": "הבהרת",
+      "gloss": "白斑が"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "広がらなかった"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "瘢痕"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "火傷の"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは〜である"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "清いと宣言しなければならない"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司は"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:11.596087686Z",
+  "model": "glm-5.2"
+}

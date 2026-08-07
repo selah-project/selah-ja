@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 25:26",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "踏み荒らされた泉、そして汚された水源、これ⟨が⟩正しい者が悪者の前に揺らぐ者⟨である⟩。",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "泉"
+    },
+    {
+      "surface": "נרפש",
+      "gloss": "踏み荒らされた"
+    },
+    {
+      "surface": "ומקור",
+      "gloss": "そして水源"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "汚された"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しい者"
+    },
+    {
+      "surface": "מט",
+      "gloss": "揺らぐ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者"
+    }
+  ],
+  "timestamp": "2026-08-07T17:25:22.757300032Z",
+  "model": "glm-5.2"
+}

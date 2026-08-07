@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "聞け、今、ヤハウェが語られる⟨את⟩ことを。立って、山々と論争せよ、そして丘々はあなたの声を聞くであろう。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "こと（ヤハウェが語られる）"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "語られる"
+    },
+    {
+      "surface": "קום",
+      "gloss": "立って"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "論争せよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "〜と（前置詞）"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "山々"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "そして聞くであろう"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "丘々"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "あなたの声"
+    }
+  ],
+  "timestamp": "2026-08-07T12:27:33.755330152Z",
+  "model": "glm-5.2"
+}

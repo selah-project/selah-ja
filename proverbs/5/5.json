@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "彼女の足は死へと下り、シェオルへ彼女の歩みが⟨しがみつく⟩。",
+  "tokens": [
+    {
+      "surface": "רַ֭גְלֶיהָ",
+      "gloss": "彼女の足は"
+    },
+    {
+      "surface": "יֹרְד֣וֹת",
+      "gloss": "下り"
+    },
+    {
+      "surface": "מָ֑וֶת",
+      "gloss": "死へと"
+    },
+    {
+      "surface": "שְׁא֗וֹל",
+      "gloss": "シェオルへ"
+    },
+    {
+      "surface": "צְעָדֶ֥יהָ",
+      "gloss": "彼女の歩みが"
+    },
+    {
+      "surface": "יִתְמֹֽכוּ",
+      "gloss": "⟨しがみつく⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:32.265388485Z",
+  "model": "glm-5.2"
+}

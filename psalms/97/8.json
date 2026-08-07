@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 97,
+  "translation": "ツィヨンは聞いて喜び、イェフダの娘たちは躍り喜んだ、あなたの裁きにより、ヤハウェよ",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "聞いて"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "喜び"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨンは"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "躍り喜んだ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "娘たちは"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "イェフダの"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜により"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "あなたの裁き"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:47.205153955Z",
+  "model": "glm-5.2"
+}

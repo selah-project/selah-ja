@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 29:27",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "義者たちにとって、不義の男は忌むべきものである、そして悪者にとって、まっすぐな道は忌むべきものである。",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "忌むべきもの"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義者たち"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男"
+    },
+    {
+      "surface": "עול",
+      "gloss": "不義の"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "そして…忌むべきもの"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "まっすぐな"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:23.132029491Z",
+  "model": "glm-5.2"
+}

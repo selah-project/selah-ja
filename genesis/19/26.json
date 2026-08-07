@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして⟨彼の⟩妻は⟨彼の⟩後ろから見つめ、彼女は塩の柱と⟨なった⟩。",
+  "tokens": [
+    {
+      "surface": "וַתַּבֵּ֥ט",
+      "gloss": "そして見つめた"
+    },
+    {
+      "surface": "אִשְׁתּ֖וֹ",
+      "gloss": "彼の妻"
+    },
+    {
+      "surface": "מֵאַחֲרָ֑יו",
+      "gloss": "彼の後ろから"
+    },
+    {
+      "surface": "וַתְּהִ֖י",
+      "gloss": "そして⟨彼女は⟩…と…⟨なった⟩"
+    },
+    {
+      "surface": "נְצִ֥יב",
+      "gloss": "柱"
+    },
+    {
+      "surface": "מֶֽלַח",
+      "gloss": "塩の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:02.524159845Z",
+  "model": "glm-5.2"
+}

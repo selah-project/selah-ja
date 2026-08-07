@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして彼は彼らの王たちをあなたの手に渡し、あなたは天の下から彼らの名を滅びさせる。あなたが彼らを、⟨את⟩絶ち滅ぼすまで、ひとりの者もあなたの前に立ち続けることはできない。",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "そして〜は渡す"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "彼らの王たち"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "あなたの手に"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "そしてあなたは〜を滅びさせる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの名"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "彼らの名"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "〜の下から"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "立ち続ける"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ひとりの者も"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "あなたの前に"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "あなたが絶ち滅ぼす"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩彼らを"
+    }
+  ],
+  "timestamp": "2026-08-07T10:09:46.262105033Z",
+  "model": "glm-5.2"
+}

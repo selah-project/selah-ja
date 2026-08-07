@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "なぜなら、今すでに私は⟨את⟩私の手を伸ばし、疫病をもってあなたと⟨את⟩あなたの民を打っていたなら、あなたは地から絶たれていたであろうに。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "私は伸ばしていた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の手"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "私の手"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "そして確かに"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "あなたを"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの民"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたの民"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "疫病をもって"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "そしてあなたは絶たれていたであろうに"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:27.377096594Z",
+  "model": "glm-5.2"
+}

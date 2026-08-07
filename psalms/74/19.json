@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 74,
+  "translation": "あなたの鳩のいのちを野獣に渡さないでください。あなたの苦しむ者の群れをとこしえに忘れないでください。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "渡さないで"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "いのちを"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "あなたの鳩の"
+    },
+    {
+      "surface": "חית",
+      "gloss": "野獣"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "あなたの苦しむ者の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "忘れないで"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "とこしえに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:03.035874423Z",
+  "model": "glm-5.2"
+}

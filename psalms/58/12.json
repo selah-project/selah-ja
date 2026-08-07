@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 58,
+  "translation": "そして人は言う、「確かに義には実がある、確かに地で裁くエロヒムがおられる」と。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして人は言う"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "אך",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "実"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "義には"
+    },
+    {
+      "surface": "אך",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "יש",
+      "gloss": "おられる"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "裁く"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地で"
+    }
+  ],
+  "timestamp": "2026-08-07T17:19:31.693833486Z",
+  "model": "glm-5.2"
+}

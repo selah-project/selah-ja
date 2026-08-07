@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして死の道具を彼のために備え、彼の矢を燃え盛るもののために作り出す。",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "そして彼のために"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "備えた"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "道具"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "彼の矢"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "燃え盛るもののために"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "作り出す"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:28.727810854Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ヤハウェはレアが憎まれているのを見て、彼女の胎を開かれた — ⟨את⟩彼女の胎を。しかしラヘルは不妊であった。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "見て"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "憎まれている"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "レアが"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "開かれた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼女の胎"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "彼女の胎を"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "ラヘルは"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "不妊であった"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:20.157176011Z",
+  "model": "glm-5.2"
+}

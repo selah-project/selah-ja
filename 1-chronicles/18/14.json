@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 18:14",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてダビデは全イスラエルの上に王として君臨し、彼はそのすべての民に⟨向けて⟩裁きと義を行っていた。",
+  "tokens": [
+    {
+      "surface": "וַיִּמְלֹ֥ךְ",
+      "gloss": "そして…は王として君臨した"
+    },
+    {
+      "surface": "דָּוִ֖יד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "全"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "וַיְהִ֗י",
+      "gloss": "そして…であった"
+    },
+    {
+      "surface": "עֹשֶׂ֛ה",
+      "gloss": "行う者"
+    },
+    {
+      "surface": "מִשְׁפָּ֥ט",
+      "gloss": "裁き"
+    },
+    {
+      "surface": "וּצְדָקָ֖ה",
+      "gloss": "義"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עַמּֽוֹ",
+      "gloss": "彼の民に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:06:43.358958433Z",
+  "model": "glm-5.2"
+}

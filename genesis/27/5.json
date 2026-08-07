@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 27:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてリベカは聞いていた――イツハクがその子エサヴに話すのを。そしてエサヴは野に出て、獲物を狩って、それを持って来るために（出た）。",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "そしてリベカは"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "聞いていた"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "話すのを"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イツハクが"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサヴ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして出た"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサヴは"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野へ"
+    },
+    {
+      "surface": "לצוד",
+      "gloss": "狩るために"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "獲物を"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "持って来るために"
+    }
+  ],
+  "timestamp": "2026-08-07T08:59:05.750452278Z",
+  "model": "glm-5.2"
+}

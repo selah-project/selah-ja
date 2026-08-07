@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 8:10",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "これらは王シュロモの監督たちの長であった二百五十人であり、民を治める者たちであった。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "〜の長"
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "監督たち"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜なる"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王に属する"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "そして二百"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "治める者たち"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "民を"
+    }
+  ],
+  "timestamp": "2026-08-07T14:11:40.908627512Z",
+  "model": "glm-5.2"
+}

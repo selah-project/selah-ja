@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 46:28",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "そして⟨彼は⟩⟨את⟩ユダを自分より先にヨセフのもとに遣わし、自分より先にゴシェンへ道を示すためであった。そして彼らはゴシェンの地に来た。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ユダを"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "遣わした"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "自分より先に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "להורת",
+      "gloss": "道を示すため"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "自分より先に"
+    },
+    {
+      "surface": "גשנה",
+      "gloss": "ゴシェンへ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "そして彼らは来た"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地に"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "ゴシェン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:10:05.378193902Z",
+  "model": "glm-5.2"
+}

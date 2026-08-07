@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてカレブ、ヘツロンの子は、⟨את⟩アズバを女として、また⟨את⟩エリオトを[娶り]もうけた。そしてこれらは彼女の息子たち：イェシェル、およびショバブ、およびアルドン。",
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "そしてカレブ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ヘツロン"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "もうけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アズバ"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "アズバ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "エリオト"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "エリオト"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれら"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "彼女の息子たち"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "イェシェル"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "およびショバブ"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "およびアルドン"
+    }
+  ],
+  "timestamp": "2026-08-07T13:58:56.531792719Z",
+  "model": "glm-5.2"
+}

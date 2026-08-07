@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "あなたを悪の道から救い出すため、ねじれた事を語る男から。",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "あなたを救い出すため"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "…の道から"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "…の男から"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "語る"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "ねじれた事"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:45.067001970Z",
+  "model": "glm-5.2"
+}

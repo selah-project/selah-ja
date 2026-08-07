@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "だから今、引き返し、平和の ⟨うちに⟩ 行きなさい。そしてペリシテの君たちの目に悪を行ってはならない。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "だから今"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "引き返し"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "行きなさい"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "平和の ⟨うちに⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜てはならない"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "行う"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "目に"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "君たちの"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:59.504888533Z",
+  "model": "glm-5.2"
+}

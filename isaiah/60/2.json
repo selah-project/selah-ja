@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 60,
+  "translation": "見よ、闇が地を覆い、暗雲が諸国民の上に⟨横たわる⟩。しかしヤハウェはあなたの上に輝き、⟨彼の⟩栄光があなたの上に現れるからだ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨見よ⟩"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "闇が"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "覆い"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "そして暗雲が"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "諸国民の上に"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "しかしあなたの上に"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "輝き"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "そして⟨彼の⟩栄光が"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたの上に"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "現れる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:37:22.534727034Z",
+  "model": "glm-5.2"
+}

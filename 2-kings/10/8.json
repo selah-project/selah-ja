@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして使者が来て、彼に告げて言った。「彼らは王の息子たちの首を持って来ました。」すると彼は言った。「それらを二つの山にせよ。門の入り口に、朝まで。」",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして…来た"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "使者が"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "そして彼は告げた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "彼らは持って来た"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "…の首を"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の息子たち"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "置け"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それらを"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "山に"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "…の入り口に"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門の"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "朝"
+    }
+  ],
+  "timestamp": "2026-08-07T11:14:04.954148962Z",
+  "model": "glm-5.2"
+}

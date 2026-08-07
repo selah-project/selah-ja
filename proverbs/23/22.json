@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "あなたを生んだ父に聞き従え。あなたの母が年老いたからといって、軽んじるな。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "あなたの父に"
+    },
+    {
+      "surface": "זה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "あなたを生んだ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "～な"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "轻んじる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "年老いた"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "あなたの母"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:14.277124962Z",
+  "model": "glm-5.2"
+}

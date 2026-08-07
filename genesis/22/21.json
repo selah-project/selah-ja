@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "⟨את⟩ ウツを、彼の長子を、そして⟨את⟩ ブズを、彼の兄弟を、そして⟨את⟩ クムエルを、アラムの父を。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ウツ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ウツ"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "彼の長子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ブズ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ブズ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄弟"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "クムエル"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "クムエル"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラム"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:23.521482151Z",
+  "model": "glm-5.2"
+}

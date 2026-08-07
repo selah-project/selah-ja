@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてあなたは⟨את⟩贖いの座を箱の上に、上の方に置き、そして箱の中にあなたは⟨את⟩あなたに与えることとなるあかしを置く。」",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "そしてあなたは置く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "贖いの座"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "贖いの座"
+    },
+    {
+      "surface": "על",
+      "gloss": "の上に"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "箱"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "上の方に"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜の中に"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "箱"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "あなたは置く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あかし"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "あかし"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "こととなる"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "私が与える"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:44:41.500495320Z",
+  "model": "glm-5.2"
+}

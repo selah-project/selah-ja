@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 10:18",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして王は大きな象牙の玉座を造り、それを精錬された金で覆った。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…造った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "玉座"
+    },
+    {
+      "surface": "שן",
+      "gloss": "象牙の"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大きな"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "そして…それを覆った"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金で"
+    },
+    {
+      "surface": "מופז",
+      "gloss": "精錬された"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:12.704806804Z",
+  "model": "glm-5.2"
+}

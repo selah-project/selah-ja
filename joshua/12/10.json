@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "イェルシャライムの王、ひとり。ヘブロンの王、ひとり。",
+  "tokens": [
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ֨͏ם֙",
+      "gloss": "イェルシャライム"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "ひとり"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "חֶבְר֖וֹן",
+      "gloss": "ヘブロン"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "ひとり"
+    }
+  ],
+  "timestamp": "2026-08-07T16:40:28.557907564Z",
+  "model": "glm-5.2"
+}

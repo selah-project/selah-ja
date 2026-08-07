@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてヤハウェは定めの時を設け、こう言われた——「あす、ヤハウェはこの事を地において行う」。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "そして…設けた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "定めの時"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "こう言われて"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "あす"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "行う"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地において"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:08.182409041Z",
+  "model": "glm-5.2"
+}

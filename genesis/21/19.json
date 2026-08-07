@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 21:19",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "エロヒムは彼女の ⟨את⟩ 目を開かれ、彼女は水の井戸を見た。彼女は行って、水袋に ⟨את⟩ 水を満たし、 ⟨את⟩ 少年に飲ませた。",
+  "tokens": [
+    {
+      "surface": "ויפקח",
+      "gloss": "そして開かれた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼女の目"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "彼女の目"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "באר",
+      "gloss": "井戸"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "そして満たした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "水袋"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "水袋"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "そして飲ませた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "少年"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "少年"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:11.040857441Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "指揮者に。ダヴィデのミズモル。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者に"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ミズモル"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダヴィデの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:57.341016300Z",
+  "model": "glm-5.2"
+}

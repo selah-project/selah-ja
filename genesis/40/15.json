@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "なぜなら、私はヘブル人たちの地から盗み取られたからであり、またここでも私は何一つしなかった、彼らが私を⟨את⟩穴に入れた⟨理由で⟩。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "盗み取る"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "私は盗まれた"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "〜の地から"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ヘブル人たちの"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ここでも"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "私はした"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "何一つ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜であるので"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼らは置いた"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "私を穴に"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "穴に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:05.664836342Z",
+  "model": "glm-5.2"
+}

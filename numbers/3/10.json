@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして⟨את⟩アハロンと⟨את⟩その子らを任命せよ。彼らは⟨את⟩その祭司職を守る。近づく部外者は殺されるであろう。」",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アハロン"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その子ら"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "その子ら"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "あなたは任命する"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "そして彼らは守る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その祭司職"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "その祭司職"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "そして部外者"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "近づく者"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "殺される"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:30.817577937Z",
+  "model": "glm-5.2"
+}

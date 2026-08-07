@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 2:12",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてシェロモは彼の父ダビデの王座に座り、彼の王国は非常に堅く立てられた。",
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "そしてシェロモは"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "座った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "王座"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "そして堅く立てられた"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "彼の王国は"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:05.184307800Z",
+  "model": "glm-5.2"
+}

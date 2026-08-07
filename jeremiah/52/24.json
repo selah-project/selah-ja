@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "処刑人長は ⟨את⟩ セラヤを — 祭司長 — そして ⟨את⟩ ツファヌヤを — 第二の祭司 — そして ⟨את⟩ 門衛の三人を捕らえた。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "捕らえた"
+    },
+    {
+      "surface": "רב",
+      "gloss": "長"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "処刑人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "セラヤ"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "セラヤを"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "長"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ツファヌヤ"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "ツファヌヤを"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "第二の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "門衛の三人"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三人を"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "衛る者"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "門"
+    }
+  ],
+  "timestamp": "2026-08-07T11:59:37.086115226Z",
+  "model": "glm-5.2"
+}

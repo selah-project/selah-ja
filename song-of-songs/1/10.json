@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "美しくなった、あなたの頬は——飾り輪の中で——あなたの首は——宝石の連なりの中で",
+  "tokens": [
+    {
+      "surface": "נָאו֤וּ",
+      "gloss": "美しくなった"
+    },
+    {
+      "surface": "לְחָיַ֨יִךְ֙",
+      "gloss": "あなたの頬は"
+    },
+    {
+      "surface": "בַּתֹּרִ֔ים",
+      "gloss": "飾り輪の中で"
+    },
+    {
+      "surface": "צַוָּארֵ֖ךְ",
+      "gloss": "あなたの首は"
+    },
+    {
+      "surface": "בַּחֲרוּזִֽים",
+      "gloss": "宝石の連なりの中で"
+    }
+  ],
+  "timestamp": "2026-08-07T13:32:53.585189706Z",
+  "model": "glm-5.2"
+}

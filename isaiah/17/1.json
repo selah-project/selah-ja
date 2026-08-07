@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "ダマシクの託宣。見よ、ダマシクは都市 ⟨から⟩ 取り除かれ、倒壊の瓦礫の山となる。",
+  "tokens": [
+    {
+      "surface": "מַשָּׂ֖א",
+      "gloss": "託宣"
+    },
+    {
+      "surface": "דַּמָּ֑שֶׂק",
+      "gloss": "ダマシクの"
+    },
+    {
+      "surface": "הִנֵּ֤ה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "דַמֶּ֨שֶׂק֙",
+      "gloss": "ダマシクは"
+    },
+    {
+      "surface": "מוּסָ֣ר",
+      "gloss": "取り除かれ"
+    },
+    {
+      "surface": "מֵעִ֔יר",
+      "gloss": "都市 ⟨から⟩"
+    },
+    {
+      "surface": "וְהָיְתָ֖ה",
+      "gloss": "となり"
+    },
+    {
+      "surface": "מְעִ֥י",
+      "gloss": "瓦礫の山"
+    },
+    {
+      "surface": "מַפָּלָֽה",
+      "gloss": "倒壊"
+    }
+  ],
+  "timestamp": "2026-08-07T11:24:20.897036567Z",
+  "model": "glm-5.2"
+}

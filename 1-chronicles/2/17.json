@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてアビガイルは⟨את⟩アマサを産んだ。そしてアマサの父はイシュマエル人イテルであった。",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "そしてアビガイルは"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アマサ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "アマサ"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "そして〜の父"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "アマサ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "イテル"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "イシュマエル人"
+    }
+  ],
+  "timestamp": "2026-08-07T13:58:56.531510346Z",
+  "model": "glm-5.2"
+}

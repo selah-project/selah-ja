@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして彼は聖なる注ぎ油を造った。⟨את⟩香油の、聖なるものを。そして⟨את⟩純粋な香料の乳香を、調合師のわざとして。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は造った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "注ぎ油"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "注ぎの"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "乳香"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "乳香"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "香料の"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純粋な"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "わざ"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "調合師の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:05.551817007Z",
+  "model": "glm-5.2"
+}

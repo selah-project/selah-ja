@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 25:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "暑さが渇いた地にあるように、⟨あなたは⟩異国人の騒ぎを屈服させる。雲の陰にある暑さのように、暴虐者のもつれ歌は低くされる。",
+  "tokens": [
+    {
+      "surface": "כחרב",
+      "gloss": "暑さのように"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "渇いた地に"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "騒ぎを"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "異国人の"
+    },
+    {
+      "surface": "תכניע",
+      "gloss": "⟨あなたは⟩屈服させる"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "暑さを"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "陰にある"
+    },
+    {
+      "surface": "עב",
+      "gloss": "雲の"
+    },
+    {
+      "surface": "זמיר",
+      "gloss": "もつれ歌は"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "暴虐者の"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "低くされる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:06.542313349Z",
+  "model": "glm-5.2"
+}

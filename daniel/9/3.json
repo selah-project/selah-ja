@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "わたしは顔を⟨את⟩セットした、アドナイ、そのエロヒムのほうに、祈りと嘆願を求めて、断食と荒布と灰のうちに。",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "わたしは…セットした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの顔"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のほうに"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "そのエロヒム"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "求めて"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "祈り"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "と嘆願"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "断食のうちに"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "と荒布"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "と灰"
+    }
+  ],
+  "timestamp": "2026-08-07T13:47:23.244397050Z",
+  "model": "glm-5.2"
+}

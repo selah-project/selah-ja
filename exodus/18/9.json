@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 18:9",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "イェトロは、ヤハウェがイスラエルのために行なわれたすべての良いことについて、ヤハウェが⟨彼⟩をミツライムの手から救い出されたことに喜んだ。",
+  "tokens": [
+    {
+      "surface": "ויחד",
+      "gloss": "喜んだ"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "イェトロは"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "良いこと"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行なわれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "イスラエルのために"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "救い出された"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "〜の手から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:49.832456233Z",
+  "model": "glm-5.2"
+}

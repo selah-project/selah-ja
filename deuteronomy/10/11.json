@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてヤハウェは私に言われた。「立って旅立て、民の前に。そして彼らははいり、所有するであろう、⟨את⟩その地を、私が彼らの父祖たちに誓った、彼らに与えるために。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "קום",
+      "gloss": "立って"
+    },
+    {
+      "surface": "לך",
+      "gloss": "旅立て"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "出発して"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "そして彼らははいる"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "そして所有する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "私が誓った"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "彼らの父祖たちに"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "与えるために"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:10:48.679609808Z",
+  "model": "glm-5.2"
+}

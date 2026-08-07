@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "しかし祭司の娘が、もしよそ者の男のものとなるなら、彼女は聖なるものの捧げ物を食べてはならない。",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "しかし〜の娘"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "כי",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "彼女が〜となる"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "男のものに"
+    },
+    {
+      "surface": "זר",
+      "gloss": "よそ者の"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼女は"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "捧げ物の"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "彼女は食べる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:52.883868972Z",
+  "model": "glm-5.2"
+}

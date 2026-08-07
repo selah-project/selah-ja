@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "そして彼らの上に食べるためのマンを降らせ、天の穀物を彼らに与えた。",
+  "tokens": [
+    {
+      "surface": "וַיַּמְטֵ֬ר",
+      "gloss": "降らせ"
+    },
+    {
+      "surface": "עֲלֵיהֶ֣ם",
+      "gloss": "彼らの上に"
+    },
+    {
+      "surface": "מָ֣ן",
+      "gloss": "マンを"
+    },
+    {
+      "surface": "לֶאֱכֹ֑ל",
+      "gloss": "食べるための"
+    },
+    {
+      "surface": "וּדְגַן",
+      "gloss": "穀物を"
+    },
+    {
+      "surface": "שָׁמַ֗יִם",
+      "gloss": "天の"
+    },
+    {
+      "surface": "נָ֣תַן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "לָֽמוֹ",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:27.528587995Z",
+  "model": "glm-5.2"
+}

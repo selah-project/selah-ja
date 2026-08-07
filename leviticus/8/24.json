@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 8:24",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてアハロンの子らを近づけ、モーシェは血のうちから彼らの右の耳の先に、また彼らの右の手の親指に、また彼らの右の足の親指につけた。そしてモーシェは⟨את⟩血を祭壇の周囲に振りかけた。",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "近づけ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アハロンの子ら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロンの"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "つけた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜のうちから"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "先"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "彼らの耳の"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右の"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "また〜に"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "親指"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "彼らの手の"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右の"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "また〜に"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "親指"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "彼らの足の"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右の"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "振りかけた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:49.274178758Z",
+  "model": "glm-5.2"
+}

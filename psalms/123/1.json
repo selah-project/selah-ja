@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 123,
+  "translation": "上りの歌。あなたに向かって私は⟨את⟩私の目を上げます、天に座しておられる方よ。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上りの"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに向かって"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "私は上げた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の目"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "私の目"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "座しておられる方"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "天に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:11.752142872Z",
+  "model": "glm-5.2"
+}

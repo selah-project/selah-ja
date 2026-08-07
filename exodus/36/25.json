@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そして幕屋の第二の側、北の方向のために、二十枚の板を造った。",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "そして〜の側のために"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋の"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "第二の"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "〜の方向の"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造った"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "板"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:39.686660828Z",
+  "model": "glm-5.2"
+}

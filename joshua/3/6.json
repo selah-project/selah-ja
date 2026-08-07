@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてヤホシュアは祭司たちに言った。「⟨את⟩契約の箱を担ぎ、民の前に渡れ。」彼らは⟨את⟩契約の箱を担ぎ、民の前に歩いた。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヤホシュア"
+    },
+    {
+      "surface": "אל",
+      "gloss": "に"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "担げ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "契約の箱"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "契約の"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "渡れ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "彼らは…担いだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "契約の箱"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "契約の"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "彼らは…歩いた"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    }
+  ],
+  "timestamp": "2026-08-07T10:24:18.662320778Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして彼女は書簡の中に書いて言った。「断食を呼びかけよ。そしてナボテを民の先頭に座らせよ。」",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "そして彼女は書いた"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "書簡の中に"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "呼びかけよ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "断食を"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "そして座らせよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナボテ"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ナボテを"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "〜の先頭に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:04.357317031Z",
+  "model": "glm-5.2"
+}

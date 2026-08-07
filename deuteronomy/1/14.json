@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "するとあなたがたは私に答えて言った。「あなたが行うために語った⟨その⟩ことは良い。」",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "そしてあなたがたは答えた"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "私"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨その⟩ことは"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "あなたが語った"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行うために"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:23.920080514Z",
+  "model": "glm-5.2"
+}

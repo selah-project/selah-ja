@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 1:3",
+  "book": "nahum",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ヤハウェは怒り ⟨遅く⟩、力 ⟨大いなる⟩ ⟨者⟩。全く免罪することはない、ヤハウェは。旋風の中に、暴風の中に、その道 ⟨がある⟩。雲はその足の埃。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "遅く"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "怒り（⟨鼻⟩）"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "かつ ⟨大いなる⟩"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "かつ免罪する"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "全く免罪する"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "旋風の中に"
+    },
+    {
+      "surface": "ובשערה",
+      "gloss": "暴風の中に"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "その道"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "雲（かつ）"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "埃"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "その足 ⟨の⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:27:49.918421106Z",
+  "model": "glm-5.2"
+}

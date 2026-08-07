@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 74,
+  "translation": "あなたは御力で海を砕き、水の上の⟨海竜たち⟩の頭を折り折った。",
+  "tokens": [
+    {
+      "surface": "אַתָּה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "פוֹרַרְתָּ",
+      "gloss": "砕き"
+    },
+    {
+      "surface": "בְעָזְּךָ",
+      "gloss": "御力で"
+    },
+    {
+      "surface": "יָם",
+      "gloss": "海を"
+    },
+    {
+      "surface": "שִׁבַּרְתָּ",
+      "gloss": "折り折った"
+    },
+    {
+      "surface": "רָאשֵׁי",
+      "gloss": "頭を"
+    },
+    {
+      "surface": "תַּנִּינִים",
+      "gloss": "海竜たちの"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "の上の"
+    },
+    {
+      "surface": "הַמָּיִם",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:38.801207306Z",
+  "model": "glm-5.2"
+}

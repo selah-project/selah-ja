@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "アヒマアツ ⟨は⟩ ナフタリに ⟨いた⟩。彼もまた ⟨את⟩ バスマテを、シェロモの娘を、妻として娶った。",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "アヒマアツ"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "ナフタリに"
+    },
+    {
+      "surface": "גם",
+      "gloss": "もまた"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "娶った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "バスマテ"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "バスマテを"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモの"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "妻として"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:30.985626326Z",
+  "model": "glm-5.2"
+}

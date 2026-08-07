@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 87,
+  "translation": "コラフの子ら⟨の⟩、みざふぉる、歌。その基は聖なる山々に⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "コラフ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "みざふぉる"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "その基"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "山々に"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:24.596699138Z",
+  "model": "glm-5.2"
+}

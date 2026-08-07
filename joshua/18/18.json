@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 18:18",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてアラバの北側に面する肩に向かって通り過ぎ、アラバに下った。",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "そして通り過ぎた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ向かって"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "肩"
+    },
+    {
+      "surface": "מול",
+      "gloss": "〜に面する"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "アラバ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "北の"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "そして下った"
+    },
+    {
+      "surface": "הערבתה",
+      "gloss": "アラバへ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:28:52.277688484Z",
+  "model": "glm-5.2"
+}

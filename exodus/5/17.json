@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 5:17",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "すると⟨彼は⟩言った——なまけ者だ、おまえたちはなまけ者だ、だからこそおまえたちは言っている、『行こう、ヤハウェに犠牲を屠ろう』と。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "すると言った"
+    },
+    {
+      "surface": "נרפים",
+      "gloss": "なまけ者だ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "おまえたちは"
+    },
+    {
+      "surface": "נרפים",
+      "gloss": "なまけ者だ"
+    },
+    {
+      "surface": "על",
+      "gloss": "だからこそ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "（前語に連なる）"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "おまえたちは"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "言っている"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "行こう"
+    },
+    {
+      "surface": "נזבחה",
+      "gloss": "犠牲を屠ろう"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:11.345555403Z",
+  "model": "glm-5.2"
+}

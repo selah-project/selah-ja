@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 7:4",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして彼らとともに、その系譜において、彼らの父祖の家に属し、戦いの軍勢の部隊 — 三万六千。彼らは妻と子らを増し加えたからである。",
+  "tokens": [
+    {
+      "surface": "ועליהם",
+      "gloss": "そして彼らとともに"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "その系譜において"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "〜の家の"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "彼らの父祖"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "部隊"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "軍勢の"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦いの"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "および六"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "彼らは増し加えた"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "妻を"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "および子らを"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:41.887834101Z",
+  "model": "glm-5.2"
+}

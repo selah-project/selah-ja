@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "そしてツォルの娘は贈り物と共に、⟨あなたの⟩顔を慕い求める、民の富裕者たちが。",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "そして娘"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ツォル"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "贈り物と共に"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの顔"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "慕い求める"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "富裕者たち"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:59.237404153Z",
+  "model": "glm-5.2"
+}

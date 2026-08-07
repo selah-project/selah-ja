@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "羊と牛、それらすべて、さらに野の獣も、",
+  "tokens": [
+    {
+      "surface": "צֹנֶ֣ה",
+      "gloss": "羊"
+    },
+    {
+      "surface": "וַאֲלָפִ֣ים",
+      "gloss": "そして牛"
+    },
+    {
+      "surface": "כֻּלָּ֑ם",
+      "gloss": "それらすべて"
+    },
+    {
+      "surface": "וְ֝גַ֗ם",
+      "gloss": "さらにまた"
+    },
+    {
+      "surface": "בַּהֲמ֥וֹת",
+      "gloss": "獣"
+    },
+    {
+      "surface": "שָׂדָֽי",
+      "gloss": "野の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:27.562799980Z",
+  "model": "glm-5.2"
+}

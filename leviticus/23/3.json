@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 23:3",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "六日の間、仕事がなされる。そして第七日は安息の安息日、聖なる召集。いかなる仕事もしてはならない。それはあなたたちのすべての住処においてヤハウェへの安息日である。",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "六"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日の"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "なされる"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "仕事"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "そして〜日に"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "安息日"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "安息の"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "召集"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "כל",
+      "gloss": "いかなる"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "仕事も"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "あなたたちはしては"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "安息日"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは〜である"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェへの"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "あなたたちの住処において"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:05.380265802Z",
+  "model": "glm-5.2"
+}

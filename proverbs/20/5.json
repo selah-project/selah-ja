@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "深い水のようなのが、人の心の中の計画、そして理解のある人はそれをくみ上げる。",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "深い"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "計画"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "心の中の"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "そして〜の人"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "理解"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "それをくみ上げる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:19.994789547Z",
+  "model": "glm-5.2"
+}

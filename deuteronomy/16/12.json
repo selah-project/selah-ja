@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてあなたは、あなたがミツライムで奴隷であったことを覚え、これらの⟨את⟩定めを守り行わなければならない。",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "そしてあなたは覚える"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…を"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴隷"
+    },
+    {
+      "surface": "היית",
+      "gloss": "あなたは…であった"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ミツライムで"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "そしてあなたは守る"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "そしてあなたは行う"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらの定め"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "定め"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:24:42.472225621Z",
+  "model": "glm-5.2"
+}

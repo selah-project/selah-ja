@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "「れんがは倒れた、しかし切り石で築こう。桑無花果の木は切り倒された、しかし杉の木に替えよう」",
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "れんがは"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "倒れた"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "しかし切り石で"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "築こう"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "桑無花果の木は"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "切り倒された"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "しかし杉の木に"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "替えよう"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:46.223700947Z",
+  "model": "glm-5.2"
+}

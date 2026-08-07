@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてシャハライムは、彼が彼女たちを送り出したのち、フシムと⟨את⟩バアラその妻たちをモアブの野で子を生んだ。",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "そしてシャハライムは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "…を生んだ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "…の野で"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…ののち"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "彼が送り出した"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩彼女たち",
+      "marks": "フシムとバアラ"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "フシム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "バアラ"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "バアラ"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "彼の妻たち"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:46.156531642Z",
+  "model": "glm-5.2"
+}

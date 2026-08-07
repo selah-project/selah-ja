@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "そして彼は取った、⟨את⟩自分の兄弟たちを、自分と共に。そして彼は追跡した、彼の後を、七日の道のりを。そして彼は追いついた、彼に、ギルアドの山で。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして彼は取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の兄弟たち"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "自分の兄弟たち"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "自分と共に"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "そして彼は追跡した"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "彼の後を"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道のり"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七つの"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "そして彼は追いついた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "〜の山で"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ギルアド"
+    }
+  ],
+  "timestamp": "2026-08-07T09:02:20.161108347Z",
+  "model": "glm-5.2"
+}

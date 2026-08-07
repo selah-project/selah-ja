@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "やぎは⟨את⟩彼らのすべての不義をその上に負って、分離された地へ運び、⟨そして⟩⟨את⟩そのやぎを荒野に放つ。",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "そして負う"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "そのやぎ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "彼らの不義"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "分離された"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "そして放つ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "そのやぎ"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "そのやぎ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:55.545762995Z",
+  "model": "glm-5.2"
+}

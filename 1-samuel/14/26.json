@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 14:26",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして民が森に入ると、見よ、蜜の流れがあった。しかし⟨誰も⟩自分の手を口に伸ばさなかった。民が⟨את⟩誓いを恐れたからである。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして…が入ると"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "היער",
+      "gloss": "森"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "流れ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "蜜の"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "しかし…なかった"
+    },
+    {
+      "surface": "משיג",
+      "gloss": "伸ばす者"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "自分の手を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "自分の口に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "恐れた"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民が"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "誓い"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "誓い"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:57.697127623Z",
+  "model": "glm-5.2"
+}

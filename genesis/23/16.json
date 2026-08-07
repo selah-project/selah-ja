@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 23:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "アブラハムはエフロンに従った。そしてアブラハムはエフロンに、彼がヘテの子らの耳に語った ⟨את⟩ その銀の ⟨額⟩ を量った — 商人 ⟨の間で⟩ 通貨 ⟨として⟩ 通る銀四百シェケル。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "そして聞き入れた"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハムは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "エフロン"
+    },
+    {
+      "surface": "וישקל",
+      "gloss": "そして量った"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハムは"
+    },
+    {
+      "surface": "לעפרן",
+      "gloss": "エフロンに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その銀"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "その銀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "彼が語った"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "〜の耳に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ヘテの"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "シェケル"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "通る"
+    },
+    {
+      "surface": "לסחר",
+      "gloss": "商人のために"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:41.746164129Z",
+  "model": "glm-5.2"
+}

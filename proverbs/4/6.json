@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "彼女を捨てるな、そうすれば彼女はあなたを守る。彼女を愛せよ、そうすれば彼女はあなたを守る。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "彼女を捨てる"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "そして彼女はあなたを守る"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "彼女を愛せよ"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "そして彼女はあなたを守る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:11.604193603Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてヤコブはラケルのために七年間働いた。そして彼の目には数日のように思われた、彼が⟨את⟩彼女を愛していたために。",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "そして働いた"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤコブは"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "ラケルのために"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年間"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "そして〜のようであった"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "彼の目には"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "数日のように"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": ""
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "彼が愛していたために"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "彼女"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:29.939725474Z",
+  "model": "glm-5.2"
+}

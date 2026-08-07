@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして ⟨את⟩ 家の入り口にいた男たちを、小さい者から大きい者まで、盲目をもって打った。そして彼らは入り口を見つけることに疲れ果てた。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "かの男たちを"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "かの男たちを"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜なる"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口に"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "彼らは打った"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "盲目をもって"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "小さい者から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大きい者"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "そして彼らは疲れ果てた"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "見つけることに"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "入り口を"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:28.439530304Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 28:8",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "穴へと彼らはあなたを下らせ、そしてあなたは刺し殺された者の死に方で、海の真ん中で死ぬであろう。",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "穴へと"
+    },
+    {
+      "surface": "יורדוך",
+      "gloss": "彼らはあなたを下らせ"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "そしてあなたは死ぬであろう"
+    },
+    {
+      "surface": "ממותי",
+      "gloss": "〜の死に方で"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "刺し殺された者の"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "真ん中で"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "海の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:09:43.406941791Z",
+  "model": "glm-5.2"
+}

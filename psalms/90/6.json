@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 90,
+  "translation": "朝には花咲き、移り変わる。夕には刈り取られ、枯れる。",
+  "tokens": [
+    {
+      "surface": "בַּ֭בֹּקֶר",
+      "gloss": "朝に"
+    },
+    {
+      "surface": "יָצִ֣יץ",
+      "gloss": "花咲き"
+    },
+    {
+      "surface": "וְחָלָ֑ף",
+      "gloss": "移り変わる"
+    },
+    {
+      "surface": "לָ֝עֶ֗רֶב",
+      "gloss": "夕に"
+    },
+    {
+      "surface": "יְמוֹלֵ֥ל",
+      "gloss": "刈り取られ"
+    },
+    {
+      "surface": "וְיָבֵֽשׁ",
+      "gloss": "枯れる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:55.403688040Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そこで王は自分の指輪を、⟨את⟩彼の印戒を手から外し、それをハマンに与えた — ハメダタの子、アガグ人、ユダヤ人の敵であるハマンに。",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "そして外した"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の印戒"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "彼の印戒"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜の上から"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "そして与えた"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "ハマンに"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ハメダタの"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "アガグ人"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "敵"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ユダヤ人の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:41:38.387053940Z",
+  "model": "glm-5.2"
+}

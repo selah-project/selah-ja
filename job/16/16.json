@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 16:16",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "私の顔は泣きによって赤く熱し、私のまぶたの上には死の影がある。",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "私の顔は"
+    },
+    {
+      "surface": "חמרמרה",
+      "gloss": "赤く熱する"
+    },
+    {
+      "surface": "מני",
+      "gloss": "〜によって"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "泣き"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "עפעפי",
+      "gloss": "私のまぶたの"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "死の影がある"
+    }
+  ],
+  "timestamp": "2026-08-07T13:24:35.275918368Z",
+  "model": "glm-5.2"
+}

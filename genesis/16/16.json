@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてアブラムは八十六年、ハガルが ⟨את⟩ イシュマエルをアブラムに産んだとき。",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "そしてアブラムは"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の歳で"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "八十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "と六"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "…が産んだとき"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ハガルが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イシュマエル"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "イシュマエルを"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "アブラムに"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:20.623093198Z",
+  "model": "glm-5.2"
+}

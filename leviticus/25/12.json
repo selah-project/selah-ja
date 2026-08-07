@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "それはヨベルだからである、⟨それは⟩あなたたちにとって聖なるものとなる。野から⟨その⟩産物を、あなたたちは食べる。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だからである"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ヨベル"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨それは⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちにとって"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたたちは食べる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その産物"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "その産物"
+    }
+  ],
+  "timestamp": "2026-08-07T14:23:25.571542468Z",
+  "model": "glm-5.2"
+}

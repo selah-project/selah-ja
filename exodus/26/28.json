@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そして中央の横木は板の中途に、端から端まで貫通する。",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "そしてその横木"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "中央の"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "…の中途に"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "その板"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "貫通する"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "その端"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "その端"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:13.716946311Z",
+  "model": "glm-5.2"
+}

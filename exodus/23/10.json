@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "六年間、あなたは⟨את⟩ あなたの地に種を蒔き、⟨את⟩ その収穫を集めよ。",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "そして六"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年間"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "種を蒔く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの地"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "あなたの地"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "そして集める"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その収穫"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "その収穫"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:58.035158573Z",
+  "model": "glm-5.2"
+}

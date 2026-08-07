@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてヤハウェはモシェに言われた——民の前に進め、イスラエルの長老たちのうち何人かを共に連れて行け。あなたが ⟨את⟩ 川を打ったあの杖を手に取って、行け。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "進め"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "そして取れ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "長老たちのうちから"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "そしてあなたの杖"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "あなたが打った"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それで"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "川"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "川"
+    },
+    {
+      "surface": "קח",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "あなたの手に"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "そして行け"
+    }
+  ],
+  "timestamp": "2026-08-07T09:21:59.630984755Z",
+  "model": "glm-5.2"
+}

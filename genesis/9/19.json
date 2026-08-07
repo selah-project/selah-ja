@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "これら三人、ノアの息子たち。そして、これらから全地は散らされた。",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "三人"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の息子たち"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノア"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "そして、これらから"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "散らされた"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T17:42:22.700481671Z",
+  "model": "glm-5.2"
+}

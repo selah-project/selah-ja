@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "彼は⟨את⟩上ベテ・ホロンと⟨את⟩下ベテ・ホロンを建てた。城塞の町々、城壁、扉、および閂を備えた⟨町⟩。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "そして彼は建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ベテ・ホロン"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベテ"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "・ホロン"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "上の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ベテ・ホロン"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベテ"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "・ホロン"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "下の"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "町々"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "城塞"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "城壁"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "扉"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "および閂"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:42.771443422Z",
+  "model": "glm-5.2"
+}

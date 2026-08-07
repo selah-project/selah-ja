@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そして⟨彼⟩は彼の手を⟨את⟩彼の上に置き、彼に命じた ― ヤハウェがモーシェの手によって語られたように。",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "そして…置いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の手"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼の上に"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "そして彼に命じた"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…の手によって"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:24:06.544918548Z",
+  "model": "glm-5.2"
+}

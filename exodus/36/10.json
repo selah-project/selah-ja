@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そして彼は⟨את⟩五枚の天幕を一枚に合わせ、もう五枚の天幕を一枚に合わせた。",
+  "tokens": [
+    {
+      "surface": "וַיְחַבֵּר",
+      "gloss": "そして彼は合わせた"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "五枚の天幕"
+    },
+    {
+      "surface": "חֲמֵשׁ",
+      "gloss": "五"
+    },
+    {
+      "surface": "הַיְרִיעֹת",
+      "gloss": "天幕を"
+    },
+    {
+      "surface": "אַחַת",
+      "gloss": "一つ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אֶחָת",
+      "gloss": "一つ"
+    },
+    {
+      "surface": "וְחָמֵשׁ",
+      "gloss": "そして五"
+    },
+    {
+      "surface": "יְרִיעֹת",
+      "gloss": "天幕を"
+    },
+    {
+      "surface": "חִבַּר",
+      "gloss": "合わせた"
+    },
+    {
+      "surface": "אַחַת",
+      "gloss": "一つ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אֶחָת",
+      "gloss": "一つ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:00.210298075Z",
+  "model": "glm-5.2"
+}

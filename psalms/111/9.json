@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 111,
+  "translation": "贖いを ⟨⟨彼⟩⟩はご自身の民に遣わされた。⟨⟨彼⟩⟩はご自身の契約をとこしえに命じられた。聖にして畏るべきは ⟨⟨彼⟩⟩の御名。",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "贖いを"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "遣わされた"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ご自身の民に"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じられた"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ご自身の契約を"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "そして畏るべき"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "御名"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:35.489195339Z",
+  "model": "glm-5.2"
+}

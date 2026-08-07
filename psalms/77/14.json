@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 77,
+  "translation": "エロヒム、聖なるもののうちに⟨ある⟩あなたの道。だれか、エロヒムのような大いなるエルが⟨いるだろうか⟩。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "聖なるもののうちに"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "あなたの道"
+    },
+    {
+      "surface": "מי",
+      "gloss": "だれか"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "エロヒムのような"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:41.093391895Z",
+  "model": "glm-5.2"
+}

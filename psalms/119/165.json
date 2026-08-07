@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "豊かなシャロームが⟨あなたの⟩律法を愛する者たちにあり、彼らにとってつまずきはない。",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "シャローム"
+    },
+    {
+      "surface": "רב",
+      "gloss": "豊かな"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "…を愛する者たちに"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "あなたの律法"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして…はない"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼らにとって"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "つまずき"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:44.267829971Z",
+  "model": "glm-5.2"
+}

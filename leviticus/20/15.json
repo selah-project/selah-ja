@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "また男で、家畜に寝床を置く者、彼は必ず殺される、そして⟨את⟩その家畜をあなたがたは殺さなければならない",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "また男"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である者"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "置く"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "彼の寝床"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "家畜に"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "殺される"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その家畜"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "その家畜"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "あなたがたは殺さなければならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:08.812878235Z",
+  "model": "glm-5.2"
+}

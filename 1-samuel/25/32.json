@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 25:32",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "ダビデはアビガイルに言った。「イスラエルのエロヒム、ヤハウェはほむべき方。今日、私を迎えるためにあなたを遣わされた方。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "לאביגל",
+      "gloss": "アビガイルに"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ほむべき方"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "〜のエロヒム"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "その方は"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "あなたを遣わされた"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "私を迎えるために"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:02.770210525Z",
+  "model": "glm-5.2"
+}

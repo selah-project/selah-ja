@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 77,
+  "translation": "あなたは腕をもってあなたの民を贖った — ヤアコブの子らとヨセフの子らを。セラ。",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "あなたは贖った"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "腕をもって"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたの民を"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子らを"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "そしてヨセフ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:41.093546738Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "雲で天を覆い、地に雨を備え、山々に草を芽生えさせる方。",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "覆い"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天を"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "雲で"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "備え"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "雨を"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "芽生えさせる"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山々に"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:53.700253403Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "これらすべてが私たちに臨んだが、私たちはあなたを忘れなかったし、あなたの契約に偽らなかった。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これら"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "私たちに臨んだ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "私たちはあなたを忘れなかった"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "私たちは偰らなかった"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "あなたの契約に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:43.690995857Z",
+  "model": "glm-5.2"
+}

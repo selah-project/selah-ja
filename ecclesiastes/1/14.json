@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "私は⟨את⟩すべてのわざを見た、天の下でなされたものを。そして見よ、すべてはへベル（虚空）であり、風の牧養である。",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "わざ"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "なされたもの"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "～の下に"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "天"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "へベル（虚空）"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "そして牧養"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:58.755575785Z",
+  "model": "glm-5.2"
+}

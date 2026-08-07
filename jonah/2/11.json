@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ヤハウェは魚に告げられた。そして魚はヨナを乾いた地へ ⟨את⟩ 嘔吐した。",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֥אמֶר",
+      "gloss": "そして告げられた"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "לַדָּ֑ג",
+      "gloss": "魚に"
+    },
+    {
+      "surface": "וַיָּקֵ֥א",
+      "gloss": "そして嘔吐した"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ヨナを"
+    },
+    {
+      "surface": "יוֹנָ֖ה",
+      "gloss": "ヨナ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הַיַּבָּשָֽׁה",
+      "gloss": "乾いた地"
+    }
+  ],
+  "timestamp": "2026-08-07T12:23:41.993570948Z",
+  "model": "glm-5.2"
+}

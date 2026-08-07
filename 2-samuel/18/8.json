@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 18:8",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして戦いはそこで、全地の面の上に散らされた。そして森は、剣がその日に食べたよりも多く、民の中で食べることを増した。",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "そして"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戦いは"
+    },
+    {
+      "surface": "נפצית",
+      "gloss": "散らされた"
+    },
+    {
+      "surface": "על",
+      "gloss": "～の上に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "そして増した"
+    },
+    {
+      "surface": "היער",
+      "gloss": "森は"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "食べることを"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "民の中で"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "～よりも多く"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "食べた"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "剣が"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "その日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "あの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:54:44.940497874Z",
+  "model": "glm-5.2"
+}

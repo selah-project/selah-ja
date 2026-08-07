@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 32:30",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "どうして一人が千人を追いかけ、二人が万を逃げ走らせるのか。もしそうでなければ、彼らの岩が彼らを売り渡し、ヤハウェが彼らを引き渡された⟨の⟩でなければ。",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "どうして"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "追いかける"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一人"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "そして二人"
+    },
+    {
+      "surface": "יניסו",
+      "gloss": "逃げ走らせる"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "万"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜でなければ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "それは〜だからだ"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "彼らの岩が"
+    },
+    {
+      "surface": "מכרם",
+      "gloss": "彼らを売り渡し"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "そしてヤハウェは"
+    },
+    {
+      "surface": "הסגירם",
+      "gloss": "彼らを引き渡された"
+    }
+  ],
+  "timestamp": "2026-08-07T16:39:08.891864326Z",
+  "model": "glm-5.2"
+}

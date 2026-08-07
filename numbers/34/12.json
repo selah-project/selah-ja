@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 34:12",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そして境界はヨルデン川に沿って下り、その出口は塩の海となる。これが周囲の境界を持つ、あなたがたの地である。」",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "そして〜下る"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "境界は"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "ヨルデン川に沿って"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "その出口"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "塩の"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これが"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたの"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "その境界に従って"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:05:00.831578784Z",
+  "model": "glm-5.2"
+}

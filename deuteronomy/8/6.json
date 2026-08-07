@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてあなたは守る、ヤハウェあなたのエロヒムの ⟨את⟩ 命令を、⟨彼の⟩ 道に歩み、⟨彼を⟩ 畏れるために。",
+  "tokens": [
+    {
+      "surface": "וְשָׁמַרְתָּ",
+      "gloss": "そしてあなたは守る"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "命令"
+    },
+    {
+      "surface": "מִצְוֺת",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "לָלֶכֶת",
+      "gloss": "歩むために"
+    },
+    {
+      "surface": "בִּדְרָכָיו",
+      "gloss": "⟨彼の⟩道に"
+    },
+    {
+      "surface": "וּלְיִרְאָה",
+      "gloss": "そして畏れるために"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨彼を⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T10:09:48.258805534Z",
+  "model": "glm-5.2"
+}

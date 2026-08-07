@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 6:22",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして ⟨את⟩ 家の全体を彼は金で覆い、家の全体が完成するまで至った。また、デビルに属する ⟨את⟩ 祭壇の全体も彼は金で覆った。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして ⟨את⟩",
+      "marks": "家の全体を"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全体を"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "彼は覆った"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金で"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "תם",
+      "gloss": "完成した"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全体が"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "また〜の全体も"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜に属する"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "デビル"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "彼は覆った"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:25.437942562Z",
+  "model": "glm-5.2"
+}

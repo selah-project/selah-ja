@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 118,
+  "translation": "私の力、わたしの歌はヤハ、そして⟨それは⟩私に救いとなった。",
+  "tokens": [
+    {
+      "surface": "עָזִּ֣י",
+      "gloss": "私の力"
+    },
+    {
+      "surface": "וְזִמְרָ֣ת",
+      "gloss": "わたしの歌は"
+    },
+    {
+      "surface": "יָ֑הּ",
+      "gloss": "ヤハ"
+    },
+    {
+      "surface": "וַֽיְהִי",
+      "gloss": "そして⟨それは⟩…となった"
+    },
+    {
+      "surface": "לִ֝֗י",
+      "gloss": "私に"
+    },
+    {
+      "surface": "לִֽישׁוּעָֽה",
+      "gloss": "救い"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:03.304796705Z",
+  "model": "glm-5.2"
+}

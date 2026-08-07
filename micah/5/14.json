@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "わたしは怒りと憤りをもって、聞き従わなかったもろもろの国々に ⟨את⟩ 復讐を行う。",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "わたしは…行う"
+    },
+    {
+      "surface": "באף",
+      "gloss": "怒りをもって"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "憤りをもって"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "復讐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "もろもろの国々"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "もろもろの国々"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聞き従わなかった"
+    }
+  ],
+  "timestamp": "2026-08-07T12:23:44.621587853Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして第五年には、あなたがたは⟨את⟩その実を食べて、あなたがたにその収穫を増し加えるであろう。わたしはあなたがたのエロヒム、ヤハウェである。",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "そして…年に"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "第五の"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたがたは食べる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その実"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "その実"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "増し加えるために"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "その収穫"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "あなたがたのエロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:40:54.591539898Z",
+  "model": "glm-5.2"
+}

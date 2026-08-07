@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "アハロンの子らのうち、シャレムの献げ物の血と脂肪を近づけて献げる者、彼に右のももが分け前として ⟨ある⟩ べきである。",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "近づけて献げる者"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "シャレムの献げ物の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "脂肪"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "〜の子らのうち"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロンの"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "〜であるべき"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "もも"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "右の"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "分け前として"
+    }
+  ],
+  "timestamp": "2026-08-07T16:30:05.096388631Z",
+  "model": "glm-5.2"
+}

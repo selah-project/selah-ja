@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして両者よりも良いのは ⟨את⟩、今まで存在しなかった者 — 太陽の下で行われる悪い業を ⟨את⟩ 見なかった者である。",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "そして〜良い"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "両者よりも"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "〜者"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "今まで"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "היה",
+      "gloss": "存在した"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "見なかった"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "悪い業"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "業を"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "行われる"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下で"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:45.047065779Z",
+  "model": "glm-5.2"
+}

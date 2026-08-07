@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "わたしは彼の手を海に、彼の右の手を川々に置く。",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "わたしは置く"
+    },
+    {
+      "surface": "בים",
+      "gloss": "海に"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手を"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "そして川々に"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "彼の右の手を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:24.666491869Z",
+  "model": "glm-5.2"
+}

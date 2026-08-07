@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 141,
+  "translation": "悪者たちが、自分たちの網の中に落ちますように。私だけが、渡るまで、共に⟨いたりません⟩。",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "落ちますように"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "自分たちの網の中に"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たちが"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "共に"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私だけが"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "渡る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:14.346524700Z",
+  "model": "glm-5.2"
+}

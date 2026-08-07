@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 121,
+  "translation": "上りの歌。私が山々に目を上げる — 私の助けはどこから来るのか。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "上りの"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "私は上げる"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "私の目を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "山々"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "どこから"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "来るのか"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "私の助けは"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:14.926595054Z",
+  "model": "glm-5.2"
+}

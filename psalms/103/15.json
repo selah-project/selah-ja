@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 103,
+  "translation": "人 — ⟨彼の⟩日は牧草のよう。野の花のように、そのように⟨彼は⟩花開く。",
+  "tokens": [
+    {
+      "surface": "אֱ֭נוֹשׁ",
+      "gloss": "人"
+    },
+    {
+      "surface": "כֶּחָצִ֣יר",
+      "gloss": "牧草のよう"
+    },
+    {
+      "surface": "יָמָ֑יו",
+      "gloss": "⟨彼の⟩日"
+    },
+    {
+      "surface": "כְּצִ֥יץ",
+      "gloss": "花のよう"
+    },
+    {
+      "surface": "הַ֝שָּׂדֶ֗ה",
+      "gloss": "野の"
+    },
+    {
+      "surface": "כֵּ֣ן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "יָצִֽיץ",
+      "gloss": "花開く"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:54.970227990Z",
+  "model": "glm-5.2"
+}

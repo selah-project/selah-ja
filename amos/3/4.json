@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "獅子は森で吼えるだろうか、獲物が彼になければ。若獅子はその隠れ処から声を出すだろうか、捕えていなければ。",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "吼えるだろうか"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "獅子は"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "森で"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "獲物が"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "出すだろうか"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "若獅子は"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "その声を"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "その隠れ処から"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "〜でなければ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし〜でなければ"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "捕えている"
+    }
+  ],
+  "timestamp": "2026-08-07T12:21:31.614129300Z",
+  "model": "glm-5.2"
+}

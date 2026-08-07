@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "ヤハウェ、われらの主よ、あなたの御名は全地においていかに威大であることか。あなたの威光を天の上に置かれた方よ。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "われらの主よ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "いかに"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "威大であることか"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの御名は"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地において"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜の方よ"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "置かれた"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "あなたの威光を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:53.171211845Z",
+  "model": "glm-5.2"
+}

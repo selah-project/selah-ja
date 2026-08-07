@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "新しいぶどう酒は悼み、葡萄の木は衰えた。心の喜ぶ者たちがすべて嘆き息をつく。",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "悼んだ"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "新しいぶどう酒は"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "衰えた"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "葡萄の木は"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "嘆き息をついた"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "喜ぶ者たち"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:11.947368854Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "見よ、 彼らの勇士⟨たち⟩は外に向かって叫び、 平和の使い⟨たち⟩は苦々しく泣く。",
+  "tokens": [
+    {
+      "surface": "הֵן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אַרְאֵלָּם",
+      "gloss": "彼らの勇士"
+    },
+    {
+      "surface": "צָעֲקוּ",
+      "gloss": "叫ぶ"
+    },
+    {
+      "surface": "חוּץ",
+      "gloss": "外に"
+    },
+    {
+      "surface": "מַלְאֲכֵי",
+      "gloss": "使い"
+    },
+    {
+      "surface": "שָׁלוֹם",
+      "gloss": "平和の"
+    },
+    {
+      "surface": "מַר",
+      "gloss": "苦々しく"
+    },
+    {
+      "surface": "יִבְכְּיוּן",
+      "gloss": "泣く"
+    }
+  ],
+  "timestamp": "2026-08-07T11:28:02.689669408Z",
+  "model": "glm-5.2"
+}

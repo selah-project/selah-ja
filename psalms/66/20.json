@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "讃えられる、エロヒム、それは⟨彼が⟩私の祈りを退けず、またそのヘセドを私から遠ざけなかったからである。",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "讃えられる"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは〜だからである"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "退けた\/遠ざけた"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "私の祈りを"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "またそのヘセドを"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "私から"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:45.775108310Z",
+  "model": "glm-5.2"
+}

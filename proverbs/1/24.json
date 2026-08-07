@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 1:24",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "私が呼んだのに、お前たちは拒み、私が手を伸ばしたのに、耳を傾ける者がいなかったからである。",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "〜だからである"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "私が呼んだのに"
+    },
+    {
+      "surface": "ותמאנו",
+      "gloss": "お前たちは拒み"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "私が伸ばしたのに"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "手を"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "いなかったのに"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "耳を傾ける者が"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:49.842521841Z",
+  "model": "glm-5.2"
+}

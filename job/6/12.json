@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "私の力が石の力だというのか。私の肉が青銅だというのか。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "〜というのか"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力が"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石の"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "私の力"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜というのか"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "私の肉が"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "青銅"
+    }
+  ],
+  "timestamp": "2026-08-07T13:21:39.396127906Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 25:25",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして最初の者が出た —赤色で、全身がまさに毛の衣のようであった。そして彼らはその名をエサヴと呼んだ。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして出た"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "最初の者"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "赤色の"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "彼の全身"
+    },
+    {
+      "surface": "כאדרת",
+      "gloss": "〜の衣のように"
+    },
+    {
+      "surface": "שער",
+      "gloss": "毛"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "そして彼らは呼んだ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の名を"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサヴ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:58:25.153634473Z",
+  "model": "glm-5.2"
+}

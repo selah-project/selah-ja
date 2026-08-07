@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 32:3",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "アドナイ・ヤハウェはこう言われる: そして私は多くの民の集会のうちで、あなたの上に⟨את⟩私の網を広げる。そして彼らはあなたを私の網で引き上げる。",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ופרשתי",
+      "gloss": "そして私は広げる"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたの上に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の網"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "私の網"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "…の集会のうちで"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "民"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "והעלוך",
+      "gloss": "そして彼らはあなたを引き上げる"
+    },
+    {
+      "surface": "בחרמי",
+      "gloss": "私の網で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:11:38.235024377Z",
+  "model": "glm-5.2"
+}

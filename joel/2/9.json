@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "街を⟨彼らは⟩走り回り、城壁を駆け登る。家々に登り、窓を通って盗人のように入って来る。",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "街を"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "走り回る"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "城壁を"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "駆け登る"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "家々に"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "登る"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "〜を通って"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "窓"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "入って来る"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "盗人のように"
+    }
+  ],
+  "timestamp": "2026-08-07T12:21:18.424560488Z",
+  "model": "glm-5.2"
+}

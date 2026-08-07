@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 7:3",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "あなたのへそは丸い鉢、混ぜ合わせた酒が欠けることのない⟨もの⟩。あなたの腹は小麦の積み重ね、百合の花で囲まれた⟨もの⟩。",
+  "tokens": [
+    {
+      "surface": "שררך",
+      "gloss": "あなたのへそは"
+    },
+    {
+      "surface": "אגן",
+      "gloss": "鉢"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "丸い"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "欠ける"
+    },
+    {
+      "surface": "המזג",
+      "gloss": "混ぜ合わせた酒が"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "あなたの腹は"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "積み重ね"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "小麦の"
+    },
+    {
+      "surface": "סוגה",
+      "gloss": "囲まれた"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "百合の花で"
+    }
+  ],
+  "timestamp": "2026-08-07T13:34:29.444618667Z",
+  "model": "glm-5.2"
+}

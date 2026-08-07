@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 122,
+  "translation": "上りの歌、ダヴィドによる。私に向かって言う者たちに⟨よって⟩、私は喜んだ — 「ヤハウェの家へ行こう」と。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上りの"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダヴィドによる"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "私は喜んだ"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "言う者たちに⟨よって⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "行こう"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:57.407892113Z",
+  "model": "glm-5.2"
+}

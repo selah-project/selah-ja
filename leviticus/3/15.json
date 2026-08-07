@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして⟨את⟩二つの腎臓と、腰の上にあるそれらの上の脂肪、および肝臓の上の小葉を——腎臓とともに——彼は取り除かなければならない。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "二つの腎臓"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "腎臓"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "脂肪"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "それらの上にある"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上にある"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "腰"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "小葉"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "小葉"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上の"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "肝臓"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "腎臓"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "彼はそれらを取り除く"
+    }
+  ],
+  "timestamp": "2026-08-07T09:31:00.289046431Z",
+  "model": "glm-5.2"
+}

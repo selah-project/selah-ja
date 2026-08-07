@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "そして⟨彼は⟩捕囚に⟨自分の⟩力を渡し、⟨自分の⟩栄光を敵の手に渡された。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして渡された"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "捕囚に"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "⟨自分の⟩力を"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "そして⟨自分の⟩栄光を"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手に"
+    },
+    {
+      "surface": "צר",
+      "gloss": "敵の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:16.300396782Z",
+  "model": "glm-5.2"
+}

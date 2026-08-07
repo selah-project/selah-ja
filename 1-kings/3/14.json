@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "もしあなたが私の道に歩み、私の掟と私の戒めを守るなら — あなたの父ダヴィドが歩んだように — 私はあなたの日々を長くする。」",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "あなたが歩む"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "私の道に"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "守るために"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "私の掟"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "と私の戒め"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜ように"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "歩んだ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "私は長くする"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの日々"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "あなたの日々を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:48.976383276Z",
+  "model": "glm-5.2"
+}

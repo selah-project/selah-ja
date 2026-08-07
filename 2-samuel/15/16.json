@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "王は出て行った、彼の全家と共に彼の足元に。そして王は十人の女たちを⟨את⟩、側女たちを、家を守るために残した。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして…出て行った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そして…すべての"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "彼の家"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "彼の足元に"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "そして…残した"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "十人の女たち、側女たち"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十人の"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "女たち"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "側女たち"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "守るために"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:53:34.989050426Z",
+  "model": "glm-5.2"
+}

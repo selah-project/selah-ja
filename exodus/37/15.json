@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして彼は棒を、アカシア材の木で作り、それらを金で覆った——⟨את⟩その机を担ぐためであった。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は作った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その棒"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "その棒"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "〜の木"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "アカシア材"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "そして彼は覆った"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それら"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金で"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "担ぐため"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その机"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "その机"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:29.753638898Z",
+  "model": "glm-5.2"
+}

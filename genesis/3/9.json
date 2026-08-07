@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてヤハウェ・エロヒムは人に呼びかけ、彼に言われた。「あなたはどこにいるのか。」",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "そして…呼びかけた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "その人は"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "どこにいるのか"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:49.827023153Z",
+  "model": "glm-5.2"
+}

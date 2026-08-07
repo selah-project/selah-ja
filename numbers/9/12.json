@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "彼らは朝まで何も残してはならない。またその骨を一つも折ってはならない。過ぎ越しのすべての定めにしたがって、彼らは⟨את⟩それを行わなければならない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "彼らは残す"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "それから"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "そして骨を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "彼らは折る"
+    },
+    {
+      "surface": "בו",
+      "gloss": "その中の"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "すべての〜にしたがって"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "定め"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "過ぎ越しの"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "彼らは行う"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ（過ぎ越し）"
+    }
+  ],
+  "timestamp": "2026-08-07T09:54:30.352085064Z",
+  "model": "glm-5.2"
+}

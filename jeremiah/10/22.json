@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 10:22",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "聞かれる声、見よ、⟨来ようとして⟩いる、そして大いなる激動が北の地から、⟨את⟩ユダの諸都市を荒廃とし、ジャッカルの住処⟨としようとして⟩いる。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "聞かれる"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "来る"
+    },
+    {
+      "surface": "ורעש",
+      "gloss": "そして激動"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "〜の地から"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "〜とするため"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ユダの諸都市"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "諸都市"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "荒廃"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "住処"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "ジャッカル"
+    }
+  ],
+  "timestamp": "2026-08-07T17:44:32.315556571Z",
+  "model": "glm-5.2"
+}

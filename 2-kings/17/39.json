@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "むしろ⟨あなたがたは⟩⟨את⟩ヤハウェ⟨あなたがたの⟩エロヒムを恐れよ。そうすれば⟨彼⟩はすべての敵の手からあなたがたを救い出す。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜ではなく"
+    },
+    {
+      "surface": "אם",
+      "gloss": "むしろ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "あなたがたのエロヒム"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そして⟨彼⟩"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "救い出す"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたがたを"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "手から"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "あなたがたの敵"
+    }
+  ],
+  "timestamp": "2026-08-07T11:15:54.067487336Z",
+  "model": "glm-5.2"
+}

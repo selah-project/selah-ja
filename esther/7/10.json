@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして彼らはハマンを⟨את⟩、彼がモルデカイのために準備したあの木に吊るした。こうして王の怒りは静まった。",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "そして彼らは…吊るした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ハマン"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ハマン"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "あの木"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "準備した"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "モルデカイのために"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "そして…怒り"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "静まった"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:23.121765053Z",
+  "model": "glm-5.2"
+}

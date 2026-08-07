@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして彼らはベニヤミンの子らに命じて言った。「行け、そしてぶどう園で待ち伏せせよ。」",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "そして彼らは命じた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ベニヤミンの子ら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ベニヤミンの"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "行け"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "そして待ち伏せせよ"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "ぶどう園で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:39:42.146607508Z",
+  "model": "glm-5.2"
+}

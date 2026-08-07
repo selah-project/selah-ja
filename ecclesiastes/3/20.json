@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "すべては一つの場所へ行く。すべてはちりから出 ⟨来た⟩、そしてすべてはちりに帰る。",
+  "tokens": [
+    {
+      "surface": "הַכֹּ֥ל",
+      "gloss": "すべては"
+    },
+    {
+      "surface": "הוֹלֵ֖ךְ",
+      "gloss": "行く"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "מָק֣וֹם",
+      "gloss": "場所"
+    },
+    {
+      "surface": "אֶחָ֑ד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "הַכֹּל֙",
+      "gloss": "すべては"
+    },
+    {
+      "surface": "הָיָ֣ה",
+      "gloss": "出た／来た"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "הֶֽעָפָ֔ר",
+      "gloss": "ちり"
+    },
+    {
+      "surface": "וְהַכֹּ֖ל",
+      "gloss": "そしてすべては"
+    },
+    {
+      "surface": "שָׁ֥ב",
+      "gloss": "帰る"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "הֶעָפָֽר",
+      "gloss": "ちり"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:00.203603980Z",
+  "model": "glm-5.2"
+}

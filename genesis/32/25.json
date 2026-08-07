@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "ヤアコブはひとり取り残された。すると一人の者が彼と組打ちした — 夜明けが昇るまで。",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "そして…取り残された"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ひとりで"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "そして…組打ちした"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一人の者"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "昇る"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "夜明け"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:03.815332339Z",
+  "model": "glm-5.2"
+}

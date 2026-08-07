@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "このわたし、ヤハウェ、それ⟨は⟩わたしの名、わたしの栄光を他の者には与えない、わたしの賛美を刻像に⟨は与えない⟩。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "このわたし"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "わたしの名"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "わたしの栄光を"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "他の者に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "与え"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "わたしの賛美を"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "刻像に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:15.915360273Z",
+  "model": "glm-5.2"
+}

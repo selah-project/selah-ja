@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてまた、⟨את⟩ 女奴隷の息子を、私は一つの国民とする。彼はあなたの種だからである。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "女奴隷の息子"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "女奴隷の"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "国民へ"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "私は彼を置く"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "あなたの種"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    }
+  ],
+  "timestamp": "2026-08-07T18:25:17.688554147Z",
+  "model": "glm-5.2"
+}

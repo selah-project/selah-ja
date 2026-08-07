@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "七人に分け与えよ、八人にも同様に。どんな災いが地の上に臨むか、あなたは知らないのだから。",
+  "tokens": [
+    {
+      "surface": "תֶּן",
+      "gloss": "与えよ"
+    },
+    {
+      "surface": "חֵ֥לֶק",
+      "gloss": "分け前を"
+    },
+    {
+      "surface": "לְשִׁבְעָ֖ה",
+      "gloss": "七人に"
+    },
+    {
+      "surface": "וְגַ֣ם",
+      "gloss": "…もまた"
+    },
+    {
+      "surface": "לִשְׁמוֹנָ֑ה",
+      "gloss": "八人に"
+    },
+    {
+      "surface": "כִּ֚י",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "תֵדַ֔ע",
+      "gloss": "あなたは知らない"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "何が"
+    },
+    {
+      "surface": "יִּהְיֶ֥ה",
+      "gloss": "…になるか"
+    },
+    {
+      "surface": "רָעָ֖ה",
+      "gloss": "災いが"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:30.199810653Z",
+  "model": "glm-5.2"
+}

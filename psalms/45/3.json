@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "あなたは人の子らよりも美しく、恵みがあなたの唇に注がれている。それゆえ、エロヒムはあなたをとこしへに祝福された。",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "あなたは美しい"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "〜の子らよりも"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "注がれている"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恵み"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "あなたの唇に"
+    },
+    {
+      "surface": "על",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "−"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "あなたを祝福された"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしへに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:12.735169581Z",
+  "model": "glm-5.2"
+}

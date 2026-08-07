@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして⟨את⟩至聖所の入り口について——彼はオリーブの木の扉を作った。支柱と枠は壁の五分の一であった。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "至聖所の入り口"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "至聖所の"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "作った"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "扉"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木の"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "オリーブ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "支柱"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "枠"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "五分の一"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:48.860685375Z",
+  "model": "glm-5.2"
+}

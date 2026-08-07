@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "指揮者へ。ダビデのミズモル。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者へ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ミズモル"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:08.299562361Z",
+  "model": "glm-5.2"
+}

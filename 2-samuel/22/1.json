@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "ダビデはヤハウェに向かって、この歌の⟨את⟩言葉を語った。――ヤハウェが彼をすべての敵の手から、そしてシャウルの手から救われた日に。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "歌の言葉"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "歌の"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "～の日に"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "救われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩彼を",
+      "marks": "彼"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "～の手から"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "敵"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "そして～の手から"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:44:52.350795427Z",
+  "model": "glm-5.2"
+}

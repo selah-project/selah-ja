@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 13:39",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "ダビデ王の⟨心は⟩、アブシャロムのもとへ出向くことで⟨使い果たされ⟩た。アムノンのことで慰められたからであった — ⟨彼は⟩死んでいたからである。",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "使い果たされた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "出向くことに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとへ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "アブシャロム"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "慰められた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のことで"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "アムノン"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死んでいた"
+    }
+  ],
+  "timestamp": "2026-08-07T16:46:50.093354978Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 18:14",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "野の岩からレバノンの雪は⟨捨てられるのか⟩。異邦の冷たい水、滴り流れるものは⟨引き抜かれるのか⟩。",
+  "tokens": [
+    {
+      "surface": "הֲיַעֲזֹב",
+      "gloss": "⟨捨てられるのか⟩"
+    },
+    {
+      "surface": "מִצּוּר",
+      "gloss": "岩から"
+    },
+    {
+      "surface": "שָׂדַי",
+      "gloss": "野の"
+    },
+    {
+      "surface": "שֶׁלֶג",
+      "gloss": "雪は"
+    },
+    {
+      "surface": "לְבָנוֹן",
+      "gloss": "レバノンの"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "יִנָּתְשׁוּ",
+      "gloss": "⟨引き抜かれるのか⟩"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "水"
+    },
+    {
+      "surface": "זָרִים",
+      "gloss": "異邦の"
+    },
+    {
+      "surface": "קָרִים",
+      "gloss": "冷たい"
+    },
+    {
+      "surface": "נוֹזְלִים",
+      "gloss": "滴り流れるもの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:47:24.441585736Z",
+  "model": "glm-5.2"
+}

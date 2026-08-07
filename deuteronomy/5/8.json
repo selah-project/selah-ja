@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "あなたは自分のために彫像を作ってはならない——いかなる形像も。天にあるもの、上から、地にあるもの、下から、水にあるもの、地の下からのものであって。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "あなたは作ってはならない"
+    },
+    {
+      "surface": "לך",
+      "gloss": "自分のために"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "彫像"
+    },
+    {
+      "surface": "כל",
+      "gloss": "いかなる"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "形像"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるもの"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "天にある"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "上から"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "そして〜であるもの"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地にある"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "下から"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "そして〜であるもの"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水にある"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "下から"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:49.126715356Z",
+  "model": "glm-5.2"
+}

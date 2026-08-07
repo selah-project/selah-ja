@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 2:2",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ダビデはそこへ上り、また二人の妻も ⟨上った⟩ — イズレエル人アヒノアムと、カルメリ人ナバルの妻アビガイル。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "そして…は上った"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこへ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "また"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "二人の"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "彼の妻たち"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "アヒノアム"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "イズレエル人"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "とアビガイル"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "…の妻"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ナバル"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "カルメリ人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:25.499512332Z",
+  "model": "glm-5.2"
+}

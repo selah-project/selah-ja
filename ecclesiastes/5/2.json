@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "因为夢は仕事の多さの中から来る。そして愚か者の声は言葉の多さの中に⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "夢"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "〜の多さの中に"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "仕事"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "そして声"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚か者"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "〜の多さの中に"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "言葉"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:42.561271196Z",
+  "model": "glm-5.2"
+}

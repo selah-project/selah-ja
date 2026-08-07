@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "エリヤフはアハブの前に身を示すために行った。飢饉がシュムロンで激しかった。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "エリヤフ"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "身を示すために"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…の前に"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "アハブ"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "そして飢饉"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "激しかった"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "シュムロンで"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:45.464159221Z",
+  "model": "glm-5.2"
+}

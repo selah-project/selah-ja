@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "若者をその道にしたがって教育せよ。そうすれば、年老いてもそこから離れない。",
+  "tokens": [
+    {
+      "surface": "חֲנֹ֣ךְ",
+      "gloss": "教育せよ"
+    },
+    {
+      "surface": "לַנַּעַר",
+      "gloss": "若者を"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜にしたがって"
+    },
+    {
+      "surface": "פִּ֣י",
+      "gloss": "口（＝基準）"
+    },
+    {
+      "surface": "דַּרְכּ֑וֹ",
+      "gloss": "彼の道の"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "そうすれば"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜ても"
+    },
+    {
+      "surface": "יַ֝זְקִ֗ין",
+      "gloss": "年老いて"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יָס֥וּר",
+      "gloss": "離れ"
+    },
+    {
+      "surface": "מִמֶּֽנָּה",
+      "gloss": "そこから"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:58.499183358Z",
+  "model": "glm-5.2"
+}

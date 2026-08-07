@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして王は帰り、ヤルデンまで来た。そしてユダはギルガルに来た — 王を迎えるために、⟨את⟩ 王を ⟨את⟩ ヤルデンを渡らせるために。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして…は帰った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして…は来た"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヤルデン"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "そしてユダは"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "ギルガルに"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "行くために"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "迎える"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "渡らせるために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤルデン"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヤルデン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:55:40.692107256Z",
+  "model": "glm-5.2"
+}

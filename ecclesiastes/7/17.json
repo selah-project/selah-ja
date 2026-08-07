@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "過度に悪を行なってはならない。愚かであってはならない。なぜ ⟨あなた⟩ は ⟨自分⟩ の時でないのに死ぬのか。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜するな"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "悪を行なう"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "過度に"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜するな"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ある"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "愚か"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "死ぬのか"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "〜でない"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "あなたの時"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:58.552561901Z",
+  "model": "glm-5.2"
+}

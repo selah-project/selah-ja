@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "彼は太陽の前に汁気に満ち、その庭の上に彼の若枝が出て行く。",
+  "tokens": [
+    {
+      "surface": "רָטֹב",
+      "gloss": "汁気に満ち"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "שָׁמֶשׁ",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "גַּנָּתוֹ",
+      "gloss": "その庭"
+    },
+    {
+      "surface": "יֹנַקְתּוֹ",
+      "gloss": "彼の若枝"
+    },
+    {
+      "surface": "תֵצֵא",
+      "gloss": "出て行く"
+    }
+  ],
+  "timestamp": "2026-08-07T13:21:53.259066608Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 2:33",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてレビ人はイスラエルの子らの中に数え入れられなかった。ヤハウェがモーシェに命じた通りに⟨である⟩。",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "そしてレビ人は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "数え入れられた"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "～の中に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "～の通りに"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーセ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:02.554346058Z",
+  "model": "glm-5.2"
+}

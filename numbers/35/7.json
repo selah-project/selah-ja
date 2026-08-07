@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "すべての町、あなたがたがレビ人に与えるものは、四十八の町、⟨את⟩ それらと⟨את⟩ その牧草地。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "町"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "あなたがたが与える"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "レビ人に"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "と八"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ それら",
+      "marks": "四十八の町"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "その牧草地"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "その牧草地"
+    }
+  ],
+  "timestamp": "2026-08-07T10:05:30.901330873Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてレビの家⟨の⟩一人の男が行き、レビの娘⟨を⟩⟨את⟩娶った。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一人の男が"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "〜の家⟨の⟩"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "レビ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして娶った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レビの娘"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "レビ⟨の⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T09:12:38.858159373Z",
+  "model": "glm-5.2"
+}

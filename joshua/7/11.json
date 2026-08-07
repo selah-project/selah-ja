@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "イスラエルは罪を犯した。彼らはまた、私が彼らに命じた私の契約を ⟨את⟩ 踏み越えた。彼らは奉献物から取り、盗み、嘘をつき、それを自分の器具の中に置いたからである。」",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "罪を犯した"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルは"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "踏み越えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の契約を"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "私の契約を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それを"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "私が命じた"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "取った"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "奉献物を"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "盗み"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "嘘をつき"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "自分の器具の中に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:25:40.072087162Z",
+  "model": "glm-5.2"
+}

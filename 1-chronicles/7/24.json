@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして彼の娘 ⟨は⟩ シェエラであった。そして彼女は下ベト・ホロンと上ベト・ホロン、およびウズェン・シェエラを建てた。",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "そして彼の娘"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "シェエラ"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "そして彼女は建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "下ベト・ホロン"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベト"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "・ホロン"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "下"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "上ベト・ホロン"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "上"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ウズェン・シェエラ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ウズェン"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "・シェエラ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:26.198590569Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "彼らは戦争をした、⟨את⟩ ベラ ⟨の⟩、セドム ⟨の⟩ 王に対して、そして ⟨את⟩ ビルシャ ⟨の⟩、アモラ ⟨の⟩ 王に対して、シナブ ⟨は⟩ アドマ ⟨の⟩ 王、そしてシェムエベル ⟨は⟩ ツェボイム ⟨の⟩ 王、そしてベラ ⟨の⟩ 王——それは ⟨すなわち⟩ ツォアルである。",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "彼らはした"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦争"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ベラ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ベラ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "セドム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして ⟨את⟩",
+      "marks": "ビルシャ"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "ビルシャ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "アモラ"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "シナブ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "アドマ"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "そしてシェムエベル"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "ツェボイム"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "そして〜の王"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ベラ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "צער",
+      "gloss": "ツォアル"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:58.087089452Z",
+  "model": "glm-5.2"
+}

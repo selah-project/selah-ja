@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "これら⟨は⟩ラケルの子ら、ヤコブに生まれた者たちである；すべてのネフェシュは十四。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ラケル"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ヤコブに"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ネフェシュ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:56.012461143Z",
+  "model": "glm-5.2"
+}

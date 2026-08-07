@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "こうして彼らは⟨את⟩自分たちの栄光を、草を食む牛の像と取り替えた。",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "こうして彼らは取り替えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分たちの栄光を"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "自分たちの栄光を"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "⋯⋯の像と"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛の"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食む"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:11.198705385Z",
+  "model": "glm-5.2"
+}

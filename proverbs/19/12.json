@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "王の激怒は若獅子のほえる声のよう、しかし彼の好意は草の上の露のようだ。",
+  "tokens": [
+    {
+      "surface": "נַ֣הַם",
+      "gloss": "ほえる声"
+    },
+    {
+      "surface": "כַּ֭כְּפִיר",
+      "gloss": "若獅子の〜のよう"
+    },
+    {
+      "surface": "זַ֣עַף",
+      "gloss": "激怒"
+    },
+    {
+      "surface": "מֶ֑לֶךְ",
+      "gloss": "王の"
+    },
+    {
+      "surface": "וּכְטַ֖ל",
+      "gloss": "しかし露のよう"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上の"
+    },
+    {
+      "surface": "עֵ֣שֶׂב",
+      "gloss": "草"
+    },
+    {
+      "surface": "רְצוֹנֽוֹ",
+      "gloss": "彼の好意"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:46.914388552Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 67,
+  "translation": "エロヒムが私たちを祝福してくださるように。そして地の果てのすべてが⟨את⟩⟨彼⟩を恐れるであろう。",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "私たちを祝福してくださるように"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムが"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "そして恐れるであろう"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべてが"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "果ての"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:05.788196729Z",
+  "model": "glm-5.2"
+}

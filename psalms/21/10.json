@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "あなたは彼らを火の炉のように置く、あなたの御顔の時に。ヤハウェは怒りのうちに彼らを呑み込み、火が彼らを食らう。",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "あなたは彼らを置く"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "炉のように"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火の"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "〜の時に"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの御顔の"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "怒りのうちに"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "彼らを呑み込み"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "そして火は彼らを食らう"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火が"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:17.020849196Z",
+  "model": "glm-5.2"
+}

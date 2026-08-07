@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "モーシェはミディヤンの祭司、⟨彼の⟩義父イテロの⟨את⟩羊の群れを飼っていた。彼は⟨את⟩その群れを荒野の後ろに導き、エロヒームの山、ホレブに来た。",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "そしてモーシェは"
+    },
+    {
+      "surface": "היה",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "飼っていた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "羊の群れ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊の群れ"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "イテロの"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "⟨彼の⟩義父"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ミディヤンの"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "そして彼は導いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その群れ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "その群れ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "〜の後ろに"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "荒野"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒームの"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ホレブに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:09.674133231Z",
+  "model": "glm-5.2"
+}

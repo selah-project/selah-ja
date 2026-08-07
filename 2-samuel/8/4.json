@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 8:4",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "ダビデは彼から千と七百の騎兵と二万の歩兵を捕らえた。そしてダビデは⟨את⟩戦車のすべてを引き抜き、そのうち百の戦車だけを残した。",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "捕らえた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "彼から"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "と七"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "騎兵"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "と二十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "徒歩の"
+    },
+    {
+      "surface": "ויעקר",
+      "gloss": "引き抜いた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "戦車のすべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "戦車"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "残した"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "戦車"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:52.788880964Z",
+  "model": "glm-5.2"
+}

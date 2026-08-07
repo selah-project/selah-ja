@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてヤハウェはモーシェに語って言われた、",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "そして…語った"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "言って"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:43.222950690Z",
+  "model": "glm-5.2"
+}

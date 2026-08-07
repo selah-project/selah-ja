@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 16:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてあなたの全領域の内にパン種があなたのところに見出されてはならない。七日間。そしてあなたが一日目の夕暮れに屠る肉から、朝まで夜越してはならない。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "見出されては"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのところに"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "パン種が"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "〜の全"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "あなたの領域の内に"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "夜越しては"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "あなたが屠る"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "夕暮れに"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "一"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "朝まで"
+    }
+  ],
+  "timestamp": "2026-08-07T10:14:24.115804578Z",
+  "model": "glm-5.2"
+}

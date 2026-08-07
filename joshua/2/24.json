@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 2:24",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして彼らはヨシュアに言った、「ヤハウェが ⟨確かに⟩ 私たちの手に ⟨את⟩ この地のすべてを与えられた。そしてまた、この地のすべての住民も私たちの前で溶け去った。」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして彼らは言った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "כי",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "私たちの手に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この地のすべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "溶け去った"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "住民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "私たちの前で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:23:52.313906452Z",
+  "model": "glm-5.2"
+}

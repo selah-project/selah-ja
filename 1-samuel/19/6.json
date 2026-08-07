@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてサウルはヨナタンの声に聞き入れ、サウルは誓った。「ヤハウェは生きておられる。彼は殺されない。」",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "そして……は聞き入れた"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウル"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "声に"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ヨナタン"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "そして……は誓った"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウル"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生きておられる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "彼は殺されない"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:39.621882306Z",
+  "model": "glm-5.2"
+}

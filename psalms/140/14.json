@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 140,
+  "translation": "ただ、正しい者たちがあなたの御名に感謝をささげる。まっすぐな者たちが ⟨את⟩ あなたの御顔の前に住む。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "正しい者たちが"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "感謝をささげる"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "あなたの御名に"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "住む"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "まっすぐな者たちが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの御顔"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの御顔の前に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:10.099657828Z",
+  "model": "glm-5.2"
+}

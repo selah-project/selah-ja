@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "王は言った、「あなたは必ず死ぬ、アヒメレク、あなたとあなたの父の家のすべてが」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死ぬ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "あなたは必ず死ぬ"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "アヒメレク"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "と〜のすべて"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:13.500748100Z",
+  "model": "glm-5.2"
+}

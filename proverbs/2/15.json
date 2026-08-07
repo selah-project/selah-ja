@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "彼らの道々は曲がっており、彼らの小道においてねじれている、",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "…なる者たち"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "彼らの道々"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "曲がっている"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "ねじれている"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "彼らの小道において"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:30.926076372Z",
+  "model": "glm-5.2"
+}

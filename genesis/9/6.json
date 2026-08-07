@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "人の血を注ぐ者、人の〈手によって〉その血は注がれる。まことに、エロヒムの似姿において、⟨את⟩人を造られたからである。",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "注ぐ者"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "人によって"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "その血"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "注がれる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "〜の似姿において"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造られた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:10.362446257Z",
+  "model": "glm-5.2"
+}

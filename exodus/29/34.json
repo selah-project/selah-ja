@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 29:34",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "もし按手の肉とパンから朝まで残りがあるなら、残りを火で焼き尽くさなければならない。それは食べてはならない。聖なるものだからである。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "残る"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "肉から"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "按手の"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "および〜から"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "עד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "そして焼き尽くす"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "残り"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "残り"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:01.209000373Z",
+  "model": "glm-5.2"
+}

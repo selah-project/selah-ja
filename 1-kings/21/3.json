@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "ナボテはアハブに言った。「ヤハウェが私を遠ざけてくださる――私が⟨את⟩私の父祖からの相続地をあなたに与えるなどとは。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "…は言った"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ナボテ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "アハブ"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "遠ざけられてくださるように"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私が"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ヤハウェによって"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "私が与えることなど"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "相続地"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "相続地"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "私の父祖からの"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:21.019242925Z",
+  "model": "glm-5.2"
+}

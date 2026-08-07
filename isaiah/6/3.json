@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして⟨こちらが⟩⟨こちらに⟩呼びかけ、こう言った。「聖なる、聖なる、聖なる、ヤハウェ・ツェバオト。全地は⟨彼の⟩栄光で満ちている。」",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "そして呼びかけ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨こちらが⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨こちらに⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨こちら⟩"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "こう言った"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ツェバオト"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "満ちている"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "⟨彼の⟩栄光で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:15.224146246Z",
+  "model": "glm-5.2"
+}

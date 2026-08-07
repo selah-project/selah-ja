@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "あなたがたが食べる時、またあなたがたが飲む時、食べるのはあなたがた、飲むのもあなたがたではないか。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "そして〜する時"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたがたは食べる"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "そして〜する時"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "あなたがたは飲む"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたがた"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "食べているのは"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "そしてあなたがた"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "飲んでいるのは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:31:27.636392300Z",
+  "model": "glm-5.2"
+}

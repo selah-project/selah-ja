@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 83,
+  "translation": "彼らが言った、「われわれにとって⟨את⟩エロヒムの牧草地を所有しよう」と。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "彼らが"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "言った"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "所有しよう"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "われわれにとって"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エロヒムの牧草地"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "牧草地"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:52.670311106Z",
+  "model": "glm-5.2"
+}

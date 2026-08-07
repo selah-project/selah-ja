@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ヤハウェの声は水の上に、栄光のエルが雷をとどろかせ、ヤハウェは大水の上に⟨おられる⟩。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "〜の声"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "栄光の"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "雷をとどろかせ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "大"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:37.989179482Z",
+  "model": "glm-5.2"
+}

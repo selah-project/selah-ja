@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "あなたは ⟨את⟩ 二つのショハムの石を取り、その上にイスラエルの子らの名を彫り刻まなければならない。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "あなたは取る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "二つのショハムの石"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "石"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "ショハム"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "あなたは彫り刻む"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:52.327627161Z",
+  "model": "glm-5.2"
+}

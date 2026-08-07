@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 2:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして野のすべての低木は、まだ地になく、野のすべての草はまだ芽生えていなかった。ヤハウェ・エロヒムが地に雨を降らせず、 ⟨את⟩土を耕す人がいなかったからである。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "低木"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野の"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "まだ〜ない"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野の"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "まだ〜ない"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "芽生えた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "雨を降らせ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "そして人は"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いなかった"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "耕す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "土を"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:06.437736137Z",
+  "model": "glm-5.2"
+}

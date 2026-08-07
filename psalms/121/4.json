@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 121,
+  "translation": "見よ、まどろむこともなく、眠ることもない。イスラエルを守る方。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "まどろむ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "また〜ない"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "眠る"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "守る方"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:14.927064604Z",
+  "model": "glm-5.2"
+}

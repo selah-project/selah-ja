@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 24:6",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そしてヨヤキムは彼の先祖たちと共に眠り、彼の子ヨヤキンが彼に代わって王となった。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "そして〜は眠った"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "ヨヤキムは"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の先祖たち"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "そして〜は王となった"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "ヨヤキンが"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代わって"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:38.687490743Z",
+  "model": "glm-5.2"
+}

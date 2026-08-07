@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "シュムエルはシャウルに言った、「止まりなさい。私はあなたに告げよう — ⟨את⟩ ヤハウェが今夜私に語られた ⟨こと⟩ を」。彼は彼に言った、「語りなさい」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして～は言った"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエル"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "止まりなさい"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "そして私は告げよう"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "～こと"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～ところの"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "今夜"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語りなさい"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:38.508881630Z",
+  "model": "glm-5.2"
+}

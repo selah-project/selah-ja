@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "来たれ、ヤハウェのみわざを見よ、⟨彼が⟩地に荒廃を置いたことを。",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "来たれ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "みわざを"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（関係詞）"
+    },
+    {
+      "surface": "שם",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "荒廃を"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:02.986535586Z",
+  "model": "glm-5.2"
+}

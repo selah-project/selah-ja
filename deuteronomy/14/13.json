@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "またラアハ、および⟨את⟩ハヤア、またハダヤ、その種類にしたがって。",
+  "tokens": [
+    {
+      "surface": "וְהָרָאָה",
+      "gloss": "またラアハ"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ハヤア"
+    },
+    {
+      "surface": "הָאַיָּה",
+      "gloss": "ハヤア"
+    },
+    {
+      "surface": "וְהַדָּיָּה",
+      "gloss": "またハダヤ"
+    },
+    {
+      "surface": "לְמִינָהּ",
+      "gloss": "その種類にしたがって"
+    }
+  ],
+  "timestamp": "2026-08-07T16:37:02.800535208Z",
+  "model": "glm-5.2"
+}

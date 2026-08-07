@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ヤレドは六十二年と百年生き、⟨את⟩ハノクを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "…は生きた"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ヤレド"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "二"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "と六十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "と百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "彼は…を生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ハノク"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ハノク"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:11.396770762Z",
+  "model": "glm-5.2"
+}

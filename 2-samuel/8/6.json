@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 8:6",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "ダビデはアラム・ダマシクに守備隊を置き、アラムはダビデのものとなり、貢物を担う奴隷となった。そしてヤハウェは、ダビデが歩むすべての道において⟨את⟩ダビデを救い出された。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "そして…置いた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "守備隊を"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "アラム・"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ダマシクに"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "そして…なった"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラムは"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデのもの"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "奴隷"
+    },
+    {
+      "surface": "נושאי",
+      "gloss": "…を担う"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "貢物"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "そして…救い出された"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダビデ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデを"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "歩む"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:32.875883116Z",
+  "model": "glm-5.2"
+}

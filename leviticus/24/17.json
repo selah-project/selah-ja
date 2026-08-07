@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして人が、もし人のすべてのネフェシュを打つなら、死によって死なされなければならない。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "そして人は"
+    },
+    {
+      "surface": "כי",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "打つ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ネフェシュ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死によって"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "死なされなければならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:35.475310452Z",
+  "model": "glm-5.2"
+}

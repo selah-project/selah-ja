@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "見よ、義のために王が治め、君たちは裁きのために支配する。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "義のために"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "王が治める"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "君たちは"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "裁きのために"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "支配する"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:17.365863232Z",
+  "model": "glm-5.2"
+}

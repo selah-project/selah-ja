@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "何⟨たる⟩、わが子よ。わが胎の子よ。何⟨たる⟩、わが誓願の子よ。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "何たる"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "わが子よ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "そして何たる"
+    },
+    {
+      "surface": "בר",
+      "gloss": "子よ"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "わが胎の"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "そして何たる"
+    },
+    {
+      "surface": "בר",
+      "gloss": "子よ"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "わが誓願の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:34.120650778Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてモシェとアハロンは、名によって指名されたこれらの男たち⟨את⟩を取った。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "とアハロン"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらの男たち"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "男たち"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "指名された"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "名によって"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:39.385151805Z",
+  "model": "glm-5.2"
+}

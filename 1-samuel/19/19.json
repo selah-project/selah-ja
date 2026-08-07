@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてシャウルに告げられて言われた。「見よ、ダビデがナヨト、ラマにいる。」",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "そして告げられた"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "シャウルに"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言われて"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデが"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "ナヨトに"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "ラマに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:00.595035170Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 39:22",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "恐れを笑い、⟨ひるむこと⟩なく、剣の前からも引き返さない。",
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "笑う"
+    },
+    {
+      "surface": "לפחד",
+      "gloss": "恐れを"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ひるむ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "引き返す"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "の前から"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    }
+  ],
+  "timestamp": "2026-08-07T13:32:02.129292668Z",
+  "model": "glm-5.2"
+}

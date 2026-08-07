@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "正しい者たちの思いは⟨裁き⟩、悪者たちの策謀は欺き。",
+  "tokens": [
+    {
+      "surface": "מַחְשְׁב֣וֹת",
+      "gloss": "思いは"
+    },
+    {
+      "surface": "צַדִּיקִ֣ים",
+      "gloss": "正しい者たちの"
+    },
+    {
+      "surface": "מִשְׁפָּ֑ט",
+      "gloss": "裁き"
+    },
+    {
+      "surface": "תַּחְבֻּל֖וֹת",
+      "gloss": "策謀は"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "悪者たちの"
+    },
+    {
+      "surface": "מִרְמָֽה",
+      "gloss": "欺き"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:30.247897181Z",
+  "model": "glm-5.2"
+}

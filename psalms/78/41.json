@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "そして彼らは引き返し、エルを試み、イスラエルの聖なる方に傷を負わせた。",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "そして彼らは引き返し"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "試み"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "聖なる方"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "傷を負わせた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:44.299242280Z",
+  "model": "glm-5.2"
+}

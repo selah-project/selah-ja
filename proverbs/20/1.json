@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "あざける者はぶどう酒、騒ぎ立てるのは強い酒、そしてすべてそれにおいて迷う者は知恵を得ない。",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "あざける者は"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ぶどう酒"
+    },
+    {
+      "surface": "המה",
+      "gloss": "騒ぎ立てるのは"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "強い酒"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべて"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "迷う者は"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それにおいて"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "知恵を得る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:39.451324441Z",
+  "model": "glm-5.2"
+}

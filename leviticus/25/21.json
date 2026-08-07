@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてわたしは第六の年に⟨あなたがたのために⟩ ⟨את⟩ わたしの祝福を命じ、それは三年分の収穫を ⟨את⟩ ⟨その⟩収穫を三年分にもたらすであろう。",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "そしてわたしは命じる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの祝福"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "わたしの祝福"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたのために"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "年に"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "第六の"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "そしてそれはもたらす"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "収穫"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "収穫"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "三年分の"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "年に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:43:02.017061987Z",
+  "model": "glm-5.2"
+}

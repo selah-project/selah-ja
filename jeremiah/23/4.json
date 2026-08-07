@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 23:4",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そしてわたしは彼らの上に牧者たちを立て、彼らは彼らを牧する。彼らはもはや恐れず、おののかず、失われることもない、ヤハウェの御告げ。",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "そしてわたしは立て"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らの上に"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "牧者たち"
+    },
+    {
+      "surface": "ורעום",
+      "gloss": "そして彼らは彼らを牧する"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "彼らは恐れ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "おののかず"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "יפקדו",
+      "gloss": "失われること"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "の御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:46:53.225179263Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "ヘベル・ハバリム、コへレトは言った、すべてはヘベルである。",
+  "tokens": [
+    {
+      "surface": "הֲבֵ֧ל",
+      "gloss": "ヘベル（虚空）"
+    },
+    {
+      "surface": "הֲבָלִ֛ים",
+      "gloss": "ヘベルら（のヘベル）"
+    },
+    {
+      "surface": "אָמַ֥ר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "הַקּוֹהֶ֖לֶת",
+      "gloss": "コへレトは"
+    },
+    {
+      "surface": "הַכֹּ֥ל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "הָֽבֶל",
+      "gloss": "ヘベルである"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:42.666379849Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "その地の金は良い。そこにはベドラハムとショハムの石がある。",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ベドラハム"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "石"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ショハムの"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:08.186952646Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そしてヤハウェの栄光が啓示され、すべての肉が共にそれを見る — ヤハウェの口が語ったのだから。",
+  "tokens": [
+    {
+      "surface": "וְנִגְלָ֖ה",
+      "gloss": "そして啓示された"
+    },
+    {
+      "surface": "כְּב֣וֹד",
+      "gloss": "…の栄光"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וְרָא֤וּ",
+      "gloss": "そして見る"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בָּשָׂר֙",
+      "gloss": "肉"
+    },
+    {
+      "surface": "יַחְדָּ֔ו",
+      "gloss": "共に"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "פִּ֥י",
+      "gloss": "…の口"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "דִּבֵּֽר",
+      "gloss": "語った"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:39.709894224Z",
+  "model": "glm-5.2"
+}

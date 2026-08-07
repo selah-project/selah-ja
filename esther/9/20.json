@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "モルデカイはこれらの事柄⟨את⟩を書き記し、アハシュヴェロシュ王のすべての州にいるすべてのユダヤ人に、近くにいる者にも遠くにいる者にも、書簡を送った。",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "そして…は書いた"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "モルデカイ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらの事柄"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "事柄"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "そして送った"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "書簡"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ユダヤ人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…にある"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての…に"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "州"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "アハシュヴェロシュ"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "近い者"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "と遠い者"
+    }
+  ],
+  "timestamp": "2026-08-07T13:43:35.498891674Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そしてヨシュアは ⟨את⟩ 民を去らせた、それぞれ自分の相続地へ。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…去らせた"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "איש",
+      "gloss": "それぞれ"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "自分の相続地へ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:30:58.854837761Z",
+  "model": "glm-5.2"
+}

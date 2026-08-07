@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "もしその方が争うことを望むなら、一千のうちの一事をもって彼に答えることはできない。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "望むなら"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "争うことを"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "その方と"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "彼に答えることはできる"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一事"
+    },
+    {
+      "surface": "מני",
+      "gloss": "〜のうちの"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:30.482236062Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "エロヒムに感謝を献げよ、いと高き者へのあなたの誓いを果たせ。",
+  "tokens": [
+    {
+      "surface": "זְבַ֣ח",
+      "gloss": "献げよ"
+    },
+    {
+      "surface": "לֵאלֹהִ֣ים",
+      "gloss": "エロヒムに"
+    },
+    {
+      "surface": "תּוֹדָ֑ה",
+      "gloss": "感謝を"
+    },
+    {
+      "surface": "וְשַׁלֵּ֖ם",
+      "gloss": "そして果たせ"
+    },
+    {
+      "surface": "לְעֶלְי֣וֹן",
+      "gloss": "いと高き者への"
+    },
+    {
+      "surface": "נְדָרֶֽיךָ",
+      "gloss": "あなたの誓いを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:32.653223262Z",
+  "model": "glm-5.2"
+}

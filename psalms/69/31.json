@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "私は賛美する、エロヒムの名を、歌によって — 私は大いなる者とする、彼を、感謝によって。",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "私は賛美する"
+    },
+    {
+      "surface": "שם",
+      "gloss": "…の名を"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "歌によって"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "私は大いなる者とする、彼を"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "感謝によって"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:35.806363113Z",
+  "model": "glm-5.2"
+}

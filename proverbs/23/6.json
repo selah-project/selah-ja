@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "邪悪な目の者のパンを食べてはならない。そのごちそうを切望してはならない。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "食べては"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "パン"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "רע",
+      "gloss": "邪悪な"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目の者の"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "…てはならない"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "切望しては"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "そのごちそうを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:17.928520719Z",
+  "model": "glm-5.2"
+}

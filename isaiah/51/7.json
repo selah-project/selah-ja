@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 51:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "わたしに聞け、義を知る者たち、その心にわたしのトーラーを持つ民。人のそしりを恐れるな、彼らの中傷によって⟨落ち込むな⟩。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "知る者たち"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "義を"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "わたしのトーラー"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "その心に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜するな"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "そしりを"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "人の"
+    },
+    {
+      "surface": "ומגדפתם",
+      "gloss": "彼らの中傷によって"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜するな"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "⟨落ち込む⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T14:48:17.166770445Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 97,
+  "translation": "山々は蝋のように溶けた、ヤハウェの御前から、全地の主の御前から",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "山々は"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "蝋のように"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "溶けた"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "〜の御前から"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "〜の御前から"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "主"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:47.204812577Z",
+  "model": "glm-5.2"
+}

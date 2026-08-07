@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "彼は飲み、自分の貧しさを忘れ、自分の苦難をもう思い出さないように。",
+  "tokens": [
+    {
+      "surface": "יִ֭שְׁתֶּה",
+      "gloss": "彼は飲み"
+    },
+    {
+      "surface": "וְיִשְׁכַּ֣ח",
+      "gloss": "そして忘れる"
+    },
+    {
+      "surface": "רִישׁ֑וֹ",
+      "gloss": "自分の貧しさを"
+    },
+    {
+      "surface": "וַ֝עֲמָל֗וֹ",
+      "gloss": "そして自分の苦難を"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "יִזְכָּר",
+      "gloss": "思い出す"
+    },
+    {
+      "surface": "עֽוֹד",
+      "gloss": "もう"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:31.404294915Z",
+  "model": "glm-5.2"
+}

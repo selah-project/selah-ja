@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "エルマイ、ヤハジエル、ヨハナン、ヨザバド、 ⟨その⟩ゲデラテ",
+  "tokens": [
+    {
+      "surface": "וְיִרְמְיָ֤ה",
+      "gloss": "エルマイ"
+    },
+    {
+      "surface": "וְיַחֲזִיאֵל֙",
+      "gloss": "ヤハジエル"
+    },
+    {
+      "surface": "וְי֣וֹחָנָ֔ן",
+      "gloss": "ヨハナン"
+    },
+    {
+      "surface": "וְיוֹזָבָ֖ד",
+      "gloss": "ヨザバド"
+    },
+    {
+      "surface": "הַגְּדֵרָתִֽי",
+      "gloss": "ゲデラテ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:02.164596435Z",
+  "model": "glm-5.2"
+}

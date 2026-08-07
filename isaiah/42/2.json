@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "彼は叫ばず、声を⟨高く⟩上げず、通りで⟨彼の⟩声を聞かせない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "彼は叫ぶ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "彼は上げる"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "彼は聞かせる"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "外で"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "彼の声を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:16.680548402Z",
+  "model": "glm-5.2"
+}

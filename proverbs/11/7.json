@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "悪人の死において、望みは滅びる、そして強き者の期待も滅びうせた。",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "〜の死において"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "滅びる"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "望みは"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "そして〜の期待も"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "強き者の"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "滅びうせた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:55.303121255Z",
+  "model": "glm-5.2"
+}

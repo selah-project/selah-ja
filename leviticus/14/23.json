@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 14:23",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして彼は彼の清めの第八日にそれらを祭司のもとに、会見の天幕の入り口の、ヤハウェの前に持って来る。",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "そして持って来る"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それらを"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "第八"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "彼の清めの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕の"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:04.912129Z",
+  "model": "glm-5.2"
+}

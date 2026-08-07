@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "次のように言われる、海に道を与える方、激しい水に通路を⟨与える方⟩、ヤハウェは。",
+  "tokens": [
+    {
+      "surface": "כֹּה",
+      "gloss": "次のように"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "הַנּוֹתֵן",
+      "gloss": "与える方"
+    },
+    {
+      "surface": "בַּיָּם",
+      "gloss": "海に"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "道を"
+    },
+    {
+      "surface": "וּבְמַיִם",
+      "gloss": "水に"
+    },
+    {
+      "surface": "עַזִּים",
+      "gloss": "激しい"
+    },
+    {
+      "surface": "נְתִיבָה",
+      "gloss": "通路を"
+    }
+  ],
+  "timestamp": "2026-08-07T16:58:13.042429201Z",
+  "model": "glm-5.2"
+}

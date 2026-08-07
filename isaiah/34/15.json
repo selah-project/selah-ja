@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 34:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そこに矢蛇は巣を作り、産み落とし、孵化させ、その影の下に集める。まことにそこにタカが集められる、雌はその仲間とともに。",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "קננה",
+      "gloss": "巣を作る"
+    },
+    {
+      "surface": "קפוז",
+      "gloss": "矢蛇"
+    },
+    {
+      "surface": "ותמלט",
+      "gloss": "そして産み落とす"
+    },
+    {
+      "surface": "ובקעה",
+      "gloss": "そして孵化させる"
+    },
+    {
+      "surface": "ודגרה",
+      "gloss": "そして集める"
+    },
+    {
+      "surface": "בצלה",
+      "gloss": "その影の下に"
+    },
+    {
+      "surface": "אך",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "集められる"
+    },
+    {
+      "surface": "דיות",
+      "gloss": "タカ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "雌は"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "その仲間"
+    }
+  ],
+  "timestamp": "2026-08-07T11:29:44.558555425Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 2:2",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてユダの子らとイスラエルの子らは共に集められ、彼らは自分たちのために一人の頭を立て、地から上がるであろう。それは大きい、イズレエルの日だからである。",
+  "tokens": [
+    {
+      "surface": "ונקבצו",
+      "gloss": "そして集められる"
+    },
+    {
+      "surface": "בני",
+      "gloss": "の子ら"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "と〜の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "共に"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "そして彼らは立てる"
+    },
+    {
+      "surface": "להם",
+      "gloss": "自分たちのために"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭を"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一人の"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "そして上がるであろう"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大きい"
+    },
+    {
+      "surface": "יום",
+      "gloss": "〜の日"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "イズレエル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:18:15.108741919Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "彼が青銅の扉を打ち砕き、鉄の閂を断ち切ったからである",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "שִׁ֭בַּר",
+      "gloss": "彼が打ち砕いた"
+    },
+    {
+      "surface": "דַּלְת֣וֹת",
+      "gloss": "扉を"
+    },
+    {
+      "surface": "נְחֹ֑שֶׁת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "וּבְרִיחֵ֖י",
+      "gloss": "〜の閂を"
+    },
+    {
+      "surface": "בַרְזֶ֣ל",
+      "gloss": "鉄"
+    },
+    {
+      "surface": "גִּדֵּֽעַ",
+      "gloss": "断ち切った"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:34.460819542Z",
+  "model": "glm-5.2"
+}

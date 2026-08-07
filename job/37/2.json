@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 37:2",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "聞け、注意深く聞け、⟨彼の⟩声の轟きを。そして⟨彼の⟩口から出るうなり声を。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "注意深く聞け"
+    },
+    {
+      "surface": "ברגז",
+      "gloss": "轟き（の中で）"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "⟨彼の⟩声"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "そしてうなり声"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "⟨彼の⟩口から"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:29:32.430671988Z",
+  "model": "glm-5.2"
+}

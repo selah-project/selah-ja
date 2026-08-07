@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "あなたは彼らの平安も彼らの益も求めてはならない、あなたのすべての日において、とこしえに。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜てはならない"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "求めては"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "彼らの平安"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "と彼らの益"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "あなたの日"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:17:55.058113655Z",
+  "model": "glm-5.2"
+}

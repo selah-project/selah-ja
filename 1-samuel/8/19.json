@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 8:19",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "しかし、民はシュムエルの声に聞き従うことを拒んだ。そして彼らは言った。「いや、むしろ、王が私たちの上に⟨い⟩なければならない。」",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "ימאנו",
+      "gloss": "彼らは拒んだ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "聞くことを"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "声に"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエル"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして彼らは言った"
+    },
+    {
+      "surface": "לא",
+      "gloss": "いや"
+    },
+    {
+      "surface": "כי",
+      "gloss": "むしろ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜が"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "私たちの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:56.755696098Z",
+  "model": "glm-5.2"
+}

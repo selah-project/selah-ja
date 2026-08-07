@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼は⟨את⟩自分の手を贖罪献げ物の頭の上に置き、これを贖罪献げ物として全焼の献げ物を屠る場所で屠らなければならない。",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "そして置く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の手"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "その贖罪献げ物"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "そして屠る"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "これ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "贖罪献げ物として"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "〜の場所で"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "屠る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その全焼の献げ物"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "その全焼の献げ物"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:50.899096869Z",
+  "model": "glm-5.2"
+}

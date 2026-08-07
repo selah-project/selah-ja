@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "彼自身もアハブの家の道々に歩んだ。彼の母が彼に悪を行うよう助言者となっていたからである。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "も"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼自身"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "歩んだ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "道々に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "アハブ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "彼の母が"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨〜⟩となっていた"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "彼の助言者"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "悪を行うための"
+    }
+  ],
+  "timestamp": "2026-08-07T14:15:30.433436576Z",
+  "model": "glm-5.2"
+}

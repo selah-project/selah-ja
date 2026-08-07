@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてテラの日々は二百五年であった。そしてテラはハラン（ホラン）で死んだ。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "そして〜であった"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日々は"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "テラの"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "と二百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "テラは"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "ハラン（ホラン）で"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:31.125044023Z",
+  "model": "glm-5.2"
+}

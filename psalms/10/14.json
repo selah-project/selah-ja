@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 10:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "あなたは見た — まことに、あなたは労苦と怒りを注視される。あなたの手に報いるために。あなたは⟨彼を⟩見捨てない、哀れな者を。みなしごには — あなたこそ助け手であった。",
+  "tokens": [
+    {
+      "surface": "ראתה",
+      "gloss": "あなたは見た"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "労苦"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "と怒り"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "注視される"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "与えるために"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "あなたの手に"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "見捨てる"
+    },
+    {
+      "surface": "חלכה",
+      "gloss": "哀れな者"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "みなしご"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "היית",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "助け手"
+    }
+  ],
+  "timestamp": "2026-08-07T17:16:48.075360281Z",
+  "model": "glm-5.2"
+}

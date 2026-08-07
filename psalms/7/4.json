@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "ヤハウェ、私のエロヒム、もし私がこの事をしたのなら、もし私の手のひらに不正があるのなら、",
+  "tokens": [
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֱ֭לֹהַי",
+      "gloss": "私のエロヒム"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "עָשִׂ֣יתִי",
+      "gloss": "私がした"
+    },
+    {
+      "surface": "זֹ֑את",
+      "gloss": "この事"
+    },
+    {
+      "surface": "אִֽם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יֶשׁ",
+      "gloss": "ある"
+    },
+    {
+      "surface": "עָ֥וֶל",
+      "gloss": "不正"
+    },
+    {
+      "surface": "בְּכַפָּֽי",
+      "gloss": "私の手のひらに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:40.188478728Z",
+  "model": "glm-5.2"
+}

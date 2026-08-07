@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 9:38",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてミクロトは⟨את⟩シマムをもうけた。これらの者たちも、その兄弟たちの前に、その兄弟たちとともにイェルシャライムに住んだ。",
+  "tokens": [
+    {
+      "surface": "ומקלות",
+      "gloss": "そしてミクロト"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "もうけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シマム"
+    },
+    {
+      "surface": "שמאם",
+      "gloss": "シマム"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "これらの〜も"
+    },
+    {
+      "surface": "הם",
+      "gloss": "彼ら"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "その兄弟たちの"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "住んだ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライムに"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "その兄弟たち"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:14.431480198Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 11:5",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "こうして、アンモンの人々の子らがイスラエルと戦ったとき、ギルアデの長老たちはヤフテを ⟨את⟩ トブの地から連れて行くために出かけて行った。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "こうして〜になった"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜たとき"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "戦った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アンモン"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "彼らは行った"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "…の長老たち"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ギルアデ"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "連れて行くために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤフテ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ヤフテ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "…の地から"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "トブ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:25:44.420908034Z",
+  "model": "glm-5.2"
+}

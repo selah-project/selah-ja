@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "私たちの心の喜びは⟨やみ⟩、私たちの舞いは喪に覆われた。",
+  "tokens": [
+    {
+      "surface": "שָׁבַת֙",
+      "gloss": "⟨やみ⟩"
+    },
+    {
+      "surface": "מְשׂ֣וֹשׂ",
+      "gloss": "喜びは"
+    },
+    {
+      "surface": "לִבֵּ֔נוּ",
+      "gloss": "私たちの心の"
+    },
+    {
+      "surface": "נֶהְפַּ֥ךְ",
+      "gloss": "覆われた"
+    },
+    {
+      "surface": "לְאֵ֖בֶל",
+      "gloss": "喪に"
+    },
+    {
+      "surface": "מְחֹלֵֽנוּ",
+      "gloss": "私たちの舞いは"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:01.929025700Z",
+  "model": "glm-5.2"
+}

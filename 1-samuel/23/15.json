@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そしてダビデは見た、シャウルが命を求めるために出て来たことを。そしてダビドはいた、ジフの荒野に、ホレシャで。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出て来た"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルが"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "求めるために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の命を"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "彼の命を"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "そしてダビデは"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野に"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ジフの"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "ホレシャで"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:13.043406243Z",
+  "model": "glm-5.2"
+}

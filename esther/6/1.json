@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "その夜、王の眠りは逃げ去った。そして⟨彼は⟩、記念の書、すなわち日々の事績を⟨自分の前に⟩持って来るように言った。するとそれらは王の前で読まれた。",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "その夜"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "逃げ去った"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "…の眠り"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "持って来るように"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "記念の書"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "書"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "記念の"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "…の事績"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日々の"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "読まれる"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前で"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:41:46.391579622Z",
+  "model": "glm-5.2"
+}

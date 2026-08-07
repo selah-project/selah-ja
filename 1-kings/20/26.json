@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そして年の巡りが来たとき、ベン＝ハダドは⟨את⟩アラムを召集し、イスラエルと戦うためにアフェカへ上った。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "巡りが来たとき"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "年の"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "召集した"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ベン＝"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ハダド"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アラム"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラムを"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "上った"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "アフェカへ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "戦いのために"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:15.802072278Z",
+  "model": "glm-5.2"
+}

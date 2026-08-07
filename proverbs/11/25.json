@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "祝福するנפשは肥やされ、潤す者もまた彼自身潤される。",
+  "tokens": [
+    {
+      "surface": "נֶֽפֶשׁ",
+      "gloss": "נפש"
+    },
+    {
+      "surface": "בְּרָכָ֥ה",
+      "gloss": "祝福する"
+    },
+    {
+      "surface": "תְדֻשָּׁ֑ן",
+      "gloss": "肥やされる"
+    },
+    {
+      "surface": "וּ֝מַרְוֶ֗ה",
+      "gloss": "潤す者も"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "また"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "彼自身"
+    },
+    {
+      "surface": "יוֹרֶֽא",
+      "gloss": "潤される"
+    }
+  ],
+  "timestamp": "2026-08-07T18:42:07.400245145Z",
+  "model": "glm-5.2"
+}

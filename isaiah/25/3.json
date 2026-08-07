@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "それゆえ、強い民はあなたを重んじ、暴虐な国々の都市はあなたを恐れる。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "彼らはあなたを重んじ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "עז",
+      "gloss": "強い"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "都市は"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々の"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "暴虐な"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "あなたを恐れる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:57.305376149Z",
+  "model": "glm-5.2"
+}

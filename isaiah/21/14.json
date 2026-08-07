@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "渇いた者に会うため、水を持って来い、テマの地の住民よ。パンをもって、逃げる者に先んじよ。",
+  "tokens": [
+    {
+      "surface": "לִקְרַאת",
+      "gloss": "会うため"
+    },
+    {
+      "surface": "צָמֵא",
+      "gloss": "渇いた者"
+    },
+    {
+      "surface": "הֵתָיוּ",
+      "gloss": "持って来い"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "水"
+    },
+    {
+      "surface": "יֹשְׁבֵי",
+      "gloss": "住民よ"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "תֵּימָא",
+      "gloss": "テマ"
+    },
+    {
+      "surface": "בְּלַחְמוֹ",
+      "gloss": "パンをもって"
+    },
+    {
+      "surface": "קִדְּמוּ",
+      "gloss": "先んじよ"
+    },
+    {
+      "surface": "נֹדֵד",
+      "gloss": "逃げる者"
+    }
+  ],
+  "timestamp": "2026-08-07T11:24:46.776094141Z",
+  "model": "glm-5.2"
+}

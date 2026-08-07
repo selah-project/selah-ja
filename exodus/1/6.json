@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてヨセフは死に、彼のすべての兄弟たち、およびその世代のすべての者⟨も⟩死んだ。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "およびすべての"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄弟たち"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "およびすべての"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "その世代"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "あの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:11:46.857429993Z",
+  "model": "glm-5.2"
+}

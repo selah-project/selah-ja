@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "野に出てはならず、道を歩いてはならない。敵の剣があり、恐れが四方を取り巻いている⟨から⟩。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜するな"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "出ては"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野へ"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "道を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜するな"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "歩いては"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣が"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "敵の"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "恐れが"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "四方を取り巻いている"
+    }
+  ],
+  "timestamp": "2026-08-07T14:31:20.535318954Z",
+  "model": "glm-5.2"
+}

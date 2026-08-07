@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして彼の名はイスラエルにおいて「サンダルを脱がされた者の家」と呼ばれるであろう。",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "そして呼ばれる"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の名"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルにおいて"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "脱がされた者"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "サンダル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:19.764481065Z",
+  "model": "glm-5.2"
+}

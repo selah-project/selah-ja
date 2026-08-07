@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "それはあなたに長き日々と命の年、そしてシャロームを増し加えるからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも／それは〜だからである"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長き"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々を"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "そして〜の年を"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "命の"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "そしてシャロームを"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "彼らは増し加える"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:54.976135357Z",
+  "model": "glm-5.2"
+}

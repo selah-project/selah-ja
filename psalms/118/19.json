@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 118,
+  "translation": "私のために義の門を開け、私⟩は ⟨そこ⟩に⟩入ろう、ヤハを賛美しよう。",
+  "tokens": [
+    {
+      "surface": "פִּתְחוּ",
+      "gloss": "開け"
+    },
+    {
+      "surface": "לִ֥י",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "שַׁעֲרֵי",
+      "gloss": "門"
+    },
+    {
+      "surface": "צֶ֑דֶק",
+      "gloss": "義"
+    },
+    {
+      "surface": "אָֽבֹא",
+      "gloss": "入ろう"
+    },
+    {
+      "surface": "בָ֝ם",
+      "gloss": "それに"
+    },
+    {
+      "surface": "אוֹדֶ֥ה",
+      "gloss": "賛美しよう"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "ヤハ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:57.173272097Z",
+  "model": "glm-5.2"
+}

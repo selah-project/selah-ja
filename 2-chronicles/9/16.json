@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 9:16",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "また三百の盾を⟨作った⟩ — 打ち延ばされた金 — 三百⟨シェケル⟩の金が一つの盾にのぼり、王はそれらをレバノンの森の家に置いた。",
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "また三百の"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百（単位）"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "盾"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "打ち延ばされた"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "のぼる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "その盾"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "そして王はそれらを置いた"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "〜の家に"
+    },
+    {
+      "surface": "יער",
+      "gloss": "森"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "レバノン"
+    }
+  ],
+  "timestamp": "2026-08-07T17:38:39.463877587Z",
+  "model": "glm-5.2"
+}

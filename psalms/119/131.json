@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "私の口を大きく開き、あえいだ、あなたのミツォットを切に望んだのだから。",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "私の口を"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "大きく開き"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "あえいだ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "のだから"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "あなたのミツォットを"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "切に望んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:35.207763497Z",
+  "model": "glm-5.2"
+}

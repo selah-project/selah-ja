@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 11:22",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "羊と牛が彼らのために屠られて、彼らに⟨十分であろう⟩か。海のすべての魚が彼らのために集められて、彼らに⟨十分であろう⟩か。」",
+  "tokens": [
+    {
+      "surface": "הצאן",
+      "gloss": "羊の群れ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "と牛"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "屠られる"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らのために"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "そして十分であろうか"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "אם",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "海のすべての魚"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "魚"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海の"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "集められる"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らのために"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "そして十分であろうか"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:55:20.096052553Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 81,
+  "translation": "指揮者へ。ギテトに合わせて。アサフのための⟨賛歌⟩。",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֬חַ",
+      "gloss": "指揮者へ"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "〜に合わせて"
+    },
+    {
+      "surface": "הַגִּתִּ֬ית",
+      "gloss": "ギテト"
+    },
+    {
+      "surface": "לְאָסָֽף",
+      "gloss": "アサフのための"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:22.238144741Z",
+  "model": "glm-5.2"
+}

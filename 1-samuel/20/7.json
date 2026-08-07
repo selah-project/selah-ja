@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 20:7",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "もし彼がこう言ったら、『良い。あなたのしもべにシャロームがある。』だがもし彼が激しく怒るなら、知れ、彼から悪が決定されたのだと。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "彼が言うなら"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "シャローム"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "あなたのしもべに"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "だがもし"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "燃える"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "彼が激しく怒るなら"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "דע",
+      "gloss": "知れ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということ"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "完成した"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "悪が"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "彼から"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:17.119998716Z",
+  "model": "glm-5.2"
+}

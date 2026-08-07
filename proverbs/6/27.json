@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "人は火をその懐に入れて、その衣が焼けないことがあろうか。",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "〜ことがあろうか"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火を"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "その懐に"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "その衣が"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "焼け"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:39.265514228Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "私があなたに言葉で答えよう、そして⟨את⟩あなたの友と共に。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "私"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "あなたに答えよう"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "言葉で"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの友"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "あなたの友"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "共に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:28:56.198568232Z",
+  "model": "glm-5.2"
+}

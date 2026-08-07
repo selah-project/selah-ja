@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼はその上に⟨את⟩ホシェン（胸当て）を置き、⟨את⟩ウリムと⟨את⟩トンミムをホシェンに入れた。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "そして置いた"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ホシェン（胸当て）"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ホシェン（胸当て）"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして入れた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～の中に"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ホシェン（胸当て）"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ウリム"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "ウリム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "トンミム"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "トンミム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:00.536645460Z",
+  "model": "glm-5.2"
+}

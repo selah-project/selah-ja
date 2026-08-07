@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 13:43",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして祭司は彼⟨を⟩見る。見よ、病変の隆起が白くて赤みを帯び、彼の後頭部のはげまたは額のはげにあり、肉の皮にあるツァラアトの外観のようであるならば。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "そして…見る"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司は"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "隆起が"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "病変の"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "白くて"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "赤みを帯び"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "彼の後頭部のはげに"
+    },
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "彼の額のはげに"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "〜の外観のようである"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ツァラアトの"
+    },
+    {
+      "surface": "עור",
+      "gloss": "皮の"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:15.033445283Z",
+  "model": "glm-5.2"
+}

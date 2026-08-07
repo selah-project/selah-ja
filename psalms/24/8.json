@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "だれだ、この栄光の王は？ ヤハウェ、強く力ある者、戦いに力あるヤハウェ。",
+  "tokens": [
+    {
+      "surface": "מִ֥י",
+      "gloss": "だれだ"
+    },
+    {
+      "surface": "זֶה֮",
+      "gloss": "この"
+    },
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "הַכָּ֫ב֥וֹד",
+      "gloss": "栄光の"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עִזּ֣וּז",
+      "gloss": "強く"
+    },
+    {
+      "surface": "וְגִבּ֑וֹר",
+      "gloss": "そして力ある者"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "גִּבּ֥וֹר",
+      "gloss": "力ある"
+    },
+    {
+      "surface": "מִלְחָמָֽה",
+      "gloss": "戦いに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:38.814946720Z",
+  "model": "glm-5.2"
+}

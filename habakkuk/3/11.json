@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "太陽 ⟨と⟩ 月、その住処に立った。あなたの矢の光によって歩いた。あなたの槍の輝きによって。",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "月"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "立った"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "その住処に"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "光によって"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "あなたの矢の"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "歩いた"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "輝きによって"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "稲妻"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "あなたの槍の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:29:00.101969130Z",
+  "model": "glm-5.2"
+}

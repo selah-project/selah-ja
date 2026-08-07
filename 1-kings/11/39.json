@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして私はこのゆえにダビデの胤を悩ます — ⟨את⟩。ただし、すべての日々においてではない。",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "そして私は悩ます"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダビデの胤"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "胤"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日々"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:31.629567372Z",
+  "model": "glm-5.2"
+}

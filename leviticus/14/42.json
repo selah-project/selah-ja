@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして彼らは別の石を取り、それらの石の代わりに運び入れ、別の土を取り、⟨את⟩家に塗らなければならない。",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "そして彼らは取る"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石を"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "別の"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "そして運び入れる"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "代わりに"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "それらの石の"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "そして土を"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別の"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "彼は取る"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "そして塗る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:59.045199257Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "正しい者たちが躍り上がる⟨とき⟩、大いなる栄光がある。しかし悪しき者たちが立つ⟨とき⟩、人は身を隠す。",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "躍り上がるとき"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "正しい者たちが"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "栄光が"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "しかし立つとき"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪しき者たちが"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "身を隠す"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:37.948072319Z",
+  "model": "glm-5.2"
+}

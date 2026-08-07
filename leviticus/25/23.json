@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして ⟨その⟩地は、絶え去るためには売ってはならない。因为地はわたしのものだからである。あなたがたはわたしと共にいる寄留者であり滞留者だからである。",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "そして地は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "売られる"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "絶え去るために"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしのもの"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "寄留者"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "そして滞留者"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたがたは"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "わたしと共に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:43:02.017398322Z",
+  "model": "glm-5.2"
+}

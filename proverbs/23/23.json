@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "真理を買え。そして売るな。知恵と訓戒と理解も⟨同様である⟩。",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "真理"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "买え"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "～な"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "売る"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "と训戒"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "と理解"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:14.277253043Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "知恵ある者たちの舌は知識を良くし、愚か者たちの口は愚かさを噴き出す。",
+  "tokens": [
+    {
+      "surface": "לְשׁ֣וֹן",
+      "gloss": "舌"
+    },
+    {
+      "surface": "חֲ֭כָמִים",
+      "gloss": "知恵ある者たちの"
+    },
+    {
+      "surface": "תֵּיטִ֣יב",
+      "gloss": "良くする"
+    },
+    {
+      "surface": "דָּ֑עַת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "וּפִ֥י",
+      "gloss": "そして〜の口"
+    },
+    {
+      "surface": "כְ֝סִילִ֗ים",
+      "gloss": "愚か者たちの"
+    },
+    {
+      "surface": "יַבִּ֥יעַ",
+      "gloss": "噴き出す"
+    },
+    {
+      "surface": "אִוֶּֽלֶת",
+      "gloss": "愚かさ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:51.959025798Z",
+  "model": "glm-5.2"
+}

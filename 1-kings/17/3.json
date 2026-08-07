@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "ここから去れ、そしてあなたは東へ向かい、ヨルダンの東にあるケリトの谷で身を隠せ。",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "行け"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ここから"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "そしてあなたは向く"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "東へ"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "そして身を隠せ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "谷で"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "ケリト"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "על",
+      "gloss": "の"
+    },
+    {
+      "surface": "פני",
+      "gloss": "東に"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルダン"
+    }
+  ],
+  "timestamp": "2026-08-07T16:50:06.216855636Z",
+  "model": "glm-5.2"
+}

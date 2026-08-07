@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "エステルはハタクに語り、彼にモルデカイへの命令を与えた。",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "そして…語った"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "エステルは"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "ハタクに"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "そして…彼に命じた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "モルデカイ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:54.392738031Z",
+  "model": "glm-5.2"
+}

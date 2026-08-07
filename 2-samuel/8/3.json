@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "ダビデは⟨את⟩ハダデゼル・ベン・レホブ、ツォバの王を打った。彼が自分の手を川に取り返そうとして出て行ったときに。",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "打った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ハダデゼル"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ハダデゼル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "～の息子"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "レホブ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ツォバ"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "彼が出て行ったとき"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "取り返すために"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "川に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:52.788798642Z",
+  "model": "glm-5.2"
+}

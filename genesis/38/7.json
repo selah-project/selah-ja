@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 38:7",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そしてユダの長子エルはヤハウェの目に悪であったので、ヤハウェは彼を死なせた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜だった"
+    },
+    {
+      "surface": "ער",
+      "gloss": "エル"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "長子"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "〜の目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "そして彼を死なせた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:27.953823212Z",
+  "model": "glm-5.2"
+}

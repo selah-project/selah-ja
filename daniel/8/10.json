@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして、それは天の軍勢にまで大きくなり、軍勢と星々のうち地に向かって投げ落とし、それらを踏みつけた。",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "そして大きくなった"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜にまで"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "軍勢"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "そして投げ落とした"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地に向かって"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜のうちから"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "その軍勢"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "そして〜のうちから"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "星々"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "それらを踏みつけた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:46:27.006056156Z",
+  "model": "glm-5.2"
+}

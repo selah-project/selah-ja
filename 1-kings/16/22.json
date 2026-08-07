@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "オムリに従う民はティブニ・ベン・ギナテに従う民⟨את⟩より強くなった。ティブニは死に、オムリは王となった。",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "強くなった"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "に従う"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "オムリ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "に従う"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "ティブニ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "・ベン・"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "ギナテ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "死に"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "ティブニ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "オムリ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:18.842907493Z",
+  "model": "glm-5.2"
+}

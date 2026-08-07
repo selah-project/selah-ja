@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして民が天幕を出発してヨルダンを渡るため、⟨את⟩ヨルダンを（渡ろう）とする時、契約の箱を担ぐ祭司たちが民の前に（立った）。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "出発する時"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民が"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "天幕から"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "渡るため"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨルダン"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルダン"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "そして祭司たち"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "担ぐ者たち"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "箱の"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "契約の"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "前に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:23:57.041522978Z",
+  "model": "glm-5.2"
+}

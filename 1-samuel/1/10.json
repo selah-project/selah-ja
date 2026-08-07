@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして彼女 — ネフェシュが苦しんで — ヤハウェに祈った。そして激しく泣いて泣いた。",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "そして彼女"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "苦しんで"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ネフェシュ"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "そして彼女は祈った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "そして泣いて"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "泣いた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:39:38.827786100Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 43:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "そして倍の銀をあなたがたの手に取れ。そして⟨את⟩あなたがたの袋の口に返されていた銀を、あなたがたの手に持って返せ。おそらくそれは誤りであったのだろうか。」",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "そして銀を"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "倍の"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "あなたがたの手に"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "銀"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀を"
+    },
+    {
+      "surface": "המושב",
+      "gloss": "返されていた"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "口に"
+    },
+    {
+      "surface": "אמתחתיכם",
+      "gloss": "あなたがたの袋の"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "返せ"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "あなたがたの手に"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "おそらく"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "誤り"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:52.111490012Z",
+  "model": "glm-5.2"
+}

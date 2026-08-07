@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 53,
+  "translation": "さげすまれ、人々に見捨てられ、痛みを知る者、病を親しんだ者。彼からのように顔を隠し、さげすまれ、私たちは彼を評価しなかった。",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "さげすまれ"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "そして見捨てられ"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "人々に"
+    },
+    {
+      "surface": "איש",
+      "gloss": "者"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "痛み"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "そして親しんだ"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "病を"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "そして隠し"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "顔を"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "彼から"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "さげすまれ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "私たちは彼を評価した"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:38.420526261Z",
+  "model": "glm-5.2"
+}

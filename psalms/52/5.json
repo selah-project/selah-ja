@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "あなたは悪を善よりも愛し、偽りを正しく語ることよりも⟨愛した⟩。 セラ",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "あなたは愛した"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "善よりも"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りを"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "語ることよりも"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "正しく"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:46.890828401Z",
+  "model": "glm-5.2"
+}

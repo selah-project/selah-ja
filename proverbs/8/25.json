@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "山々が沈められる前に、丘々の前に、私は生み出された。",
+  "tokens": [
+    {
+      "surface": "בְּטֶ֣רֶם",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "הָרִ֣ים",
+      "gloss": "山々が"
+    },
+    {
+      "surface": "הָטְבָּ֑עוּ",
+      "gloss": "沈められる"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "גְבָע֣וֹת",
+      "gloss": "丘々の"
+    },
+    {
+      "surface": "חוֹלָֽלְתִּי",
+      "gloss": "私は生み出された"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:07.324028969Z",
+  "model": "glm-5.2"
+}

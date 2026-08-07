@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "風を蒔くからだ。そして突風を刈り取る。穀物の茎は立たず、芽は粉を作らない。たとえ作っても、よそ者たちがそれを飲み込む。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "からだ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風を"
+    },
+    {
+      "surface": "יזרעו",
+      "gloss": "蒔く"
+    },
+    {
+      "surface": "וסופתה",
+      "gloss": "そして突風を"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "刈り取る"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "穀物の茎は"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "芽は"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "作らず"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "作る"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "粉を"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "たとえ〜しても"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "作っても"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "よそ者たちが"
+    },
+    {
+      "surface": "יבלעהו",
+      "gloss": "それを飲み込む"
+    }
+  ],
+  "timestamp": "2026-08-07T12:20:08.759620393Z",
+  "model": "glm-5.2"
+}

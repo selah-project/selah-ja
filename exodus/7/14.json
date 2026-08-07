@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてヤハウェはモーセ⟨に⟩言われた。「パロの心は重い。民を去らせることを拒んでいる。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜⟨に⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "重い"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "拒んでいる"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "去らせることを"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:10.414716219Z",
+  "model": "glm-5.2"
+}

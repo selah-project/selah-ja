@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして⟨את⟩その地を見よ——それはどういう⟨もの⟩か。そして⟨את⟩その上に住む民は——彼らは強いか、弱いか。彼らは少ないか、それとも多いのか。",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "そして…見よ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは…か"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "住む"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "強い"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼らは…か"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "弱い"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "少ない"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼らは…か"
+    },
+    {
+      "surface": "אם",
+      "gloss": "それとも"
+    },
+    {
+      "surface": "רב",
+      "gloss": "多い"
+    }
+  ],
+  "timestamp": "2026-08-07T09:55:54.620760139Z",
+  "model": "glm-5.2"
+}

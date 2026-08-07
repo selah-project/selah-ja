@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 47:3",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "その人が東へ出て行くとき――手に測り綱を持って――彼は千アンマを測り、私を水の中を通らせた。それは足首の水であった。",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "〜が出て行くとき"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その人が"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東へ"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "そして測り綱を"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "手に"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "そして彼は測った"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千を"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "アンマで"
+    },
+    {
+      "surface": "ויעברני",
+      "gloss": "そして彼は私を通らせた"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水の中を"
+    },
+    {
+      "surface": "מי",
+      "gloss": "水であった"
+    },
+    {
+      "surface": "אפסים",
+      "gloss": "足首の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:16:31.679485641Z",
+  "model": "glm-5.2"
+}

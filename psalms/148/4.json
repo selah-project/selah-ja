@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 148,
+  "translation": "天の天々よ、 ⟨彼を⟩ 賛美せよ。そして、天々の上にある水々よ。",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "彼を賛美せよ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "〜の天々"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "そして水々"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天々"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:39.239689217Z",
+  "model": "glm-5.2"
+}

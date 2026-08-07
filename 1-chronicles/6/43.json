@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして⟨את⟩ ヒレズと⟨את⟩ その牧草地、⟨את⟩ デビルと⟨את⟩ その牧草地を。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ヒレズ"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "ヒレズ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その牧草地"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "その牧草地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "デビル"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "デビル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その牧草地"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "その牧草地"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:00.453504028Z",
+  "model": "glm-5.2"
+}

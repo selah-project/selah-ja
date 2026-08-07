@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そして彼は高き所でいけにえを屠り、香をたき、丘の上で、すべての青葉の木の下で⟨も同様であった⟩。",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "そして屠った・いけにえを"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "そして香をたいた"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "高き所で"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上で"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "その丘"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "そして〜の下で"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木の"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "青葉の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:03.256346699Z",
+  "model": "glm-5.2"
+}

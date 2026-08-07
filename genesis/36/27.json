@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "これらは⟨の⟩エツェルの子らである：ビルハン、およびザアワン、およびアカン。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "エツェル"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ビルハン"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "およびザアワン"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "およびアカン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:50.118551912Z",
+  "model": "glm-5.2"
+}

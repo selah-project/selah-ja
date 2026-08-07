@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "2-samuel 22:50",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "それゆえ、ヤハウェよ、わたしは諸国の民の中であなたを賛美し、あなたの御名に向かって歌う。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "כן",
+      "gloss": "それ"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "わたしはあなたを賛美し"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "諸国の民の中で"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "そしてあなたの御名に向かって"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "わたしは歌う"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:30.175374751Z",
+  "model": "glm-5.2"
+}

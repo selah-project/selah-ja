@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 40:17",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "すべての国々は御前にあって無きに等しく、ゼロと混沌として彼に算えられた。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הַגּוֹיִ֖ם",
+      "gloss": "国々は"
+    },
+    {
+      "surface": "כְּאַ֣יִן",
+      "gloss": "無きに等しく"
+    },
+    {
+      "surface": "נֶגְדּ֑וֹ",
+      "gloss": "御前にあって"
+    },
+    {
+      "surface": "מֵאֶ֥פֶס",
+      "gloss": "ゼロ"
+    },
+    {
+      "surface": "וָתֹ֖הוּ",
+      "gloss": "と混沌"
+    },
+    {
+      "surface": "נֶחְשְׁבוּ",
+      "gloss": "算えられた"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:29.043181409Z",
+  "model": "glm-5.2"
+}

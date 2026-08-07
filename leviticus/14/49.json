@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして家を浄めるために二羽の鳥と、杉の木と、緋色のものと、ヒソプを取る。",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "そして取る"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "浄めるために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "家を"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "と木"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "杉"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "と緋色"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "の虫（染料）"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "とヒソプ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:36.083839702Z",
+  "model": "glm-5.2"
+}

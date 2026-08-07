@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "それゆえ、ヤハウェの戦いの書で言われている — 「⟨את⟩ ヴァヘブをスファにおいて、そして ⟨את⟩ アルノンの谷川を。」",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "כן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "言われている"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "〜の書で"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "戦いの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヴァヘブ"
+    },
+    {
+      "surface": "והב",
+      "gloss": "ヴァヘブ"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "スファにおいて"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アルノンの谷川"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "谷川"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "アルノンの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:58:15.795097346Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてエシュトンは ⟨את⟩ ベテ・ラファと、⟨את⟩ パセアと、⟨את⟩ テヒナを生子した。テヒナはイル・ナハシュの父 ⟨である⟩。これらはレカの人々 ⟨である⟩。",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "そしてエシュトンは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生子した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ベテ・ラファを"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベテ"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "ラファ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "パセアを"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "パセア"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "テヒナを"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "テヒナ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "～の父"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "イル"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ナハシュ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "～の人々"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "レカ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:30.013715090Z",
+  "model": "glm-5.2"
+}

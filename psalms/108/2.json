@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 108,
+  "translation": "私の心は定まっている、エロヒム、私は歌う、さらに私は琴を奏でる、私の栄光も⟨共に⟩。",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "定まっている"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "私の心は"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "私は歌う"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "さらに私は琴を奏でる"
+    },
+    {
+      "surface": "אף",
+      "gloss": "さらに〜も"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "私の栄光"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:53.781495850Z",
+  "model": "glm-5.2"
+}

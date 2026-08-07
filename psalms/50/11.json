@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "わたしは山のすべての鳥を知っている、そして野の生き物はわたしと共にいる。",
+  "tokens": [
+    {
+      "surface": "יָדַעְתִּי",
+      "gloss": "わたしは知っている"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עוֹף",
+      "gloss": "鳥を"
+    },
+    {
+      "surface": "הָרִים",
+      "gloss": "山の"
+    },
+    {
+      "surface": "וְזִיז",
+      "gloss": "そして生き物は"
+    },
+    {
+      "surface": "שָׂדַי",
+      "gloss": "野の"
+    },
+    {
+      "surface": "עִמָּדִי",
+      "gloss": "わたしと共にいる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:18.624657799Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして私は行き、ペラテ（ユーフラテス）にそれを隠した、ヤハウェが私に命じたとおりに。",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "そして私は行った"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "そして私はそれを隠した"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "ペラテ（ユーフラテス）に"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のとおりに"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "私に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:45:53.452653974Z",
+  "model": "glm-5.2"
+}

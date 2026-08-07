@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "怠惰は深い眠りを落とし、怠け者のネフェシュは飢える。",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "怠惰"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "落とす"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "深い眠りを"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "そしてネフェシュ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "怠け者の"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "飢える"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:17.140968362Z",
+  "model": "glm-5.2"
+}

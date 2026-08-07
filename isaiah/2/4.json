@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 2:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして⟨彼⟩は国々の間を裁き、多くの民を戒める。彼らは自分たちの剣を鋤に打ち直し、自分たちの槍を刈り込み鎌に打ち直す。国は国に向かって剣を上げず、彼らはもはや戦いを学ばない。",
+  "tokens": [
+    {
+      "surface": "ושפט",
+      "gloss": "裁き"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間を"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "国々の"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "戒める"
+    },
+    {
+      "surface": "לעמים",
+      "gloss": "民を"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "וכתתו",
+      "gloss": "打ち直し"
+    },
+    {
+      "surface": "חרבותם",
+      "gloss": "自分たちの剣を"
+    },
+    {
+      "surface": "לאתים",
+      "gloss": "鋤に"
+    },
+    {
+      "surface": "וחניתותיהם",
+      "gloss": "自分たちの槍を"
+    },
+    {
+      "surface": "למזמרות",
+      "gloss": "刈り込み鎌に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "上げず"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "国は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "国"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "学ばない"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦いを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:56.359697318Z",
+  "model": "glm-5.2"
+}

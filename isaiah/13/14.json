@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 13:14",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして追い払われた羚羊のようになり、集める者のいない羊のようになる。おのおの ⟨彼ら⟩は自分の民のほうへ向き、おのおの自分の地へ逃げる。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "羚羊のように"
+    },
+    {
+      "surface": "מדח",
+      "gloss": "追い払われた"
+    },
+    {
+      "surface": "וכצאן",
+      "gloss": "そして羊のように"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "〜がいない"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "集める者"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のほうへ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "自分の民"
+    },
+    {
+      "surface": "יפנו",
+      "gloss": "彼らは向く"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "そしておのおの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "自分の地"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "逃げる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:37.132044746Z",
+  "model": "glm-5.2"
+}

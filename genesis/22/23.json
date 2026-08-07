@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "ベトエルはリベカを生んだ。これら八人を、ミルカはアブラハムの兄弟ナホルへ⟨生んだ⟩。",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "そしてベトエルは"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "リベカ"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "リベカ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "八人"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ミルカ"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "ナホルへ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:23.521769863Z",
+  "model": "glm-5.2"
+}

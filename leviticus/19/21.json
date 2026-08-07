@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして彼は ⟨את⟩ 自分の罪過のささげ物をヤハウェのもとに、会見の天幕の入り口に、罪過のささげ物として雄羊を携えなければならない。",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "そして彼は携えなければならない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の罪過のささげ物"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "自分の罪過のささげ物"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェのもとに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見"
+    },
+    {
+      "surface": "איל",
+      "gloss": "雄羊"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "罪過のささげ物"
+    }
+  ],
+  "timestamp": "2026-08-07T09:40:57.935175177Z",
+  "model": "glm-5.2"
+}

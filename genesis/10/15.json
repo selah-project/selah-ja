@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてカナンは⟨את⟩ツィドンを、その初子として、そして⟨את⟩ヘトを生んだ。",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "そしてカナンは"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ツィドン"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "ツィドン"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "その初子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ヘト"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ヘト"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:30.309502176Z",
+  "model": "glm-5.2"
+}

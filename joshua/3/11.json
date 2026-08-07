@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 3:11",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "見よ、全地のアドンの契約の箱があなたがたの前を通って、ヤルデンに入る。」",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "契約の"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "アドン"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "通って行く"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "あなたがたの前を"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "ヤルデンに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:23:55.777044884Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 13:13",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "ヨアシュは彼の先祖たちと共に横たわり、ヤラベアムが彼の玉座に座った。そしてヨアシュはイスラエルの王たちと共にシャマロンに葬られた。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "横たわった"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ヨアシュ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "彼の先祖たち"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "ヤラベアム"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "座った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "彼の玉座"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "葬られた"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ヨアシュ"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "シャマロンに"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:14:50.009542572Z",
+  "model": "glm-5.2"
+}

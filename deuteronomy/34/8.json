@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そしてイスラエルの子らはモーシェ⟨את⟩のために泣いた——モアブの平野で三十日。そしてモーシェのために泣き、嘆びの日々は終わった。",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "そして泣いた"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーシェを"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "〜の平野で"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "そして終わった"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "〜の日々"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "泣き"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "嘆び"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:22:21.001469959Z",
+  "model": "glm-5.2"
+}

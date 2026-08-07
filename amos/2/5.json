@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "わたしは火をヤフダに送り、それはイェルシャライム（エルサレム）の城館を焼き尽くす。",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "わたしは送る"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ヤフダに"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "それは焼き尽くす"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "城館"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライム"
+    }
+  ],
+  "timestamp": "2026-08-07T12:22:04.030484516Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 56,
+  "translation": "エロヒムに私は信頼した、私は恐れない。人が私に何をなしうるか。",
+  "tokens": [
+    {
+      "surface": "בֵּֽאלֹהִ֣ים",
+      "gloss": "エロヒムに"
+    },
+    {
+      "surface": "בָּ֭טַחְתִּי",
+      "gloss": "私は信頼した"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אִירָ֑א",
+      "gloss": "私は恐れる"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "יַּעֲשֶׂ֖ה",
+      "gloss": "なしうるか"
+    },
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "人が"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "私に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:16.254659297Z",
+  "model": "glm-5.2"
+}

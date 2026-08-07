@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 10:1",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "ペリシュテ人はイスラエルと戦い、イスラエルの男たちはペリシュテ人の前から逃げ、傷つかれた者たちがギルボア山に倒れた。",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "そしてペリシュテ人は"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "戦った"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルと"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "そして逃げた"
+    },
+    {
+      "surface": "איש",
+      "gloss": "〜の男たちは"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜の前から"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシュテ人の"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "そして倒れた"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "傷つかれた者たちが"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "〜の山に"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "ギルボア"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:40.230038284Z",
+  "model": "glm-5.2"
+}

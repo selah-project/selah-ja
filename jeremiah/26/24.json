@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 26:24",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "ただし、シャファンの子アキカムの手はヤルメヤフ⟨と共に⟩あった — 彼を民の手に渡して殺さないために。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "יד",
+      "gloss": "…の手"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "アキカム"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "シャファン"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨…と共に⟩",
+      "marks": "ヤルメヤフ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ヤルメヤフ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "…ないために"
+    },
+    {
+      "surface": "תת",
+      "gloss": "渡す"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩…を",
+      "marks": "彼"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…の手に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "彼を殺す"
+    }
+  ],
+  "timestamp": "2026-08-07T11:49:26.848325712Z",
+  "model": "glm-5.2"
+}

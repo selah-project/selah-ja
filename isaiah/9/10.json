@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "ヤハウェは⟨את⟩レツィンの敵を彼の上に高く上げ、彼の敵をそそのかせられた",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "高く上げられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レツィンの敵"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "レツィンの"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "敵を"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼の上に"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼の敵"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "彼の敵を"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "そそのかせられた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:46.223915165Z",
+  "model": "glm-5.2"
+}

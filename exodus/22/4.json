@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "人が畑か葡萄園を食い荒らし、家畜を放って他人の畑で食い荒らしたなら、彼は自分の畑の最良のものから、自分の葡萄園の最良のものから償わなければならない。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "食い荒らしたなら"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人が"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "畑を"
+    },
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "葡萄園を"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "そして放って"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "家畜を"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "家畜を"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "そして食い荒らしたなら"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "畑で"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "他人の"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "最良のものから"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "自分の畑の"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "そして最良のものから"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "自分の葡萄園の"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "償わなければならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:29.480989533Z",
+  "model": "glm-5.2"
+}

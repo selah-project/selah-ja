@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "アヒマアツは⟨את⟩アザルヤを生み、アザルヤは⟨את⟩ヨハナンを生んだ。",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "そしてアヒマアツは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アザルヤ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "アザルヤ"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "そしてアザルヤは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨハナン"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "ヨハナン"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:19.625358752Z",
+  "model": "glm-5.2"
+}

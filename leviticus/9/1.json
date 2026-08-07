@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして第八日になったとき、モーシェはアハロンとその子らとイスラエルの長老たちを呼んだ。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…になった"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…の日に"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "第八"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼んだ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "アハロンに"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "そしてその子らに"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "そして…の長老たちに"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:52.632275957Z",
+  "model": "glm-5.2"
+}

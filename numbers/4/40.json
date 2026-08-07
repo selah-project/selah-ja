@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "彼らの数えられた者たちは、彼らの氏族別に、彼らの父祖の家別に、二千六百三十人であった。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "彼らの数えられた者たちは"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "彼らの氏族別に"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "家別に"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "彼らの父祖の"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "二千"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "および六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "および三十"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:48.806930510Z",
+  "model": "glm-5.2"
+}

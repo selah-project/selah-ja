@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてヤハウェの言葉が預言者ハガイの手によってあった、これを言うために。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして～があった"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手によって"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "ハガイ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言うために"
+    }
+  ],
+  "timestamp": "2026-08-07T12:30:02.875905384Z",
+  "model": "glm-5.2"
+}

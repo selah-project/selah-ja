@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 93,
+  "translation": "あなたの王座は⟨確立されていた⟩、その時から。あなたは永遠から⟨おられる⟩。",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "確立されていた"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "あなたの王座は"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "その時から"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "永遠から"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:38.087487398Z",
+  "model": "glm-5.2"
+}

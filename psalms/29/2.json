@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ヤハウェに、⟨その⟩名の栄光を帰せよ。ヤハウェに、聖なる装いにおいてひれ伏せ。",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "帰せよ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "栄光"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨その⟩名の"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "ひれ伏せ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "〜の装いにおいて"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:37.989099986Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 8:6",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "彼は私がナイル運河の前に立っているのを見たあの二本の角を持つ雄羊のところまで来た。そして彼は激しい力をもってそれに向かって走った。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして彼は来た"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "雄羊の"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "持つ"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "角の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "あの"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私が見た"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "立っている"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "האבל",
+      "gloss": "ナイル運河"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "そして彼は走った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "それに向かって"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "激しさをもって"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "その力の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:47:07.037128583Z",
+  "model": "glm-5.2"
+}

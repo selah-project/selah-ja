@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "鉄は塵から取られ、石は銅のために鋳造される。",
+  "tokens": [
+    {
+      "surface": "בַּ֭רְזֶל",
+      "gloss": "鉄は"
+    },
+    {
+      "surface": "מֵעָפָ֣ר",
+      "gloss": "塵から"
+    },
+    {
+      "surface": "יֻקָּ֑ח",
+      "gloss": "取られる"
+    },
+    {
+      "surface": "וְ֝אֶ֗בֶן",
+      "gloss": "そして石は"
+    },
+    {
+      "surface": "יָצ֥וּק",
+      "gloss": "鋳造される"
+    },
+    {
+      "surface": "נְחוּשָֽׁה",
+      "gloss": "銅の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:27:12.809856565Z",
+  "model": "glm-5.2"
+}

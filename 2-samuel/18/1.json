@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "ダビデは自分とともにいる民を点検し、⟨彼ら⟩の上に千人の長と百人の長を任命した。",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "そして点検した"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼とともにいる"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "そして任命した"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らの上に"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "〜の長を"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千人"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "そして〜の長を"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:54:50.444236351Z",
+  "model": "glm-5.2"
+}

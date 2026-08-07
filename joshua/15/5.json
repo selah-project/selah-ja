@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 15:5",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "東の境界は塩の海、ヨルデンの果てまでであった。そして北の方向の境界は、海の舌から、ヨルデンの果てから⟨始まる⟩。",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "そして境界は"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "東へ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "塩の"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "果て"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルデンの"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "そして境界は"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "〜の方向へ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "北"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "〜の舌から"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海の"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "〜の果てから"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルデンの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:28:05.966480615Z",
+  "model": "glm-5.2"
+}

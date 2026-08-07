@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 15:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "愚か者は父の訓戒を侮るが、戒めを守る者は賢さを得る。",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "愚か者"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "侮る"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "訓戒"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "父の"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "守る者は"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "戒め"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "賢さを得る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:42.757522551Z",
+  "model": "glm-5.2"
+}

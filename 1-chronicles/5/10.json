@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 5:10",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "シャウルの日々に、彼らはハグラエル人と戦いを行った。そして彼らは彼らの手に落ちた。彼らは彼らの天幕に住んだ。ギルアドの東の全面にわたって。",
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "〜の日々に"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "彼らは行った"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦い"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "ההגראים",
+      "gloss": "ハグラエル人"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "そして彼らは落ちた"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "彼らの手に"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "そして彼らは住んだ"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "彼らの天幕に"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "東の"
+    },
+    {
+      "surface": "לגלעד",
+      "gloss": "ギルアドの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:10.814128620Z",
+  "model": "glm-5.2"
+}

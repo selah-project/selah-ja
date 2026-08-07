@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 26:17",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "アルドについては、アルド人⟨の⟩氏族。アルエリについては、アルエリ人⟨の⟩氏族。",
+  "tokens": [
+    {
+      "surface": "לארוד",
+      "gloss": "アルドについては"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "氏族"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "アルド人"
+    },
+    {
+      "surface": "לאראלי",
+      "gloss": "アルエリについては"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "氏族"
+    },
+    {
+      "surface": "האראלי",
+      "gloss": "アルエリ人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:00:34.124195644Z",
+  "model": "glm-5.2"
+}

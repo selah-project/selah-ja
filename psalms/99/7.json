@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 99,
+  "translation": "雲の柱の中で⟨彼⟩は彼らに語り、彼らは彼のあかしを守った。彼は彼らに定めを与えられた。",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "柱の中で"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "雲の"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "⟨彼⟩は語り"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "彼らは守った"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "彼のあかしを"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "そして定めを"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えられた"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:21.923424015Z",
+  "model": "glm-5.2"
+}

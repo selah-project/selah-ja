@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "火によって、剣によって、ヤハウェがすべての肉 ⟨את⟩ を裁くからである。ヤハウェに刺し貫かれた者の数は多くなる。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "――からである"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火によって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "裁く"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "⟨その⟩剣によって"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての肉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "多くなる"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "刺し貫かれた者の数"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:38:25.923152225Z",
+  "model": "glm-5.2"
+}

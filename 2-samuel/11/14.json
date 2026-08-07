@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "朝になった。ダビデはヨアブ宛ての手紙を書き、ウリヤの手によってそれを送った。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "〜になった"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "書いた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "手紙を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜宛てに"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "送った"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手によって"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ウリヤの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:26:53.117965332Z",
+  "model": "glm-5.2"
+}

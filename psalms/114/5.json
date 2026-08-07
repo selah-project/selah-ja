@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 114,
+  "translation": "海よ、あなたに何が ⟨あるのか⟩、逃げる ⟨のか⟩。ヨルダンよ、あなたは後ろ ⟨へ⟩ 向きを変える ⟨のか⟩。",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "何が"
+    },
+    {
+      "surface": "לְּךָ֣",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "הַ֭יָּם",
+      "gloss": "海よ"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "⟨のか⟩"
+    },
+    {
+      "surface": "תָנ֑וּס",
+      "gloss": "逃げる"
+    },
+    {
+      "surface": "הַ֝יַּרְדֵּ֗ן",
+      "gloss": "ヨルダンよ"
+    },
+    {
+      "surface": "תִּסֹּ֥ב",
+      "gloss": "向きを変える"
+    },
+    {
+      "surface": "לְאָחֽוֹר",
+      "gloss": "後ろ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:28.890761789Z",
+  "model": "glm-5.2"
+}

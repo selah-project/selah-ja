@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 54,
+  "translation": "見よ、もし者が集まっても、それはわたしによらず。誰があなたと共に寄留し、あなたの上に倒れようか。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "גור",
+      "gloss": "寄留する者が"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "集まるとしても"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "わたしによらず"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "גר",
+      "gloss": "寄留して"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたの上に"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "倒れようか"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:38.520463591Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてシェバの女王は見た。⟨את⟩シュロモの知恵と、彼が建てた家を。",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "そして…見た"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "…女王"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "シェバの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "知恵"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "知恵"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモの"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "そして…家"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…もの"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "彼が建てた"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:16.805740022Z",
+  "model": "glm-5.2"
+}

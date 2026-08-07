@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 19:8",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "⟨彼は⟩ 私の道を壁で囲んだ。だから私は通れない。そして私の道筋の上に闇を置かれた。",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "私の道"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "壁で囲んだ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "私は通れる"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "נתיבותי",
+      "gloss": "私の道筋"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "闇"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "置かれた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:24:52.940372521Z",
+  "model": "glm-5.2"
+}

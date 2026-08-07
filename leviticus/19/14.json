@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "耳の聞こえない者を呪ってはならない。盲人の前に ⟨⟨つまずきの石⟩⟩ を置いてはならない。そしてあなたのエロヒムを恐れよ。私がヤハウェである。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "呪っては"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "耳の聞こえない者を"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "עור",
+      "gloss": "盲人の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "置いては"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "つまずきの石を"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "そして恐れよ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "あなたのエロヒムを"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私が"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T16:31:07.870937513Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてバラクは彼女に言った — 「もしあなたが私と共に行くなら、私は行こう。だがもし − あなたが私と共に行かないなら、私は行かない。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "バラクは"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "あなたが行くなら"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "私と共に"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "私は行こう"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "あなたが行く"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "私と共に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "私は行こう"
+    }
+  ],
+  "timestamp": "2026-08-07T10:33:24.778668086Z",
+  "model": "glm-5.2"
+}

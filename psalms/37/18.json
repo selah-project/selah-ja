@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "ヤハウェは全き者たちの日々を知っておられる、⟨そして⟩彼らの受け継ぐ嗣業はとこしえに ⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "知っておられる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日々を"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "全き者たちの"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "そして彼らの受け継ぐ嗣業は"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨ある⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T17:18:31.929122507Z",
+  "model": "glm-5.2"
+}

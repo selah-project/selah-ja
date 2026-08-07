@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 73,
+  "translation": "そしてわたしは、このことを知ろうと思い巡らしたが、⟨それは⟩わたしの目には労苦であった。",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "そしてわたしは思い巡らした"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "知ろうと"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "このことを"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "労苦"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "わたしの目には"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:14.662159804Z",
+  "model": "glm-5.2"
+}

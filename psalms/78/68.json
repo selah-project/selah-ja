@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "そしてユダの部族を、⟨את⟩ 選び、愛されたシオンの山を、⟨את⟩ 選んだ。",
+  "tokens": [
+    {
+      "surface": "וַ֭יִּבְחַר",
+      "gloss": "そして選んだ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "部族"
+    },
+    {
+      "surface": "שֵׁ֣בֶט",
+      "gloss": "部族を"
+    },
+    {
+      "surface": "יְהוּדָ֑ה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "山"
+    },
+    {
+      "surface": "הַ֥ר",
+      "gloss": "山を"
+    },
+    {
+      "surface": "צִ֝יּ֗וֹן",
+      "gloss": "シオンの"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "それを"
+    },
+    {
+      "surface": "אָהֵֽב",
+      "gloss": "愛された"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:57.783154882Z",
+  "model": "glm-5.2"
+}

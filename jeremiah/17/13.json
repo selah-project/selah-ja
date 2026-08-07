@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 17:13",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "イスラエルの望み、ヤハウェ。あなたを捨てる者はすべて恥じる。地に ⟨記される⟩ よそめらちは、生ける水の源である ⟨את⟩ ヤハウェを捨てたからだ。",
+  "tokens": [
+    {
+      "surface": "מקוה",
+      "gloss": "望み"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "עזביך",
+      "gloss": "あなたを捨てる者は"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "恥じる"
+    },
+    {
+      "surface": "יסורי",
+      "gloss": "よそめらちは"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "記される"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "捨てた"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "源"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "生ける"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:46:52.734163466Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-samuel 17:53",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "イスラエルの子らはペリシュティ人を追跡〈〉することから戻り、彼らの陣営⟨את⟩を略奪した。",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "戻った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מדלק",
+      "gloss": "追跡することから"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "〜の後を"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシュティ人"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "略奪した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの陣営"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "彼らの陣営"
+    }
+  ],
+  "timestamp": "2026-08-07T14:26:33.347457401Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 13:1",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして見よ、エロヒムの人がヤハウェの言葉によってユダから来て、ベート・エルへ⟨入った⟩。ヤラブアムは祭壇の上に立って香を焚いていた。",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来て"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "ユダから"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "言葉によって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベート"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "ヤラブアムは"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "立って"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "香を焚くために"
+    }
+  ],
+  "timestamp": "2026-08-07T11:03:44.814608124Z",
+  "model": "glm-5.2"
+}

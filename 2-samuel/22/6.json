@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 22:6",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "シェオルの縄が⟨私を⟩取り囲み、死の罠が⟨私に⟩先んじた。",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "縄が"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シェオルの"
+    },
+    {
+      "surface": "סבני",
+      "gloss": "取り囲んだ⟨私を⟩"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "先んじた⟨私に⟩"
+    },
+    {
+      "surface": "מקשי",
+      "gloss": "罠が"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:14.252776103Z",
+  "model": "glm-5.2"
+}

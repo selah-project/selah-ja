@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 2:2",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてエリコの王に告げられて言った。「見よ、イスラエルの子らからの人々が今夜ここに来て、⟨את⟩その地を掘り探しに来た。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…告げられた"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "…王に"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "エリコの"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人々が"
+    },
+    {
+      "surface": "באו",
+      "gloss": "来た"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ここに"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "今夜"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "…の子らから"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "掘り探すために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:24:09.500943421Z",
+  "model": "glm-5.2"
+}

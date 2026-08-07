@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "足がそれを踏みつける。苦しむ者の足が、弱き者の歩みが。",
+  "tokens": [
+    {
+      "surface": "תִּרְמְסֶ֖נָּה",
+      "gloss": "踏みつける"
+    },
+    {
+      "surface": "רָ֑גֶל",
+      "gloss": "足"
+    },
+    {
+      "surface": "רַגְלֵ֥י",
+      "gloss": "〜の足"
+    },
+    {
+      "surface": "עָנִ֖י",
+      "gloss": "苦しむ者"
+    },
+    {
+      "surface": "פַּעֲמֵ֥י",
+      "gloss": "〜の歩み"
+    },
+    {
+      "surface": "דַלִּֽים",
+      "gloss": "弱き者"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:52.555405801Z",
+  "model": "glm-5.2"
+}

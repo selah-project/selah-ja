@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 35:23",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そして射手たちがヨシヤ王に向かって射た。そして王は彼のしもべたちに言った。「私を移せ。私がひどく傷ついたから。」",
+  "tokens": [
+    {
+      "surface": "וירו",
+      "gloss": "そして…射た"
+    },
+    {
+      "surface": "הירים",
+      "gloss": "射手たちが"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王に"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ヨシヤ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "彼のしもべたちに"
+    },
+    {
+      "surface": "העבירוני",
+      "gloss": "私を移せ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "私は傷ついた"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ひどく"
+    }
+  ],
+  "timestamp": "2026-08-07T14:19:53.576997530Z",
+  "model": "glm-5.2"
+}

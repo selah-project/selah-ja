@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 4:8",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "その木は大きくなり、強くなった。その高さは天に達し、その展望は全地の果てに⟨及んでいた⟩。",
+  "tokens": [
+    {
+      "surface": "רבה",
+      "gloss": "大きくなり"
+    },
+    {
+      "surface": "אילנא",
+      "gloss": "その木は"
+    },
+    {
+      "surface": "ותקף",
+      "gloss": "強くなった"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "その高さ"
+    },
+    {
+      "surface": "ימטא",
+      "gloss": "達し"
+    },
+    {
+      "surface": "לשמיא",
+      "gloss": "天に"
+    },
+    {
+      "surface": "וחזותה",
+      "gloss": "その展望"
+    },
+    {
+      "surface": "לסוף",
+      "gloss": "〜の果てに"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T14:42:20.952968633Z",
+  "model": "glm-5.2"
+}

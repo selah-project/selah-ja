@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "すべての言葉は疲れさせる。人は語り尽くすことができない。目は見て満ちる⟨ことが⟩なく、耳は聞いて満たされる⟨ことが⟩ない。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "言葉は"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "疲れさせる"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ことができる"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "語り尽くす"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "満ちる"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目は"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見て"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "満たされる"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳は"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "聞いて"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:05.451338718Z",
+  "model": "glm-5.2"
+}

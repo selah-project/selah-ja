@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "エロヒムの戦車は幾万、幾千の重なり。アドナイは彼らとともにおられる、シナイのように、聖なる所に。",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "戦車"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "幾万"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "幾千の"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "重なり"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイは"
+    },
+    {
+      "surface": "בם",
+      "gloss": "彼らとともに"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "シナイのように"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "聖なる所に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:55.732147883Z",
+  "model": "glm-5.2"
+}

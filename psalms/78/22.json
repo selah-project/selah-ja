@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "彼らがエロヒムを信じず、その救いに拠り頼まなかったからである。",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ず"
+    },
+    {
+      "surface": "הֶאֱמִינוּ",
+      "gloss": "彼らが信じ"
+    },
+    {
+      "surface": "בֵּאלֹהִים",
+      "gloss": "エロヒムを"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "また〜ず"
+    },
+    {
+      "surface": "בָ֝טְח֗וּ",
+      "gloss": "拠り頼まなかった"
+    },
+    {
+      "surface": "בִּֽישׁוּעָתֽוֹ",
+      "gloss": "その救いに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:27.528378615Z",
+  "model": "glm-5.2"
+}

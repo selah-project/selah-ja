@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "いつまで、悪者らは⟨勝ち誇るのか⟩、ヤハウェよ、いつまで悪者らは勝ち誇るのか。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "いつ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者らは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "いつ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者らは"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "勝ち誇るのか"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:30.906452384Z",
+  "model": "glm-5.2"
+}

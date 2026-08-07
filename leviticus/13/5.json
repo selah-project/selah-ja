@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 13:5",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして祭司は彼を七日目に見て、見よ、その病変がその見た目において留まり、その病変が皮膚において広がっていなければ、祭司は彼をさらに七日間隔離する。",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "そして彼を見る"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司は"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜日に"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "七日目の"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "その病変は"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "留まった"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "その見た目において"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "広がった"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "その病変は"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "皮膚において"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "そして彼を隔離する"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司は"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七つの"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日を"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "二度目に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:08.719506824Z",
+  "model": "glm-5.2"
+}

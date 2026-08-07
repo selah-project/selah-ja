@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 10:14",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "イナゴはミツライムの全地の上に上り、ミツライムの全境界に留まった。それは非常に重く、その前にこのようなイナゴはなく、その後もこのようになることはない。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "上り"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "イナゴ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "留まった"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "重く"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "その前に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "כן",
+      "gloss": "このような"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "イナゴ"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "それのような"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "そしてその後に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "なる"
+    },
+    {
+      "surface": "כן",
+      "gloss": "このように"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:38.885883185Z",
+  "model": "glm-5.2"
+}

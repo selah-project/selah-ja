@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして彼は⟨את⟩自分の家を建てた、シュロモは十三年の間に。そして彼は⟨את⟩自分の家のすべてを完成させた。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "自分の家"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "自分の家"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "完成させた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "自分の家"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:25.517532538Z",
+  "model": "glm-5.2"
+}

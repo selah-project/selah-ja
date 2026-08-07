@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "シェオルの綱が私を囲み、死の罠が私の前に立ちはだかった。",
+  "tokens": [
+    {
+      "surface": "חֶבְלֵ֣י",
+      "gloss": "綱が"
+    },
+    {
+      "surface": "שְׁא֣וֹל",
+      "gloss": "シェオルの"
+    },
+    {
+      "surface": "סְבָב֑וּנִי",
+      "gloss": "私を囲んだ"
+    },
+    {
+      "surface": "קִ֝דְּמ֗וּנִי",
+      "gloss": "私の前に立ちはだかった"
+    },
+    {
+      "surface": "מ֣וֹקְשֵׁי",
+      "gloss": "罠が"
+    },
+    {
+      "surface": "מָֽוֶת",
+      "gloss": "死の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:01.465219705Z",
+  "model": "glm-5.2"
+}

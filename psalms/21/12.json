@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "彼らがあなたに向かって悪を伸ばし、陰謀を企てたが、それは成し遂げられないからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "彼らは伸ばした"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたに向かって"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "彼らは企てた"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "陰謀を"
+    },
+    {
+      "surface": "בל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "彼らはできる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:17.021097081Z",
+  "model": "glm-5.2"
+}

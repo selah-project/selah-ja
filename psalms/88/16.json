@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 88,
+  "translation": "わたしは苦しみ、若い頃から死にかけている。わたしはあなたの恐るべき力を担い、途方に暮れる。",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "苦しむ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "死にかけている"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "若い頃から"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "わたしは担い"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "あなたの恐るべき力を"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "途方に暮れる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:54:49.864761039Z",
+  "model": "glm-5.2"
+}

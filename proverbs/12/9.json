@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "軽んじられても自分に⟨⟩仕える者がいる⟨者⟩は、自分を重んじながらパンに欠ける者よりも良い。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "軽んじられても"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "そして仕える者がいる"
+    },
+    {
+      "surface": "לו",
+      "gloss": "自分に"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "自分を重んじる者"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "そして欠ける"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:35.643792659Z",
+  "model": "glm-5.2"
+}

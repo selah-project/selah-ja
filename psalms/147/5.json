@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "大いなる方、私たちのアドナイ、力に富む方。その識辨力には数がない。",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "大いなる方"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "私たちのアドナイ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "力に富む"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "その識辨力には"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "数"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:53.699734516Z",
+  "model": "glm-5.2"
+}

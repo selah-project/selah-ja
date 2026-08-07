@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 9:28",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "彼らのうちの一部は奉仕の器具の上に⟨いた⟩。彼らは数によってそれらを持ち込み、数によってそれらを持ち出したからである。",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "彼らのうちの一部"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "העבודה",
+      "gloss": "奉仕"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "数によって"
+    },
+    {
+      "surface": "יביאום",
+      "gloss": "彼らはそれらを持ち込む"
+    },
+    {
+      "surface": "ובמספר",
+      "gloss": "また数によって"
+    },
+    {
+      "surface": "יוציאום",
+      "gloss": "彼らはそれらを持ち出す"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:19.877748590Z",
+  "model": "glm-5.2"
+}

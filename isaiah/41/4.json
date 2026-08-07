@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "これを成し遂げたのは誰か。初めから世代を呼び出す者。わたしはヤハウェ、最初の者。そして⟨את⟩最後の者たちと共に、わたしは⟨彼⟩である。」",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰か"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "成し"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "そして遂げたのは"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼び出す者"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "世代を"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "初めから"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "最初の者"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "最後の者たちと共に"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼⟩である"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:42.103275630Z",
+  "model": "glm-5.2"
+}

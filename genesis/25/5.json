@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてアブラハムは⟨את⟩自分の持つすべてのものをイツハクに与えた。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして…与えた"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハムは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の持つすべてのもの"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…もの"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のもの"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "イツハクに"
+    }
+  ],
+  "timestamp": "2026-08-07T08:58:23.872324836Z",
+  "model": "glm-5.2"
+}

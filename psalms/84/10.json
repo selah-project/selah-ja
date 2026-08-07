@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 84,
+  "translation": "私たちの盾よ、見てください、エロヒム。そして御顔を顧みてください、あなたのメシアの。",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "私たちの盾よ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "見てください"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "そして顧みてください"
+    },
+    {
+      "surface": "פני",
+      "gloss": "御顔を"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "あなたのメシアの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:54:53.344476742Z",
+  "model": "glm-5.2"
+}

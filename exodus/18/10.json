@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "イェトロは言った。「ヤハウェはほむべき方、⟨彼⟩があなたたちをミツライムの手とパロの手から救い出し、⟨彼⟩が⟨את⟩民をミツライムの手の下から救い出された方として。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "イェトロは"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ほむべき方"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜として"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "救い出し"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたたちを"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "〜の手から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "そして〜の手から"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜として"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "救い出された"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民を"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "〜の下から"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手の"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:49.832649893Z",
+  "model": "glm-5.2"
+}

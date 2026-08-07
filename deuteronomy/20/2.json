@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そして、あなたたちが戦いに近づくとき、祭司が近づき、民に向かって語るであろう。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そして…となる"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "あなたたちが近づくとき"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戦い"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "そして近づく"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "そして語る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に向かって"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:17.180745962Z",
+  "model": "glm-5.2"
+}

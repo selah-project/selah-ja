@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "⟨あなた⟩こそ、海を乾かし、大いなる深淵の水を、贖われた者たちが渡っていく道として、海の深みを置かれた⟨方⟩ではないか。",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなた"
+    },
+    {
+      "surface": "היא",
+      "gloss": "こそ"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "乾かした"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "מי",
+      "gloss": "〜の水"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "置かれた"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "深み"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海の"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道として"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "渡っていく"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "贖われた者たち"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:19.116810110Z",
+  "model": "glm-5.2"
+}

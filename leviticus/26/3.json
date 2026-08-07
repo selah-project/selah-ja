@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "もしあなたがたがわたしの掟に従って歩み、⟨את⟩わたしの命令を守り、これを行うなら、",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "わたしの掟に"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "あなたがたが歩むなら"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "わたしの命令"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "わたしの命令"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "あなたがたが守り"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "そして行うなら"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "これらを"
+    }
+  ],
+  "timestamp": "2026-08-07T09:43:02.028002335Z",
+  "model": "glm-5.2"
+}

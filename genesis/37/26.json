@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "ユダは兄弟たちに言った。「兄弟を殺して彼の血を隠すことに、何の利益があろうか。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄弟たち"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何の"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "利益"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜が"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "我々が殺す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我々の兄弟を"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "我々の兄弟を"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "そして隠す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の血を"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "彼の血を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:54.307528385Z",
+  "model": "glm-5.2"
+}

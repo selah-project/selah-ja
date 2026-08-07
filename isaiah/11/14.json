@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "彼らはペリシテ人の肩の上に西へ飛び、共に東の子ら⟨を⟩ ⟨את⟩ 略奪する。エドムとモアブは彼らの差し出す手⟨となり⟩、アモンの子らは彼らに従う。",
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "そして飛ぶ"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "肩の上に"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人の"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "西へ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "共に"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "略奪する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "東の子らを"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "東の"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドム"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "そしてモアブ"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "差し出す"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "彼らの手"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "そして子ら"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アモンの"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "彼らに従う"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:40.720826106Z",
+  "model": "glm-5.2"
+}

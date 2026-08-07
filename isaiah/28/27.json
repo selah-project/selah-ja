@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 28:27",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "なぜならナビケラは鋭い歯の付く脱穀具で打ち叩かれることはなく、牛車の車輪がクミンの上を回ることもない。ナビケラは杖で打たれ、クミンはむちで打たれるのだから。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "בחרוץ",
+      "gloss": "鋭い歯の脱穀具で"
+    },
+    {
+      "surface": "יודש",
+      "gloss": "打ち叩かれる"
+    },
+    {
+      "surface": "קצח",
+      "gloss": "ナビケラ"
+    },
+    {
+      "surface": "ואופן",
+      "gloss": "そして車輪"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "牛車の"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上を"
+    },
+    {
+      "surface": "כמן",
+      "gloss": "クミン"
+    },
+    {
+      "surface": "יוסב",
+      "gloss": "回る"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "杖で"
+    },
+    {
+      "surface": "יחבט",
+      "gloss": "打たれる"
+    },
+    {
+      "surface": "קצח",
+      "gloss": "ナビケラ"
+    },
+    {
+      "surface": "וכמן",
+      "gloss": "そしてクミン"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "むちで"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:13.489245651Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 13:20",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "とこしえに住まうことはなく、世代から世代に至るまで住まない。そこにアラビア人は天幕を張らず、羊飼いたちはそこに伏させない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "住まうことは"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "住まない"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "天幕を張らず"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "アラビア人"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "羊飼いたち"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "伏させない"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:43.776181812Z",
+  "model": "glm-5.2"
+}

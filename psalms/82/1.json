@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 82,
+  "translation": "賛歌、アサフのために。エロヒムは立ち、エルの集会の中で、エロヒムのただ中で裁く。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "賛歌"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "アサフのために"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "〜の集会の中で"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "〜のただ中で"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "裁く"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:28.932970187Z",
+  "model": "glm-5.2"
+}

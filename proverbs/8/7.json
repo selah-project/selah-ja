@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "まことに、私の口は真理を語り、悪は私の唇にとって忌むべきものである。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "אֱ֭מֶת",
+      "gloss": "真理"
+    },
+    {
+      "surface": "יֶהְגֶּ֣ה",
+      "gloss": "語る"
+    },
+    {
+      "surface": "חִכִּ֑י",
+      "gloss": "私の口は"
+    },
+    {
+      "surface": "וְתוֹעֲבַ֖ת",
+      "gloss": "忌むべきもの"
+    },
+    {
+      "surface": "שְׂפָתַ֣י",
+      "gloss": "私の唇にとって"
+    },
+    {
+      "surface": "רֶֽשַׁע",
+      "gloss": "悪"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:42.465190344Z",
+  "model": "glm-5.2"
+}

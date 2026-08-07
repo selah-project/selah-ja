@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 118,
+  "translation": "彼らは蜂のように私を囲み、茨の火のように消えゆいた — ヤハウェの名において、まことに、私は彼らを断ち切る。",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "彼らは私を囲み"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "蜂のように"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "消えゆいた"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "火のように"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "茨の"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "名において"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "私は彼らを断ち切る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:49.272254233Z",
+  "model": "glm-5.2"
+}

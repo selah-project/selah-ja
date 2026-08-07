@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "それらの肉からあなたがたは食べてはならず、それらの死骸に触れてはならない。それらはあなたがたにとって汚れている。",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "それらの肉から"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたがたは食べる"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "そしてそれらの死骸に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "あなたがたは触れる"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "汚れている"
+    },
+    {
+      "surface": "הם",
+      "gloss": "それらは"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたにとって"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:23.262330052Z",
+  "model": "glm-5.2"
+}

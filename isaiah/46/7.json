@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 46:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "彼らはそれを肩に担ぎ、運び、据えると、それは立つ — その場所から動かない。たとえ ⟨人⟩ がそれに叫んでも、それは答えず、その苦難から救い出さない。",
+  "tokens": [
+    {
+      "surface": "ישאהו",
+      "gloss": "彼らはそれを担ぐ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "肩"
+    },
+    {
+      "surface": "יסבלהו",
+      "gloss": "運ぶ"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "据える"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "その場所に"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "それは立つ"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "その場所から"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "動く"
+    },
+    {
+      "surface": "אף",
+      "gloss": "たとえ"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "⟨人が⟩叫ぶ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "答える"
+    },
+    {
+      "surface": "מצרתו",
+      "gloss": "その苦難から"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "救い出す"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:16.664190024Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "すべての死骸と引き裂かれたもの — 鳥からの、そして家畜からの — 祭司たちは食べてはならない。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "נְבֵלָה֙",
+      "gloss": "死骸"
+    },
+    {
+      "surface": "וּטְרֵפָ֔ה",
+      "gloss": "そして引き裂かれたもの"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "〜からの"
+    },
+    {
+      "surface": "הָע֖וֹף",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "そして〜からの"
+    },
+    {
+      "surface": "הַבְּהֵמָ֑ה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יֹאכְל֖וּ",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "הַכֹּהֲנִֽים",
+      "gloss": "祭司たちは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:15:40.840964426Z",
+  "model": "glm-5.2"
+}

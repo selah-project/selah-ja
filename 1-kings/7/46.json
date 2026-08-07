@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 7:46",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "ヨルダンの平地で、王はそれらを鋳造した——スコトとツァルタンとの間の、粘土の豊かな地で。",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "平地で"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルダンの"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "鋳造した"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "במעבה",
+      "gloss": "豊かな地で"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土の"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "スコト"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "〜との間の"
+    },
+    {
+      "surface": "צרתן",
+      "gloss": "ツァルタン"
+    }
+  ],
+  "timestamp": "2026-08-07T11:01:50.613755423Z",
+  "model": "glm-5.2"
+}

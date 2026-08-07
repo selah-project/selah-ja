@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 80,
+  "translation": "山々はその影に覆われ、その枝はエルの杉となった。",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "覆われた"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山々"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "その影"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "そしてその枝"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "杉（セダー）"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エルの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:03.396741454Z",
+  "model": "glm-5.2"
+}

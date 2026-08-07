@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "あなたの顔を私の罪から隠し、私のすべての咎を拭い消してください。",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "隠してください"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの顔を"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "私の罪から"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "私の咎を"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "拭い消してください"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:56.376893410Z",
+  "model": "glm-5.2"
+}

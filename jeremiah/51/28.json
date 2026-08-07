@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 51:28",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "国々を聖別せよ、それに向かって。⟨את⟩マダイの王たちを、⟨את⟩その総督たちと⟨את⟩その全長官を、そして⟨את⟩その支配地の全土を。",
+  "tokens": [
+    {
+      "surface": "קדשו",
+      "gloss": "聖別せよ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "それに向かって"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々を"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "マダイの王たちを"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "マダイ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その総督たちを"
+    },
+    {
+      "surface": "פחותיה",
+      "gloss": "その総督たち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その全長官を"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "סגניה",
+      "gloss": "その長官"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その支配地の全土を"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "その支配地"
+    }
+  ],
+  "timestamp": "2026-08-07T11:59:50.060454625Z",
+  "model": "glm-5.2"
+}

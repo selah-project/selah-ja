@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 63,
+  "translation": "彼らは剣の力に引き渡される、狐の分け前となる。",
+  "tokens": [
+    {
+      "surface": "יַגִּירֻ֥הוּ",
+      "gloss": "引き渡される"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "に"
+    },
+    {
+      "surface": "יְדֵי",
+      "gloss": "力"
+    },
+    {
+      "surface": "חָ֑רֶב",
+      "gloss": "剣の"
+    },
+    {
+      "surface": "מְנָ֖ת",
+      "gloss": "分け前となる"
+    },
+    {
+      "surface": "שֻׁעָלִ֣ים",
+      "gloss": "狐の"
+    },
+    {
+      "surface": "יִהְיֽוּ",
+      "gloss": "⟨彼らは⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:23.662269829Z",
+  "model": "glm-5.2"
+}

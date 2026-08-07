@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 137,
+  "translation": "その中の柳の木の上に、私たちは私たちのキノロトを吊るした。",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "עֲרָבִ֥ים",
+      "gloss": "柳"
+    },
+    {
+      "surface": "בְּתוֹכָ֑הּ",
+      "gloss": "その中の"
+    },
+    {
+      "surface": "תָּ֝לִ֗ינוּ",
+      "gloss": "私たちは吊るした"
+    },
+    {
+      "surface": "כִּנֹּרוֹתֵֽינוּ",
+      "gloss": "私たちのキノロト"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:02.387241844Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "それゆえ、わたしはエリの家に誓った。エリの家の咎は、犠牲と献げ物によっても永遠に贖われることがない、と。」",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "わたしは誓った"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "〜の家に"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "エリ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "贖われることがある"
+    },
+    {
+      "surface": "עון",
+      "gloss": "咎が"
+    },
+    {
+      "surface": "בית",
+      "gloss": "〜の家の"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "エリ"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "犠牲によって"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "献げ物と"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:53.196524431Z",
+  "model": "glm-5.2"
+}

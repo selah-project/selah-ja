@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "わたしは聞くことのない人のようであり、その口には責めの言葉がない⟨者⟩であった。",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "わたしは…であった"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "…人のようであり"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞くことの"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "その口には"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "責めの言葉が"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:18.992775365Z",
+  "model": "glm-5.2"
+}

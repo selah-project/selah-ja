@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして雹はミツライムの全土に、野にあるすべてのもの——人から家畜まで——を打った。⟨את⟩野のすべての草を雹は打ち、⟨את⟩野のすべての木を折り砕いた。",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "そして打った"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "雹は"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "野にあるすべてのもの"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜にあるもの"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "野"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "人から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "かつ⟨את⟩",
+      "marks": "野のすべての草"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野の"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "打った"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "雹は"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "かつ⟨את⟩",
+      "marks": "野のすべての木"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野の"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "折り砕いた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:06.977615073Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "イスラエルはヨセフに言った。「見よ、私は死のうとしている。エロヒムがあなたがたと共におり、あなたがたを⟨את⟩あなたがたの先祖の地に帰されるであろう。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私は"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死のうとしている"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "〜であろう"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "あなたがたと共に"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "帰される"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "あなたがたの先祖の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:11:21.816783955Z",
+  "model": "glm-5.2"
+}

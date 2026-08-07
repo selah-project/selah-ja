@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そしてあなたは⟨את⟩香のために〈ある⟩金の祭壇を、あかしの箱の前に置き、⟨את⟩幕屋の入り口の垂れ幕を取り付けよ。",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "そしてあなたは置く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "金の祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "香のために"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "の前に"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "あかしの"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "そしてあなたは取り付ける"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "入り口の垂れ幕"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "垂れ幕"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "入り口の"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "幕屋の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:49.694376124Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "突然の恐怖を恐れるな。悪しき者の荒廃が ⟨来⟩ ても ⟨恐れるな⟩。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "〜の恐怖を"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "突然の"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "〜の荒廃を"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪しき者の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜時に"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "来る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:54.698521890Z",
+  "model": "glm-5.2"
+}

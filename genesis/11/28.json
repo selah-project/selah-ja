@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "ハランは父テラフの顔の前で死んだ——彼の生地において、カルデヤのウルにおいて。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死んだ"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "ハランは"
+    },
+    {
+      "surface": "על",
+      "gloss": "の上に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔の"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "テラフ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "父"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地において"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "彼の生地"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ウルにおいて"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "カルデヤの"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:17.512503356Z",
+  "model": "glm-5.2"
+}

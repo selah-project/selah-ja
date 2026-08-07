@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして⟨את⟩オバルと、⟨את⟩アビマエルと、⟨את⟩シェバを生んだ。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "オバル"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "オバル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アビマエル"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "アビマエル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "シェバ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "シェバ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:49.371462423Z",
+  "model": "glm-5.2"
+}

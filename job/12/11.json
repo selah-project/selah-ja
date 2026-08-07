@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "耳はことばを試すのではないか。口蓋は自分のために食物の味を味わうのではないか。",
+  "tokens": [
+    {
+      "surface": "הֲלֹא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "אֹ֭זֶן",
+      "gloss": "耳"
+    },
+    {
+      "surface": "מִלִּ֣ין",
+      "gloss": "ことばを"
+    },
+    {
+      "surface": "תִּבְחָ֑ן",
+      "gloss": "試す"
+    },
+    {
+      "surface": "וְ֝חֵ֗ךְ",
+      "gloss": "そして口蓋"
+    },
+    {
+      "surface": "אֹ֣כֶל",
+      "gloss": "食物の"
+    },
+    {
+      "surface": "יִטְעַם",
+      "gloss": "味を味わう"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "自分のために"
+    }
+  ],
+  "timestamp": "2026-08-07T13:23:21.061359576Z",
+  "model": "glm-5.2"
+}

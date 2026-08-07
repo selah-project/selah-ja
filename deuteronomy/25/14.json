@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "あなたの家にエパとエパ、大きいものと小さいものがあってはならない。",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "あってはならない"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "בְּבֵיתְךָ֖",
+      "gloss": "あなたの家に"
+    },
+    {
+      "surface": "אֵיפָ֣ה",
+      "gloss": "エパ"
+    },
+    {
+      "surface": "וְאֵיפָ֑ה",
+      "gloss": "とエパ"
+    },
+    {
+      "surface": "גְּדוֹלָ֖ה",
+      "gloss": "大きいもの"
+    },
+    {
+      "surface": "וּקְטַנָּֽה",
+      "gloss": "と小さいもの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:07.644674619Z",
+  "model": "glm-5.2"
+}

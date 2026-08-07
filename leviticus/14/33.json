@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 14:33",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "ヤハウェはモシェとアハロンに語り、告げて言われた。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "および〜に"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "告げて"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:04.764675931Z",
+  "model": "glm-5.2"
+}

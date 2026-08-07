@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 96,
+  "translation": "野は躍れ、その中にあるすべてのものも。そのとき森のすべての木も歓声を上げよ。",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "躍れ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "野は"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてそのすべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "בו",
+      "gloss": "その中に"
+    },
+    {
+      "surface": "אז",
+      "gloss": "そのとき"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "歓声を上げよ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木も"
+    },
+    {
+      "surface": "יער",
+      "gloss": "森の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:58.577602528Z",
+  "model": "glm-5.2"
+}

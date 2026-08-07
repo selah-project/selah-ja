@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 116,
+  "translation": "ヤハウェの目に尊い、彼のヘセドの死が。",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "尊い"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⋯の目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "⋯の死が"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "彼のヘセドの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:16.000071486Z",
+  "model": "glm-5.2"
+}

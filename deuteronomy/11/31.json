@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 11:31",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "あなたがたは⟨את⟩ヨルダンを渡ろうとしている — 入るため、⟨את⟩その地を相続するため — ヤハウェ あなたがたのエロヒムがあなたがたに与えておられるあの地を。そしてあなたがたはそれを相続し、そこに住む。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたがた"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "渡っている"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨルダン"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルダン"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "入るために"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "相続するために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "あなたがたのエロヒム"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えておられる"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "そしてあなたがたは相続する"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "そして住む"
+    },
+    {
+      "surface": "בה",
+      "gloss": "そこに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:10:45.598403835Z",
+  "model": "glm-5.2"
+}

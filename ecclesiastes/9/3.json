@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 9:3",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "これは、太陽の下でなされるすべてのことにおいて悪である。すなわち、すべてに一つの偶然がある。そしてまた、人の子らの心は悪に満ち、彼らの生きている間、彼らの心の中に狂気が⟨ある⟩が、その後⟨彼らは⟩死者的ところへ⟨行く⟩。",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "これは"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "〜のすべてのことにおいて"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "なされる"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下で"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "כי",
+      "gloss": "すなわち"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "偶然"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべてに"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子らの"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "満ち"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪に"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "そして狂気が"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "彼らの心の中に"
+    },
+    {
+      "surface": "בחייהם",
+      "gloss": "彼らの生きている間"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "そしてその後"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "死者"
+    }
+  ],
+  "timestamp": "2026-08-07T17:31:00.237114728Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてイッサカルの子らはトラ、プワ、ヤシュブ、シムロン — 四人であった。",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "そして〜の子ら"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "イッサカル"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "ト ラ"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "およびプワ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ヤシュブ"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "およびシムロン"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四人"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:41.887392176Z",
+  "model": "glm-5.2"
+}

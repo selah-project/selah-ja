@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてモーセは彼らに言った。「立ちどまっていなさい。私がヤハウェがあなたがたに関して何を命じられるか聞くまで。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセは"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "立ちどまっていなさい"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "そして私は聞こう"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "命じられるか"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたに関して"
+    }
+  ],
+  "timestamp": "2026-08-07T09:54:11.194030213Z",
+  "model": "glm-5.2"
+}

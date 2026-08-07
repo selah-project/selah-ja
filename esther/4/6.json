@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてハタクは出て行った、モルデカイのところへ、王の門の前にある広場へ。",
+  "tokens": [
+    {
+      "surface": "וַיֵּצֵא",
+      "gloss": "そして出て行った"
+    },
+    {
+      "surface": "הֲתָךְ",
+      "gloss": "ハタク"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "מָרְדֳּכַי",
+      "gloss": "モルデカイ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "רְחוֹב",
+      "gloss": "広場"
+    },
+    {
+      "surface": "הָעִיר",
+      "gloss": "町の"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "…の前に"
+    },
+    {
+      "surface": "שַׁעַר",
+      "gloss": "門"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "王の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:41:20.828875592Z",
+  "model": "glm-5.2"
+}

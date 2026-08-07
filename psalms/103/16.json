@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 103,
+  "translation": "風がその上を通り過ぎれば、⟨それはもはやなく⟩、その場所ももはやそれを認めない。",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "〜ば"
+    },
+    {
+      "surface": "ר֣וּחַ",
+      "gloss": "風"
+    },
+    {
+      "surface": "עָֽבְרָה",
+      "gloss": "通り過ぎれば"
+    },
+    {
+      "surface": "בּ֣וֹ",
+      "gloss": "その上を"
+    },
+    {
+      "surface": "וְאֵינֶ֑נּוּ",
+      "gloss": "⟨それはもはやなく⟩"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יַכִּירֶ֖נּוּ",
+      "gloss": "それを認める"
+    },
+    {
+      "surface": "ע֣וֹד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "מְקוֹמֽוֹ",
+      "gloss": "その場所"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:54.970309069Z",
+  "model": "glm-5.2"
+}

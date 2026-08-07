@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 7:8",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてシュロモはその時、⟨את⟩祭りを七日間行った。そしてすべてのイスラエルが彼とともにいた — 集会、非常に大いなるもの — ハマテの入口からミツライムの川まで。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭り"
+    },
+    {
+      "surface": "החג",
+      "gloss": "祭り"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "…の時に"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "その"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼とともに"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "集会"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "מלבוא",
+      "gloss": "…の入口から"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ハマテ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "川"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:29.398602220Z",
+  "model": "glm-5.2"
+}

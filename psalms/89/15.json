@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "義と公正はあなたの御座の基、ヘセドとまことはあなたの御顔に先立つ。",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "義"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "と公正"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "基"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "あなたの御座の"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ヘセド"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "とまこと"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "先立つ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの御顔に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:19.005647132Z",
+  "model": "glm-5.2"
+}

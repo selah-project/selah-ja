@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "すべてヤハウェの造られたものはそのためにつくられた。悪人をも、災いの日のために。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "造られたもの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "そのためにつくられた"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "…をも"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪人"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "…の日のために"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "災い"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:04.561152450Z",
+  "model": "glm-5.2"
+}

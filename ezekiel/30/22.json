@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 30:22",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "それゆえ、アドナイ ヤハウェはこう仰る。見よ、私はパロに、ミツライムの王に向かう。私は彼の腕を折る――⟨את⟩強い腕と、⟨את⟩すでに折られた腕と。そして私は剣を彼の手から落とさせる ⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "仰る"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "見よ、私は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に向かう"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "そして私は折る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の腕"
+    },
+    {
+      "surface": "זרעתיו",
+      "gloss": "彼の腕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "強い腕"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "強いもの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "すでに折られた腕"
+    },
+    {
+      "surface": "הנשברת",
+      "gloss": "折られたもの"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "そして私は落とさせる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "剣"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "彼の手から"
+    }
+  ],
+  "timestamp": "2026-08-07T12:10:58.884175283Z",
+  "model": "glm-5.2"
+}

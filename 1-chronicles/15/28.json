@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 15:28",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "こうして、イスラエルのすべての人々が、雄叫びと角笛の音、ラッパとシンバルをもってヤハウェの契約の箱を運び上った。ネベルとキノルで音を響かせながら。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "こうしてすべての"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "人々が運び上った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "契約の箱"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約の"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "雄叫びと"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "〜の音"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "角笛"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "とラッパ"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "とシンバルをもって"
+    },
+    {
+      "surface": "משמעים",
+      "gloss": "音を響かせながら"
+    },
+    {
+      "surface": "בנבלים",
+      "gloss": "ネベルで"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "とキノル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:06:12.729959897Z",
+  "model": "glm-5.2"
+}

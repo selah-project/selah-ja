@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 126,
+  "translation": "上りの歌。ヤハウェが⟨את⟩シオンの回復を帰らせたとき、私たちは夢を見る者のようであった。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上りの"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "帰らせたとき"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シオンの回復"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "回復"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "シオン"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "私たちは〜であった"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "夢を見る者のように"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:20.061022012Z",
+  "model": "glm-5.2"
+}

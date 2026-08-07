@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 12:30",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして彼は彼らの王の冠をその頭から取り、⟨את⟩その重量は金のタラントで、貴重な石があった。そしてそれはダヴィデの頭に置かれた。そして彼はその都市の分捕り物を非常に多く持ち出した。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして彼は取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "冠"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "冠"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "彼らの王の"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "その頭"
+    },
+    {
+      "surface": "ומשקלה",
+      "gloss": "そしてその重量は"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "タラント"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "そして石"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "貴重な"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "そしてそれは〜となった"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィデの"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "そして分捕り物"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その都市の"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "彼は持ち出した"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "多く"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:52:45.657760353Z",
+  "model": "glm-5.2"
+}

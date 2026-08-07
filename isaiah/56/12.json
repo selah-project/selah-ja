@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 56:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 56,
+  "translation": "「来い、私はぶどう酒を取ろう、そして我々は強い酒を飲み騒ごう、そして明日は今日のようになるだろう、それよりもはるかに大いに。」",
+  "tokens": [
+    {
+      "surface": "אתיו",
+      "gloss": "来い"
+    },
+    {
+      "surface": "אקחה",
+      "gloss": "私は取ろう"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ぶどう酒を"
+    },
+    {
+      "surface": "ונסבאה",
+      "gloss": "そして我々は飲み騒ごう"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "強い酒を"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "そして〜なるだろう"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "今日のよう"
+    },
+    {
+      "surface": "יום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "明日は"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いに"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "はるかに"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:07.327151001Z",
+  "model": "glm-5.2"
+}

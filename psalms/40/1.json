@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "聖歌隊の指揮者に。ダヴィデの ⟨賛歌⟩。",
+  "tokens": [
+    {
+      "surface": "לַ֝מְנַצֵּחַ",
+      "gloss": "指揮者に"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "ダヴィデの"
+    },
+    {
+      "surface": "מִזְמֽוֹר",
+      "gloss": "賛歌"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:08.316195050Z",
+  "model": "glm-5.2"
+}

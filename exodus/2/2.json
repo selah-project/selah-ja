@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして女は身ごもり、男の子を産んだ。そして彼女は彼⟨を⟩⟨את⟩見た — それは良かったから。そして彼女は彼を三か月の間隠した。",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "そして身ごもった"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "その女は"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "そして産んだ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "男の子を"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— 〜だから"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良かった"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "そして彼女は彼を隠した"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "か月の間"
+    }
+  ],
+  "timestamp": "2026-08-07T09:12:38.858333414Z",
+  "model": "glm-5.2"
+}

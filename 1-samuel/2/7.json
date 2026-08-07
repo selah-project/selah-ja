@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ヤハウェは貧しくし、また富ませる。低くし、また高くされる。",
+  "tokens": [
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "מוֹרִ֣ישׁ",
+      "gloss": "貧しくし"
+    },
+    {
+      "surface": "וּמַעֲשִׁ֑יר",
+      "gloss": "また富ませる"
+    },
+    {
+      "surface": "מַשְׁפִּ֖יל",
+      "gloss": "低くし"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "また"
+    },
+    {
+      "surface": "מְרוֹמֵֽם",
+      "gloss": "高くされる"
+    }
+  ],
+  "timestamp": "2026-08-07T10:39:48.311560365Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "するとヤハウェは私に言われた、「北から、わざわいが開かれる。地のすべての住民の上に」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "北から"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "開かれる"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "そのわざわいが"
+    },
+    {
+      "surface": "על",
+      "gloss": "～の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "住民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:39:08.893415242Z",
+  "model": "glm-5.2"
+}

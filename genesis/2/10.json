@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "一つの川がエデンから出て、⟨את⟩園を潤していた。そこから分かれて、四つの源となっていた。",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "川が"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出て"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "エデンから"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "潤していた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "園"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "園"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "分かれて"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "となっていた"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "四つの"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "源"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:08.186729670Z",
+  "model": "glm-5.2"
+}

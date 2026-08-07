@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 88,
+  "translation": "私のנפשׁは悪に満ち足り、私の命はシェオルに近づいた from now on.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "שָֽׂבְעָ֣ה",
+      "gloss": "饱足了"
+    },
+    {
+      "surface": "בְרָע֣וֹת",
+      "gloss": "在恶中"
+    },
+    {
+      "surface": "נַפְשִׁ֑י",
+      "gloss": "我的נפשׁ（生命\/气息）"
+    },
+    {
+      "surface": "וְחַיַּ֗י",
+      "gloss": "而我的生命"
+    },
+    {
+      "surface": "לִשְׁא֥וֹל",
+      "gloss": "到シェオル（阴间）"
+    },
+    {
+      "surface": "הִגִּֽיעוּ",
+      "gloss": "到达了"
+    }
+  ],
+  "timestamp": "2026-08-07T18:41:02.143175231Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "もし私たちがぐずぐずしていなかった⟨なら⟩、今や私たちはすでに二度戻っていたであろうに。」",
+  "tokens": [
+    {
+      "surface": "כִּ֖י",
+      "gloss": "もし"
+    },
+    {
+      "surface": "לוּלֵ֣א",
+      "gloss": "⟨なら⟩"
+    },
+    {
+      "surface": "הִתְמַהְמָ֑הְנוּ",
+      "gloss": "ぐずぐずしていなかった"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "עַתָּ֥ה",
+      "gloss": "今や"
+    },
+    {
+      "surface": "שַׁ֖בְנוּ",
+      "gloss": "私たちは戻っていた"
+    },
+    {
+      "surface": "זֶ֥ה",
+      "gloss": "この"
+    },
+    {
+      "surface": "פַעֲמָֽיִם",
+      "gloss": "二度"
+    }
+  ],
+  "timestamp": "2026-08-07T16:25:54.244492695Z",
+  "model": "glm-5.2"
+}

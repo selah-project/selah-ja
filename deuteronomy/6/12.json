@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "あなたは自分のために気をつけよ。あなたが⟨את⟩ヤハウェを忘れないように――⟨彼が⟩あなたをエジプトの地、奴隷の家から連れ出したお方〈である〉。",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "気をつけよ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "פן",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "あなたが忘れる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "あなたを連れ出した"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "〜の地から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "エジプト"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "〜の家から"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴隷"
+    }
+  ],
+  "timestamp": "2026-08-07T10:09:12.781714030Z",
+  "model": "glm-5.2"
+}

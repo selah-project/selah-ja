@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 111,
+  "translation": "ご自分のわざの力を、ご自分の民に告げ知らせた。諸国の民の遺産を彼らに与えるために。",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "力"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ご自分のわざの"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "告げ知らせた"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ご自分の民に"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "与えるために"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "遺産"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "諸国の民の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:50.378679268Z",
+  "model": "glm-5.2"
+}

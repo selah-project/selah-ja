@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてイブツァンは死に、ベイト・レヘムに葬られた。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして…は死んだ"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "イブツァン"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "そして…は葬られた"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "…に"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ベイト・レヘム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:35:33.746451619Z",
+  "model": "glm-5.2"
+}

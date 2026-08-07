@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "あなたの日々は死すべき者の日のようであるか、あなたの年は強い男の日のようであるか」",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "…の日のようであるか"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "死すべき者"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "あなたの日々"
+    },
+    {
+      "surface": "אם",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "あなたの年"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "…の日のようであるか"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "強い男"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:49.562384225Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 4:10",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "わたしはわたしの頭の幻の中を、わたしの寝台の上で見ていた。すると見よ、一人の見張り、そして一人の聖なる者が天から降りてきた。",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "見ていた"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "わたしは〜していた"
+    },
+    {
+      "surface": "בחזוי",
+      "gloss": "幻の中を"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "わたしの頭の"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "わたしの寝台の"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "すると見よ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "一人の見張り"
+    },
+    {
+      "surface": "וקדיש",
+      "gloss": "そして一人の聖なる者が"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "天"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "降りてきた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:45:00.718080963Z",
+  "model": "glm-5.2"
+}

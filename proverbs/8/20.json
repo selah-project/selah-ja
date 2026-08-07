@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "義の道をわたしは歩み、公正の小道のただ中を ⟨歩む⟩。",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "〜の道を"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "義の"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "わたしは歩む"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "〜のただ中を"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "小道の"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公正の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:58.262775461Z",
+  "model": "glm-5.2"
+}

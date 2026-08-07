@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "盲人の目を開き、囚人を牢獄から、闇に座す者たちを拘留の家から連れ出すために。",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "開き"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "目を"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "盲人の"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "連れ出すために"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "牢獄から"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "囚人を"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "家から"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "拘留の"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "座す者たちを"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "闇に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:15.915266720Z",
+  "model": "glm-5.2"
+}

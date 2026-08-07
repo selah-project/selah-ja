@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 29:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "わたしはアリエルを苦しめる。それは哀嘆となり、喪嘆となる。それはわたしにとってアリエルのようになる。",
+  "tokens": [
+    {
+      "surface": "והציקותי",
+      "gloss": "わたしは…を苦しめる"
+    },
+    {
+      "surface": "לאריאל",
+      "gloss": "アリエルを"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "それは…となる"
+    },
+    {
+      "surface": "תאניה",
+      "gloss": "哀嘆"
+    },
+    {
+      "surface": "ואניה",
+      "gloss": "喪嘆"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "それは…となる"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしにとって"
+    },
+    {
+      "surface": "כאריאל",
+      "gloss": "アリエルのように"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:36.295772611Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "選ばれるのは名、大いなる富よりも、銀と金よりも恵みは⟨良い⟩。",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "選ばれる"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "富よりも"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "銀よりも"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "金よりも"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恵み"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:04.255341249Z",
+  "model": "glm-5.2"
+}

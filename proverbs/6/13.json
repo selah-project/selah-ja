@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 6:13",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "目で合図し、足で語りかけ、指で教える者——",
+  "tokens": [
+    {
+      "surface": "קֹרֵ֣ץ",
+      "gloss": "つまぶ（合図する）"
+    },
+    {
+      "surface": "בְּ֭עֵינָו",
+      "gloss": "目で"
+    },
+    {
+      "surface": "מֹלֵ֣ל",
+      "gloss": "語る"
+    },
+    {
+      "surface": "בְּרַגְלָ֑ו",
+      "gloss": "足で"
+    },
+    {
+      "surface": "מֹרֶ֗ה",
+      "gloss": "教える"
+    },
+    {
+      "surface": "בְּאֶצְבְּעֹתָֽיו",
+      "gloss": "指で"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:44.765880598Z",
+  "model": "glm-5.2"
+}

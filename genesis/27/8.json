@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "それでは今、私の子よ、私の声に聞き従え、私があなたに命じる⟨את⟩ことにおいて。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "それでは今"
+    },
+    {
+      "surface": "בני",
+      "gloss": "私の子よ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞き従え"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "私の声に"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "～において"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私が"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "命じる"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "あなた"
+    }
+  ],
+  "timestamp": "2026-08-07T08:59:05.750862530Z",
+  "model": "glm-5.2"
+}

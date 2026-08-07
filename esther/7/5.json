@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "するとアハシュヴェロシュ王は語り、エステル王妃に言った。「⟨それは⟩誰だ、この者は。そしてどこにいるのか、その心が満ちてこのようにする⟨ような⟩者は。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "アハシュヴェロシュ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "エステルに"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "王妃"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "である"
+    },
+    {
+      "surface": "זה",
+      "gloss": "この者"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "そしてどこに"
+    },
+    {
+      "surface": "זה",
+      "gloss": "この者"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "いるのか"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨その⟩"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "満ちた"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "彼の心が"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "する"
+    },
+    {
+      "surface": "כן",
+      "gloss": "このように"
+    }
+  ],
+  "timestamp": "2026-08-07T13:43:50.844472213Z",
+  "model": "glm-5.2"
+}

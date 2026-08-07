@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてヨシュアは、ヤハウェが彼に告げたとおりに彼らに行った。⟨את⟩彼らの馬の腱を切り、⟨את⟩彼らの戦車を火で焼き尽くした。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュアは"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…のとおりに"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの馬"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "彼らの馬の"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "腱を切った"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼らの戦車"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "彼らの戦車を"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "焼き尽くした"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:27:17.751905656Z",
+  "model": "glm-5.2"
+}

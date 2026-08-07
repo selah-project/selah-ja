@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "わたしはあなたがたの雨をその時節に与え、地はその収穫を与え、野の木はその実を与えるであろう。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "そしてわたしは与えよう"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "あなたがたの雨を"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "その時節に"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "そして〜は与えよう"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "その収穫を"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "そして〜の木は"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野の"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与えよう"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "その実を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:43:02.028106908Z",
+  "model": "glm-5.2"
+}

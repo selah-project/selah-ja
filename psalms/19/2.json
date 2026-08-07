@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "天はエルの栄光を物語り、大空は⟨彼の⟩手のわざを告げ知らせる。",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "天は"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "物語る"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "栄光を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エルの"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "そして…のわざを"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "告げ知らせる"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "大空は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:57.341318842Z",
+  "model": "glm-5.2"
+}

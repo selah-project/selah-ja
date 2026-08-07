@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "シェムエルは朝まで眠り、ヤハウェの家の扉を開けた。そしてシェムエルは、幻をエリに告げるのを恐れていた。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "そして横たわった"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シェムエルは"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "そして開けた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "扉"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "扉"
+    },
+    {
+      "surface": "בית",
+      "gloss": "〜の家の"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "そしてシェムエルは"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "恐れていた"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "告げるのを"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "幻"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "幻"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "エリ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:53.196633043Z",
+  "model": "glm-5.2"
+}

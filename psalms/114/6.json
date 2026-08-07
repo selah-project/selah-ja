@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 114,
+  "translation": "山々よ、雄羊のように跳び、丘陵よ、群れの子のように ⟨跳ぶのか⟩。",
+  "tokens": [
+    {
+      "surface": "הֶֽ֭הָרִים",
+      "gloss": "山々よ"
+    },
+    {
+      "surface": "תִּרְקְד֣וּ",
+      "gloss": "跳び"
+    },
+    {
+      "surface": "כְאֵילִ֑ים",
+      "gloss": "雄羊のように"
+    },
+    {
+      "surface": "גְּ֝בָע֗וֹת",
+      "gloss": "丘陵よ"
+    },
+    {
+      "surface": "כִּבְנֵי",
+      "gloss": "〜の子のように"
+    },
+    {
+      "surface": "צֹֽאן",
+      "gloss": "群れ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:28.891060294Z",
+  "model": "glm-5.2"
+}

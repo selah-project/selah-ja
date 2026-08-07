@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして五十歳になったなら、彼は奉仕の任務から身を引き、もう奉仕⟨してはならない⟩。",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "そして…歳になったなら"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歳"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "彼は身を引く"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "…の任務から"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "奉仕の"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "奉仕する"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もう"
+    }
+  ],
+  "timestamp": "2026-08-07T09:53:28.142202585Z",
+  "model": "glm-5.2"
+}

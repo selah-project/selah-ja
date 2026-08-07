@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "わたしはよろめく ⟨者⟩、確かである。そしてわたしの痛みはわたしの前に ⟨ある⟩、絶えず。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "よろめく ⟨者⟩"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "確かである"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "そしてわたしの痛みは"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "わたしの前に"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "絶えず"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:51.280382037Z",
+  "model": "glm-5.2"
+}

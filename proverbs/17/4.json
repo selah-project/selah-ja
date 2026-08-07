@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "悪を行なう者は害悪の唇に耳を傾け、偽りを語る者は滅びをもたらす舌に聞き入る。",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "悪を行なう者"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "耳を傾ける"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "唇"
+    },
+    {
+      "surface": "און",
+      "gloss": "害悪の"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りを語る者"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "聞き入る"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌"
+    },
+    {
+      "surface": "הות",
+      "gloss": "滅びをもたらす"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:21.557683075Z",
+  "model": "glm-5.2"
+}

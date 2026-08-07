@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 52:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "塵から身を振り払え、起き上がれ、座れ、イェルシャライム。あなたの首の束縛から解き放たれよ、捕囚の娘ツィヨン。",
+  "tokens": [
+    {
+      "surface": "התנערי",
+      "gloss": "身を振り払え"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "塵から"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "起き上がれ"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "座れ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライム"
+    },
+    {
+      "surface": "התפתחו",
+      "gloss": "解き放たれよ"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "…の束縛から"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "あなたの首の"
+    },
+    {
+      "surface": "שביה",
+      "gloss": "捕囚の"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨン"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:14.242221233Z",
+  "model": "glm-5.2"
+}

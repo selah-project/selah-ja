@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして彼は契約の書を取り、民の耳に読んで聞かせた。彼らは言った。「ヤハウェが語られたすべての言葉を、われわれは行い、かつ聞き従う。」",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして彼は取った"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "書"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "その契約"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして彼は読み上げた"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "〜の耳に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "彼らは言った"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "われわれは行う"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "そして聞き従う"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:23.618249259Z",
+  "model": "glm-5.2"
+}

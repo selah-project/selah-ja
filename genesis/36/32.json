@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そしてベオルの子ベラがエドムで治め、彼の都市の名はディンハバであった。",
+  "tokens": [
+    {
+      "surface": "וַיִּמְלֹ֣ךְ",
+      "gloss": "そして治めた"
+    },
+    {
+      "surface": "בֶּאֱד֔וֹם",
+      "gloss": "エドムで"
+    },
+    {
+      "surface": "בֶּ֖לַע",
+      "gloss": "ベラが"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "子"
+    },
+    {
+      "surface": "בְּע֑וֹר",
+      "gloss": "ベオルの"
+    },
+    {
+      "surface": "וְשֵׁ֥ם",
+      "gloss": "そして名は"
+    },
+    {
+      "surface": "עִיר֖וֹ",
+      "gloss": "彼の都市の"
+    },
+    {
+      "surface": "דִּנְהָֽבָה",
+      "gloss": "ディンハバ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:57.057060426Z",
+  "model": "glm-5.2"
+}

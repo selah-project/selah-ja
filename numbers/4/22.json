@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "ゲルションの子らの⟨את⟩頭を数えよ、彼らも同様に、彼らの父祖の家による、彼らの氏族による、",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "持ち上げよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "頭"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ゲルション"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "הם",
+      "gloss": "彼ら"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…の家による"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "彼らの父祖"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "彼らの氏族による"
+    }
+  ],
+  "timestamp": "2026-08-07T09:50:01.542518019Z",
+  "model": "glm-5.2"
+}

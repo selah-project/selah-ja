@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "ヨセフはパロに言った。パロの夢は一つ⟨である⟩。⟨את⟩エロヒムがなそうとしていることを、⟨エロヒムは⟩パロに示されたのである。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "夢"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨である⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エロヒムがなそうとしていること"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "なしている"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "告げ知らされた"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "パロに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:07:22.105158198Z",
+  "model": "glm-5.2"
+}

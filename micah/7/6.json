@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "それは、子が父を侮り、娘が母に立ち向かい、嫁が義母に立ち向かうからだ。人の敵はその家の人々 ⟨である⟩。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "それは〜だからだ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子が"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "侮り"
+    },
+    {
+      "surface": "אב",
+      "gloss": "父を"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘が"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "立ち向かい"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "母に"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "嫁が"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "義母に"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "敵は"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "人々"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "その家の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:28:12.712803694Z",
+  "model": "glm-5.2"
+}

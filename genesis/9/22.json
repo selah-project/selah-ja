@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてハム――ケナアンの父――は⟨את⟩父の裸を見た。そして彼は外にいる二人の兄弟に告げた。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ハム"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ケナアン"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "父の裸"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "裸"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父の"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "二人の〜に"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄弟"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "外に"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:40.444221129Z",
+  "model": "glm-5.2"
+}

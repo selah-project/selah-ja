@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼は私を⟨את⟩中庭の入り口のところへ連れて来た。私は見た、そして見よ、壁に一つの穴が⟨あった⟩。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして彼は連れて来た"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "私を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口の"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "中庭の"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "חר",
+      "gloss": "穴"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "壁に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:02:05.516158915Z",
+  "model": "glm-5.2"
+}

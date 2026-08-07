@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "そして私たちは彼に言った。『私たちは正直な者であり、密偳ではない。』」",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "そして私たちは言った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "正直な者"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "私たちは〜である"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "であった"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "密偳"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:48.478406760Z",
+  "model": "glm-5.2"
+}

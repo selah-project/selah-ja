@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そしてエロヒムはレアの声に聞き入れ、彼女はみごもって、ヤアコブに五番目の息子を産んだ。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "そして聞き入れ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "レア"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "そして彼女はみごもった"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "そして彼女は産んだ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ヤアコブに"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "五番目の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:37.327705029Z",
+  "model": "glm-5.2"
+}

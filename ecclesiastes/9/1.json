@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 9:1",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "というのは、⟨את⟩これらすべてを、私は自分の心に向けた。そして⟨את⟩これらすべてを明らかにしようとした―正しい者たちと知恵ある者たち、そして彼らの務めはエロヒムの手のうちに〈ある〉ということ、愛も憎しみも、人は知らない、すべては彼らの前に〈ある〉ことを。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらすべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "私は向けた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "私の心"
+    },
+    {
+      "surface": "ולבור",
+      "gloss": "そして明らかにしようとした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらすべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ということ"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "正しい者たち"
+    },
+    {
+      "surface": "והחכמים",
+      "gloss": "と知恵ある者たち"
+    },
+    {
+      "surface": "ועבדיהם",
+      "gloss": "そして彼らの務め"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手のうちに"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "גם",
+      "gloss": "も"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "愛"
+    },
+    {
+      "surface": "גם",
+      "gloss": "も"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "憎しみ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人は"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "すべては"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "彼らの前に"
+    }
+  ],
+  "timestamp": "2026-08-07T17:31:03.397485846Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "エロヒムの目にこのことは悪であった。そして⟨את⟩イスラエルを打たれた。",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "悪であった"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "目に"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "打たれた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:16.412864798Z",
+  "model": "glm-5.2"
+}

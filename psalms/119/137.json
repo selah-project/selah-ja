@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "正しい方、あなたは、ヤハウェ、そしてあなたの〈裁き〉はまっすぐである。",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "正しい方"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "そしてまっすぐである"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "あなたの裁き"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:39.298434328Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして飲みは法のとおりに⟨行われた⟩ — 強制はない。こうして王はその家のすべての管理人に、おのおの、各人の望むままにさせるために⟨命じた⟩。",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "そして飲みは"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "法のとおりに"
+    },
+    {
+      "surface": "אין",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "強制は"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "כן",
+      "gloss": "こう…"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "…定めた"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に対して"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "רב",
+      "gloss": "管理人"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "その家の"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "…させるために"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "…の望むままに"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "各人の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:49.856566320Z",
+  "model": "glm-5.2"
+}

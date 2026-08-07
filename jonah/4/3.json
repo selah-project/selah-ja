@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "それゆえ今、ヤハウェ、どうか⟨את⟩私の命を私から取ってください。私の死は私の命より善いからです。」",
+  "tokens": [
+    {
+      "surface": "וְעַתָּ֣ה",
+      "gloss": "それゆえ今"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "קַח",
+      "gloss": "取ってください"
+    },
+    {
+      "surface": "נָ֥א",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "私の命"
+    },
+    {
+      "surface": "נַפְשִׁ֖י",
+      "gloss": "私の命"
+    },
+    {
+      "surface": "מִמֶּ֑נִּי",
+      "gloss": "私から"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "ט֥וֹב",
+      "gloss": "善い"
+    },
+    {
+      "surface": "מוֹתִ֖י",
+      "gloss": "私の死"
+    },
+    {
+      "surface": "מֵחַיָּֽי",
+      "gloss": "私の命より"
+    }
+  ],
+  "timestamp": "2026-08-07T17:14:08.830832846Z",
+  "model": "glm-5.2"
+}

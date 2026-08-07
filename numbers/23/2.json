@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "バラクはビルアムが語った通りに行った。バラクとビルアムは祭壇ごとに雄牛と雄羊を一頭ずつ献げた。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "行った"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "バラクは"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜通りに"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ビルアムが"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "そして献げた"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "バラク"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "とビルアムは"
+    },
+    {
+      "surface": "פר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "と雄羊"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "祭壇で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:00:18.392949899Z",
+  "model": "glm-5.2"
+}

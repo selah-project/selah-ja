@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 8:17",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして全ての州、州ごとに、そして全ての町、町ごとに、王のことばとその法が届くあらゆる場所において、ユダヤ人に⟨とって⟩喜びと歓喜、宴と良き日があった。そして地の諸民の多くはユダヤ人になった、ユダヤ人への恐怖が彼らの上に落ちたからである。",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "そして全ての"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "州"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "そして州"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "そして全ての"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "そして町"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "場所"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜が"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "ודתו",
+      "gloss": "そしてその法"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "届く"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "喜び"
+    },
+    {
+      "surface": "וששון",
+      "gloss": "そして歓喜"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "ユダヤ人に"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "宴"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "そして日"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "ורבים",
+      "gloss": "そして多くの"
+    },
+    {
+      "surface": "מעמי",
+      "gloss": "〜の民の"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "מתיהדים",
+      "gloss": "ユダヤ人になった"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "落ちた"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "恐怖"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ユダヤ人の"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:05.464607242Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 29:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "人はその友を滑らかにする — ⟨その⟩足のために網を広げる。",
+  "tokens": [
+    {
+      "surface": "גֶּ֭בֶר",
+      "gloss": "人"
+    },
+    {
+      "surface": "מַחֲלִ֣יק",
+      "gloss": "滑らかにする"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "רֵעֵ֑הוּ",
+      "gloss": "その友"
+    },
+    {
+      "surface": "רֶ֝֗שֶׁת",
+      "gloss": "網"
+    },
+    {
+      "surface": "פּוֹרֵ֥שׂ",
+      "gloss": "広げる"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "פְּעָמָֽיו",
+      "gloss": "その足"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:40.607628380Z",
+  "model": "glm-5.2"
+}

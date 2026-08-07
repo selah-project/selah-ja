@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そしてアハロンには⟨ナダブ⟩と⟨アビフ⟩、⟨エルアザル⟩と⟨イタマル⟩が生まれた。",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "そして生まれた"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "アハロンに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナダブ"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ナダブ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "アビフ"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "アビフ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エルアザル"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "エルアザル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "イタマル"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "イタマル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:01:47.709041888Z",
+  "model": "glm-5.2"
+}

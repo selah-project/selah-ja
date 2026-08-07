@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そして私は自分の安穏の中で言った。「私は決して揺るがされない、とこしえに。」",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "そして私は"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "言った"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "自分の安穏の中で"
+    },
+    {
+      "surface": "בל",
+      "gloss": "決して…ない"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "揺るがされない"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:24.423979320Z",
+  "model": "glm-5.2"
+}

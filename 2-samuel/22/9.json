@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 22:9",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "煙が⟨彼の⟩鼻から昇り、〈彼の〉口から火が食らう — 炭火が⟨彼⟩から燃え上がった。",
+  "tokens": [
+    {
+      "surface": "עָלָה",
+      "gloss": "昇り"
+    },
+    {
+      "surface": "עָשָׁן",
+      "gloss": "煙が"
+    },
+    {
+      "surface": "בְּאַפּוֹ",
+      "gloss": "⟨彼の⟩鼻から"
+    },
+    {
+      "surface": "וְאֵשׁ",
+      "gloss": "そして火が"
+    },
+    {
+      "surface": "מִפִּיו",
+      "gloss": "〈彼の〉口から"
+    },
+    {
+      "surface": "תֹּאכֵל",
+      "gloss": "食らう"
+    },
+    {
+      "surface": "גֶּחָלִים",
+      "gloss": "炭火が"
+    },
+    {
+      "surface": "בָּעֲרוּ",
+      "gloss": "燃え上がった"
+    },
+    {
+      "surface": "מִמֶּנּוּ",
+      "gloss": "⟨彼⟩から"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:14.292064542Z",
+  "model": "glm-5.2"
+}

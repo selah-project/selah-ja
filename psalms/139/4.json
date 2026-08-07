@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 139,
+  "translation": "まことに、私の舌の上にことばはない — 見よ、ヤハウェ、あなたはそれをことごとく知っておられる。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "ことばは"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "私の舌の上に"
+    },
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "あなたは知っておられる"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "それをことごとく"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:16.510879881Z",
+  "model": "glm-5.2"
+}

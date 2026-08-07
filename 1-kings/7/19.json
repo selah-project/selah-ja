@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして柱頭は、柱の頭の上にあった — 玄関にあるゆり細工で、四キュビト⟨であった⟩。",
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "そして柱頭は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "柱の"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "細工"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "ゆり"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "玄関に"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "キュビト"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:12.841279749Z",
+  "model": "glm-5.2"
+}

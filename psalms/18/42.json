@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "彼らは叫んでも、救う者はいなかった。ヤハウェに⟨向かって叫んだ⟩が、⟨彼は⟩彼らに答えられなかった。",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "彼らは叫んだ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "しかし〜いない"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "救う者"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "彼らに答えられた"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:06.222112135Z",
+  "model": "glm-5.2"
+}

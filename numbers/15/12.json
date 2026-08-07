@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "あなたがたが作る数に応じて、このように一つ一つに対して、その数に応じて作る⟨べきである⟩。",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "〜の数に応じて"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "あなたがたが作る"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "このように"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "あなたがたは作る"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "一つ一つに対して"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "その数に応じて"
+    }
+  ],
+  "timestamp": "2026-08-07T09:56:55.336446631Z",
+  "model": "glm-5.2"
+}

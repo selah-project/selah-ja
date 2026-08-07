@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "呪われよ、自分の姉妹と寝る者は — 父の娘であれ、母の娘であれ。そして全⟨民⟩は言う、アーメン。",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "呪われよ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "寝る者"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "自分の姉妹"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "自分の父の"
+    },
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "自分の母の"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "そして言う"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨民⟩"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "アーメン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:00.482502431Z",
+  "model": "glm-5.2"
+}

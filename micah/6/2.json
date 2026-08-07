@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "聞け、山々よ、⟨את⟩ヤハウェの訴えを、そして地の基、永続するものよ。ヤハウェには⟨其の⟩民との訴えがあり、ヤハウェはイスラエルと論じられる。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山々よ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの訴え"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "訴え"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "そして永続するもの"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "基"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "訴え"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェには"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "民"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "そして〜と"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "論じられる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:27:33.755550083Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして肉、すなわちその皮に潰瘍があったなら、そしてそれは癒えたなら、",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "そして肉"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ならば"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "その皮に"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "潰瘍が"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "そして…癒えた"
+    }
+  ],
+  "timestamp": "2026-08-07T14:23:10.157656819Z",
+  "model": "glm-5.2"
+}

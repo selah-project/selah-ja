@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 4:7",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして私は下の方々に、城壁の後ろの場所に、広場に立たせ、私は⟨את⟩民を氏族ごとに立たせた、彼らの剣、彼らの槍、そして彼らの弓とともに。",
+  "tokens": [
+    {
+      "surface": "ואעמיד",
+      "gloss": "そして私は立たせた"
+    },
+    {
+      "surface": "מתחתיות",
+      "gloss": "下の方々に"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "場所に"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "〜の後ろに"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "城壁の"
+    },
+    {
+      "surface": "בצחחיים",
+      "gloss": "広場に"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "そして私は立たせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民を"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民を"
+    },
+    {
+      "surface": "למשפחות",
+      "gloss": "氏族ごとに"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "חרבתיהם",
+      "gloss": "彼らの剣"
+    },
+    {
+      "surface": "רמחיהם",
+      "gloss": "彼らの槍"
+    },
+    {
+      "surface": "וקשתתיהם",
+      "gloss": "そして彼らの弓"
+    }
+  ],
+  "timestamp": "2026-08-07T13:56:11.581589898Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "軍勢の王たちは逃げる、逃げる、そして家に留まる⟨女⟩は分捕り物を分ける。",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "王たちの"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "軍勢の"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "逃げる"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "逃げる"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "そして⋯留まる⟨女⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "分ける"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "分捕り物を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:51.495151612Z",
+  "model": "glm-5.2"
+}

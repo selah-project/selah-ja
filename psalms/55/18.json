@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "夕暮れ、そして朝、そして真昼に、私は語りかけ、そしてうめく。すると⟨彼は⟩私の声を聞かれた。",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "夕暮れ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "そして朝"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "そして真昼に"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "私は語りかけ"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "そしてうめく"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "すると⟨彼は⟩聞かれた"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "私の声を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:27.422691745Z",
+  "model": "glm-5.2"
+}

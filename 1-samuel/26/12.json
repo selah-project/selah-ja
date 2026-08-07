@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 26:12",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "ダビデは⟨את⟩槍と、⟨את⟩水の瓶をサウルの枕元から取った。彼らは去って行った。見る者もなく、知る者もなく、目覚める者もなかった。全員が眠っていたからだ。まことにヤハウェからの深い眠りが彼らの上に下っていたのである。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "取った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "槍"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "槍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "水の瓶"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "瓶"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "מראשתי",
+      "gloss": "枕元から"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウルの"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "去って行った"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "なく"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "見る者も"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "なく"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "知る者も"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "מקיץ",
+      "gloss": "目覚める者も"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "全員が"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "眠っていた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "תרדמת",
+      "gloss": "深い眠りが"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェからの"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "下っていた"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:10.432210132Z",
+  "model": "glm-5.2"
+}

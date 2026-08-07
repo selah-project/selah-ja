@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 4:8",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "太陽が昇ったとき、エロヒムは沈黙する東風を備えた。太陽はヨナの頭上に打ちつけ、彼は気絶した。彼は自分の命が死ぬことを願って、言った、「私の死は私の命よりも良い。」",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうなった"
+    },
+    {
+      "surface": "כזרח",
+      "gloss": "昇ったとき"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽が"
+    },
+    {
+      "surface": "וימן",
+      "gloss": "備え"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風を"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東"
+    },
+    {
+      "surface": "חרישית",
+      "gloss": "沈黙する"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "打ちつけ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽は"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ヨナの"
+    },
+    {
+      "surface": "ויתעלף",
+      "gloss": "気絶した"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "願った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の命"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "自分の命"
+    },
+    {
+      "surface": "למות",
+      "gloss": "死ぬことを"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "私の死は"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "私の命よりも"
+    }
+  ],
+  "timestamp": "2026-08-07T12:27:08.636616825Z",
+  "model": "glm-5.2"
+}

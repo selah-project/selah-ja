@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "わたしの唇をもって数え上げた、あなたの口のすべての裁きを。",
+  "tokens": [
+    {
+      "surface": "בִּשְׂפָתַ֥י",
+      "gloss": "わたしの唇をもって"
+    },
+    {
+      "surface": "סִפַּ֑רְתִּי",
+      "gloss": "数え上げた"
+    },
+    {
+      "surface": "כֹּ֝֗ל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מִשְׁפְּטֵי",
+      "gloss": "裁きを"
+    },
+    {
+      "surface": "פִֽיךָ",
+      "gloss": "あなたの口の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:18.117418431Z",
+  "model": "glm-5.2"
+}

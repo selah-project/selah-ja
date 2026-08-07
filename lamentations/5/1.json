@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "覚えてください、ヤハウェ、何が私たちに起こったかを。見つめ、そして見よ、⟨את⟩私たちの辱めを。",
+  "tokens": [
+    {
+      "surface": "זְכֹ֤ר",
+      "gloss": "覚えてください"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מֶֽה",
+      "gloss": "何が"
+    },
+    {
+      "surface": "הָ֣יָה",
+      "gloss": "起こったか"
+    },
+    {
+      "surface": "לָ֔נוּ",
+      "gloss": "私たちに"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "見つめ"
+    },
+    {
+      "surface": "וּרְאֵ֥ה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "私たちの辱め"
+    },
+    {
+      "surface": "חֶרְפָּתֵֽנוּ",
+      "gloss": "私たちの辱め"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:04.398991978Z",
+  "model": "glm-5.2"
+}

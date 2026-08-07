@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 109,
+  "translation": "そして彼らは知るように ⟨してください⟩ — これがあなたの御手 ⟨である⟩ と、あなた ヤハウェが ⟨これを⟩ なされた ⟨のだ⟩ と。",
+  "tokens": [
+    {
+      "surface": "והדעו",
+      "gloss": "そして彼らが知るように"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの御手"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これが"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "なされた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:09.399648498Z",
+  "model": "glm-5.2"
+}

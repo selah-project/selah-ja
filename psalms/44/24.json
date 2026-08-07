@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "目を覚ませ、なぜあなたは眠っておられるのか、アドナイ。立ち上がれ、とこしえに⟨私たちを⟩見捨てないでほしい。",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "目を覚ませ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "あなたは眠っておられるのか"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "立ち上がれ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないでほしい"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "あなたは見捨てる"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "とこしえに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:29.710521866Z",
+  "model": "glm-5.2"
+}

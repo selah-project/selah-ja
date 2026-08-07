@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "祭司は指を血に浸し、その血でヤハウェの前、聖所の垂れ幕の表面に七回振り撒く。",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "浸す"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "指を"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "彼の指"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "血に"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "振り撒く"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "その血"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "回"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "表面に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "表面"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "垂れ幕"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:49.824363533Z",
+  "model": "glm-5.2"
+}

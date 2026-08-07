@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 22:22",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "もし人或る男が夫のある女と寝ているのが見つかったなら、二人とも死ななければならない。その女と寝た男も、その女も。こうしてあなたはイスラエルから悪を除かなければならない。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "もし"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "見つかると"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "寝ている"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "所有されている"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "夫に"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "そして彼らは死ぬ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜もまた"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "二人とも"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その男"
+    },
+    {
+      "surface": "השכב",
+      "gloss": "寝た"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "その女"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "そしてその女"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "そしてあなたは除く"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "その悪を"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "イスラエルから"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:44.918959287Z",
+  "model": "glm-5.2"
+}

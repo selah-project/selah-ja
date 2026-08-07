@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "および ⟨את⟩ バアラト、荒野の地の ⟨את⟩ タマルを。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "および ⟨את⟩",
+      "marks": "バアラト"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "バアラト"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "タマル"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "タマル"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野の"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:01:45.589385360Z",
+  "model": "glm-5.2"
+}

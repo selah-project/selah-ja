@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして ⟨את⟩ アハロンと ⟨את⟩ その息子たちを会見の天幕の入り口に近づけ、水で彼らを洗え。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アハロン"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その息子たち"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "その息子たち"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "あなたは近づけよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "そしてあなたは洗え"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼らを"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:07.929797699Z",
+  "model": "glm-5.2"
+}

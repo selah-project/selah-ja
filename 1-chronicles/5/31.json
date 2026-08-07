@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そしてアビシュアは⟨את⟩ブキを生み、ブキは⟨את⟩ウジを生んだ。",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "そしてアビシュア"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "…を生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ブキ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ブキ"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "そしてブキ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "…を生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ウジ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ウジ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:21.850592163Z",
+  "model": "glm-5.2"
+}

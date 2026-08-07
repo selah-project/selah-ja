@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 122,
+  "translation": "そこに裁定のための玉座が置かれた、ダヴィドの家の玉座が。",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "שָׁ֨מָּה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "יָשְׁב֣וּ",
+      "gloss": "置かれた"
+    },
+    {
+      "surface": "כִסְא֣וֹת",
+      "gloss": "玉座"
+    },
+    {
+      "surface": "לְמִשְׁפָּ֑ט",
+      "gloss": "裁定のための"
+    },
+    {
+      "surface": "כִּ֝סְא֗וֹת",
+      "gloss": "玉座"
+    },
+    {
+      "surface": "לְבֵ֣ית",
+      "gloss": "〜の家の"
+    },
+    {
+      "surface": "דָּוִֽיד",
+      "gloss": "ダヴィド"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:55.014408286Z",
+  "model": "glm-5.2"
+}

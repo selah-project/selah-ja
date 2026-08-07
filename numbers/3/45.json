@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 3:45",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "取れ、⟨את⟩レビ人を、イスラエルの子らのすべての初子の代わりに。そして⟨את⟩レビ人の家畜を、彼らの家畜の代わりに。そしてレビ人たちがわたしのものとなる。わたしはヤハウェである。",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レビ人を"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わりに"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "初子"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "〜の子らの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "レビ人の家畜を"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人の"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わりに"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "彼らの家畜"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしのものに"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人たち"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:28.267261917Z",
+  "model": "glm-5.2"
+}

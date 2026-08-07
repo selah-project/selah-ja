@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして⟨את⟩洗盤を、会見の天幕と祭壇の間に置き、そこに洗いのための水を入れた。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "そして置いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "洗盤"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "洗盤"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間に"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と〜の間に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして入れた"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "洗いのために"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:21.806813908Z",
+  "model": "glm-5.2"
+}

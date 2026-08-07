@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "我らの王の日、首長たちは葡萄酒の熱に⟨蝕まれ⟩、彼はその手をあざける者たちに⟨את⟩差し伸べた。",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "…の日"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "我らの王"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "病んだ"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "首長たちは"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "熱"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "葡萄酒の"
+    },
+    {
+      "surface": "משך",
+      "gloss": "差し伸べた"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手を"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あざける者たちに"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "あざける者たちに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:16.887668757Z",
+  "model": "glm-5.2"
+}

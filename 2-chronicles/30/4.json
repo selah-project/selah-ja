@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そしてそのことが王の目に、また全会衆の目に正しいと⟨された⟩。",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "そして正しいと⟨された⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "そのことが"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "〜の目に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "そして〜の目に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "会衆の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:18:32.356662046Z",
+  "model": "glm-5.2"
+}

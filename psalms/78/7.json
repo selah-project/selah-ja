@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "そして彼らがエロヒムに自分たちの拠り所を置き、エルののみわざを忘れず、⟨彼の⟩み诫めを守るように。",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "そして彼らが置く"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "エロヒムに"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "自分たちの拠り所を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "彼らが忘れる"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "のみわざを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エルの"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "そして⟨彼の⟩み诫めを"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "彼らが守る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:23.025172984Z",
+  "model": "glm-5.2"
+}

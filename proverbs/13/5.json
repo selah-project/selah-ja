@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "偽りのことばを、正しい者は憎む。しかし悪しき者は忌まわしくなり、恥となる。",
+  "tokens": [
+    {
+      "surface": "דְּבַר",
+      "gloss": "…のことば"
+    },
+    {
+      "surface": "שֶׁ֭קֶר",
+      "gloss": "偽り"
+    },
+    {
+      "surface": "יִשְׂנָ֣א",
+      "gloss": "憎む"
+    },
+    {
+      "surface": "צַדִּ֑יק",
+      "gloss": "正しい者は"
+    },
+    {
+      "surface": "וְ֝רָשָׁ֗ע",
+      "gloss": "しかし悪しき者は"
+    },
+    {
+      "surface": "יַבְאִ֥ישׁ",
+      "gloss": "忌まわしくなる"
+    },
+    {
+      "surface": "וְיַחְפִּֽיר",
+      "gloss": "そして恥となる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:06.403089662Z",
+  "model": "glm-5.2"
+}

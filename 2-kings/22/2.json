@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして彼はヤハウェの目に正しいことを行い、彼の父ダヴィドのすべての道を歩み、右にも左にもそれなかった。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は行った"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "正しいことを"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして彼は歩んだ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道を"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィドの"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "סר",
+      "gloss": "それ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "右に"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "左にも"
+    }
+  ],
+  "timestamp": "2026-08-07T11:18:08.532211917Z",
+  "model": "glm-5.2"
+}

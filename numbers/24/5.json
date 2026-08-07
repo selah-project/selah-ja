@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "なんと美しい、ヤコブよ、あなたの天幕は、イスラエルよ、あなたの住まいは",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "なんと"
+    },
+    {
+      "surface": "טֹּ֥בוּ",
+      "gloss": "美しい"
+    },
+    {
+      "surface": "אֹהָלֶ֖יךָ",
+      "gloss": "あなたの天幕は"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "ヤコブよ"
+    },
+    {
+      "surface": "מִשְׁכְּנֹתֶ֖יךָ",
+      "gloss": "あなたの住まいは"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "イスラエルよ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:00:36.871799880Z",
+  "model": "glm-5.2"
+}

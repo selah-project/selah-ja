@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 6:6",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そのうちの黒馬は北の地へ出て行き、白馬は彼らのあとを出て行き、まだら馬は南の地へ出て行く。",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "そのうちの"
+    },
+    {
+      "surface": "בָּ֞הּ",
+      "gloss": "それに"
+    },
+    {
+      "surface": "הַסּוּסִ֣ים",
+      "gloss": "馬は"
+    },
+    {
+      "surface": "הַשְּׁחֹרִ֗ים",
+      "gloss": "黒"
+    },
+    {
+      "surface": "יֹֽצְאִים֙",
+      "gloss": "出て行く"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "צָפ֔וֹן",
+      "gloss": "北の"
+    },
+    {
+      "surface": "וְהַלְּבָנִ֔ים",
+      "gloss": "そして白馬は"
+    },
+    {
+      "surface": "יָצְא֖וּ",
+      "gloss": "出て行った"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "אַֽחֲרֵיהֶ֑ם",
+      "gloss": "彼らのあとを"
+    },
+    {
+      "surface": "וְהַ֨בְּרֻדִּ֔ים",
+      "gloss": "そしてまだら馬は"
+    },
+    {
+      "surface": "יָצְא֖וּ",
+      "gloss": "出て行った"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "אֶ֥רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "הַתֵּימָֽן",
+      "gloss": "南の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:31:31.720501191Z",
+  "model": "glm-5.2"
+}

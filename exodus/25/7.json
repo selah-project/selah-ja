@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "ショハムの石、⟨そして⟩エポデ⟨と⟩胸当てのために⟨はめ込む⟩石",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "石"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "ショハム"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "⟨そして⟩石"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "⟨はめ込む⟩"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "エポデ⟨のために⟩"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "⟨と⟩胸当て⟨のために⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:21.302697532Z",
+  "model": "glm-5.2"
+}

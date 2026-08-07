@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 25:7",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "ピンハス——エルアザルの子、アハロンの子である祭司——がこれを見た。そして彼は会衆の中から立ち上がり、その手に槍を取った。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ピンハス"
+    },
+    {
+      "surface": "בן",
+      "gloss": "～の子"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "エルアザル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "～の子"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "その祭司"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "そして立ち上がった"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "～の中から"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "その会衆"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "רמח",
+      "gloss": "槍を"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "その手に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:00:58.500642996Z",
+  "model": "glm-5.2"
+}

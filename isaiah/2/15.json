@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "また、あらゆる高い塔の上に、また、あらゆる要塞の城壁の上に、",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "また〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "あらゆる"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "塔"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "高い"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "また〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "あらゆる"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "城壁"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "要塞の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:40.734043Z",
+  "model": "glm-5.2"
+}

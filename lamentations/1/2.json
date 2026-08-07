@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 1:2",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "泣き、夜通しく泣き、涙は頬の上に。愛者のすべてから彼女を慰める者がいない。親友たちは彼女に裏切りを働いた — 彼女の敵となった。",
+  "tokens": [
+    {
+      "surface": "בכו",
+      "gloss": "泣き"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "泣き"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "夜通し"
+    },
+    {
+      "surface": "ודמעתה",
+      "gloss": "涙は"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "頬"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "慰める者が"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "〜のすべてから"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "愛者"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "רעיה",
+      "gloss": "親友たちは"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "裏切りを働いた"
+    },
+    {
+      "surface": "בה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "היו",
+      "gloss": "〜となった"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女の"
+    },
+    {
+      "surface": "לאיבים",
+      "gloss": "敵"
+    }
+  ],
+  "timestamp": "2026-08-07T13:34:40.700854689Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ヤハウェのように聖なる方はいない。あなたのほかに⟨おられるのは⟩ないからである。私たちのエロヒムのような岩はない。",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖なる方"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ヤハウェのように"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "あなた以外"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "צור",
+      "gloss": "岩"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "私たちのエロヒムのように"
+    }
+  ],
+  "timestamp": "2026-08-07T10:39:35.045556030Z",
+  "model": "glm-5.2"
+}

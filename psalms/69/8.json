@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "あなたのゆえに、私はそしりを担ったからである。恥が私の顔を覆った。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だからである"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたのゆえに"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "私は担った"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "そしりを"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "覆った"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "恥が"
+    },
+    {
+      "surface": "פני",
+      "gloss": "私の顔を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:02.635553221Z",
+  "model": "glm-5.2"
+}

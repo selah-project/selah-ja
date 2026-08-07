@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "死の綱が私を囲み、ベリヤルの奔流が私を恐れさせた。",
+  "tokens": [
+    {
+      "surface": "אֲפָפ֥וּנִי",
+      "gloss": "私を囲んだ"
+    },
+    {
+      "surface": "חֶבְלֵי",
+      "gloss": "綱が"
+    },
+    {
+      "surface": "מָ֑וֶת",
+      "gloss": "死の"
+    },
+    {
+      "surface": "וְֽנַחֲלֵ֖י",
+      "gloss": "そして奔流が"
+    },
+    {
+      "surface": "בְלִיַּ֣עַל",
+      "gloss": "ベリヤルの"
+    },
+    {
+      "surface": "יְבַֽעֲתֽוּנִי",
+      "gloss": "私を恐れさせた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:01.465027449Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 23:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そしてサラはキルヤテ・アルバ（すなわちヘブロン）、カナンの地で死んだ。そしてアブラハムは入ってサラのために悼み、彼女のために泣いた。",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "そして…は死んだ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "サラは"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "…の町に"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "アルバ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ヘブロン"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "…の地で"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "カナンの"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして…は入った"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハムは"
+    },
+    {
+      "surface": "לספד",
+      "gloss": "悼むために"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "サラのために"
+    },
+    {
+      "surface": "ולבכתה",
+      "gloss": "そして彼女のために泣くために"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:47.295958607Z",
+  "model": "glm-5.2"
+}

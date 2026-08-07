@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "怒りを遅くする者は勇士にまさり、自分の霊を治める者は城を攻め取る者にまさる。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "まさる"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "遅くする"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "怒りを"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "勇士に"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "そして治める者は"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "自分の霊を"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "攻め取る者に"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:13.049129561Z",
+  "model": "glm-5.2"
+}

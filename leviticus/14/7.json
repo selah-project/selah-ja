@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 14:7",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして彼は、ツァラアトから清められる者に七回振りかけ、彼を清め、そして生きている鳥を野の面の上に放つ。",
+  "tokens": [
+    {
+      "surface": "והזה",
+      "gloss": "そして振りかける"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "清められる者"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ツァラアト"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "回"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "そして彼を清める"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "そして放つ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "生きている鳥"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "生きている"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:55.335045072Z",
+  "model": "glm-5.2"
+}

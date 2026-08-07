@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 8:21",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして⟨その⟩雄山羊は、ヤワンの王である。その二目の間にある⟨その⟩大いなる角、それこそが⟨その⟩最初の王である。",
+  "tokens": [
+    {
+      "surface": "והצפיר",
+      "gloss": "そして⟨その⟩雄山羊は"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "⟨毛深い⟩雄山羊"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יון",
+      "gloss": "ヤワン"
+    },
+    {
+      "surface": "והקרן",
+      "gloss": "そして⟨その⟩角"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "⟨大いなる⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間に"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "その二目"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それこそが"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨その⟩王"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "⟨最初の⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T13:46:34.876488622Z",
+  "model": "glm-5.2"
+}

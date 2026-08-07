@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 100,
+  "translation": "賛美のミズモル。全地よ、ヤハウェに向かって歓声を上げよ。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ミズモル"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "賛美の"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "歓声を上げよ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに向かって"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地よ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:17.660450663Z",
+  "model": "glm-5.2"
+}

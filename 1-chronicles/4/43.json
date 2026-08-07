@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 4:43",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼らは⟨את⟩アマレクのがれの残りの者を打ち、そこに住んだ。今日この日に至るまで。",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "そして打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アマレクのがれの残りの者"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "残りの者"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "のがれた"
+    },
+    {
+      "surface": "לעמלק",
+      "gloss": "アマレクの"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "そして住んだ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T14:00:55.026294247Z",
+  "model": "glm-5.2"
+}

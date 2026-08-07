@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "王は彼女に言われた、「何か⟨あるのか⟩」。彼女は言った、「ああ、私はやもめの女です。そして私の夫は死にました。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたにあるのか"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "そして彼女は言った"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "やもめ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私です"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "私の夫は"
+    }
+  ],
+  "timestamp": "2026-08-07T10:53:22.023368628Z",
+  "model": "glm-5.2"
+}

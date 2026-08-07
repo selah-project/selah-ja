@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 111,
+  "translation": "ヤハウェを畏れることは知恵の初め、それらを行うすべての者に良き悟れ。 ⟨⟨彼⟩⟩の賛美はとこしえに立つ。",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "初め"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵の"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "畏れること"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェを"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "悟り"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良き"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての者に"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "それらを行う"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": " ⟨⟨彼⟩⟩の賛美"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "とこしえに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:35.489416703Z",
+  "model": "glm-5.2"
+}

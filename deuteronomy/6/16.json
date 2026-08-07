@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "試みてはならない、⟨את⟩ ヤハウェ・あなたがたのエロヒムを、あなたがたがマサで試みたように。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "試みてはならない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ・あなたがたのエロヒム"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "あなたがたのエロヒム"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "あなたがたが試みた"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "マサで"
+    }
+  ],
+  "timestamp": "2026-08-07T10:09:23.682446343Z",
+  "model": "glm-5.2"
+}

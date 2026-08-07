@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "柔らかな答えは怒りを引き返させ、痛みの言葉は鼻の怒りを上らせる。",
+  "tokens": [
+    {
+      "surface": "מַֽעֲנֶה",
+      "gloss": "答え"
+    },
+    {
+      "surface": "רַּ֭ךְ",
+      "gloss": "柔らかな"
+    },
+    {
+      "surface": "יָשִׁ֣יב",
+      "gloss": "引き返させる"
+    },
+    {
+      "surface": "חֵמָ֑ה",
+      "gloss": "怒り"
+    },
+    {
+      "surface": "וּדְבַר",
+      "gloss": "そして〜の言葉"
+    },
+    {
+      "surface": "עֶ֝֗צֶב",
+      "gloss": "痛み"
+    },
+    {
+      "surface": "יַעֲלֶה",
+      "gloss": "上らせる"
+    },
+    {
+      "surface": "אָֽף",
+      "gloss": "鼻の怒り"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:51.958792451Z",
+  "model": "glm-5.2"
+}

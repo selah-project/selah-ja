@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 109,
+  "translation": "乞食で貧しい者が私であり、私の心は私の内側で刺し貫かれているから。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "עני",
+      "gloss": "貧しい者"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "そして乞食"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私⟨である⟩"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "そして私の心は"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "刺し貫かれている"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "私の内側で"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:25.187899504Z",
+  "model": "glm-5.2"
+}

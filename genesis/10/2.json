@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "ヤフェトの息子たち：ゴメル、マゴグ、マダイ、ヤワン、トバル、メシェク、ティラス。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "〜の息子たち"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ヤフェト"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ゴメル"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "マゴグ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "マダイ"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "ヤワン"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "トバル"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "メシェク"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "ティラス"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:39.767722071Z",
+  "model": "glm-5.2"
+}

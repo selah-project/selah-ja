@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "高く挙げられてください、地を裁く方よ。高ぶる者たちに報いを返してください。",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "高く挙げられてください"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "裁く方"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "השב",
+      "gloss": "返してください"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "報いを"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "高ぶる者たち"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:30.906354783Z",
+  "model": "glm-5.2"
+}

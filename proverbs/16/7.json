@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "ヤハウェが ⟨その⟩道を良しとされるとき — 人の ⟨道を⟩、⟨ヤハウェ⟩はその敵をも ⟨彼と⟩平和にさせる。",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "〜が良しとされるとき"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "道を"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "その敵を"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "平和にさせる"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と共に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:04.793547429Z",
+  "model": "glm-5.2"
+}

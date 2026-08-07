@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてヤハウェはサムエルに言われた。「民の声に聞き従え。彼らがあなたに言うすべてのことに。あなたを退けたのではなく、彼らがわたしを退けたのだ。わたしが彼らの上に王となることを。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "サムエルに"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞き従え"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "声に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ことに"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "彼らが言う"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "あなたを"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "退けた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜が"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "わたしを"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "退けた"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "王となることを"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:25.263226393Z",
+  "model": "glm-5.2"
+}

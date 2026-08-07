@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "愚か者はその霊をすべて ⟨を⟩ 押し出す、しかし賢い者は ⟨それを⟩ 後 ⟨まで⟩ 留める。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "ר֭וּחוֹ",
+      "gloss": "その霊"
+    },
+    {
+      "surface": "יוֹצִ֣יא",
+      "gloss": "押し出す"
+    },
+    {
+      "surface": "כְסִ֑יל",
+      "gloss": "愚か者"
+    },
+    {
+      "surface": "וְ֝חָכָ֗ם",
+      "gloss": "しかし賢い者"
+    },
+    {
+      "surface": "בְּאָח֥וֹר",
+      "gloss": "後 ⟨まで⟩"
+    },
+    {
+      "surface": "יְשַׁבְּחֶֽנָּה",
+      "gloss": "留める"
+    }
+  ],
+  "timestamp": "2026-08-07T17:25:35.925882857Z",
+  "model": "glm-5.2"
+}

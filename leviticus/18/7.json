@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "あなたの父の裸、またあなたの母の裸を、あなたは露わしてはならない。彼女はあなたの母である。あなたは彼女の裸を露わしてはならない。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "裸"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父の"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "また裸"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "あなたの母の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "あなたは露わしては"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "あなたの母"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨である⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "あなたは露わしては"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "彼女の裸"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:46.359772650Z",
+  "model": "glm-5.2"
+}

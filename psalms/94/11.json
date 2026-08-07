@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "ヤハウェは人の思いを知っておられる、それらは虚空であると。",
+  "tokens": [
+    {
+      "surface": "יְֽהוָ֗ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יֹ֭דֵעַ",
+      "gloss": "知っておられる"
+    },
+    {
+      "surface": "מַחְשְׁב֣וֹת",
+      "gloss": "思い"
+    },
+    {
+      "surface": "אָדָ֑ם",
+      "gloss": "人"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "〜であると"
+    },
+    {
+      "surface": "הֵ֥מָּה",
+      "gloss": "それらは"
+    },
+    {
+      "surface": "הָֽבֶל",
+      "gloss": "虚空"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:04.434569219Z",
+  "model": "glm-5.2"
+}

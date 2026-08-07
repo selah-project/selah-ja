@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "エフライムは打たれた。彼らの根は乾いた。果実は生み出されない。たとえ彼らが子を産んでも、私は彼らの胎の愛しい者たちを殺す。",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "打たれた"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライムは"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "彼らの根は"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "乾いた"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果実は"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "なく"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "生み出されない"
+    },
+    {
+      "surface": "גם",
+      "gloss": "たとえ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜でも"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "彼らが子を産んでも"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "私は殺す"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "愛しい者たちを"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "彼らの胎の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:44.992774954Z",
+  "model": "glm-5.2"
+}

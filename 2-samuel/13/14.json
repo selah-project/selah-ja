@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "しかし彼は彼女の声に聞き従うことを承知せず、彼女よりも力が強かったので、彼女を辱しめ、彼女と寝た。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜なかった"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "承知した"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "聞き従うことを"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "彼女の声に"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "そして力が強かった"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "彼女よりも"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "そして彼女を辱しめた"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "そして寝た"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "彼女"
+    }
+  ],
+  "timestamp": "2026-08-07T10:52:51.789005875Z",
+  "model": "glm-5.2"
+}

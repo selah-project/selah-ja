@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "わたしは自分のために庭園と果樹園を造り、その中にあらゆる果物の木を植えた。",
+  "tokens": [
+    {
+      "surface": "עָשִׂ֣יתִי",
+      "gloss": "造った"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "自分のために"
+    },
+    {
+      "surface": "גַּנּ֖וֹת",
+      "gloss": "庭園を"
+    },
+    {
+      "surface": "וּפַרְדֵּסִ֑ים",
+      "gloss": "と果樹園を"
+    },
+    {
+      "surface": "וְנָטַ֥עְתִּי",
+      "gloss": "植えた"
+    },
+    {
+      "surface": "בָהֶ֖ם",
+      "gloss": "その中に"
+    },
+    {
+      "surface": "עֵ֥ץ",
+      "gloss": "木を"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "あらゆる"
+    },
+    {
+      "surface": "פֶּֽרִי",
+      "gloss": "果物の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:58.284720936Z",
+  "model": "glm-5.2"
+}

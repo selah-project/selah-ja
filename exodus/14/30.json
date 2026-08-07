@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてヤハウェはその日にイスラエルをミツライム（エジプト）の手から救い出した。イスラエルはミツライムが海の岸辺に死んでいるのを見た。",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "そして…は救い出した"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…の日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "…の手から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "そして…は見た"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ミツライム（エジプト）"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死んでいる"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "岸辺"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:25.202461495Z",
+  "model": "glm-5.2"
+}

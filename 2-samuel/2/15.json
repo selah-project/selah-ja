@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 2:15",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして彼らは立ち上がり、数を以て進み出た — ベニヤミンと、イシュ・ボシェテ、シャウルの子のために十二人、そしてダビデのしもべたちから十二人。",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "そして彼らは立ち上がり"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "進み出た"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "数を以て"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "ベニヤミンのために"
+    },
+    {
+      "surface": "ולאיש",
+      "gloss": "およびイシュ・"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ボシェテの"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "そして二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "〜のしもべたちから"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:04.582546128Z",
+  "model": "glm-5.2"
+}

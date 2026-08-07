@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "私のナフシ、ヤハウェをほめよ。⟨את⟩ ヤハウェ、ヤハウェ私のエロヒム、あなたは非常に大いなる方、あなたは威光と威厳を衣としてまとい⟨た⟩。",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "ほめよ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私のナフシ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "私のエロヒム"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "あなたは大いなる"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "威光"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "と威厳"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "衣としてまとった"
+    }
+  ],
+  "timestamp": "2026-08-07T18:41:11.167324586Z",
+  "model": "glm-5.2"
+}

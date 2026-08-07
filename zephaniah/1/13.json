@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 1:13",
+  "book": "zephaniah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "彼らの財産は略奪に⟨なる⟩、彼らの家は荒廃に⟨なる⟩。彼らは家を建てるが、住まない。彼らはぶどう園を植えるが、⟨את⟩彼らのぶどう酒を飲まない。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そして…になる"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "彼らの財産"
+    },
+    {
+      "surface": "למשסה",
+      "gloss": "略奪に"
+    },
+    {
+      "surface": "ובתיהם",
+      "gloss": "彼らの家"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "荒廃に"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "そして彼らは建てる"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "家を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし…ない"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "住まない"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "そして彼らは植える"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ぶどう園を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし…ない"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "飲まない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らのぶどう酒を"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "彼らのぶどう酒"
+    }
+  ],
+  "timestamp": "2026-08-07T12:29:05.369827059Z",
+  "model": "glm-5.2"
+}

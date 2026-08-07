@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてシャンマイの兄弟ヤダの息子たちはイェテルとヨナタンで、イェテルは息子たちなしに死んだ。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "そして…の息子たち"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ヤダ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "…の兄弟"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "シャンマイ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "イェテル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と…⟨את⟩"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ヨナタン"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして…は死んだ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "イェテル"
+    },
+    {
+      "surface": "לא",
+      "gloss": "なし"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:55.434472061Z",
+  "model": "glm-5.2"
+}

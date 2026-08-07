@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 3:25",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "彼らは恥じるまで待ったが、見よ、彼は上の部屋の扉を開けない。そこで彼らは⟨את⟩鍵を取って開けた。見よ、彼らの主は地に倒れて死んでいた。",
+  "tokens": [
+    {
+      "surface": "ויחילו",
+      "gloss": "彼らは待った"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "בוש",
+      "gloss": "恥じる"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "彼は〜ない"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "開ける"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "扉を"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "上の部屋の"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "彼らは取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "鍵"
+    },
+    {
+      "surface": "המפתח",
+      "gloss": "鍵"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "彼らは開けた"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "彼らの主は"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "倒れて"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地に"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死んでいた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:33:02.563170332Z",
+  "model": "glm-5.2"
+}

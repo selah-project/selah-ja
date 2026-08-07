@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "シャウルは⟨את⟩使いを遣わし、ダビデを見るために（言った）、「彼を寝床ごと私のもとに運び上げよ、彼を殺すために」。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして遣わした"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "使いを"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "使い"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見るために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダビデを"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "運び上げよ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩彼を",
+      "marks": "彼を"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "寝床ごと"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のもとに"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "彼を殺すために"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:45.651170692Z",
+  "model": "glm-5.2"
+}

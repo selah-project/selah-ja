@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "私の舌に不正があるでしょうか。私の口は禍いを悟らないでしょうか。",
+  "tokens": [
+    {
+      "surface": "הֲיֵשׁ",
+      "gloss": "〜があるでしょうか"
+    },
+    {
+      "surface": "בִּלְשׁוֹנִ֥י",
+      "gloss": "私の舌に"
+    },
+    {
+      "surface": "עַוְלָ֑ה",
+      "gloss": "不正"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "〜だろうか"
+    },
+    {
+      "surface": "חִ֝כִּ֗י",
+      "gloss": "私の口は"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יָבִ֥ין",
+      "gloss": "悟る"
+    },
+    {
+      "surface": "הַוּֽוֹת",
+      "gloss": "禍いを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:25.501893500Z",
+  "model": "glm-5.2"
+}

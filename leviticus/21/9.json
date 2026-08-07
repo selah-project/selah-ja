@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして祭司の娘が、もし姦淫して汚れるなら、⟨彼女⟩は⟨את⟩自分の父を汚す——火で焼かれる。",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "そして…の娘"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男の"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "כי",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "汚れる"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "姦淫して"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼女の父"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "彼女の父"
+    },
+    {
+      "surface": "היא",
+      "gloss": "彼女"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "汚す"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "焼かれる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:27.756424729Z",
+  "model": "glm-5.2"
+}

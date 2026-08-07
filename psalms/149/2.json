@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 149,
+  "translation": "イスラエルは⟨自分の⟩造り主を喜び、ツィヨンの子らは⟨自分たちの⟩王を喜び踊れ。",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "喜べ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルは"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "⟨自分の⟩造り主を"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らは"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨンの"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "喜び踊れ"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "⟨自分たちの⟩王を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:35.813532925Z",
+  "model": "glm-5.2"
+}

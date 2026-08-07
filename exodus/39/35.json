@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "⟨את⟩あかしの箱、その棒、そして ⟨את⟩贖い蓋を。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "箱"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "箱"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "あかしの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その棒"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "その棒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "贖い蓋"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "贖い蓋"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:58.372778432Z",
+  "model": "glm-5.2"
+}

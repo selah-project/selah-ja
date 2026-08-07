@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 2:10",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてフラム、ツォルの王は、書簡にて言い、シェロモに送った。「ヤハウェが⟨את⟩ご自身の民を愛してくださったゆえに、⟨彼は⟩あなたを彼らの上に王として置かれた。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "フラム"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ツォル"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "書簡にて"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "そして送った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモ"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "愛において"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ご自身の民"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ご自身の民"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "あなたを置かれた"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らの上に"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王として"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:51.155819405Z",
+  "model": "glm-5.2"
+}

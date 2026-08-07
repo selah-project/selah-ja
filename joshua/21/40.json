@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "joshua 21:40",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "すべての町々はメラリ の子らへ、その氏族に従って — レビ の氏族のうち残りの者たちの分であった。そしてその割り当ては、町々 十二 であった。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "町々"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〜の子らへ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "メラリ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "その氏族に従って"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "残りの者たち"
+    },
+    {
+      "surface": "ממשפחות",
+      "gloss": "〜の氏族のうち"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜であった"
+    },
+    {
+      "surface": "גורלם",
+      "gloss": "その割り当て"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "町々"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    }
+  ],
+  "timestamp": "2026-08-07T10:29:51.937475161Z",
+  "model": "glm-5.2"
+}

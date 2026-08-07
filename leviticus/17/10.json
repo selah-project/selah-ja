@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "イスラエルの家からの人、あるいは彼らの中に宿る寄留者で、どんな血でも食べる者には、わたしは顔を向ける——その血を食べる命（ネフェシュ）に。わたしはその者をその民のただ中から断ち切る。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "そして人は"
+    },
+    {
+      "surface": "איש",
+      "gloss": "誰でも"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…の家から"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "また…から"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "その寄留者"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "宿る"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "彼らの中に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…者が"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "כל",
+      "gloss": "あらゆる"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血を"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "わたしは向ける"
+    },
+    {
+      "surface": "פני",
+      "gloss": "わたしの顔を"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "…の命に"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "その血"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "わたしは断ち切る"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "その者"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "…のただ中から"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "その民の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:51.519693609Z",
+  "model": "glm-5.2"
+}

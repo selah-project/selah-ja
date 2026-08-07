@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そしてモーシェは血の半分を取り、鉢に置いた。そして血の半分を祭壇に振りかけた。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして彼は取った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "半分"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "その血"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "そして彼は置いた"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "鉢に"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "そして半分"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "その血"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "彼は振りかけた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "その祭壇"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:23.618119475Z",
+  "model": "glm-5.2"
+}

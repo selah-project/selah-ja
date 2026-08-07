@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 23:24",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "イスラエルの子らに語って言え。第七の月に、その月の一日に、あなたがたにとって安息の時、記念の、角笛の響き、聖なる召集があるように、と。",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "語って"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言え"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "月に"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七の"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "一日に"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "その月の"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜があるように"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたにとって"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "安息の時"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "記念の"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "角笛の響き"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "召集"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:58.696409819Z",
+  "model": "glm-5.2"
+}

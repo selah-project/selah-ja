@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてあなたたちは近づき、山の下に立った。そして山は火をもって燃えていた —天の心まで。闇、雲、そして濃霧。」",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "そしてあなたたちは近づいた"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "そしてあなたたちは立った"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "そして山は"
+    },
+    {
+      "surface": "בער",
+      "gloss": "燃えていた"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火をもって"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "闇"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "そして濃霧"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:35.299379957Z",
+  "model": "glm-5.2"
+}

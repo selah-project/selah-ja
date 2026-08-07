@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 6:4",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "その時、このダニエルは総督たちや高官たちの上に立つ者となった。 ⟨それは⟩ 彼の中に ⟨抜きんでた⟩ 霊があったためであり、王は彼を王国全体の上に立てようと考えていた。",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "その時"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ダニエル"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "この"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼⟩は"
+    },
+    {
+      "surface": "מתנצח",
+      "gloss": "上に立つ者となった"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "סרכיא",
+      "gloss": "高官たち"
+    },
+    {
+      "surface": "ואחשדרפניא",
+      "gloss": "と総督たち"
+    },
+    {
+      "surface": "כל",
+      "gloss": "それは〜のためである"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "〜ゆえに"
+    },
+    {
+      "surface": "די",
+      "gloss": "〜が"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "יתירא",
+      "gloss": "抜きんでた"
+    },
+    {
+      "surface": "בה",
+      "gloss": "彼の中に"
+    },
+    {
+      "surface": "ומלכא",
+      "gloss": "そして王は"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "意図した"
+    },
+    {
+      "surface": "להקמותה",
+      "gloss": "彼を立てる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "王国の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:46:00.753751837Z",
+  "model": "glm-5.2"
+}

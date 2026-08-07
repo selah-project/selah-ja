@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "彼らは言った。「娼婦のように⟨彼は⟩ ⟨את⟩ 私たちの姉妹を扱うのか。」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "彼らは言った"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "娼婦のように"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "扱うのか"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私たちの姉妹"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "私たちの姉妹を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:52.801635445Z",
+  "model": "glm-5.2"
+}

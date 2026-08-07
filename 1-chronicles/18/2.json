@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして彼は⟨את⟩モアブを打った。モアブはダビデの奴隷となり、貢物を携える者となった。",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モアブ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブを"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "…となった"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブは"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴隷"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "携える者"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "貢物"
+    }
+  ],
+  "timestamp": "2026-08-07T14:06:47.997828263Z",
+  "model": "glm-5.2"
+}

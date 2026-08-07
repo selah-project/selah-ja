@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 6:12",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "馬たちは岩の上を走る⟨だろうか⟩。牛で耕す⟨だろうか⟩。あなたたちは裁きを毒に変え、義の実を苦よもぎに変えたからだ。",
+  "tokens": [
+    {
+      "surface": "הירצון",
+      "gloss": "走る"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "岩の上を"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "馬たちは"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜だろうか"
+    },
+    {
+      "surface": "יחרוש",
+      "gloss": "耕す"
+    },
+    {
+      "surface": "בבקרים",
+      "gloss": "牛で"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "הפכתם",
+      "gloss": "あなたたちは変えた"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "毒に"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "裁きを"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "実を"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "義の"
+    },
+    {
+      "surface": "ללענה",
+      "gloss": "苦よもぎに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:22:35.585942229Z",
+  "model": "glm-5.2"
+}

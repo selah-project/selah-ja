@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "なぜなら、無駄に張られる罠は — すべての翼を持つ者の目の前で ⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "חִ֭נָּם",
+      "gloss": "無駄に"
+    },
+    {
+      "surface": "מְזֹרָ֣ה",
+      "gloss": "張られる"
+    },
+    {
+      "surface": "הָרָ֑שֶׁת",
+      "gloss": "罠"
+    },
+    {
+      "surface": "בְּ֝עֵינֵ֗י",
+      "gloss": "〜の目の前で"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בַּ֥עַל",
+      "gloss": "持つ者"
+    },
+    {
+      "surface": "כָּנָֽף",
+      "gloss": "翼"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:29.764818292Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "もし蛇が呪文なしに噛むなら、舌の主に⟨は⟩利益がない。",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יִשֹּׁךְ",
+      "gloss": "噛むなら"
+    },
+    {
+      "surface": "הַנָּחָשׁ",
+      "gloss": "蛇が"
+    },
+    {
+      "surface": "בְּלֹא",
+      "gloss": "なしに"
+    },
+    {
+      "surface": "לָחַשׁ",
+      "gloss": "呪文"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יִתְרוֹן",
+      "gloss": "利益"
+    },
+    {
+      "surface": "לְבַעַל",
+      "gloss": "〜の主に"
+    },
+    {
+      "surface": "הַלָּשׁוֹן",
+      "gloss": "舌"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:52.012874538Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 81,
+  "translation": "そして⟨彼を⟩小麦の脂肪から食べさせ、岩から蜜で⟨あなたを⟩飽かせるであろう。",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "そして彼に食べさせた"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "〜の脂肪から"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "小麦"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "そして岩から"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "蜜"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "わたしはあなたを飽かせる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:02.926193627Z",
+  "model": "glm-5.2"
+}

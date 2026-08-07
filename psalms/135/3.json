@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 135,
+  "translation": "ハレル、ヤハ。ヤハウェは善良だから。御名に向かって歌え。それは快いのだから。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ハレル"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善良"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "歌え"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "御名に向かって"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "快い"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:41.197441087Z",
+  "model": "glm-5.2"
+}

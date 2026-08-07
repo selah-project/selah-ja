@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして彼は⟨את⟩棒をアカシア材で作り、⟨את⟩それらを金で覆った。",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַשׂ",
+      "gloss": "そして彼は作った"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "棒"
+    },
+    {
+      "surface": "הַבַּדִּ֖ים",
+      "gloss": "棒"
+    },
+    {
+      "surface": "עֲצֵ֣י",
+      "gloss": "材"
+    },
+    {
+      "surface": "שִׁטִּ֑ים",
+      "gloss": "アカシア"
+    },
+    {
+      "surface": "וַיְצַ֥ף",
+      "gloss": "そして彼は覆った"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩それらを",
+      "marks": "金"
+    },
+    {
+      "surface": "זָהָֽב",
+      "gloss": "金"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:56.306146640Z",
+  "model": "glm-5.2"
+}

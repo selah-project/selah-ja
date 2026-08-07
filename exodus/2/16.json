@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ミドヤンの祭司には七人の娘があった。そして彼女たちは来て水を汲み、⟨את⟩水槽を満たした。父の羊の群れに水を飲ませるために。",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "祭司には"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ミドヤンの"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "娘が"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "来て"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "汲み"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "満たした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "水槽"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "水槽を"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "飲ませるために"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊の群れを"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "父の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:12:54.855549291Z",
+  "model": "glm-5.2"
+}

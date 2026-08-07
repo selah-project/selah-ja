@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "背きの宣告は⟨⟩悪者に、私の心の内に、エロヒムへの恐れが彼の目の前にない。",
+  "tokens": [
+    {
+      "surface": "נְאֻֽם",
+      "gloss": "宣告"
+    },
+    {
+      "surface": "פֶּ֣שַׁע",
+      "gloss": "背き"
+    },
+    {
+      "surface": "לָ֭רָשָׁע",
+      "gloss": "悪者に"
+    },
+    {
+      "surface": "בְּקֶ֣רֶב",
+      "gloss": "〜の内に"
+    },
+    {
+      "surface": "לִבִּ֑י",
+      "gloss": "私の心"
+    },
+    {
+      "surface": "אֵֽין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "פַּ֥חַד",
+      "gloss": "恐れ"
+    },
+    {
+      "surface": "אֱ֝לֹהִ֗ים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "לְנֶ֣גֶד",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "עֵינָֽיו",
+      "gloss": "彼の目"
+    }
+  ],
+  "timestamp": "2026-08-07T17:18:23.502853883Z",
+  "model": "glm-5.2"
+}

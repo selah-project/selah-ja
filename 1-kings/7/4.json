@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして窓枠が三列、そして覗き窓は覗き窓に向かい合い、三度。",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "窓枠"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "列"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "覗き窓"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かい合い"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "覗き窓"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "度"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:25.517939265Z",
+  "model": "glm-5.2"
+}

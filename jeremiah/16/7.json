@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 16:7",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そして彼らのために嘆きのパンを裂いて与えることはない、死者について彼を慰めるために。また彼らに⟨את⟩慰めの杯を飲ませることもない、彼の父と彼の母について。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יפרסו",
+      "gloss": "彼らは裂いて与える"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "嘆き"
+    },
+    {
+      "surface": "לנחמו",
+      "gloss": "彼を慰めるために"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死者"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "彼らは飲ませる"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "慰めの杯"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "杯"
+    },
+    {
+      "surface": "תנחומים",
+      "gloss": "慰めの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "および〜について"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "彼の母"
+    }
+  ],
+  "timestamp": "2026-08-07T17:02:25.458429928Z",
+  "model": "glm-5.2"
+}

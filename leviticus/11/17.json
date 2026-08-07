@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "および⟨את⟩小フクロウ、および⟨את⟩カワウ、および⟨את⟩大型のフクロウ、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "小フクロウ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "小フクロウ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "カワウ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "カワウ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "大型のフクロウ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "大型のフクロウ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:27.649239387Z",
+  "model": "glm-5.2"
+}

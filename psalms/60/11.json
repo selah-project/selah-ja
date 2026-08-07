@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 60,
+  "translation": "だれがわたしを要塞の都市に導くか、だれがわたしをエドムまで導くか、",
+  "tokens": [
+    {
+      "surface": "מִ֣י",
+      "gloss": "だれが"
+    },
+    {
+      "surface": "יֹ֭בִלֵנִי",
+      "gloss": "わたしを導くか"
+    },
+    {
+      "surface": "עִ֣יר",
+      "gloss": "都市"
+    },
+    {
+      "surface": "מָצ֑וֹר",
+      "gloss": "要塞"
+    },
+    {
+      "surface": "מִ֖י",
+      "gloss": "だれが"
+    },
+    {
+      "surface": "נָחַ֣נִי",
+      "gloss": "わたしを導くか"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "אֱדֽוֹם",
+      "gloss": "エドム"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:04.251074857Z",
+  "model": "glm-5.2"
+}

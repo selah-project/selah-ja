@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 14:23",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "ミツライムは追い、パロのすべての馬、その戦車と騎兵が彼らの後に海のただ中に入った。",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "追い"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムは"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "入った"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "彼らの後に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "その戦車"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "騎兵"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ただ中"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:25.097217891Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "それは、私の弓に ⟨は⟩ 信頼せず、私の剣も私を救わないからだ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "それは…からだ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "私の弓に"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "信頼する"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "そして私の剣も"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "私を救う"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:24.247526782Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 9:12",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "なぜなら、人は自分の時を知らないからだ — 悪い網の中に捕らえられる魚のように、罠の中に捕らえられる鳥のように。人の子らはこのように、悪い時に突然それが彼らの上に落ちる ⟨と⟩、罠にかかる。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の時"
+    },
+    {
+      "surface": "עתו",
+      "gloss": "自分の時"
+    },
+    {
+      "surface": "כדגים",
+      "gloss": "魚のように"
+    },
+    {
+      "surface": "שנאחזים",
+      "gloss": "捕らえられる"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "網の中に"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "וכצפרים",
+      "gloss": "そして鳥のように"
+    },
+    {
+      "surface": "האחזות",
+      "gloss": "捕らえられる"
+    },
+    {
+      "surface": "בפח",
+      "gloss": "罠の中に"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "このように"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "罠にかかる"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "時に"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "כשתפול",
+      "gloss": "〜が落ちるとき"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らの上に"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "突然"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:23.497901927Z",
+  "model": "glm-5.2"
+}

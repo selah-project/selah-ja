@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 2:9",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして私は川向こうの長官たちの⟨ところ⟩に来た。そして私は彼らに王の書簡⟨את⟩を与えた。そして王は私とともに将校たちと騎兵を遣わした。",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "そして私は来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "פחוות",
+      "gloss": "長官たち"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "向こう"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "川の"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "そして私は与えた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王の書簡"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "書簡"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "そして王は遣わした"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "私とともに"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "将校たち"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍勢の"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "そして騎兵"
+    }
+  ],
+  "timestamp": "2026-08-07T13:55:45.223298518Z",
+  "model": "glm-5.2"
+}

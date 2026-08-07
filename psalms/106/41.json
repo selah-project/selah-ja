@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "そして⟨彼は⟩彼らを国々の手に渡し、彼らを憎む者たちが彼らを支配した。",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "そして渡された"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手に"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々の"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "支配した"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "彼らを"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "彼らを憎む者たちが"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:13.943865180Z",
+  "model": "glm-5.2"
+}

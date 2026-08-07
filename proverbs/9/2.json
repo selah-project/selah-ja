@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "彼女は ⟨彼女の⟩ 屠った獣を屠り、 ⟨彼女の⟩ ぶどう酒を混ぜ合わせた。さらに ⟨彼女は⟩ ⟨彼女の⟩ テーブルを整えた。",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "彼女は屠った"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "屠った獣を"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "混ぜ合わせた"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "ぶどう酒を"
+    },
+    {
+      "surface": "אף",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "整えた"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "テーブルを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:13.648738140Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "たとえ彼らが⟨את⟩子らを育てても、わたしは彼らを子失いにさせる、人の子から。まことに、わざわいが彼らにある、わたしが彼らから離れるとき。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "たとえ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜でも"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "彼らが育てる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "子ら"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "彼らの子ら"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "わたしは彼らを子失いにさせる"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "人の子から"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "わざわい"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らにある"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "わたしが離れるとき"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "彼らから"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:40.571879347Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ゲルショムについては：リブニ彼の息子、ヤハト彼の息子、ジマ彼の息子。",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "ゲルショムについては"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "リブニ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の息子"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ヤハト"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の息子"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ジマ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の息子"
+    }
+  ],
+  "timestamp": "2026-08-07T17:35:44.640888762Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "引き裂く時、そして縫う時。沈黙する時、そして語る時。",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "引き裂く"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "そして時"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "縫う"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "沈黙する"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "そして時"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "語る"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:25.494227229Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そして武装兵たちは捕囚たちと分捕り物を長官たちと全会衆の前に残した。",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "そして残した"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "武装兵たちは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "捕囚たち"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "捕囚たち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "分捕り物"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "分捕り物"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "長官たち"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "会衆"
+    }
+  ],
+  "timestamp": "2026-08-07T14:17:58.331178396Z",
+  "model": "glm-5.2"
+}

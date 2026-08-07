@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 24:13",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "ヤハウェはモーセに語って、こう言われた。",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "こう言う"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:39.496623074Z",
+  "model": "glm-5.2"
+}

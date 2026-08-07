@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてシャウルは⟨すでに⟩⟨את⟩ミカルを、自分の娘、ダビデの妻として、パルティに、ラヨシュの子に与えていた。そのラヨシュはガリムの者であった。",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "そしてシャウルは"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ミカルを"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ミカルを"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "自分の娘"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻である"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "パルティに"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "ラヨシュの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である者"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "ガリムから"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:57.153139957Z",
+  "model": "glm-5.2"
+}

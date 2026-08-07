@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "自分の父と母を呪う者は、必ず殺されなければならない。",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "そして呪う者は"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "自分の父を"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "そして自分の母を"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死によって"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "殺されなければならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:25.971955469Z",
+  "model": "glm-5.2"
+}

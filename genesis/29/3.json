@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 29:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてそこにすべての群れが集められ、⟨人々は⟩⟨את⟩その石を井戸の口から転がし、⟨את⟩その羊に水を飲ませ、⟨את⟩その石を井戸の口の上のその場所に戻した。",
+  "tokens": [
+    {
+      "surface": "ונאספו",
+      "gloss": "そして…集められ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "群れ"
+    },
+    {
+      "surface": "וגללו",
+      "gloss": "そして…転がし"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その石"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "その石"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…から"
+    },
+    {
+      "surface": "פי",
+      "gloss": "…の口"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "その井戸"
+    },
+    {
+      "surface": "והשקו",
+      "gloss": "そして…水を飲ませ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その羊"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "その羊"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "そして…戻した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その石"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "その石"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "פי",
+      "gloss": "…の口"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "その井戸"
+    },
+    {
+      "surface": "למקמה",
+      "gloss": "その場所に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:51.375210959Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "なぜなら確かに終わりがあり、あなたの望みは断ち切られることがないからだ。",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "יֵשׁ",
+      "gloss": "ある"
+    },
+    {
+      "surface": "אַחֲרִית",
+      "gloss": "終わりが"
+    },
+    {
+      "surface": "וְתִקְוָתְךָ",
+      "gloss": "あなたの望みは"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תִכָּרֵת",
+      "gloss": "断ち切られる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:19.032225568Z",
+  "model": "glm-5.2"
+}

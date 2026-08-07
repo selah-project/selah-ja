@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 67,
+  "translation": "民もちはあなたを、エロヒム、告白する。民もちはあなたを告白する、すべての民が。",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "告白する"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "民もちは"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "告白する"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "民もちは"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "すべての民が"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:05.788042367Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 5:20",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ダビデはバアル・ペラツィムに来た。ダビデはそこで彼らを打った。そして言った。「ヤハウェは水の奔流のように、私の敵を前にして破り出された。」それゆえ彼はその場所の名をバアル・ペラツィムと呼んだ。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "バアル・〜に"
+    },
+    {
+      "surface": "פרצים",
+      "gloss": "ペラツィム"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "打った"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "破り出された"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の敵"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "私の敵を"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "私の前に"
+    },
+    {
+      "surface": "כפרץ",
+      "gloss": "〜の奔流のように"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "על",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのことによって"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼んだ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名を"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "その場所の"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "バアル・"
+    },
+    {
+      "surface": "פרצים",
+      "gloss": "ペラツィム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:47.074091358Z",
+  "model": "glm-5.2"
+}

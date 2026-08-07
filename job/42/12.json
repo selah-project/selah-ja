@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "そしてヤハウェは⟨את⟩イヨブの後の日々をその始めよりも祝福した。彼には羊一万四千、らくだ六千、牛一千のくびき、雌ろば一千があった。",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "そしてヤハウェ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "祝福した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イヨブの後の日々"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "後の日々"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "イヨブの"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "その始めよりも"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そしてあった"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼には"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "および六"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "らくだ"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "および千"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "くびき"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "および千"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "雌ろば"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:45.031684829Z",
+  "model": "glm-5.2"
+}

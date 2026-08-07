@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そして彼は死人と生きる者との間に立った。そして疫病は止められた。",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "そして立った"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間に"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "死人"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と〜の"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "生きる者"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "そして止められた"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "疫病"
+    }
+  ],
+  "timestamp": "2026-08-07T09:57:38.269607838Z",
+  "model": "glm-5.2"
+}

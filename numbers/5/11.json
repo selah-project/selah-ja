@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 5:11",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そしてヤハウェはモーセに語って言われた、",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして〜は語った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言われた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:50:38.975295118Z",
+  "model": "glm-5.2"
+}

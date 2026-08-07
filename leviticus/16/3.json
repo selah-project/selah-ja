@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "アハロンは次のものと共に聖所に入る — 罪のための捧げ物として雄牛一頭、すなわち牛の子を、そして全焼の捧げ物として雄羊一匹を。",
+  "tokens": [
+    {
+      "surface": "בְּזֹאת",
+      "gloss": "これと共に"
+    },
+    {
+      "surface": "יָבֹא",
+      "gloss": "入る"
+    },
+    {
+      "surface": "אַהֲרֹן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הַקֹּדֶשׁ",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "בְּפַר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "子"
+    },
+    {
+      "surface": "בָּקָר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "לְחַטָּאת",
+      "gloss": "罪のための捧げ物として"
+    },
+    {
+      "surface": "וְאַיִל",
+      "gloss": "そして雄羊"
+    },
+    {
+      "surface": "לְעֹלָה",
+      "gloss": "全焼の捧げ物として"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:19.545061397Z",
+  "model": "glm-5.2"
+}

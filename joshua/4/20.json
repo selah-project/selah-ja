@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼らがヨルダンから取ったこれら十二の石を、ヨシュアは⟨את⟩ギルガルに立てた。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "これら十二の石"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "石"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "彼らが取った"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルダン"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "立てた"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュアは"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ギルガルに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:23:24.818860828Z",
+  "model": "glm-5.2"
+}

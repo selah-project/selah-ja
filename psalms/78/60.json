@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "そして⟨彼⟩はシロの住まい、人の間に据えた天幕を捨てられた。",
+  "tokens": [
+    {
+      "surface": "וַ֭יִּטֹּשׁ",
+      "gloss": "そして彼は捨てた"
+    },
+    {
+      "surface": "מִשְׁכַּ֣ן",
+      "gloss": "住まい"
+    },
+    {
+      "surface": "שִׁל֑וֹ",
+      "gloss": "シロの"
+    },
+    {
+      "surface": "אֹ֝֗הֶל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "שִׁכֵּ֥ן",
+      "gloss": "彼が住まわせた"
+    },
+    {
+      "surface": "בָּאָדָֽם",
+      "gloss": "人の間に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:45.641291667Z",
+  "model": "glm-5.2"
+}

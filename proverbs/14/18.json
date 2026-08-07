@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 14:18",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "愚かな者たちは愚かさを相続し、慎み深い者たちは知識を⟨頭に≫戴く。",
+  "tokens": [
+    {
+      "surface": "נחלו",
+      "gloss": "相続する"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "愚かな者たち"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "愚かさ"
+    },
+    {
+      "surface": "וערומים",
+      "gloss": "そして慎み深い者たち"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "戴く"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:18.058263037Z",
+  "model": "glm-5.2"
+}

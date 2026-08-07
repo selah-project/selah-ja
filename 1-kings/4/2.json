@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "これらは彼の ⟨持つ⟩ 高官たちである。アザルヤフ、ツァドクの子、祭司。",
+  "tokens": [
+    {
+      "surface": "וְאֵ֥לֶּה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "הַשָּׂרִ֖ים",
+      "gloss": "高官たち"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "彼のもの"
+    },
+    {
+      "surface": "עֲזַרְיָ֥הוּ",
+      "gloss": "アザルヤフ"
+    },
+    {
+      "surface": "בֶן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "צָד֖וֹק",
+      "gloss": "ツァドク"
+    },
+    {
+      "surface": "הַכֹּהֵֽן",
+      "gloss": "祭司"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:44.009987050Z",
+  "model": "glm-5.2"
+}

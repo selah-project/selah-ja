@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてヤハウェはユダを — ⟨את⟩彼の割り当てとして — 聖なる地の上に嗣業として受けよう。そして再びイェルシャライムを選ぼう。",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "そして〜は嗣業として受けよう"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ユダ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "彼の割り当て"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "地"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "そして〜は選ぼう"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "再び"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライムを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:30:34.483752202Z",
+  "model": "glm-5.2"
+}

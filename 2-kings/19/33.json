@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 19:33",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "彼の来た道を、彼はそれを通って引き返し、この町には入らない、とヤハウェは仰る。",
+  "tokens": [
+    {
+      "surface": "בַּדֶּ֥רֶךְ",
+      "gloss": "道において"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "יָבֹ֖א",
+      "gloss": "彼が来た"
+    },
+    {
+      "surface": "בָּ֣הּ",
+      "gloss": "それを"
+    },
+    {
+      "surface": "יָשׁ֑וּב",
+      "gloss": "彼は引き返す"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "そして…へ"
+    },
+    {
+      "surface": "הָעִ֥יר",
+      "gloss": "この町"
+    },
+    {
+      "surface": "הַזֹּ֛את",
+      "gloss": "この"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יָבֹ֖א",
+      "gloss": "彼は入らない"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "仰る"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:17:22.712224925Z",
+  "model": "glm-5.2"
+}

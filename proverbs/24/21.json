@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "わが子よ、ヤハウェと王を恐れよ。⟨את⟩変わる者たちと交わるな。",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "恐れよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "わが子よ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "と王"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…と"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "変わる者たち"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…な"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "交わる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:23.727862158Z",
+  "model": "glm-5.2"
+}

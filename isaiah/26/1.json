@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "その日に、この歌がユダの地で歌われる。「われらに力強い町がある。救いが城壁と外塁を据える。」",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "〜日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "歌われる"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "〜の地で"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "עז",
+      "gloss": "力強い"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "われらに"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "救い"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "据える"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "城壁"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "と外塁"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:31.545025680Z",
+  "model": "glm-5.2"
+}

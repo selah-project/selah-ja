@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 74,
+  "translation": "あなたはレヴィヤタンの頭を粉々に砕き、⟨それ⟩を荒野の民への食物として与えた。",
+  "tokens": [
+    {
+      "surface": "אַתָּה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "רִצַּצְתָּ",
+      "gloss": "粉々に砕き"
+    },
+    {
+      "surface": "רָאשֵׁי",
+      "gloss": "頭を"
+    },
+    {
+      "surface": "לִוְיָתָן",
+      "gloss": "レヴィヤタンの"
+    },
+    {
+      "surface": "תִּתְּנֶנּוּ",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "מַאֲכָל",
+      "gloss": "食物として"
+    },
+    {
+      "surface": "לְעָם",
+      "gloss": "民へ"
+    },
+    {
+      "surface": "לְצִיִּים",
+      "gloss": "荒野の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:38.801415553Z",
+  "model": "glm-5.2"
+}

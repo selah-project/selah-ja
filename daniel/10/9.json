@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして私は⟨彼の⟩言葉の声を聞いた。そして私が⟨彼の⟩言葉の声を聞いたとき、私は顔の上に深い眠りにあり、私の顔は⟨地面に⟩向かっていた。",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "そして私は聞いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "声"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "彼の言葉の"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "そして私が聞いたとき"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "声"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "彼の言葉の"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "そして私は"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "深い眠りに"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "私の顔"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "そして私の顔は"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地面に向かって"
+    }
+  ],
+  "timestamp": "2026-08-07T13:47:02.815165231Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "イスラエルの子らは定められた時に、⟨את⟩過越の祭りを執り行え。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "そして…行え"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "過越の祭り"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "過越の祭り"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "その定められた時に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:53:54.744554163Z",
+  "model": "glm-5.2"
+}

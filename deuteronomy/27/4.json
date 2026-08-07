@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてあなたがたが ⟨את⟩ ヤルデンを渡るとき、私がきょうあなたがたに命じる ⟨את⟩ これらの石をエイバル山に立てなければならない。そしてあなたはそれらを漆で塗らなければならない",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そして…なる"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "あなたがたが渡るとき"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤルデン"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヤルデンを"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "あなたがたは…立てなければならない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらの石"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "石を"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（関係詞）"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私が"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "命じる"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "היום",
+      "gloss": "きょう"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "…山に"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "エイバル"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "そして…塗らなければならない"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "それら"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "漆で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:48.279556339Z",
+  "model": "glm-5.2"
+}

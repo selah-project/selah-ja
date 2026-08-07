@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "そしてイスラエルはヨセフに言った——「今度こそ、死のう。⟨私は⟩⟨あなた⟩の顔を⟨את⟩見たのだから、⟨あなた⟩がなお生きている⟨ので⟩。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして……言った"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אל",
+      "gloss": "……に"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "私は死のう"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "今度こそ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "……の後に"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "私が見たこと"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの顔"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨あなた⟩の顔"
+    },
+    {
+      "surface": "כי",
+      "gloss": "……だから"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "⟨あなた⟩がなお"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生きている"
+    }
+  ],
+  "timestamp": "2026-08-07T09:10:06.624477758Z",
+  "model": "glm-5.2"
+}

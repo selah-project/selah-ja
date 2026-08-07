@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてあなたは王のところに入り、この言葉のとおりに彼に語れ。」そしてヨアブは⟨את⟩言葉を彼女の口に置いた。",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "そしてあなたは…入れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のところに"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "そして…語れ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "…の言葉のとおりに"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "そして…置いた"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "言葉"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "彼女の口に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:53:09.804160803Z",
+  "model": "glm-5.2"
+}

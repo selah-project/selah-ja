@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてパロは向きを変え、自分の家に入った。そして彼はこのことにも心を留めなかった。",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "そして向きを変えた"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロは"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして入った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "自分の家に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "שת",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "心を"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜にも"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "このこと"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:00.097300974Z",
+  "model": "glm-5.2"
+}

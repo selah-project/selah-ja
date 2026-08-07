@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 1:6",
+  "book": "habakkuk",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "見よ、わたしは⟨את⟩カスディム（カルデヤ人）を立ち上がらせる、あの苦々しく急ぐ国、地の広々とした所を歩き、自分のものではない住処を奪い取る⟨者⟩を。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "見よ、わたしは"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "立ち上がらせる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "カスディム（カルデヤ人）"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "カスディム（カルデヤ人）"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "あの国"
+    },
+    {
+      "surface": "המר",
+      "gloss": "苦々しい"
+    },
+    {
+      "surface": "והנמהר",
+      "gloss": "そして急ぐ"
+    },
+    {
+      "surface": "ההולך",
+      "gloss": "歩く者"
+    },
+    {
+      "surface": "למרחבי",
+      "gloss": "〜の広々とした所を"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "奪い取る"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "住処"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のものでは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:28:45.596073234Z",
+  "model": "glm-5.2"
+}

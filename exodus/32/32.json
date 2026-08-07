@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そして今、もしあなたが彼らの罪を赦されるなら ⟨—⟩、そしてもし然らずば、どうか私をあなたが書き記されたあなたの書から拭い消してください。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "あなたが赦されるなら"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "彼らの罪を"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "אין",
+      "gloss": "然らずば"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "私を拭き消してください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "あなたの書から"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "書き記された"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:50.854410132Z",
+  "model": "glm-5.2"
+}

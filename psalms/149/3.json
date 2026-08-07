@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 149,
+  "translation": "⟨彼らは⟩その名を舞いによってハレルせよ。⟨彼らは⟩手鼓とキンノールで⟨彼に⟩歌い奏でよ。",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ハレルせよ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "その名を"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "舞いによって"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "手鼓で"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "とキンノールで"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "歌い奏でよ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨彼に⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:35.813612531Z",
+  "model": "glm-5.2"
+}

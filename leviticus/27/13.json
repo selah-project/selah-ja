@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてもし贖う者が⟨彼女を⟩贖うなら、⟨彼⟩はその五分の一をあなたの評価の上に加えなければならない。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "贖う者"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "⟨彼女を⟩贖うなら"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "そして加えなければならない"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "その五分の一を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "あなたの評価"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:43.617073488Z",
+  "model": "glm-5.2"
+}

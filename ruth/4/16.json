@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "ナオミはその子を取り、彼女のふところに置き、彼女は彼の養い親となった。",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "そして…取った"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "ナオミは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その子を"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "その子を"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "そして…彼女は置いた"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "彼女のふところに"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "そして…彼女は…なった"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼の"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "養い親として"
+    }
+  ],
+  "timestamp": "2026-08-07T13:35:17.108635858Z",
+  "model": "glm-5.2"
+}

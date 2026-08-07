@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 56,
+  "translation": "野のすべての獣よ、来い、食らえ、森のすべての獣よ。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "獣よ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "野の"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "来い"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "食らえ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "獣よ"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "森の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:07.326659379Z",
+  "model": "glm-5.2"
+}

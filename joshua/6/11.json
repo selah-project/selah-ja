@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして彼は ヤハウェ の箱に ⟨את⟩ 町を一周させた、一回。そして宿営は宿営に帰り、宿営で夜を過ごした。",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "そして彼は〜を一周させた"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "町"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "回って"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "回"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "そして帰り"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "宿営は"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "夜を過ごした"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "宿営で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:23:45.956222191Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "あなたは私の哀悼を翻えし、私のために舞いとなされた。あなたは私の荒布を解き、喜びで私を帯びとされた。",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "あなたは翻えされた"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "私の哀悼を"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "舞いに"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "あなたは解いた"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "私の荒布を"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "そして私を帯びとされた"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "喜びで"
+    }
+  ],
+  "timestamp": "2026-08-07T17:18:10.460235818Z",
+  "model": "glm-5.2"
+}

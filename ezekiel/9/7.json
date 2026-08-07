@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして彼らに言った。「家を汚せ。中庭を刺し殺された者で満たせ。出よ。」そして彼らは出て、町で打った。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "汚せ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家を"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "そして満たせ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "中庭"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "中庭を"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "刺し殺された者で"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "出よ"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "そして彼らは出た"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "そして打った"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:03:30.758482990Z",
+  "model": "glm-5.2"
+}

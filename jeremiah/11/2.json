@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "「この契約のことばを聞け。そしてユダの人々とエルシャライムの住民に告げよ。」",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この契約のことば"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⋯のことば"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "契約"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "そして告げよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⋯に"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人々"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして⋯に"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "住民"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "エルシャライム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:32:05.168471882Z",
+  "model": "glm-5.2"
+}

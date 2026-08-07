@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "もし⟨彼が⟩⟨את⟩彼の買い求めた畑を——それが彼の所有地の畑ではないものであって——ヤハウェに聖別するなら、",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "畑"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "畑を"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "彼の買い求めた"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～であるもの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ではない"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "～の畑の"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "彼の所有地の"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "聖別するなら"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:29.333197089Z",
+  "model": "glm-5.2"
+}

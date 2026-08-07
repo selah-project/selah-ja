@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "不正を、もし私が心の中に見たのなら、アドナイは聞かれないであろう。",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "不正を"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私が見たのなら"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "心の中に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "聞かれる"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:45.774892258Z",
+  "model": "glm-5.2"
+}

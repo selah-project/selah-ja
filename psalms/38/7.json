@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "わたしは曲がり、わたしは極度にまで沈み込んだ。一日中わたしは暗く歩いた。",
+  "tokens": [
+    {
+      "surface": "נַעֲוֵ֣יתִי",
+      "gloss": "曲がり"
+    },
+    {
+      "surface": "שַׁחֹ֣תִי",
+      "gloss": "沈み込んだ"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "מְאֹ֑ד",
+      "gloss": "極度に"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "〜中"
+    },
+    {
+      "surface": "הַ֝יּ֗וֹם",
+      "gloss": "一日"
+    },
+    {
+      "surface": "קֹדֵ֥ר",
+      "gloss": "暗く"
+    },
+    {
+      "surface": "הִלָּֽכְתִּי",
+      "gloss": "歩いた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:48.606829692Z",
+  "model": "glm-5.2"
+}

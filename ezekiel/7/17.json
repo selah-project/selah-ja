@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "すべての手はだらりと垂れ、すべてのひざは水となって歩けなくなる。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הַיָּדַ֖יִם",
+      "gloss": "手は"
+    },
+    {
+      "surface": "תִּרְפֶּ֑ינָה",
+      "gloss": "だらりと垂れる"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "בִּרְכַּ֖יִם",
+      "gloss": "ひざは"
+    },
+    {
+      "surface": "תֵּלַ֥כְנָה",
+      "gloss": "歩けなくなる"
+    },
+    {
+      "surface": "מָּֽיִם",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-08-07T12:02:01.520637394Z",
+  "model": "glm-5.2"
+}

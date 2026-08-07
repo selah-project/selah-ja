@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 21:24",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてイスラエルは彼を剣の口で打ち、⟨את⟩彼の地を、アルノンからヤボクまで、アンモン人の子らまで、取って嗣業とした。アンモン人の子らの領土は堅固だったからである。",
+  "tokens": [
+    {
+      "surface": "ויכהו",
+      "gloss": "そして…彼を打った"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルは"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "…の口で"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "そして…取って嗣業とした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の地"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "彼の地を"
+    },
+    {
+      "surface": "מארנן",
+      "gloss": "アルノンから"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "ヤボク"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アンモン"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "עז",
+      "gloss": "堅固だった"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "領土は"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子らの"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アンモン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:59:36.005831292Z",
+  "model": "glm-5.2"
+}

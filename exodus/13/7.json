@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "種なしパンは七日間食べられ、あなたには発酵したものが見えてはならず、あなたの全領土の内にパン種が見えてはならない。",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "種なしパンは"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べられ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "七日間"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七…の"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日間"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "見え"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "発酵したものが"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "見え"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "パン種が"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全…の"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "あなたの領土の内に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:14.376604540Z",
+  "model": "glm-5.2"
+}

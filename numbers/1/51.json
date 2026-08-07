@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして幕屋が旅立つとき、レビ人が ⟨את⟩これを降ろし、幕屋が宿営するとき、レビ人が ⟨את⟩これを立てる。そして近づくよそ者⟨は⟩死なされる。",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "そして〜が旅立つとき"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "降ろす"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩これ",
+      "marks": "レビ人"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "そして〜が宿営するとき"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "立てる"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩これ",
+      "marks": "レビ人"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "そしてよそ者"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "近づく"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "死なされる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:45:05.018349952Z",
+  "model": "glm-5.2"
+}

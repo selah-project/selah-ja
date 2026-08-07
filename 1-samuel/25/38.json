@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして十日ほど経って、ヤハウェは⟨את⟩ナバルを打たれたので、彼は死んだ。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして～になった"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "十日ほど"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日が"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "そして打たれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナバル"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ナバルを"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして彼は死んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:11.300871638Z",
+  "model": "glm-5.2"
+}

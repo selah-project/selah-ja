@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "私の終わりを、ヤハウェ、知らせてください。私の日の尺度は何であるか。私がどれほど果てる者かを知るために。",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "私に知らせてください"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "私の終わりを"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "そして…の尺度"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "私の日の"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨それは⟩あるか"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "私が知るために"
+    },
+    {
+      "surface": "מה",
+      "gloss": "どれほど"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "果てるか"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私が"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:33.737363733Z",
+  "model": "glm-5.2"
+}

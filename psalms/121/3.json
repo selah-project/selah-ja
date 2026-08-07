@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 121,
+  "translation": "あなたの足がすべることを許さない。あなたを守る方はまどろまない。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与えない"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "すべることを"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "あなたの足が"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "まどろまない"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "あなたを守る方は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:14.926964778Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 22:28",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして⟨את⟩苦しむ民を、あなたは救われる。そしてあなたの目は高ぶる者たちの上に⟨あって⟩、彼らを低くされる。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "苦しむ民を"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "עני",
+      "gloss": "苦しむ"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "あなたは救われる"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "そしてあなたの目は"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "高ぶる者たち"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "⟨彼らを⟩低くされる"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:33.366626282Z",
+  "model": "glm-5.2"
+}

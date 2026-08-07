@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "復讐のエル、ヤハウェよ、復讐のエルよ、輝き出でよ。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "復讐の"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "復讐の"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "輝き出でよ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:30.906181193Z",
+  "model": "glm-5.2"
+}

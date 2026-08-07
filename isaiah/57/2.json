@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 57,
+  "translation": "平安が来る。かれらは自分たちの寝床に安息する、正しく歩むそれぞれの者が。",
+  "tokens": [
+    {
+      "surface": "יָב֣וֹא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "שָׁל֔וֹם",
+      "gloss": "平安が"
+    },
+    {
+      "surface": "יָנ֖וּחוּ",
+      "gloss": "かれらは安息する"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "מִשְׁכְּבוֹתָ֑ם",
+      "gloss": "自分たちの寝床"
+    },
+    {
+      "surface": "הֹלֵ֖ךְ",
+      "gloss": "歩む者"
+    },
+    {
+      "surface": "נְכֹחֽוֹ",
+      "gloss": "正しく"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:31.915975993Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 24:9",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "彼はヤハウェの目に悪を行った、彼の父が行ったすべてのことのように。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "彼は行った"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "すべての～のように"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～したところの"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行った"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    }
+  ],
+  "timestamp": "2026-08-07T11:19:48.658802984Z",
+  "model": "glm-5.2"
+}

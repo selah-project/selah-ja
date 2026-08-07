@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 5:3",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "または、人の汚れに触れる ⟨場合⟩ — その人がそれによって汚れるあらゆる汚れに — そしてそれが本人に隠されていたなら、⟨その人が⟩知ったとき、彼は咎を負う。",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜とき"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "触れる"
+    },
+    {
+      "surface": "בטמאת",
+      "gloss": "汚れに"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "あらゆる"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "その汚れに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "汚れる"
+    },
+    {
+      "surface": "בה",
+      "gloss": "それによって"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "そして隠されていた"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "本人から"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そして彼は"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知った"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "咎を負う"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:05.583332937Z",
+  "model": "glm-5.2"
+}

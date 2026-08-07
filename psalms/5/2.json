@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "私の言葉に耳を傾けてください、ヤハウェ。私の呻きを悟ってください。",
+  "tokens": [
+    {
+      "surface": "אֲמָרַ֖י",
+      "gloss": "私の言葉"
+    },
+    {
+      "surface": "הַאֲזִ֥ינָה",
+      "gloss": "耳を傾けてください"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בִּ֣ינָה",
+      "gloss": "悟ってください"
+    },
+    {
+      "surface": "הֲגִֽיגִי",
+      "gloss": "私の呻き"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:15.619768779Z",
+  "model": "glm-5.2"
+}

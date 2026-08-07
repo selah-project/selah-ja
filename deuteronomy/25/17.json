@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "覚えよ、⟨את⟩アマレクがあなたにしたことを、道の上で、あなたたちがミツライムから出ていくときに。",
+  "tokens": [
+    {
+      "surface": "זָכ֕וֹר",
+      "gloss": "覚えよ"
+    },
+    {
+      "surface": "אֵ֛ת",
+      "gloss": "⟨את⟩",
+      "marks": "アマレクがあなたにしたこと"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "עָשָׂ֥ה",
+      "gloss": "した"
+    },
+    {
+      "surface": "לְךָ֖",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "עֲמָלֵ֑ק",
+      "gloss": "アマレク"
+    },
+    {
+      "surface": "בַּדֶּ֖רֶךְ",
+      "gloss": "道の上で"
+    },
+    {
+      "surface": "בְּצֵאתְכֶ֥ם",
+      "gloss": "〜が出ていくときに"
+    },
+    {
+      "surface": "מִמִּצְרָֽיִם",
+      "gloss": "ミツライムから"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:21.425104283Z",
+  "model": "glm-5.2"
+}

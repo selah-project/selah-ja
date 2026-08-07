@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 44:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "そしてあなたはあなたのしもべたちに言われた、彼を私のもとに下らせよ、そうすれば私は私の目を彼の上に置こう、と。",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "そしてあなたは言った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "あなたのしもべたち"
+    },
+    {
+      "surface": "הורדהו",
+      "gloss": "彼を下らせよ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のもとに"
+    },
+    {
+      "surface": "ואשימה",
+      "gloss": "そして私は置こう"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "私の目を"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼の上に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:08.406152661Z",
+  "model": "glm-5.2"
+}

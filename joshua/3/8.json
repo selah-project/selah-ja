@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "あなたは⟨את⟩契約の箱を担ぐ祭司たちに命じて言え。「あなたがたがヨルデンの水の端に来たなら、ヨルデンの中に立て。」と。」",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "命じよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "契約の箱を担ぐ祭司たち"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "…を担ぐ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "契約の"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "あなたがたが…来たなら"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…に至るまで"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "端"
+    },
+    {
+      "surface": "מי",
+      "gloss": "…の水"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルデン"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "ヨルデンの中に"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "あなたがたは…立て"
+    }
+  ],
+  "timestamp": "2026-08-07T10:24:18.662553975Z",
+  "model": "glm-5.2"
+}

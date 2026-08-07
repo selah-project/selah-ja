@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "彼は自分のつかさたちと勇士たちと共に相談し、市の外にある泉の水を塞ごうとした。そして彼らは彼を助けた。",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "そして彼は相談した"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…と共に"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "彼のつかさたち"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "そして彼の勇士たち"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "塞ぐために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "泉の水"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "…の水"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "泉"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外に"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "市の"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "そして彼らは彼を助けた"
+    }
+  ],
+  "timestamp": "2026-08-07T14:19:09.582436581Z",
+  "model": "glm-5.2"
+}

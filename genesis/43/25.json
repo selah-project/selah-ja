@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "彼らは⟨את⟩贈り物を整えた、ヨセフが真昼に来るまで。彼らが聞いたからである、そこで彼らがパンを食べることを。",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "彼らは整えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "贈り物"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "贈り物"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "真昼に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "彼らは聞いた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということを"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "彼らが食べる"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:48.822641178Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "彼は⟨את⟩アマレクを見、彼の格言を持ち上げて言った。「アマレクは諸国の初穂、しかし彼の終わりは滅びへ至る。」",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "彼は見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アマレク"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "アマレク"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "持ち上げて"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "彼の格言"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "初穂"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "諸国の"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "アマレク"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "彼の終わり"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "〜へ至るまで"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "滅び"
+    }
+  ],
+  "timestamp": "2026-08-07T10:00:33.770013054Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 40:18",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "彼の骨は青銅の管、彼の骨格は鉄の棒のようだ。",
+  "tokens": [
+    {
+      "surface": "עצמיו",
+      "gloss": "彼の骨は"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "管"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "גרמיו",
+      "gloss": "彼の骨格は"
+    },
+    {
+      "surface": "כמטיל",
+      "gloss": "〜の棒のようだ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鉄"
+    }
+  ],
+  "timestamp": "2026-08-07T13:32:13.191961029Z",
+  "model": "glm-5.2"
+}

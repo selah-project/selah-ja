@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そしてあなたはそこから少しばかりを数によって取れ。そしてあなたはそれらをあなたの裾の中に包め。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "そしてあなたは取れ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "少しばかり"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "数によって"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "そしてあなたは包め"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "それらを"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "あなたの裾の中に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:02:01.899056219Z",
+  "model": "glm-5.2"
+}

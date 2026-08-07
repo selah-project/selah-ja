@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてハナには一つの鼻の分を与えた。⟨というのは⟩ ⟨彼⟩は⟨את⟩ハナを愛していたが、ヤハウェは彼女の胎を閉じておられたからである。",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "そしてハナには"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "分を"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "鼻の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨というのは⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ハナ"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "ハナ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛していた"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "そしてヤハウェは"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "閉じておられた"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "彼女の胎を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:39:35.664603167Z",
+  "model": "glm-5.2"
+}

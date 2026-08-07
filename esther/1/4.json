@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "多くの日々、すなわち八十と百日の間、⟨彼⟩が自身の王国の威光 ⟨את⟩ ⟨その富⟩ を、また自身の偉大さの栄光の気高き ⟨את⟩ ⟨その価⟩ を示していた ⟨時に⟩ —",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "⟨彼⟩が…を示していた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その富"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "富"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "威光"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "自身の王国"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その価"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "価"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "栄光"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "自身の偉大さ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "八十"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "と百"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:57.563046724Z",
+  "model": "glm-5.2"
+}

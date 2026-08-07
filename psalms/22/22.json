@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "私を獅子の口から救い出せ、そして野牛の角からあなたは私に答えられた。",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "私を救い出せ"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "〜の口から"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "そして〜の角から"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "野牛"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "あなたは私に答えられた"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:14.857003021Z",
+  "model": "glm-5.2"
+}

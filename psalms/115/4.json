@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 115,
+  "translation": "彼らの偶像は銀と金——人の手の業である。",
+  "tokens": [
+    {
+      "surface": "עֲצַבֵּיהֶם",
+      "gloss": "彼らの偶像"
+    },
+    {
+      "surface": "כֶּסֶף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וְזָהָב",
+      "gloss": "と金"
+    },
+    {
+      "surface": "מַעֲשֵׂה",
+      "gloss": "業"
+    },
+    {
+      "surface": "יְדֵי",
+      "gloss": "〜の手の"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:38.307847621Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "すると彼は彼に言った。「私は行かない。むしろ、私の地と私の生まれ故郷へ私は行く。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "すると…言った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "私は行かない"
+    },
+    {
+      "surface": "כי",
+      "gloss": "むしろ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "私の地"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして…へ"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "私の生まれ故郷"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "私は行く"
+    }
+  ],
+  "timestamp": "2026-08-07T09:54:43.246418870Z",
+  "model": "glm-5.2"
+}

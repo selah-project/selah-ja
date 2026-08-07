@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "⟨את⟩ ヤルムトと⟨את⟩ その牧草地、⟨את⟩ エン・ガニムと⟨את⟩ その牧草地、都市四つ。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤルムト"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "ヤルムト"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "その牧草地"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "その牧草地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エン・ガニム"
+    },
+    {
+      "surface": "עין",
+      "gloss": "泉"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "庭園"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "その牧草地"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "その牧草地"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "都市"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四つ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:30:01.387855029Z",
+  "model": "glm-5.2"
+}

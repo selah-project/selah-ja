@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 21:15",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "「シャッダイとは何なのか、われらが彼に仕えるために。そして何の得益があるのか、われらが彼に会うために。」",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "何なのか"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "シャッダイは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～のために"
+    },
+    {
+      "surface": "נעבדנו",
+      "gloss": "われらが彼に仕える"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "そして何の"
+    },
+    {
+      "surface": "נועיל",
+      "gloss": "得益があるのか"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～のために"
+    },
+    {
+      "surface": "נפגע",
+      "gloss": "われらが会う"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:25:25.180031759Z",
+  "model": "glm-5.2"
+}

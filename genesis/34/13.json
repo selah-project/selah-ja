@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そしてヤアコブの子らは答えた — ⟨את⟩シェケムと、⟨את⟩その父ハモルに、欺きによって。そして彼らは語った — ⟨彼が⟩⟨את⟩彼らの姉妹ディナを汚したので。",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "そして答えた"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シェケム"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "シェケム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ハモル"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ハモル"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "その父"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "欺きによって"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…なので"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ディナ"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "ディナ"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "彼らの姉妹"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:38.240688952Z",
+  "model": "glm-5.2"
+}

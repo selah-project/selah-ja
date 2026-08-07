@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "かく道において愚か者が歩くとき、⟨彼の⟩心は欠けており、彼はすべての者に「愚か者だ」と告げている。",
+  "tokens": [
+    {
+      "surface": "וְגַם",
+      "gloss": "かく"
+    },
+    {
+      "surface": "בַּדֶּרֶךְ",
+      "gloss": "道において"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "愚か者が"
+    },
+    {
+      "surface": "הֹלֵךְ",
+      "gloss": "歩くとき"
+    },
+    {
+      "surface": "לִבּוֹ",
+      "gloss": "⟨彼の⟩心"
+    },
+    {
+      "surface": "חָסֵר",
+      "gloss": "欠けており"
+    },
+    {
+      "surface": "וְאָמַר",
+      "gloss": "彼は告げている"
+    },
+    {
+      "surface": "לַכֹּל",
+      "gloss": "すべての者に"
+    },
+    {
+      "surface": "סָכָל",
+      "gloss": "愚か者だ"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "⟨それは⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:12.509396436Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "中層の側室の入り口は家の右肩に向かっていた。そして螺旋階段で中層へ、そして中層から第三層へ上った。",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "入り口"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "側室の"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "中層の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "肩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "そして螺旋階段で"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "上った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "中層"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "そして〜から"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "中層"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "第三層"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:16.195558296Z",
+  "model": "glm-5.2"
+}

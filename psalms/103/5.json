@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 103,
+  "translation": "良いものであなたの飾りを満足させる方、あなたの若さは鷲のように新しくされる",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "満足させる方"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "良いもので"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "あなたの飾りを"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "新しくされる"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "鷲のように"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "あなたの若さは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:32.764265277Z",
+  "model": "glm-5.2"
+}

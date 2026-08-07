@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてこれが、シュロモ王が上げた徴用工の記録である — ヤハウェの家と自分の家とミローとイェルシャライムの城壁と、⟨את⟩ハツォルと⟨את⟩メギドと⟨את⟩ゲゼルを建てるために。",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "そしてこれが"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "記録"
+    },
+    {
+      "surface": "המס",
+      "gloss": "徴用工の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜の"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "上げた"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "建てるために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "自分の家"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "彼の家"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ミロー"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "ミロー"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "イェルシャライムの城壁"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "城壁"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ハツォル"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "ハツォル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "メギド"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "メギド"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ゲゼル"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ゲゼル"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:04.606645407Z",
+  "model": "glm-5.2"
+}

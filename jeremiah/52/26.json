@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 52:26",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "衛兵の長ネブ・ザル・アダンは彼らを捕らえ、彼らをバビロンの王のもとリブラへと連れて行った。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして捕らえた"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら（ネブ・ザル・アダンを指す）"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "ネブ・ザル・アダン"
+    },
+    {
+      "surface": "רב",
+      "gloss": "長"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "衛兵（屠殺者）"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして連れて行った"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら（バビロンの王のもとへを指す）"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとへ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロン"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "リブラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:00:14.012222358Z",
+  "model": "glm-5.2"
+}

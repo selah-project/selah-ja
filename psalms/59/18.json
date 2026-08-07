@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "私の力よ、あなたに向かって私は琴を奏でる。エロヒムは私の高き岩、私のヘセドのエロヒムだからだ。",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "私の力よ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに向かって"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "私は琴を奏でる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "私の高き岩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…のエロヒム"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "私のヘセド"
+    }
+  ],
+  "timestamp": "2026-08-07T12:47:51.905360611Z",
+  "model": "glm-5.2"
+}

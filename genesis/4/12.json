@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "あなたが地を耕すとき、それはもはやあなたにその力を与え続けない。あなたは地上でさまよい、逃れ歩く者となる。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…とき"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "あなたが耕す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "もはや…続け"
+    },
+    {
+      "surface": "תת",
+      "gloss": "与える"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "その力を"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "נע",
+      "gloss": "さまよい"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "逃れ歩く"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "あなたは…となる"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地上で"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:48.274494451Z",
+  "model": "glm-5.2"
+}

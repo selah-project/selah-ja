@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "⟨את⟩小型のフクロウ、そして⟨את⟩大型のフクロウ、そして白いフクロウを。",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "小型のフクロウ"
+    },
+    {
+      "surface": "הַכּ֥וֹס",
+      "gloss": "小型のフクロウ"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "そして⟨את⟩",
+      "marks": "大型のフクロウ"
+    },
+    {
+      "surface": "הַיַּנְשׁ֖וּף",
+      "gloss": "大型のフクロウ"
+    },
+    {
+      "surface": "וְהַתִּנְשָֽׁמֶת",
+      "gloss": "そして白いフクロウ"
+    }
+  ],
+  "timestamp": "2026-08-07T16:37:01.122501267Z",
+  "model": "glm-5.2"
+}

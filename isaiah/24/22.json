@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 24:22",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして彼らは集められ、坑の中の囚人のように集められ、牢に閉じ込められ、多日ののちに訪問される。",
+  "tokens": [
+    {
+      "surface": "ואספו",
+      "gloss": "そして彼らは集められ"
+    },
+    {
+      "surface": "אספה",
+      "gloss": "集められるように"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "囚人"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の中の"
+    },
+    {
+      "surface": "בור",
+      "gloss": "坑"
+    },
+    {
+      "surface": "וסגרו",
+      "gloss": "そして閉じ込められ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "מסגר",
+      "gloss": "牢"
+    },
+    {
+      "surface": "ומרב",
+      "gloss": "そして多（の）"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々"
+    },
+    {
+      "surface": "יפקדו",
+      "gloss": "彼らは訪問される"
+    }
+  ],
+  "timestamp": "2026-08-07T17:44:07.679895064Z",
+  "model": "glm-5.2"
+}

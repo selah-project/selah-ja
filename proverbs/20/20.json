@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "父と母を呪う者、彼のともしびは深いやみの中で消える。",
+  "tokens": [
+    {
+      "surface": "מְ֭קַלֵּל",
+      "gloss": "呪う者"
+    },
+    {
+      "surface": "אָבִ֣יו",
+      "gloss": "父を"
+    },
+    {
+      "surface": "וְאִמּ֑וֹ",
+      "gloss": "と母を"
+    },
+    {
+      "surface": "יִֽדְעַ֥ךְ",
+      "gloss": "消える"
+    },
+    {
+      "surface": "נֵ֝ר֗וֹ",
+      "gloss": "彼のともしびは"
+    },
+    {
+      "surface": "בְּאִישׁ֥וֹן",
+      "gloss": "深いやみの中で"
+    },
+    {
+      "surface": "חֹֽשֶׁךְ",
+      "gloss": "やみ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:05.629110077Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そうではない、悪しき者たちは。むしろもみがらのようだ — 風が吹き飛ばすもの。",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "כֵ֥ן",
+      "gloss": "そのようには"
+    },
+    {
+      "surface": "הָרְשָׁעִ֑ים",
+      "gloss": "悪しき者たちは"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "むしろ"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "〜としては"
+    },
+    {
+      "surface": "כַּ֝מֹּ֗ץ",
+      "gloss": "もみがらのようだ"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "תִּדְּפֶ֥נּוּ",
+      "gloss": "吹き飛ばす"
+    },
+    {
+      "surface": "רֽוּחַ",
+      "gloss": "風が"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:50.062071234Z",
+  "model": "glm-5.2"
+}

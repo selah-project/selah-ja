@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "宿営していた民は、「ジムリが謀反を企て、さらに王を打った」と告げられるのを聞いた。そこで全イスラエルは、その日、宿営において、イスラエルの軍の長官オムリに⟨את⟩を王として立てた。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "そして聞いた"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "宿営していた"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "告げられるのを"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "謀反を企てた"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ジムリが"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王を"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "そして王として立てた"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "オムリ"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "オムリに"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長官"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "軍の"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その日"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "宿営において"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:19.822655424Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "また ⟨彼が⟩流した無垢の血のため — 彼は ⟨את⟩エルシャライムを無垢の血で満たしたから。そしてヤハウェは赦すことを望まれなかった。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "また"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "無垢の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "すなわち"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "流した"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "そして彼は…を満たした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エルシャライム"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "エルシャライム"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "無垢の"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…なかった"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "望まれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "赦すことを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:28.150763416Z",
+  "model": "glm-5.2"
+}

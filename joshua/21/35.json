@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "⟨את⟩ ディムナとその牧草地、⟨את⟩ ナハラルとその牧草地。四つの町。",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ディムナ"
+    },
+    {
+      "surface": "דִּמְנָה֙",
+      "gloss": "ディムナ"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "と⟨את⟩",
+      "marks": "その牧草地"
+    },
+    {
+      "surface": "מִגְרָשֶׁ֔הָ",
+      "gloss": "その牧草地"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "ナハラル"
+    },
+    {
+      "surface": "נַהֲלָ֖ל",
+      "gloss": "ナハラル"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "と⟨את⟩",
+      "marks": "その牧草地"
+    },
+    {
+      "surface": "מִגְרָשֶׁ֑הָ",
+      "gloss": "その牧草地"
+    },
+    {
+      "surface": "עָרִ֖ים",
+      "gloss": "町々"
+    },
+    {
+      "surface": "אַרְבַּֽע",
+      "gloss": "四"
+    }
+  ],
+  "timestamp": "2026-08-07T10:29:30.084213961Z",
+  "model": "glm-5.2"
+}

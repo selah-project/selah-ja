@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして彼の軍団、そして彼の数えられた者⟨ら⟩、六と四十千と五百。",
+  "tokens": [
+    {
+      "surface": "וּצְבָא֖וֹ",
+      "gloss": "そして彼の軍団"
+    },
+    {
+      "surface": "וּפְקֻדָ֑יו",
+      "gloss": "そして彼の数えられた者"
+    },
+    {
+      "surface": "שִׁשָּׁ֧ה",
+      "gloss": "六"
+    },
+    {
+      "surface": "וְאַרְבָּעִ֛ים",
+      "gloss": "と四十"
+    },
+    {
+      "surface": "אֶ֖לֶף",
+      "gloss": "千"
+    },
+    {
+      "surface": "וַחֲמֵ֥שׁ",
+      "gloss": "と五"
+    },
+    {
+      "surface": "מֵאֽוֹת",
+      "gloss": "百"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:12.193062387Z",
+  "model": "glm-5.2"
+}

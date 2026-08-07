@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 73,
+  "translation": "もしわたしが、「わたしはこのように語ろう」と言ったなら、見よ、あなたの子らの世代に対してわたしは不信を働いたであろう。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "わたしが言ったなら"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "わたしは語ろう"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "このように"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代を"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "あなたの子らの"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "わたしは不信を働いた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:14.662065630Z",
+  "model": "glm-5.2"
+}

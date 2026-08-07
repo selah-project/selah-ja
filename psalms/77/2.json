@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 77,
+  "translation": "私の声はエロヒムへ、私は叫ぶ、私の声はエロヒムへ、そして⟨彼が⟩私に耳を傾けられるように。",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "私の声は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "私が叫ぶ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "私の声は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "そして耳を傾けられる"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:15.112112685Z",
+  "model": "glm-5.2"
+}

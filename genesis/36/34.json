@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 36:34",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "ヨバブが死に、⟨彼に⟩代わってテマニ人の地のフシャムが王として治めた。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして…死んだ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ヨバブ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "…王として治めた"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨彼に⟩代わって"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "フシャム"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "…の地から"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "テマニ人の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:31.753317968Z",
+  "model": "glm-5.2"
+}

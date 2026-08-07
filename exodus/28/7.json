@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "それ⟨の⟩ために二つの肩当てが⟨ある⟩ — ⟨それらは⟩その二つの端で結合され、そして⟨それは⟩結合される。",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "肩当て"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "結合された"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜がある"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それ⟨の⟩ために"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜において"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "その端"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "そして結合される"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:59.941808660Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 8:40",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "それは、彼らがあなたを恐れるため、あなたが私たちの父祖たちに与えられた地の面の上に彼らが生きているすべての日々のあいだ。",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "それは〜のため"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "彼らがあなたを恐れる"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日々のあいだ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜の"
+    },
+    {
+      "surface": "הם",
+      "gloss": "彼らが"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "生きている"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜された"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "あなたが与え"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "私たちの父祖たちに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:01:37.837452905Z",
+  "model": "glm-5.2"
+}

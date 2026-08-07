@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして彼は⟨את⟩生きた鳥を、町の外へ、野の面へ放つ。そして彼は家のために贖いをなし、それは清められる。",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "そして彼は放つ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "鳥"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外へ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "町の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野の"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "そして彼は贖いをなす"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "そしてそれは清められる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:34.929788417Z",
+  "model": "glm-5.2"
+}

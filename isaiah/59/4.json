@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 59:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "義をもって呼ばわる者がなく、真実をもって裁く者もない。空虚に寄り頼み、空しさを語り、労苦を身ごもり、害悪を産む。",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼ばわる者"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "義をもって"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "裁く者"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "真実をもって"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "寄り頼む"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "空虚"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "そして語る"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "空しさ"
+    },
+    {
+      "surface": "הרו",
+      "gloss": "身ごもる"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "労苦を"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "そして産む"
+    },
+    {
+      "surface": "און",
+      "gloss": "害悪"
+    }
+  ],
+  "timestamp": "2026-08-07T11:37:06.678605478Z",
+  "model": "glm-5.2"
+}

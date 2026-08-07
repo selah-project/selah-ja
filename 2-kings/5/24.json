@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "⟨ゲハジ⟩はオフェル⟨の丘⟩に入り、彼らの手から⟨それを⟩取り、家にしまい込み、⟨את⟩その人たちを去らせた。彼らは去った。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "入った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "オフェル"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "取った"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "彼らの手から"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "しまい込んだ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "去らせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その人たちを"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "その人たち"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "去った"
+    }
+  ],
+  "timestamp": "2026-08-07T11:11:49.017249156Z",
+  "model": "glm-5.2"
+}

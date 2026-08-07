@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "ヨセフは⟨את⟩自分の兄弟たちを認めていたが、彼らは彼を認めなかった。",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "認めていた"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の兄弟たち"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "自分の兄弟たちを"
+    },
+    {
+      "surface": "והם",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…なかった"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "彼を認め"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:11.377896078Z",
+  "model": "glm-5.2"
+}

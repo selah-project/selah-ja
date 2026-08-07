@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "天からヤハウェは見下ろした、⟨את⟩すべての人の子らを⟨彼は⟩見た。",
+  "tokens": [
+    {
+      "surface": "מִ֭שָּׁמַיִם",
+      "gloss": "天から"
+    },
+    {
+      "surface": "הִבִּ֣יט",
+      "gloss": "見下ろした"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "רָ֝אָ֗ה",
+      "gloss": "見た"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "すべての人の子ら"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "הָאָדָֽם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:10.120739648Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "恵みの女は栄誉を支え、そして恐ろしい者たちは富を支える。",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "…の女"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恵み"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "支える"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "栄誉"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "そして恐ろしい者たちは"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "支える"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "富"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:54.434972167Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "エロヒム、私たちの耳で私たちは聞いた。私たちの父祖たちが私たちに語った。彼らの日にあなたがなさった業を、昔の日に。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "私たちの耳で"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "私たちは聞いた"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "私たちの父祖たちが"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "語った"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "私たちに"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "業を"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "あなたがなさった"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "彼らの日に"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "昔"
+    }
+  ],
+  "timestamp": "2026-08-07T17:46:08.875507108Z",
+  "model": "glm-5.2"
+}

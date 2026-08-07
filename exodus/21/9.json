@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして彼女を自分の息子の⟨ために⟩定めるなら、娘たちの裁き通りに彼女に行う。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "自分の息子の"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "彼女を定めるなら"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "〜の裁き通りに"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "娘たちの"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "行う"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:17.055665986Z",
+  "model": "glm-5.2"
+}

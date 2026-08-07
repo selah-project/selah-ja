@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "レハブアムはイェルシャライム（エルサレム）に住み、ユダのうちに防塞のための都市を建てた。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "住み"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "レハブアム"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライム（エルサレム）に"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "都市"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "防塞のための"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ユダのうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:11:58.433611836Z",
+  "model": "glm-5.2"
+}

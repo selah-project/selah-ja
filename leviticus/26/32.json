@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そしてわたし自身が⟨את⟩その地を荒廃させ、その上に住むあなたたちの敵たちがそれに愕然とするであろう。",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "そしてわたしは荒廃させる"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたし自身が"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その地を"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地を"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "そして愕然とする"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "それに"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "あなたたちの敵たちが"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "住む"
+    },
+    {
+      "surface": "בה",
+      "gloss": "その上に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:43:58.747828539Z",
+  "model": "glm-5.2"
+}

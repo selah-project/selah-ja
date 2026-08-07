@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "わな⟨である⟩、人は聖なるものとして早口に言いふらす⟨こと⟩、そして後になって誓いについて調べる⟨こと⟩。",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "わな"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "早口に言いふらす"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "そして後になって"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "誓い"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "調べる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:41.031913211Z",
+  "model": "glm-5.2"
+}

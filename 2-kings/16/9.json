@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてアッシュルの王は彼に耳を傾けた。アッシュルの王はダマセクに上り、これを捕らえ、その住民をキルに捕囚として引いた。そして⟨את⟩レツィンを殺した。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "耳を傾けた"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アッシュルの"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "上った"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アッシュルの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ダマセク"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "これを捕らえ"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "捕囚として引いた"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "キルへ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "レツィン"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "レツィン"
+    },
+    {
+      "surface": "המית",
+      "gloss": "殺した"
+    }
+  ],
+  "timestamp": "2026-08-07T11:15:56.446668240Z",
+  "model": "glm-5.2"
+}

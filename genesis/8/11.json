@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 8:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして鳩は夕時になって彼のもとに入り、見よ、その口に引きちぎられたオリーブの葉があった。ノアは知った、水が地の上から軽くなったことを。",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "そして…入った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼のもとへ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "鳩は"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "…の時に"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "夕"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "葉"
+    },
+    {
+      "surface": "זית",
+      "gloss": "オリーブの"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "引きちぎられた"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "その口に"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "そして…知った"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノアは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ことを"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "軽くなった"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水が"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…の上から"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T16:22:27.861249690Z",
+  "model": "glm-5.2"
+}

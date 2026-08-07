@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "私はむなしい者たちと共に座らず、隠れる者たちと共には入らない。",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יָ֭שַׁבְתִּי",
+      "gloss": "私は座った"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "מְתֵי",
+      "gloss": "者たち"
+    },
+    {
+      "surface": "שָׁ֑וְא",
+      "gloss": "むなしい"
+    },
+    {
+      "surface": "וְעִ֥ם",
+      "gloss": "そして〜と共に"
+    },
+    {
+      "surface": "נַ֝עֲלָמִ֗ים",
+      "gloss": "隠れる者たち"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אָבֽוֹא",
+      "gloss": "私は入る"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:35.703731721Z",
+  "model": "glm-5.2"
+}

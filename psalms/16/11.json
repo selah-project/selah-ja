@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "あなたは私に命の道を知らせてくださる。あなたの顔の前に⟨ある⟩喜びの満ち足り、あなたの右の手には〈永遠〉の快しさがある。",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "あなたは私に知らせてくださる"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "道を"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "命の"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "満ち足り"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "喜びの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの顔"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの顔の前に"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "快しさ"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "あなたの右の手には"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "永遠の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:09.158654065Z",
+  "model": "glm-5.2"
+}

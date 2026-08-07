@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 19:3",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてその子獅子たちの一頭を育て上げた。若い獅子となり、引き裂くことを学んだ。人を食らった。",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "そして育て上げた"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一頭を"
+    },
+    {
+      "surface": "מגריה",
+      "gloss": "その子獅子たちの"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "若い獅子"
+    },
+    {
+      "surface": "היה",
+      "gloss": "となった"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "そして学んだ"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "引き裂くことを"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "獲物"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人を"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食らった"
+    }
+  ],
+  "timestamp": "2026-08-07T12:06:26.227487693Z",
+  "model": "glm-5.2"
+}

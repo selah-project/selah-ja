@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ヤハウェは ⟨את⟩私たちの先祖たちとではなく、私たちと ⟨את⟩この契約を結ばれた。私たち、ここにいて、きょう生きている、私たちすべて ⟨と⟩。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私たちの先祖たち"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "私たちの先祖たち"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "結ばれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この契約"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "契約"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ではなく"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "私たちと"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "私たち"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ここにいて"
+    },
+    {
+      "surface": "היום",
+      "gloss": "きょう"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "私たちすべて"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "生きている"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:26.110614945Z",
+  "model": "glm-5.2"
+}

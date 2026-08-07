@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "イスラエルの子らの初子から ⟨את⟩ その銀を取った。すなわち五と六十と三の百と千、聖所のシェケルで——",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "初子"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その銀"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "その銀"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "と六十"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "と三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "と千"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "シェケルで"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:23.824970530Z",
+  "model": "glm-5.2"
+}

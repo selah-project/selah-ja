@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "そのとき私は恥じ入らない、私があなたのすべてのミツォトに目を向けるなら。",
+  "tokens": [
+    {
+      "surface": "אָז",
+      "gloss": "そのとき"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אֵבוֹשׁ",
+      "gloss": "私は恥じ入る"
+    },
+    {
+      "surface": "בְּהַבִּיטִי",
+      "gloss": "私が目を向ける"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מִצְוֺתֶיךָ",
+      "gloss": "あなたのミツォト"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:25.108822622Z",
+  "model": "glm-5.2"
+}

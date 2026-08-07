@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして、あなたたちがこの場所に来るまで、荒野であなたたちにされたこと、",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "そして〜したこと"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "された"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちに"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野で"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "あなたたちが来る"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "その場所に"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T14:24:50.817720810Z",
+  "model": "glm-5.2"
+}

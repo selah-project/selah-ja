@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そしてシャウルの子ヨナタンは立ち上がった、ダビデのもと、ホレシャへと行った。そして彼は彼の手を強くした、エロヒムにおいて。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして立ち上がった"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ヨナタンは"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルの"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとへ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "ホレシャへ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "そして強くした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の手を"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手を"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "エロヒムにおいて"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:13.043488284Z",
+  "model": "glm-5.2"
+}

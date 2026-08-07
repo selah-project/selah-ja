@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "同様に、隣人を欺く者 — そして言う者、「私はただ冗談を言っているのではないか」と。",
+  "tokens": [
+    {
+      "surface": "כֵּֽן",
+      "gloss": "同様に"
+    },
+    {
+      "surface": "אִ֭ישׁ",
+      "gloss": "〜する者"
+    },
+    {
+      "surface": "רִמָּ֣ה",
+      "gloss": "欺く"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "隣人を"
+    },
+    {
+      "surface": "רֵעֵ֑הוּ",
+      "gloss": "隣人を"
+    },
+    {
+      "surface": "וְ֝אָמַ֗ר",
+      "gloss": "そして言う"
+    },
+    {
+      "surface": "הֲֽלֹא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "מְשַׂחֵ֥ק",
+      "gloss": "冗談を言ている"
+    },
+    {
+      "surface": "אָֽנִי",
+      "gloss": "私は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:12.683537709Z",
+  "model": "glm-5.2"
+}

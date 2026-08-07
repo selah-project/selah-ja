@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてモーシェとアハロンはパロの ⟨もとから⟩ 出て行った。そしてモーシェは、パロの上に置かれたカエルの事についてヤハウェに叫び求めた。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして…出て行った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "とアハロン"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "…のもとから"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "そして…叫んだ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…について"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "カエルの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…を"
+    },
+    {
+      "surface": "שם",
+      "gloss": "置かれた"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "パロの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:36.659227898Z",
+  "model": "glm-5.2"
+}

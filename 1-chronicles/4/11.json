@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてケルブ、シュハの兄弟は ⟨את⟩ メヒルを生子した。彼はエシュトンの父 ⟨である⟩。",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "そしてケルブは"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "～の兄弟"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "シュハ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生子した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "メヒルを"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "メヒル"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "～の父"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "エシュトン"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:30.013615344Z",
+  "model": "glm-5.2"
+}

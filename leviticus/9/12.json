@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "彼は⟨את⟩全焼献げ物を屠った。アハロンの子らは彼のもとに⟨את⟩血を差し出した。彼はそれを祭壇の上に回りに撒いた。",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "屠った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全焼献げ物"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼献げ物"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "差し出した"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロンの"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼のもとに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "それを撒いた"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "回りに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:22.656194865Z",
+  "model": "glm-5.2"
+}

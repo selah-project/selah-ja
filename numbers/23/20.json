@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "見よ、祝福するよう命じられた。そして⟨彼は⟩祝福された — 私はそれを取り消さない。」",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "祝福する"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "受けた"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "そして祝福した"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "取り消す"
+    }
+  ],
+  "timestamp": "2026-08-07T10:00:17.825746636Z",
+  "model": "glm-5.2"
+}

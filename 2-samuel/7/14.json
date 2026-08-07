@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 7:14",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "わたしは彼にとって父となり、彼はわたしにとって子となる。彼が咎を犯すとき、わたしは人の杖と人の子らの打ち傷をもって彼を責める。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼にとって"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "父"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そして彼は"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしにとって"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜するとき"
+    },
+    {
+      "surface": "בהעותו",
+      "gloss": "彼が咎を犯す"
+    },
+    {
+      "surface": "והכחתיו",
+      "gloss": "わたしは彼を責める"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "杖をもって"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人の"
+    },
+    {
+      "surface": "ובנגעי",
+      "gloss": "そして打ち傷をもって"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子らの"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:26.141519098Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そしてもし聞いた後にそれらを無効にし、無効にしたなら — 彼は⟨彼女の咎を⟩負う。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "無効にし"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "無効にしたなら"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それらを"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "〜の後に"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聞いた"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "そして負う"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼女の咎を"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "彼女の咎"
+    }
+  ],
+  "timestamp": "2026-08-07T10:04:12.757471497Z",
+  "model": "glm-5.2"
+}

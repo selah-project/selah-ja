@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 72,
+  "translation": "彼の名は世々限りなくあれ。太陽の前で、彼の名は〈も〉萌え出でよ。そして彼においてすべての国々は祝福を受け、彼を幸いな者と呼べ。",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "あれ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の名"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "世々限りなく"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前で"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "萌え出でよ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の名"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "そして彼らは祝福を受ける"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼において"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "彼を幸いな者と呼ぶ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:09.708661558Z",
+  "model": "glm-5.2"
+}

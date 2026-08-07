@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして ⟨את⟩ 男と、女の寝床において寝てはならない。それは忌み嫌われるべきものである。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして ⟨את⟩",
+      "marks": "男"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "寝ては"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "寝床において"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女の"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "忌み嫌われるべきもの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは〜である"
+    }
+  ],
+  "timestamp": "2026-08-07T17:42:57.756916814Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてヤハウェはモーシェに仰った：燃える蛇（サラフ）を造り、それを旗の上に置け。そうすれば、噛まれた者が皆、それを見て生きる。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…仰った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造れ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "燃える蛇（サラフ）"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "そして…置け"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ（燃える蛇）を"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "נס",
+      "gloss": "旗"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "そして…なる"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "噛まれた者"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "そして…見る"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ（燃える蛇）を"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "そして…生きる"
+    }
+  ],
+  "timestamp": "2026-08-07T16:33:48.808029474Z",
+  "model": "glm-5.2"
+}

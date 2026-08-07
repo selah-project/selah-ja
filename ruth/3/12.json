@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして今、確かに、私は買い戻しの親族 ⟨である⟩。しかし私よりも近い買い戻しの親族がもうひとり ⟨いる⟩」。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "כי",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "真に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "（強調）"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "買い戻しの親族"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私は"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "しかしまた"
+    },
+    {
+      "surface": "יש",
+      "gloss": "いる"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "買い戻しの親族"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "近い"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私よりも"
+    }
+  ],
+  "timestamp": "2026-08-07T13:34:56.745379765Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 84,
+  "translation": "なんと愛しいことか、あなたの幕屋、万軍のヤハウェよ。",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "なんと"
+    },
+    {
+      "surface": "יְּדִיד֥וֹת",
+      "gloss": "愛しい"
+    },
+    {
+      "surface": "מִשְׁכְּנוֹתֶ֗יךָ",
+      "gloss": "あなたの幕屋"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צְבָאֽוֹת",
+      "gloss": "万軍の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:09.193629263Z",
+  "model": "glm-5.2"
+}

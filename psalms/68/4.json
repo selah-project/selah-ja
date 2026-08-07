@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "そして義人たちは喜び、エロヒムの御前で躍り、喜びをもって喜び躍る。",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "そして義人たちは"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "喜び"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "躍り"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "御前で"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "喜び躍る"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "喜びをもって"
+    }
+  ],
+  "timestamp": "2026-08-07T12:49:02.087136327Z",
+  "model": "glm-5.2"
+}

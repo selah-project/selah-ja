@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 12:4",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして三十日と三日間、彼女は清めの血の中に留まる。すべての聖なるものに触れてはならず、聖所に入ってもならない。清めの日数が満ちるまで。",
+  "tokens": [
+    {
+      "surface": "ושלשים",
+      "gloss": "そして三十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "と三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "留まる"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "血の中に"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "清めの"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "触れては"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜へ"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "入っては"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "満ちる"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日数"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "清めの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:45.181416760Z",
+  "model": "glm-5.2"
+}

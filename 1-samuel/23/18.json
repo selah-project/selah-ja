@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 23:18",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そしてふたりはヤハウェの前で契約を結んだ。そしてダビデはホルシャに留まり、ヨナタンは自分の家へ去った。",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "そして彼らは結んだ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "彼らふたり"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして彼は留まった"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "ホルシャに"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "そしてヨナタン"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "去った"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "自分の家へ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:06.653114666Z",
+  "model": "glm-5.2"
+}

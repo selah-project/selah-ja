@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 32:36",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "まことにヤハウェはご自分の民をさばき、ご自分のしもべたちのために立ち戻られる。彼が見られるからである — 手の力が消え去り、閉じ込められた者も残された者も全くいないことを。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "יין",
+      "gloss": "さばき"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ご自分の民を"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ご自分のしもべたち"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "立ち戻られる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "見られる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということを"
+    },
+    {
+      "surface": "אזלת",
+      "gloss": "消え去り"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手の力"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "全くいない"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "閉じ込められた者も"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "残された者も"
+    }
+  ],
+  "timestamp": "2026-08-07T10:21:39.856413375Z",
+  "model": "glm-5.2"
+}

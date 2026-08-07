@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 32:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そして板はエロヒムのみわざであった。そして文字はエロヒムの文字であった、板の上に彫り刻まれて。",
+  "tokens": [
+    {
+      "surface": "והלחת",
+      "gloss": "そして板"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "みわざ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "המה",
+      "gloss": "であった"
+    },
+    {
+      "surface": "והמכתב",
+      "gloss": "そして文字"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "文字"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "であった"
+    },
+    {
+      "surface": "חרות",
+      "gloss": "彫り刻まれて"
+    },
+    {
+      "surface": "על",
+      "gloss": "～の上に"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "板"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:05.871494828Z",
+  "model": "glm-5.2"
+}

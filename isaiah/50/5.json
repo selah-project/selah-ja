@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "アドナイ・ヤハウェは私の耳を開いてくださった。そして私は背かなかった、後ろに退かなかった。",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָ֤י",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "יְהוִה֙",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "פָּתַֽח",
+      "gloss": "開いた"
+    },
+    {
+      "surface": "לִ֣י",
+      "gloss": "私に"
+    },
+    {
+      "surface": "אֹ֔זֶן",
+      "gloss": "耳"
+    },
+    {
+      "surface": "וְאָנֹכִ֖י",
+      "gloss": "そして私は"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "מָרִ֑יתִי",
+      "gloss": "背いた"
+    },
+    {
+      "surface": "אָח֖וֹר",
+      "gloss": "後ろに"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "נְסוּגֹֽתִי",
+      "gloss": "退いた"
+    }
+  ],
+  "timestamp": "2026-08-07T16:59:28.647878276Z",
+  "model": "glm-5.2"
+}

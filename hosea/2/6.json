@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして⟨את⟩ 彼女の子らを、私は憐れまない。彼らは淫行の子らだからだ。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼女の子ら"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "彼女の子ら"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "私が憐れむ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "淫行の"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼らは"
+    }
+  ],
+  "timestamp": "2026-08-07T17:11:41.916432405Z",
+  "model": "glm-5.2"
+}

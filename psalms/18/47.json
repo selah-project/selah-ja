@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "生ける ヤハウェ。ほむべきかな、わが岩。そして高くあげられよ、わが救いの エロアハ。",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "生ける"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "そしてほむべきかな"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "わが岩"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "そして高くあげられよ"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "〜の エロアハ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "わが救い"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:49.222550590Z",
+  "model": "glm-5.2"
+}

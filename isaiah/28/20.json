@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 28:20",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "まことに、寝床は伸び延びるには短く、覆いは身を丸めるには狭い。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "短い"
+    },
+    {
+      "surface": "המצע",
+      "gloss": "寝床は"
+    },
+    {
+      "surface": "מהשתרע",
+      "gloss": "伸び延びるには"
+    },
+    {
+      "surface": "והמסכה",
+      "gloss": "覆いは"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "狭い"
+    },
+    {
+      "surface": "כהתכנס",
+      "gloss": "身を丸めるには"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:34.729523845Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "シャルムは⟨את⟩ヒルキヤを生み、ヒルキヤは⟨את⟩アザルヤを生んだ。",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "シャルム"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヒルキヤ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ヒルキヤ"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "ヒルキヤ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アザルヤ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "アザルヤ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:00:50.976912805Z",
+  "model": "glm-5.2"
+}

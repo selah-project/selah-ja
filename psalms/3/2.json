@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ヤハウェ、なんと増えたことか、わたしの敵が、なんと多いことか、わたしに向かって立つ者が。",
+  "tokens": [
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מָה",
+      "gloss": "なんと"
+    },
+    {
+      "surface": "רַבּוּ",
+      "gloss": "増えた"
+    },
+    {
+      "surface": "צָרָי",
+      "gloss": "わたしの敵が"
+    },
+    {
+      "surface": "רַבִּים",
+      "gloss": "なんと多い"
+    },
+    {
+      "surface": "קָמִים",
+      "gloss": "立つ者が"
+    },
+    {
+      "surface": "עָלָי",
+      "gloss": "わたしに向かって"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:06.424277282Z",
+  "model": "glm-5.2"
+}

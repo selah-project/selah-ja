@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてもし彼が⟨את⟩その畑を請け戻さず、もし彼が⟨את⟩その畑をほかの人に売るなら、それはもはや請け戻されない。",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִגְאַל֙",
+      "gloss": "請け戻す"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "その畑"
+    },
+    {
+      "surface": "הַשָּׂדֶ֔ה",
+      "gloss": "その畑"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "מָכַ֥ר",
+      "gloss": "売る"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "その畑"
+    },
+    {
+      "surface": "הַשָּׂדֶ֖ה",
+      "gloss": "その畑"
+    },
+    {
+      "surface": "לְאִ֣ישׁ",
+      "gloss": "人に"
+    },
+    {
+      "surface": "אַחֵ֑ר",
+      "gloss": "ほかの"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִגָּאֵ֖ל",
+      "gloss": "請け戻される"
+    },
+    {
+      "surface": "עֽוֹד",
+      "gloss": "もはや"
+    }
+  ],
+  "timestamp": "2026-08-07T09:45:08.114293698Z",
+  "model": "glm-5.2"
+}

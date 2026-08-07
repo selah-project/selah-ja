@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "ヤハウェを尋ね求めよ、⟨彼が⟩見いだされるうちに。彼を呼べ、⟨彼が⟩近くにいるうちに。",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "尋ね求めよ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェを"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "見いだされるうちに"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "彼を呼べ"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "〜であるうちに"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "近くに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:16.468611854Z",
+  "model": "glm-5.2"
+}

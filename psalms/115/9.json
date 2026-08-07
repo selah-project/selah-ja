@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 115,
+  "translation": "イスラエルよ、ヤハウェに拠り頼め。⟨彼らの⟩助け、⟨彼らの⟩盾は⟨彼⟩だ。",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "拠り頼め"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "彼らの助け"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "彼らの盾"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:49.330209066Z",
+  "model": "glm-5.2"
+}

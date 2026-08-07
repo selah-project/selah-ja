@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "彼らは悪い時に恥じず、飢饉の日に満たされるであろう。",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יֵ֭בֹשׁוּ",
+      "gloss": "恥じる"
+    },
+    {
+      "surface": "בְּעֵ֣ת",
+      "gloss": "時に"
+    },
+    {
+      "surface": "רָעָ֑ה",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "וּבִימֵ֖י",
+      "gloss": "そして…日に"
+    },
+    {
+      "surface": "רְעָב֣וֹן",
+      "gloss": "飢饉"
+    },
+    {
+      "surface": "יִשְׂבָּֽעוּ",
+      "gloss": "満たされる"
+    }
+  ],
+  "timestamp": "2026-08-07T17:18:30.481123781Z",
+  "model": "glm-5.2"
+}

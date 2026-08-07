@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして全イスラエルとユダは ⟨את⟩ ダビデを愛していた。彼が彼らの前を出て入っていたからである。",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "そして全"
+    },
+    {
+      "surface": "יִשְׂרָאֵל֙",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "וִיהוּדָ֔ה",
+      "gloss": "とユダは"
+    },
+    {
+      "surface": "אֹהֵ֖ב",
+      "gloss": "愛していた"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ダビド"
+    },
+    {
+      "surface": "דָּוִ֑ד",
+      "gloss": "ダビデを"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "ה֛וּא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "יֹצֵ֥א",
+      "gloss": "出て"
+    },
+    {
+      "surface": "וָבָ֖א",
+      "gloss": "入っていた"
+    },
+    {
+      "surface": "לִפְנֵיהֶֽם",
+      "gloss": "彼らの前に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:24.664193409Z",
+  "model": "glm-5.2"
+}

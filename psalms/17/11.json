@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "我々の歩みを追って今や彼らは私を囲んだ、彼らの目は地に引き倒すために向けられた。",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "我々の歩みを"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "今や"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "彼らは私を囲んだ"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "彼らの目は"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "向けた"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "引き倒すために"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:10.325724994Z",
+  "model": "glm-5.2"
+}

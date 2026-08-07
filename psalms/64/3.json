@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 64,
+  "translation": "悪をなす者たちの密議から私を隠してください。不法をなす者たちの騒ぎから⟨私を隠してください⟩。",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "私を隠してください"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "〜の密議から"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "悪をなす者たちの"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "〜の騒ぎから"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "なす者たちの"
+    },
+    {
+      "surface": "און",
+      "gloss": "不法を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:48.796503180Z",
+  "model": "glm-5.2"
+}

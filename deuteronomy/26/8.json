@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そしてヤハウェはわたしたちをミツライムから連れ出された。強い手と、伸ばされた腕と、大いなる畏れと、しるしと、不思議によって。",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "そして連れ出された"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ミツライムから"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…の手"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "強い"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "そして…の腕"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "伸ばされた"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "そして…の畏れ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "そしてしるし"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "不思議"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:12.801667700Z",
+  "model": "glm-5.2"
+}

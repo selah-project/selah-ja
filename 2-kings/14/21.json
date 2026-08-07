@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "ユダの全民はアザルヤを取り、彼は十六歳であった。そして彼らは彼を父アマツヤの代わりに王位につけた。",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "そして彼らは取った"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アザルヤ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "アザルヤ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そして彼"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の年"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歳"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "そして彼らは王位につけた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩彼を",
+      "marks": "彼"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わりに"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "アマツヤ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:14:23.199602722Z",
+  "model": "glm-5.2"
+}

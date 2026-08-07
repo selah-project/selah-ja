@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そして寄留者を、あなた方は押し潰してはならない。あなた方は⟨את⟩寄留者のナフシュを知っているからである。あなた方がミツライムの地で寄留者であった⟨ので⟩。",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "そして寄留者を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "押し潰す"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "あなた方は"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "知っている"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "寄留者のナフシュ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ナフシュ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "寄留者の"
+    },
+    {
+      "surface": "כי",
+      "gloss": " because "
+    },
+    {
+      "surface": "גרים",
+      "gloss": "寄留者"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "であった"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地で"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）の"
+    }
+  ],
+  "timestamp": "2026-08-07T18:26:14.535448840Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 20:16",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "コブラの毒を吸う、蝮の舌が ⟨彼⟩ を殺す。",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "毒"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "コブラ"
+    },
+    {
+      "surface": "יינק",
+      "gloss": "吸う"
+    },
+    {
+      "surface": "תהרגהו",
+      "gloss": "⟨彼⟩ を殺す"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "蝮"
+    }
+  ],
+  "timestamp": "2026-08-07T13:25:44.743268822Z",
+  "model": "glm-5.2"
+}

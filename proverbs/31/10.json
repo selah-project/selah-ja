@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "力ある女、だれが見いだそうか。真珠よりも遠く離れて、その値は。",
+  "tokens": [
+    {
+      "surface": "אֵֽשֶׁת",
+      "gloss": "女"
+    },
+    {
+      "surface": "חַ֭יִל",
+      "gloss": "力ある"
+    },
+    {
+      "surface": "מִ֣י",
+      "gloss": "だれが"
+    },
+    {
+      "surface": "יִמְצָ֑א",
+      "gloss": "見いだそうか"
+    },
+    {
+      "surface": "וְרָחֹ֖ק",
+      "gloss": "そして遠く離れて"
+    },
+    {
+      "surface": "מִפְּנִינִ֣ים",
+      "gloss": "真珠よりも"
+    },
+    {
+      "surface": "מִכְרָֽהּ",
+      "gloss": "その値は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:32.278597676Z",
+  "model": "glm-5.2"
+}

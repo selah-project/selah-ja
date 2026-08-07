@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 39:3",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "わたしはあなたの弓を左の手から打ち砕き、あなたの矢を右の手から落とさせる。",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "わたしは打ち砕き"
+    },
+    {
+      "surface": "קשתך",
+      "gloss": "あなたの弓を"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "〜の手から"
+    },
+    {
+      "surface": "שמאולך",
+      "gloss": "あなたの左"
+    },
+    {
+      "surface": "וחציך",
+      "gloss": "あなたの矢を"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "〜の手から"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "あなたの右"
+    },
+    {
+      "surface": "אפיל",
+      "gloss": "落とさせる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:13:48.999273122Z",
+  "model": "glm-5.2"
+}

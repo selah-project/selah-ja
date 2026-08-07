@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "どうして私が一人で、あなたがたの煩わしさと、あなたがたの重荷と、あなたがたの争いを負えようか。",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "どうして〜か"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "私が負えよう"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "一人で"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "あなたがたの煩わしさ"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "とあなたがたの重荷"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "とあなたがたの争い"
+    }
+  ],
+  "timestamp": "2026-08-07T10:06:58.995794693Z",
+  "model": "glm-5.2"
+}

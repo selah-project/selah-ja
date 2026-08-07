@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 3:2",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "彼は自分の捧げ物の頭の上に手を置き、会見の天幕の入り口でそれを屠らなければならない。そしてアハロンの子ら、祭司たちは⟨את⟩その血を祭壇の周りに振りかけなければならない。",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "そして置かなければならない"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭の"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "彼の捧げ物の"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "そして彼はそれを屠らなければならない"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口の"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕の"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "そして彼らは振りかけなければならない"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロンの"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "その血を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周りに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:31:20.222421984Z",
+  "model": "glm-5.2"
+}

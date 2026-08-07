@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "喜び ⟨である⟩ — 正しい者にとって — 公正を行うことは、そして恐れ ⟨である⟩ — 悪を行う者たちにとって",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "喜び"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "正しい者にとって"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "行うことは"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公正"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "そして恐れ"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "〜を行う者たちにとって"
+    },
+    {
+      "surface": "און",
+      "gloss": "悪"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:03.665528128Z",
+  "model": "glm-5.2"
+}

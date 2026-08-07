@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "⟨御⟩ 使いたちを風とし、⟨御⟩ 仕える者たちを燃え盛る火とされる方。",
+  "tokens": [
+    {
+      "surface": "עֹשֶׂ֣ה",
+      "gloss": "とされる方"
+    },
+    {
+      "surface": "מַלְאָכָ֣יו",
+      "gloss": "⟨御⟩ 使いたち"
+    },
+    {
+      "surface": "רוּח֑וֹת",
+      "gloss": "風"
+    },
+    {
+      "surface": "מְ֝שָׁרְתָ֗יו",
+      "gloss": "⟨御⟩ 仕える者たち"
+    },
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "火"
+    },
+    {
+      "surface": "לֹהֵֽט",
+      "gloss": "燃え盛る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:59:10.411722977Z",
+  "model": "glm-5.2"
+}

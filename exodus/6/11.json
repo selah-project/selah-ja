@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "「行って、ミツライムの王パロに語れ。彼はイスラエルの子らを⟨את⟩彼の地から去らせよ。」",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "行って"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロに"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "そして彼は去らせよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子ら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "彼の地から"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:12.847347989Z",
+  "model": "glm-5.2"
+}

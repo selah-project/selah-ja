@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 2:19",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてアサエルはアブネルのあとを追った。そして彼は右にも左にも、アブネルのあとから歩むことを、そらなかった。",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "そして追った"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "アサエルは"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "〜のあとを"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "アブネル"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "そらなかった"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "歩むことを"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "右"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "および〜へ"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "左"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "〜のあとから"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "アブネル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:31.588373725Z",
+  "model": "glm-5.2"
+}

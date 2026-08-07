@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 48:21",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "そして彼らは渇かなかった — ⟨彼が⟩荒野の中を彼らを導いたとき、彼は岩から水を彼らのために滴り流させた。彼が岩を裂いたとき、水が流れ出た。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "צמאו",
+      "gloss": "彼らは渇いた"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "荒野の中を"
+    },
+    {
+      "surface": "הוליכם",
+      "gloss": "彼が彼らを導いた"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "岩から"
+    },
+    {
+      "surface": "הזיל",
+      "gloss": "彼は滴り流させた"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼らのために"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "彼が裂いたとき"
+    },
+    {
+      "surface": "צור",
+      "gloss": "岩を"
+    },
+    {
+      "surface": "ויזבו",
+      "gloss": "流れ出た"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水が"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:10.814801922Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてまた ロトにも ―― アヴラムと共に歩む ⟨את⟩アヴラムと ―― 羊と牛と天幕があった。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "ロトにも"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "歩む"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アヴラム"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "アヴラム"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "と牛"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "と天幕"
+    }
+  ],
+  "timestamp": "2026-08-07T16:23:18.547556299Z",
+  "model": "glm-5.2"
+}

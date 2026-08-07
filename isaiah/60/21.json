@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 60:21",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 60,
+  "translation": "そしてあなたの民は、皆、義人となり、永遠に地を相続する。⟨彼らは⟩わたしの植えた若木、栄光を現すためのわたしの手のわざである。",
+  "tokens": [
+    {
+      "surface": "ועמך",
+      "gloss": "そしてあなたの民は"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "皆"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "相続する"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "若木"
+    },
+    {
+      "surface": "מטעו",
+      "gloss": "わたしの植えた"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "わざ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "わたしの手の"
+    },
+    {
+      "surface": "להתפאר",
+      "gloss": "栄光を現すため"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:57.674849598Z",
+  "model": "glm-5.2"
+}

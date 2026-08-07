@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "私たちはネゲブ、⟨すなわち⟩クレティ人の⟨地⟩、およびユダに属する地、およびカレブのネゲブに襲撃をしかけ、⟨את⟩ツィクラグを火で焼き払いました」。",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "私たちは"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "襲撃をしかけた"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ネゲブの"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "クレティ人の"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "および"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜に属する"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "および"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ネゲブの"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "カレブ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ツィクラグ"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "ツィクラグを"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "焼き払いました"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:13.535400834Z",
+  "model": "glm-5.2"
+}

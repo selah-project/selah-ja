@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 3:9",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてイスラエルの王、ユダの王、エドムの王は進み、七日の道のりを迂回した。すると宿営のための、また彼らの足もとにいる家畜のための水がなかった。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして進んだ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "と王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "と王"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドム"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "そして回った"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道のり"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七つの"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして～なかった"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "宿営のために"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "と家畜のために"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "彼らの足もとに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:10:47.265724611Z",
+  "model": "glm-5.2"
+}

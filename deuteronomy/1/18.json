@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして私はその時、あなたがたに⟨את⟩命じた——あなたがたのなすべきすべての事柄⟨את⟩を。",
+  "tokens": [
+    {
+      "surface": "וָאֲצַוֶּ֥ה",
+      "gloss": "そして私は命じた"
+    },
+    {
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがたに"
+    },
+    {
+      "surface": "בָּעֵ֣ת",
+      "gloss": "その時"
+    },
+    {
+      "surface": "הַהִ֑וא",
+      "gloss": "その"
+    },
+    {
+      "surface": "אֵ֥ת",
+      "gloss": "⟨את⟩",
+      "marks": "すべての事柄を"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הַדְּבָרִ֖ים",
+      "gloss": "事柄"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "תַּעֲשֽׂוּן",
+      "gloss": "あなたがたのなす"
+    }
+  ],
+  "timestamp": "2026-08-07T16:35:11.418269429Z",
+  "model": "glm-5.2"
+}

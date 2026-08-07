@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 12:23",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "日ごとの時になると、彼らはダヴィドのもとに来て、彼を助けた — 大いなる宿営、エロヒムの宿営のようになるまで。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜というのは"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "時になると"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "日ごとの"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "彼らは来て"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "לעזרו",
+      "gloss": "彼を助けるために"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "宿営に"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "כמחנה",
+      "gloss": "〜の宿営のように"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:09.761735648Z",
+  "model": "glm-5.2"
+}

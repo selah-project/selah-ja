@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "しかし王の言葉がヨアブと武力の長官たちに対して強くなった。そしてヨアブと武力の長官たちは、民、すなわちイスラエルを調査するために王の前に出て行った。",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "そして…強くなった"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に対して"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "および～の上に"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "長官たち"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "武力の"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして…出て行った"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "および長官たち"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "武力の"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "～の前に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "調査するために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:25.273333162Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてダヴィドは行き、シャウルの〈もと〉から戻り、ベイト・レヘムで彼の父の羊の群れを飼うために⟨את⟩を〈世話する〉。",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "そしてダヴィドは"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行き"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "そして戻った"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルの"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "飼うために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "羊の群れ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊の群れ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父の"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベイト・"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "レヘムで"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:55.318743274Z",
+  "model": "glm-5.2"
+}

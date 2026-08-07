@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "私たちの父祖たちは罪を犯した、彼らはもういない、私たちが彼らの咎を背負った。",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "私たちの父祖たちは"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "罪を犯した"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "彼らはもういない"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "私たちが"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "彼らの咎を"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "背負った"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:47.197689406Z",
+  "model": "glm-5.2"
+}

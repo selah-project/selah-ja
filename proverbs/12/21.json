@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "義人には何の不義も起こらず、悪者たちは悪に満ちている。",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יְאֻנֶּה",
+      "gloss": "起こる"
+    },
+    {
+      "surface": "לַצַּדִּיק",
+      "gloss": "義人には"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אָוֶן",
+      "gloss": "不義"
+    },
+    {
+      "surface": "וּרְשָׁעִים",
+      "gloss": "悪者たちは"
+    },
+    {
+      "surface": "מָלְאוּ",
+      "gloss": "満ちている"
+    },
+    {
+      "surface": "רָע",
+      "gloss": "悪に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:47.875792105Z",
+  "model": "glm-5.2"
+}

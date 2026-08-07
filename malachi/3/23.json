@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "malachi 3:23",
+  "book": "malachi",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "見よ、わたしはあなたたちに預言者エリヤを遣わす、ヤハウェの日の、大いなる恐るべき日の前に来る、彼を。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "遣わす"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "預言者エリヤ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "エリヤ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "יום",
+      "gloss": "〜の日"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "と恐るべき"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:01.282075138Z",
+  "model": "glm-5.2"
+}

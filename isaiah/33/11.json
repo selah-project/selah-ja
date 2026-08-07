@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "お前たちはもみがらを身ごもり、お前たちはわらを産む。お前たちの息は火となり、お前たちを食い尽くす。",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "お前たちは身ごもり"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "もみがらを"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "お前たちは産む"
+    },
+    {
+      "surface": "קש",
+      "gloss": "わらを"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "お前たちの息は"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火となり"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "お前たちを食い尽くす"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:40.793557280Z",
+  "model": "glm-5.2"
+}

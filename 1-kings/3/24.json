@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして王は言った。「私のために剣を持って来い。」そして彼らは剣を王の前に持って来た。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "取れ・持って来い"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣を"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "そして彼らは持って来た"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "剣を"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:27:21.646694891Z",
+  "model": "glm-5.2"
+}

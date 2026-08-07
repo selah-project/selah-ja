@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "もし盗人が穴あけ（侵入）の現場で見つかり、打たれて死んだなら、彼には血の償いがない。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "穴あけ（侵入）において"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "見つかり"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "その盗人が"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "そして打たれて"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "そして死んだなら"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "血の償いが"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:29.480514052Z",
+  "model": "glm-5.2"
+}

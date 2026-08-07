@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "ああ、滅ぼし散らす牧者たち、⟨את⟩ わたしの牧草地の群れを、ヤハウェの御告げ。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "牧者たち"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "滅ぼし"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "散らす"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの牧草地の群れ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "群れ"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "わたしの牧草地の"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "の御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:46:53.224686789Z",
+  "model": "glm-5.2"
+}

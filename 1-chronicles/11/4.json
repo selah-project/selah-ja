@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてダヴィドと全イスラエルはイェルシャライムへ行った。それはイェブスである。そこにイェブス人、その地の住民がいた。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "と全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムへ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "イェブス"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "イェブス人が"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "住民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:07.857937921Z",
+  "model": "glm-5.2"
+}

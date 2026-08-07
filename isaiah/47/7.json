@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 47:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "そしてあなたは言った、「わたしはとこしえに女主人である」と。あなたがこれらの事を心に置かなかった〈ほどに〉、あなたはその終わりを覚えなかった。",
+  "tokens": [
+    {
+      "surface": "ותאמרי",
+      "gloss": "そしてあなたは言った"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "わたしは〜である"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "女主人"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜のほどに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "あなたは置いた"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらの事を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "あなたの心"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "あなたは覚えた"
+    },
+    {
+      "surface": "אחריתה",
+      "gloss": "その終わりを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:42.782937927Z",
+  "model": "glm-5.2"
+}

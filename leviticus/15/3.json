@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そしてこれがその漏出における彼の汚れである。彼の身がその漏出⟨את⟩を流すか、あるいは彼の身がその漏出のために閉ざされるか — これが彼の汚れである。",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "そしてこれ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "彼の汚れ"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "その漏出において"
+    },
+    {
+      "surface": "רר",
+      "gloss": "流す"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "彼の身"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その漏出"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "その漏出"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "閉ざされる"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "彼の身"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "その漏出のために"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "彼の汚れ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "これ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:21.766056845Z",
+  "model": "glm-5.2"
+}

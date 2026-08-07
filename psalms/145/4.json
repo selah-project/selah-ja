@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 145,
+  "translation": "世代は世代へあなたのみわざを称賛する、そしてあなたの力あるみ業を彼らは告げ知らせる。",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "世代は"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "世代へ"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "称賛する"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "あなたのみわざを"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "そしてあなたの力あるみ業を"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "彼らは告げ知らせる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:17.860353819Z",
+  "model": "glm-5.2"
+}

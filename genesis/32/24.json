@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "彼は彼らを取り、彼らを⟨את⟩渓流の向こうに渡らせ、彼のすべての持ち物を渡らせた。",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "そして彼は彼らを取り"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "そして彼は彼らを渡らせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "渓流"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "渓流"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "そして彼は渡らせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼に属するすべてのもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:10.587966642Z",
+  "model": "glm-5.2"
+}

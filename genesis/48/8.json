@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "そしてイスラエルはヨセフの息子たちを見て、言った。「これらは誰か。」",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして〜は見た"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨセフの息子たち"
+    },
+    {
+      "surface": "בני",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフの"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらは〜か"
+    }
+  ],
+  "timestamp": "2026-08-07T09:11:08.482019050Z",
+  "model": "glm-5.2"
+}

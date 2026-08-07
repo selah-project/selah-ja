@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてイスラエルはダヴィデの家に背いた、この日に至るまで。",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "背いた"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "……の家に"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィデ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "……に至るまで"
+    },
+    {
+      "surface": "היום",
+      "gloss": "この日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T14:11:50.054730333Z",
+  "model": "glm-5.2"
+}

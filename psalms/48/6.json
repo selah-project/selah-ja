@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "彼らは見た、そのように彼らは呆然とした。彼らは怯え、慌てて逃げた。",
+  "tokens": [
+    {
+      "surface": "הֵ֣מָּה",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "רָ֭אוּ",
+      "gloss": "見た"
+    },
+    {
+      "surface": "כֵּ֣ן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "תָּמָ֑הוּ",
+      "gloss": "呆然とした"
+    },
+    {
+      "surface": "נִבְהֲל֥וּ",
+      "gloss": "怯えた"
+    },
+    {
+      "surface": "נֶחְפָּֽזוּ",
+      "gloss": "慌てて逃げた"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:43.582226249Z",
+  "model": "glm-5.2"
+}

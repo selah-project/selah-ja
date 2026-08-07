@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてアブラハムはそこから旅立ち、ネゲブの地へ向かい、カデシュとシュルの間に住んだ。そしてゲラルに寄留した。",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "そして旅立った"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地へ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ネゲブの"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして住んだ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間に"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "カデシュ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と〜の"
+    },
+    {
+      "surface": "שור",
+      "gloss": "シュル"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "そして寄留した"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "ゲラルに"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:46.690829344Z",
+  "model": "glm-5.2"
+}

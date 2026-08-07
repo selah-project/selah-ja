@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "怒りによって覆い、われわれを追いかけた。殺した — 憐れまなかった。",
+  "tokens": [
+    {
+      "surface": "סַכּוֹתָה",
+      "gloss": "あなたは覆いた"
+    },
+    {
+      "surface": "בָאַף",
+      "gloss": "怒りによって"
+    },
+    {
+      "surface": "וַתִּרְדְּפֵנוּ",
+      "gloss": "そしてわれわれを追いかけた"
+    },
+    {
+      "surface": "הָרַגְתָּ",
+      "gloss": "あなたは殺した"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "חָמַלְתָּ",
+      "gloss": "あなたは憐れんだ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:36:20.185960785Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "そして彼らにあわれみを与え、彼らを捕らえた者すべての面前で⟨彼らを⟩⟨את⟩憐れませられた。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして与えた"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら（捕囚の民）"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "あわれみとして"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の面前で"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "彼らを捕らえた者"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:21.980573248Z",
+  "model": "glm-5.2"
+}

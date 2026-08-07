@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "指揮者に、⟨⟨アルモト・ラベン⟩⟩の⟨調べに⟩、ダビデのミズモル",
+  "tokens": [
+    {
+      "surface": "לַ֭מְנַצֵּחַ",
+      "gloss": "指揮者に"
+    },
+    {
+      "surface": "עַלְמ֥וּת לַבֵּ֗ן",
+      "gloss": "アルモト・ラベン"
+    },
+    {
+      "surface": "מִזְמ֥וֹר",
+      "gloss": "ミズモル"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "ダビデの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:47.166760847Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "知恵は知恵ある者に力を与える — ⟨それは⟩ 町にいた十人の支配者 ⟨よりも⟩。",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "知恵は"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "力を与える"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "知恵ある者に"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "十人〜よりも"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "支配者"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "היו",
+      "gloss": "いた"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:58.552888621Z",
+  "model": "glm-5.2"
+}

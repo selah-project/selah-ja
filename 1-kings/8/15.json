@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼は言った。「ほむべきかな、イスラエルのエロヒム、ヤハウェ。⟨彼は⟩その口で私の父ダビデに語り、その手で満たされた方、こう言って。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ほむべきかな"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "〜のエロヒム"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である方は"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "その口で"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダビデに"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデに"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "私の父"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "そしてその手で"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "満たされた"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "こう言って"
+    }
+  ],
+  "timestamp": "2026-08-07T11:01:23.500007825Z",
+  "model": "glm-5.2"
+}

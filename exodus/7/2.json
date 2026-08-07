@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "あなたはわたしがあなたに命じるすべてのことを語れ。あなたの兄弟アハロンはパロに語り、彼はイスラエルの子らを彼の地から遣わすであろう。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "語る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのこと"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "わたしがあなたに命じる"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "そしてアハロン"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "語る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "そして彼は遣わす"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子ら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "彼の地から"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:09.126452538Z",
+  "model": "glm-5.2"
+}

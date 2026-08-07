@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "テラフは七十年生き、⟨את⟩アブラム、⟨את⟩ナホル、そして⟨את⟩ハランを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "テラフ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アブラム"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "アブラム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナホル"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ナホル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ハラン"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "ハラン"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:17.512232866Z",
+  "model": "glm-5.2"
+}

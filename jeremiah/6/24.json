@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "私たちはその風聞⟨את⟩を聞いた。私たちの手は萎えた。苦しみが私たちを捕らえた、産む女の痛みのように。",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "私たちは聞いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その風聞"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "風聞"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "萎えた"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "私たちの手は"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "苦しみが"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "私たちを捕らえた"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "痛み"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "産む女のように"
+    }
+  ],
+  "timestamp": "2026-08-07T11:41:04.689110255Z",
+  "model": "glm-5.2"
+}

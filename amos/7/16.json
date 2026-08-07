@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "amos 7:16",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "それゆえ今、ヤハウェのことばを聞け。あなたは言っている、『イスラエルに対して預言するな、イサクの家に対して滴らすな』と。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "それゆえ今"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことばを"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言っている"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "預言する"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "また〜な"
+    },
+    {
+      "surface": "תטיף",
+      "gloss": "滴らす"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "בית",
+      "gloss": "〜の家"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "イサク"
+    }
+  ],
+  "timestamp": "2026-08-07T12:22:59.542050076Z",
+  "model": "glm-5.2"
+}

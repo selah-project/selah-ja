@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "⟨彼は⟩わたしたちのために選ばれた、⟨את⟩わたしたちの嗣業、すなわち⟨את⟩彼が愛されたヤアコブの威光。セラ。",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "選ばれた"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "わたしたちのために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしたちの嗣業"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "わたしたちの嗣業"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤアコブの威光"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "威光"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（関係詞）"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛された"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:16.277250795Z",
+  "model": "glm-5.2"
+}

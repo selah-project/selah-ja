@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "連れ出せ、目のある盲(めしい)の民を、そして耳のある聾(つんぼ)の者たちを」。",
+  "tokens": [
+    {
+      "surface": "הוֹצִ֥יא",
+      "gloss": "連れ出せ"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "民を"
+    },
+    {
+      "surface": "עִוֵּ֖ר",
+      "gloss": "盲の"
+    },
+    {
+      "surface": "וְעֵינַ֣יִם",
+      "gloss": "そして目が"
+    },
+    {
+      "surface": "יֵ֑שׁ",
+      "gloss": "ある"
+    },
+    {
+      "surface": "וְחֵרְשִׁ֖ים",
+      "gloss": "そして聾の者たち"
+    },
+    {
+      "surface": "וְאָזְנַ֥יִם",
+      "gloss": "そして耳が"
+    },
+    {
+      "surface": "לָֽמוֹ",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:30.061979874Z",
+  "model": "glm-5.2"
+}

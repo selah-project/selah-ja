@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "太陽が昇ると、彼らは集められ、⟨彼らの⟩隠れ場に身を横たえる。",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "昇ると"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽が"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "彼らは集められ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜へ"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "⟨彼らの⟩隠れ場"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "身を横たえる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:59:00.134039050Z",
+  "model": "glm-5.2"
+}

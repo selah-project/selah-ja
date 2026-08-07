@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 63:18",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 63,
+  "translation": "わずかな間、あなたの聖なる民は⟨それを⟩所有した。⟨私たちの⟩敵はあなたの聖所を踏みにじった。",
+  "tokens": [
+    {
+      "surface": "למצער",
+      "gloss": "わずかな間"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "所有した"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "あなたの聖なる"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "私たちの敵は"
+    },
+    {
+      "surface": "בוססו",
+      "gloss": "踏みにじった"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "あなたの聖所を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:37:46.502843906Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "彼らが飲んで、定めを忘れ、苦しむ者のすべての権利を覆すことのないように。",
+  "tokens": [
+    {
+      "surface": "פֶּן",
+      "gloss": "～ことのないように"
+    },
+    {
+      "surface": "יִ֭שְׁתֶּה",
+      "gloss": "彼らが飲んで"
+    },
+    {
+      "surface": "וְיִשְׁכַּ֣ח",
+      "gloss": "そして忘れる"
+    },
+    {
+      "surface": "מְחֻקָּ֑ק",
+      "gloss": "定め"
+    },
+    {
+      "surface": "וִֽ֝ישַׁנֶּה",
+      "gloss": "そして覆す"
+    },
+    {
+      "surface": "דִּ֣ין",
+      "gloss": "権利を"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "～の子ら"
+    },
+    {
+      "surface": "עֹֽנִי",
+      "gloss": "苦しみの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:31.403787081Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてヤハウェは私に言われた。「見よ。私は始めた ⟨—⟩ ⟨את⟩シホンと⟨את⟩彼の地をあなたの前に与えることを。所有するために、占拠し始めよ ⟨—⟩ ⟨את⟩彼の地を。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "私は始めた"
+    },
+    {
+      "surface": "תת",
+      "gloss": "与えることを"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "あなたの前に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シホン"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "シホン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼の地"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "彼の地"
+    },
+    {
+      "surface": "החל",
+      "gloss": "始めよ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "占拠せよ"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "所有するために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の地"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "彼の地"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:45.871526099Z",
+  "model": "glm-5.2"
+}

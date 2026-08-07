@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "セルグは三十年生き、ナホルを⟨את⟩生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "セルグ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナホル"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ナホル"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:45.572835045Z",
+  "model": "glm-5.2"
+}

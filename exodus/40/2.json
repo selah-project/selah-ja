@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "第一の月の一日に、あなたは⟨את⟩会見の天幕の幕屋を立てよ。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "…の日に"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "その月"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "第一の"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "一日に"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "その月の"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "あなたは立てよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "幕屋"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "幕屋"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:26.586983461Z",
+  "model": "glm-5.2"
+}

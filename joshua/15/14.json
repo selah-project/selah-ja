@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 15:14",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そしてカレブはそこからアナクの三人の子らを追い払った——⟨את⟩シェシャイと、⟨את⟩アヒマンと、⟨את⟩タルマイ、アナクの子孫⟨である⟩。",
+  "tokens": [
+    {
+      "surface": "וירש",
+      "gloss": "そして…追い払った"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "カレブは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "三人の子ら"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "三人の"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "アナクの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シェシャイ"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "シェシャイ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "アヒマン"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "アヒマン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "タルマイ"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "タルマイ"
+    },
+    {
+      "surface": "ילידי",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "アナクの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:28:28.272644138Z",
+  "model": "glm-5.2"
+}

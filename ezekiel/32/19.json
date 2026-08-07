@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 32:19",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "誰よりもあなたは美しいのか。下れ、そして包皮のある者たちと共に⟨את⟩横たわれ。",
+  "tokens": [
+    {
+      "surface": "ממי",
+      "gloss": "誰よりも"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "あなたは美しいのか"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "下れ"
+    },
+    {
+      "surface": "והשכבה",
+      "gloss": "そして横たわれ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "包皮のある者たち"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "包皮のある者たち"
+    }
+  ],
+  "timestamp": "2026-08-07T12:11:01.413964622Z",
+  "model": "glm-5.2"
+}

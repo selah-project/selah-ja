@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 2:23",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして事柄は調べられ、見出された。そして二人は木にかけられた。そして王の前で、日々の事柄の書に書き記された。",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "そして調べられ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "事柄は"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "そして見出された"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "そして彼らはかけられた"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "二人は"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "そして書き記された"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "書に"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "事柄の"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日々の"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "前で"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:49.904899954Z",
+  "model": "glm-5.2"
+}

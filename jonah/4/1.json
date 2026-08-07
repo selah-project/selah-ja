@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてヨナにとって⟨それは⟩大きな悪のように思われ、⟨彼⟩は怒り燃えた。",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "そして…悪と思われた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜にとって"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ヨナ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大きな"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "そして怒り燃えた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:24:25.750031722Z",
+  "model": "glm-5.2"
+}

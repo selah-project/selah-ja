@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "しかしアハズは言った、「私は求めない。また私はヤハウェを試さない。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…は言った"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "アハズ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "私は求める"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "私は試す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:22.496580696Z",
+  "model": "glm-5.2"
+}

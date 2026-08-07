@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "彼は彼らをベゼクで数えた。そしてイスラエルの子らは三十万、ユダの人は三万であった。",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "そして彼は彼らを数えた"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "ベゼクで"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "そして…であった"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "そして…の人"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-08-07T10:42:31.033487642Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてそのようになった後、ナハシュ、アンモンの子らの王が死に、彼の息子が彼に代わって王となった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…になった"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…の後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "このこと"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "死んだ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ナハシュ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "アンモン"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の息子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代わって"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:35.503735673Z",
+  "model": "glm-5.2"
+}

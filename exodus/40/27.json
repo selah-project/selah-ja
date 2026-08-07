@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして彼はその上に香料の香を炊いた。ヤハウェがモーシェに命じたとおりに。",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "そして炊いた"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香を"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "香料の"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のとおりに"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーシェを"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:51.588953362Z",
+  "model": "glm-5.2"
+}

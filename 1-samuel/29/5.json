@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "これはあのダビデではないか。彼らは踊りの ⟨中で⟩ 彼に応じて言った、「シャウルは数千を打ち、ダビドは数万を打った」と。」",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビド"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "あの"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "彼らは応じて"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "踊りの ⟨中で⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "打った"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "数千を"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ダビドは"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "数万を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:59.504542433Z",
+  "model": "glm-5.2"
+}

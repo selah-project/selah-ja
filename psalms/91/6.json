@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 91,
+  "translation": "闇の中を歩く疫病を、真昼に荒廃させる破滅を⟨恐れることはない⟩。",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "疫病を"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "闇の中を"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "歩く"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "破滅を"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "荒廃させる"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "真昼に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:27.070491772Z",
+  "model": "glm-5.2"
+}

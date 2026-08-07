@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして戦いが アサ と イスラエル の王 バアシャ との間に、彼らのすべての日々においてあった。",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "そして戦いが"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "〜があった"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "アサ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "および〜との間に"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "バアシャ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "彼らの日々"
+    }
+  ],
+  "timestamp": "2026-08-07T11:06:33.169380809Z",
+  "model": "glm-5.2"
+}

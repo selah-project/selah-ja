@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 20:8",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてヨルダンの向こう側、エリコの東で、彼らは ⟨את⟩ ベツェルを荒野の台地に、ルベン部族の ⟨את⟩ ラモトをギルアデに、ガド部族の、また ⟨את⟩ ゴランをバシャンに、マナセ部族のとして与えた。",
+  "tokens": [
+    {
+      "surface": "ומעבר",
+      "gloss": "そして向こう側に"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "ヨルダンの"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "エリコの"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "東で"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "彼らは与えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ベツェル"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ベツェル"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野の"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "台地に"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "〜部族の"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ルベン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "ラモト"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "ラモト"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "ギルアデに"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "〜部族の"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ガド"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "ゴラン"
+    },
+    {
+      "surface": "גלון",
+      "gloss": "ゴラン"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "バシャンに"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "〜部族の"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "マナセ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:30:09.947359578Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 6:18",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ダビデは全焼の献げ物と平和の献げ物を献げ終えると、万軍のヤハウェの御名によって⟨את⟩民を祝福した。",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "そして終えた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "献げることを"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "その全焼の献げ物"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "とその平和の献げ物"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "そして祝福した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民を"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "御名によって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "万軍の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:26.665908837Z",
+  "model": "glm-5.2"
+}

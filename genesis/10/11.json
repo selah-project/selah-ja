@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "その地からアシュルが⟨出た⟩。そして彼は⟨את⟩ニネベと⟨את⟩レホボト・イルと⟨את⟩カルフを建てた。",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出た"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アシュル"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "そして彼は建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ニネベ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ニネベ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "レホボト・イル"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "レホボト"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "イル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "カルフ"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "カルフ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:35.088521991Z",
+  "model": "glm-5.2"
+}

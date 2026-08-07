@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そしてヤハウェは渦巻きの中から⟨את⟩ヨブに答えて、こう言われた。",
+  "tokens": [
+    {
+      "surface": "וַיַּֽעַן",
+      "gloss": "そして〜は答えた"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ヨブ"
+    },
+    {
+      "surface": "אִ֭יּוֹב",
+      "gloss": "ヨブ"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "〜の中から"
+    },
+    {
+      "surface": "סַעַר",
+      "gloss": "渦巻き"
+    },
+    {
+      "surface": "וַיֹּאמַֽר",
+      "gloss": "そして言われた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:32:22.120223089Z",
+  "model": "glm-5.2"
+}

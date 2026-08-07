@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてヤハウェのしもべ、ヌンの子エホシュアは死んだ。百十歳であった。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "エホシュア"
+    },
+    {
+      "surface": "בן",
+      "gloss": "の子"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ヌン"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "しもべ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の齢"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "と十"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "歳"
+    }
+  ],
+  "timestamp": "2026-08-07T16:42:14.212633450Z",
+  "model": "glm-5.2"
+}

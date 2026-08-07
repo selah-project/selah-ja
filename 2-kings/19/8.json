@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてラブ・シャケは戻り、アシュル⟨王が⟩リブナと戦っているのを見つけた。彼がラキシュから進発したと聞いたからである。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして戻った"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ラブ"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "シャケ"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "そして見つけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アシュル王を"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨王⟩"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アシュル"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "戦っている"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "リブナ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞いたから"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということを"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "進発した"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "ラキシュから"
+    }
+  ],
+  "timestamp": "2026-08-07T11:15:54.826058763Z",
+  "model": "glm-5.2"
+}

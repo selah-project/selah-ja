@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "拒絶された、あなたの雄牛の子が、ショムロンよ。ヤハウェの怒りが彼らに向かって燃え上がった。いつまで彼らは無垢であり得ないのか。",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "拒絶された"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "あなたの雄牛の子"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ショムロンよ"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "燃え上がった"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ヤハウェの怒り"
+    },
+    {
+      "surface": "בם",
+      "gloss": "彼らに向かって"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "いつ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "あり得る"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "無垢"
+    }
+  ],
+  "timestamp": "2026-08-07T12:20:08.759342999Z",
+  "model": "glm-5.2"
+}

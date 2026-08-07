@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 59:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "彼らの巣は衣にはならず、彼らのわざによって身を覆うこともない。彼らのわざは咎のわざであり、彼らの手には暴虐の業がある。",
+  "tokens": [
+    {
+      "surface": "קוריהם",
+      "gloss": "彼らの巣は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "なる"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "衣に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יתכסו",
+      "gloss": "身を覆う"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "彼らのわざによって"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "彼らのわざは"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "わざである"
+    },
+    {
+      "surface": "און",
+      "gloss": "咎の"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "そして業が"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "暴虐の"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "彼らの手にある"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:45.926202215Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてモーシェは行った。ヤハウェが彼に⟨את⟩命じられた通りに、そう彼は行った。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…通りに"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そう"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行った"
+    }
+  ],
+  "timestamp": "2026-08-07T14:23:47.399519138Z",
+  "model": "glm-5.2"
+}

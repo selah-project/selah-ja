@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "彼は自分の目で自分のためにそれを滑らかに⟨した⟩—自分の咎を見出して、憎むために。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "滑らかにした"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "自分の目で"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "見出す"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "自分の咎を"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "憎む"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:50.711508842Z",
+  "model": "glm-5.2"
+}

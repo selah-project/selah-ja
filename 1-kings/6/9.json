@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして⟨彼は⟩⟨את⟩その家を建て、それを完成させた。そして⟨彼は⟩⟨את⟩その家を梁と杉の板で覆った。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "そして…建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "そして…それを完成させた"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "そして…覆った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "梁"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "と…板"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "杉の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:45.899622717Z",
+  "model": "glm-5.2"
+}

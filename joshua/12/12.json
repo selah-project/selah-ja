@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "エグロンの王、ひとり。ゲゼルの王、ひとり。",
+  "tokens": [
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "עֶגְלוֹן",
+      "gloss": "エグロン"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "ひとり"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "גֶּזֶר",
+      "gloss": "ゲゼル"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "ひとり"
+    }
+  ],
+  "timestamp": "2026-08-07T16:40:39.154752770Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "誰が、いのちを慕う ⟨人⟩、多くの日を愛して、良い ⟨もの⟩を見ようとする ⟨人⟩か。",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "הָ֭אִישׁ",
+      "gloss": "⟨その⟩人"
+    },
+    {
+      "surface": "הֶחָפֵ֣ץ",
+      "gloss": "慕う"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "いのち"
+    },
+    {
+      "surface": "אֹהֵ֥ב",
+      "gloss": "愛して"
+    },
+    {
+      "surface": "יָ֝מִ֗ים",
+      "gloss": "日々を"
+    },
+    {
+      "surface": "לִרְא֥וֹת",
+      "gloss": "見るために"
+    },
+    {
+      "surface": "טֽוֹב",
+      "gloss": "良い⟨もの⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:58.687190654Z",
+  "model": "glm-5.2"
+}

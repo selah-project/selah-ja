@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 19:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "彼らが伏す前に、セドムの町の人々、すなわちセドムの人々が、家を囲んだ。若者から老人まで、果てから ⟨すべての⟩民が。",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "〜前に"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "彼らが伏す"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "人々"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町の"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "人々"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "セドムの"
+    },
+    {
+      "surface": "נסבו",
+      "gloss": "囲んだ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "若者から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "老人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "果てから"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:09.316430296Z",
+  "model": "glm-5.2"
+}

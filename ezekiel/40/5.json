@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 40:5",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして見よ、⟨そこに⟩家の外側の周りに回る壁があった。そして⟨その⟩人の手には測竿があった — 六アッマ、一アッマにつき、外加一トファハ。そして彼は⟨את⟩建物の幅を測った — 竿一本、そして高さ — 竿一本。",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "壁"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外側に"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周りに"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "回る"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "そして…の手に"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その人"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "測竿"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "測量の"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "アッマ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "一アッマにつき"
+    },
+    {
+      "surface": "וטפח",
+      "gloss": "と一トファハ"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "そして彼は測った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "建物の幅"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "幅"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "建物の"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "竿"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一本"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "そして高さ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "竿"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一本"
+    }
+  ],
+  "timestamp": "2026-08-07T12:14:25.852133770Z",
+  "model": "glm-5.2"
+}

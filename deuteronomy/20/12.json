@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "だが、もしそれがあなたと平和を結ばず、あなたと戦いを仕掛けるなら、あなたはそれを包囲する。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "だがもし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "それが平和を結ぶ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたと"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "そしてそれが…する"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたに対して"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦いを"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "そしてあなたは包囲する"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "それを"
+    }
+  ],
+  "timestamp": "2026-08-07T10:14:55.133287971Z",
+  "model": "glm-5.2"
+}

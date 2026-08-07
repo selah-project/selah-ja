@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 5:12",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "彼の目は鳩のよう、水の流れのほとり。乳で洗われ、満ちた縁に座している。",
+  "tokens": [
+    {
+      "surface": "עֵינָ֕יו",
+      "gloss": "彼の目は"
+    },
+    {
+      "surface": "כְיוֹנִ֖ים",
+      "gloss": "鳩のよう"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜のほとり"
+    },
+    {
+      "surface": "אֲפִ֣יקֵי",
+      "gloss": "流れの"
+    },
+    {
+      "surface": "מָ֑יִם",
+      "gloss": "水の"
+    },
+    {
+      "surface": "רֹֽחֲצוֹת֙",
+      "gloss": "洗われ"
+    },
+    {
+      "surface": "בֶֽחָלָ֔ב",
+      "gloss": "乳で"
+    },
+    {
+      "surface": "יֹשְׁב֖וֹת",
+      "gloss": "座している"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "מִלֵּֽאת",
+      "gloss": "満ちた縁"
+    }
+  ],
+  "timestamp": "2026-08-07T13:35:33.801815754Z",
+  "model": "glm-5.2"
+}

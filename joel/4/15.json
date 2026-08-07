@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "太陽と月は暗くなり、星々はその輝きを引っ込めた。",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "太陽は"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "そして月は"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "暗くなり"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "そして星々は"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "引っ込めた"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "その輝きを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:21:06.741860064Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "彼らはモルデカイにエステルの⟨את⟩言葉を告げた。",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "そして…告げた"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "モルデカイに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "言葉を"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "エステルの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:54.392996126Z",
+  "model": "glm-5.2"
+}

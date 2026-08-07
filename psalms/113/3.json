@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 113,
+  "translation": "太陽の上る所からその入りくぼみまで、ヤハウェの御名はほめたたえられる。",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "〜の上る所から"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "その入りくぼみ"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "ほめたたえられる"
+    },
+    {
+      "surface": "שם",
+      "gloss": "御名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:08.845230556Z",
+  "model": "glm-5.2"
+}

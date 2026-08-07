@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 92,
+  "translation": "あなたは私の角を野牛のように高く上げられた。私は新鮮な油で満たされた。",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "あなたは〜高く上げられた"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "野牛のように"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "私の角を"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "満たされた"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "油で"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "新鮮な"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:07.158555330Z",
+  "model": "glm-5.2"
+}

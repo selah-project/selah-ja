@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "叱責は分別ある者に深く入り込む、愚か者を百回打つよりも。",
+  "tokens": [
+    {
+      "surface": "תֵּ֣חַת",
+      "gloss": "入り込む"
+    },
+    {
+      "surface": "גְּעָרָ֣ה",
+      "gloss": "叱責は"
+    },
+    {
+      "surface": "בְמֵבִ֑ין",
+      "gloss": "分別ある者に"
+    },
+    {
+      "surface": "מֵהַכּ֖וֹת",
+      "gloss": "打つよりも深く"
+    },
+    {
+      "surface": "כְּסִ֣יל",
+      "gloss": "愚か者を"
+    },
+    {
+      "surface": "מֵאָֽה",
+      "gloss": "百（回）"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:21.308231533Z",
+  "model": "glm-5.2"
+}

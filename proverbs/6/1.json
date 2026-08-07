@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "わたしの子よ、あなたがあなたの友のために保証人となり、見知らぬ者のためにあなたの手を打ち合わせたなら、",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "わたしの子よ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "あなたが保証人となり"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "あなたの友のために"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "あなたが打ち合わせた"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "見知らぬ者のために"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "あなたの手を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:09:09.230801562Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "なぜなら、鍋の下の茨の音のように、愚か者の笑いもそのとおりだ。これもまたヘベルである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "〜の音のように"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "茨の"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下の"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "鍋"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのとおりだ"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "笑いも"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "愚か者の"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "〜もまた"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ヘベルである"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:05.488515995Z",
+  "model": "glm-5.2"
+}

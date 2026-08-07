@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "ヤハウェのヘセドをとこしえに私は歌う。世代から世代へ私は知らせる、あなたの真実を私の口で。",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ヘセドを"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "私は歌う"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "世代へ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "そして世代"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "私は知らせる"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "あなたの真実を"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "私の口で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:36.867118472Z",
+  "model": "glm-5.2"
+}

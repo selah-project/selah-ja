@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "エロヒムは義なる裁き手、怒るエル、すべての日⟨⟨である⟩⟩。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "裁き手"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義なる"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "怒る"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:29.107089143Z",
+  "model": "glm-5.2"
+}

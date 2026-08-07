@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "イスラエルは言った。「なぜあなたがたは私にこのような害をなしたのか。あの男に、あなたがたにまだもう一人兄弟がいるかどうかを告げたのは。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "害をなした"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "告げることは"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "あの男に"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "まだ〜あるか"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "אח",
+      "gloss": "兄弟"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:04.532284855Z",
+  "model": "glm-5.2"
+}

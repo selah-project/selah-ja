@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "曲がりくねっている、人の道は、そして異質である、しかし潔い者の、そのわざは正しい。",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "曲がりくねっている"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道は"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "そして異質である"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "しかし潔い者の"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "正しい"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "そのわざは"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:45.003670365Z",
+  "model": "glm-5.2"
+}

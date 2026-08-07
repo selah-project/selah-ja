@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 1:18",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして言った、ユダの子らに弓を教えるように。見よ、それはヤシャルの書にしるされている。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "教えるように"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らに"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "しるされている"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "書"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ヤシャルの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:21.430619177Z",
+  "model": "glm-5.2"
+}

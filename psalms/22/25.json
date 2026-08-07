@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "なぜなら ⟨彼は⟩ 苦しみめる者の苦しみを軽んぜず、また忌み嫌わず、⟨彼は⟩ その顔を彼から隠さず、彼が ⟨彼⟩ に向かって叫んだとき、聞かれたからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "軽んじた"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "忌み嫌った"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "苦しみを"
+    },
+    {
+      "surface": "עני",
+      "gloss": "苦しみめる者の"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "隠した"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "彼の顔を"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "彼から"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "そして彼が叫んだとき"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に向かって"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞かれた"
+    }
+  ],
+  "timestamp": "2026-08-07T18:39:29.826069157Z",
+  "model": "glm-5.2"
+}

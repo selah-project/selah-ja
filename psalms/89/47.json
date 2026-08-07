@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "いつまで、ヤハウェ、あなたはご自身を隠されるのか。とこしえに。あなたの怒りは火のように燃えるのか。",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "מָ֣ה",
+      "gloss": "いつ"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "תִּסָּתֵ֣ר",
+      "gloss": "あなたは隠される"
+    },
+    {
+      "surface": "לָנֶ֑צַח",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "תִּבְעַ֖ר",
+      "gloss": "燃える"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "のように"
+    },
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "火"
+    },
+    {
+      "surface": "חֲמָתֶֽךָ",
+      "gloss": "あなたの怒り"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:43.772075244Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "彼は荒野において岩々を裂き、淵のように豊かに⟨水を⟩飲ませた。",
+  "tokens": [
+    {
+      "surface": "יְבַקַּ֣ע",
+      "gloss": "裂き"
+    },
+    {
+      "surface": "צֻ֭רִים",
+      "gloss": "岩々を"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֑ר",
+      "gloss": "荒野において"
+    },
+    {
+      "surface": "וַ֝יַּ֗שְׁקְ",
+      "gloss": "飲ませた"
+    },
+    {
+      "surface": "כִּתְהֹמ֥וֹת",
+      "gloss": "淵のように"
+    },
+    {
+      "surface": "רַבָּֽה",
+      "gloss": "豊かに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:54:31.621749384Z",
+  "model": "glm-5.2"
+}

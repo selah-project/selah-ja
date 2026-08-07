@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "十分の一エファ、小羊一匹につき十分の一エファ、七羽の小羊のために、",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "十分の一エファ"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "十分の一エファ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "小羊につき"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "その一匹の"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "七羽の…のために"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "その小羊たち"
+    }
+  ],
+  "timestamp": "2026-08-07T10:01:56.087311033Z",
+  "model": "glm-5.2"
+}

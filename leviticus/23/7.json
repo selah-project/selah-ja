@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "第一の日に聖なる召集があなたがたにある。すべて就労の仕事をしてはならない。",
+  "tokens": [
+    {
+      "surface": "בַּיּוֹם֙",
+      "gloss": "〜日に"
+    },
+    {
+      "surface": "הָֽרִאשׁ֔וֹן",
+      "gloss": "第一の"
+    },
+    {
+      "surface": "מִקְרָא",
+      "gloss": "召集"
+    },
+    {
+      "surface": "קֹ֖דֶשׁ",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "יִהְיֶ֣ה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "לָכֶ֑ם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מְלֶ֥אכֶת",
+      "gloss": "就労の"
+    },
+    {
+      "surface": "עֲבֹדָ֖ה",
+      "gloss": "仕事"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תַעֲשֽׂוּ",
+      "gloss": "してはならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:15.468347313Z",
+  "model": "glm-5.2"
+}

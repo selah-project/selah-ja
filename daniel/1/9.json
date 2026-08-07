@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてエロヒムはダニエルを ⟨את⟩ ヘセドとあわれみのために、宦官たちの長の前に与えられた。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして与えた"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダニエル"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ダニエルを"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "ヘセドのために"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "そしてあわれみのために"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "～の前に"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "宦官たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:18.028908466Z",
+  "model": "glm-5.2"
+}

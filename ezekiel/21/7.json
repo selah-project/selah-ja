@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 21:7",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "人の子よ、あなたの顔をイェルシャライムに向け、聖所に向かって滴り語れ。そしてイスラエルの地に向かって預言せよ。」",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人間の"
+    },
+    {
+      "surface": "שים",
+      "gloss": "置け"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの顔を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ向けて"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライム"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "そして滴り語れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ向けて"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "そして預言せよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ向けて"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "地"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:07:07.723155615Z",
+  "model": "glm-5.2"
+}

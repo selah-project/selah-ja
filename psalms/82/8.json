@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 82,
+  "translation": "立ってください、エロヒム、地を裁いてください。あなたがすべての国々を嗣業として得るからです。」",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "立ってください"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "裁いてください"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "嗣業として得る"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "国々を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:35.434667396Z",
+  "model": "glm-5.2"
+}

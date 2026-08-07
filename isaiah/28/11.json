@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "それゆえ、あざけりのくちびると、異なる舌によって、⟨彼は⟩この民に語られるからだ。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "あざけりの"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "くちびると"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "異なる"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "舌によって"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "語られるからだ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "この民"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:31.635241838Z",
+  "model": "glm-5.2"
+}

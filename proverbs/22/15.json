@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 22:15",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "愚かさは若者の心に縛られている、懲らしめの杖がそれを彼から遠ざける。",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "愚かさは"
+    },
+    {
+      "surface": "קשורה",
+      "gloss": "縛られている"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "心に"
+    },
+    {
+      "surface": "נער",
+      "gloss": "若者の"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "杖が"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "懲らしめの"
+    },
+    {
+      "surface": "ירחיקנה",
+      "gloss": "それを遠ざける"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "彼から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:54.323189515Z",
+  "model": "glm-5.2"
+}

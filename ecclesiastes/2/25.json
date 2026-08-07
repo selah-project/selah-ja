@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "だが ⟨את⟩ を食べるのは誰か、そして ⟨את⟩ を味わうのは誰か、私によらずして？",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "だが"
+    },
+    {
+      "surface": "מִ֥י",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יֹאכַ֛ל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "וּמִ֥י",
+      "gloss": "そして誰"
+    },
+    {
+      "surface": "יָח֖וּשׁ",
+      "gloss": "味わう"
+    },
+    {
+      "surface": "ח֥וּץ",
+      "gloss": "〜によらずして"
+    },
+    {
+      "surface": "מִמֶּֽנִּי",
+      "gloss": "私に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:48.028968942Z",
+  "model": "glm-5.2"
+}

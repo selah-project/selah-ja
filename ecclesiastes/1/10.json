@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "「見よ、これ ⟨は⟩新しい」と言われる事 ⟨は⟩あるか。それはとっくに永遠の昔から、私たちの前から ⟨あった⟩のである。",
+  "tokens": [
+    {
+      "surface": "יֵ֥שׁ",
+      "gloss": "あるか"
+    },
+    {
+      "surface": "דָּבָ֛ר",
+      "gloss": "事"
+    },
+    {
+      "surface": "שֶׁיֹּאמַ֥ר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "רְאֵה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "זֶ֖ה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "חָדָ֣שׁ",
+      "gloss": "新しい"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "⟨は⟩…である"
+    },
+    {
+      "surface": "כְּבָר֙",
+      "gloss": "とっくに"
+    },
+    {
+      "surface": "הָיָ֣ה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "לְעֹֽלָמִ֔ים",
+      "gloss": "永遠の昔から"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "…が"
+    },
+    {
+      "surface": "הָיָ֖ה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "מִלְּפָנֵֽנוּ",
+      "gloss": "私たちの前から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:39.912783358Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 95,
+  "translation": "その手のうちに地の深淵があり、山々の高き所も⟨彼のもの⟩である。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "その手のうちに"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "そして高き所"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山々の"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨彼のもの⟩である"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:41.778883233Z",
+  "model": "glm-5.2"
+}

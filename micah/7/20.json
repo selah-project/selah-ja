@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "micah 7:20",
+  "book": "micah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "あなたは真実をヤコブに、ヘセドをアブラハムに与えられる。昔の日々から、私たちの父祖たちに誓われた通りに。",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "あなたは与えられる"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真実を"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ヤコブに"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ヘセドを"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "アブラハムに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ということを"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "あなたは誓われた"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "私たちの父祖たちに"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "〜の日々から"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "昔の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:27:45.585824381Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "その水は騒ぎ立ち、沸き騰る。山々はその誇り高き激濤において揺らぐ。セラ。",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "騒ぎ立ち"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "沸き騰る"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "その水は"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "揺らぐ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山々は"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "その誇り高き激濤において"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:21.621156160Z",
+  "model": "glm-5.2"
+}

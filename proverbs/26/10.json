@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "すべてを傷つける多くの者、愚か者を雇う者、通りすがりを雇う者⟨のようである⟩。",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "傷つける"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべてを"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "雇う者"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚か者を"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "雇う者"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "通りすがりを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:56.923285950Z",
+  "model": "glm-5.2"
+}

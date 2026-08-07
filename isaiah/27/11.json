@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 27:11",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "その収穫が枯れる時、女たちが来てこれに火を点ける。というのも、これは悟りのない民だからである。それゆえ、これを造った方はこれを憐れまず、これを形造った方はこれに恵みを施さない。",
+  "tokens": [
+    {
+      "surface": "ביבש",
+      "gloss": "枯れる時"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "その収穫が"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "折られる"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "女たちは"
+    },
+    {
+      "surface": "באות",
+      "gloss": "来て"
+    },
+    {
+      "surface": "מאירות",
+      "gloss": "火を点ける"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "これ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "בינות",
+      "gloss": "悟りの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "これ⟨は⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "−"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ירחמנו",
+      "gloss": "憐れまず"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "これを造った方は"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "そしてこれを形造った方は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "恵みを施さない"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:06.639653477Z",
+  "model": "glm-5.2"
+}

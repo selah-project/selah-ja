@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 9:19",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして雲が幕屋の上に長く留まる時、多くの日々の間、イスラエルの子らはヤハウェの務めを守り、旅立たなかった。",
+  "tokens": [
+    {
+      "surface": "ובהאריך",
+      "gloss": "そして長く滞在する時"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲が"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "守った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "務め"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "務め"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "旅立った"
+    }
+  ],
+  "timestamp": "2026-08-07T09:54:36.390645528Z",
+  "model": "glm-5.2"
+}

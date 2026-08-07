@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 76,
+  "translation": "光り輝く〈あなたは〉、略奪の山々よりも力強い。",
+  "tokens": [
+    {
+      "surface": "נָאֹור",
+      "gloss": "光り輝く"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "אַדִּיר",
+      "gloss": "力強い"
+    },
+    {
+      "surface": "מֵהַרְרֵי",
+      "gloss": "〜の山々よりも"
+    },
+    {
+      "surface": "טָרֶף",
+      "gloss": "略奪"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:08.969359665Z",
+  "model": "glm-5.2"
+}

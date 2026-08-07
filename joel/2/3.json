@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 2:3",
+  "book": "joel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "その前では火が食い尽くし、その後では炎が燃え立つ。地はその前ではエデンの園のよう、その後では荒廃した荒野、そして逃れたものもそれにはなかった。",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "その前で"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "食い尽くし"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火が"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "その後で"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "燃え立つ"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "炎が"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "〜の園のよう"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "エデンの"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "その前で"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "その後で"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "荒野"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "荒廃した"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "そして〜も"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "逃れたもの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "存在した"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それには"
+    }
+  ],
+  "timestamp": "2026-08-07T12:21:45.120262536Z",
+  "model": "glm-5.2"
+}

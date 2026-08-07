@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "モシェは民が — ⟨את⟩民が 各々の天幕の入り口で、氏族ごとに泣いているのを聞いた。するとヤハウェの怒りが激しく燃え上がり、モシェの目にも悪かった。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聞いた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民を"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民が"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "泣いているのを"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "氏族ごとに"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各々"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "入り口で"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "天幕の"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "燃え上がり"
+    },
+    {
+      "surface": "אף",
+      "gloss": "怒りが"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "激しく"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "目にも"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェの"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪かった"
+    }
+  ],
+  "timestamp": "2026-08-07T09:55:13.382379736Z",
+  "model": "glm-5.2"
+}

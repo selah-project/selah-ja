@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "オバデヤはアハブに会いに行き、彼に告げた。そしてアハブはエリヤに会いに行った。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "オバデヤは"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "会いに"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "アハブに"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "アハブは"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "会いに"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "エリヤに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:27:50.197744402Z",
+  "model": "glm-5.2"
+}

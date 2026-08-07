@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 22:20",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "レバノンに登り、叫べ。バシャンで声を上げよ。アバリムから叫べ。あなたを愛するすべての者が砕かれたからである。",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "登れ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "レバノンに"
+    },
+    {
+      "surface": "וצעקי",
+      "gloss": "叫べ"
+    },
+    {
+      "surface": "ובבשן",
+      "gloss": "バシャンで"
+    },
+    {
+      "surface": "תני",
+      "gloss": "与えよ\/上げよ"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "あなたの声を"
+    },
+    {
+      "surface": "וצעקי",
+      "gloss": "叫べ"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "アバリムから"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "נשברו",
+      "gloss": "砕かれた"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מאהביך",
+      "gloss": "あなたを愛する者"
+    }
+  ],
+  "timestamp": "2026-08-07T11:47:51.550689820Z",
+  "model": "glm-5.2"
+}

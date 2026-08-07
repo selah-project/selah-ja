@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "シャッダイが王たちをそこに散らされた時、ツァルモンに雪が降る⟨ようであった⟩。",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "⋯が散らされた時"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "シャッダイが"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "王たちを"
+    },
+    {
+      "surface": "בה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "雪が降る"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "ツァルモンに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:51.495424706Z",
+  "model": "glm-5.2"
+}

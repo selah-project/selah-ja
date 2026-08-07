@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 12:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして初日に聖なる召集、そして七日目に聖なる召集が、あなたたちにとってある。すべての仕事がそれらの中で行なわれてはならない。ただしすべてのネフシュのために食べられるもの—それだけがあなたたちによって行なわれてよい。",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "そして日に"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "初"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "召集"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "そして日に"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "七日目の"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "召集"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちにとって"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "仕事が"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "行なわれては"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "それらの中で"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べられる"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ネフシュのために"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "だけが"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "行なわれてよい"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちによって"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:02.394994924Z",
+  "model": "glm-5.2"
+}

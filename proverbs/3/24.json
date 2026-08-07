@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "もしあなたが横たわれば、恐れることはない。あなたが横たわれば、あなたの眠りは快い。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "横たわれば"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "そうして横たわれば"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "快い"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "あなたの眠り"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:32.161596349Z",
+  "model": "glm-5.2"
+}

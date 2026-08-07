@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして⟨את⟩パトルシムと、⟨את⟩カスルヒム（そこからペリシティムが出た）と、⟨את⟩カフトリムを⟨生んだ⟩。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "パトルシム"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "パトルシム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "カスルヒム"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "カスルヒム"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（そこから"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出た"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシティム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "カフトリム"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "カフトリム"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:30.309418562Z",
+  "model": "glm-5.2"
+}

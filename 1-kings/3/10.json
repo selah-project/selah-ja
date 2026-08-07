@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてこのことばはアドナイの目に良かった — ソロモンがこのことばを求めたからである。",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "良かった"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ことばは"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "目に"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "求めた"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ソロモンが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "このことば"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ことばを"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:00.963704713Z",
+  "model": "glm-5.2"
+}

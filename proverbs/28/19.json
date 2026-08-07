@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 28:19",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "自分の土を耕す者はパンで満たされ、空しい者を追う者は貧しさで満たされる。",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "耕す者"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "自分の土を"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "満たされる"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンで"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "追う者"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "空しい者を"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "満たされる"
+    },
+    {
+      "surface": "ריש",
+      "gloss": "貧しさで"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:13.315135468Z",
+  "model": "glm-5.2"
+}

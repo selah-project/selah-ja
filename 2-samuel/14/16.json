@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "「王が女奴隷を救い出すために耳を傾けてくださるからです。⟨את⟩私と⟨את⟩息子を共にエロヒムの嗣業から絶ち滅ぼそうとする者の手から。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だからです"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "耳を傾けてくださる"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王が"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "救い出すために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "女奴隷を"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "女奴隷"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "〜の手から"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その者"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "絶ち滅ぼそうとする"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "私と"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "息子を"
+    },
+    {
+      "surface": "בני",
+      "gloss": "息子"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "共に"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "〜の嗣業から"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:53:26.463174109Z",
+  "model": "glm-5.2"
+}

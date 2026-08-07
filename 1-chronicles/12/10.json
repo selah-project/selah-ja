@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "エゼルが第一、オバドヤが第二、エリアブが第三。",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "エゼル"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "第一"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "オバドヤ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "エリアブ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "第三"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:57.168747633Z",
+  "model": "glm-5.2"
+}

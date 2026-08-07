@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてエロヒムは光を「昼」と呼び、闇を「夜」と呼ばれた。そして夕となり、朝となった。第一の日である。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "そして…呼んだ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "光に"
+    },
+    {
+      "surface": "יום",
+      "gloss": "「昼」"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "そして闇を"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼んだ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "「夜」"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "夕"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:39.882675422Z",
+  "model": "glm-5.2"
+}

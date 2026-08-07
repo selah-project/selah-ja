@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 136,
+  "translation": "強い手と伸ばされた腕によって。まことに、とこしへまで〈永遠に〉続くそのヘセド。",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "手"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "強い"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "と腕"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "伸ばされた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしへまで"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "そのヘセド"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:53.261664676Z",
+  "model": "glm-5.2"
+}

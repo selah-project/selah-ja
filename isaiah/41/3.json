@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "彼らを追い、平和のうちに通り過ぎる。彼の足で歩む道に、⟨彼⟩は入らない。",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "彼らを追い"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "通り過ぎる"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平和のうちに"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "道に"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "彼の足で"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "⟨彼は⟩入らない"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:42.103173450Z",
+  "model": "glm-5.2"
+}

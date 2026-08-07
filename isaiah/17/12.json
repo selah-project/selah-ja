@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "ああ、多くの民々の騒ぎ — 海々の轟きのように彼らは轟き、国々のどよめき — 力ある水々のどよめきのように彼らはどよめく。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "המון",
+      "gloss": "騒ぎ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "民々の"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "…の轟きのように"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "海々の"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "彼らは轟く"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "そしてどよめき"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "国々の"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "…のどよめきのように"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水々の"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "力ある"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "彼らはどよめく"
+    }
+  ],
+  "timestamp": "2026-08-07T14:30:27.033633457Z",
+  "model": "glm-5.2"
+}

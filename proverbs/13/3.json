@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "自分の口を守る者は自分のנפשを守る。唇を広げ開く者には破滅が⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "נֹצֵ֣ר",
+      "gloss": "守る者"
+    },
+    {
+      "surface": "פִּ֭יו",
+      "gloss": "自分の口"
+    },
+    {
+      "surface": "שֹׁמֵ֣ר",
+      "gloss": "守る"
+    },
+    {
+      "surface": "נַפְשׁ֑וֹ",
+      "gloss": "自分のנפש"
+    },
+    {
+      "surface": "פֹּשֵׂ֥ק",
+      "gloss": "広げ開く者"
+    },
+    {
+      "surface": "שְׂפָתָ֗יו",
+      "gloss": "自分の唇"
+    },
+    {
+      "surface": "מְחִתָּ֥ה",
+      "gloss": "破滅"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T18:42:06.255497209Z",
+  "model": "glm-5.2"
+}

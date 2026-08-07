@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 28:8",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "私より前の、そしてあなたより前の、昔からの預言者たちは、多くの地々と大きな国々について、戦争と災いと疫病 ⟨に関して⟩ 預言した。」",
+  "tokens": [
+    {
+      "surface": "הנביאים",
+      "gloss": "預言者たち"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "היו",
+      "gloss": "…であった"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…より前の"
+    },
+    {
+      "surface": "ולפניך",
+      "gloss": "そしてあなたより前の"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "昔"
+    },
+    {
+      "surface": "וינבאו",
+      "gloss": "そして預言した"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…について"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "地々"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして…について"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "国々"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "大きな"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "戦争"
+    },
+    {
+      "surface": "ולרעה",
+      "gloss": "そして災い"
+    },
+    {
+      "surface": "ולדבר",
+      "gloss": "そして疫病"
+    }
+  ],
+  "timestamp": "2026-08-07T11:50:40.436363863Z",
+  "model": "glm-5.2"
+}

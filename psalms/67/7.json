@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 67,
+  "translation": "地はその産物を与えた。エロヒムが、私たちのエロヒムが、私たちを祝福してくださる。",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "その産物を"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "私たちを祝福してくださる"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムが"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "私たちのエロヒムが"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:05.788123716Z",
+  "model": "glm-5.2"
+}

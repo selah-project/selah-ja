@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 77,
+  "translation": "指揮者に、イェドトゥンのために、アサフのミズモル",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者に"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "イェドトゥン"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "アサフの"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ミズモル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:15.111900900Z",
+  "model": "glm-5.2"
+}

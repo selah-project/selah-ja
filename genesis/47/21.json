@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "そして⟨את⟩民を、彼は町々に移した。ミツライムの境の端からその端に至るまで。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "彼は移した"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "それを",
+      "marks": "町々"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "町々に"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "端から"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境の"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）の"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "その端"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:06.705842211Z",
+  "model": "glm-5.2"
+}

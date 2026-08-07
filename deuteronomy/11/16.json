@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 11:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "あなたがたは自分たちのために慎みなさい。あなたがたの心が欺かれ、あなたがたが逸れて他のエロヒムに仕え、それにひれ伏すことのないために。",
+  "tokens": [
+    {
+      "surface": "השמרו",
+      "gloss": "慎みなさい"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたは自分たちのために"
+    },
+    {
+      "surface": "פן",
+      "gloss": "〜ことのないために"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "欺かれ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "あなたがたの心が"
+    },
+    {
+      "surface": "וסרתם",
+      "gloss": "そしてあなたがたが逸れて"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "仕え"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムに"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "他の"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "そしてひれ伏す"
+    },
+    {
+      "surface": "להם",
+      "gloss": "それに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:10:52.820675421Z",
+  "model": "glm-5.2"
+}

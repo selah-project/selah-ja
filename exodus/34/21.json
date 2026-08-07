@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "六日のあいだあなたは働き、第七日目にあなたは休む — 鋤入れの時にも、刈り入れの時にもあなたは休む。",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "六つの"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "あなたは働く"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "そして〜の日に"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "あなたは休む"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "鋤入れに"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "そして刈り入れに"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "あなたは休む"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:02.883892865Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "habakkuk 2:8",
+  "book": "habakkuk",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "あなたが多くの国々を略奪したからこそ、すべての民の残りの者たちがあなたを略奪する。人の血のゆえに、そして地の暴力のゆえに、都市とそこに住むすべての者のゆえに。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だからこそ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "שלות",
+      "gloss": "略奵した"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "ישלוך",
+      "gloss": "略奵する"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "残りの者たち"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "民"
+    },
+    {
+      "surface": "מדמי",
+      "gloss": "血のゆえに"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "וחמס",
+      "gloss": "そして暴力"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "都市"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "住む者"
+    },
+    {
+      "surface": "בה",
+      "gloss": "そこに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:28:29.048318600Z",
+  "model": "glm-5.2"
+}

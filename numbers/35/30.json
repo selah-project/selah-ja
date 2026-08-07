@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "すべての、命を打つ者 ――証人たちの口によって、その殺人者を ⟨את⟩ 殺さなければならない。しかし証人は一人、死ぬために ⟨⟩ 命において答えてはならない。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "打つ者"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "命"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "…の口によって"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "証人たち"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "殺さなければならない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その殺人者"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "その殺人者"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "しかし証人は"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "答える"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "命において"
+    },
+    {
+      "surface": "למות",
+      "gloss": "死ぬために"
+    }
+  ],
+  "timestamp": "2026-08-07T10:05:33.494750609Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "そしてヤハウェは、彼が友人のために祈ったとき、⟨את⟩イヨブの捕囚を帰らせた。そしてヤハウェは⟨את⟩すべて、イヨブのものを二倍に加えた。",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "そしてヤハウェ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "帰らせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イヨブの捕囚"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "捕囚"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "イヨブの"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "彼が祈ったとき"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "彼の友人"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "そして加えた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "イヨブの"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "二倍に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:45.031490359Z",
+  "model": "glm-5.2"
+}

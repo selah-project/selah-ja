@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼は⟨את⟩鋳造の海を作った。縁から縁まで十アンマ、全面的に丸く、その高さは五アンマ、そして三十アンマの測り縄が⟨את⟩それを周囲として回っていた。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…作った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "鋳造の海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "鋳造の"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "アンマで"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "その縁から"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "その縁"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "丸い"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲に"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "そして五"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "アンマで"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "その高さ"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "そして測り縄"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "アンマで"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "回っていた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:52.246620639Z",
+  "model": "glm-5.2"
+}

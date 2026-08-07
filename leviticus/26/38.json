@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そしてあなたがたは諸国民のうちで滅び、あなたがたの敵の地が⟨あなたがたを⟩食い尽くす。",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "そしてあなたがたは滅びる"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "諸国民のうちで"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "そして〜は食い尽くす"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがた"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "あなたがたの敵の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:03.888586809Z",
+  "model": "glm-5.2"
+}

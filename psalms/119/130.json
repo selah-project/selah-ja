@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "あなたのことばの開きは光を放つ、純朴な者に理解を与える。",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "開き"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "あなたのことばの"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "光を放つ"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "理解を与える"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "純朴な者に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:35.207630757Z",
+  "model": "glm-5.2"
+}

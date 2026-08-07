@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてヤハウェは去って行った — アブラハムに向かって語り終えた通りに — アブラハムは自分の場所へと帰って行った。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして去って行った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜通りに"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "終えた"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "語ることを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "そしてアブラハムは"
+    },
+    {
+      "surface": "שב",
+      "gloss": "帰った"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "自分の場所へ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:53:24.911003787Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "あなたが私たちを試されたからだ、エロヒムよ。あなたは私たちを精錬された、銀が精錬されるように。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "私たちを試された"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "あなたは私たちを精錬された"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "〜が精錬されるように"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:43.336065386Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 12:25",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "しかし、もし悪を行って悪をなすなら、あなたがたも、あなたがたの王も、ともに滅び払われる。」",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "しかし、もし"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "悪を行って"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "悪をなすなら"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたがた"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "あなたがたの王"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "滅び払われる"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:55.953417626Z",
+  "model": "glm-5.2"
+}

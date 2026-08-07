@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして彼らは言うであろう。「彼らが、ヤハウェ、⟨彼らの⟩父祖たちのエロヒムとの契約——⟨彼ら⟩をエジプトの地から導き出されたときに⟨彼ら⟩と結ばれたもの——を捨てたからである」と。",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "そして彼らは言うであろう"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "彼らが捨てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ…の契約"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…のエロヒム"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "彼らの父祖たち"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "結ばれた"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "彼らと"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "導き出されたときに"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "〜の地から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "エジプト"
+    }
+  ],
+  "timestamp": "2026-08-07T10:20:24.937283876Z",
+  "model": "glm-5.2"
+}

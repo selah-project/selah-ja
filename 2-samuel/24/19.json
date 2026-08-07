@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "ダビデはヤハウェが命じたとおり、ガドの言葉どおりに上って行った。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "そして上って行った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "〜の言葉どおりに"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ガド"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜したとおり"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:14.717152140Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "というのも、悲しみによって私の命は尽き、ため息によって私の年月も⟨同様である⟩。私の咎のゆえに私の力はよろめき、私の骨は衰えた。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "尽きた"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "悲しみによって"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "私の命は"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "そして私の年月も"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "ため息によって"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "よろめいた"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "私の咎のゆえに"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "私の力は"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "そして私の骨は"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "衰えた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:26.487517122Z",
+  "model": "glm-5.2"
+}

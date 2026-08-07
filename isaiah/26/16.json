@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "ヤハウェよ、苦悩の中で彼らはあなたを尋ね求めた。彼らはささやきを注ぎ出した。あなたの訓戒が ⟨彼らの上にあった⟩。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "苦悩の中で"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "彼らはあなたを尋ね求めた"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "彼らは注ぎ出した"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "ささやきを"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "あなたの訓戒が"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:24.296789818Z",
+  "model": "glm-5.2"
+}

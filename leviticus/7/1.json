@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてこれが贖罪献げ物のトーラである。それは至聖である。",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "そしてこれが"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "トーラ"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "贖罪献げ物の"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "聖なるものの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは⟨ある⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T09:33:16.314769674Z",
+  "model": "glm-5.2"
+}

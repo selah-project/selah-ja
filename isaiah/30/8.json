@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "今、来い、これを書け — 彼らの前に、書き物の板に。そして巻物に、これを刻め。そしてこれは終わりの日のため、永久に、永遠まで ⟨ある⟩べきものとなれ。",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "来い"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "書け"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "板"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "彼らの前に"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "巻物"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "刻め"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "そして〜となれ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "〜の日のために"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "終わり"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "永久に"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:32.958893816Z",
+  "model": "glm-5.2"
+}

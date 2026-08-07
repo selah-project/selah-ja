@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "愚か者は ⟨自分の⟩ 手を抱き、⟨自分の⟩ 肉を食らう。",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "愚か者"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "抱く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の手"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "自分の手"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "そして食らう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の肉"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "自分の肉"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:28.276664514Z",
+  "model": "glm-5.2"
+}

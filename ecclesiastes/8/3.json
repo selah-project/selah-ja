@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "彼の前から慌てて去るな、悪事に立ちどまるな、彼が望むすべてのことを彼は行うのだから。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "慌てて"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "彼の前から"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "去る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "立ちどまる"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "…事に"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "כי",
+      "gloss": "のだから"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "こと"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "彼が望む"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "彼は行う"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:53.874332611Z",
+  "model": "glm-5.2"
+}

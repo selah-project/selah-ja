@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして塵はあったとおりに地の上に帰り、霊はそれを与えたエロヒムへ帰る。",
+  "tokens": [
+    {
+      "surface": "וְיָשֹׁ֧ב",
+      "gloss": "そして帰り"
+    },
+    {
+      "surface": "הֶעָפָ֛ר",
+      "gloss": "塵は"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כְּשֶׁהָיָ֑ה",
+      "gloss": "あったとおりに"
+    },
+    {
+      "surface": "וְהָר֣וּחַ",
+      "gloss": "そして霊"
+    },
+    {
+      "surface": "תָּשׁ֔וּב",
+      "gloss": "帰る"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הָאֱלֹהִ֖ים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נְתָנָֽהּ",
+      "gloss": "それを与えた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:42.666299171Z",
+  "model": "glm-5.2"
+}

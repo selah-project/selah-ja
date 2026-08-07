@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼は青銅の祭壇を作った。長さ二十アンマ、幅二十アンマ、高さ十アンマ。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…作った"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "その長さ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "と二十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "その幅"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "と十"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "その高さ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:52.246435816Z",
+  "model": "glm-5.2"
+}

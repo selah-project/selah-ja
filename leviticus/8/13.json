@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 8:13",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "モーシェは⟨アハロンの⟩⟨את⟩アハロンの息子たちを近づけ、彼らに長衣を着せ、彼らを⟨את⟩帯で締め、彼らに頭巾を巻き付けた。ヤハウェがモーシェに⟨את⟩命じたとおりであった。",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "近づけた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アハロンの息子たち"
+    },
+    {
+      "surface": "בני",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロンの"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "着せた"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "長衣"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "締めた"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "帯"
+    },
+    {
+      "surface": "אבנט",
+      "gloss": "帯"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "巻き付けた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "頭巾"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のとおり"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーシェ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:26.862148174Z",
+  "model": "glm-5.2"
+}

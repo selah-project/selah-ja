@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そして彼が行ったことはヤハウェの目に悪かった。それで⟨ヤハウェ⟩は彼をも死なせた。",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֛רַע",
+      "gloss": "悪かった"
+    },
+    {
+      "surface": "בְּעֵינֵ֥י",
+      "gloss": "目に"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "ことは"
+    },
+    {
+      "surface": "עָשָׂ֑ה",
+      "gloss": "彼が行った"
+    },
+    {
+      "surface": "וַיָּ֖מֶת",
+      "gloss": "死なせた"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "も"
+    },
+    {
+      "surface": "אֹתֽוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    }
+  ],
+  "timestamp": "2026-08-07T16:25:41.012730514Z",
+  "model": "glm-5.2"
+}

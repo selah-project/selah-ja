@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして私のために大量の木材を準備するため⟨に⟩。私が建てようとしているその家は大いなる、驚くべきものだからだ。",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "そして準備する"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "木材を"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "大量に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私が"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "建てようとしている"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "驚くべき"
+    }
+  ],
+  "timestamp": "2026-08-07T14:11:04.147842319Z",
+  "model": "glm-5.2"
+}

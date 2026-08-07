@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "あるいは彼が犯した自分の罪が彼に知らされたなら、彼は⟨את⟩自分の供え物として、傷のない雄のやぎを連れて来なければならない。",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "知らされたなら"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "自分の罪が"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "彼が犯した"
+    },
+    {
+      "surface": "בה",
+      "gloss": "それを"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "そして彼は連れて来る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の供え物"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "自分の供え物を"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "やぎの"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "雄を"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "雄の"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "傷のない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:33:14.994633795Z",
+  "model": "glm-5.2"
+}

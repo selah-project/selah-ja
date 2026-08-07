@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "義人について言え、それは良い ⟨ことである⟩と。彼らは自分たちの行いの実を食べる ⟨から⟩と。",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "言え"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人について"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨⟩と"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨から⟩"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "実を"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "自分たちの行いの"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "彼らは食べる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:48.952910053Z",
+  "model": "glm-5.2"
+}

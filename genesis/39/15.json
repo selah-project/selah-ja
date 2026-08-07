@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 39:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "こうして⟨あった⟩、彼の聞いたとき、私が声を上げて叫んだのを、⟨彼⟩は⟨彼⟩の衣を私のそばに残し、逃げ、外へ出て行った。」",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "こうして⟨あった⟩"
+    },
+    {
+      "surface": "כשמעו",
+      "gloss": "彼の聞いたとき"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜のを"
+    },
+    {
+      "surface": "הרימתי",
+      "gloss": "私が上げた"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "私の声を"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "叫んだ"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "残した"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "⟨彼⟩の衣を"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "私のそばに"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "逃げ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出て行った"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "外へ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:33.839863590Z",
+  "model": "glm-5.2"
+}

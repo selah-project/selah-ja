@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 6:15",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "彼は⟨את⟩その家の壁を内側から建てた — 杉の板で、その家の床から天井の壁まで。内側に木を張り付け、杉の板でその家の床を張り付けた。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "壁"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "壁"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家の"
+    },
+    {
+      "surface": "מביתה",
+      "gloss": "内側から"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "板で"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "杉の"
+    },
+    {
+      "surface": "מקרקע",
+      "gloss": "床から"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家の"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "壁"
+    },
+    {
+      "surface": "הספן",
+      "gloss": "天井の"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "張り付けた"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木を"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "内側に"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "張り付けた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "床"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "床"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家の"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "板で"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "杉の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:13.987598996Z",
+  "model": "glm-5.2"
+}

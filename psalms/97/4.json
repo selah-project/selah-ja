@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 97,
+  "translation": "⟨彼の⟩いなずまが世界を照らした、地は見て、震えた。",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "照らした"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "⟨彼の⟩いなずまが"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界を"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "見て"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "震えた"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:44.736459447Z",
+  "model": "glm-5.2"
+}

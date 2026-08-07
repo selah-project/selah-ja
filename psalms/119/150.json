@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "悪巧みを追う者たちが近づいて来た、あなたのトーラーから彼らは遠ざかった",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "近づいて来た"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "追う者たち"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "悪巧み"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "あなたのトーラーから"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "遠ざかった"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:59.829604155Z",
+  "model": "glm-5.2"
+}

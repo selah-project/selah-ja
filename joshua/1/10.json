@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ヨシュアは民の長官たちに命じて言った — ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "וַיְצַ֣ו",
+      "gloss": "そして彼は命じた"
+    },
+    {
+      "surface": "יְהוֹשֻׁ֔עַ",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "民の長官たち"
+    },
+    {
+      "surface": "שֹׁטְרֵ֥י",
+      "gloss": "長官たちの"
+    },
+    {
+      "surface": "הָעָ֖ם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "言って"
+    }
+  ],
+  "timestamp": "2026-08-07T10:23:28.676243908Z",
+  "model": "glm-5.2"
+}

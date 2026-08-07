@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "イスラエルの子らはモシェの言葉通りに行い、ミツライムから銀の器具と金の器具と衣服を求めた。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "〜の子らは"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "行った"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "〜の言葉通りに"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "求めた"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ミツライムから"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具を"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "〜の器具と"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "衣服を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:32.875266477Z",
+  "model": "glm-5.2"
+}

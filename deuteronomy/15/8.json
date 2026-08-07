@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "必ずあなたの手を彼に開き、必ず彼に貸す ⟨彼に⟩ ― 彼の欠乏の十分、彼に欠けているものを。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "必ず"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "開き"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "あなたは開く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの手を"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手を"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "必ず貸し"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "あなたは彼に貸す"
+    },
+    {
+      "surface": "די",
+      "gloss": "十分"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "彼の欠乏の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（関係詞）"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "欠けている"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:14:04.480826056Z",
+  "model": "glm-5.2"
+}

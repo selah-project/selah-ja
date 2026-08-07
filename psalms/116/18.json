@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 116,
+  "translation": "私の誓願を、ヤハウェに、私は果たす。どうか、すべての⟨彼の⟩民の面前において。",
+  "tokens": [
+    {
+      "surface": "נְדָרַי",
+      "gloss": "私の誓願を"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "אֲשַׁלֵּם",
+      "gloss": "私は果たす"
+    },
+    {
+      "surface": "נֶגְדָה",
+      "gloss": "〜の面前において"
+    },
+    {
+      "surface": "נָּא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עַמּוֹ",
+      "gloss": "彼の民"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:09.966101413Z",
+  "model": "glm-5.2"
+}

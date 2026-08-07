@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 14:8",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてゼラフ・ハ・クシが彼らに対して出て来た。百万の軍勢と、戦車三百で。そして彼はマレシャまで来た。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て来た"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らに対して"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ゼラフが"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "ハ・クシ（クシュ人）"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "軍勢で"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千の"
+    },
+    {
+      "surface": "ומרכבות",
+      "gloss": "そして戦車"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "マレシャに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:13:37.939302234Z",
+  "model": "glm-5.2"
+}

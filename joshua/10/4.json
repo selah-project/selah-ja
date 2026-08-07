@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "「私のもとに上り、私を助け、私たちが⟨את⟩ギブオンを打とう。彼らがヨシュアおよびイスラエルの子らと和睦したのだから。」",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "上れ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のもとに"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "そして私を助けよ"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "私たちが打とう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ギブオン"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ギブオンを"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "和睦した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨシュア"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:26:38.055548632Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして⟨את⟩彼の武具を彼らのエロヒムの家に置き、⟨את⟩彼の頭蓋をダゴンの家に打ち込んだ。",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "置き"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の武具"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "彼の武具"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "彼らのエロヒムの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼の頭蓋"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "彼の頭蓋"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "打ち込んだ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ダゴン"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:47.810790629Z",
+  "model": "glm-5.2"
+}

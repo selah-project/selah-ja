@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "なぜなら、あなたを、ヤハウェ、わたしは待ち望んだからだ。あなたが答えてくださる、アドナイ、わたしのエロヒム。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら…からだ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたを"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "わたしは待ち望んだ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "答えてくださる"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "わたしのエロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:18.993029333Z",
+  "model": "glm-5.2"
+}

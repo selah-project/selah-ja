@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 6:20",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして祭司はそれらをヤハウェの前で揺りの供え物として揺り動かす。それは揺りの胸と奉納のももと共に祭司への聖なるものである。その後、ナジル人はぶどう酒を飲むことができる。",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "そして揺り動かす"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "それらを⟨את⟩",
+      "marks": "祭司の奉献物"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司は"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "揺りの供え物"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "祭司への"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "胸"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "揺りの"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜と共に"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "もも"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "奉納の"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "その後"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "飲む"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "ナジル人は"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ぶどう酒"
+    }
+  ],
+  "timestamp": "2026-08-07T09:51:15.599161389Z",
+  "model": "glm-5.2"
+}

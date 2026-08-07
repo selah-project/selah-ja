@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 85,
+  "translation": "私は聞こう、エル・ヤハウェが語ることを。まことに⟨彼は⟩平和を語る、⟨彼の⟩民へ、そして⟨彼の⟩敬虔な者たちへ。しかし彼らが愚かさへ戻らないように。",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "私は聞こう"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "語る"
+    },
+    {
+      "surface": "האל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "⟨彼は⟩語る"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平和"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨彼の⟩民"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜へ"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "⟨彼の⟩敬虔な者たち"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "しかし〜ないように"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "彼らが戻る"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "愚かさへ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:54:52.104088007Z",
+  "model": "glm-5.2"
+}

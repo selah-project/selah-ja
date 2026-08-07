@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "そして贖い主はツィヨンに、ヤコブの中の背きから立ち返る者たちのもとに来る、とヤハウェは語る。",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "そして来る"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "ツィヨンに"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "贖い主が"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "そして…のもとに"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "背き"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ヤコブの中の"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "…の語り"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:51.126894317Z",
+  "model": "glm-5.2"
+}

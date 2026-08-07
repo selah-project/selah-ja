@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして全イスラエルは系図に登録され、見よ、彼らはイスラエルとユダの王たちの書に記されている。ユダは背きのゆえにバビロンに捕囚として移された。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そして全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "系図に登録された"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "見よ、彼らは"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "記されている"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "書"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たちの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "とユダ"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "捕囚として移された"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "バビロンに"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "彼らの背きにおいて"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:33.435117797Z",
+  "model": "glm-5.2"
+}

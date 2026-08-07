@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "私たちの先祖たちと共に私たちは罪を犯した、私たちは曲げた、私たちは悪を行った。",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "私たちは罪を犯した"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "私たちの先祖たち"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "私たちは曲げた"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "私たちは悪を行った"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:17.685139603Z",
+  "model": "glm-5.2"
+}

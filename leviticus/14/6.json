@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 14:6",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "⟨את⟩生きている鳥を、彼はそれを取り、そして⟨את⟩杉の木と、⟨את⟩緋色の虫糸と、⟨את⟩ヒソプを、そしてそれらと⟨את⟩生きている鳥を、屠られた鳥の血のうちに、生きた水の上で浸す。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "生きている鳥"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "生きている"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "彼は取る"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "それを"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "杉の木"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "杉"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "緋色の虫糸"
+    },
+    {
+      "surface": "שני",
+      "gloss": "緋色の"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "虫糸"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ヒソプ"
+    },
+    {
+      "surface": "האזב",
+      "gloss": "ヒソプ"
+    },
+    {
+      "surface": "וטבל",
+      "gloss": "そして浸す"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "それらを"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "生きている鳥"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "生きている"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "血のうちに"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "השחטה",
+      "gloss": "屠られた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "生きた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:55.334899610Z",
+  "model": "glm-5.2"
+}

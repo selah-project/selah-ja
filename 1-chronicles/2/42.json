@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 2:42",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてエラフメエルの兄弟カレブの子ら: メイシャはその長子、彼はツィフの父。そしてマレシャの子ら: ヘブロンの父。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "そして〜の子ら"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "カレブ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "〜の兄弟"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "エラフメエル"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "メイシャ"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "その長子"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ツィフ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "そして〜の子ら"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "マレシャ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ヘブロン"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:36.250109685Z",
+  "model": "glm-5.2"
+}

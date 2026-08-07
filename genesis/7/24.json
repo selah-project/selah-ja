@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして水は地の上で強さを増した。五十と百の日。",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "そして強さを増した"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水は"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "と百の"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:15.490968272Z",
+  "model": "glm-5.2"
+}

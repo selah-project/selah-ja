@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 2:12",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "これについて天々は愕然とせよ、おののけ、ひどく荒廃せよ、ヤハウェの御告げ。",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "愕然とせよ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天々は"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これ"
+    },
+    {
+      "surface": "ושערו",
+      "gloss": "おののけ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "荒廃せよ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ひどく"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:38:22.939001056Z",
+  "model": "glm-5.2"
+}

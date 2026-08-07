@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "その薄暮の星々は暗くなれ。光を待ち望め、しかし⟨それは⟩ないように。暁のまぶたを見ることのないように。」",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "暗くなれ"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "星々は"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "その薄暮の"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "待ち望め"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "光を"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "しかし⟨それは⟩ないように"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "〜のないように"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "見ること"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "まぶたを"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "暁の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:51.710428110Z",
+  "model": "glm-5.2"
+}

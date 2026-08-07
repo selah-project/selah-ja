@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 14:17",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "ダビデの名声はすべての地に広まり、ヤハウェは⟨彼の⟩恐れをすべての国々の上に置かれた。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "広まり"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名声"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "地に"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "置かれた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の恐れ"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "彼の恐れ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "国々"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:52.612676906Z",
+  "model": "glm-5.2"
+}

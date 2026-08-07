@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "送れ — ⟨一匹の⟩羊を、地の支配者 ⟨へ⟩。セラの岩から荒野 ⟨を経て⟩、ツィヨンの娘の山 ⟨へ⟩。",
+  "tokens": [
+    {
+      "surface": "שִׁלְחוּ",
+      "gloss": "送れ"
+    },
+    {
+      "surface": "כַ֥ר",
+      "gloss": "羊を"
+    },
+    {
+      "surface": "מֹשֵֽׁל",
+      "gloss": "支配者"
+    },
+    {
+      "surface": "אֶ֖רֶץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "מִסֶּ֣לַע",
+      "gloss": "セラの岩から"
+    },
+    {
+      "surface": "מִדְבָּ֑רָה",
+      "gloss": "荒野へ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הַ֖ר",
+      "gloss": "山"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "娘の"
+    },
+    {
+      "surface": "צִיּֽוֹן",
+      "gloss": "ツィヨン"
+    }
+  ],
+  "timestamp": "2026-08-07T14:45:07.815732126Z",
+  "model": "glm-5.2"
+}

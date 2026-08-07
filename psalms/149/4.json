@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 149,
+  "translation": "まことにヤハウェはご自身の民を喜ばれる。⟨彼は⟩アナヴィムを救いによって飾られる。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "喜ばれる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ご自身の民を"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "飾られる"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "アナヴィム（へりくだった者たち）を"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "救いによって"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:35.813687488Z",
+  "model": "glm-5.2"
+}

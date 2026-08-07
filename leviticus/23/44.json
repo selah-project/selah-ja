@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そしてモーシェはヤハウェの定められた時についてイスラエルの子らに語った。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして彼は語った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの定められた時"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "定められた時"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:38.066379942Z",
+  "model": "glm-5.2"
+}

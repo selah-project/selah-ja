@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 52:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "見よ、その人はエロヒムを⟨自分の⟩避け所と定めず、己の富の多くなるに頼り、己の滅びにあって強くなった者だ。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "その人は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ず"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "定め"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムを"
+    },
+    {
+      "surface": "מעוזו",
+      "gloss": "⟨自分の⟩避け所"
+    },
+    {
+      "surface": "ויבטח",
+      "gloss": "頼り"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "多くなるに"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "己の富の"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "強くなった"
+    },
+    {
+      "surface": "בהותו",
+      "gloss": "己の滅びにあって"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:49.640318289Z",
+  "model": "glm-5.2"
+}

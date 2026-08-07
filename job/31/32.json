@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "外で ⟨寄留者は⟩ 宿まらない、私の門を ⟨私は⟩ 旅人に開く。",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "外で"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "宿まる"
+    },
+    {
+      "surface": "גר",
+      "gloss": "寄留者が"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "私の門を"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "旅人に"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "私は開く"
+    }
+  ],
+  "timestamp": "2026-08-07T13:28:18.483698129Z",
+  "model": "glm-5.2"
+}

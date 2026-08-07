@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 39:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そしてこうなった — 彼女がヨセフに語りかけていたように、日々、日の毎日に — そして彼は彼女に耳を傾けなかった、彼女のそばに寝るために、彼女と共にあるために。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうなった"
+    },
+    {
+      "surface": "כדברה",
+      "gloss": "彼女が語りかけていたように"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日の毎日に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "耳を傾けた"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "寝るために"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "彼女のそばに"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "あるために"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "彼女と共に"
+    }
+  ],
+  "timestamp": "2026-08-07T16:25:44.134157290Z",
+  "model": "glm-5.2"
+}

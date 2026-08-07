@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "終日、私の辱めは私の前にあり、私の顔の恥が私を覆った。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הַ֭יּוֹם",
+      "gloss": "日"
+    },
+    {
+      "surface": "כְּלִמָּתִ֣י",
+      "gloss": "私の辱めは"
+    },
+    {
+      "surface": "נֶגְדִּ֑י",
+      "gloss": "私の前に"
+    },
+    {
+      "surface": "וּבֹ֖שֶׁת",
+      "gloss": "そして恥が"
+    },
+    {
+      "surface": "פָּנַ֣י",
+      "gloss": "私の顔の"
+    },
+    {
+      "surface": "כִּסָּֽתְנִי",
+      "gloss": "私を覆った"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:39.365365514Z",
+  "model": "glm-5.2"
+}

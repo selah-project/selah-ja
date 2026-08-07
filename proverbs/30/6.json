@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 30:6",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "彼の言葉に付け加えてはならない。さもないと、彼があなたを責め、あなたが偽り者であると〈見出される〉ことになる。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "付け加えては"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "彼の言葉"
+    },
+    {
+      "surface": "פן",
+      "gloss": "さもないと"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "彼が責める"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたを"
+    },
+    {
+      "surface": "ונכזבת",
+      "gloss": "そしてあなたは偽り者である"
+    }
+  ],
+  "timestamp": "2026-08-07T17:46:35.310886718Z",
+  "model": "glm-5.2"
+}

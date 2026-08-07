@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そこで私は、⟨את⟩ヤアザヌヤ――ヤルメヤの子、ハバツヌヤの子――と、⟨את⟩その兄弟たちと、⟨את⟩そのすべての子らと、⟨את⟩レカブ人の全家のすべてを取った。",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤアザヌヤ"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "ヤアザヌヤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ヤルメヤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "ハバツヌヤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その兄弟たち"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "その兄弟たち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "そのすべての子ら"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "彼の子ら"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "レカブ人の全家のすべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "レカブ人の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:52:37.341868212Z",
+  "model": "glm-5.2"
+}

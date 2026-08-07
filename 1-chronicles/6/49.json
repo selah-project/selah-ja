@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてイスラエルの子らはレヴィ人に⟨与えた⟩、⟨את⟩諸々の町々と⟨את⟩その牧地を。",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "そして〜た"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "レヴィ人に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸々の町々"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "諸々の町々"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その牧地"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "その牧地"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:20.477863135Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "雲が雨で満ちれば、地の上にそれを注ぎ出し、木が南に倒れても、北に倒れても、木の倒れる場所、そこにそれはある。",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יִמָּלְא֨וּ",
+      "gloss": "満ちれば"
+    },
+    {
+      "surface": "הֶעָבִ֥ים",
+      "gloss": "雲が"
+    },
+    {
+      "surface": "גֶּ֨שֶׁם֙",
+      "gloss": "雨で"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "הָאָ֣רֶץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "יָרִ֔יקוּ",
+      "gloss": "注ぎ出す"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יִפּ֥וֹל",
+      "gloss": "倒れても"
+    },
+    {
+      "surface": "עֵ֛ץ",
+      "gloss": "木が"
+    },
+    {
+      "surface": "בַּדָּר֖וֹם",
+      "gloss": "南に"
+    },
+    {
+      "surface": "וְאִ֣ם",
+      "gloss": "…あるいはもし"
+    },
+    {
+      "surface": "בַּצָּפ֑וֹן",
+      "gloss": "北に"
+    },
+    {
+      "surface": "מְק֛וֹם",
+      "gloss": "…の場所"
+    },
+    {
+      "surface": "שֶׁיִּפּ֥וֹל",
+      "gloss": "倒れる"
+    },
+    {
+      "surface": "הָעֵ֖ץ",
+      "gloss": "木が"
+    },
+    {
+      "surface": "שָׁ֥ם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "יְהֽוּא",
+      "gloss": "それはある"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:30.199917151Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "モーセは来て、民の長老たちを呼び集め、ヤハウェが彼に命じられたこれらのすべての言葉を彼らの前に⟨את⟩置いた。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "来て"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセは"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "呼び集め"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "…の長老たちを"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "彼らの前に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらのすべての言葉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…を"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "彼に命じられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:46.279217709Z",
+  "model": "glm-5.2"
+}

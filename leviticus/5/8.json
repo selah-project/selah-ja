@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして彼はそれらを祭司のもとに携えて来る。そして祭司は罪の捧げ物のためのものを最初に近づけて供え、その頭をうなじの後ろで摘み切る——ただし切り離してはならない。",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "そして…携えて来る"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩それらを",
+      "marks": "二羽の鳩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のもとに"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "そして近づける"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "罪の捧げ物のためのもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "罪の捧げ物のための"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "最初に"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "そして摘み切る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その頭"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "その頭を"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "…の後ろで"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "そのうなじ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…してはならない"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "切り離す"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:14.348130697Z",
+  "model": "glm-5.2"
+}

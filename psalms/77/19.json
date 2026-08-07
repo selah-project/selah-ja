@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 77,
+  "translation": "あなたの雷鳴のとどろきは〈旋風の中にあった〉。いなずま々は世界を照らした。地は震え、揺れ動いた。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "声は"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "あなたの雷鳴の"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "旋風の中に"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "照らした"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "いなずま々は"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界を"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "震え"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "揺れ動いた"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:58.261569073Z",
+  "model": "glm-5.2"
+}

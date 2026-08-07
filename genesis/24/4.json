@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "すなわち、あなたは私の地に、そして私の親族のところへ行き、私の息子イツハクのために妻を娶らなければならない。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "すなわち"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "私の地に"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜へ"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "私の親族のところ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "あなたは行き"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "そして娶らなければならない"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "妻を"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "私の息子のために"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "イツハクのために"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:49.344609196Z",
+  "model": "glm-5.2"
+}

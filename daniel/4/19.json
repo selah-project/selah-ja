@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 4:19",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "あなたこそ⟨その⟩王、大きくなり強くなった方。あなたの偉大さは大きく、天にまで及び、あなたの支配は地の果てに〈及ぶ⟩。",
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "こそ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王"
+    },
+    {
+      "surface": "די",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "大きくなり"
+    },
+    {
+      "surface": "ותקפת",
+      "gloss": "強くなった"
+    },
+    {
+      "surface": "ורבותך",
+      "gloss": "あなたの偉大さは"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "大きく"
+    },
+    {
+      "surface": "ומטת",
+      "gloss": "及び"
+    },
+    {
+      "surface": "לשמיא",
+      "gloss": "天にまで"
+    },
+    {
+      "surface": "ושלטנך",
+      "gloss": "あなたの支配は"
+    },
+    {
+      "surface": "לסוף",
+      "gloss": "果てに"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:45:30.691058716Z",
+  "model": "glm-5.2"
+}

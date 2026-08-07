@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 16:12",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "忆えよ、〈彼が〉行った〈彼の〉驚異を、〈彼の〉しるしと、〈彼の〉口の裁きを。",
+  "tokens": [
+    {
+      "surface": "זִכְר֗וּ",
+      "gloss": "忆えよ"
+    },
+    {
+      "surface": "נִפְלְאֹתָיו֙",
+      "gloss": "〈彼の〉驚異を"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "〈彼が〉"
+    },
+    {
+      "surface": "עָשָׂ֔ה",
+      "gloss": "行った"
+    },
+    {
+      "surface": "מֹפְתָ֖יו",
+      "gloss": "〈彼の〉しるしと"
+    },
+    {
+      "surface": "וּמִשְׁפְּטֵי",
+      "gloss": "…裁きを"
+    },
+    {
+      "surface": "פִֽיהוּ",
+      "gloss": "〈彼の〉口の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:17.071014635Z",
+  "model": "glm-5.2"
+}

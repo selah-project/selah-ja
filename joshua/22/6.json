@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 22:6",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そしてヨシュワは彼らを祝福し、彼らを去らせた。そして彼らは ⟨自分たちの⟩ 天幕へ向かった。」",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "そして彼らを祝福した"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュワ"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "彼らを去らせた"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "そして彼らは行った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "彼らの天幕"
+    }
+  ],
+  "timestamp": "2026-08-07T10:30:31.293512064Z",
+  "model": "glm-5.2"
+}

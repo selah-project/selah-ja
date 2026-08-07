@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "これらはヤハウェがモーシェに命じた⟨את⟩、イスラエルの子らに対する、シナイの山での、ミツァボットである。",
+  "tokens": [
+    {
+      "surface": "אֵ֣לֶּה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "הַמִּצְוֺ֗ת",
+      "gloss": "ミツァボット（命令）"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "צִוָּ֧ה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "モーシェ"
+    },
+    {
+      "surface": "מֹשֶׁ֖ה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に対する"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בְּהַ֖ר",
+      "gloss": "〜の山で"
+    },
+    {
+      "surface": "סִינָֽי",
+      "gloss": "シナイ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:13.627526432Z",
+  "model": "glm-5.2"
+}

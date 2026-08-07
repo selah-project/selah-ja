@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 23:18",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "アブラハムへ、買い取得として、ヘトの子らの目の前で、彼の町の門に入るすべての者⟨の前で⟩。",
+  "tokens": [
+    {
+      "surface": "לאברהם",
+      "gloss": "アブラハムへ"
+    },
+    {
+      "surface": "למקנה",
+      "gloss": "買い取得として"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "〜の目の前で"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ヘト"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "באי",
+      "gloss": "入る者"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "彼の町の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:40.774126284Z",
+  "model": "glm-5.2"
+}

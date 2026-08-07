@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "彼は永遠に忆えた彼の契約を、千世代に命じた御言葉を",
+  "tokens": [
+    {
+      "surface": "זָכַ֣ר",
+      "gloss": "忆えた"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "בְּרִית֑וֹ",
+      "gloss": "彼の契約を"
+    },
+    {
+      "surface": "דָּבָ֥ר",
+      "gloss": "御言葉を"
+    },
+    {
+      "surface": "צִ֝וָּ֗ה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "לְאֶ֣לֶף",
+      "gloss": "千…に"
+    },
+    {
+      "surface": "דּֽוֹר",
+      "gloss": "世代"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:55.412550696Z",
+  "model": "glm-5.2"
+}

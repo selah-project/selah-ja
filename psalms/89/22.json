@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "わたしの手は彼とともに確立されよう、まことにわたしの腕が彼を強める",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "わたしの手"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "確立されよう"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼とともに"
+    },
+    {
+      "surface": "אף",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "わたしの腕"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "彼を強める"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:25.640423083Z",
+  "model": "glm-5.2"
+}

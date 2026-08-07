@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "彼らは知らず、理解しない。⟨彼が⟩彼らの目の見ることを塗りふさいだから、彼らの心の分別を⟨塗りふさいだから⟩。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "彼らは知った"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そしてない"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "彼らは理解した"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "טח",
+      "gloss": "塗りふさいだ"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "見ることから"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "彼らの目の"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "分別することから"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "彼らの心の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:34:49.017815566Z",
+  "model": "glm-5.2"
+}

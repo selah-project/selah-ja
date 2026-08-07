@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "風を見張る者は種蒔かず、雲を見る者は刈り入れない。",
+  "tokens": [
+    {
+      "surface": "שֹׁמֵ֥ר",
+      "gloss": "見張る者は"
+    },
+    {
+      "surface": "ר֖וּחַ",
+      "gloss": "風を"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "יִזְרָ֑ע",
+      "gloss": "種蒔く"
+    },
+    {
+      "surface": "וְרֹאֶ֥ה",
+      "gloss": "…また見る者は"
+    },
+    {
+      "surface": "בֶעָבִ֖ים",
+      "gloss": "雲を"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "יִקְצֽוֹר",
+      "gloss": "刈り入れる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:30.200046114Z",
+  "model": "glm-5.2"
+}

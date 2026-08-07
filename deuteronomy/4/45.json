@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 4:45",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "これらは ⟨その⟩ あかし、および ⟨その⟩ 定め、および ⟨その⟩ 裁きである。これらはモシェがイスラエルの子らに語ったもので、彼らがミツライムから出て行ったとき ⟨のことである⟩。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "あかし"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "および定め"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "および裁き"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "彼らが〜から出て行ったとき"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ミツライム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:27.000475027Z",
+  "model": "glm-5.2"
+}

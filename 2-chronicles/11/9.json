@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして⟨アドラィム⟩を、そして⟨ラキシュ⟩を、そして⟨アゼカ⟩を、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アドラィム"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "アドラィム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ラキシュ"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ラキシュ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アゼカ"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "アゼカ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:07.018178235Z",
+  "model": "glm-5.2"
+}

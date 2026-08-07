@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして四十キュビット⟨あった⟩、その家、すなわちそれ—⟨その⟩神殿⟨は⟩—その手前に⟨あった⟩。",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "そして四十"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "キュビットで"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨あった⟩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "すなわちそれ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "⟨その⟩神殿"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "その手前に"
+    }
+  ],
+  "timestamp": "2026-08-07T18:30:27.702569335Z",
+  "model": "glm-5.2"
+}

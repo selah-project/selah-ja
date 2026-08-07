@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 2:3",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ユダの子ら、エル、およびオナン、およびシェラ、これら三人がシュアの娘、カナン人の女から彼に生まれた。エルはユダの長子であったが、ヤハウェの目に悪であったので、⟨ヤハウェ⟩は彼を死なせた。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "エル"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "およびオナン"
+    },
+    {
+      "surface": "ושלה",
+      "gloss": "およびシェラ"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "三人"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "מבת",
+      "gloss": "…の娘から"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "シュア"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "カナン人の女"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "…であった"
+    },
+    {
+      "surface": "ער",
+      "gloss": "エル"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "長子"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…の目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "そして彼を死なせた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:42.549145294Z",
+  "model": "glm-5.2"
+}

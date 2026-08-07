@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そして彼は⟨את⟩中庭を作った。南側、南の方角に、中庭の幕は撚り糸の亜麻、百アンマであった。",
+  "tokens": [
+    {
+      "surface": "וַיַּ֖עַשׂ",
+      "gloss": "そして彼は作った"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "中庭"
+    },
+    {
+      "surface": "הֶחָצֵ֑ר",
+      "gloss": "中庭"
+    },
+    {
+      "surface": "לִפְאַ֣ת",
+      "gloss": "〜の側に"
+    },
+    {
+      "surface": "נֶ֣גֶב",
+      "gloss": "南"
+    },
+    {
+      "surface": "תֵּימָ֗נָה",
+      "gloss": "南の方角に"
+    },
+    {
+      "surface": "קַלְעֵ֤י",
+      "gloss": "幕"
+    },
+    {
+      "surface": "הֶֽחָצֵר֙",
+      "gloss": "中庭の"
+    },
+    {
+      "surface": "שֵׁ֣שׁ",
+      "gloss": "亜麻"
+    },
+    {
+      "surface": "מָשְׁזָ֔ר",
+      "gloss": "撚り糸の"
+    },
+    {
+      "surface": "מֵאָ֖ה",
+      "gloss": "百"
+    },
+    {
+      "surface": "בָּאַמָּֽה",
+      "gloss": "アンマ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:56.767280600Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ことばが多く、ヘベルを増し加えるものが多いからである。人に何が余るのか。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "だからである"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ある"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ことばが"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "多く"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "増し加える"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ヘベルを"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何が"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "余るのか"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "人に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:00.532457762Z",
+  "model": "glm-5.2"
+}

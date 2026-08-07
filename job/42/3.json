@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "「知識もなく計画を隠す者は誰か、これは。」それゆえ、わたしは語ったが、悟らず — わたしにはあまりに驚くべきこと、知り得なかったことを。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰か"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これは"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "隠す者"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "計画を"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "…なく"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "わたしは語った"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "悟り"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "驚くべきこと"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "わたしには…すぎる"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…なかった"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "知り得"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:11.425743964Z",
+  "model": "glm-5.2"
+}

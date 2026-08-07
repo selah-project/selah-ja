@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "彼は自分の墓に葬られた、ウザの園に。そして彼の子ヨシヤが彼に代わって王となった。",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "葬られた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "自分の墓に"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "〜の園に"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ウザの"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "יואשיהו",
+      "gloss": "ヨシヤが"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼に代わって"
+    }
+  ],
+  "timestamp": "2026-08-07T11:17:04.136102827Z",
+  "model": "glm-5.2"
+}

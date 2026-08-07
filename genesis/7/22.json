@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "すべての——その鼻に生命の息の息吹があるものが、乾いた地にいるすべてのもののうちから、死んだ。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "息吹"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "息"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "生命の"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "その鼻にある"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "すべての〜のうちから"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "乾いた地にいる"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "死んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:49:15.490752470Z",
+  "model": "glm-5.2"
+}

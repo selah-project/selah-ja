@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして⟨彼⟩が呼ぶ声で、敷居の柱が揺れ、家は煙で満たされた。",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "揺れ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "柱"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "敷居の"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "…の声で"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "⟨彼⟩が呼ぶ"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "そして家"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "満たされた"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "煙で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:15.224245319Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ハ・エミムは以前そこに住んでいた。大きく、数多く、背の高い民で、⟨アナキム⟩のようであった。",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "ハ・エミム"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "以前"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "住んでいた"
+    },
+    {
+      "surface": "בה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大きく"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "数多く"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "背が高い"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "アナキムのようで"
+    }
+  ],
+  "timestamp": "2026-08-07T17:43:03.041275221Z",
+  "model": "glm-5.2"
+}

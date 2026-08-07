@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "さあ、私は立ち上がり、町を巡り、市場で、また大通りで、私は求めよう ⟨את⟩ 私のネフェシュが愛する方を。私は⟨彼を⟩求めたが、見つけなかった。",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "私は立ち上がろう"
+    },
+    {
+      "surface": "נא",
+      "gloss": "さあ"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "そして私は巡ろう"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町を"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "市場で"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "そして大通りで"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "私は求めよう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私のネフェシュが愛する方"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "愛する"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私のネフェシュ"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "私は求めた"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "見つけた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:32.873788088Z",
+  "model": "glm-5.2"
+}

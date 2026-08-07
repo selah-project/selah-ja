@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "ユダの子らはペレツ、ヘツロン、カルミ、フル、ショバルであった。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ペレツ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ヘツロン"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "カルミ"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "フル"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ショバル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:17.324630774Z",
+  "model": "glm-5.2"
+}

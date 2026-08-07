@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 2:42",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして足の指は、その一部が鉄、他の一部が粘土⟨である⟩。そのように、王国の一部は強く、その一部は脆いものとなる。",
+  "tokens": [
+    {
+      "surface": "ואצבעת",
+      "gloss": "そして……の指"
+    },
+    {
+      "surface": "רגליא",
+      "gloss": "足"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "その一部は"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "鉄"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "他の一部は"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "粘土"
+    },
+    {
+      "surface": "מן",
+      "gloss": "……から"
+    },
+    {
+      "surface": "קצת",
+      "gloss": "一部"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "王国の"
+    },
+    {
+      "surface": "תהוה",
+      "gloss": "となる"
+    },
+    {
+      "surface": "תקיפה",
+      "gloss": "強く"
+    },
+    {
+      "surface": "ומנה",
+      "gloss": "そしてその一部は"
+    },
+    {
+      "surface": "תהוה",
+      "gloss": "となる"
+    },
+    {
+      "surface": "תבירה",
+      "gloss": "脆いもの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:44:57.910667837Z",
+  "model": "glm-5.2"
+}

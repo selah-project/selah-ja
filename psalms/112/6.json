@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 112,
+  "translation": "それはとこしへに⟨彼⟩は揺るがされないからである。正しき者は永遠の記憶となる。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "それは…だからである"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしへに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "揺るがされる"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "記憶として"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠の"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しき者は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:26.999627571Z",
+  "model": "glm-5.2"
+}

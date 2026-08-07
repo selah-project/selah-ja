@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "あらゆる所に、ヤハウェの目が⟨ある⟩、悪い者と良い者とを見張っている。",
+  "tokens": [
+    {
+      "surface": "בְּֽכָל",
+      "gloss": "あらゆる"
+    },
+    {
+      "surface": "מָ֭קוֹם",
+      "gloss": "所に"
+    },
+    {
+      "surface": "עֵינֵ֣י",
+      "gloss": "目が"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "צֹ֝פ֗וֹת",
+      "gloss": "見張っている"
+    },
+    {
+      "surface": "רָעִ֥ים",
+      "gloss": "悪い者"
+    },
+    {
+      "surface": "וטוֹבִֽים",
+      "gloss": "と良い者"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:41.862251761Z",
+  "model": "glm-5.2"
+}

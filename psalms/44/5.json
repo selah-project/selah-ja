@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "あなたこそ ⟨私の⟩ 王エロヒム、ヤアコブの救いを命じて。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "こそ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "私の王"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じて"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "救いを"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:24.247164664Z",
+  "model": "glm-5.2"
+}

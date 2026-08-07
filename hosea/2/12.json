@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして今、私は彼女の恥を ⟨את⟩ 彼女の恋人たちの目の前にさらけ出す。どんな男も彼女を私の手から救い出す者はない。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "私はさらけ出す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼女の恥"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "彼女の恥"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "〜の目の前に"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "彼女の恋人たち"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "そしてどんな男も"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "彼女を救い出す"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "私の手から"
+    }
+  ],
+  "timestamp": "2026-08-07T12:17:27.785877162Z",
+  "model": "glm-5.2"
+}

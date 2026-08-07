@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして人は言った。「あなたが私と共にいるように与えたその女、彼女が私に与えた、その木から。そして私は食べた。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人は"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "その女"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "あなたは与えた"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "私と共に"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼女"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "…与えた"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "その木"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "そして私は食べた"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:49.827496650Z",
+  "model": "glm-5.2"
+}

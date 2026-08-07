@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "ヘセドの子、アルボトにおいて。彼にはソコとヘフェルの全地が⟨あった⟩。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ヘセド"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "アルボトにおいて"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼には"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "ソコ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "および全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ヘフェル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:12.404960700Z",
+  "model": "glm-5.2"
+}

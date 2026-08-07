@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "空虚から得た富は減る、しかし手によって集める者は増やす。",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "富は"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "空虚から"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "減る"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "しかし集める者は"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜によって"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "増やす"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:05.836354599Z",
+  "model": "glm-5.2"
+}

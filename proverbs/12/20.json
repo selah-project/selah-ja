@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "欺きは悪をたくらむ者たちの心の中にあり、平和を勧める者たちには喜びがある。",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "欺きは"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "〜の心の中に"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "たくらむ者たちの"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "しかし〜を勧める者たちには"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平和を"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "喜びが"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:42.940383959Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "あなたも酔い ⟨、⟩ 隠された者となれ。あなたも要塞を探せ、敵のゆえに。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "あなたも"
+    },
+    {
+      "surface": "את",
+      "gloss": "あなた(女性)"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "酔え"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "なれ"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "隠された者"
+    },
+    {
+      "surface": "גם",
+      "gloss": "あなたも"
+    },
+    {
+      "surface": "את",
+      "gloss": "あなた(女性)"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "探せ"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "要塞"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "敵のゆえに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:27:58.946434235Z",
+  "model": "glm-5.2"
+}

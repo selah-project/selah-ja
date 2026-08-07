@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 145,
+  "translation": "近くにおられるのは⟨ヤハウェ⟩、彼を呼ぶすべての者に。彼を呼ぶすべての者に、誠実をもって。",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "近くにおられる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての〜に"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "彼を呼ぶ者"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての〜に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "彼を呼ぶ"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "誠実をもって"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:29.900808011Z",
+  "model": "glm-5.2"
+}

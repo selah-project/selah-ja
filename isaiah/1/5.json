@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "何のために⟨あなたがたは⟩さらに打たれるのか、⟨あなたがたは⟩なお背きを加えるのか。すべての頭は病に⟨かかっており⟩、すべての心は衰弱⟨している⟩。",
+  "tokens": [
+    {
+      "surface": "עַ֣ל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "מֶ֥ה",
+      "gloss": "何"
+    },
+    {
+      "surface": "תֻכּ֛וּ",
+      "gloss": "打たれる"
+    },
+    {
+      "surface": "ע֖וֹד",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "תּוֹסִ֣יפוּ",
+      "gloss": "加える"
+    },
+    {
+      "surface": "סָרָ֑ה",
+      "gloss": "背き"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "רֹ֣אשׁ",
+      "gloss": "頭"
+    },
+    {
+      "surface": "לָחֳלִ֔י",
+      "gloss": "病に"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "לֵבָ֖ב",
+      "gloss": "心"
+    },
+    {
+      "surface": "דַּוָּֽי",
+      "gloss": "衰弱"
+    }
+  ],
+  "timestamp": "2026-08-07T11:19:50.652070008Z",
+  "model": "glm-5.2"
+}

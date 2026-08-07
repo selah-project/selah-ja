@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "あなたはそれら ⟨את⟩ を二つの並びとして置く — 一つの並びに六つ — ヤハウェの前の、純粋な机の上に。",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "あなたは置く"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "それら（パン）"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "二"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "並び"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "その並び"
+    },
+    {
+      "surface": "על",
+      "gloss": "の上に"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "その机"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "純粋な"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:36.405063398Z",
+  "model": "glm-5.2"
+}

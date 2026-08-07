@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "⟨את⟩誰に⟨彼は⟩知識を教えるのか。⟨את⟩誰に⟨彼は⟩聞かせることを悟らせるのか。乳から離乳した者たちに、乳房から引き離された者たちに（⟨か⟩）。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "誰"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰に"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "教えるのか"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "知識"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "誰"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰に"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "悟らせるのか"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "聞かせること"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "離乳した者たちに"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "乳から"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "引き離された者たちに"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "乳房から"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:31.634881113Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 24:21",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そしてその日に、ヤハウェは高き所の軍勢を、高き所において、罰し、地の王たちを、地の上において、罰される。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そして…なる"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…において"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "罰される"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…を"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "軍勢"
+    },
+    {
+      "surface": "המרום",
+      "gloss": "高き所の"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "高き所において"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして…を"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地の"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上において"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:02.602211818Z",
+  "model": "glm-5.2"
+}

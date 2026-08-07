@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 13:20",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして祭司は見る、見よ、その外観は皮膚より低く、その毛は白く変わっているなら——祭司は彼を汚れた者と宣告する。それは腫れ物の中で発芽したツァラアトの感染である。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "そして……は見る"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "その祭司"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "外観"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "低い"
+    },
+    {
+      "surface": "מן",
+      "gloss": "……より"
+    },
+    {
+      "surface": "העור",
+      "gloss": "その皮膚"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "そしてその毛"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "変わった"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "白く"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "そして……は彼を汚れた者と宣告する"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "その祭司"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "感染"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ツァラアト"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは……である"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "腫れ物の中で"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "発芽した"
+    }
+  ],
+  "timestamp": "2026-08-07T14:23:18.283838813Z",
+  "model": "glm-5.2"
+}

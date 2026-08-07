@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "彼らの足は悪に向かって走るからだ、そして彼らは血を流すことに急ぐ、",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "…からだ"
+    },
+    {
+      "surface": "רַ֭גְלֵיהֶם",
+      "gloss": "彼らの足は"
+    },
+    {
+      "surface": "לָרַ֣ע",
+      "gloss": "悪に向かって"
+    },
+    {
+      "surface": "יָר֑וּצוּ",
+      "gloss": "走る"
+    },
+    {
+      "surface": "וִֽ֝ימַהֲר֗וּ",
+      "gloss": "そして急ぐ"
+    },
+    {
+      "surface": "לִשְׁפָּךְ",
+      "gloss": "流すことに"
+    },
+    {
+      "surface": "דָּֽם",
+      "gloss": "血を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:55.486989288Z",
+  "model": "glm-5.2"
+}

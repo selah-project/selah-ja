@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして彼はアカシヤ材の棒を造り、⟨את⟩ それらを金で覆った。",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַשׂ",
+      "gloss": "そして彼は…造った"
+    },
+    {
+      "surface": "בַּדֵּ֖י",
+      "gloss": "棒"
+    },
+    {
+      "surface": "עֲצֵ֣י",
+      "gloss": "…材の"
+    },
+    {
+      "surface": "שִׁטִּ֑ים",
+      "gloss": "アカシヤ"
+    },
+    {
+      "surface": "וַיְצַ֥ף",
+      "gloss": "そして彼は覆った"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "それら"
+    },
+    {
+      "surface": "זָהָֽב",
+      "gloss": "金"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:27.586250121Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 28:13",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "自分の背きを覆す者は成功しない、だが告白して捨てる者はあわれみを受ける。",
+  "tokens": [
+    {
+      "surface": "מְכַסֶּה",
+      "gloss": "覆す者"
+    },
+    {
+      "surface": "פְשָׁעָיו",
+      "gloss": "自分の背きを"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יַצְלִיחַ",
+      "gloss": "成功する"
+    },
+    {
+      "surface": "וּמוֹדֶה",
+      "gloss": "だが告白して"
+    },
+    {
+      "surface": "וְעֹזֵב",
+      "gloss": "捨てる者"
+    },
+    {
+      "surface": "יְרֻחָם",
+      "gloss": "あわれみを受ける"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:00.744892465Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そしてあなたは立ち返り、ヤハウェの声に聞き従い、私が今日あなたに命じている ⟨את⟩ すべての ⟨彼の⟩ 命令を行う。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "そしてあなたは"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "立ち返り"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "聞き従い"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "声に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "行う"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "彼の命令"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私が"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "あなたに命じている"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    }
+  ],
+  "timestamp": "2026-08-07T16:38:36.541177440Z",
+  "model": "glm-5.2"
+}

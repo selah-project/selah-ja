@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そしてあなたたちの分捕り物は集められる、イナゴの集められるように。イナゴの群れが駆け巡るように、彼はその上を駆け巡る。",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "そして集められる"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "あなたたちの分捕り物は"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "集め"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "イナゴの"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "～のように駆け巡る"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "イナゴの群れが"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "駆け巡る"
+    },
+    {
+      "surface": "בו",
+      "gloss": "その上を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:28:21.455842463Z",
+  "model": "glm-5.2"
+}

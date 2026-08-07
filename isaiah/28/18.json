@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "あなたたちの死との契約は拭い去られ、あなたたちのシェオルとの見方は立たない。むちの濁流が過ぎ越すとき、あなたたちはそれに踏みつけられる。",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "拭い去られ"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "あなたたちの契約"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "死"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死との"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "あなたたちの見方は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シェオル"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シェオルとの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "むちの"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "濁流"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜とき"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "過ぎ越す"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "あなたたちはなる"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "踏みつけられる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:34.729296280Z",
+  "model": "glm-5.2"
+}

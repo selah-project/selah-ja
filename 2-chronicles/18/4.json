@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてエホシュアファトはイスラエルの王に言った。「どうか今日、ヤハウェのことばを尋ね求めてください。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "エホシュアファトは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "に"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "尋ね求めてください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェのことば"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:14:29.522844493Z",
+  "model": "glm-5.2"
+}

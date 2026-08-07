@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてアハズは⟨את⟩ヤラを生み、ヤラは⟨את⟩アレメトと⟨את⟩アズマベトと⟨את⟩ジムリを生み、ジムリは⟨את⟩モツァを生んだ。",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "そしてアハズ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤラ"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "ヤラ"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "そしてヤラ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アレメト"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "アレメト"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "アズマベト"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "アズマベト"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "ジムリ"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ジムリ"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "そしてジムリ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モツァ"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "モツァ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:43:08.947551532Z",
+  "model": "glm-5.2"
+}

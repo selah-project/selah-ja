@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "彼こそわたしのために家を建てる者。そしてわたしは⟨את⟩彼の王座を永遠まで堅く立てる。",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "彼こそ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "建てる"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしのために"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家を"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "そしてわたしは堅く立てる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の王座"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "彼の王座を"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-08-07T14:06:24.550049981Z",
+  "model": "glm-5.2"
+}

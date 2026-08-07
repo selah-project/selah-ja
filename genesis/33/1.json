@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 33:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "ヤアコブは目を上げて見た。見よ、エサウがやって来る、そして彼と共に四百人の⟨人々が⟩。そして彼は⟨את⟩子供たちを分けて、レアの上、そしてラケルの上、そして二人の女奴隷の上⟨に置いた⟩。",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "上げた"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "彼の目"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "見た"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "やって来る"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "分けた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "子供たち"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "子供たち"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "レア"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ラケル"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "女奴隷"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:39.500455050Z",
+  "model": "glm-5.2"
+}

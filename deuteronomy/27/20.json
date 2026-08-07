@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "のろわれる。父の妻と寝る者は。彼が父の衣の裾を明らかにしたからである。そして言う、すべての民は、アーメンと。",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "のろわれる"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "寝る"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "父の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "明らかにした"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "衣の裾"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "父の"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "そして言う"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "アーメン"
+    }
+  ],
+  "timestamp": "2026-08-07T16:38:21.639561877Z",
+  "model": "glm-5.2"
+}

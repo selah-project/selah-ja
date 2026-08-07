@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 138,
+  "translation": "ヤハウェは高き者であり、低き者を見られる、しかし高ぶる者を遠くから知られる。",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "רָ֣ם",
+      "gloss": "高き"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "וְשָׁפָ֣ל",
+      "gloss": "低き"
+    },
+    {
+      "surface": "יִרְאֶ֑ה",
+      "gloss": "者を見られる"
+    },
+    {
+      "surface": "וְ֝גָבֹ֗הַּ",
+      "gloss": "高ぶる"
+    },
+    {
+      "surface": "מִמֶּרְחָ֥ק",
+      "gloss": "遠くから"
+    },
+    {
+      "surface": "יְיֵדָֽע",
+      "gloss": "者を知られる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:05.203013165Z",
+  "model": "glm-5.2"
+}

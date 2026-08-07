@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "ただ、⟨את⟩ その血は食べてはならない — 地の上に、水のように注ぎ出せ。",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その血"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "その血"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "あなたは食べては"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "あなたは注ぎ出せ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "水のように"
+    }
+  ],
+  "timestamp": "2026-08-07T10:13:34.429220744Z",
+  "model": "glm-5.2"
+}

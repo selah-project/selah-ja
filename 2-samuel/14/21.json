@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "王はヨアブに言った。「見よ、今、私は⟨את⟩この事を行った。行って、⟨את⟩若者アブシャロムを連れ戻せ。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "私は行った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この事"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "事を"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "そして行け"
+    },
+    {
+      "surface": "השב",
+      "gloss": "連れ戻せ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "若者アブシャロム"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "若者を"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アブシャロム"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "アブシャロム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:27:07.859466322Z",
+  "model": "glm-5.2"
+}

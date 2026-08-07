@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "エノシュは九十歳⟨で⟩生き、⟨את⟩ケナンを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "エノシュ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "九十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ケナン"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ケナン"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:45.472159217Z",
+  "model": "glm-5.2"
+}

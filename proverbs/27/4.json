@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "激怒は残酷であり、怒りは氾濫する、しかし誰が立つことができようか、ねたみの前に。",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "残酷"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "激怒"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "そして氾濫"
+    },
+    {
+      "surface": "אף",
+      "gloss": "怒り"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "そして誰が"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "立つことができようか"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ねたみ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:56.549119339Z",
+  "model": "glm-5.2"
+}

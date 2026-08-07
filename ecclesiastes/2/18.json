@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして私は、私が太陽の下で労したすべての労苦を憎んだ。⟨というのも⟩私がそれを、私の後に来る人に残さなければならない⟨から⟩。",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "そして私は憎んだ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての労苦"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "私の労苦"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "私が"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "労した"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下で"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "残さなければならない"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "人に"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "来る"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "私の後に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:42:19.129150325Z",
+  "model": "glm-5.2"
+}

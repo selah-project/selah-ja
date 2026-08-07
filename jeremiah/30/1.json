@@ -1,0 +1,167 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "הַדָּבָר אֲשֶׁר הָיָה אֶל יִרְמְיָהוּ מֵאֵת יְהוָה לֵאמֹר",
+  "tokens": [
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "言葉",
+      "morphology": {
+        "pos": "noun",
+        "stem": "common",
+        "pattern": "ה־ָ־ָ",
+        "root": "דבר",
+        "features": {
+          "gender": "masculine",
+          "number": "singular",
+          "state": "absolute",
+          "determination": "definite"
+        }
+      },
+      "syntax": {
+        "role": "subject",
+        "head": null,
+        "dependents": [
+          "אֲשֶׁר"
+        ]
+      }
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "関係代名詞",
+      "morphology": {
+        "pos": "relative_pronoun",
+        "stem": null,
+        "pattern": null,
+        "root": "אשר",
+        "features": {}
+      },
+      "syntax": {
+        "role": "relative_marker",
+        "head": "הַדָּבָר",
+        "dependents": [
+          "הָיָה"
+        ]
+      }
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "あった",
+      "morphology": {
+        "pos": "verb",
+        "stem": "qal",
+        "pattern": "ָ־ָ־",
+        "root": "היה",
+        "features": {
+          "tense": "perfect",
+          "person": "3",
+          "gender": "masculine",
+          "number": "singular"
+        }
+      },
+      "syntax": {
+        "role": "predicate",
+        "head": "הַדָּבָר",
+        "dependents": [
+          "אֶל"
+        ]
+      }
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に",
+      "morphology": {
+        "pos": "preposition",
+        "stem": null,
+        "pattern": null,
+        "root": "אל",
+        "features": {}
+      },
+      "syntax": {
+        "role": "preposition",
+        "head": "הָיָה",
+        "dependents": [
+          "יִרְמְיָהוּ"
+        ]
+      }
+    },
+    {
+      "surface": "יִרְמְיָהוּ",
+      "gloss": "ירミヤ",
+      "morphology": {
+        "pos": "proper_noun",
+        "stem": null,
+        "pattern": null,
+        "root": "רמה",
+        "features": {
+          "gender": "masculine",
+          "number": "singular"
+        }
+      },
+      "syntax": {
+        "role": "object_of_preposition",
+        "head": "אֶל",
+        "dependents": []
+      }
+    },
+    {
+      "surface": "מֵאֵת",
+      "gloss": "〜から",
+      "morphology": {
+        "pos": "preposition",
+        "stem": null,
+        "pattern": "מ־ֵ־",
+        "root": "את",
+        "features": {}
+      },
+      "syntax": {
+        "role": "preposition",
+        "head": "הָיָה",
+        "dependents": [
+          "יְהוָה"
+        ]
+      }
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ",
+      "morphology": {
+        "pos": "proper_noun",
+        "stem": null,
+        "pattern": null,
+        "root": "יהוה",
+        "features": {
+          "gender": "masculine",
+          "number": "singular"
+        }
+      },
+      "syntax": {
+        "role": "object_of_preposition",
+        "head": "מֵאֵת",
+        "dependents": []
+      }
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "言って",
+      "morphology": {
+        "pos": "infinitive_construct",
+        "stem": "qal",
+        "pattern": "לֵ־ֹ",
+        "root": "אמר",
+        "features": {}
+      },
+      "syntax": {
+        "role": "infinitive",
+        "head": "הָיָה",
+        "dependents": []
+      }
+    }
+  ],
+  "timestamp": "2026-08-07T18:35:53.599409587Z",
+  "model": "glm-5.2"
+}

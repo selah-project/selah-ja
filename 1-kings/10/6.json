@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そして彼女は王に言った——「私の国であなたの事績とあなたの知恵について聞いたその言葉は、真実であった。」",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "そして彼女は言った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真実"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "その言葉"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜は"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "私が聞いた"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "私の国で"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "あなたの事績"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "また〜について"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "あなたの知恵"
+    }
+  ],
+  "timestamp": "2026-08-07T11:06:08.939878375Z",
+  "model": "glm-5.2"
+}

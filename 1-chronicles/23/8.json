@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "ラダンの子ら：長はエヒエル、およびゼタム、およびヨエル — 三人。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ラダン"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "長"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "エヒエル"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "およびゼタム"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "およびヨエル"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三人"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:52.639340130Z",
+  "model": "glm-5.2"
+}

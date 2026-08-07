@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そして、女性を婚約し、まだ彼女を迎え取っていない者はだれか。彼は行って自分の家に帰れ。戦いで死に、別の者が彼女を迎え取ることのないように。」",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "そしてだれか"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その者は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "婚約した"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女性を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "彼女を迎え取った"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "行け"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして帰れ"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "自分の家へ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死ぬ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "戦いで"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "そして別の者が"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "他の"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "彼女を迎え取る"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:34.649167193Z",
+  "model": "glm-5.2"
+}

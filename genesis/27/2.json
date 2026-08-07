@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "彼は言った。「見よ、私は老いた。私は自分の死の日を知らない。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "彼は言った"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "いま"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "私は老いた"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "私は知らない"
+    },
+    {
+      "surface": "יום",
+      "gloss": "……日"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "私の死の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:59:13.243871055Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 139,
+  "translation": "どこへ行こう、あなたのルーアハから。そしてどこへ逃げよう、あなたの御顔から。",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "どこへ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "私は行こう"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "あなたのルーゐハから"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "そしてどこへ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "あなたの御顔から"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "私は逃げよう"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:26.892078885Z",
+  "model": "glm-5.2"
+}

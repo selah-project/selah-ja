@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてあなたはヤハウェ あなたのエロヒムの声に聞き従い、私が今日あなたに命じる ⟨את⟩ 彼の戒めと ⟨את⟩ 彼の定めを行わなければならない。」",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "そしてあなたは聞き従う"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "声に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒムの"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "そして行う"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の戒め"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "彼の戒め"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼の定め"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "彼の定め"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私が"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "あなたに命じる"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:38.614212255Z",
+  "model": "glm-5.2"
+}

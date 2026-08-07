@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "エロヒムの山、バシャンの山、峰々の山、バシャンの山。",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "バシャンの"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "峰々の"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "バシャンの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:51.495526866Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 11:6",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "まっすぐな者たちの義は彼らを救い出す、しかし裏切り者たちは自らの貪欲によって捕らえられる。",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "義は"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "まっすぐな者たちの"
+    },
+    {
+      "surface": "תצילם",
+      "gloss": "彼らを救い出す"
+    },
+    {
+      "surface": "ובהות",
+      "gloss": "しかし〜において"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "裏切り者たちは"
+    },
+    {
+      "surface": "ילכדו",
+      "gloss": "捕らえられる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:55.303039896Z",
+  "model": "glm-5.2"
+}

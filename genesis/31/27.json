@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 31:27",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "なぜあなたは逃げるために隠れ、私を盗み出したのか。私に告げず、私は喜びと歌と、手鼓と琴とをもってあなたを送り出せた⟨のに⟩。",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "נחבאת",
+      "gloss": "あなたは隠れたのか"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "逃げるために"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "そして盗んだ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "私を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "あなたは告げた"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "そして私はあなたを送り出したであろう"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "喜びと"
+    },
+    {
+      "surface": "ובשרים",
+      "gloss": "歌と"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "手鼓と"
+    },
+    {
+      "surface": "ובכנור",
+      "gloss": "琴と"
+    }
+  ],
+  "timestamp": "2026-08-07T09:02:25.086013029Z",
+  "model": "glm-5.2"
+}

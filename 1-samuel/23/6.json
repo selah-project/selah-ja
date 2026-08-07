@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 23:6",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "アヒメレクの子エブヤタルがダビデのもと、ケイラへ逃げた時、エポドが彼の手 ⟨のうち⟩ に下った。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨その時⟩ 〜があった"
+    },
+    {
+      "surface": "בברח",
+      "gloss": "逃げた時"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "エブヤタルが"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "アヒメレクの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもと ⟨へ⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ケイラ ⟨に⟩"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "エポドが"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "下った"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "彼の手に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:50.818942505Z",
+  "model": "glm-5.2"
+}

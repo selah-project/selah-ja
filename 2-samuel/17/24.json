@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "ダビドはマハナイムに来た。アブシャロムは ⟨את⟩ ヨルダンを渡った — 彼と、彼と共にいるイスラエルのすべての人が。",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ダビドは"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "マハナイムへ"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "アブシャロムは"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "渡った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨルダン"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルダン"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼自身"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "…すべて"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:54:39.237758461Z",
+  "model": "glm-5.2"
+}

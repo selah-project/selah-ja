@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 50:5",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "シオンの道を ⟨彼らは⟩尋ね求めた — こちらへ ⟨彼らの⟩顔は ⟨向けられて⟩。「来たれ、われらはヤハウェにつき従おう、忘れられることのない永遠の契約 ⟨において⟩」⟨と⟩。",
+  "tokens": [
+    {
+      "surface": "ציון",
+      "gloss": "シオン"
+    },
+    {
+      "surface": "ישאלו",
+      "gloss": "彼らは尋ね求めた"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "こちらへ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "彼らの顔は"
+    },
+    {
+      "surface": "באו",
+      "gloss": "来たれ"
+    },
+    {
+      "surface": "ונלוו",
+      "gloss": "われらはつき従おう"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "忘れられる"
+    }
+  ],
+  "timestamp": "2026-08-07T14:34:26.084312894Z",
+  "model": "glm-5.2"
+}

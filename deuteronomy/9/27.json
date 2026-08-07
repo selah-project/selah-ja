@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 9:27",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "あなたのしもべたちを —アブラハムの、イツハクの、そしてヤアコブのことを— 覚えてください。この民の頑強さに、その悪に、そしてその罪に向きを向けないでください。",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "覚えてください"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "あなたのしもべたちのことを"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "アブラハムの"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "イツハクの"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "そしてヤアコブの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "向きを向けないで"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "קשי",
+      "gloss": "頑強さ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "この民の"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "その悪"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "その罪"
+    }
+  ],
+  "timestamp": "2026-08-07T10:10:26.361861894Z",
+  "model": "glm-5.2"
+}

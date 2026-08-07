@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "イスラエルの子らは安息日を守り、彼らの世代のために⟨את⟩安息日を行うことを永遠の契約として存続させる。",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "そして守る"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らは"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "安息日"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "安息日"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行うことを"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "安息日"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "安息日"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "彼らの世代のために"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:34.734069691Z",
+  "model": "glm-5.2"
+}

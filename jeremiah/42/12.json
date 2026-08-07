@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "「そしてわたしはあなたたちにあわれみを与え、彼があなたたちをあわれむ ⟨את⟩ ようにし、彼があなたたちを ⟨את⟩ あなたたちの地に帰らせる。」",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "そしてわたしは与え"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちに"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "あわれみを"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "あわれむ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたたちを"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "帰らせる"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたたちを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "あなたたちの地"
+    }
+  ],
+  "timestamp": "2026-08-07T11:55:56.911872622Z",
+  "model": "glm-5.2"
+}

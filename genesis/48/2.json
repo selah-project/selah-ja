@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 48:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "そしてヤコブに告げられた。そして言った。「見よ、あなたの息子ヨセフがあなたのもとに来ている。」そしてイスラエルは自分を強くし、寝台の上に座った。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "そして告げられた"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ヤコブに"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "あなたの息子"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来ている"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたのもとに"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "そして強くした"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして座った"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "寝台"
+    }
+  ],
+  "timestamp": "2026-08-07T09:10:31.417234660Z",
+  "model": "glm-5.2"
+}

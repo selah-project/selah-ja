@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 1:19",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてエベルにふたりの息子が生まれた。ひとりの名はペレグ、彼の日々に地が分けられたからであり、その兄弟の名はヨクタンであった。",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "そしてエベルに"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ふたりの"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ひとりの"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ペレグ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "彼の日々に"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "分けられた"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そして〜の名"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "その兄弟の"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "ヨクタン"
+    }
+  ],
+  "timestamp": "2026-08-07T17:35:36.917878947Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "人間はかがみ、人は低くされた。あなたは彼らを⟨持ち上げるな⟩。",
+  "tokens": [
+    {
+      "surface": "וַיִּשַּׁ֥ח",
+      "gloss": "そしてかがんだ"
+    },
+    {
+      "surface": "אָדָ֖ם",
+      "gloss": "人間は"
+    },
+    {
+      "surface": "וַיִּשְׁפַּל",
+      "gloss": "そして低くされた"
+    },
+    {
+      "surface": "אִ֑ישׁ",
+      "gloss": "人は"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "そして〜なかれ"
+    },
+    {
+      "surface": "תִּשָּׂ֖א",
+      "gloss": "持ち上げるな"
+    },
+    {
+      "surface": "לָהֶֽם",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:28:15.276427820Z",
+  "model": "glm-5.2"
+}

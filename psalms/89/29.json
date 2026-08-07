@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 89:29",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "永遠に、わたしは彼のためにわたしのヘセドを守り、わたしの契約は彼にとって堅く立てられる、",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "わたしは守る"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "わたしのヘセド"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "そしてわたしの契約は"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "堅く立てられる"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼にとって"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:41.452975071Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 61,
+  "translation": "地の果てから、あなたに向かって私は呼びます。私の心が ⟨弱り果てるとき⟩、私より高い岩へ、私を導いてください。",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "果てから"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに向かって"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "私は呼ぶ"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "包まれるとき"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "私の心"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "岩へ"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "高い"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私より"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "私を導いてください"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:10.754700062Z",
+  "model": "glm-5.2"
+}

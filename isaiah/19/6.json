@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 19:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして川々は干上がり、水路は細り、マツォルのナイル川は枯れ果てる。葦とスーフは萎びれた。",
+  "tokens": [
+    {
+      "surface": "והאזניחו",
+      "gloss": "そして干上がり"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "川々は"
+    },
+    {
+      "surface": "דללו",
+      "gloss": "細り"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "そして枯れ果てる"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "ナイル川の水路は"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "マツォルの"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "葦と"
+    },
+    {
+      "surface": "וסוף",
+      "gloss": "スーフは"
+    },
+    {
+      "surface": "קמלו",
+      "gloss": "萎びれた"
+    }
+  ],
+  "timestamp": "2026-08-07T16:56:24.156699043Z",
+  "model": "glm-5.2"
+}

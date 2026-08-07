@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "苦しめられたことは私にとって良いことであった — それはあなたの掟を学ぶためであった。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良いことであった"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私にとって"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "苦しめられたことは"
+    },
+    {
+      "surface": "למען",
+      "gloss": "それは…ためであった"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "学ぶ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "あなたの掟を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:02.925316622Z",
+  "model": "glm-5.2"
+}

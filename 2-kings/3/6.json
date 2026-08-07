@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして王エホラムはその日にショムロンから出て行き、全イスラエルを点検した。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出て行き"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "エホラムは"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "ショムロンから"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "点検した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全イスラエル"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:10:43.380281433Z",
+  "model": "glm-5.2"
+}

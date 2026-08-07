@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "今日この日、ヤハウェ あなたの エロヒム は あなたに 命じて いる ⟨את⟩これらの 定め と ⟨את⟩これらの 裁き を 行う ことを。そして あなたは 守り、行う ⟨את⟩それらを 全 あなたの 心 で、全 あなたの 命 で。",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "あなたに命じて"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行うことを"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらの定め"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "これらの定め"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "これらの裁き"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "これらの裁き"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "そして守り"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "行う"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "それらを"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "あなたの心"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "あなたの命"
+    }
+  ],
+  "timestamp": "2026-08-07T16:37:55.111809493Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 2:2",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして霊が私のうちに入った — 彼が私に語ったときの通りに — そして私を私の足の上に立たせた。そして私は私に語りかける ⟨את⟩ 方の声を聞いた。",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "そして…入った"
+    },
+    {
+      "surface": "בי",
+      "gloss": "私のうちに"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…の通りに"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "そして…立たせた私を"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "私の足"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "そして…聞いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "語りかける方の声"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "語りかける方"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:00:46.763692675Z",
+  "model": "glm-5.2"
+}

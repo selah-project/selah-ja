@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そして私は書き記し、署名して押印し、証人を立て、はかりで⟨その⟩銀を量った。",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "そして私は書いた"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "書類に"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "そして私は署名・押印した"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "そして私は証人を立てた"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "証人"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "そして私は量った"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "その銀"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "はかりで"
+    }
+  ],
+  "timestamp": "2026-08-07T11:51:36.951863316Z",
+  "model": "glm-5.2"
+}

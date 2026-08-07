@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "パラス、クシュ、およびプトが⟨彼らとともに⟩。彼らすべて、盾と兜⟨を装備している⟩。",
+  "tokens": [
+    {
+      "surface": "פָּרַ֛ס",
+      "gloss": "パラス"
+    },
+    {
+      "surface": "כּ֥וּשׁ",
+      "gloss": "クシュ"
+    },
+    {
+      "surface": "וּפ֖וּט",
+      "gloss": "およびプト"
+    },
+    {
+      "surface": "אִתָּ֑ם",
+      "gloss": "⟨彼らとともに⟩"
+    },
+    {
+      "surface": "כֻּלָּ֖ם",
+      "gloss": "彼らすべて"
+    },
+    {
+      "surface": "מָגֵ֥ן",
+      "gloss": "盾"
+    },
+    {
+      "surface": "וְכוֹבָֽע",
+      "gloss": "と兜"
+    }
+  ],
+  "timestamp": "2026-08-07T12:13:45.730476024Z",
+  "model": "glm-5.2"
+}

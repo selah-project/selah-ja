@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてカレブの側女エイファは、⟨את⟩ ハランと、⟨את⟩ モツァと、⟨את⟩ ガゼズを産み、そしてハランは ⟨את⟩ ガゼズをもうけた。",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "そしてエイファ"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "側女"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "カレブ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ハラン"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "ハラン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "モツァ"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "モツァ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ガゼズ"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ガゼズ"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "そしてハラン"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "もうけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ガゼズ"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ガゼズ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:51.267441027Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 35:26",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そして知恵においてその心が彼女たちを奮い立たせたすべての女は、⟨את⟩山羊の毛を紡いだ。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "女たち"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "奮い立たせた"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "その心"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "彼女たちを",
+      "marks": "知恵において"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "知恵において"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "紡いだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "山羊の毛"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "山羊たち"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:09.403093199Z",
+  "model": "glm-5.2"
+}

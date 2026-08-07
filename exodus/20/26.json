@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そして階段によってわたしの祭壇に上ってはならない。それはあなたの裸がその上に露わにならないためである。」",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "上っては"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "階段によって"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "わたしの祭壇"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは〜のためである"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "露わに"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "あなたの裸が"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:15.613192968Z",
+  "model": "glm-5.2"
+}

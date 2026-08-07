@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして⟨彼⟩は⟨את⟩ 彼の償いをヤハウェのもとに携え来る — 羊の群れからの欠けのない雄羊を、あなたの評価による償いの献げ物として、祭司のもとに。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼の償いを"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "彼の償い"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "携え来る"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェのもとに"
+    },
+    {
+      "surface": "איל",
+      "gloss": "雄羊"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "欠けのない"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜からの"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊の群れ"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "あなたの評価による"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "償いの献げ物として"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:55.930055515Z",
+  "model": "glm-5.2"
+}

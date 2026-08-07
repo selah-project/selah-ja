@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "彼らはそれに肩当てを造った。継ぎ合わされるもの。その両端の上で。それは継ぎ合わされた。",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "肩当てを"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "彼らは造った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "継ぎ合わされる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "その端の"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "継ぎ合わされた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:39.610853579Z",
+  "model": "glm-5.2"
+}

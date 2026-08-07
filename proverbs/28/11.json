@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "自分の目に知恵がある⟨と見なす⟩富裕の者 — しかし理解ある貧しい者が彼を探り尽くす。",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "知恵がある"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "自分の目に"
+    },
+    {
+      "surface": "איש",
+      "gloss": "〜の男"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "富裕の"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "しかし貧しい者は"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "理解ある"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "彼を探り尽くす"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:37.947967163Z",
+  "model": "glm-5.2"
+}

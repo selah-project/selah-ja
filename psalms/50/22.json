@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "今、これを悟れ、エロアハを忘れる者たちよ。私が引き裂くことがないように。そして救う者がいない⟨ように⟩。",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "悟れ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これを"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "忘れる者たちよ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "エロアハを"
+    },
+    {
+      "surface": "פן",
+      "gloss": "〜がないように"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "私が引き裂くことが"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして〜いない"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "救う者が"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:27.352642293Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "聞け、娘よ、見よ、耳を傾けよ、そしてあなたの民とあなたの父の家を忘れよ。",
+  "tokens": [
+    {
+      "surface": "שִׁמְעִי",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "בַ֣ת",
+      "gloss": "娘よ"
+    },
+    {
+      "surface": "וּ֭רְאִי",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "וְהַטִּ֣י",
+      "gloss": "傾けよ"
+    },
+    {
+      "surface": "אָזְנֵ֑ךְ",
+      "gloss": "あなたの耳を"
+    },
+    {
+      "surface": "וְשִׁכְחִ֥י",
+      "gloss": "そして忘れよ"
+    },
+    {
+      "surface": "עַ֝מֵּ֗ךְ",
+      "gloss": "あなたの民"
+    },
+    {
+      "surface": "וּבֵ֥ית",
+      "gloss": "と〜の家"
+    },
+    {
+      "surface": "אָבִֽיךְ",
+      "gloss": "あなたの父"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:04.323655255Z",
+  "model": "glm-5.2"
+}

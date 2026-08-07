@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして家の床を⟨את⟩金で覆った——内側の部屋にも外側の部屋にも。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "家の床"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "床"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "覆った"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金で"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "内側に"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "外側に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:48.860556432Z",
+  "model": "glm-5.2"
+}

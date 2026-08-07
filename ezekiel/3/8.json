@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "見よ、私はあなたの顔を彼らの顔に匹敵するほど強くし、あなたの額を彼らの額に匹敵するほど強くした。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "私は与えた（した）"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの顔"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの顔"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "強く"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "〜に匹敵するほど"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "彼らの顔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "あなたの額"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "あなたの額"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "強く"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "〜に匹敵するほど"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "彼らの額"
+    }
+  ],
+  "timestamp": "2026-08-07T14:34:36.473474773Z",
+  "model": "glm-5.2"
+}

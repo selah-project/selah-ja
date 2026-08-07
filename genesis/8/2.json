@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして深淵の泉と、天の窓は閉ざされ、天からの雨は止められた。",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "そして…閉ざされた"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "泉"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "深淵の"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "かつ…窓"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "そして…止められた"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "雨は"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…からの"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:01.239903265Z",
+  "model": "glm-5.2"
+}

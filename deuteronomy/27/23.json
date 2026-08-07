@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "呪われよ、自分の妻の母と寝る者は。そして全⟨民⟩は言う、アーメン。",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "呪われよ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "寝る者"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "自分の妻の母"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "そして言う"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨民⟩"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "アーメン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:00.482589351Z",
+  "model": "glm-5.2"
+}

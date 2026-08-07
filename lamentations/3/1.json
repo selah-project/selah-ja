@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "私こそ ⟨が⟩、苦難を見た男だ — 彼の憤りの杖 ⟨において⟩。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "私"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "その男"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "見た"
+    },
+    {
+      "surface": "עני",
+      "gloss": "苦難"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "杖〜において"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "彼の憤り"
+    }
+  ],
+  "timestamp": "2026-08-07T13:35:51.056500162Z",
+  "model": "glm-5.2"
+}

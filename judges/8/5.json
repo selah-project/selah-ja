@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 8:5",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして⟨彼は⟩スッコトの男たちに言った、「どうか、私の足元にある民にパンの塊を与えてください。彼らは疲れているからです。そして私はゼバフとツァルムナを、ミディヤンの王たちを追っているのです」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לאנשי",
+      "gloss": "〜の男たちに"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "スッコト"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "与えよ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "ככרות",
+      "gloss": "パンの塊を"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンの"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "民に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "私の足元に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "疲れている"
+    },
+    {
+      "surface": "הם",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "そして私は"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "追っている"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "〜の後を"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ゼバフ"
+    },
+    {
+      "surface": "וצלמנע",
+      "gloss": "とツァルムナ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ミディヤンの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:34:11.538114009Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "立ち上がってください、ヤハウェよ。人が強くあってはなりません。国々が御顔の前で裁かれますように。",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "立ち上がってください"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "強くあっては"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "人が"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "裁かれますように"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々が"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の前で"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "御顔の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:22.386961105Z",
+  "model": "glm-5.2"
+}

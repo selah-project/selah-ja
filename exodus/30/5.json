@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "そしてあなたは ⟨את⟩ 棒をアカシヤ材で作り、それらを金で覆わなければならない。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "そしてあなたは作らなければならない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "棒"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "棒を"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "〜の材で"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "アカシヤ"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "そしてあなたは覆わなければならない"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "金"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:22.335148899Z",
+  "model": "glm-5.2"
+}

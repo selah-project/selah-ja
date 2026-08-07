@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "彼は村落の待ち伏せの場に座し、隠れ場所で罪なき者を殺す、⟨彼の⟩目は無力な者を密かに見張る。",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "座し"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "待ち伏せの場に"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "村落の"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "隠れ場所で"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "殺す"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "罪なき者を"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "彼の目"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "無力な者を"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "密かに見張る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:26.482656921Z",
+  "model": "glm-5.2"
+}

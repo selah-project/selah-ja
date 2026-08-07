@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてそれは私にとって非常に悪く思えたので、私は⟨את⟩トビヤの家のすべての器具を、その部屋から外へ投げ出した。",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "そして…悪く思えた"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私にとって"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "そして私は投げ出した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "トビヤの"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "外へ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "その部屋"
+    }
+  ],
+  "timestamp": "2026-08-07T13:58:59.577978692Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "⟨彼は⟩弓を張り、矢の的として私を据えられた。",
+  "tokens": [
+    {
+      "surface": "דָּרַ֤ךְ",
+      "gloss": "張った"
+    },
+    {
+      "surface": "קַשְׁתוֹ֙",
+      "gloss": "彼の弓を"
+    },
+    {
+      "surface": "וַיַּצִּיבֵ֔נִי",
+      "gloss": "そして私を据えた"
+    },
+    {
+      "surface": "כַּמַּטָּרָ֖א",
+      "gloss": "的として"
+    },
+    {
+      "surface": "לַחֵֽץ",
+      "gloss": "矢の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:36:02.913977493Z",
+  "model": "glm-5.2"
+}

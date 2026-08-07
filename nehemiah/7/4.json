@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして都は両手で広く、そして大きかったが、民はその中に少なく、家々は建てられていなかった。",
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "そして都は"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "広く"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "両手で"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "そして大きかった"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "そして民は"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "少なく"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "その中に"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "家々は"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "建てられて"
+    }
+  ],
+  "timestamp": "2026-08-07T13:56:17.918531952Z",
+  "model": "glm-5.2"
+}

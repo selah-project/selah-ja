@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 82,
+  "translation": "彼らは知らず、また悟らず、やみの中を歩む。地のすべての基が揺り動かされる。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "彼らは知った"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "彼らは悟った"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "やみの中を"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "彼らは歩む"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "揺り動かされる"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "基"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:35.434192146Z",
+  "model": "glm-5.2"
+}

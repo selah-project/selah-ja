@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてヨナタンとダビデは契約を結んだ — 彼が彼を愛したゆえに、⟨彼自身の⟩⟨את⟩命のように。",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "そして…結んだ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ヨナタン"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "とダビデ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "彼が愛したゆえに"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "命"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "⟨彼自身の⟩命のように"
+    }
+  ],
+  "timestamp": "2026-08-07T19:12:39.462473438Z",
+  "model": "glm-5.2"
+}

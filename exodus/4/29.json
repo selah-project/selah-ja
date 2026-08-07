@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "モーシェとアハロンは行って、イスラエルの子らの長老たちをすべて集めた。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "とアハロン"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "そして…集めた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子らの長老たちのすべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老たち"
+    },
+    {
+      "surface": "בני",
+      "gloss": "の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:22.014596031Z",
+  "model": "glm-5.2"
+}

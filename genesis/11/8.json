@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてヤハウェは彼らをそこから全地の面の上に散らされた—こうして彼らはその町を建てるのをやめた。",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "そして散らされた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "彼らを"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面の"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "こうして彼らはやめた"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "建てるのを"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町を"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:07.996703471Z",
+  "model": "glm-5.2"
+}

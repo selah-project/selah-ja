@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "人⟨は⟩栄誉のうちに⟨あって⟩、悟らなければ、獣にたとえられる — ⟨彼らは⟩絶やされた。",
+  "tokens": [
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "人"
+    },
+    {
+      "surface": "בִּ֭יקָר",
+      "gloss": "栄誉のうちに"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יָבִ֑ין",
+      "gloss": "悟る"
+    },
+    {
+      "surface": "נִמְשַׁ֖ל",
+      "gloss": "たとえられる"
+    },
+    {
+      "surface": "כַּבְּהֵמ֣וֹת",
+      "gloss": "獣に"
+    },
+    {
+      "surface": "נִדְמֽוּ",
+      "gloss": "絶やされた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:19.254131644Z",
+  "model": "glm-5.2"
+}

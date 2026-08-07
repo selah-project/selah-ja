@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして彼は家の壁の上に、回りに階層を建て築いた — ⟨את⟩ 家の壁を、回りに、殿堂のため、また至聖所のために。そして彼は側室を回りに造った。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "そして彼は建てた"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "壁"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "階層"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "回りに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "家の壁"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "壁"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "回りに"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "殿堂のため"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "また至聖所のため"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は造った"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "側室"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "回りに"
+    }
+  ],
+  "timestamp": "2026-08-07T16:49:04.390201055Z",
+  "model": "glm-5.2"
+}

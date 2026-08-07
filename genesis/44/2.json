@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "「そして私の杯、銀の杯を、一番下の者の袋の口に置き、⟨את⟩彼の穀物の代金と共にせよ」。そして彼はヨセフが語った通りに行った。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "私の杯"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "私の杯"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "杯"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀の"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "置け"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "口に"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "袋の"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "一番下の者の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "銀"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "彼の穀物の"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は行った"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "〜の言葉通りに"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフが"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語った"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:18.708643095Z",
+  "model": "glm-5.2"
+}

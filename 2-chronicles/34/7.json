@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そして⟨את⟩祭壇を打ち砕き、⟨את⟩アシェリムを粉砕し、刻像を打ち砕いて粉にし、すべての太陽像をすべてのイスラエルの地で切り倒し、エルシャライムに戻った。",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "そして…を打ち砕いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アシェリム"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "アシェリム"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "そして刻像を"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "打ち砕いた"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "粉に"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "太陽像を"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "切り倒した"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "…の地で"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして…に戻った"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "エルシャライム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:20:10.097410463Z",
+  "model": "glm-5.2"
+}

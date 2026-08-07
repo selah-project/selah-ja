@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 5:13",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "六日 ⟨あなたは⟩働き、あなたのすべての仕事をしなさい。",
+  "tokens": [
+    {
+      "surface": "שֵׁ֤שֶׁת",
+      "gloss": "六"
+    },
+    {
+      "surface": "יָמִים֙",
+      "gloss": "日"
+    },
+    {
+      "surface": "תַּֽעֲבֹ֔ד",
+      "gloss": "⟨あなたは⟩働く"
+    },
+    {
+      "surface": "וְעָשִׂ֖יתָ",
+      "gloss": "そして⟨あなたは⟩する"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מְלַאכְתֶּֽךָ",
+      "gloss": "あなたの仕事"
+    }
+  ],
+  "timestamp": "2026-08-07T10:09:04.445742695Z",
+  "model": "glm-5.2"
+}

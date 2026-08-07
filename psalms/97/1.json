@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 97,
+  "translation": "ヤハウェが王として治められた、地は歓喜せよ、多くの島々は喜べ。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王として治められた"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "歓喜せよ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "喜べ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "島々は"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:44.736012983Z",
+  "model": "glm-5.2"
+}

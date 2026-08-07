@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして⟨彼は⟩南方の王の王国に⟨て⟩入り、⟨彼⟩の地へと帰る",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "そして入る"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "王国に"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "南方"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "そして帰る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へと"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "彼の地"
+    }
+  ],
+  "timestamp": "2026-08-07T13:49:21.636672595Z",
+  "model": "glm-5.2"
+}

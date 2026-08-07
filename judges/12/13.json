@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "その後、エブドンすなわちヒッレルの子、ピルアトニが⟨את⟩イスラエルを裁いた。",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "そして裁いた"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "その後"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "エブドン"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "ヒッレル"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "ピルアトニ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:35:36.412493685Z",
+  "model": "glm-5.2"
+}

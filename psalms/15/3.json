@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "その舌でそしらず、同胞に悪を行わず、隣人に対してそしりを持ち上げない⟨者⟩。",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "רָגַ֨ל",
+      "gloss": "そしる"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜で"
+    },
+    {
+      "surface": "לְשֹׁנ֗וֹ",
+      "gloss": "その舌"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "עָשָׂ֣ה",
+      "gloss": "行う"
+    },
+    {
+      "surface": "לְרֵעֵ֣הוּ",
+      "gloss": "同胞に"
+    },
+    {
+      "surface": "רָעָ֑ה",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "וְ֝חֶרְפָּ֗ה",
+      "gloss": "そしりを"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נָשָׂ֥א",
+      "gloss": "持ち上げる"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "קְרֹֽבוֹ",
+      "gloss": "隣人"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:16.308839141Z",
+  "model": "glm-5.2"
+}

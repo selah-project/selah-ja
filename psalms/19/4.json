@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "ことばがなく、ことばがない — 〈彼らの〉声は聞かれない。",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ことばが"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "言葉らが"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "…なく"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "聞かれる"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "彼らの声は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:57.341518502Z",
+  "model": "glm-5.2"
+}

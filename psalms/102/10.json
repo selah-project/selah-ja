@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "灰をパンのように食べ、私の飲み物を涙と混ぜ合わせたから。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "灰を"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "パンのように"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "私は食べた"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "私の飲み物を"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "涙と"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "私は混ぜ合わせた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:20.594790957Z",
+  "model": "glm-5.2"
+}

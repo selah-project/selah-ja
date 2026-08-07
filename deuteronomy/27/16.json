@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "のろわれる者是、父と母を軽んじる者。そして全⟨the⟩民は言う、アーメン。",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "のろわれる"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "軽んじる者"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "父"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "と母"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "そして言う"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩民"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "アーメン"
+    }
+  ],
+  "timestamp": "2026-08-07T18:28:11.874501247Z",
+  "model": "glm-5.2"
+}

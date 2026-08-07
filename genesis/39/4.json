@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そしてヨセフは彼の目に恵みを見出し、彼に仕えた。そして彼は彼をその家の上に任じ、彼の持つすべてのものを彼の手に与えた。",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "そして見出した"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフは"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恵みを"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "彼の目に"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "そして仕えた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "そして彼を任じた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "彼の家"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべて"
+    },
+    {
+      "surface": "יש",
+      "gloss": "あるものを"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "彼の手に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:46.547804022Z",
+  "model": "glm-5.2"
+}

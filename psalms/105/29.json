@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "ヤハウェは彼らの水を血に変え、彼らの魚を死なせた。",
+  "tokens": [
+    {
+      "surface": "הָפַ֣ךְ",
+      "gloss": "変えられた"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの水を"
+    },
+    {
+      "surface": "מֵימֵיהֶ֣ם",
+      "gloss": "彼らの水を"
+    },
+    {
+      "surface": "לְדָ֑ם",
+      "gloss": "血に"
+    },
+    {
+      "surface": "וַ֝יָּ֗מֶת",
+      "gloss": "そして死なせた"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの魚を"
+    },
+    {
+      "surface": "דְּגָתָֽם",
+      "gloss": "彼らの魚を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:56.202479507Z",
+  "model": "glm-5.2"
+}

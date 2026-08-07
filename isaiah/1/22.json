@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "あなたの銀は≒きた、あなたの酒は水で薄められた。」",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "あなたの銀は"
+    },
+    {
+      "surface": "היה",
+      "gloss": "なった"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "≒に"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "あなたの酒は"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "薄められた"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:04.381480907Z",
+  "model": "glm-5.2"
+}

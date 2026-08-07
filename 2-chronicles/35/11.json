@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 35:11",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "彼らは過ぎ越しの獣を屠り、祭司たちは⟨その⟩血を彼らの手から注ぎ、レビ人たちは⟨それらの⟩皮を剥いだ。",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "彼らは屠り"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "過ぎ越しの獣を"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "注ぎ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たちは"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "彼らの手から"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "レビ人たちは"
+    },
+    {
+      "surface": "מפשיטים",
+      "gloss": "皮を剥いだ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:20:01.312521635Z",
+  "model": "glm-5.2"
+}

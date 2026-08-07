@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 74,
+  "translation": "あなたのものは昼、あなたのものはまた夜。あなたは光り輝くものと太陽を備え立てられた。",
+  "tokens": [
+    {
+      "surface": "לְךָ",
+      "gloss": "あなたのもの"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "昼は"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "また"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "あなたのもの"
+    },
+    {
+      "surface": "לַיְלָה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "הֲכִינוֹתָ",
+      "gloss": "備え立てられた"
+    },
+    {
+      "surface": "מָאוֹר",
+      "gloss": "光り輝くものと"
+    },
+    {
+      "surface": "וָשָׁמֶשׁ",
+      "gloss": "太陽を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:38.801638580Z",
+  "model": "glm-5.2"
+}

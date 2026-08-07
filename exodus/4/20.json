@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "モーセは⟨彼の⟩妻と⟨彼の⟩息子たちを取り、ろばに乗せ、ミツライムの地へ向かって帰った。そしてモーセは⟨彼の⟩手にエロヒムの杖を取った。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の妻を"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "彼の妻"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼の息子たちを"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "彼の息子たち"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "そして彼らを乗せた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "そのろば"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして帰った"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "〜の地へ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エロヒムの杖を"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "杖"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "彼の手に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:21.435076949Z",
+  "model": "glm-5.2"
+}

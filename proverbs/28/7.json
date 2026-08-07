@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 28:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "トーラーを守る者は、わきまえる息子⟨である⟩。しかし暴食の友は、自分の父に恥をもたらす。",
+  "tokens": [
+    {
+      "surface": "נוצר",
+      "gloss": "守る者"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "トーラー"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "わきまえる"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "しかし〜の友"
+    },
+    {
+      "surface": "זוללים",
+      "gloss": "暴食"
+    },
+    {
+      "surface": "יכלים",
+      "gloss": "恥をもたらす"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "自分の父に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:51.774324104Z",
+  "model": "glm-5.2"
+}

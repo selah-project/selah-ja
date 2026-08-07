@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そして⟨彼は⟩中央の横木を造り、板の途中を端から端へと通せるようにした。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして造った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "中央の横木"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "その横木"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "中央の"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "通すため"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "〜の途中を"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "その板の"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "その端"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "その端"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:20.424904469Z",
+  "model": "glm-5.2"
+}

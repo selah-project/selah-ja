@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 23:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "あなたの目がそれを飛び去らせようとするか — ⟨彼⟩はもういない。彼が自分のために翼を作り、鷲のように天を飛んでいくからだ。",
+  "tokens": [
+    {
+      "surface": "התעוף",
+      "gloss": "あなたの目が…飛び去らせようとするか"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "あなたの目"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それを"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "⟨彼⟩はもういない"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "作り"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "彼は…する"
+    },
+    {
+      "surface": "לו",
+      "gloss": "自分のために"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "翼"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "鷲のように"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "飛んでいく"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:17.928309907Z",
+  "model": "glm-5.2"
+}

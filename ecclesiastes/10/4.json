@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "もし支配者の霊があなたに上ったら、あなたの場を退くな。癒やすことは大きな罪を休ませる。",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "霊"
+    },
+    {
+      "surface": "הַמּוֹשֵׁל",
+      "gloss": "支配者の"
+    },
+    {
+      "surface": "תַּעֲלֶה",
+      "gloss": "上ったら"
+    },
+    {
+      "surface": "עָלֶיךָ",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "מְקוֹמְךָ",
+      "gloss": "あなたの場"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜な（禁止）"
+    },
+    {
+      "surface": "תַּנַּח",
+      "gloss": "退く"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "מַרְפֵּא",
+      "gloss": "癒やすこと"
+    },
+    {
+      "surface": "יַנִּיחַ",
+      "gloss": "休ませる"
+    },
+    {
+      "surface": "חֲטָאִים",
+      "gloss": "罪を"
+    },
+    {
+      "surface": "גְּדוֹלִים",
+      "gloss": "大きな"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:12.509505971Z",
+  "model": "glm-5.2"
+}

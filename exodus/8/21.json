@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "パロはモーセとアハロンを呼び、言った。「行け、あなたたちのエロヒムにこの地で犠牲を屠れ。」",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "呼んだ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "とアハロン"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "行け"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "屠れ"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "あなたたちのエロヒムに"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "この地で"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:19.208674706Z",
+  "model": "glm-5.2"
+}

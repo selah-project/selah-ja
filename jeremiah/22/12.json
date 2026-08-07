@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "彼らが彼を捕囚として連れ去った場所で、彼は死ぬ。そしてこの地を、彼はもはや見ない〈からである〉。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのも\/〜だから"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "〜の場所で"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "（関係詞）"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "彼らは捕囚として連れ去った"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "彼は死ぬ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "この地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "彼は見る"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    }
+  ],
+  "timestamp": "2026-08-07T11:47:42.935947168Z",
+  "model": "glm-5.2"
+}

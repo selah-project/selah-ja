@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "そして今、聞け、ヤコブわたしのしもべよ、イスラエルよ、わたしが⟨彼を⟩選んだ⟨者⟩。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤコブ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "わたしのしもべ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "わたしが選んだ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨彼を⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T11:31:32.211357879Z",
+  "model": "glm-5.2"
+}

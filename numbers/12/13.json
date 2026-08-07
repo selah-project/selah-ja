@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてモーシェはヤハウェに向かって叫び、言った。「エル、どうか、どうか彼女を癒してください。」",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "そして叫んだ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "癒してください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:55:38.897239430Z",
+  "model": "glm-5.2"
+}

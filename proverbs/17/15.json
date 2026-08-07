@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "悪者を正しいとし、正しい者を罪に定める者、ふたりともヤハウェの忌むべきものである。",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "正しいとする者"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者を"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "かつ罪に定める者"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しい者を"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "忌むべきもの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "גם",
+      "gloss": "も"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ふたりとも"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:14.159522807Z",
+  "model": "glm-5.2"
+}

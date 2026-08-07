@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 98,
+  "translation": "川々よ、手を打て。共に、山々は喜びの声を上げよ。",
+  "tokens": [
+    {
+      "surface": "נְהָרוֹת",
+      "gloss": "川々よ"
+    },
+    {
+      "surface": "יִמְחֲאוּ",
+      "gloss": "打て"
+    },
+    {
+      "surface": "כָּף",
+      "gloss": "手を"
+    },
+    {
+      "surface": "יַחַד",
+      "gloss": "共に"
+    },
+    {
+      "surface": "הָרִים",
+      "gloss": "山々は"
+    },
+    {
+      "surface": "יְרַנֵּנוּ",
+      "gloss": "喜びの声を上げよ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:24.294795698Z",
+  "model": "glm-5.2"
+}

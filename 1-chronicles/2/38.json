@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "オベドは⟨את⟩エフを生み、エフは⟨את⟩アザルヤを生んだ。",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "オベド"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エフ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "エフ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "エフ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アザルヤ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "アザルヤ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:25.846013828Z",
+  "model": "glm-5.2"
+}

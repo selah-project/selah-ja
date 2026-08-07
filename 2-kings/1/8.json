@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "彼らは彼に答えた、「毛皮をまとった人で、腰に革の帯を締めていました」。彼は言った、「エリヤ・ハ・ティシュビだ」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "彼らは答えた"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "まとった"
+    },
+    {
+      "surface": "שער",
+      "gloss": "毛皮を"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "そして…締めていました"
+    },
+    {
+      "surface": "עור",
+      "gloss": "革の"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "帯"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "腰に"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "彼は言った"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "エリヤ"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "ハ・ティシュビ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "だ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:47.834236764Z",
+  "model": "glm-5.2"
+}

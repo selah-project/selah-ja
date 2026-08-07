@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 115,
+  "translation": "天、天はヤハウェのもの。そして地は、人の子らに与えられた。",
+  "tokens": [
+    {
+      "surface": "הַשָּׁמַ֣יִם",
+      "gloss": "天は"
+    },
+    {
+      "surface": "שָׁמַ֭יִם",
+      "gloss": "天"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "ヤハウェのもの"
+    },
+    {
+      "surface": "וְ֝הָאָ֗רֶץ",
+      "gloss": "そして地は"
+    },
+    {
+      "surface": "נָתַ֥ן",
+      "gloss": "与えられた"
+    },
+    {
+      "surface": "לִבְנֵי",
+      "gloss": "〜の子らに"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:50.099470491Z",
+  "model": "glm-5.2"
+}

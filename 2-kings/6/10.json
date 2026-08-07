@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてイスラエルの王は、エロヒムの人 ⟨彼⟩ が ⟨彼⟩ に告げたその場所へ遣わし、⟨彼⟩ に警告を与え、そこで身を守った — 一度や二度ではなかった。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…遣わした"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "その場所"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨彼⟩ に"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "そして⟨彼⟩ に警告を与えた"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "そして身を守った"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一度"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "また…ない"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "二度"
+    }
+  ],
+  "timestamp": "2026-08-07T16:52:36.157241504Z",
+  "model": "glm-5.2"
+}

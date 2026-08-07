@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "なぜなら ⟨彼は⟩ 拘禁の家から出て王となるからだ。なぜなら ⟨彼は⟩ その王国においても貧しく生まれた ⟨からである⟩。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "〜の家から"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "拘禁"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出た"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王となるために"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜もまた"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "彼の王国において"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "רש",
+      "gloss": "貧しく"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:29.072336420Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 8:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして水は引き続けて減っていき、第十の月に至った。第十の月の、月の一日に、山々の頂が見えた。",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "そして水は"
+    },
+    {
+      "surface": "היו",
+      "gloss": "～であった"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "引き続けて"
+    },
+    {
+      "surface": "וחסור",
+      "gloss": "減っていき"
+    },
+    {
+      "surface": "עד",
+      "gloss": "～に至るまで"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "月の"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "第十の"
+    },
+    {
+      "surface": "בעשירי",
+      "gloss": "第十の月の"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "一日に"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "月の"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "見えた"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "頂が"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "山々の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:23.717486337Z",
+  "model": "glm-5.2"
+}

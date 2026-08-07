@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 3:38",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして私たちは⟨את⟩城壁を建て直し、城壁の全体がその半分まで継ぎ合わされた。そして民に⟨これを⟩行う心があった。",
+  "tokens": [
+    {
+      "surface": "ונבנה",
+      "gloss": "そして私たちは建て直した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "城壁"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "城壁"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "そして継ぎ合わされた"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全体"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "城壁"
+    },
+    {
+      "surface": "עד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "חציה",
+      "gloss": "その半分"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そしてあった"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "民に"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行うために"
+    }
+  ],
+  "timestamp": "2026-08-07T17:34:27.236746880Z",
+  "model": "glm-5.2"
+}

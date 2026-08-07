@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてお前はパロに言え——ヤハウェはこう仰る：イスラエルはわたしの子、わたしの長子である。",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "そしてお前は言え"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "仰る"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "わたしの子"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "わたしの長子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:52.010823261Z",
+  "model": "glm-5.2"
+}

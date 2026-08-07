@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "しかしハマンは自制し、自分の家に来た。そして使いを送り、⟨את⟩自分の友人たちと⟨את⟩自分の妻ゼレシュを呼び寄せた。",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "自制した"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ハマンは"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "自分の家に"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "使いを送った"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "呼び寄せた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の友人たち"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "自分の友人たち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ゼレシュ"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "ゼレシュ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "自分の妻"
+    }
+  ],
+  "timestamp": "2026-08-07T13:41:48.126604428Z",
+  "model": "glm-5.2"
+}

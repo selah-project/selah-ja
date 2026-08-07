@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ミツライムの王は彼らに言った。「モシェとアハロン、なぜお前たちは⟨את⟩民を彼らの労働から解放するのか。お前たちの重労働に行け。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "とアハロン"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "お前たちは解放する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "彼らの労働から"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "行け"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "お前たちの重労働に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:03.691904276Z",
+  "model": "glm-5.2"
+}

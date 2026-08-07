@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "わたしは彼女の口からバアルたちの名を取り除き、彼らはもはやその名によって思い起こされることはない。",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "わたしは取り除く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "バアルたちの名"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名を"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "バアルたちの"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "彼女の口から"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "思い起こされる"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "その名によって"
+    }
+  ],
+  "timestamp": "2026-08-07T14:36:55.915331874Z",
+  "model": "glm-5.2"
+}

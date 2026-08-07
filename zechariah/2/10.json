@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 2:10",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ああ、ああ、北の地から逃げよ、とヤハウェの御告げ。天の四方の風に向かってわたしは ⟨את⟩ あなたがたを散らしたからだ、とヤハウェの御告げ。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "逃げよ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "〜の地から"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "四つの"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "風"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "פרשתי",
+      "gloss": "わたしは散らした"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがた"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:37:58.690669173Z",
+  "model": "glm-5.2"
+}

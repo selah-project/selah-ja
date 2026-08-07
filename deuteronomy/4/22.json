@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "なぜなら私がこの地で死に、私が⟨את⟩ヨルダンを渡らないからだ。そしてあなたがたは渡り、⟨את⟩この良い地を所有するのだ。",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "אָנֹכִ֥י",
+      "gloss": "私"
+    },
+    {
+      "surface": "מֵת֙",
+      "gloss": "死ぬ"
+    },
+    {
+      "surface": "בָּאָ֣רֶץ",
+      "gloss": "地で"
+    },
+    {
+      "surface": "הַזֹּ֔את",
+      "gloss": "この"
+    },
+    {
+      "surface": "אֵינֶ֥נִּי",
+      "gloss": "私が〜ない"
+    },
+    {
+      "surface": "עֹבֵ֖ר",
+      "gloss": "渡る"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ヨルダン"
+    },
+    {
+      "surface": "הַיַּרְדֵּ֑ן",
+      "gloss": "ヨルダン"
+    },
+    {
+      "surface": "וְאַתֶּם֙",
+      "gloss": "そしてあなたがたは"
+    },
+    {
+      "surface": "עֹֽבְרִ֔ים",
+      "gloss": "渡っている"
+    },
+    {
+      "surface": "וִֽירִשְׁתֶּ֕ם",
+      "gloss": "そして所有する"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "この良い地"
+    },
+    {
+      "surface": "הָאָ֥רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "הַטּוֹבָ֖ה",
+      "gloss": "良い"
+    },
+    {
+      "surface": "הַזֹּֽאת",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T10:09:19.524737979Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼らは⟨את⟩祭壇の灰を取り除き、その上に紫の布を広げる。",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "そして彼らは灰を取り除き"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "そして広げる"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "布"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "紫の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:50:17.829718425Z",
+  "model": "glm-5.2"
+}

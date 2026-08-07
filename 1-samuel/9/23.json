@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "シュムエルは料理係に言った、「私があなたに与えた⟨את⟩あの取り分を──私があなたに『あなたと共に置け』と言ったところの──出しなさい。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエルは"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "料理係に"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "出しなさい"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あの取り分"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "あの取り分"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ところの"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "私が与えた"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ところの"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "私が言った"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "שים",
+      "gloss": "置け"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたと共に"
+    }
+  ],
+  "timestamp": "2026-08-07T16:43:48.648547293Z",
+  "model": "glm-5.2"
+}

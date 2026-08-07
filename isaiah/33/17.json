@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "王をその美において、あなたの目は見つめる。遠くの地を〈彼らは〉見る。",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "王を"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "その美において"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "見つめる"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "あなたの目は"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "見る"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "遠くの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:28:20.322446826Z",
+  "model": "glm-5.2"
+}

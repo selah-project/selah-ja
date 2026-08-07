@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "祭司たちのうちから――エダヤ、ヨヤリブの子、ヤキン。",
+  "tokens": [
+    {
+      "surface": "מִן",
+      "gloss": "…のうちから"
+    },
+    {
+      "surface": "הַֽכֹּהֲנִ֑ים",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "יְדַֽעְיָ֥ה",
+      "gloss": "エダヤ"
+    },
+    {
+      "surface": "בֶן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "יוֹיָרִ֖יב",
+      "gloss": "ヨヤリブ"
+    },
+    {
+      "surface": "יָכִֽין",
+      "gloss": "ヤキン"
+    }
+  ],
+  "timestamp": "2026-08-07T13:57:45.153074245Z",
+  "model": "glm-5.2"
+}

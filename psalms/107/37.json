@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "そして彼らは畑に種を蒔き、ぶどう園を植え、収穫の実を⟨もたらした⟩。",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "そして彼らは種を蒔いた"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "畑"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "そして植えた"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ぶどう園"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "そして⟨彼らは⟩実を⟨もたらした⟩"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "実"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "収穫"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:32.508244692Z",
+  "model": "glm-5.2"
+}

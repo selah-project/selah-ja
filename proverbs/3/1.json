@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "わが子よ、わたしのトーラーを忘れるな、わたしのミツォートを、あなたの心は守れ。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "わが子よ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "わたしのトーラーを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "忘れる"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "わたしのミツォートを"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "守れ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "あなたの心は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:54.975966727Z",
+  "model": "glm-5.2"
+}

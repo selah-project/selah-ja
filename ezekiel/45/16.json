@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "国の民のすべては、イスラエルにおける君侯へ、この奉納物に向かう者となる。",
+  "tokens": [
+    {
+      "surface": "כֹּל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "国の"
+    },
+    {
+      "surface": "יִהְיוּ",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜へ向かう者"
+    },
+    {
+      "surface": "הַתְּרוּמָה",
+      "gloss": "奉納物"
+    },
+    {
+      "surface": "הַזֹּאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "לַנָּשִׂיא",
+      "gloss": "君侯へ"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵל",
+      "gloss": "イスラエルにおける"
+    }
+  ],
+  "timestamp": "2026-08-07T12:16:17.215615847Z",
+  "model": "glm-5.2"
+}

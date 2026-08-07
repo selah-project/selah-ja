@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "まことに、ヤハウェはイスラエルの家にこう仰る、私を求めよ、そうすれば生きよ、と。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "仰る"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "私を求めよ"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "そうすれば生きよ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:23:05.846809895Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 4:2",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "言葉を試みて ⟨あなた⟩ に向かえば ⟨あなた⟩ ⟨は⟩ 疲れる ⟨だろうか⟩。言葉を飲み込む ⟨ことを⟩ 誰が ⟨できる⟩。",
+  "tokens": [
+    {
+      "surface": "הנסה",
+      "gloss": "試みて"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "言葉を"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "תלאה",
+      "gloss": "疲れる"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "飲み込む"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "言葉を"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "できる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:19:16.490878910Z",
+  "model": "glm-5.2"
+}

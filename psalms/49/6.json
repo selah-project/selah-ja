@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "なぜわたしは灾の日に恐れようか。わたしのかかとの不義がわたしを囲むとき。",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "わたしは恐れよう"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "רע",
+      "gloss": "灾"
+    },
+    {
+      "surface": "עון",
+      "gloss": "不義"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "わたしのかかと"
+    },
+    {
+      "surface": "יְסֻבֵּנִי",
+      "gloss": "わたしを囲む"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:56.317378127Z",
+  "model": "glm-5.2"
+}

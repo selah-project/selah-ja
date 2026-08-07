@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "銀から滓を取り除け、そうすれば精錬師のための器が出て来る。",
+  "tokens": [
+    {
+      "surface": "הָג֣וֹ",
+      "gloss": "取り除け"
+    },
+    {
+      "surface": "סִיגִ֣ים",
+      "gloss": "滓を"
+    },
+    {
+      "surface": "מִכָּ֑סֶף",
+      "gloss": "銀から"
+    },
+    {
+      "surface": "וַיֵּצֵ֖א",
+      "gloss": "そうすれば…出て来る"
+    },
+    {
+      "surface": "לַצֹּרֵ֣ף",
+      "gloss": "精錬師のための"
+    },
+    {
+      "surface": "כֶּֽלִי",
+      "gloss": "器"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:58.873330050Z",
+  "model": "glm-5.2"
+}

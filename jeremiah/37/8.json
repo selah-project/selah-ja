@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 37:8",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そしてカスディム（カルデヤ人）は戻り、この都市の上に戦いを挑み、それを捕え、火で焼き尽くす。」",
+  "tokens": [
+    {
+      "surface": "ושבו",
+      "gloss": "そして…は戻る"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "カスディム（カルデヤ人）"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "そして戦いを挑む"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "この都市"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "そしてそれを捕える"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "そしてそれを焼き尽くす"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:53:17.148492946Z",
+  "model": "glm-5.2"
+}

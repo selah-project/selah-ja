@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ヤアコブはラバンに言った。「私の妻を⟨את⟩渡していただきたい。私の日々が満ちたのだから。そして私は彼女のところに入りたい。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ラバンに"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "どうか渡してください"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の妻"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "私の妻を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "満ちた"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "私の日々が"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "そして私は入りたい"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "彼女のところへ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:18.992138492Z",
+  "model": "glm-5.2"
+}

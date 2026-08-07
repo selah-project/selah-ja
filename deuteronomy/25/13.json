@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "あなたの袋の中に石と石、大きいものと小さいいものがあってはならない。",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "あってはならない"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "בְּכִֽיסְךָ֖",
+      "gloss": "あなたの袋の中に"
+    },
+    {
+      "surface": "אֶ֣בֶן",
+      "gloss": "石"
+    },
+    {
+      "surface": "וָאָ֑בֶן",
+      "gloss": "と石"
+    },
+    {
+      "surface": "גְּדוֹלָ֖ה",
+      "gloss": "大きいもの"
+    },
+    {
+      "surface": "וּקְטַנָּֽה",
+      "gloss": "と小さいもの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:07.644446652Z",
+  "model": "glm-5.2"
+}

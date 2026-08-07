@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "私ひとりでは、⟨את⟩このすべての民を負うことができない。それは私には重すぎるからである。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "私はできる"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私は"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ひとりで"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "負うことを"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "このすべての民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "重い"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私には（すぎる）"
+    }
+  ],
+  "timestamp": "2026-08-07T09:56:21.762782309Z",
+  "model": "glm-5.2"
+}

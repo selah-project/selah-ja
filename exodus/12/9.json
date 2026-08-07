@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "それを生のまま、あるいは水で煮て煮えたものを食べてはならない。火で焼いたものだけを――その頭を、その脚の上に、そしてその内臓の上に⟨置いて⟩。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ないであれ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたたちは食べる"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "それから"
+    },
+    {
+      "surface": "נא",
+      "gloss": "生の"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "および煮えた"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "煮られたもの"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水で"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ではなく"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "焼いたもの"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火の"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "その頭を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "その脚"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "および〜の上に"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "その内臓"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:55.756628778Z",
+  "model": "glm-5.2"
+}

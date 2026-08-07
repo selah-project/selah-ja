@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 27:17",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "もし彼がヨベルの年から⟨彼の⟩畑を聖別するなら、あなたの評価どおりにそれは確定する。",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "מִשְּׁנַ֥ת",
+      "gloss": "…から"
+    },
+    {
+      "surface": "הַיֹּבֵ֖ל",
+      "gloss": "ヨベルの年"
+    },
+    {
+      "surface": "יַקְדִּ֣ישׁ",
+      "gloss": "聖別する"
+    },
+    {
+      "surface": "שָׂדֵ֑הוּ",
+      "gloss": "⟨彼の⟩畑"
+    },
+    {
+      "surface": "כְּעֶרְכְּךָ֖",
+      "gloss": "あなたの評価どおりに"
+    },
+    {
+      "surface": "יָקֽוּם",
+      "gloss": "確定する"
+    }
+  ],
+  "timestamp": "2026-08-07T09:45:08.113914899Z",
+  "model": "glm-5.2"
+}

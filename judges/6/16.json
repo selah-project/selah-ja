@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ヤハウェは⟨彼⟩に言われた、「私があなたと共にいるゆえに、あなたはミディヤンを⟨את⟩一人の人のように打ち砕くであろう。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言われた"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨彼⟩に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ゆえに"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "私がいる"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "あなたは打ち砕くであろう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ミディヤン"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ミディヤンを"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "一人の人のように"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一人の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:33:32.588707326Z",
+  "model": "glm-5.2"
+}

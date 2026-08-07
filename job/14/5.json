@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "もし彼の日数が定められており、彼の月数があなたと共にあるなら — あなたは彼の定めを設け、彼はそれを越えることができない。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "定められて"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "彼の日数"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "数"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "彼の月"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "彼の定め"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "あなたは設けた"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "彼は越える"
+    }
+  ],
+  "timestamp": "2026-08-07T13:23:05.791979587Z",
+  "model": "glm-5.2"
+}

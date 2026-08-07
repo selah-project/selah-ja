@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 54:14",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 54,
+  "translation": "義においてあなたは立てられる。圧迫から遠ざかれ、あなたは恐れないから。そして恐怖から、それはあなたに近づかないから。",
+  "tokens": [
+    {
+      "surface": "בצדקה",
+      "gloss": "義において"
+    },
+    {
+      "surface": "תכונני",
+      "gloss": "あなたは立てられる"
+    },
+    {
+      "surface": "רחקי",
+      "gloss": "遠ざかれ"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "圧迫から"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "あなたは恐れる"
+    },
+    {
+      "surface": "וממחתה",
+      "gloss": "そして恐怖から"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "それは近づく"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:38.520378284Z",
+  "model": "glm-5.2"
+}

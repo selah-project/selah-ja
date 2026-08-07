@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ヤハウェは ⟨御自分の⟩民に力を与える、ヤハウェは ⟨את⟩ ⟨御自分の⟩民を祝福する、平和をもって。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "力"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "彼の民に"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "祝福する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の民"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼の民"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "平和をもって"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:11.149299542Z",
+  "model": "glm-5.2"
+}

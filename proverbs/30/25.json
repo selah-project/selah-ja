@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "蟻たちは強くない民、しかし夏に彼らの食物を備えた。",
+  "tokens": [
+    {
+      "surface": "הַנְּמָלִים",
+      "gloss": "蟻たち"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "民"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "עָז",
+      "gloss": "強い"
+    },
+    {
+      "surface": "וַיָּכִינוּ",
+      "gloss": "しかし備えた"
+    },
+    {
+      "surface": "בַּקַּיִץ",
+      "gloss": "夏に"
+    },
+    {
+      "surface": "לַחְמָם",
+      "gloss": "彼らの食物"
+    }
+  ],
+  "timestamp": "2026-08-07T17:25:56.518886956Z",
+  "model": "glm-5.2"
+}

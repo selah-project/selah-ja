@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 15:6",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして、流出（るすらい）の人が座っていた器の上に座る者は、自分の衣を洗い、水に身を浸し、夕方まで汚れている。",
+  "tokens": [
+    {
+      "surface": "והישב",
+      "gloss": "そして座る者は"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "その器"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "座っていた"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "流出の人"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "洗う"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "自分の衣を"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "そして身を浸す"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水に"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "そして汚れている"
+    },
+    {
+      "surface": "עד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "夕方"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:43.859805212Z",
+  "model": "glm-5.2"
+}

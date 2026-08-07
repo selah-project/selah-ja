@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 34:16",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そしてシャファンは⟨את⟩その書を王のもとに持って行った。そしてシャファンは王にさらに言葉を⟨את⟩報告した——すなわち、「あなたのしもべたちの手に委ねられたすべての事——彼らはそれを行っている」。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして持って行った"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "シャファン"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その書"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "その書"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のもとに"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして報告した"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "すなわち"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "委ねられた"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…の手に"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "あなたのしもべたち"
+    },
+    {
+      "surface": "הם",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "行っている"
+    }
+  ],
+  "timestamp": "2026-08-07T14:19:40.110659308Z",
+  "model": "glm-5.2"
+}

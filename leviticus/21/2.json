@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "ただし、彼に近い血縁のためには⟨除く⟩——すなわち彼の母のため、彼の父のため、彼の息子のため、彼の娘のため、そして彼の兄弟のため。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜であるならば"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "彼の血縁のため"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "近い"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "彼の母のため"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "そして彼の父のため"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "そして彼の息子のため"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "そして彼の娘のため"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "そして彼の兄弟のため"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:08.286373187Z",
+  "model": "glm-5.2"
+}

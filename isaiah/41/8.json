@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "そしてあなた、イスラエル、わたしのしもべ、ヤコブ、わたしがあなたを選んだ者、わたしの愛する者アブラハムの種よ。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "そしてあなた"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "わたしのしもべ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤコブ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "わたしがあなたを選んだ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "種"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "わたしの愛する者"
+    }
+  ],
+  "timestamp": "2026-08-07T16:57:45.626788942Z",
+  "model": "glm-5.2"
+}

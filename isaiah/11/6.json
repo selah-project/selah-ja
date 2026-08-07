@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 11:6",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてオオカミは子羊とともに宿り、ヒョウは子ヤギとともに伏す。そして子牛と若ライオンと肥えた家畜は共に〈いる〉。そして小さな子供が彼らを導く。",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "そして宿る"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "オオカミ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "子羊"
+    },
+    {
+      "surface": "ונמר",
+      "gloss": "そしてヒョウ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "子ヤギ"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "伏す"
+    },
+    {
+      "surface": "ועגל",
+      "gloss": "そして子牛"
+    },
+    {
+      "surface": "וכפיר",
+      "gloss": "そして若ライオン"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "そして肥えた家畜"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "共に"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "そして子供"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "小さな"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "導く"
+    },
+    {
+      "surface": "בם",
+      "gloss": "彼らを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:44.146960882Z",
+  "model": "glm-5.2"
+}

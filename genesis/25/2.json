@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "彼女は彼に⟨את⟩ジムランと⟨את⟩ヨクシャンと⟨את⟩メダンと⟨את⟩ミドヤンと⟨את⟩イシュバクと⟨את⟩シュアハを産んだ。",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ジムラン"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "ジムラン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ヨクシャン"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "ヨクシャン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "メダン"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "メダン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ミドヤン"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ミドヤン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "イシュバク"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "イシュバク"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "シュアハ"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "シュアハ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:16.418538556Z",
+  "model": "glm-5.2"
+}

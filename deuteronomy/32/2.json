@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "滴り落ちよ、雨のように、わたしの教えは、露のように滴れ、わたしの言葉は、若草の上の細雨のように、草木の上の降り注ぐ雨のように。",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "滴り落ちよ"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "雨のように"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "わたしの教えは"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "滴れ"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "露のように"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "わたしの言葉は"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "〜のように細雨"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "〜の上の"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "若草"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "降り注ぐ雨のように"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "〜の上の"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草木"
+    }
+  ],
+  "timestamp": "2026-08-07T10:22:04.130811689Z",
+  "model": "glm-5.2"
+}

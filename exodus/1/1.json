@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてこれらはイスラエルの子らの名前、ミツライム（エジプト）へ来た者たちの ⟨את⟩ヤコブ、一人の男とその家が来た。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名前"
+    },
+    {
+      "surface": "בני",
+      "gloss": "の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "来た者たちの"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ミツライム（エジプト）へ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤコブ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤコブ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一人の男"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "とその家が"
+    },
+    {
+      "surface": "באו",
+      "gloss": "来た"
+    }
+  ],
+  "timestamp": "2026-08-07T09:12:08.044420254Z",
+  "model": "glm-5.2"
+}

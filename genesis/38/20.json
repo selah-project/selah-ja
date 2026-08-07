@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "ユダは山羊の子を、その友人のアドラム人の手によって遣わし、⟨את⟩女の手から担保を取るため〈彼を遣わした〉が、彼は彼女を見つけなかった。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "遣わした"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "山羊の子"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "山羊の子を"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "その山羊の"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手によって"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "彼の友人の"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "アドラム人の"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "取るため"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "その担保を"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "手から"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女の"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜なかった"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "彼は彼女を見つけ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:07:18.274444281Z",
+  "model": "glm-5.2"
+}

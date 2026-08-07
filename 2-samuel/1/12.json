@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 1:12",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして彼らは哀悼し、泣き、夕方まで断食した。シャウルと、その子ヨナタンと、ヤハウェの民と、イスラエルの家のために。彼らが剣に倒れたからである。",
+  "tokens": [
+    {
+      "surface": "ויספדו",
+      "gloss": "そして彼らは哀悼した"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "泣き"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "断食した"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "夕方"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜のために"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ヨナタン"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜のために"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜のために"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "彼らが倒れた"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "剣に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:26.903401342Z",
+  "model": "glm-5.2"
+}

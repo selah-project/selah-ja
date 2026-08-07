@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 9:6",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "彼らの愛も、彼らの憎しみも、彼らの妬みも、すでに消えうせた。彼らはもはや永遠に、太陽の下でなされるすべての事にあずかる分を持たない。",
+  "tokens": [
+    {
+      "surface": "גַּ֣ם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "אַהֲבָתָ֧ם",
+      "gloss": "彼らの愛"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "שִׂנְאָתָ֛ם",
+      "gloss": "彼らの憎しみ"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "קִנְאָתָ֖ם",
+      "gloss": "彼らの妬み"
+    },
+    {
+      "surface": "כְּבָ֣ר",
+      "gloss": "すでに"
+    },
+    {
+      "surface": "אָבָ֑דָה",
+      "gloss": "消えうせた"
+    },
+    {
+      "surface": "וְחֵ֨לֶק",
+      "gloss": "分"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "לָהֶ֥ם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "עוֹד֙",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "לְעוֹלָ֔ם",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "בְּכֹ֥ל",
+      "gloss": "すべての…に"
+    },
+    {
+      "surface": "אֲשֶֽׁר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "נַעֲשָׂ֖ה",
+      "gloss": "なされる"
+    },
+    {
+      "surface": "תַּ֥חַת",
+      "gloss": "…の下で"
+    },
+    {
+      "surface": "הַשָּֽׁמֶשׁ",
+      "gloss": "太陽"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:11.643021859Z",
+  "model": "glm-5.2"
+}

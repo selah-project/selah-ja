@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "まことにヤハウェは裁きを愛する、そして⟨彼は⟩⟨את⟩⟨彼の⟩忠信な者たちを捨てない、とこしえに⟨彼らは⟩守られる、そして悪者の子孄は断ち切られる。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛する"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "裁き"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "捨てる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "忠信な者たち"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "彼の忠信な者たち"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "守られる"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "そして子孄"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者の"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "断ち切られる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:33.472346384Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "ヤハウェ⟨あなたがたの⟩エロヒムのあとに⟨あなたがたは⟩歩み、⟨את⟩彼を恐れよ。⟨את⟩彼のミツワを守り、彼の声に聞き従い、⟨את⟩彼に仕え、彼にすがりつけ。",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "…のあとに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "あなたがたのエロヒム"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "歩む"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼のミツワ"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "彼のミツワ"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "守る"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "彼の声に"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "聞き従う"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "仕える"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "すがりつく"
+    }
+  ],
+  "timestamp": "2026-08-07T10:14:10.401424477Z",
+  "model": "glm-5.2"
+}

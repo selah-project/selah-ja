@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "私のほうに顔を向け、私に恵みを施してください、あなたの名を愛する者へのならわしのように。",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "顔を向けて"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のほうに"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "私に恵みを施してください"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "…のならわしのように"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "…を愛する者への"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの名"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:35.207887219Z",
+  "model": "glm-5.2"
+}

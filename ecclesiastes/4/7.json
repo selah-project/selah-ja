@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして ⟨私は⟩ 立ち返り、太陽の下にあるヘブル ⟨を⟩ ⟨私は⟩ 見た。",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "そして私は立ち返り"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "そして私は見た"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ヘブル"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下にある"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:28.276970353Z",
+  "model": "glm-5.2"
+}

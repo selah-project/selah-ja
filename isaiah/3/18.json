@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "その日に、アドナイは⟨את⟩足飾りの栄光を、頭飾りと三日月形の飾りとともに取り除かれる。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "……の日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "取り除かれる"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "足飾りの栄光"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "栄光"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "足飾り"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "頭飾り"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "三日月形の飾り"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:09.985750080Z",
+  "model": "glm-5.2"
+}

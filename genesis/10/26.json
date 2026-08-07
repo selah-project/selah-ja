@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてヨクタンは⟨את⟩アルモダドと、⟨את⟩シェレフと、⟨את⟩ハツァルマヴェトと、⟨את⟩エラフを生んだ。",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "そしてエベルに"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アルモダド"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "アルモダド"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "シェレフ"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "シェレフ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ハツァルマヴェト"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "ハツァルマヴェト"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "エラフ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "エラフ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:49.371295687Z",
+  "model": "glm-5.2"
+}

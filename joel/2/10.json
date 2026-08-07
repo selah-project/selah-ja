@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 2:10",
+  "book": "joel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "その御前に地は震え、天は揺れる。太陽と月は暗くなり、星々はその輝きを引き収める。",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "その御前に"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "震える"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "揺れる"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "と月"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "暗くなる"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "と星々"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "引き収める"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "その輝き"
+    }
+  ],
+  "timestamp": "2026-08-07T12:21:18.424747354Z",
+  "model": "glm-5.2"
+}

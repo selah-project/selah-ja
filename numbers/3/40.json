@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 3:40",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてヤハウェはモシェに言われた。「イスラエルの子らのすべての初子の男子を、一か月以上の者から数え、その名の数⟨את⟩を取れ。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…は言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "数えよ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "初子の"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男子を"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…の子らの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "…の子から"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "一か月の"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "およびそれ以上の"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "そして取れ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その名の数"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "数を"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "その名の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:27.281627872Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "そして彼らの願いを彼らに与え、彼らののどにやつれを送られた。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして与えた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "彼らの願い"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "そして送った"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "やつれ"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "彼らののどに"
+    }
+  ],
+  "timestamp": "2026-08-07T17:21:39.718589175Z",
+  "model": "glm-5.2"
+}

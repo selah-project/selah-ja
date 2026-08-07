@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "あなたのもとに ⟨は⟩ 命の源があるからであり、あなたの光のうちに私たちは光を見る。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "עִ֭מְּךָ",
+      "gloss": "あなたのもとに"
+    },
+    {
+      "surface": "מְק֣וֹר",
+      "gloss": "源"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "命の"
+    },
+    {
+      "surface": "בְּ֝אוֹרְךָ֗",
+      "gloss": "あなたの光のうちに"
+    },
+    {
+      "surface": "נִרְאֶה",
+      "gloss": "私たちは見る"
+    },
+    {
+      "surface": "אֽוֹר",
+      "gloss": "光を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:24.488298396Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "あなたは⟨את⟩彼女の手を切り取るであろう。あなたの目は憐れんではならない。",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "そして切り取る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼女の手"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "彼女の手"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "憐れむ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "あなたの目"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:19.764667139Z",
+  "model": "glm-5.2"
+}

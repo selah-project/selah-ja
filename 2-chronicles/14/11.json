@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてヤハウェは⟨את⟩クシュ人をアサとユダの前に打たれた。そしてクシュ人は逃げた。",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "そして打たれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "クシュ人"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "クシュ人"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "～の前に"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "アサ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "そして～の前に"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "そして逃げた"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "クシュ人"
+    }
+  ],
+  "timestamp": "2026-08-07T14:14:07.701861208Z",
+  "model": "glm-5.2"
+}

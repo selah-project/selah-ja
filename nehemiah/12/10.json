@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "イェシュアは⟨את⟩ヨヤキムを生み、ヨヤキムは⟨את⟩エルヤシブを生み、エルヤシブは⟨את⟩ヨヤダを生んだ。",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "イェシュアは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨヤキム"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "ヨヤキムを"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "ヨヤキムは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エルヤシブ"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "エルヤシブを"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "エルヤシブは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨヤダ"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "ヨヤダを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:58:42.366025178Z",
+  "model": "glm-5.2"
+}

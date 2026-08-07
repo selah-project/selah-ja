@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 46:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "私自身があなたとともにミツライムに下り、私自身がまた確かにあなたを上らせる。そしてヨセフがその手をあなたの目の上に置くであろう。」",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "私自身が"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "下る"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたとともに"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ミツライムに"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "そして私自身が"
+    },
+    {
+      "surface": "אעלך",
+      "gloss": "あなたを上らせる"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "そしてヨセフ"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "置くであろう"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手を"
+    },
+    {
+      "surface": "על",
+      "gloss": "……の上に"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "あなたの目"
+    }
+  ],
+  "timestamp": "2026-08-07T09:10:23.287185693Z",
+  "model": "glm-5.2"
+}

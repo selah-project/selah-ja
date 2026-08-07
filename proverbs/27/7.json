@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "飽いたネフシュは蜂の巣を踏みつけ、飢えたネフシュは苦いものすべてを甘いとする。",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ネフシュ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "飽いた"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "踏みつける"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "蜂の巣を"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "そしてネフシュ"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "飢えた"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべてを"
+    },
+    {
+      "surface": "מר",
+      "gloss": "苦いもの"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "甘いとする"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:06.984785259Z",
+  "model": "glm-5.2"
+}

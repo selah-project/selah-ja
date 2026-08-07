@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "あなたを消すとき、わたしは天を覆い、⟨את⟩彼らの星々を暗くする。太陽を雲で覆い、月はその光を輝かせない。",
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "わたしは覆す"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "あなたを消すとき"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天を"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "わたしは暗くする"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの星々を"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "彼らの星々"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "太陽を"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "雲で"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "わたしは覆う"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "月は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "輝かせる"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "その光を"
+    }
+  ],
+  "timestamp": "2026-08-07T14:35:52.647189426Z",
+  "model": "glm-5.2"
+}

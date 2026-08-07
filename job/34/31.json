@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "というのは、エルに対して「私は罰を受け入れました。もう不正を働きません」と言われた者が、あるかのように。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "言われた"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "私は受け入れました"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אחבל",
+      "gloss": "不正を働き"
+    }
+  ],
+  "timestamp": "2026-08-07T13:31:14.546630909Z",
+  "model": "glm-5.2"
+}

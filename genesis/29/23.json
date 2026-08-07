@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "夕べになったとき、彼は娘のレアを⟨את⟩連れてきて、彼女を⟨את⟩彼のもとに導き入れた。そして彼は彼女のところに入った。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜になった"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "夕べに"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして彼は取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レア"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "レアを"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "彼の娘である"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして導き入れた"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "彼女"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼のもとへ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして彼は入った"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "彼女のところへ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:18.992450342Z",
+  "model": "glm-5.2"
+}

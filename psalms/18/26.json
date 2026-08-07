@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "ヘセドの〈者〉には、あなたはヘセドをもって〈応じられる〉。全き〈者〉には、あなたは全き〈者〉として〈応じられる〉。",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "〜には"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ヘセドの者"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "あなたはヘセドをもって応じられる"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜には"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "者"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "全き"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "あなたは全き者として応じられる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:36.490741138Z",
+  "model": "glm-5.2"
+}

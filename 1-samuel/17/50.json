@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてダビデは投げ石と石によってペリシテ人に勝り、ペリシテ人を打って彼を死に至らせた。ダビデの手には剣がなかった。",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "そして…勝った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…に（対して）"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ペリシテ人"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "投げ石で"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "そして石で"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "そして…打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ペリシテ人"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ペリシテ人"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "そして彼を死に至らせた"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "そして剣"
+    },
+    {
+      "surface": "אין",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手に"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:53.606608278Z",
+  "model": "glm-5.2"
+}

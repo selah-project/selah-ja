@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 56,
+  "translation": "エロヒムにおいて、私は⟨その⟩言葉を賛美する。エロヒムにおいて私は信頼した、私は恐れない。肉が私に何をなしえようか。",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "エロヒムにおいて"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "私は賛美する"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "⟨その⟩言葉"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "エロヒムにおいて"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "私は信頼した"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "私は恐れる"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "なしえようか"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:46.147598753Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "ダビデはそこから行き、アドラムの洞窟に逃れた。彼の兄弟たちと彼の父の全家が⟨これを⟩聞いて、彼のもとに下って行き、そこに⟨留まった⟩。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして……行った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "そして……逃れた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "……へ"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "洞窟の"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "アドラム"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "そして……聞いた"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄弟たち"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父の"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "そして……下って行った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼のもとに"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこへ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:13.233326360Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 2:9",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ヤハウェはそのヘセドの者の足を守り、悪者どもはやみの中で沈黙する。力によって人が強くなるのではないからである。",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "足は"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "そのヘセドの者の"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ヤハウェは守られる"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "悪者どもは"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "やみの中で"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "沈黙する"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "力によって"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "強くなる"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:02.440262438Z",
+  "model": "glm-5.2"
+}

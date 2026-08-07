@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてマキルには私は⟨את⟩ギルアドを与えた。",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "そしてマキルには"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "私は与えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ギルアド"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ギルアド"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:04.323544916Z",
+  "model": "glm-5.2"
+}

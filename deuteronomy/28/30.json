@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "あなたはひとりの女を婚約する、そしてほかの男が彼女と寝る。家を建てる、そしてそこに住まない。ぶどう園を植える、そしてその実を用いない。",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "女を"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "婚約する"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "そして男"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ほかの"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "彼女と寝る"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家を"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "建てる"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "住まない"
+    },
+    {
+      "surface": "בו",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ぶどう園を"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "植える"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "その実を用いない"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:52.773810395Z",
+  "model": "glm-5.2"
+}

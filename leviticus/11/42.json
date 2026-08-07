@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 11:42",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "腹這いで歩くすべてのもの、また四つで歩くすべてのもの、また地の上を這うすべての這うもののうち、足を多く持つすべてのものに至るまで — あなたたちはそれらを食べてはならない、それらは忌み物だからである",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "歩くもの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜で"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "腹"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "またすべての"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "歩くもの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜で"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四つ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מרבה",
+      "gloss": "多く持つもの"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "足"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "這うもの"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "這う"
+    },
+    {
+      "surface": "על",
+      "gloss": "の上を"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תאכלום",
+      "gloss": "あなたたちはそれらを食べては"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "忌み物"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨それら⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:44.555577897Z",
+  "model": "glm-5.2"
+}

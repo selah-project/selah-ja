@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "ヤハウェからエレミヤに ⟨あった⟩ ⟨ことば⟩、⟨את⟩ これは ⟨…⟩ から来た ⟨ことば⟩ であって、次のように言われている。",
+  "tokens": [
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "⟨…⟩"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יִרְמְיָהוּ",
+      "gloss": "エレミヤ"
+    },
+    {
+      "surface": "מֵאֵת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "次のように言われて"
+    }
+  ],
+  "timestamp": "2026-08-07T18:35:02.031389875Z",
+  "model": "glm-5.2"
+}

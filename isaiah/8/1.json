@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてヤハウェは私に言われた：「あなたは大型の書き板を取り、それに人の筆で『掠奪は速やかに、獲物は急いで』と書き記せ。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "קח",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "書き板を"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大型の"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "そして…書け"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "…で"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "人の"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "速やかに"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "掠奪は"
+    },
+    {
+      "surface": "חש",
+      "gloss": "急いで"
+    },
+    {
+      "surface": "בז",
+      "gloss": "獲物は"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:12.808293438Z",
+  "model": "glm-5.2"
+}

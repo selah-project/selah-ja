@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして彼は息子たちに、「私のために⟨את⟩ろばに鞍を置け」と言った。彼らは鞍を置いた。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "鞍を置け"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ろば"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ろば"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "彼らは鞍を置いた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:03:14.936799786Z",
+  "model": "glm-5.2"
+}

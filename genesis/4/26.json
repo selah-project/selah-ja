@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてシェトにも、彼にも息子が生まれた。彼は⟨את⟩その名をエノシュと呼んだ。その時、ヤハウェの名によって呼び求めることが始められた。",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "そしてシェトに"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして彼は呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の名"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "エノシュ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "その時"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "始められた"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "呼び求めること"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "〜の名によって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:59.011742392Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 58,
+  "translation": "エロヒム、彼らの歯をその口の中で打ち砕いてください。ヤハウェ、若獅子の奥歯を引き抜いてください。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "打ち砕く"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "彼らの歯を"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "その口の中で"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "奥歯を"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "若獅子の"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "引き抜く"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:47:00.701628431Z",
+  "model": "glm-5.2"
+}

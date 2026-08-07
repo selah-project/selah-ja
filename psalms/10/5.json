@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "⟨彼の⟩道は常に堅固である、⟨あなたの⟩裁きは⟨彼の⟩目の前に高きにある、すべての⟨彼の⟩敵に対して⟨彼⟩は鼻を鳴らす。",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "堅固である"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "彼の道"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時に"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "高きに"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "あなたの裁き"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "彼の前に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "彼の敵"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "⟨彼⟩は吹きつける"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:26.482209156Z",
+  "model": "glm-5.2"
+}

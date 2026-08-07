@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして全ミツライムは飲むための水を川の周りに掘った。彼らが川の水を飲むことができなかったからである。",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "そして掘った"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムは"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "周りに"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "川の"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "飲むための"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "できた"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "飲むことが"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "〜の水を"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "川の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:00.097378826Z",
+  "model": "glm-5.2"
+}

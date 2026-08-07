@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "縁に沿って、輪があった — 棒のための ⟨住まい⟩、⟨את⟩ 机を担ぐために。",
+  "tokens": [
+    {
+      "surface": "לְעֻמַּת",
+      "gloss": "〜に沿って"
+    },
+    {
+      "surface": "הַמִּסְגֶּרֶת",
+      "gloss": "縁"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "あった"
+    },
+    {
+      "surface": "הַטַּבָּעֹת",
+      "gloss": "輪"
+    },
+    {
+      "surface": "בָּתִּים",
+      "gloss": "住まい"
+    },
+    {
+      "surface": "לַבַּדִּים",
+      "gloss": "棒のための"
+    },
+    {
+      "surface": "לָשֵׂאת",
+      "gloss": "担ぐために"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "机"
+    },
+    {
+      "surface": "הַשֻּׁלְחָן",
+      "gloss": "机"
+    }
+  ],
+  "timestamp": "2026-08-07T16:29:23.176082606Z",
+  "model": "glm-5.2"
+}

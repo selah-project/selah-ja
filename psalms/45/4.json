@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "あなたの剣を腰に帯びよ、勇士よ、あなたの威光とあなたの威厳。",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "帯びよ"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "あなたの剣を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "腰"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士よ"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "あなたの威光"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "そしてあなたの威厳"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:12.735249428Z",
+  "model": "glm-5.2"
+}

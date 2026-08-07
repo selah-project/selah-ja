@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 9:3",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "各々人はその隣人から身を守れ、そしてすべての兄弟において信頼するな。すべての兄弟は搾取する、そしてすべての隣人は中傷を歩き回るからだ。",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "各々人は"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "その隣人から"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "身を守れ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして……において"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אח",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "אל",
+      "gloss": "……な"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "信頼する"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אח",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "搾取する"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "搾取する"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "רע",
+      "gloss": "隣人"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "中傷を"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "歩き回る"
+    }
+  ],
+  "timestamp": "2026-08-07T17:01:24.363622034Z",
+  "model": "glm-5.2"
+}

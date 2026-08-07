@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 27:11",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そして、もし人々がその中からヤハウェへの供物として近づかせないすべての汚れた獣であるなら、彼は⟨את⟩その獣を祭司の前に立たせなければならない。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そして、もし"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "獣"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "汚れた"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יקרי׭ו",
+      "gloss": "人々は近づかせる"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "その中から"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "供物"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェへの"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "そして、彼は立たせなければならない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その獣"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "その獣"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    }
+  ],
+  "timestamp": "2026-08-07T09:48:49.646648426Z",
+  "model": "glm-5.2"
+}

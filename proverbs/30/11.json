@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "世代がある。父を呪う者、そして⟨את⟩その母を祝福しない者。",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "その父を"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "呪う"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その母を"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "その母を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "祝福する"
+    }
+  ],
+  "timestamp": "2026-08-07T14:40:19.776593405Z",
+  "model": "glm-5.2"
+}

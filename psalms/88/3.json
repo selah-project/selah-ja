@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 88,
+  "translation": "私の祈りが御前に来ますように、御耳を私の叫びに傾けてください。",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "御前に"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "私の祈り"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "傾けてください"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "御耳を"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "私の叫びに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:54:48.396720872Z",
+  "model": "glm-5.2"
+}

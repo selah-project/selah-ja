@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "isaiah 10:32",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "今日なお、ノブに立って、彼は手を振る。ツィオンの娘の山、エルルシャライムの丘に向けて。",
+  "tokens": [
+    {
+      "surface": "ע֥וֹד",
+      "gloss": "なお"
+    },
+    {
+      "surface": "הַיּ֖וֹם",
+      "gloss": "今日"
+    },
+    {
+      "surface": "בְּנֹ֣ב",
+      "gloss": "ノブに"
+    },
+    {
+      "surface": "לַֽעֲמֹ֑ד",
+      "gloss": "立って"
+    },
+    {
+      "surface": "יְנֹפֵ֤ף",
+      "gloss": "手を振る"
+    },
+    {
+      "surface": "יָדוֹ֙",
+      "gloss": "彼は⟨自分の⟩手を"
+    },
+    {
+      "surface": "הַ֣ר",
+      "gloss": "山に"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨娘の⟩"
+    },
+    {
+      "surface": "ציּ֔וֹן",
+      "gloss": "ツィオンの"
+    },
+    {
+      "surface": "גִּבְעַ֖ת",
+      "gloss": "丘に"
+    },
+    {
+      "surface": "יְרוּשָׁלִָֽם",
+      "gloss": "イェルシャライムの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:49.094957076Z",
+  "model": "glm-5.2"
+}

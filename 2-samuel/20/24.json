@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 20:24",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "アドラムは ⟨⟩ 徴税 ⟨⟩ の上に ⟨に⟩ あり、アヒルドの子エホシャパテは記録者であった。",
+  "tokens": [
+    {
+      "surface": "ואדרם",
+      "gloss": "アドラム"
+    },
+    {
+      "surface": "על",
+      "gloss": "……の上に"
+    },
+    {
+      "surface": "המס",
+      "gloss": "徴税"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "エホシャパテ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "……の子"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "アヒルド"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "記録者"
+    }
+  ],
+  "timestamp": "2026-08-07T16:47:25.102050887Z",
+  "model": "glm-5.2"
+}

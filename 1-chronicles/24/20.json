@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 24:20",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして残りのレビの子ら――アムラムの子らのうちにはシュブアエル、シュブアエルの子らのうちにはエフデヤフ。",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "そして〜の子らに"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "レビの"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "残りの"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〜の子らのうち"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "アムラムの"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "シュブアエル"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "〜の子らのうち"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "シュブアエルの"
+    },
+    {
+      "surface": "יחדיהו",
+      "gloss": "エフデヤフ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:39.987031140Z",
+  "model": "glm-5.2"
+}

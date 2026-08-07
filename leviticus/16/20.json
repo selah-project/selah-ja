@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そして彼が聖所と会見の天幕と祭壇の贖いを終えたとき、生きたやぎを連れて来る。",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "そして終えたとき"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "贖いを"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "聖所"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "会見の天幕"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "そして連れて来る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "生きたやぎ"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "やぎ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "生きた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:59.773976802Z",
+  "model": "glm-5.2"
+}

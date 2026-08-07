@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そしてヤアコブは自分の前に使いたちを遣わした、兄エサウのもとへ、セイルの地、エドムの野へ。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…遣わした"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブは"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使いたちを"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "自分の前に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "…の地へ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "セイル"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "…の野"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:36.998276441Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "なぜとこしえに私たちを忘れ、長き日にわたって私たちを捨てるのか。",
+  "tokens": [
+    {
+      "surface": "לָ֤מָּה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "לָנֶ֨צַח֙",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "תִּשְׁכָּחֵ֔נוּ",
+      "gloss": "私たちを忘れる"
+    },
+    {
+      "surface": "תַּֽעַזְבֵ֖נוּ",
+      "gloss": "私たちを捨てる"
+    },
+    {
+      "surface": "לְאֹ֥רֶךְ",
+      "gloss": "長きにわたって"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "日々"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:07.175363322Z",
+  "model": "glm-5.2"
+}

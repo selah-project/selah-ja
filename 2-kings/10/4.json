@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "彼らは非常に非常に恐れ、言った。「見よ、あの二人の王たちでさえ彼の前に立っていられなかった。まして私たちがどうして立てようか。」",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "恐れ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "言った"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二人の"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "立っていられ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "彼の前に"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ましてどうして"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "立てようか"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "私たちが"
+    }
+  ],
+  "timestamp": "2026-08-07T11:13:40.530144113Z",
+  "model": "glm-5.2"
+}

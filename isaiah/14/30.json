@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 14:30",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そうして貧しい者の長子は牧され、乏しき者は安らかに伏す。しかしヤハウェは飢饉をもってあなたの根を死なせ、あなたの残りの者を殺す。",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "牧され"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "長子は"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "貧しい者の"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "乏しき者は"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安らかに"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "伏す"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "死なせよう"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "飢饉をもって"
+    },
+    {
+      "surface": "שרשך",
+      "gloss": "あなたの根を"
+    },
+    {
+      "surface": "ושאריתך",
+      "gloss": "あなたの残りの者を"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "殺す"
+    }
+  ],
+  "timestamp": "2026-08-07T11:24:01.799497119Z",
+  "model": "glm-5.2"
+}

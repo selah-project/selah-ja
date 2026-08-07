@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 6:2",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "「私の愛する者は⟨自分の⟩園に、香料の花壇に、下って行った。園で牧するため、そして百合を摘むために。」",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "私の愛する者は"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "下って行った"
+    },
+    {
+      "surface": "לגנו",
+      "gloss": "彼の園に"
+    },
+    {
+      "surface": "לערוגות",
+      "gloss": "花壇に"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "香料の"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "牧するため"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "園で"
+    },
+    {
+      "surface": "וללקט",
+      "gloss": "そして摘むために"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "百合を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:15.151508874Z",
+  "model": "glm-5.2"
+}

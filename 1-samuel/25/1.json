@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてシュムエルは死に、全イスラエルが集まって彼のために悼み、彼をその家に、ラマに葬った。そしてダヴィドは立って、パランの荒野へ下った。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエル"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "そして集まった"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "そして悼んだ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "そして彼を葬った"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "その家に"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "ラマに"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "そして立った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "そして下った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "荒野"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "パラン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:17.936365511Z",
+  "model": "glm-5.2"
+}

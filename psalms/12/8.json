@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "あなた、ヤハウェよ、あなたは彼らを守られる。あなたはこの世代からとこしえまで彼らを守り抜かれる。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "あなたは彼らを守られる"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "あなたは守り抜かれる"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "この世代"
+    },
+    {
+      "surface": "זו",
+      "gloss": "この"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえまで"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:52.598035229Z",
+  "model": "glm-5.2"
+}

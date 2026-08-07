@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "ヨアブは答えて言った、「私には断じて、断じて遠いことだ、私が飲み込むこと、あるいは私が滅ぼすことなど。」",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "答えて"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブは"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "断じて"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "断じて"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私には"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜なら（決して〜ない）"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "私が飲み込む"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "私が滅ぼす"
+    }
+  ],
+  "timestamp": "2026-08-07T10:54:56.729011635Z",
+  "model": "glm-5.2"
+}

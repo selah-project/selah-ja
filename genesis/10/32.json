@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 10:32",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "これらはノアフの子らの氏族、彼らの世代に従って、彼らの国民のうちに〈ある〉。そしてこれらから、地の諸国民は大洪水の後に分かれた。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "氏族"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らの"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノアフ"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "彼らの世代に従って"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "彼らの国民のうちに"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "そしてこれらから"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "分かれた"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "地の諸国民は"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "〜の後に"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "大洪水"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:28.139668571Z",
+  "model": "glm-5.2"
+}

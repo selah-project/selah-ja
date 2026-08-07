@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 19:6",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして見ると、彼の枕元に焼石の上で焼いたパン菓子と一つの水瓶が⟨あった⟩。彼は食べ、飲み、戻って横たわった。",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "彼の枕元に"
+    },
+    {
+      "surface": "עגת",
+      "gloss": "パン菓子"
+    },
+    {
+      "surface": "רצפים",
+      "gloss": "焼石の上で"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "そして水瓶"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "そして食べた"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "そして飲んだ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "戻った"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "そして横たわった"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:15.945469170Z",
+  "model": "glm-5.2"
+}

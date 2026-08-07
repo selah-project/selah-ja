@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "彼らは壁⟨であった⟩、私たちの上に、夜も昼も。彼らと共にいたすべての日々、群れを飼っていた間⟨ずっと⟩。",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "壁"
+    },
+    {
+      "surface": "היו",
+      "gloss": "であった"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "私たちの上に"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…も"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…も"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "昼"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日々"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "いた"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "彼らと共に"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "飼っていた"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "群れを"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:42.699184343Z",
+  "model": "glm-5.2"
+}

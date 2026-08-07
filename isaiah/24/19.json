@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "地は打ち砕かれ、打ち砕かれる。地は崩れ去り、崩れ去る。地は揺れ動き、揺れ動く。",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "打ち砕かれ"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "打ち砕かれる"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "פור",
+      "gloss": "崩れ去り"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "崩れ去る"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "揺れ動き"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "揺れ動く"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地は"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:16.833047455Z",
+  "model": "glm-5.2"
+}

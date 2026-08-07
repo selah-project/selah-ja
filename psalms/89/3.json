@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "なぜなら私は言った、ヘセドはとこしえに建てられる、と。天よ、あなたはあなたの真実をその中に確立される。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "私は言った"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ヘセドは"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "建てられる"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天よ"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "あなたは確立される"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "あなたの真実を"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "その中に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:36.867201014Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 11:15",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "ヤハウェがそのしもべモシェに命じたように、モシェは⟨את⟩イェホシュアに命じた。そしてイェホシュアはそのように行った。彼はヤハウェがモシェに命じたすべての事のうち、一つの事も取り除かなかった。",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モシェ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "そのしもべ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イェホシュア"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "イェホシュア"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "そしてそのように"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行った"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "イェホシュア"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "取り除いた"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "すべての〜から"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モシェ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    }
+  ],
+  "timestamp": "2026-08-07T16:40:33.772745474Z",
+  "model": "glm-5.2"
+}

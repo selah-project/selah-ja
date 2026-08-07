@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 11:15",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "三十人のうちの三人が首領として岩の上からダビデのところ、アドゥラムの洞穴へ下った。そしてペリシテ人たちの陣営はレファイムの谷に宿営していた。",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "そして下った"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "三人が"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "三十人の"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "首領として"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "その岩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "洞穴"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "アドゥラムの"
+    },
+    {
+      "surface": "ומחנה",
+      "gloss": "そして陣営"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人たちの"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "宿営していた"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "谷に"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "レファイムの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:56.080152196Z",
+  "model": "glm-5.2"
+}

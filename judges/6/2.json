@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ミディヤンの手がイスラエルに対して強くなった。ミディヤンのゆえに、イスラエルの子らは山にある⟨את⟩−のろや、⟨את⟩−ほら穴、そして⟨את⟩−要塞を自分たちのために作った。",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "そして…強くなった"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ミディヤン"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に対して"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…のゆえに"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ミディヤン"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "…作った"
+    },
+    {
+      "surface": "להם",
+      "gloss": "自分たちのために"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "のろ"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "のろ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…にある"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ほら穴"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "ほら穴"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "要塞"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "要塞"
+    }
+  ],
+  "timestamp": "2026-08-07T10:33:24.053888808Z",
+  "model": "glm-5.2"
+}

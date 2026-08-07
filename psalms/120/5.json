@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 120,
+  "translation": "わざわいなる ⟨私⟩、まことに私はメシェクに寄留し、ケダルの天幕たちと共に住まった",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "わざわいなる"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "私は寄留した"
+    },
+    {
+      "surface": "משך",
+      "gloss": "メシェク"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "私は住まった"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "天幕たち"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ケダル"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:40.203289192Z",
+  "model": "glm-5.2"
+}

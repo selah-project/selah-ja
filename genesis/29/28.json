@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ヤアコブはそのようにした。そしてこの週を満たした。そして ⟨את⟩ ラケル彼の娘を彼に妻として与えた。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…した"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "そして…満たした"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "…週を"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして…与えた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ラケル"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ラケル"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "彼の娘"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "妻として"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:15.365605174Z",
+  "model": "glm-5.2"
+}

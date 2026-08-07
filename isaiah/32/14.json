@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 32:14",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "まことに、城邸は見捨てられ、騒めく町は放置され、丘陵と見張りの塔は永遠に洞穴となる — 野ろばの楽しみ、群れの牧草地として。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "城邸は"
+    },
+    {
+      "surface": "נטש",
+      "gloss": "見捨てられ"
+    },
+    {
+      "surface": "המון",
+      "gloss": "騒めく"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町は"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "放置され"
+    },
+    {
+      "surface": "עפל",
+      "gloss": "丘陵と"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "見張りの塔は"
+    },
+    {
+      "surface": "היה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "〜として"
+    },
+    {
+      "surface": "מערות",
+      "gloss": "洞穴"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "楽しみ"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "野ろばの"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "牧草地"
+    },
+    {
+      "surface": "עדרים",
+      "gloss": "群れの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:17.226717382Z",
+  "model": "glm-5.2"
+}

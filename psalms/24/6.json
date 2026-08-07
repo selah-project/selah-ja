@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "これこそ、あなたの顔を尋ね求める者たちの世代だ。ヤアコブ。⟨細ラ⟩",
+  "tokens": [
+    {
+      "surface": "זֶ֭ה",
+      "gloss": "これこそ"
+    },
+    {
+      "surface": "דּ֣וֹר",
+      "gloss": "世代"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "尋ね求める者たちの"
+    },
+    {
+      "surface": "מְבַקְשֵׁ֨י",
+      "gloss": "求める者たち"
+    },
+    {
+      "surface": "פָנֶ֖יךָ",
+      "gloss": "あなたの顔を"
+    },
+    {
+      "surface": "יַעֲקֹ֣ב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "⟨細ラ⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:38.814712051Z",
+  "model": "glm-5.2"
+}

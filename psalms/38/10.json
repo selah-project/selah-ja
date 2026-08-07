@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "アドナイ、私のすべての慕い求めがあなたの前にあり、私の嘆きはあなたから隠されていない。",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "あなたの前に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "私の慕い求め"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "そして私の嘆き"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "あなたから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "隠された"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:24.556939967Z",
+  "model": "glm-5.2"
+}

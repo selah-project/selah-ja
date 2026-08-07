@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして、彼は⟨את⟩その一羽を山鳩または鳩の雛のうちから、彼の手が届くもののうちから献げる。",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "そして彼は行う"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その一羽"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "その一羽"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜のうちから"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "その山鳩"
+    },
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜のうちから"
+    },
+    {
+      "surface": "בני",
+      "gloss": "雛"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "その鳩の"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "〜であるところのものから"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "届く"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手が"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:43.461160743Z",
+  "model": "glm-5.2"
+}

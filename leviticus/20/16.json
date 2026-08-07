@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "また女で、どの家畜にも交わるために近づく者、そして⟨それ⟩、あなたはその女と⟨את⟩その家畜を殺さなければならない、彼らは必ず殺される、彼らの血は彼らの上にある",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "また女"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である者"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "近づく"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "どの"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "交わるために"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨それ⟩"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "あなたは殺さなければならない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その女"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "その女"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その家畜"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "その家畜"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "殺される"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "彼らの血"
+    },
+    {
+      "surface": "בם",
+      "gloss": "彼らの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:08.813005362Z",
+  "model": "glm-5.2"
+}

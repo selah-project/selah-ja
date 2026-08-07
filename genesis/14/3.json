@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "これらすべては連合して、シッディム ⟨の⟩ 谷へ集まった——それは ⟨すなわち⟩ 塩 ⟨の⟩ 海である。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "連合して"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "谷"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "シッディム"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "塩の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:58.087205259Z",
+  "model": "glm-5.2"
+}

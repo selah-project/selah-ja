@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてあなたは⟨את⟩わたしのことばを彼らに語れ。彼らが聞くにせよ、また引き止められるにせよ — 彼らは反逆⟨の家⟩だから。",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "そしてあなたは語れ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしのことば"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "わたしのことば"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "聞く"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "引き止められる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "反逆"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼らは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:00:57.578183466Z",
+  "model": "glm-5.2"
+}

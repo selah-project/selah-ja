@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "これこそ会衆の召された者たち、彼らの父祖たちの部族の首長たち、イスラエルの千⟨人⟩の長たちである。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "召された者たち"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "会衆の"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "首長たち"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "部族の"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "彼らの父祖たちの"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "長たち"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "千⟨人⟩の"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "הם",
+      "gloss": "〜である"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:18.736558193Z",
+  "model": "glm-5.2"
+}

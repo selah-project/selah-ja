@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして私を広き所へ⟨את⟩連れ出し、私を引き寄せられた。⟨彼が⟩私を喜ばれたからである。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして連れ出し"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "広き所へ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "私を"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "私を引き寄せられた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "喜ばれた"
+    },
+    {
+      "surface": "בי",
+      "gloss": "私を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:49.364692860Z",
+  "model": "glm-5.2"
+}

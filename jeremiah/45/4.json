@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "このように彼に言え。ヤハウェはこう仰る。見よ、⟨わたしが⟩建てたものを、わたしが⟨今⟩壊し、⟨את⟩⟨わたしが⟩植えたものを、わたしが引き抜く。そして⟨את⟩この地全体を。",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "このように"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "言え"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "仰る"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜というもの"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "わたしが建てた"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "壊す"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "わたしが植えたもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜というもの"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "わたしが植えた"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "引き抜く"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "この地全体"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全体"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "היא",
+      "gloss": "これを"
+    }
+  ],
+  "timestamp": "2026-08-07T17:06:39.021488906Z",
+  "model": "glm-5.2"
+}

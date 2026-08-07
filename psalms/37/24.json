@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "彼が倒れても、まったく投げ出されることはない。ヤハウェがその手を支えられるからである。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "たとえ〜ても"
+    },
+    {
+      "surface": "יִפֹּ֥ל",
+      "gloss": "倒れる"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יוּטָ֑ל",
+      "gloss": "投げ出される"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "というのは〜だから"
+    },
+    {
+      "surface": "יְ֝הוָ֗ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "סוֹמֵ֥ךְ",
+      "gloss": "支えられる"
+    },
+    {
+      "surface": "יָדֽוֹ",
+      "gloss": "彼の手"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:27.424324321Z",
+  "model": "glm-5.2"
+}

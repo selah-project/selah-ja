@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "悪者の前から ―彼らは私を荒らし尽くした― 霊の敵たちが私に寄り集る。",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "〜の前から"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たち"
+    },
+    {
+      "surface": "זו",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "私を荒らし尽くした"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "私の敵たちは"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "霊において"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "寄り集る"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私に向かって"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:10.325403967Z",
+  "model": "glm-5.2"
+}

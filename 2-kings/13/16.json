@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 13:16",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "彼はイスラエルの王に言った、「あなたの手を弓の上に置け」。彼が手を置くと、エリシャは彼の手を王の手の上に置いた。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "置け"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "その弓"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手を"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "エリシャ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "彼の手を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "手"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:14:50.010140273Z",
+  "model": "glm-5.2"
+}

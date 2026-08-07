@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "モシェは山から民のところに下り、民を聖別した。そして彼らは自分の衣服を洗った。",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "下った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "聖別した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "洗った"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "自分たちの衣服"
+    }
+  ],
+  "timestamp": "2026-08-07T09:20:35.794656569Z",
+  "model": "glm-5.2"
+}

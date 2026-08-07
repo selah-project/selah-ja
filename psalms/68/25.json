@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "彼らは見た、あなたの行列を、エロヒムよ、わがエル、わが王の行列を、聖所⟨に⟩。",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "見た"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "あなたの行列"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "行列"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "わがエル"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "わが王"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "聖所⟨に⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:06.917943409Z",
+  "model": "glm-5.2"
+}

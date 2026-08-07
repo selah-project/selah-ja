@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "あなたは苦しむ民を救い、高ぶる目を低くされるからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民を"
+    },
+    {
+      "surface": "עני",
+      "gloss": "苦しむ"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "救い"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "そして目を"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "高ぶる"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "低くされる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:36.490984153Z",
+  "model": "glm-5.2"
+}

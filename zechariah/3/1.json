@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 3:1",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼は私に⟨את⟩大祭司ヨシュアを、ヤハウェの御使いの前に立っているところを見せた。そしてザサタンが彼の右に立って、彼を訴えていた。",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "そして彼は私に見せた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大祭司ヨシュア"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "立っている"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "御使い"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "והשטן",
+      "gloss": "そしてザサタンが"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "立っていた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "彼の右"
+    },
+    {
+      "surface": "לשטנו",
+      "gloss": "彼に対抗して"
+    }
+  ],
+  "timestamp": "2026-08-07T12:31:26.624611189Z",
+  "model": "glm-5.2"
+}

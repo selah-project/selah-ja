@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 71,
+  "translation": "しかし私は絶えず待ち望み、あなたのすべての賛美の上に、なお加えよう。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "しかし私は"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "絶えず"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "待ち望み"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "加えよう"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "あなたの賛美"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:38.233378335Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "地の王たちが身を据え、君主たちが共に相談じて、ヤハウェと⟨彼の⟩油注がれた者に逆らって立つ。",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "身を据える"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "君主たち"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "共に相談じる"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "共に"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に逆らって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "および〜に"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "⟨彼の⟩油注がれた者"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:09.034818616Z",
+  "model": "glm-5.2"
+}

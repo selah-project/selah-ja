@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 50:9",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "見よ、アドナイ・ヤハウェが私を助けてくださる。誰が彼⟨である⟩か、私を罪に定める者は。見よ、彼らは皆、衣のようにすり切れ、蛾が彼らを食い尽くす。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "助けてくださる"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私を"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼⟨である⟩"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "私を罪に定める"
+    },
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "彼らは皆"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "衣のように"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "すり切れ"
+    },
+    {
+      "surface": "עש",
+      "gloss": "蛾が"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "彼らを食い尽くす"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:29.246514011Z",
+  "model": "glm-5.2"
+}

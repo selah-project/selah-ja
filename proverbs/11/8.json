@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "義人は苦難から引き出される、そして悪人は彼の身代わりとして来る。",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "義人は"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "苦難から"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "引き出される"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして来る"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪人は"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼の身代わりとして"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:55.303200591Z",
+  "model": "glm-5.2"
+}

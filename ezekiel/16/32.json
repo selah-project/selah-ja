@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "姦通する妻、すなわち夫のもとに身を任せず、⟨את⟩よそ者を迎え入れる者。",
+  "tokens": [
+    {
+      "surface": "הָאִשָּׁ֖ה",
+      "gloss": "女"
+    },
+    {
+      "surface": "הַמְּנָאָ֑פֶת",
+      "gloss": "姦通する"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "〜のもとに（身代わり）"
+    },
+    {
+      "surface": "אִישָׁ֔הּ",
+      "gloss": "彼女の夫"
+    },
+    {
+      "surface": "תִּקַּ֖ח",
+      "gloss": "彼女は受け入れる"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "よそ者"
+    },
+    {
+      "surface": "זָרִֽים",
+      "gloss": "よそ者"
+    }
+  ],
+  "timestamp": "2026-08-07T12:04:48.462716041Z",
+  "model": "glm-5.2"
+}

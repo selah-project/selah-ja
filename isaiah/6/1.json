@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ウジヤフ王の死の年に、私が見た — ⟨את⟩アドナイが、高く挙げられた玉座に座しておられるのを、⟨そして⟩その衣の裾が⟨את⟩宮を満たしていたのを。",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "…の年に"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "ウジヤフ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "私が見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アドナイ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "座しておられる"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "玉座"
+    },
+    {
+      "surface": "רם",
+      "gloss": "高く"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "挙げられた"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "その衣の裾が"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "満たしていた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "宮"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "宮"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:15.223808927Z",
+  "model": "glm-5.2"
+}

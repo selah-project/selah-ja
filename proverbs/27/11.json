@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 27:11",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "わたしの子よ、知恵を得よ、そしてわたしの心を喜ばせよ。そうすればわたしはわたしを嘲る者に言葉を返せる。",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "知恵を得よ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "わたしの子よ"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "そして……を喜ばせよ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "わたしの心"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "そしてわたしは……を返そう"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "わたしを嘲る者に"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "言葉を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:35.447102831Z",
+  "model": "glm-5.2"
+}

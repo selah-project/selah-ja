@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "終日、私の敵は私を辱めた。私に対して激怒する者たちは、私に対して誓った。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "היום",
+      "gloss": "その日は"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "彼らは私を辱めた"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "私の敵は"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "私に対して激怒する者たちは"
+    },
+    {
+      "surface": "בי",
+      "gloss": "私に対して"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "誓った"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:20.594628309Z",
+  "model": "glm-5.2"
+}

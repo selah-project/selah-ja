@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "滅びを、お前の舌は図る。研ぎ澄まされた剃刀のように、欺きを造る者よ。",
+  "tokens": [
+    {
+      "surface": "הַ֭וּוֹת",
+      "gloss": "滅びを"
+    },
+    {
+      "surface": "תַּחְשֹׁ֣ב",
+      "gloss": "図る"
+    },
+    {
+      "surface": "לְשׁוֹנֶ֑ךָ",
+      "gloss": "お前の舌は"
+    },
+    {
+      "surface": "כְּתַ֥עַר",
+      "gloss": "剃刀のように"
+    },
+    {
+      "surface": "מְ֝לֻטָּ֗שׁ",
+      "gloss": "研ぎ澄まされた"
+    },
+    {
+      "surface": "עֹשֵׂ֥ה",
+      "gloss": "造る者よ"
+    },
+    {
+      "surface": "רְמִיָּֽה",
+      "gloss": "欺きを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:14.836314587Z",
+  "model": "glm-5.2"
+}

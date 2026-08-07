@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 8:16",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして町の中にいた全民は、彼らの後を追うために集められた。そして彼らはヨシュアの後を追い、町から引き離された。",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "そして集められた"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町の中に"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "追うために"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "彼らの後を"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "そして彼らは追った"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "の後を"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "וינתקו",
+      "gloss": "そして引き離された"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町"
+    }
+  ],
+  "timestamp": "2026-08-07T10:25:47.727891090Z",
+  "model": "glm-5.2"
+}

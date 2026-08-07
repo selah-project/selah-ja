@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "彼が王となり、その王座に座ったとき、彼はバアシャの全家を打った。彼に壁に向かって用を足す者も、その贖い主も、その友も残さなかった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "〜となった"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "彼が王となり"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "彼が座った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "その王座に"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "バアシャの全家"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "バアシャの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "残さなかった"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "用を足す者"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "壁に向かって"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "その贖い主も"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "その友も"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:05.839914585Z",
+  "model": "glm-5.2"
+}

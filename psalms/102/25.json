@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 102,
+  "translation": "私は言う、私のエルよ、私の日々の半ばで私を連れ去らないで。代々にわたってあなたの年は〈ある〉。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "私は言う"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のエルよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないで"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "私を連れ去る"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "〜の半ばで"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "私の日々の"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "代々にわたって"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "代々"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "あなたの年は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:50.890056226Z",
+  "model": "glm-5.2"
+}

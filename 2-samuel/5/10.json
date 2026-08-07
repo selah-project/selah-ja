@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ダビドは進み行き、大きくなり続けた。万軍のヤハウェ、エロヒムが彼と共におられたからである。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして進み行った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "進み"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "大きくなり"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "万軍の"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共におられた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:45.275404698Z",
+  "model": "glm-5.2"
+}

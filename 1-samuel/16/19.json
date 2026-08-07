@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてシャウルは使いをイシャイに遣わし、言った。「私のもとに⟨את⟩ダビデ — あなたの息子、あの羊の中にいる者 — を送ってください。」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして遣わした"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使いを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "イシャイ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "送ってください"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のもとに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダビデ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "あなたの息子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "羊の中に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:50.217133726Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "わたしの腰は焼かれたもので満ちた。わたしの肉には健全なものがない。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "כְ֭סָלַי",
+      "gloss": "わたしの腰は"
+    },
+    {
+      "surface": "מָלְא֣וּ",
+      "gloss": "満ちた"
+    },
+    {
+      "surface": "נִקְלֶ֑ה",
+      "gloss": "焼かれたもので"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "מְ֝תֹ֗ם",
+      "gloss": "健全なものが"
+    },
+    {
+      "surface": "בִּבְשָׂרִֽי",
+      "gloss": "わたしの肉には"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:48.606953003Z",
+  "model": "glm-5.2"
+}

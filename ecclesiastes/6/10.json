@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "すでにあったものの何であるかは、とっくにその名が呼ばれており、それが人であることは知られている。彼は自分より強い方と共に裁くことはできない。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "何であるか"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "すでにあったものの"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "とっくに"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "呼ばれており"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "その名が"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "知られている"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人であること"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "できない"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "⟨彼は⟩できる"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "裁くことは"
+    },
+    {
+      "surface": "עם",
+      "gloss": "共に"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "強い方"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "自分より"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:00.532349730Z",
+  "model": "glm-5.2"
+}

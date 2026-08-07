@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "彼女が彼の家を出て行き、行って、別の男のものとなったなら、",
+  "tokens": [
+    {
+      "surface": "וְיָצְאָ֖ה",
+      "gloss": "そして彼女は出て行く"
+    },
+    {
+      "surface": "מִבֵּית֑וֹ",
+      "gloss": "彼の家から"
+    },
+    {
+      "surface": "וְהָלְכָ֖ה",
+      "gloss": "そして行く"
+    },
+    {
+      "surface": "וְהָיְתָ֥ה",
+      "gloss": "そして～となる"
+    },
+    {
+      "surface": "לְאִישׁ",
+      "gloss": "男のものに"
+    },
+    {
+      "surface": "אַחֵֽר",
+      "gloss": "別の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:43.567678558Z",
+  "model": "glm-5.2"
+}

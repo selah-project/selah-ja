@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ギブオンで ヤハウェが シュロモに現れた、夜の夢の中で。そして エロヒムは言われた、「求めよ。何を ⟨あなたに⟩与えようか」と。",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "ギブオンで"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "現れた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモに"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "夢の中で"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "夜の"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "求めよ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "与えようか"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:27:13.720127183Z",
+  "model": "glm-5.2"
+}

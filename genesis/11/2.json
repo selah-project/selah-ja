@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして彼らが東から旅立ったとき、シヌアルの地に平野を見つけ、そこに住んだ。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして……になった"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "彼らが旅立ったとき"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "東から"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "そして彼らは見つけた"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "平野を"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "シヌアルの"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "そして彼らは住んだ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    }
+  ],
+  "timestamp": "2026-08-07T16:22:50.592544219Z",
+  "model": "glm-5.2"
+}

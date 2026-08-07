@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 15:20",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "ベン・ハダドはアサ王の言葉を聞き、彼が持っている軍勢の長たちを送った — イスラエルの諸都市に対して — そして彼は打った、⟨את⟩・イヨンと、⟨את⟩・ダンと、⟨את⟩・アベル・ベト・マアカと、⟨את⟩・すべてのキネルテトを、ナフタリの全地にわたって。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "そして聞いた"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ハダド"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "アサ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "そして送った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "軍勢の長たち"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "長たち"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "軍勢の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である者"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "諸都市"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "そして打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イヨン"
+    },
+    {
+      "surface": "עיון",
+      "gloss": "イヨン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ダン"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ダン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アベル・ベト・マアカ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "アベル"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベト"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "マアカ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのキネルテト"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "キネルテト"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜にわたって"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ナフタリ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:28.718954320Z",
+  "model": "glm-5.2"
+}

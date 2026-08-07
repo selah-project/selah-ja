@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてこうなった — 彼女がヤハウェの前で長く祈ったとき、エリ⟨は⟩彼女の口を観察していた。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そしてこうなった"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜とき"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "彼女は長く"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "祈った"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前で"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "そしてエリ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "観察していた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼女の口"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "彼女の口"
+    }
+  ],
+  "timestamp": "2026-08-07T10:39:38.828037362Z",
+  "model": "glm-5.2"
+}

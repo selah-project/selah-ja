@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 149,
+  "translation": "ハレル。ヤハに向かって新しい歌を歌え。⟨彼の⟩賛美をハシディムの集会において。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ハレル（賛美せよ）"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "歌え"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌を"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新しい"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "⟨彼の⟩賛美"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "〜の集会において"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ハシディム（忠信なる者たち）の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:35.813346951Z",
+  "model": "glm-5.2"
+}

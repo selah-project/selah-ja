@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "イスラエルのうちで軍に 出るすべての者、二十歳以上の者を、あなたは彼らの軍団ごとに数えよ——あなたとアハロンが。⟨את⟩彼らを",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "……の息子から"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歳"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "および上を"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出る"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "軍に"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルのうちで"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "数えよ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼らを"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "彼らの軍団ごとに"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "およびアハロン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:45:01.227436655Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして⟨את⟩ダチョウを、そして⟨את⟩ハタハマスを、そして⟨את⟩ハシャハフを、そして⟨את⟩ハネツを、その種類にしたがって。」",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ダチョウ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "〜の娘"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ヤアナ（渇望するもの）"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ハタハマス"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ハタハマス"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ハシャハフ"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ハシャハフ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ハネツ"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ハネツ（タカ）"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "その種類にしたがって"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:20.592314090Z",
+  "model": "glm-5.2"
+}

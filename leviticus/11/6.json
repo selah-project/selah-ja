@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして⟨את⟩ハ・アルネベトも、反芻するからといって、ひづめを分けないので、それはあなたがたにとって汚れている。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ハ・アルネベト"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "ハ・アルネベト（野兎）"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜なので"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "上げる"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "反芻物"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "そしてひづめを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "分けた"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "汚れている"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたにとって"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:23.262146623Z",
+  "model": "glm-5.2"
+}

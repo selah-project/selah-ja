@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "ヤハウェよ、あなたの⟩ような⟩方はなく、あなたのほかにエロヒムはいない、私たちが耳で聞いたすべてのことに⟩よって⟩。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "あなたの⟩ような"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そしていない"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "あなたのほかに"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての⟩ことに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟩ところの⟩"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "私たちが聞いた"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "私たちの耳で"
+    }
+  ],
+  "timestamp": "2026-08-07T14:06:38.211573370Z",
+  "model": "glm-5.2"
+}

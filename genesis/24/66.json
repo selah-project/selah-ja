@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして僕はイツハクに、自分がしたすべての事柄を告げ知らせた。",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "そして告げ知らせた"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "僕は"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "イツハクに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての事柄"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "事柄を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "自分がした"
+    }
+  ],
+  "timestamp": "2026-08-07T08:57:41.787223444Z",
+  "model": "glm-5.2"
+}

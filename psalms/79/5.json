@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 79,
+  "translation": "いつまで、ヤハウェ、あなたは永遠まで怒るのか。あなたのねたみは火のように燃え広がるのか。",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "いつまで"
+    },
+    {
+      "surface": "מָ֣ה",
+      "gloss": "〜のか"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "תֶּאֱנַ֣ף",
+      "gloss": "あなたは怒る"
+    },
+    {
+      "surface": "לָנֶ֑צַח",
+      "gloss": "永遠まで"
+    },
+    {
+      "surface": "תִּבְעַ֥ר",
+      "gloss": "燃え広がる"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "אֵ֝֗שׁ",
+      "gloss": "火"
+    },
+    {
+      "surface": "קִנְאָתֶֽךָ",
+      "gloss": "あなたのねたみ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:41.703158824Z",
+  "model": "glm-5.2"
+}

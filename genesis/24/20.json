@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして彼女は急いで水がめを水槽に空け、さらに水を汲むために井戸へ走り、彼のすべてのらくだのために汲んだ。",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "急いで"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "空けた"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "自分の水がめを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "水槽に"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "走った"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "井戸の"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "汲むために"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "汲んだ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "彼のらくだのために"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:58.136864688Z",
+  "model": "glm-5.2"
+}

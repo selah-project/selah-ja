@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "あなたは守らなければならない ⟨את⟩掟と ⟨את⟩定めと ⟨את⟩裁きを、私があなたに今日命じている、それらを行うために。",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "あなたは守る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "掟"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "掟"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "定め"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "定め"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "裁き"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "裁き"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私が"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "あなたに命じている"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "それらを行うために"
+    }
+  ],
+  "timestamp": "2026-08-07T10:10:35.890644440Z",
+  "model": "glm-5.2"
+}

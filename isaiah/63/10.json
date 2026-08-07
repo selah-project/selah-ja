@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 63,
+  "translation": "ところが彼らは背き、⟨את⟩ 彼の聖なる霊を痛ませた。すると ⟨彼は⟩ 彼らにとって敵となって変わられた。彼ご自身が彼らと戦った。",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "そして彼らは"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "背いた"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "そして…を痛ませた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の聖なる霊"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "…の霊"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "彼の聖なる"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "そして…は変わられた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らにとって"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "敵として"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼ご自身"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "戦った"
+    },
+    {
+      "surface": "בם",
+      "gloss": "彼らと"
+    }
+  ],
+  "timestamp": "2026-08-07T11:37:58.261297010Z",
+  "model": "glm-5.2"
+}

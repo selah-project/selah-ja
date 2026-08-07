@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "それは、あなたの心もまた多くの回数 ⟨を⟩ 知っているからである ——あなたもまた ⟨את⟩ 他者をのろった ⟨ことを⟩。",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "それは〜だから"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "また"
+    },
+    {
+      "surface": "פְּעָמִ֥ים",
+      "gloss": "回数"
+    },
+    {
+      "surface": "רַבּ֖וֹת",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "יָדַ֣ע",
+      "gloss": "知っている"
+    },
+    {
+      "surface": "לִבֶּ֑ךָ",
+      "gloss": "あなたの心"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "〜ということを"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "あなたもまた"
+    },
+    {
+      "surface": "את",
+      "gloss": "あなたは",
+      "marks": ""
+    },
+    {
+      "surface": "קִלַּ֥לְתָּ",
+      "gloss": "のろった"
+    },
+    {
+      "surface": "אֲחֵרִֽים",
+      "gloss": "他者を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:21.847611194Z",
+  "model": "glm-5.2"
+}

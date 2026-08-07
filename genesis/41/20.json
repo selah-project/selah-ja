@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "干からびた雌牛と悪い雌牛が、最初の七頭の肥えた雌牛⟨את⟩を食べた。",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "彼女たちは食べた"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "雌牛"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "干からびた"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "最初の七頭の肥えた雌牛"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "雌牛"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "最初の"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "肥えた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:07:31.744628950Z",
+  "model": "glm-5.2"
+}

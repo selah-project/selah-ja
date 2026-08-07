@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "正しい者が多くなると、民は喜ぶ。悪者が支配すると、民は嘆く。",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "多くなると"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "正しい者"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "喜ぶ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "支配すると"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者が"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "嘆く"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:56.820196431Z",
+  "model": "glm-5.2"
+}

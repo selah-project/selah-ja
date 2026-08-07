@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "彼は私に言った。「あなたは誰か。」私は彼に言った。「私はアマレク人です。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "アマレク人"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私は"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:19.449511778Z",
+  "model": "glm-5.2"
+}

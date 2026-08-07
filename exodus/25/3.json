@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてこれが、あなたたちが彼ら⟨から⟩取るべきテールーマーである。金、銀、青銅、",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "そしてこれが"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "そのテールーマー"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "あなたたちは取る"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "彼ら⟨から⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "と銀"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "と青銅"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:18.657696310Z",
+  "model": "glm-5.2"
+}

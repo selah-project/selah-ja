@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "われらの心は⟨彼⟩において喜ぶ、われらが⟨彼⟩の聖なる御名に信頼したからである。",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "ב֭וֹ",
+      "gloss": "⟨彼⟩において"
+    },
+    {
+      "surface": "יִשְׂמַ֣ח",
+      "gloss": "喜ぶ"
+    },
+    {
+      "surface": "לִבֵּ֑נוּ",
+      "gloss": "われらの心"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "בְשֵׁ֖ם",
+      "gloss": "御名に"
+    },
+    {
+      "surface": "קָדְשׁ֣וֹ",
+      "gloss": "⟨彼⟩の聖なるもの"
+    },
+    {
+      "surface": "בָטָֽחְנוּ",
+      "gloss": "われらは信頼した"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:36.055864041Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 1:1",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ネヘミヤの言葉 — ハカルヤの子。そしてこうなった — 第二十年のキスレウの月に、私はシュシャンの宮殿にいた。",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "…の言葉"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "ネヘミヤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "ハカルヤ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうなった"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "…の月に"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "キスレウ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "…の年"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "そして私は"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "いた"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "シュシャンに"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "宮殿"
+    }
+  ],
+  "timestamp": "2026-08-07T13:53:13.016607790Z",
+  "model": "glm-5.2"
+}

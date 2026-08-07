@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "完全に空っぽにされ、地は空っぽにされ、完全に略奪され、略奪される。ヤハウェが ⟨את⟩ このことばを語ったからである。",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "完全に空っぽにされ"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "空っぽにされ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "完全に略奪され"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "略奪される"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "このことば"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:30.654214988Z",
+  "model": "glm-5.2"
+}

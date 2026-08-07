@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "高くそびえる姿は美しい、全地の喜び、ツィヨンの山、北の果て、大いなる王の都市。",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "美しい"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "高くそびえる姿"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "喜び"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨン"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "果て"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "都市"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大いなる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:10.927549869Z",
+  "model": "glm-5.2"
+}

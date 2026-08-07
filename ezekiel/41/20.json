@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 41:20",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "地から扉の上方まで、ケルビムと palm trees が造られ、 ⟨そして⟩神殿の壁 ⟨にも⟩。",
+  "tokens": [
+    {
+      "surface": "מהארץ",
+      "gloss": "地から"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "上方"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "扉の"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ケルビムと"
+    },
+    {
+      "surface": "והתמרים",
+      "gloss": "palm trees が"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "造られ"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "⟨そして⟩…の壁"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "神殿の"
+    }
+  ],
+  "timestamp": "2026-08-07T18:37:51.966408721Z",
+  "model": "glm-5.2"
+}

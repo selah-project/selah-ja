@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "サウルは ⟨⟩ 民をすべて戦いのために召集した、ケイラへ下り、ダビデと ⟨彼の⟩ 男たちを包囲するために。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "召集した"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウルは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民をすべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民 ⟨の⟩"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "戦いのために"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "下るために"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ケイラ ⟨へ⟩"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "包囲するために"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "および 〜を"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "彼の男たち"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:50.819192406Z",
+  "model": "glm-5.2"
+}

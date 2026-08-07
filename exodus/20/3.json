@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "あなたのために、ほかのエロヒムがわたしの顔にあってあってはならない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "あってはならない"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ほかの"
+    },
+    {
+      "surface": "על",
+      "gloss": "…にあって"
+    },
+    {
+      "surface": "פני",
+      "gloss": "わたしの顔"
+    }
+  ],
+  "timestamp": "2026-08-07T09:20:11.193007685Z",
+  "model": "glm-5.2"
+}

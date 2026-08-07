@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 48:13",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "そしてモアブはケモシュのゆえに恥じる。イスラエルの家がその拠り所であるベテルのゆえに恥じたように。",
+  "tokens": [
+    {
+      "surface": "ובש",
+      "gloss": "そして恥じる"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブは"
+    },
+    {
+      "surface": "מכמוש",
+      "gloss": "ケモシュのゆえに"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "恥じた"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "〜の家のゆえに"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ベテル（エル）"
+    },
+    {
+      "surface": "מבטחם",
+      "gloss": "その拠り所である"
+    }
+  ],
+  "timestamp": "2026-08-07T11:57:09.922806170Z",
+  "model": "glm-5.2"
+}

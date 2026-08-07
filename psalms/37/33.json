@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "ヤハウェは⟨彼⟩をその手に渡しておかず、彼が裁かれるときに⟨彼⟩を罪に定めない。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "彼を渡す（見捨てる）"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "その手に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "彼を罪に定める"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "彼が裁かれるとき"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:31.408901318Z",
+  "model": "glm-5.2"
+}

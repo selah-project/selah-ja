@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "カルケミシュのように、カルノ ⟨は⟩ ⟨同じではないか⟩。アルパドのように、ハマト ⟨はそうではないか⟩。ダマセクのように、ショムロン ⟨はそうではないか⟩。",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "カルケミシュのように"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "カルノ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "アルパドのように"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ハマト"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "ダマセクのように"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ショムロン"
+    }
+  ],
+  "timestamp": "2026-08-07T16:55:48.718758192Z",
+  "model": "glm-5.2"
+}

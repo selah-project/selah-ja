@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "エロヒムは⟨את⟩すべてのものを、⟨彼が⟩造ったものを、見られた。見よ、それは非常に良かった。夕べとなり、朝となった――第六日。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして見られた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのもの"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造った"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良かった"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "夕べ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "第六"
+    }
+  ],
+  "timestamp": "2026-08-07T14:20:47.179139890Z",
+  "model": "glm-5.2"
+}

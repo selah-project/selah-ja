@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして彼は⟨את⟩門の入口の幅を測った。十キュビト。門の長さは十三キュビト。",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "そして彼は測った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "門の入口の幅"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "幅"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入口の"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門の"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "キュビト"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長さ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門の"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "三"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "キュビト"
+    }
+  ],
+  "timestamp": "2026-08-07T12:14:25.946109644Z",
+  "model": "glm-5.2"
+}

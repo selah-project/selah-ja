@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 139,
+  "translation": "究極の憎し぀をもって、わたしは彼らを憎んだ。彼らはわたしにとって敵となった。",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "究極の"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "憎しみをもって"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "わたしは彼らを憎んだ"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "敵として"
+    },
+    {
+      "surface": "היו",
+      "gloss": "彼らは〜なった"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしにとって"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:30.463768071Z",
+  "model": "glm-5.2"
+}

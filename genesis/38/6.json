@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そしてユダは長子エルのために妻をめとった。彼女の名はタマルであった。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして彼は取った"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "妻を"
+    },
+    {
+      "surface": "לער",
+      "gloss": "エルのために"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "彼の長子"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "そして彼女の名は"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "タマル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:27.953702715Z",
+  "model": "glm-5.2"
+}

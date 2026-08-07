@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "一つの家で食べられる。肉を一つも家の外へ持ち出してはならない。その骨を一つも折ってはならない。",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "家で"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べられる"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "持ち出す"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "מן",
+      "gloss": "の"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "外へ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "と骨"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "折る"
+    },
+    {
+      "surface": "בו",
+      "gloss": "その"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:17.682913264Z",
+  "model": "glm-5.2"
+}

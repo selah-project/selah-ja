@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "正しい者は七度倒れても立ち上がり、悪しき者たちは災いのうちに滅びるからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七度"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "倒れても"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しい者は"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "立ち上がり"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "悪しき者たちは"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "滅びる"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "災いのうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:50.858637682Z",
+  "model": "glm-5.2"
+}

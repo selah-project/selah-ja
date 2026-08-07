@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 9:12",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして雲の柱によって、あなたは昼間彼らを導かれた。また火の柱によって夜、彼らが進むべき道を⟨את⟩照らすために。",
+  "tokens": [
+    {
+      "surface": "ובעמוד",
+      "gloss": "そして～の柱によって"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "הנחיתם",
+      "gloss": "あなたは彼らを導かれた"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "昼間"
+    },
+    {
+      "surface": "ובעמוד",
+      "gloss": "また～の柱によって"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "照らすために"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "道"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～ところの"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "彼らが進むべき"
+    },
+    {
+      "surface": "בה",
+      "gloss": "それを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:57:16.952553642Z",
+  "model": "glm-5.2"
+}

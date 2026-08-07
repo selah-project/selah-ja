@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そして⟨את⟩幕屋を、十枚の垂れ幕で作る。撚り糸の白麻、青紫、赤紫、緋色の混紡で、ケルビムを熟練した織工のわざで作る、それらを。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "幕屋"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "その幕屋"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "作る"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "垂れ幕"
+    },
+    {
+      "surface": "שש",
+      "gloss": "白麻"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "撚り糸の"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "青紫"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "赤紫"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "緋色の"
+    },
+    {
+      "surface": "שני",
+      "gloss": "虫緋"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "ケルビムを"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "わざ"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "熟練した織工の"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "作る"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "それらを",
+      "marks": "十枚の垂れ幕"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:05.803037149Z",
+  "model": "glm-5.2"
+}

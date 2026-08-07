@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして男から、精の放出が出るとき、彼は水で ⟨את⟩ 全身を洗う — そして彼は夕方まで汚れる。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "そして男が"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜するとき"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "出る"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "彼から"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "放出が"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "精の"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "そして洗う"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水で"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全身を"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "彼の身を"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "そして汚れる"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "夕方"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:38.755019415Z",
+  "model": "glm-5.2"
+}

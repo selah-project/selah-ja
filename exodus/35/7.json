@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "赤く染めた雄羊の皮、タハシュの皮、シッティムの木、",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "皮"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "雄羊の"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "赤く染めた"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "皮"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "タハシュの"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "木"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "シッティム（アカシア）の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:48.095035804Z",
+  "model": "glm-5.2"
+}

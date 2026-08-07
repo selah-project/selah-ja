@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そして彼は ⟨את⟩ その場所の名をベート・エルと呼んだ。しかしルズがその町の名であった、初めは。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "そして彼は呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名を"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "その場所の"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベート"
+    },
+    {
+      "surface": "אל",
+      "gloss": "・エル"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "しかし"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "ルズ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名であった"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町の"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "初めは"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:47.529299728Z",
+  "model": "glm-5.2"
+}

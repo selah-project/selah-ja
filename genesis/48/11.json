@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 48:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "イスラエルはヨセフに言った。「あなたの顔を見ることは、私は考えなかった。そして見よ、エロヒムが⟨את⟩私に、あなたの子孫をも見せてくださった。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "見ること"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの顔"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "פללתי",
+      "gloss": "私は考えなかった"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "見せてくださった"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "私に"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの子孫"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "あなたの子孫"
+    }
+  ],
+  "timestamp": "2026-08-07T09:11:22.189565512Z",
+  "model": "glm-5.2"
+}

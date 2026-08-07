@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてモアブはイスラエルに背いた、アハブの死の後で。",
+  "tokens": [
+    {
+      "surface": "וַיִּפְשַׁ֤ע",
+      "gloss": "そして…背いた"
+    },
+    {
+      "surface": "מוֹאָב֙",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵ֔ל",
+      "gloss": "イスラエルに"
+    },
+    {
+      "surface": "אַחֲרֵ֖י",
+      "gloss": "…の後で"
+    },
+    {
+      "surface": "מ֥וֹת",
+      "gloss": "死"
+    },
+    {
+      "surface": "אַחְאָֽב",
+      "gloss": "アハブの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:10:36.823611867Z",
+  "model": "glm-5.2"
+}

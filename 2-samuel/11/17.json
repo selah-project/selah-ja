@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして⟨その⟩街の人々は出て、ヨアブと戦った。こうして⟨その⟩民のうち、ダヴィドのしもべたちから倒れた者がいた。そしてウリヤ⟨その⟩ヒッテ人もまた死んだ。",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "そして…出た"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…の人々"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その街"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "そして…戦った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨアブ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "そして…倒れた"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "…のしもべたちのうち"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして…死んだ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ウリヤ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "そのヒッテ人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:52:14.812549044Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "七日の間、彼らは⟨את⟩祭壇の贖いをし、それを清めなければならない。そして⟨彼らは⟩その手を満たさなければならない。",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "七の"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "彼らは贖う"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "そして彼らは清める"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "それを"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "そして彼らは満たす"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "その手"
+    }
+  ],
+  "timestamp": "2026-08-07T12:15:23.087425636Z",
+  "model": "glm-5.2"
+}

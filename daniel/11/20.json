@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 11:20",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして彼の台に立つ者は、王国の威光の中で徴税者を行き来させる。そして数日のうちに彼は打ち砕かれる — 怒りによってでもなく、戦いによってでもなく。",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "そして立つ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "彼の台"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "行き来させる者"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "徴税者"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "威光"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "王国の"
+    },
+    {
+      "surface": "ובימים",
+      "gloss": "そして〜日"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "数"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "彼は打ち砕かれる"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "באפים",
+      "gloss": "怒りにおいて"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "戦いにおいて"
+    }
+  ],
+  "timestamp": "2026-08-07T13:49:12.770136557Z",
+  "model": "glm-5.2"
+}

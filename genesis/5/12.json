@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ケナンは七十歳⟨で⟩生き、⟨את⟩マハラレルを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ケナン"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "マハラレル"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "マハラレル"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:45.472548580Z",
+  "model": "glm-5.2"
+}

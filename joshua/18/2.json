@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてイスラエルの子らの中に、その嗣業を分けなかった七部族が残っていた。",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "残っていた"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "〜の子らの中に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "分けなかった"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その嗣業"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "彼らの嗣業"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "部族"
+    }
+  ],
+  "timestamp": "2026-08-07T10:28:51.995648982Z",
+  "model": "glm-5.2"
+}

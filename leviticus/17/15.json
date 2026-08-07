@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そして自然死したもの、または引き裂かれたものを食べるすべての命 — 土生れの人にも寄留者にも — は、その衣服を洗い、水に身を洗い、夕方まで汚れる。そして清くなる。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "命"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "自然死したもの"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "および引き裂かれたもの"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "土生れの人に"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "および寄留者に"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "洗い"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "その衣服を"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "そして洗い"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水に"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "そして汚れる"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "夕方"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "そして清くなる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:59.346804296Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 6:21",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてシェロモは ⟨את⟩ 家の内側を純金で覆い、デビルの前に金の鎖を通した。そして ⟨それ⟩ を金で覆った。",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "そして覆った"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "内側を"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金で"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "純"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "そして通した"
+    },
+    {
+      "surface": "ברתיקות",
+      "gloss": "鎖を"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "デビルの"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "そしてそれを覆った"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:25.437737029Z",
+  "model": "glm-5.2"
+}

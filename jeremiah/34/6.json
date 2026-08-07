@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 34:6",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そして預言者エルミヤは、ユダの王ツィドキヤに、これらのすべての言葉を語った — イェルシャライム（エルサレム）において。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして……は語った"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "エルミヤ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "……に"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ツィドキヤ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらのすべての言葉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライム（エルサレム）において"
+    }
+  ],
+  "timestamp": "2026-08-07T11:52:03.590897584Z",
+  "model": "glm-5.2"
+}

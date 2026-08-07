@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "穴を掘り、これを深く掘り下げ、彼が陥る、自らの⟨作った⟩穴に。",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "穴"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "掘る"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "そしてこれを掘り下げる"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "そして陥る"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "穴に"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "作る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:28.727987699Z",
+  "model": "glm-5.2"
+}

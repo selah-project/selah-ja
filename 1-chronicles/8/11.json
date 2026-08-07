@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてフシムから彼は ⟨את⟩ アビトゥブと ⟨את⟩ エルパアルをもうけた。",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "そしてフシムから"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "彼はもうけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アビトゥブ"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "アビトゥブ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "エルパアル"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "エルパアル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:34.102954733Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "しかし彼は言った、「私はあなたと共に帰ることも、あなたと共に来ることもできない。パンを食べることも、この場所であなたと共に水を飲むこともできない」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "しかし彼は言った"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "私はできる"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "帰ることに"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "そして来ることに"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "私は食べる"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "私は飲む"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "あなたと共に"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水を"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "〜で、場所"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T14:44:51.511662331Z",
+  "model": "glm-5.2"
+}

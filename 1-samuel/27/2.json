@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてダビデは立ち上がり、彼自身および彼と共にいた六百人の者が、ガトの王マオクの子アキシュのところへ渡って行った。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして…立ち上がり"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "そして…渡って行った"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼自身"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "および六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百の"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人が"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共にいた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "アキシュ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "マオク"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ガト"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:03.720726785Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 6:10",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてヤハウェは⟨את⟩ご自身の言葉を、語られたその通りに、立てられた。私は父ダヴィドに代わって立ち、ヤハウェが語られた通りにイスラエルの王座に着いた。そして私はヤハウェ、イスラエルのエロヒムの御名のために、この家を建てた。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして立てた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ご自身の言葉"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ご自身の言葉"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "ואקום",
+      "gloss": "私は立った"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "に代わって"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "私の父"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "私は着いた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "王座"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜の通りに"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "私は建てた"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家を"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "御名のために"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "〜のエロヒム"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T17:37:56.202820200Z",
+  "model": "glm-5.2"
+}

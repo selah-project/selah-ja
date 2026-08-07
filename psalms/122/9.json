@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 122,
+  "translation": "ヤハウェ ⟨私たちの⟩ エロヒムの家のゆえに、私はあなたの善を求める。",
+  "tokens": [
+    {
+      "surface": "לְ֭מַעַן",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֱלֹהֵ֑ינוּ",
+      "gloss": "⟨私たちの⟩ エロヒム"
+    },
+    {
+      "surface": "אֲבַקְשָׁ֖ה",
+      "gloss": "私は求める"
+    },
+    {
+      "surface": "ט֣וֹב",
+      "gloss": "善"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "あなたの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:41.374349321Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そしてアハロンに⟨את⟩聖なる衣を着せ、彼に油を注いで彼を聖別し、彼が私のために祭司として仕えるようにしなさい。",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "そして…着せよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アハロンに"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "聖なる衣を"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "衣"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "そして…注げ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼に"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "そして…聖別せよ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼を"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "そして…祭司として仕えよ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    }
+  ],
+  "timestamp": "2026-08-07T16:29:39.524992338Z",
+  "model": "glm-5.2"
+}

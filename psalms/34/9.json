@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "味わえ、そして見よ、ヤハウェが⟨⟩良いことを。まことに幸いだ、おのれを避け所とする男は！",
+  "tokens": [
+    {
+      "surface": "טַעֲמ֣וּ",
+      "gloss": "味わえ"
+    },
+    {
+      "surface": "וּ֭רְאוּ",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "ט֣וֹב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "אַֽשְׁרֵ֥י",
+      "gloss": "幸いだ"
+    },
+    {
+      "surface": "הַ֝גֶּ֗בֶר",
+      "gloss": "その男は"
+    },
+    {
+      "surface": "יֶחֱסֶה",
+      "gloss": "おのれを避け所とする"
+    },
+    {
+      "surface": "בּֽוֹ",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:43.956321301Z",
+  "model": "glm-5.2"
+}

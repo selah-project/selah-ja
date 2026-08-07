@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "アルナは見晴らし、⟨את⟩王と⟨את⟩彼の奴隷たちが自分の方へ渡って来るのを見た。そしてアルナは出て行き、地に顔を向けて王にひれ伏した。",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "そして見晴らした"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "アルナ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼の奴隷たち"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "彼の奴隷たち"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "渡って来る"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "自分の方へ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て行った"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "アルナ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "そしてひれ伏した"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王に"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "彼の顔"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:14.717228069Z",
+  "model": "glm-5.2"
+}

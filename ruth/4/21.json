@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてサルモンは⟨את⟩ボアズをもうけ、ボアズは⟨את⟩オベデをもうけた。",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "そしてサルモンは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "もうけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ボアズ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ボアズ"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "そしてボアズは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "もうけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "オベデ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "オベデ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:34:29.536537257Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 51:16",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "わたしはわたしの言葉をあなたの口に置き、手の陰であなたを覆った — それは天を植え、地を据え、ツィヨンに「あなたはわたしの民」と言うためである。",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "わたしは…置き"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "わたしの言葉を"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "あなたの口に"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "…陰で"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "手の"
+    },
+    {
+      "surface": "כסיתיך",
+      "gloss": "あなたを覆った"
+    },
+    {
+      "surface": "לנטע",
+      "gloss": "植える"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天を"
+    },
+    {
+      "surface": "וליסד",
+      "gloss": "据える"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "ולאמר",
+      "gloss": "言う"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "ツィヨンに"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    }
+  ],
+  "timestamp": "2026-08-07T14:31:13.769363548Z",
+  "model": "glm-5.2"
+}

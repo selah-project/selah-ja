@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "パロはこの事を聞き、モーシェを殺そうと求めた。モーシェはパロの顔から逃れ、ミドヤンの地に住んだ。そして井戸のそばに座った。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聞いた"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この事"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "事を"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "求めた"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "殺すことを"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーシェ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェを"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "逃げた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜の顔から"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "住んだ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ミドヤンの"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "座った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のそばに"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "井戸の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:12:54.855443534Z",
+  "model": "glm-5.2"
+}

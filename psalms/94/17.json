@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "もしヤハウェが⟨私の⟩助けとならなかったなら、ほんの少しで私のנפשは沈黙に住まっていたであろう。",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "もし〜なかったなら"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "助け"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私にとって"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ほんの少しで"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "住まっていたであろう"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "沈黙に"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私のנפשは"
+    }
+  ],
+  "timestamp": "2026-08-07T18:41:09.987951672Z",
+  "model": "glm-5.2"
+}

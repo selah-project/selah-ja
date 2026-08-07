@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "テベルのすべての住民よ、地の住人よ。山々に旗が掲げられるとき、あなたたちは見よ。そしてシャファルが吹かれるとき、聞け。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "י שבי",
+      "gloss": "住民よ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "テベルの"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "そして住人よ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "……が掲げられるとき"
+    },
+    {
+      "surface": "נס",
+      "gloss": "旗"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山々に"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "あなたたちは見よ"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "そして……が吹かれるとき"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "シャファル"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "聞け"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:14.098068446Z",
+  "model": "glm-5.2"
+}

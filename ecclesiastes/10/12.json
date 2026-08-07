@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "知恵ある者の口の言葉は恵み。愚か者の唇は彼を飲み込む。",
+  "tokens": [
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "言葉は"
+    },
+    {
+      "surface": "פִּי",
+      "gloss": "口の"
+    },
+    {
+      "surface": "חָכָם",
+      "gloss": "知恵ある者の"
+    },
+    {
+      "surface": "חֵן",
+      "gloss": "恵み"
+    },
+    {
+      "surface": "וְשִׂפְתוֹת",
+      "gloss": "唇は"
+    },
+    {
+      "surface": "כְּסִיל",
+      "gloss": "愚か者の"
+    },
+    {
+      "surface": "תְּבַלְעֶנּוּ",
+      "gloss": "彼を飲み込む"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:52.012971478Z",
+  "model": "glm-5.2"
+}

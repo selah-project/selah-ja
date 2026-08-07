@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 20:1",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてイスラエルの子ら、全会衆が、第一の月に、ツィンの荒野に来た。民はカデシュに宿った。ミリヤムはそこで死に、そこに葬られた。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "そして…来た"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "会衆"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "…の荒野"
+    },
+    {
+      "surface": "צן",
+      "gloss": "ツィン"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "…の月に"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "第一の"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして…宿った"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "カデシュに"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "そして…死んだ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ミリヤムは"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "そして…葬られた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:58:59.877143350Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 11:19",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "イスラエルの子らと和睦した町は一つもなかった。ギブオンに住むヒビ人を除いては。⟨את⟩すべてを彼らは戦争で取った。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨あった⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "和睦した"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "〜を除いて"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ヒビ人"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "〜に住む者"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ギブオン"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "取った"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "戦争で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:27:06.667013633Z",
+  "model": "glm-5.2"
+}

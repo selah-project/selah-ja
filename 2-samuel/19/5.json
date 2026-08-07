@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして王は⟨自分の⟩顔を覆い、王は大きな声で叫んだ。「わたしの息子アブシャロム、アブシャロム、わたしの息子、わたしの息子よ！」",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "そして王は"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "覆った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "顔"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "彼の顔"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "そして叫んだ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声で"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大きな"
+    },
+    {
+      "surface": "בני",
+      "gloss": "わたしの息子"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "アブシャロム"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "アブシャロム"
+    },
+    {
+      "surface": "בני",
+      "gloss": "わたしの息子"
+    },
+    {
+      "surface": "בני",
+      "gloss": "わたしの息子よ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:55:59.622677432Z",
+  "model": "glm-5.2"
+}

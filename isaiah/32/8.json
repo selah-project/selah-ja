@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "だが気前が良い者は気前が良いことを謀り、彼は気前が良いことの上に立つ。",
+  "tokens": [
+    {
+      "surface": "וְנָדִ֖יב",
+      "gloss": "だが気前が良い者は"
+    },
+    {
+      "surface": "נְדִיב֣וֹת",
+      "gloss": "気前が良いこと"
+    },
+    {
+      "surface": "יָעָ֑ץ",
+      "gloss": "謀る"
+    },
+    {
+      "surface": "וְה֖וּא",
+      "gloss": "そして彼は"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "נְדִיב֥וֹת",
+      "gloss": "気前が良いこと"
+    },
+    {
+      "surface": "יָקֽוּם",
+      "gloss": "立つ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:29.233967610Z",
+  "model": "glm-5.2"
+}

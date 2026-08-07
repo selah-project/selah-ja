@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "ああ、不義の法令を定める者たち、悩みを書き記す者たち、 ⟨彼らは⟩書き記した",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "定める者たち"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "…の法令を"
+    },
+    {
+      "surface": "און",
+      "gloss": "不義"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "そして書き記す者たち"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "悩みを"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "書き記した"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:25.299911131Z",
+  "model": "glm-5.2"
+}

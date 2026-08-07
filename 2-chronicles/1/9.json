@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 1:9",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "今や、ヤハウェ、エロヒム、あなたのことばがダビド私の父と共に確められますように。あなたが私を、地のちりのように多い民の上に王として立てられたのですから。",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "今や"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "確められますように"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "あなたのことば"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビド"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "私の父"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "המלכתני",
+      "gloss": "私を王として立てられた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "רב",
+      "gloss": "多い"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "ちりのように"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:09:53.175326273Z",
+  "model": "glm-5.2"
+}

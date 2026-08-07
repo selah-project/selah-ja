@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "イスラエルの人々は、自分たちが窮地にあるのを見た — 〈というのは〉民が押し寄せていたからである — そして民は洞穴や、茂みや、岩や、高き所や、穴に身を隠した。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "そして人々は"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "見た"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "צר",
+      "gloss": "窮地にある"
+    },
+    {
+      "surface": "לו",
+      "gloss": "自分たちが"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "押し寄せていた"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民が"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "そして身を隠した"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "洞穴に"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "茂みに"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "岩に"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "高き所に"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "穴に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:42:37.449133838Z",
+  "model": "glm-5.2"
+}

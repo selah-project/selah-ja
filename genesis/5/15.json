@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "マハラルエルは六十五⟨年⟩生き、エレドを⟨את⟩生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "マハラルエル"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "と六十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エレド"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "エレド"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:03.465274876Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "乙女は⟨彼女の⟩飾りを忘れるのか。花嫁は⟨彼女の⟩帯を忘れるのか。それでも私の民は私を忘れた、数えきれない日々のあいだ。",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "忘れるのか"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "乙女は"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "飾りを"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "花嫁は"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "帯を"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "そして私の民は"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "私を忘れた"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "数が"
+    }
+  ],
+  "timestamp": "2026-08-07T11:39:13.545326590Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "あなたの御顔をあなたのしもべの上に輝かせ、そして私に⟨את⟩あなたの定めを教えてください。",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "あなたの御顔"
+    },
+    {
+      "surface": "האר",
+      "gloss": "輝かせ"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "あなたのしもべの上に"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "そして私に教えてください"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの定め"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "あなたの定め"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:08.706054201Z",
+  "model": "glm-5.2"
+}

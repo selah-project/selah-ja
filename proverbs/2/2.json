@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 2:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "あなたの耳を知恵に傾け、あなたの心を理解力に向けるためである、",
+  "tokens": [
+    {
+      "surface": "להקשיב",
+      "gloss": "傾けるため"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "知恵に"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "あなたの耳を"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "向ける"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "あなたの心を"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "理解力に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:03.790472353Z",
+  "model": "glm-5.2"
+}

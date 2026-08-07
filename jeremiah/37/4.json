@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そしてエルミヤフは民のうちに入り、出て行き来していた。彼らは彼をまだ監獄に入れていなかったからである。",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "そしてエルミヤフは"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入って"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "…の中で"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…なかった"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "彼らは入れていなかった"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "監獄"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "その監禁"
+    }
+  ],
+  "timestamp": "2026-08-07T11:53:32.790475924Z",
+  "model": "glm-5.2"
+}

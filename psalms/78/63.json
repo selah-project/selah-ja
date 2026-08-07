@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "火は⟨彼の⟩若者たちを食い尽くし、⟨彼の⟩おとめたちは祝われなかった。",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "⟨彼の⟩若者たち"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "食い尽くした"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "⟨彼の⟩おとめたち"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "祝われた"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:17.002857247Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "その手には悪い企てがあり、その右の手は賄賂に満ちている。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "その"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "手には"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "悪い企て"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "その右の手は"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "満ちている"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "賄賂"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:55.436112789Z",
+  "model": "glm-5.2"
+}

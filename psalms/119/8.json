@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "⟨את⟩ あなたのフキィムを私は守る。私を全く見捨てないでほしい。",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたのフキィム"
+    },
+    {
+      "surface": "חֻקֶּיךָ",
+      "gloss": "あなたのフキィム"
+    },
+    {
+      "surface": "אֶשְׁמֹר",
+      "gloss": "私は守る"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜ないでほしい"
+    },
+    {
+      "surface": "תַּעַזְבֵנִי",
+      "gloss": "私を見捨てる"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "全く"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "極度に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:25.109049687Z",
+  "model": "glm-5.2"
+}

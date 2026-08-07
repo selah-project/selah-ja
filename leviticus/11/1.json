@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてヤハウェはモシェとアハロンに語り、彼らに告げて言われた、",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "告げて"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:47.856615188Z",
+  "model": "glm-5.2"
+}

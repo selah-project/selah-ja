@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "君たちも座について 私について語り合った、あなたのしもべは あなたのホクを思い巡らす。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "座について"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "君たち"
+    },
+    {
+      "surface": "בי",
+      "gloss": "私について"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "語り合った"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "あなたのしもべ"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "思い巡らす"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "あなたのホクを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:41.129171090Z",
+  "model": "glm-5.2"
+}

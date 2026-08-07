@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "アハブは家を管掌するオバドヤフを呼んだ。（オバドヤフはヤハウェを ⟨את⟩ ひじょうに畏れていた。）",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "そして…は呼んだ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "アハブ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…を"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "オバドヤフ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "על",
+      "gloss": "…を管掌する"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "そしてオバドヤフ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "…であった"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "畏れて"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ひじょうに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:45.464237294Z",
+  "model": "glm-5.2"
+}

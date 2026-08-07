@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして⟨彼は⟩言った。「誰があなたに告げたのか、あなたが裸であることを。あなたが食べたのか、その木から ― あなたが食べてはならないと私は命じた⟨木⟩。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ということを"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "裸で"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "המן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "その木"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "私はあなたに命じた"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "…してはならないと"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "それから"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "あなたは食べた"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:49.827372567Z",
+  "model": "glm-5.2"
+}

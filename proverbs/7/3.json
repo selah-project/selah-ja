@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "それらをあなたの指に結び、あなたの心の板に書き記せ。",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "それらを結べ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "あなたの指"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "それらを書け"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "板に"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "あなたの心の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:38.026093735Z",
+  "model": "glm-5.2"
+}

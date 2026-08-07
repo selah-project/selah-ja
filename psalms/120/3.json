@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 120,
+  "translation": "何があなたに与えられ、何があなたに加えられようか、欺きの舌よ。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "何が"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与えられようか"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "そして何が"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "加えられようか"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌よ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "欺きの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:45.539232318Z",
+  "model": "glm-5.2"
+}

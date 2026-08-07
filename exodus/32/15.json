@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 32:15",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そしてモシェは向きを変え、山から下った。そして二枚の証の板が彼の手の中にあった。板は両面から書かれていた——こちらからもあちらからも、それらは書かれていた。",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "そして彼は向きを変えた"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "そして下った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～から"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "そして二枚の"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "板"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "証の"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "彼の手の中に"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "板"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "書かれていた"
+    },
+    {
+      "surface": "משני",
+      "gloss": "両面から"
+    },
+    {
+      "surface": "עבריהם",
+      "gloss": "それらの面の"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "こちらから"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "そしてあちらから"
+    },
+    {
+      "surface": "הם",
+      "gloss": "それらは"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "書かれていた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:05.871394211Z",
+  "model": "glm-5.2"
+}

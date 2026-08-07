@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "彼の区別のすべての日々の間、ぶどうの木から作られるものは一切、皮から種に至るまで食べてはならない。」",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日々の"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "彼の区別の"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "一切の～から"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～ところの"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "作られる"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "ぶどうの木から"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ぶどう酒の"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "皮から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "～に至るまで"
+    },
+    {
+      "surface": "זג",
+      "gloss": "種"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:51:41.835955557Z",
+  "model": "glm-5.2"
+}

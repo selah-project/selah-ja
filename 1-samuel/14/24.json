@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 14:24",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてイスラエルの男たちはその日に苦しめられた。そしてシャウルは民に誓わせて言った。「私の敵から復讐されるまで、夕方までパンを食べるその男は呪われる。」そして民のすべてはパンを味わわなかった。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "そして男たちは"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "苦しめられた"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "ויאל",
+      "gloss": "そして誓わせた"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民を"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "呪われる"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その男は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜者が"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "עד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "夕方"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "そして私は復讐する"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "私の敵から"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "味わった"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:50.429912178Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "男 ⟨は⟩ ⟨その⟩父の妻を取ってはならない。また父の裾 ⟨を⟩露わにしてはならない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִקַּח",
+      "gloss": "取る"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "男"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "父の妻"
+    },
+    {
+      "surface": "אֵשֶׁת",
+      "gloss": "妻"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "彼の父の"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יְגַלֶּה",
+      "gloss": "露わにする"
+    },
+    {
+      "surface": "כְּנַף",
+      "gloss": "裾"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "彼の父の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:08.567194415Z",
+  "model": "glm-5.2"
+}

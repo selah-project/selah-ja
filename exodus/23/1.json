@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "あなたは空虚なうわさを持ち上げてはならない。あなたの手を悪者と共に置いて、暴力的な証人となってはならない。",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "〜てはならない"
+    },
+    {
+      "surface": "תִשָּׂא",
+      "gloss": "持ち上げては"
+    },
+    {
+      "surface": "שֵׁמַע",
+      "gloss": "うわさを"
+    },
+    {
+      "surface": "שָׁוְא",
+      "gloss": "空虚な"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜てはならない"
+    },
+    {
+      "surface": "תָּשֶׁת",
+      "gloss": "置いては"
+    },
+    {
+      "surface": "יָֽדְךָ",
+      "gloss": "あなたの手を"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "רָשָׁע",
+      "gloss": "悪者"
+    },
+    {
+      "surface": "לִהְיֹת",
+      "gloss": "となるために"
+    },
+    {
+      "surface": "עֵד",
+      "gloss": "証人"
+    },
+    {
+      "surface": "חָמָס",
+      "gloss": "暴力的な"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:37.188631707Z",
+  "model": "glm-5.2"
+}

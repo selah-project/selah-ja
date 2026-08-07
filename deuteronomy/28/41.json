@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "息子たちと娘たちを産むが、彼らはあなたのものとはならない。彼らは捕囚となって行くからである。",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "と娘たち"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "あなたは産む"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "彼らはなる"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのものに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "彼らは行く"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "捕囚として"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:07.968427370Z",
+  "model": "glm-5.2"
+}

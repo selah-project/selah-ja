@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 4:22",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼女は言った。「栄光はイスラエルから去った。エロヒムの箱が取られたからである。」",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "そして彼女は言った"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "去った"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "栄光は"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "イスラエルから"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だからである"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "取られた"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱が"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:33.288539821Z",
+  "model": "glm-5.2"
+}

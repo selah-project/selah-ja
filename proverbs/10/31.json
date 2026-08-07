@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "正しい者の口は知恵を萌芽する。しかし、曲がった舌は切り取られる。",
+  "tokens": [
+    {
+      "surface": "פִּֽי",
+      "gloss": "〜の口は"
+    },
+    {
+      "surface": "צַ֭דִּיק",
+      "gloss": "正しい者"
+    },
+    {
+      "surface": "יָנ֣וּב",
+      "gloss": "萌芽する（芽吹く）"
+    },
+    {
+      "surface": "חָכְמָ֑ה",
+      "gloss": "知恵を"
+    },
+    {
+      "surface": "וּלְשׁ֥וֹן",
+      "gloss": "しかし舌は"
+    },
+    {
+      "surface": "תַּ֝הְפֻּכ֗וֹת",
+      "gloss": "曲がった（転倒の）"
+    },
+    {
+      "surface": "תִּכָּרֵֽת",
+      "gloss": "切り取られる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:29.706829530Z",
+  "model": "glm-5.2"
+}

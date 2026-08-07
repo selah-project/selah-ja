@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 23:6",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そしてあなたたちは大いに強くなり、守り行うため、モーセのトーラーの書に書かれている⟨את⟩すべてのこと ⟨のために⟩、そこから右にも左にも逸れないように。",
+  "tokens": [
+    {
+      "surface": "וחזקתם",
+      "gloss": "そしてあなたたちは強くなる"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大いに"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "守るため"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "そして行うため"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのこと"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "書かれている"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "書に"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "トーラーの"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "〜ないために"
+    },
+    {
+      "surface": "סור",
+      "gloss": "逸れる"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "右"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "そして左"
+    }
+  ],
+  "timestamp": "2026-08-07T10:30:55.593781817Z",
+  "model": "glm-5.2"
+}

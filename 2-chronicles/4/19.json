@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 4:19",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてシェロモは、エロヒムの家にあるすべての器具を — ⟨את⟩ すべてを — 作った。すなわち⟨את⟩ 金の祭壇と、⟨את⟩ 机と、その上の臨在のパンを。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして〜は作った"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "器具を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜にある"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "金の祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "机"
+    },
+    {
+      "surface": "השלחנות",
+      "gloss": "机"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "臨在の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:35.029460104Z",
+  "model": "glm-5.2"
+}

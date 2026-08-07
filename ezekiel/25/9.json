@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 25:9",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "それゆえ、見よ、わたしはモアブの肩を⟨את⟩開く — 町々から、その境界の町々から — 栄えの地、ベテ・ハ・エシモト、バアル・メオン、およびキルヤタイムを。」",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "開く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モアブの肩"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "肩"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "町々から"
+    },
+    {
+      "surface": "מעריו",
+      "gloss": "その町々から"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "その端から"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "栄えの"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベテ"
+    },
+    {
+      "surface": "הישימת",
+      "gloss": "・ハ・エシモト"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "バアル"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "・メオン"
+    },
+    {
+      "surface": "וקריתמה",
+      "gloss": "およびキルヤタイム"
+    }
+  ],
+  "timestamp": "2026-08-07T12:09:03.018209619Z",
+  "model": "glm-5.2"
+}

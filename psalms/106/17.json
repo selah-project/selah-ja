@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "地が開き、ダタンを飲み込み、アビラムの会衆の上を覆った。",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "開いた"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地が"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "そして飲み込み"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "ダタンを"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "そして覆った"
+    },
+    {
+      "surface": "על",
+      "gloss": "⋯⋯の上を"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "会衆の"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "アビラムの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:11.198291365Z",
+  "model": "glm-5.2"
+}

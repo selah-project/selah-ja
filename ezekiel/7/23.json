@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "鎖を作れ。まことに地は血の裁きで満ち、都は暴虐で満ちているからだ。",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "作れ"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "鎖を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに…だから"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "満ち"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "…の裁き"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "血の"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "そして都は"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "満ちている"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "暴虐で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:01:23.107089834Z",
+  "model": "glm-5.2"
+}

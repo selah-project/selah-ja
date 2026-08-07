@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 9:11",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして王は⟨את⟩そのアルグム材で、ヤハウェの家と王の家のための階段、そして歌うたいためのキンノールとネベルを作った。ユダの地でそれらのようなものは以前見られなかった。",
+  "tokens": [
+    {
+      "surface": "ועש",
+      "gloss": "そして作った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アルグム材を"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木材"
+    },
+    {
+      "surface": "האלגומים",
+      "gloss": "そのアルグムの"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "階段"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "家のための"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "と家のための"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "とキンノール"
+    },
+    {
+      "surface": "ונבלים",
+      "gloss": "とネベル"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "歌うたいための"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "見られた"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "それらのような"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "以前"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地で"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:11:47.163902970Z",
+  "model": "glm-5.2"
+}

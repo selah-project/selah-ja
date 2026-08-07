@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして彼女たちはその夜、父にぶどう酒を飲ませた。初子がはいり、⟨את⟩父と寝た。彼は彼女が寝たときにも、彼女が起きたときにも知らなかった。",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "彼女たちは飲ませた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "父"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "父"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ぶどう酒"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "彼女ははいった"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "初子は"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "彼女は寝た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "父"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "父"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして～ない"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "彼は知った"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "彼女の寝ることに"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "そして彼女の起きることに"
+    }
+  ],
+  "timestamp": "2026-08-07T08:57:21.855628508Z",
+  "model": "glm-5.2"
+}

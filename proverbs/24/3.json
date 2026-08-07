@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "知恵によって家は築かれ、識別力によってそれは固く立つ。",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "知恵によって"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "築かれる"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "そして識別力によって"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "固く立つ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:41.383607306Z",
+  "model": "glm-5.2"
+}

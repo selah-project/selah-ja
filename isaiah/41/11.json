@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 41:11",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "見よ、あなたに対して燃え立つすべての者は恥じ、辱めを受ける。あなたと争う人々は無きもののようになり、滅びる。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "恥じる"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "そして辱めを受ける"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הנחרים",
+      "gloss": "燃え立つ者"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたに対して"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "無きもののように"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "そして滅びる"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "人々"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "あなたと争う"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:46.993319402Z",
+  "model": "glm-5.2"
+}

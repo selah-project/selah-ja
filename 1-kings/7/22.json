@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 7:22",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして柱の頭の上には百合の細工があった。こうして柱の工事は完成した。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "そして⋯の上に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "柱の"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "細工"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "百合の"
+    },
+    {
+      "surface": "ותתם",
+      "gloss": "そして完成した"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "工事"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "柱の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:00.866974839Z",
+  "model": "glm-5.2"
+}

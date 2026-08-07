@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "祭司たちはヤハウェの家に入ることができなかった。ヤハウェの栄光が⟨את⟩ヤハウェの家を満たしていたからである。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして…なかった"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "できた"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たちは"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "入ることを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "満たしていた"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "栄光"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:11:30.783051011Z",
+  "model": "glm-5.2"
+}

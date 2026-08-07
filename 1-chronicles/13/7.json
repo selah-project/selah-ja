@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして彼らはエロヒムの⟨את⟩箱を新しい荷車に乗せ、アヴィナダヴの家から運び出した。ウザとアヒヨがその荷車を御していた。",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "そして乗せた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "箱"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "荷車"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "新しい"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "〜の家から"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "アヴィナダヴ"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "とウザ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "とその兄弟"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "御していた"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "その荷車を"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:52.274520162Z",
+  "model": "glm-5.2"
+}

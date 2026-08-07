@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 14:10",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "彼女の父は彼女の元に下って行った。そしてシムションはそこで宴を設けた — 若い男たちがそうするからである。",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "彼は下った"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "彼女の父は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の元に"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "その女"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "彼は設けた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "シムションは"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "宴を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "するものである"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "若い男たちが"
+    }
+  ],
+  "timestamp": "2026-08-07T10:35:57.866800524Z",
+  "model": "glm-5.2"
+}

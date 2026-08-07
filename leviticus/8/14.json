@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "彼は⟨את⟩罪過の雄牛を近づけた。アハロンとその息子たちは、罪過の雄牛の頭の上に⟨את⟩自分たちの手を置いた。",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "近づけた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "罪過の雄牛"
+    },
+    {
+      "surface": "פר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "罪過の"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "とその息子たちは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分たちの手"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "自分たちの手"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "פר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "罪過の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:26.862354097Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "愚かな者はその日に自分の怒りを知らせる、しかし恥を覆う者は賢い。",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "愚かな者"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "その日に"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "知らせる"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "自分の怒りを"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "しかし〜覆う者"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "恥を"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "賢い"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:44.987888751Z",
+  "model": "glm-5.2"
+}

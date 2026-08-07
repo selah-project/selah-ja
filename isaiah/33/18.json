@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "あなたの心は恐れを思い巡らす。「記録官はどこに。量る者はどこに。塔を数える者はどこに。」",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "あなたの心は"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "思い巡らす"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "恐れを"
+    },
+    {
+      "surface": "איה",
+      "gloss": "どこに"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "記録官は"
+    },
+    {
+      "surface": "איה",
+      "gloss": "どこに"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "量る者は"
+    },
+    {
+      "surface": "איה",
+      "gloss": "どこに"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "数える者は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "塔を"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "塔"
+    }
+  ],
+  "timestamp": "2026-08-07T11:28:20.322605707Z",
+  "model": "glm-5.2"
+}

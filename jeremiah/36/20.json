@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 36:20",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "彼らは王の中庭に入った。そして⟨את⟩巻物を書記エリシャマの部屋に預け、王の耳に⟨את⟩すべての言葉を告げた。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "入った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "חצרה",
+      "gloss": "中庭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "巻物"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "巻物"
+    },
+    {
+      "surface": "הפקדו",
+      "gloss": "預けた"
+    },
+    {
+      "surface": "בלשכת",
+      "gloss": "部屋に"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "エリシャマ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "書記"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "耳に"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての言葉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "言葉"
+    }
+  ],
+  "timestamp": "2026-08-07T11:53:18.555963850Z",
+  "model": "glm-5.2"
+}

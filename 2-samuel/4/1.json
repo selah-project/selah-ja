@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてシャウルの子は、アブネルがヘブロンで死んだことを聞いたとき、彼の手は弱まり、全イスラエルはおののいた。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "そして聞いた"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ことを"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死んだ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "アブネル"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ヘブロンで"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "そして弱くなった"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "おののいた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:35.295668433Z",
+  "model": "glm-5.2"
+}

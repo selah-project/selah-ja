@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして水は祭壇の回りを流れ、また⟨את⟩溝をも水で満たした。",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "そして〜は流れた"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "回りを"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "祭壇の"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "また"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "溝"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "溝"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "彼は満たした"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:24.415553143Z",
+  "model": "glm-5.2"
+}

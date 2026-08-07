@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "「乳と蜜の流れる地へ。しかし、わたしはあなたのうちにあっては上らない。あなたは首の硬い民だからである。道中でわたしがあなたを滅ぼし尽くすことのないように。」",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "流れる"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "乳"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "そして蜜"
+    },
+    {
+      "surface": "כי",
+      "gloss": "しかし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "わたしは上らない"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "あなたのうちに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "硬い"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "首の"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "פן",
+      "gloss": "…ことのないように"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "わたしがあなたを滅ぼし尽くす"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道中で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:14.826582039Z",
+  "model": "glm-5.2"
+}

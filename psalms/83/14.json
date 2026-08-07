@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 83,
+  "translation": "わがエロヒムよ、彼らを車輪のように、風の前のもみがらのように、⟨⟨置いてください⟩⟩。",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "わがエロヒムよ"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "⟨彼らを⟩置いてください"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "車輪のように"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "もみがらのように"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:52.670528441Z",
+  "model": "glm-5.2"
+}

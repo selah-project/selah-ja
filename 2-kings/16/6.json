@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 16:6",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "その時、レツィン、アラムの王は、⟨את⟩エイラトをアラムに帰させ、ユダヤ人たちをエイロトから追い出した。そしてアラム人たちはエイラトに来て、今日までそこに住んでいる。",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "…の時に"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "その"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "帰させた"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "レツィン"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エイラト"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "エイラト"
+    },
+    {
+      "surface": "לארם",
+      "gloss": "アラムに"
+    },
+    {
+      "surface": "וינשל",
+      "gloss": "そして追い出した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ユダヤ人たち"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ユダヤ人たち"
+    },
+    {
+      "surface": "מאילות",
+      "gloss": "エイロトから"
+    },
+    {
+      "surface": "וארמים",
+      "gloss": "そしてアラム人たちは"
+    },
+    {
+      "surface": "באו",
+      "gloss": "来て"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "エイラトに"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "住んでいる"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:23.345945103Z",
+  "model": "glm-5.2"
+}

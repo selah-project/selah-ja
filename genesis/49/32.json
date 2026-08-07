@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "畑の購入⟨物⟩、およびその中にある洞穴は、ヘトの子らから⟨のもの⟩である。",
+  "tokens": [
+    {
+      "surface": "מִקְנֵ֧ה",
+      "gloss": "購入⟨物⟩"
+    },
+    {
+      "surface": "הַשָּׂדֶ֛ה",
+      "gloss": "その畑の"
+    },
+    {
+      "surface": "וְהַמְּעָרָ֥ה",
+      "gloss": "およびその洞穴"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "〜は"
+    },
+    {
+      "surface": "בּ֖וֹ",
+      "gloss": "その中にある"
+    },
+    {
+      "surface": "מֵאֵ֥ת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "חֵֽת",
+      "gloss": "ヘト"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:02.115396100Z",
+  "model": "glm-5.2"
+}

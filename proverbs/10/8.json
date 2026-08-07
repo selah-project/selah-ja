@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "心に知恵ある者は戒めを受け、唇の愚かな者は倒れる。",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "知恵ある"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心に"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "受け"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "戒めを"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "そして愚かな者"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "唇の"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "倒れる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:12.387985940Z",
+  "model": "glm-5.2"
+}

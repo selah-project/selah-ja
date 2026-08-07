@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 4:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてヤハウェは創造される — シオンの山のすべての住処の上に、またその集会の上に、昼は雲と煙を、夜は炎の火の輝きを。⟨それは⟩すべての栄光の上に天蓋があるためである。",
+  "tokens": [
+    {
+      "surface": "וברא",
+      "gloss": "そして創造される"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "住処"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "シオン"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "また〜の上に"
+    },
+    {
+      "surface": "מקראה",
+      "gloss": "その集会"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "昼"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "と煙"
+    },
+    {
+      "surface": "ונגה",
+      "gloss": "と輝き"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火の"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "炎"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜のためである"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "栄光"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "天蓋"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:04.353919068Z",
+  "model": "glm-5.2"
+}

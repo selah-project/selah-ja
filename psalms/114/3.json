@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 114,
+  "translation": "海は見て、逃げた、ヤルデンはうしろへ向きを変えた、",
+  "tokens": [
+    {
+      "surface": "הַיָּ֣ם",
+      "gloss": "海は"
+    },
+    {
+      "surface": "רָ֭אָה",
+      "gloss": "見て"
+    },
+    {
+      "surface": "וַיָּנֹ֑ס",
+      "gloss": "逃げた"
+    },
+    {
+      "surface": "הַ֝יַּרְדֵּ֗ן",
+      "gloss": "ヤルデンは"
+    },
+    {
+      "surface": "יִסֹּ֥ב",
+      "gloss": "向きを変えた"
+    },
+    {
+      "surface": "לְאָחֽוֹר",
+      "gloss": "うしろへ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:33.418426058Z",
+  "model": "glm-5.2"
+}

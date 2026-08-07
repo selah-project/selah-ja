@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "私は憎む、欺きの空しさを守る者たちを。しかし私は、ヤハウェに信頼する。",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "私は憎む"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "守る者たちを"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "〜の空しさ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "欺き"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "しかし私は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "私は信頼する"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:32.319451284Z",
+  "model": "glm-5.2"
+}

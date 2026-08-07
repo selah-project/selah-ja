@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "開け、レバノンよ、あなたの扉を。火があなたの杉の木々を食らうために。",
+  "tokens": [
+    {
+      "surface": "פְּתַ֥ח",
+      "gloss": "開け"
+    },
+    {
+      "surface": "לְבָנ֖וֹן",
+      "gloss": "レバノンよ"
+    },
+    {
+      "surface": "דְּלָתֶ֑יךָ",
+      "gloss": "あなたの扉を"
+    },
+    {
+      "surface": "וְתֹאכַ֥ל",
+      "gloss": "そして食らう"
+    },
+    {
+      "surface": "אֵ֖שׁ",
+      "gloss": "火が"
+    },
+    {
+      "surface": "בַּאֲרָזֶֽיךָ",
+      "gloss": "あなたの杉の木々を"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:24.002037632Z",
+  "model": "glm-5.2"
+}

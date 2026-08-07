@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてアハロンと彼の息子たちは ⟨את⟩ その雄羊の肉と、かごの中にある ⟨את⟩ パンを、会見の天幕の入り口で食べる。",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "そして……食べる"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "と彼の息子たちは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雄羊の肉"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "雄羊の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と ⟨את⟩",
+      "marks": "パン"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……にある"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "かごの中に"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "入り口で"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕の"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:41.126406110Z",
+  "model": "glm-5.2"
+}

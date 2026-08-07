@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして水も、量って飲むこと——一ヒンの六分の一。時から時までそれを飲むこと。",
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "そして水も"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "量って"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "飲むこと"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "六分の一"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ヒンの"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "時から"
+    },
+    {
+      "surface": "עד",
+      "gloss": "～まで"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "それを飲むこと"
+    }
+  ],
+  "timestamp": "2026-08-07T12:01:34.233524451Z",
+  "model": "glm-5.2"
+}

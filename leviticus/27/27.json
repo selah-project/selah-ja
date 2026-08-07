@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 27:27",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "もし汚れた家畜についてであれば、あなたの評価によって贖い、その上にその五分の一を加えなければならない。もし贖われないなら、あなたの評価によって売られる。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "家畜について"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "汚れた"
+    },
+    {
+      "surface": "ופדה",
+      "gloss": "贖う"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "あなたの評価によって"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "加える"
+    },
+    {
+      "surface": "חמשתו",
+      "gloss": "その五分の一"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "贖われる"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "売られる"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "あなたの評価によって"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:44.723567558Z",
+  "model": "glm-5.2"
+}

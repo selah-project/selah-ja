@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてユダは集まり、ヤハウェ ⟨から⟩ 助けを求めた。またユダのすべての都市から ⟨彼らは⟩ 来て、ヤハウェ ⟨את⟩ を尋ね求めた。",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "そして集まり"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダは"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "求めた"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ヤハウェ ⟨から⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "…のすべての"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "都市"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "来た"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "尋ね求めて"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:15:25.229592586Z",
+  "model": "glm-5.2"
+}

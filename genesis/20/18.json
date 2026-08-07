@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 20:18",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "というのは、ヤハウェはアビメレクの家のすべての胎を、ことごとく閉ざされていたからである。それはサラ、アブラハムの妻のことによる。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "閉ざされて"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "ことごとく"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "〜の"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "胎"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "〜の家"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "アビメレク"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のことによる"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "サラ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "〜の妻"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:19.160575822Z",
+  "model": "glm-5.2"
+}

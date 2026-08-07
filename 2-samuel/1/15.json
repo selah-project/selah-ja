@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてダビデは若者たちのひとりを呼んで言った、「近寄れ、彼を打て」。そして彼は彼を打ったので、彼は死んだ。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "そして呼んだ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ひとりに"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "若者たちの"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "גש",
+      "gloss": "近寄れ"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "打て"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼を"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "そして彼は彼を打った"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして彼は死んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:21.953492147Z",
+  "model": "glm-5.2"
+}

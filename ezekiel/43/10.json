@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "あなた、人の子よ、⟨את⟩ イスラエルの家に ⟨את⟩ ⟨その〉家を告げ知らせよ。彼らが自分の咎によって恥じ入るように。そして彼らは ⟨את⟩ その設計を測れ。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "告げ知らせよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "そして彼らは恥じ入る"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "自分の咎によって"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "そして彼らは測れ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その設計"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "設計"
+    }
+  ],
+  "timestamp": "2026-08-07T12:15:20.899114551Z",
+  "model": "glm-5.2"
+}

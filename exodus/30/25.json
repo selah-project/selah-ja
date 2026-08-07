@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "あなたはそれ⟨את⟩を聖なる注ぎの油としなさい。香料の混合物、香料職人のわざとして。それは聖なる注ぎの油となるであろう。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "あなたは…としなさい"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ（油）"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "注ぎの"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "香料の"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "混合物"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "わざ"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "香料職人の"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "注ぎの"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "…となるであろう"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:40.997054951Z",
+  "model": "glm-5.2"
+}

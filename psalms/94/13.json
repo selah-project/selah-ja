@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "彼に悪しき日々からの静けさを与えるため、⟨⟩悪者のための穴が掘られるまで。",
+  "tokens": [
+    {
+      "surface": "לְהַשְׁקִ֣יט",
+      "gloss": "静めさせるため"
+    },
+    {
+      "surface": "ל֭וֹ",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "מִ֣ימֵי",
+      "gloss": "〜の日々から"
+    },
+    {
+      "surface": "רָ֑ע",
+      "gloss": "悪"
+    },
+    {
+      "surface": "עַ֤ד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "יִכָּרֶ֖ה",
+      "gloss": "掘られる"
+    },
+    {
+      "surface": "לָרָשָׁ֣ע",
+      "gloss": "悪者のための"
+    },
+    {
+      "surface": "שָֽׁחַת",
+      "gloss": "穴"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:21.696538122Z",
+  "model": "glm-5.2"
+}

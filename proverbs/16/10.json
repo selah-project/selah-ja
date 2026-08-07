@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "占いが王の唇の上に — 判定において、その口は裏切ってはならない。",
+  "tokens": [
+    {
+      "surface": "קֶ֤סֶם",
+      "gloss": "占いが"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "שִׂפְתֵי",
+      "gloss": "唇の"
+    },
+    {
+      "surface": "מֶ֑לֶךְ",
+      "gloss": "王の"
+    },
+    {
+      "surface": "בְּ֝מִשְׁפָּ֗ט",
+      "gloss": "判定において"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִמְעַל",
+      "gloss": "裏切っては"
+    },
+    {
+      "surface": "פִּֽיו",
+      "gloss": "その口は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:49.981895702Z",
+  "model": "glm-5.2"
+}

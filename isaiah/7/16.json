@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 7:16",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "なぜなら、その子が悪を拒み、善を選ぶことを知る前に、あなたが忌み嫌うその地は、その二人の王の前から見捨てられる。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "その子が"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "拒み"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "選ぶ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "善を"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "見捨てられる"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜という"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "忌み嫌う"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜の前から"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二人の"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "その王の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:21:53.171055139Z",
+  "model": "glm-5.2"
+}

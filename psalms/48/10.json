@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "わたしたちはあなたのヘセドを味わい知った、エロヒムよ、あなたの宮のただ中で。",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "わたしたちは味わい知った"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "あなたのヘセドを"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "〜のただ中で"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "あなたの宮"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:50.039691814Z",
+  "model": "glm-5.2"
+}

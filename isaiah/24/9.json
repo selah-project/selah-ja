@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "歌とともに⟨は⟩ぶどう酒を飲むことはない、強い酒はそれを飲む者たちには苦くなる。",
+  "tokens": [
+    {
+      "surface": "בַּשִּׁ֖יר",
+      "gloss": "歌とともに"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִשְׁתּוּ",
+      "gloss": "彼らは飲む"
+    },
+    {
+      "surface": "יָ֑יִן",
+      "gloss": "ぶどう酒"
+    },
+    {
+      "surface": "יֵמַ֥ר",
+      "gloss": "苦くなる"
+    },
+    {
+      "surface": "שֵׁכָ֖ר",
+      "gloss": "強い酒"
+    },
+    {
+      "surface": "לְשֹׁתָֽיו",
+      "gloss": "それを飲む者たちには"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:07.215912961Z",
+  "model": "glm-5.2"
+}

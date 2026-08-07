@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "目に見えるもののほうが、ネフェシュのさまよいよりも良い。これもまたヘヴェル、ルーハの苦悩である。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "見ること"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "目"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "さまよい"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ネフェシュ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ヘヴェル"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "苦悩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ルーハ"
+    }
+  ],
+  "timestamp": "2026-08-07T18:43:51.123833157Z",
+  "model": "glm-5.2"
+}

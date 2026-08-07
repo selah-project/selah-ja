@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "ヤハウェは ⟨את⟩ 自らを恐れる者たちを喜ばれる、⟨את⟩ ヘセドを待ち望む者たちを",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "喜ばれる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自らを恐れる者たち"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "自らを恐れる者たち"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヘセドを待ち望む者たち"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "待ち望む者たち"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "ヘセドを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:37.475554379Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 5:8",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "大麦と藁も、馬と駿馬のために、そこにあるべき場所に運び込んだ、おのおのその割り当てによって。",
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "大麦も"
+    },
+    {
+      "surface": "והתבן",
+      "gloss": "藁も"
+    },
+    {
+      "surface": "לסוסים",
+      "gloss": "馬のために"
+    },
+    {
+      "surface": "ולרכש",
+      "gloss": "駿馬のため"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "運び込んだ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "場所"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "あるべき"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "その割り当てによって"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:48.388985615Z",
+  "model": "glm-5.2"
+}

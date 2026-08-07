@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ヤハウェよ、いつまで⟨の間⟩、私は叫び助けを求めるのに、あなたは聞かれないのか。私があなたに向かって「暴力だ」と叫んでも、あなたは救い出さないのか。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "いつ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "私は叫び助けを求める"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "あなたは聞かれる"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "私は叫ぶ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに向かって"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "暴力"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "あなたは救い出される"
+    }
+  ],
+  "timestamp": "2026-08-07T12:28:19.531947859Z",
+  "model": "glm-5.2"
+}

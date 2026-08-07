@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "エロヒムはビラームに言われた。「彼らと共に行ってはならない。⟨את⟩その民に呪いをかけてはならない。それは祝福されているからだ。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言われた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ビラーム"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "行ってはならない"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "彼らと共に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "呪ってはならない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "祝福されている"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    }
+  ],
+  "timestamp": "2026-08-07T09:59:24.948384799Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "永遠に、ヤハウェ、あなたのことばは天に据え立っている",
+  "tokens": [
+    {
+      "surface": "לְעוֹלָ֥ם",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "דְּ֝בָרְךָ֗",
+      "gloss": "あなたのことば"
+    },
+    {
+      "surface": "נִצָּ֥ב",
+      "gloss": "設え立っている"
+    },
+    {
+      "surface": "בַּשָּׁמָֽיִם",
+      "gloss": "天に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:44.382963970Z",
+  "model": "glm-5.2"
+}

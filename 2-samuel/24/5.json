@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして彼らは⟨את⟩ハ・ヤルデンを渡り、ガドのナハルのただ中にある町の右、アロエルに宿営し、ヤゼルへ⟨向かって⟩ ⟨進んだ⟩。",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "そして彼らは渡った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ハ・ヤルデン"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ハ・ヤルデン"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "そして宿営した"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "アロエルに"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "右"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "のただ中にある"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "そのナハル"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "ガドの"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜へ"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ヤゼル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:04.759549171Z",
+  "model": "glm-5.2"
+}

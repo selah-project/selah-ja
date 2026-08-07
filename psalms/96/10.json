@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 96,
+  "translation": "諸国の民の間で言え、「ヤハウェは王となられた。まことに世界は堅く据えられ、決して揺れ動かない。⟨彼は⟩民々を正しく裁く」と。",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "言え"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "諸国の民の間で"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王となられた"
+    },
+    {
+      "surface": "אף",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "堅く据えられ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界は"
+    },
+    {
+      "surface": "בל",
+      "gloss": "決して〜ない"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "揺れ動かない"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "裁く"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "民々を"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "正しく"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:58.577349653Z",
+  "model": "glm-5.2"
+}

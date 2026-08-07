@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "石を投げる時、そして石を集める時。抱擁する時、そして抱擁から遠ざかる時。",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "投げる"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石を"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "そして時"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "集める"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石を"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "抱擁する"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "そして時"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "遠ざかる"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "抱擁から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:37:25.493718603Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして彼は⟨את⟩門の玄関を測った。八キュビト、そしてその控え壁は二キュビト。門の玄関は家の側に⟨あった⟩。",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "そして彼は測った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "門の玄関"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "玄関"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門の"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "八"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "キュビト"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "そしてその控え壁"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "二"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "キュビト"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "そして玄関"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門の"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "家の側に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:14:25.945800247Z",
+  "model": "glm-5.2"
+}

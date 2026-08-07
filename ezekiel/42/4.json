@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "そして部屋の前に通路があった、幅十アンマの、内側の部屋へ。道は一アンマの。そしてそれらの入り口は北に。",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "そして〜の前に"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "部屋"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "通路"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "幅"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "内側の"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "そしてそれらの入り口"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "北に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:14:41.202285515Z",
+  "model": "glm-5.2"
+}

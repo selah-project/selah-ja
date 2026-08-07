@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 26:5",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "ルベン、イスラエルの長子。ルベンの子らは⟨次のとおり⟩：ハノク――ハノク人 ⟨の⟩ 氏族、パル――パル人 ⟨の⟩ 氏族。",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "ルベン"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "長子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ルベン"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ハノク"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "氏族"
+    },
+    {
+      "surface": "החנכי",
+      "gloss": "ハノク人"
+    },
+    {
+      "surface": "לפלוא",
+      "gloss": "パル"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "氏族"
+    },
+    {
+      "surface": "הפלאי",
+      "gloss": "パル人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:00:49.728321097Z",
+  "model": "glm-5.2"
+}

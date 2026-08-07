@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 26:4",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "彼らはツォルの城壁を滅ぼし、その塔を打ち砕く。私はその塵をそこから削ぎ落とし、⟨את⟩それを裸の岩の頂とする。",
+  "tokens": [
+    {
+      "surface": "ושחתו",
+      "gloss": "彼らは滅ぼす"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "城壁"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ツォル"
+    },
+    {
+      "surface": "והרסו",
+      "gloss": "打ち砕く"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "その塔"
+    },
+    {
+      "surface": "וסחיתי",
+      "gloss": "私は削ぎ落とす"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "その塵"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "私は…とする"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "それ（ツォル）"
+    },
+    {
+      "surface": "לצחיח",
+      "gloss": "裸の"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "岩の頂"
+    }
+  ],
+  "timestamp": "2026-08-07T12:09:23.174469723Z",
+  "model": "glm-5.2"
+}

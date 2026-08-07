@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "また宴の家には、彼らと共に座って⟨את⟩食べ、また飲むために、入ってはならない。",
+  "tokens": [
+    {
+      "surface": "וּבֵית",
+      "gloss": "また…の家に"
+    },
+    {
+      "surface": "מִשְׁתֶּה",
+      "gloss": "宴"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תָבֹא",
+      "gloss": "入っては"
+    },
+    {
+      "surface": "לָשֶׁבֶת",
+      "gloss": "座るために"
+    },
+    {
+      "surface": "אוֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "食べること"
+    },
+    {
+      "surface": "לֶאֱכֹל",
+      "gloss": "食べ"
+    },
+    {
+      "surface": "וְלִשְׁתּוֹת",
+      "gloss": "また飲む"
+    }
+  ],
+  "timestamp": "2026-08-07T17:02:22.882273944Z",
+  "model": "glm-5.2"
+}

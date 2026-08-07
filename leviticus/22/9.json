@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして彼らは ⟨את⟩ わたしの務めを守り、その上に罪を負わないようにせよ。彼らがそれを汚すなら、その中で死ぬであろう。わたしは彼らを聖別するヤハウェである。",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "そして彼らは守る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの務め"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "わたしの務め"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "彼らは負う"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "罪"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "そして彼らは死ぬ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "その中で"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜なら"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "彼らがそれを汚す"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "彼らを聖別する"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:52.883503901Z",
+  "model": "glm-5.2"
+}

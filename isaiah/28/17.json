@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 28:17",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "わたしは公平を⟨線⟩のために置き、義を鉛錘のために置く。雹は偽りの避け所を⟨את⟩掃い去り、水は隠れ場を洗い流す。",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "わたしは置く"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公平を"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "⟨線⟩のために"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "義を"
+    },
+    {
+      "surface": "למשקלת",
+      "gloss": "鉛錘のために"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "雹は"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "避け所を"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "偽りの"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "隠れ場を"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水は"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "洗い流す"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:34.729099476Z",
+  "model": "glm-5.2"
+}

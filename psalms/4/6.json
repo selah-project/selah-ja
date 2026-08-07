@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "義の犠牲を屠れ、そしてヤハウェに信頼せよ。",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "屠れ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "〜の犠牲"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "義"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "そして信頼せよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:33:56.757621355Z",
+  "model": "glm-5.2"
+}

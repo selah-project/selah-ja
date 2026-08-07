@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてヘツロンの子ら、彼に生まれた⟨者⟩は — ⟨את⟩エラフメエルと⟨את⟩ラムと⟨את⟩ケルバイ。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "そして…の子ら"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ヘツロン"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エラフメエル"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "エラフメエル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ラム"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ラム"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ケルバイ"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "ケルバイ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:41.364959592Z",
+  "model": "glm-5.2"
+}

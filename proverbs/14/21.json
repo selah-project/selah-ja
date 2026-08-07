@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 14:21",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "隣人を蔑む者は罪を犯す。しかし貧しい者に恵みを示す者、幸いなるかなその人。",
+  "tokens": [
+    {
+      "surface": "בָּז",
+      "gloss": "蔑む"
+    },
+    {
+      "surface": "לְרֵעֵ֥הוּ",
+      "gloss": "隣人を"
+    },
+    {
+      "surface": "חוֹטֵ֑א",
+      "gloss": "罪を犯す"
+    },
+    {
+      "surface": "וּמְחוֹנֵ֖ן",
+      "gloss": "しかし恵みを示す者"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "貧しい者に"
+    },
+    {
+      "surface": "אַשְׁרָֽיו",
+      "gloss": "幸いなるかなその人"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:27.088588768Z",
+  "model": "glm-5.2"
+}

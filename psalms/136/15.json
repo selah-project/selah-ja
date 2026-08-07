@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 136,
+  "translation": "そしてパロとその軍勢をスーフの海で振り落とした — まことに、とこしえに彼のヘセドはある。",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "そして振り落とした"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロと"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "その軍勢を"
+    },
+    {
+      "surface": "בים",
+      "gloss": "海で"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "スーフの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "彼のヘセドは"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:09.639234338Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 3:26",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ヨアブはダビドのもとから出て行き、使いたちをアブネルの後ろに遣わした。そして彼らは彼をシラの貯水池から連れ戻した。ダビドは知らなかった。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして…は出て行った"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "…のもとから"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビド"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "そして…は遣わした"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使いたち"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…の後ろに"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "アブネル"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "そして彼らは…を連れ戻した"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼を"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "…の貯水池"
+    },
+    {
+      "surface": "הסרה",
+      "gloss": "シラの"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "そしてダビドは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知った"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:28.690836315Z",
+  "model": "glm-5.2"
+}

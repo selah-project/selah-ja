@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてサライは不妊であった —— 彼女に子はなかった。",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "そして〜であった"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "サライは"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "不妊で"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "子が"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:31.124835605Z",
+  "model": "glm-5.2"
+}

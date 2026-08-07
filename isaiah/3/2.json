@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "勇士と戦士、裁き人と預言者、占い人と長老⟨を⟩、",
+  "tokens": [
+    {
+      "surface": "גִּבּ֖וֹר",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "וְאִ֣ישׁ",
+      "gloss": "と人"
+    },
+    {
+      "surface": "מִלְחָמָ֑ה",
+      "gloss": "戦の"
+    },
+    {
+      "surface": "שׁוֹפֵ֥ט",
+      "gloss": "裁き人"
+    },
+    {
+      "surface": "וְנָבִ֖יא",
+      "gloss": "と預言者"
+    },
+    {
+      "surface": "וְקֹסֵ֥ם",
+      "gloss": "と占い人"
+    },
+    {
+      "surface": "וְזָקֵֽן",
+      "gloss": "と長老"
+    }
+  ],
+  "timestamp": "2026-08-07T14:28:29.080654126Z",
+  "model": "glm-5.2"
+}

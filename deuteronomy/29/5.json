@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "パンをあなたがたは食べず、ブドウ酒と強い酒をあなたがたは飲まなかった。それはあなたがたが、私があなたがたのエロヒム、ヤハウェであることを知るためであった。",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "あなたがたは食べた"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "そしてブドウ酒"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "そして強い酒"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "あなたがたは飲んだ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "～のためであった"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "あなたがたが知る"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～ことを"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "あなたがたのエロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:22.931140178Z",
+  "model": "glm-5.2"
+}

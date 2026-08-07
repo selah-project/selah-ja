@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 28:15",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "純金はそれと引き換えに与えられず、銀はその代価として量られない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与えられる"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "純金"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "それと引き換えに"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "量られる"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "מחירהּ",
+      "gloss": "その代価として"
+    }
+  ],
+  "timestamp": "2026-08-07T13:26:34.979584942Z",
+  "model": "glm-5.2"
+}

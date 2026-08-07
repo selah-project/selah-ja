@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 6:23",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして彼はデビルの中に二体のケルビムをオリーブの木で造った。その高さは十アマであった。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は造った"
+    },
+    {
+      "surface": "בדביר",
+      "gloss": "デビルの中に"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二体の"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ケルビムを"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "〜の木で"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "オリーブ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "アマ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "その高さは"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:25.438071755Z",
+  "model": "glm-5.2"
+}

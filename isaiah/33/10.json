@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "「今、わたしは立ち上がる」とヤハウェは言われる、「今、わたしは高められ、今、わたしは身を上げる。」",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "わたしは立ち上がる"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "わたしは高められ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "わたしは身を上げる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:40.793449049Z",
+  "model": "glm-5.2"
+}

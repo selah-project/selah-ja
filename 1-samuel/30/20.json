@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "ダビデは⟨את⟩すべての羊と牛を取った。彼らはそれを家畜の前に追い立てた。人々は言った。「これはダビデの分捕り物だ。」",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "取った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての羊と牛"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "追い立てた"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "言った"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これは"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "分捕り物"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:02.441403330Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてヤハウェはモシェに言われた——見よ、わたしはあなたをパロの⟨ための⟩エロヒムとして与えた。あなたの兄弟アハロンはあなたの預言者となる。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "わたしはあなたを与えた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "パロのために"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "そしてアハロン"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "あなたの預言者"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:09.126262706Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "地の上にいるすべての家畜の型、天において飛ぶすべての翼ある鳥の型——",
+  "tokens": [
+    {
+      "surface": "תַּבְנִ֕ית",
+      "gloss": "型"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בְּהֵמָ֖ה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "בָּאָ֑רֶץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "תַּבְנִית֙",
+      "gloss": "型"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "צִפּ֣וֹר",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "כָּנָ֔ף",
+      "gloss": "翼ある"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "〜が"
+    },
+    {
+      "surface": "תָּע֖וּף",
+      "gloss": "飛ぶ"
+    },
+    {
+      "surface": "בַּשָּׁמָֽיִם",
+      "gloss": "天において"
+    }
+  ],
+  "timestamp": "2026-08-07T10:09:22.415633549Z",
+  "model": "glm-5.2"
+}

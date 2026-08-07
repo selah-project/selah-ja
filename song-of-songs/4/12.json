@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "閉ざされた庭、私の姉妹、花嫁よ。閉ざされた泉、封じられた湧き水。",
+  "tokens": [
+    {
+      "surface": "גַּ֥ן",
+      "gloss": "庭"
+    },
+    {
+      "surface": "נָע֖וּל",
+      "gloss": "閉ざされた"
+    },
+    {
+      "surface": "אֲחֹתִ֣י",
+      "gloss": "私の姉妹"
+    },
+    {
+      "surface": "כַלָּ֑ה",
+      "gloss": "花嫁よ"
+    },
+    {
+      "surface": "גַּ֥ל",
+      "gloss": "泉"
+    },
+    {
+      "surface": "נָע֖וּל",
+      "gloss": "閉ざされた"
+    },
+    {
+      "surface": "מַעְיָ֥ן",
+      "gloss": "湧き水"
+    },
+    {
+      "surface": "חָתֽוּם",
+      "gloss": "封じられた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:08.644556111Z",
+  "model": "glm-5.2"
+}

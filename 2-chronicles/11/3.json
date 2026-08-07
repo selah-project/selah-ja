@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 11:3",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "「語れ、シュロモの子、ユダの王レハブアムに、そしてユダとベニヤミンにいる全イスラエルに、次のように。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "レハブアム"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモの"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして…に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ユダにいる"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "とベニヤミンに"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "次のように"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:53.661128003Z",
+  "model": "glm-5.2"
+}

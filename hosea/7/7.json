@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "彼らは皆、かまどのように熱くなり、⟨את⟩彼らの裁き手たちを食い尽くした。彼らの王は皆倒れた。彼らの中には私に呼び求める者がいない。",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "彼らは皆"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "熱くなり"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "かまどのように"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "…食い尽くした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの裁き手たちを"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "彼らの裁き手たちを"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "彼らの王は"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "倒れた"
+    },
+    {
+      "surface": "אין",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼び求める者が"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "彼らの中に"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:16.888092356Z",
+  "model": "glm-5.2"
+}

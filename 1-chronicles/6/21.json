@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "エルカナの子、ヨエルの子、アザルヤの子、ツェファヌヤの子",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "エルカナ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ヨエル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "アザルヤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "ツェファヌヤ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:02.310370885Z",
+  "model": "glm-5.2"
+}

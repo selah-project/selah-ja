@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして王は彼らに言った。「夢を、この私は夢みた。そして私の霊はかき乱された。⟨את⟩その夢を知るために。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "夢を"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "私は夢みた"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "そして…かき乱された"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "私の霊は"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "知るために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その夢"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "その夢を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:11.447651935Z",
+  "model": "glm-5.2"
+}

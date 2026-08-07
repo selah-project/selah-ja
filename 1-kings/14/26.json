@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 14:26",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして彼は⟨את⟩ヤハウェの家の宝物と、⟨את⟩王の家の宝物を取り、⟨את⟩すべてを奪い取った。そして彼は⟨את⟩シュロモが造ったすべての金の盾を取った。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして彼は取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの家の宝物"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "宝物"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "王の家の宝物"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "宝物"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "奪い取った"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして彼は取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての金の盾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "盾"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…もの"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造った"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:06:32.683963114Z",
+  "model": "glm-5.2"
+}

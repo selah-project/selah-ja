@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "「そして彼らが『ヤハウェは生きておられる』と言っても、実のところ、偽りにかけて誓う。」",
+  "tokens": [
+    {
+      "surface": "וְאִ֥ם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "חַי",
+      "gloss": "生きておられる"
+    },
+    {
+      "surface": "יְהֹוָ֖ה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "יֹאמֵ֑רוּ",
+      "gloss": "彼らが言う"
+    },
+    {
+      "surface": "לָכֵ֥ן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "לַשֶּׁ֖קֶר",
+      "gloss": "偽りに"
+    },
+    {
+      "surface": "יִשָּׁבֵֽעוּ",
+      "gloss": "彼らは誓う"
+    }
+  ],
+  "timestamp": "2026-08-07T11:41:43.726899865Z",
+  "model": "glm-5.2"
+}

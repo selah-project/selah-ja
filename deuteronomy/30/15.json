@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "見よ。わたしは今日あなたの前に置いた——⟨את⟩いのちと、そして⟨את⟩良いものと、そして⟨את⟩死と、そして⟨את⟩悪を。",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "わたしは置いた"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "あなたの前に"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "いのち"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "いのち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "良いもの"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "良いもの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "死"
+    },
+    {
+      "surface": "המות",
+      "gloss": "死"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "悪"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "悪"
+    }
+  ],
+  "timestamp": "2026-08-07T10:20:32.300378447Z",
+  "model": "glm-5.2"
+}

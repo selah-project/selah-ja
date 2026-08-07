@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてこれがあなたが彼らのために行うべき事である — 彼らを聖別して ⟨私⟩ のために祭司とするため — 雄牛一頭、群れの子を、そして傷のない雄羊二匹を取れ。",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "そしてこれが"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "あなたは行うべき"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らのために"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "聖別するため"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼らを"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "祭司とするため"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一頭の"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "群れの"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "そして雄羊"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二匹の"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "傷のない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:07.929363468Z",
+  "model": "glm-5.2"
+}

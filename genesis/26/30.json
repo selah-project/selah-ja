@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そして⟨彼は⟩彼らのために宴を設け、彼らは食べ、そして飲んだ。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は設けた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らのために"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "宴を"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "そして彼らは食べた"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "そして彼らは飲んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:59:08.689704557Z",
+  "model": "glm-5.2"
+}

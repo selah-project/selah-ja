@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "わたしは向きを変え、山から下り、わたしが造った ⟨את⟩ 板を箱に納めた。そしてそれらはそこにあった — ヤハウェがわたしに命じられたとおりに。",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "わたしは向きを変え"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "下った"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "わたしは納めた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "板"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "板"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "箱に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "わたしが造った"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "そしてそれらはあった"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のとおりに"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "わたしに命じられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:24:40.655222011Z",
+  "model": "glm-5.2"
+}

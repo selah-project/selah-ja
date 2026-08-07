@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 8:33",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてネルは⟨את⟩キシュを生み、キシュは⟨את⟩シャウルを生み、シャウルは⟨את⟩イェホナタンと⟨את⟩マルキ・シュアと⟨את⟩アビナダブと⟨את⟩エシュバアルを生んだ。",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "そしてネルは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "キシュ"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "キシュ"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "そしてキシュは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シャウル"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "そしてシャウルは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イェホナタン"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "イェホナタン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "マルキ・シュア"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "マルキ"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "シュア"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "アビナダブ"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "アビナダブ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "エシュバアル"
+    },
+    {
+      "surface": "אשבעל",
+      "gloss": "エシュバアル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:01.394793400Z",
+  "model": "glm-5.2"
+}

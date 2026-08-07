@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "これらはイスラエルの子ら、ルベン、シメオン、レビ、およびユダ、イッサカル、およびゼブルン。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ルベン"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "シメオン"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "レビ"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "および"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "イッサカル"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "およびゼブルン"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:42.548706756Z",
+  "model": "glm-5.2"
+}

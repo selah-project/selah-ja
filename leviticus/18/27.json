@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "あなたたちの前にいた地の人々が、これらすべての忌むべき事を⟨את⟩行ったからである。そして地は汚れた。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…だからである"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらすべての忌むべき事を"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "忌むべき事を"
+    },
+    {
+      "surface": "האל",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "行った"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…の人々が"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "あなたたちの前にいた"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "そして…汚れた"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    }
+  ],
+  "timestamp": "2026-08-07T09:38:23.812285854Z",
+  "model": "glm-5.2"
+}

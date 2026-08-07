@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 3:14",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "私は知った。エロヒムがなさるすべてのことは、永遠に続くということ⟨を⟩。それに付け加えることはなく、そこから取り減らすこともない。そしてエロヒムは、彼らが御前から恐れ畏むように、そのようにされた。",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "私は知った"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "こと"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "なさる"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムが"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "続く"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "付け加えることは"
+    },
+    {
+      "surface": "וממנו",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "לגרע",
+      "gloss": "取り減らすことも"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "そしてエロヒムは"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "された"
+    },
+    {
+      "surface": "שיראו",
+      "gloss": "恐れ畏むように"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "御前から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:33.332181153Z",
+  "model": "glm-5.2"
+}

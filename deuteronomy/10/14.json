@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "見よ、天と天の天、地とその中のすべては、あなたのエロヒム、ヤハウェのものである。",
+  "tokens": [
+    {
+      "surface": "הֵ֚ן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "לַיהוָ֣ה",
+      "gloss": "ヤハウェのもの（である）"
+    },
+    {
+      "surface": "אֱלֹהֶ֔יךָ",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "הַשָּׁמַ֖יִם",
+      "gloss": "天"
+    },
+    {
+      "surface": "וּשְׁמֵ֣י",
+      "gloss": "と〜の天"
+    },
+    {
+      "surface": "הַשָּׁמָ֑יִם",
+      "gloss": "天"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "とすべて"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "〜の中の"
+    },
+    {
+      "surface": "בָּֽהּ",
+      "gloss": "それ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:10:18.124237520Z",
+  "model": "glm-5.2"
+}

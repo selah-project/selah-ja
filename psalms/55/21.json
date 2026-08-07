@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "彼は平和な者たちに向けて手を伸ばし、彼の契約を損なった。",
+  "tokens": [
+    {
+      "surface": "שָׁלַ֣ח",
+      "gloss": "伸ばした"
+    },
+    {
+      "surface": "יָ֭דָיו",
+      "gloss": "彼の手を"
+    },
+    {
+      "surface": "בִּשְׁלֹמָ֗יו",
+      "gloss": "彼の平和な者たちに"
+    },
+    {
+      "surface": "חִלֵּ֥ל",
+      "gloss": "損なった"
+    },
+    {
+      "surface": "בְּרִיתֽוֹ",
+      "gloss": "彼の契約を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:35.306473198Z",
+  "model": "glm-5.2"
+}

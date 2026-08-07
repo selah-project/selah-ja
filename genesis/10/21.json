@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "またシェムにも⟨子らが⟩生まれた。彼こそすべてのエベルの子らの父、イェフェテの兄である。 ⟨シェムは⟩偉大な⟨者であった⟩。",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "またシェムにも"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼自身"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "…の父"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "エベル"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "…の兄"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "イェフェテ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "偉大な"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:29.680578638Z",
+  "model": "glm-5.2"
+}

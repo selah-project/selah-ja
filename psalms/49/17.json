@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "恐れるな、人が富を得るときにも、⟨彼の⟩家の光栄が増し加わるときにも。",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תִּ֭ירָא",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜とき"
+    },
+    {
+      "surface": "יַעֲשִׁ֣ר",
+      "gloss": "富を得る"
+    },
+    {
+      "surface": "אִ֑ישׁ",
+      "gloss": "人は"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜とき"
+    },
+    {
+      "surface": "יִ֝רְבֶּה",
+      "gloss": "増し加わる"
+    },
+    {
+      "surface": "כְּב֣וֹד",
+      "gloss": "光栄が"
+    },
+    {
+      "surface": "בֵּיתֽוֹ",
+      "gloss": "彼の家の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:01.467575269Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "その日、アキシュは彼に⟨את⟩ツィクラグを与えた。それゆえ、ツィクラグはユダの王たちのものとなり、今日この日に至るまで（そう）である。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして与えた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "アキシュは"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "～の日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ツィクラグ"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "ツィクラグを"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "～となった"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "ツィクラグは"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "王たちのものに"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    },
+    {
+      "surface": "עד",
+      "gloss": "～に至るまで"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:58.167433058Z",
+  "model": "glm-5.2"
+}

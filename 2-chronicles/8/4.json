@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼は⟨את⟩タドモルを荒野に建て、また⟨את⟩ハマテに彼が建てた貯蔵の町々のすべてを⟨建てた⟩。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "そして彼は建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "タドモル"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "タドモル"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野に"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "貯蔵の町々のすべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "町々"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "貯蔵の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "彼が建てた"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "ハマテに"
+    }
+  ],
+  "timestamp": "2026-08-07T17:38:05.357605047Z",
+  "model": "glm-5.2"
+}

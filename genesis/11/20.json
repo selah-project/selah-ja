@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "レウは三十二年生き、⟨את⟩ セルグを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "生き"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "レウ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "二"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "と三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "セルグ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "セルグ"
+    }
+  ],
+  "timestamp": "2026-08-07T16:23:16.103089274Z",
+  "model": "glm-5.2"
+}

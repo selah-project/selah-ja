@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "あなたのすべての木と、あなたの地の実を、羽音のするものが受け継ぐ。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "あなたの木"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "と実"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "あなたの地の"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "⟨彼は⟩受け継ぐ"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "羽音のするものは"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:07.968626300Z",
+  "model": "glm-5.2"
+}

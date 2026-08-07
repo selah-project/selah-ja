@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "外では剣が子を失わせ、奥の間からは恐怖⟨が⟩⟨来る⟩。若者も乙女も、乳飲み子も白髪の男と共に。",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "外では"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "子を失わせる"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣が"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "そして奥の間からは"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "恐怖"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "若者"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "乙女"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "乳飲み子"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "白髪の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:21:27.232534747Z",
+  "model": "glm-5.2"
+}

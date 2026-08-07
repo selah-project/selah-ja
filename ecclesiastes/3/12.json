@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "私は知った、彼らの中に良いものはないことを。ただ喜ぶこと、そして彼の生のあいだに良いことをすること⟨を除いて⟩。",
+  "tokens": [
+    {
+      "surface": "יָדַ֕עְתִּי",
+      "gloss": "私は知った"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "〜ということを"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ט֖וֹב",
+      "gloss": "良いもの"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "彼らの中に"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "〜のほか"
+    },
+    {
+      "surface": "לִשְׂמ֔וֹחַ",
+      "gloss": "喜ぶこと"
+    },
+    {
+      "surface": "וְלַעֲשׂ֥וֹת",
+      "gloss": "そして〜すること"
+    },
+    {
+      "surface": "ט֖וֹב",
+      "gloss": "良いこと"
+    },
+    {
+      "surface": "בְּחַיָּֽיו",
+      "gloss": "彼の生のあいだに"
+    }
+  ],
+  "timestamp": "2026-08-07T17:30:22.806668425Z",
+  "model": "glm-5.2"
+}

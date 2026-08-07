@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 25:15",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "ヨベルの後の年数にしたがって、あなたは同胞から買わなければならない。収穫の年数にしたがって、彼はあなたに売る ⟨べきである⟩。",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "〜の数にしたがって"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "〜の後の"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "ヨベル"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "あなたは買う"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "あなたの同胞"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "〜の数にしたがって"
+    },
+    {
+      "surface": "שני",
+      "gloss": "〜の年"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "収穫"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "彼は売る"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:43:43.934201367Z",
+  "model": "glm-5.2"
+}

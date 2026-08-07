@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "そして朝の光のように、太陽が昇る——、雲のない朝、輝きの後の雨による地の若草の ⟨ように⟩。",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "そして…の光のように"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "昇る"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "雲"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "輝きから"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "雨から"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "若草"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "地から"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:11.057580363Z",
+  "model": "glm-5.2"
+}

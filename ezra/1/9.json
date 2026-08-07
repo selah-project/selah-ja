@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 1:9",
+  "book": "ezra",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてこれらはその数である：金の盆三十、銀の盆一千、刀二十九。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "その数"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "盆"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "盆"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀の"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "מחלפים",
+      "gloss": "刀"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "九"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "と二十"
+    }
+  ],
+  "timestamp": "2026-08-07T13:50:01.881071Z",
+  "model": "glm-5.2"
+}

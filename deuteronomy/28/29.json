@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 28:29",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "あなたは真昼に手探りする、盲人が暗やみの中で手探りするように。そしてあなたは自分の道を成功させない。⟨את⟩あなたの道を。あなたはただ圧迫され、かつ奪い取られる、日々いつも。そして救う者はいない。",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "あなたは〜となる"
+    },
+    {
+      "surface": "ממשש",
+      "gloss": "手探りする"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "真昼に"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "ימשש",
+      "gloss": "手探りする"
+    },
+    {
+      "surface": "העור",
+      "gloss": "盲人が"
+    },
+    {
+      "surface": "באפלה",
+      "gloss": "暗やみの中で"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תצליח",
+      "gloss": "成功させる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの道"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "あなたの道"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "あなたは〜となる"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "עשוק",
+      "gloss": "圧迫され"
+    },
+    {
+      "surface": "וגזול",
+      "gloss": "奪い取られ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "いつも"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日々"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そしていない"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "救う者"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:52.773608479Z",
+  "model": "glm-5.2"
+}

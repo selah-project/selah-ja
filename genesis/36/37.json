@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 36:37",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "サムラが死に、川のレホボトのシャウルが彼の代わりに王となった。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死に"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "サムラ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "彼の代わりに"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "レホボトの"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "川の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:32.138046371Z",
+  "model": "glm-5.2"
+}

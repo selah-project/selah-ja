@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして彼を自由の身としてあなたのもとから去らせるとき、彼を空手で去らせてはならない。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "そして〜するとき"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "あなたは彼を去らせる"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "自由の身として"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "あなたのもとから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "あなたは彼を去らせてはならない"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "空手で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:13:52.663796768Z",
+  "model": "glm-5.2"
+}

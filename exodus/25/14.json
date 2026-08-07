@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "あなたは⟨את⟩棒を箱の側面の輪に通し、それで⟨את⟩箱を担ぐため⟨彼ら⟩の中に⟨入れて⟩おきなさい。",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "あなたは通しなさい"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "棒を"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "棒"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "輪に"
+    },
+    {
+      "surface": "על",
+      "gloss": "の上の"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "側面"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "箱の"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "担ぐため"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "箱を"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "箱"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "それで"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:34.447812241Z",
+  "model": "glm-5.2"
+}

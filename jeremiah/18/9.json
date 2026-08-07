@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 18:9",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして一瞬、わたしがあるゴイについて、ある王国について、それを建て、また植えるために語るなら ——",
+  "tokens": [
+    {
+      "surface": "ורגע",
+      "gloss": "そして一瞬"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "わたしが語る"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "あるゴイ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "また〜について"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "王国"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "建てるために"
+    },
+    {
+      "surface": "ולנטע",
+      "gloss": "また植えるために"
+    }
+  ],
+  "timestamp": "2026-08-07T11:47:26.439520938Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "食物は銀で売ってください。そうすれば私は食べよう。そして水は銀で私に与えてください。そうすれば私は飲もう。ただ、私が足で通り過ぎることを。」",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "食物を"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "銀で"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "あなたは私に売ってください"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "そして私は食べよう"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "そして水を"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "銀で"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "あなたは与えてください"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "そして私は飲もう"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "私が通り過ぎることを"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "足で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:39.690289111Z",
+  "model": "glm-5.2"
+}

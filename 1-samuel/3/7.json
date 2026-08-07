@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "サムエルはまだヤハウェを⟨知らなかった⟩。⟨את⟩ ヤハウェ。またヤハウェの言葉はまだ彼に啓示されていなかった。",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "そしてサムエルは"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "まだ〜なかった"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "またまだ〜なかった"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "啓示される"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:47.393298508Z",
+  "model": "glm-5.2"
+}

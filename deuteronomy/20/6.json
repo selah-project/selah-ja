@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 20:6",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そして、ぶどう園を植え、まだそれを初収穫していない者はだれか。彼は行って自分の家に帰れ。戦いで死に、別の者がそれを初収穫することのないように。",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "そしてだれか"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その者は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "植えた"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ぶどう園を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "初収穫した"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "行け"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして帰れ"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "自分の家へ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死ぬ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "戦いで"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "そして別の者が"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "他の"
+    },
+    {
+      "surface": "יחללנו",
+      "gloss": "それを初収穫する"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:34.649070222Z",
+  "model": "glm-5.2"
+}

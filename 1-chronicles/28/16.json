@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "また⟨את⟩配置の卓の金を、卓と卓ごとに、重量で；また銀を銀の卓について。",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "金"
+    },
+    {
+      "surface": "הַזָּהָ֥ב",
+      "gloss": "金"
+    },
+    {
+      "surface": "מִשְׁקָ֛ל",
+      "gloss": "重量で"
+    },
+    {
+      "surface": "לְשֻׁלְחֲנ֥וֹת",
+      "gloss": "卓のための"
+    },
+    {
+      "surface": "הַֽמַּעֲרֶ֖כֶת",
+      "gloss": "配置の"
+    },
+    {
+      "surface": "לְשֻׁלְחַ֣ן",
+      "gloss": "卓ごと"
+    },
+    {
+      "surface": "וְשֻׁלְחָ֑ן",
+      "gloss": "と卓"
+    },
+    {
+      "surface": "וְכֶ֖סֶף",
+      "gloss": "また銀"
+    },
+    {
+      "surface": "לְשֻׁלְחֲנ֥וֹת",
+      "gloss": "卓について"
+    },
+    {
+      "surface": "הַכָּֽסֶף",
+      "gloss": "銀の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:09:28.285745347Z",
+  "model": "glm-5.2"
+}

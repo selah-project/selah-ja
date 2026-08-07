@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 14:19",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして彼は彼を祝福して言った、「アブラムは祝福されている、エル・エルヨンに——天と地の造り主に。」",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "そして彼は彼を祝福して"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "祝福されている"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "アブラム"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "エル…に"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "…エルヨン"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "造り主"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "と地"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:48.288912644Z",
+  "model": "glm-5.2"
+}

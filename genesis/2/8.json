@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "ヤハウェ・エロヒムはエデンに、東の方に園を植え、そこに ⟨彼が⟩造った ⟨את⟩人を置かれた。",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "植えられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "גן",
+      "gloss": "園を"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "エデンに"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "東の方に"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "置かれた"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人を"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "造った"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:06.438314119Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 11:25",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして今、あなたはモアブの王、ツィポルの子バラクよりも良く⟨ある⟩のだろうか。彼がイスラエルと争った⟨の⟩か、彼らと戦った⟨の⟩か。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "〜は良いのか"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "מבלק",
+      "gloss": "バラクよりも"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ツィポル"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブの"
+    },
+    {
+      "surface": "הרוב",
+      "gloss": "争ったのか"
+    },
+    {
+      "surface": "רב",
+      "gloss": "争う"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜か"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "戦ったのか"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "戦う"
+    },
+    {
+      "surface": "בם",
+      "gloss": "彼らと"
+    }
+  ],
+  "timestamp": "2026-08-07T10:36:27.819655884Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そして疫病による死者は一万四千七百人になった。コラチの事についての死者を除いて。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "そして〜になった"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "死者"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "疫病による"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "と七"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "〜を除いて"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "死者"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜についての"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "コラチ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:57:38.269836796Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "王は大軍勢によって救われない、勇士は大いなる力によって奪い出されない。",
+  "tokens": [
+    {
+      "surface": "אֵֽין",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "הַ֭מֶּלֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "נוֹשָׁ֣ע",
+      "gloss": "救われない"
+    },
+    {
+      "surface": "בְּרָב",
+      "gloss": "大〜によって"
+    },
+    {
+      "surface": "חָ֑יִל",
+      "gloss": "軍勢"
+    },
+    {
+      "surface": "גִּ֝בּ֗וֹר",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִנָּצֵ֥ל",
+      "gloss": "奪い出されない"
+    },
+    {
+      "surface": "בְּרָב",
+      "gloss": "大いなる〜によって"
+    },
+    {
+      "surface": "כֹּֽחַ",
+      "gloss": "力"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:10.121289734Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "ヤハウェこそ、あなたの前に歩む方。⟨彼⟩はあなたと共におられる。⟨彼⟩はあなたを緩ませず、あなたを見捨てない。恐れてはならない。慌ててはならない。」",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "そしてヤハウェ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼⟩"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "歩む方"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "あなたの前に"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨彼⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "共におられる"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたと"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "あなたを緩ませ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "あなたを見捨てる"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "恐れては"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "慌てては"
+    }
+  ],
+  "timestamp": "2026-08-07T10:20:50.088718747Z",
+  "model": "glm-5.2"
+}

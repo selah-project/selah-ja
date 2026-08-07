@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "王がトーラーの書物の⟨את⟩ことばを聞いたとき、王は⟨את⟩自分の衣を引き裂いた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…なった"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "…聞いたとき"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ことば"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "書物"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "トーラー"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "そして…引き裂いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の衣"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "自分の衣"
+    }
+  ],
+  "timestamp": "2026-08-07T11:18:05.908664598Z",
+  "model": "glm-5.2"
+}

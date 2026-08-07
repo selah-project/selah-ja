@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 127,
+  "translation": "あなたたちにとって無駄である、早く起きる者たち、遅くまで座る者たち、苦しみのパンを食べる者たち。このように、ヤハウェは愛する者に眠りを与える。",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "無駄である"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちにとって"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "早く起きる者たち"
+    },
+    {
+      "surface": "קום",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "遅くまで"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "座る者たち"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "食べる者たち"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "苦しみの"
+    },
+    {
+      "surface": "כן",
+      "gloss": "このように"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "愛する者に"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "眠りを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:59.816239310Z",
+  "model": "glm-5.2"
+}

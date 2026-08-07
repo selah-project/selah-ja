@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "地の日のすべての間、種蒔きと収穫、寒さと暑さ、夏と冬、昼と夜は、やむことはない。」",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "…の間"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日の"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "種蒔き"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "と収穫"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "と寒さ"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "と暑さ"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "と夏"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "と冬"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "と昼"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "と夜"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "やむ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:24.953035141Z",
+  "model": "glm-5.2"
+}

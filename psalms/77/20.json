@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 77,
+  "translation": "海の中にあなたの道、あなたの小道は多くの水の中に。またあなたの足跡は知られなかった。",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "海の中に"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "あなたの道"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "あなたの小道は"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水の中に"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "あなたの足跡は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "知られ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:58.261647376Z",
+  "model": "glm-5.2"
+}

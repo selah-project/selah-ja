@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 38:20",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "ヤハウェ、私を救ってください。そして私の楽の調べを、私たちの命の日のすべてにわたって、ヤハウェの家において奏でよう。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "私を救ってください"
+    },
+    {
+      "surface": "ונגנותי",
+      "gloss": "そして私の楽の調べを"
+    },
+    {
+      "surface": "ננגן",
+      "gloss": "奏でよう"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日の"
+    },
+    {
+      "surface": "חיינו",
+      "gloss": "私たちの命の"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜において"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:29:33.835143501Z",
+  "model": "glm-5.2"
+}

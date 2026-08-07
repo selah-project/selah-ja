@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてあなたは ⟨את⟩ 幕屋の庭を造らなければならない。南側の、南向きの、庭のために、撚り白亜麻の幕が、百アンマの長さで、一つの側 ⟨のため⟩ に ⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "そしてあなたは造る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "幕屋の庭"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "庭"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋の"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "〜の側に"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "南"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "南向き"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "幕"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "庭のために"
+    },
+    {
+      "surface": "שש",
+      "gloss": "白亜麻"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "撚り"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "アンマで"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長さ"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "側に"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一つの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:21.083837084Z",
+  "model": "glm-5.2"
+}

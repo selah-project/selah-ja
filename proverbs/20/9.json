@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "誰が言えよう、「私は自分の心をきよくした、私は自分の罪からきよめられた」と。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "言えよう"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "私は〜した"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "自分の心を"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "私はきよめられた"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "自分の罪から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:14.065492346Z",
+  "model": "glm-5.2"
+}

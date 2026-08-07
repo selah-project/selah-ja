@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 5:2",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "イスラエルにおいて髪が乱れ、民が自ら進んで献げられたとき、ヤハウェをほめたたえよ、",
+  "tokens": [
+    {
+      "surface": "בפרע",
+      "gloss": "乱れるとき"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "髪の"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルにおいて"
+    },
+    {
+      "surface": "בהתנדב",
+      "gloss": "進んで献げるとき"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民が"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ほめたたえよ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェを"
+    }
+  ],
+  "timestamp": "2026-08-07T10:32:56.593573051Z",
+  "model": "glm-5.2"
+}

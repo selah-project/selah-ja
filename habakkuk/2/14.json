@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "まことに、地はヤハウェの栄光の知識で満たされるからである。水が海を覆うように。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに・だから"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "満たされる"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "〜の知識で"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの栄光"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "栄光の"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "水が"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "覆うように"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上を"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-08-07T12:28:22.135466347Z",
+  "model": "glm-5.2"
+}

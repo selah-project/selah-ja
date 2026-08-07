@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 146,
+  "translation": "彼の息が出て行き、彼は自分の地に帰る。その日のうちに、彼のたくらみは滅びる。",
+  "tokens": [
+    {
+      "surface": "תֵּצֵא",
+      "gloss": "出て行き"
+    },
+    {
+      "surface": "רוּחוֹ",
+      "gloss": "彼の息"
+    },
+    {
+      "surface": "יָשֻׁב",
+      "gloss": "帰る"
+    },
+    {
+      "surface": "לְאַדְמָתוֹ",
+      "gloss": "自分の地に"
+    },
+    {
+      "surface": "בַּיּוֹם",
+      "gloss": "日のうちに"
+    },
+    {
+      "surface": "הַהוּא",
+      "gloss": "その"
+    },
+    {
+      "surface": "אָבְדוּ",
+      "gloss": "滅びる"
+    },
+    {
+      "surface": "עֶשְׁתֹּנֹתָיו",
+      "gloss": "彼のたくらみ"
+    }
+  ],
+  "timestamp": "2026-08-07T17:24:02.745552672Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 86,
+  "translation": "あなたは大いなる方、また奇跡を行う方、あなたはただおひとりのエロヒムだからです。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大いなる方"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "また行う方"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "奇跡を"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ただおひとり"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:08.629802703Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "巡回商人たちと、行商人たちの交易と、すべての混合民の王たちと、その地の総督たち⟨から⟩ ⟨を除いて⟩。",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "⟨を除いて⟩"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "〜たち⟨から⟩"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "巡回商人"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "および交易"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "行商人たちの"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "およびすべての"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "混合民の"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "および総督たち"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:05.849511267Z",
+  "model": "glm-5.2"
+}

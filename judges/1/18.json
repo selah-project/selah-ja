@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてユダは⟨את⟩アザとその領域、そして⟨את⟩アシュケロンとその領域、そして⟨את⟩エクロンとその領域を捕えた。",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "そして捕えた"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アザ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "アザ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その領域"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "その領域"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アシュケロン"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "アシュケロン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その領域"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "その領域"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "エクロン"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "エクロン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その領域"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "その領域"
+    }
+  ],
+  "timestamp": "2026-08-07T10:31:36.309203429Z",
+  "model": "glm-5.2"
+}

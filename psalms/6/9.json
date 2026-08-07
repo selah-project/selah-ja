@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "私から去れ、すべての不正を行う者たちよ。ヤハウェは私の泣く声を聞かれたからだ。",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "去れ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私から"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "行う者たち"
+    },
+    {
+      "surface": "און",
+      "gloss": "不正"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞かれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "私の泣き"
+    }
+  ],
+  "timestamp": "2026-08-07T12:33:51.191486138Z",
+  "model": "glm-5.2"
+}

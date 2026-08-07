@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして⟨את⟩二番目の雄羊を取りなさい。アハロンとその子らはその手を⟨את⟩あの雄羊の頭の上に置かなければならない。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "そして取りなさい"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あの雄羊"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "あの雄羊"
+    },
+    {
+      "surface": "השני",
+      "gloss": "二番目の"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "そして置かなければならない"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "とその子ら"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その手"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "その手"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "あの雄羊"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:05.276607879Z",
+  "model": "glm-5.2"
+}

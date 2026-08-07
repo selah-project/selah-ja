@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 109,
+  "translation": "彼の上に悪者を任命〈せよ〉。そしてサタンが彼の右に立つ〈ように〉。",
+  "tokens": [
+    {
+      "surface": "הַפְקֵ֣ד",
+      "gloss": "任命〈せよ〉"
+    },
+    {
+      "surface": "עָלָ֣יו",
+      "gloss": "彼の上に"
+    },
+    {
+      "surface": "רָשָׁ֑ע",
+      "gloss": "悪者を"
+    },
+    {
+      "surface": "וְ֝שָׂטָ֗ן",
+      "gloss": "そしてサタンが"
+    },
+    {
+      "surface": "יַעֲמֹ֥ד",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜のそばに"
+    },
+    {
+      "surface": "יְמִינֽוֹ",
+      "gloss": "彼の右"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:58.853001738Z",
+  "model": "glm-5.2"
+}

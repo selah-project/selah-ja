@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 11:26",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "すべての家畜で、ひづめが分かれているが完全に裂けていないもの、また反芻しないものについては――それらはあなたがたにとって汚れたものである。それらに触れる者はみな汚れる。",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "家畜で"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "分かれている"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ひづめが"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "そして裂けている"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שסעת",
+      "gloss": "裂けている"
+    },
+    {
+      "surface": "וגרה",
+      "gloss": "そして反芻を"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "上げている"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "汚れたもの"
+    },
+    {
+      "surface": "הם",
+      "gloss": "それらは"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたにとって"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "触れる者"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "それらに"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "汚れる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:27.157281728Z",
+  "model": "glm-5.2"
+}

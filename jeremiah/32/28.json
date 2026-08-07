@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 32:28",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "それゆえ、ヤハウェはこう言う、見よ、私は ⟨את⟩ この町をカルデア人の手に、またバビロンの王ネブカドレツァルの手に与え、彼はそれを攻略する。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言う"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "見よ、私は"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この町"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手に"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "カルデア人の"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "また〜の手に"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "ネブカドレツァル"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロンの"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "そして彼はそれを攻略する"
+    }
+  ],
+  "timestamp": "2026-08-07T11:52:14.306960031Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "その日に、人間は自分の銀の偶像と自分の金の偶像 — ⟨את⟩ 自分のために造られ、拝むためにあったもの — を、穴を掘るものとコウモリに投げ捨てる。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "投げ捨てる"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人間は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "銀の偶像"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "偶像"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "自分の銀の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "金の偶像"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "偶像"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "自分の金の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの（関係詞）"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "造られた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "自分のために"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "拝むために"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "〜に（与格）"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "穴を掘るもの"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "そしてコウモリに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:20:30.255306855Z",
+  "model": "glm-5.2"
+}

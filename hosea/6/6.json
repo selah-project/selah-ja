@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "わたしはヘセドを望み、いけにえを望まなかった。エロヒムの知識を、全焼のいけにえよりも⟨望んだ⟩。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ヘセド"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "わたしは望んだ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ではなく"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "いけにえ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "そして〜の知識"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "全焼のいけにえよりも"
+    }
+  ],
+  "timestamp": "2026-08-07T12:17:35.850406965Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "金、銀、青銅、鉄——数がない。立ち上がり、行え。そしてヤハウェがあなたとともにいられるように。",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "金については"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "銀については"
+    },
+    {
+      "surface": "ולנחשת",
+      "gloss": "青銅については"
+    },
+    {
+      "surface": "ולברזל",
+      "gloss": "鉄については"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "数"
+    },
+    {
+      "surface": "קום",
+      "gloss": "立ち上がれ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "行え"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして～であるように"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたとともに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:08:19.197277626Z",
+  "model": "glm-5.2"
+}

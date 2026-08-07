@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 24:15",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "ヤハウェはイスラエルに疫病を与えられた。朝から定められた時まで。そして民のうち、ダンからベエル・シェバまで七万の人が死んだ。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "与えられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "疫病を"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルに"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "朝から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "定められた"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "死んだ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜のうち"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ダンから"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ベエル"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "・シェバ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "七万"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "⟨千⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人が"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:36.224703245Z",
+  "model": "glm-5.2"
+}

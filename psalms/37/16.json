@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "少ない方が良い、正しい者にとって、多くの悪者の富よりも。",
+  "tokens": [
+    {
+      "surface": "טוֹב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "מְ֭עַט",
+      "gloss": "少ない方が"
+    },
+    {
+      "surface": "לַצַּדִּ֑יק",
+      "gloss": "正しい者にとって"
+    },
+    {
+      "surface": "מֵ֝הֲמ֗וֹן",
+      "gloss": "〜の富よりも"
+    },
+    {
+      "surface": "רְשָׁעִ֥ים",
+      "gloss": "悪者たちの"
+    },
+    {
+      "surface": "רַבִּֽים",
+      "gloss": "多くの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:17.749767620Z",
+  "model": "glm-5.2"
+}

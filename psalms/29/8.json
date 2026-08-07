@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ヤハウェの声は荒野を震わせ、ヤハウェは荒野、カデシュを震わせる。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "震わせる"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "荒野を"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "震わせる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "荒野"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "カデシュを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:38:29.446346924Z",
+  "model": "glm-5.2"
+}

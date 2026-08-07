@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "急いで、かがむ者は解放される。そして彼は穴で死ぬことはなく、彼のパンも欠けることはない。",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "急いで"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "かがむ者は"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "解放される"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死ぬことは"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "穴で"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "欠けることは"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "彼のパンも"
+    }
+  ],
+  "timestamp": "2026-08-07T14:31:16.786481552Z",
+  "model": "glm-5.2"
+}

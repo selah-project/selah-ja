@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 55,
+  "translation": "エルは聞かれる、そして彼らに答えられる — いにしえより座するお方。セラ。彼らには交替がない ⟨から⟩、ゆえに彼らはエロヒムを恐れない。",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "聞かれる"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エルは"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "そして彼らに答えられる"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして座する"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "いにしえより"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "交替が"
+    },
+    {
+      "surface": "למו",
+      "gloss": "彼らには"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ゆえに〜ない"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "恐れない"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:27.422886005Z",
+  "model": "glm-5.2"
+}

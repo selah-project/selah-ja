@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 71,
+  "translation": "あなたに、ヤハウェ、私は身を避けた — 永遠に私が恥じられることがないように。",
+  "tokens": [
+    {
+      "surface": "בְּךָֽ",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "חָסִ֑יתִי",
+      "gloss": "私は身を避けた"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "אֵב֥וֹשָׁה",
+      "gloss": "私が恥じられる"
+    },
+    {
+      "surface": "לְעוֹלָֽם",
+      "gloss": "永遠に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:49.086265286Z",
+  "model": "glm-5.2"
+}

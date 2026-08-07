@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 109,
+  "translation": "貸し主が彼のすべてのものに罠を仕掛けよ。そしてよそ者たちが彼の労働の実を略奪せよ。",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "罠を仕掛けよ"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "貸し主が"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼の"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "そして略奪せよ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "よそ者たちが"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "彼の労働の実を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:10.884044763Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ヤハウェがモシェ⟨את⟩に命じたとおりに。そして彼はシナイの荒野で彼らを数えた。",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "〜のとおりに"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モシェ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "そして彼は彼らを数えた"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野で"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "シナイの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:39.385475576Z",
+  "model": "glm-5.2"
+}

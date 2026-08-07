@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "淵は淵へと呼び寄せる、おまえの滝の声に。おまえのすべての砕ける波、おまれの大波が、わたしの上を過ぎ越した。",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "淵は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へと"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "淵"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "呼び寄せる"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "声に"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "おまえの滝の"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "おまえの砕ける波"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "おまれの大波が"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "わたしの上を"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "過ぎ越した"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:22.371719846Z",
+  "model": "glm-5.2"
+}

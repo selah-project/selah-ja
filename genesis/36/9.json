@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そしてこれらはエサウ、すなわちエドムの父の系歴である — セイルの山に⟨おいて⟩。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "系歴"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "〜の父"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドム"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "〜の山に"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "セイル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:50.026842459Z",
+  "model": "glm-5.2"
+}

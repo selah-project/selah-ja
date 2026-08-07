@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "こうしてヤコブの腰から出た者のすべては、七十人の命であった。ヨセフはすでにミツライムにいた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "こうして…あった"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "命"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "出た者の"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "腰"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤコブ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "命"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "そしてヨセフ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "いた"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ミツライムに"
+    }
+  ],
+  "timestamp": "2026-08-07T16:26:51.250815286Z",
+  "model": "glm-5.2"
+}

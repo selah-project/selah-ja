@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "あなたはほむべきかな、ヤハウェ。あなたのフッキームを私に教えてください。",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ほむべきかな"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "私に教えてください"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "あなたのフッキーム"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:36.983157219Z",
+  "model": "glm-5.2"
+}

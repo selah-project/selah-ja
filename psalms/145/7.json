@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 145,
+  "translation": "御身の豊かな善の記憶を人々は豊かに語り出し、御身の義を喜び歌う。",
+  "tokens": [
+    {
+      "surface": "זֵ֣כֶר",
+      "gloss": "記憶"
+    },
+    {
+      "surface": "רַב",
+      "gloss": "豊かな"
+    },
+    {
+      "surface": "טוּבְךָ֣",
+      "gloss": "御身の善"
+    },
+    {
+      "surface": "יַבִּ֑יעוּ",
+      "gloss": "人々は語り出す"
+    },
+    {
+      "surface": "וְצִדְקָתְךָ֥",
+      "gloss": "そして御身の義"
+    },
+    {
+      "surface": "יְרַנֵּֽנוּ",
+      "gloss": "人々は喜び歌う"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:12.195576601Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "すべて人の道は自分の目に潔い。しかしヤハウェは霊を量られる。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "道"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人の"
+    },
+    {
+      "surface": "זך",
+      "gloss": "潔い"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "自分の目に"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "しかし…量られる"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "霊を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:04.560948942Z",
+  "model": "glm-5.2"
+}

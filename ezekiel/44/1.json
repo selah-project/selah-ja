@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "そして⟨彼⟩私を連れ戻した、⟨את⟩道の、外なる聖所の門の、東に面するものの。そしてそれは閉ざされていた。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして連れ戻した"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "道"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "外なる"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "面する"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そしてそれは"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "閉ざされていた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:15:53.012091723Z",
+  "model": "glm-5.2"
+}

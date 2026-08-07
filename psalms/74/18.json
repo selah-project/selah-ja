@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 74,
+  "translation": "これを思い出してください、敵がヤハウェをそしったことを。愚かな民があなたの御名を侮ったことを。",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "思い出してください"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これを"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "敵が"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "そしった"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェを"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "そして民が"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "愚かな"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "侮った"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの御名を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:03.035761973Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "「ヤハウェが彼らに誓った地に⟨את⟩この民を導き入れることができなかったゆえに、彼は彼らを荒野で屠ったのだ」と。",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "…できなかったゆえに"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "…ことが"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "導き入れる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…という"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "誓った"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "そして…屠った"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:56:19.244584972Z",
+  "model": "glm-5.2"
+}

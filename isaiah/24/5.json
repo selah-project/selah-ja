@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "地はその住民の下で汚された。彼らがトーラーを越えたから、定めを過ぎ越したから、永遠の契約を破棄したからである。",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "汚された"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下で"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "その住民"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "越えた"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "トーラーを"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "過ぎ越した"
+    },
+    {
+      "surface": "חק",
+      "gloss": "定めを"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "破棄した"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約を"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:11.947057356Z",
+  "model": "glm-5.2"
+}

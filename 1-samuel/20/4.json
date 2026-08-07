@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "エホナタンはダビデに言った。「あなたの命が何を言おうと、私はあなたのためにそれを行ないましょう。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "エホナタンは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "言おうと"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "あなたの命が"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "私は行ないましょう"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:47.911058136Z",
+  "model": "glm-5.2"
+}

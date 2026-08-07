@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして⟨彼の⟩息子たちを近づけ、⟨את⟩彼らに下着を着せよ。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼の息子たち"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "彼の息子たち"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "近づけよ"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "着せよ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩彼らに",
+      "marks": "下着"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "下着"
+    }
+  ],
+  "timestamp": "2026-08-07T14:46:59.713783692Z",
+  "model": "glm-5.2"
+}

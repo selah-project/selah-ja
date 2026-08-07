@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "「まことにわたしはヤハウェ、わたしは変わらない。それゆえ、あなたがた、ヤアコブの子らは、滅ぼし尽くされなかった。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに／ゆえに"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "わたしは変わった"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "あなたがた"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "滅ぼし尽くされた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:36.856616401Z",
+  "model": "glm-5.2"
+}

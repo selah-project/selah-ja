@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "歌、音楽詩、コラフの子らに⟨属する⟩",
+  "tokens": [
+    {
+      "surface": "שִׁ֥יר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "מִ֝זְמוֹר",
+      "gloss": "音楽詩"
+    },
+    {
+      "surface": "לִבְנֵי",
+      "gloss": "〜の子らに"
+    },
+    {
+      "surface": "קֹֽרַח",
+      "gloss": "コラフ"
+    }
+  ],
+  "timestamp": "2026-08-07T18:39:59.316125585Z",
+  "model": "glm-5.2"
+}

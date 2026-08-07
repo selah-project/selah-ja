@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "もしあなたが高ぶって愚かになったのなら、そしてもしあなたが悪を謀ったのなら——手を口に⟨置け⟩。",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "נָבַ֥לְתָּ",
+      "gloss": "愚かになった"
+    },
+    {
+      "surface": "בְהִתְנַשֵּׂ֑א",
+      "gloss": "高ぶって"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "זַ֝מּ֗וֹתָ",
+      "gloss": "謀った"
+    },
+    {
+      "surface": "יָ֣ד",
+      "gloss": "手を"
+    },
+    {
+      "surface": "לְפֶֽה",
+      "gloss": "口に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:29.646748282Z",
+  "model": "glm-5.2"
+}

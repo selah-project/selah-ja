@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "彼を見つめた目は⟨二度と⟩加えず、もはや彼を見張ることはない — 彼の場所⟨が⟩。",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "目"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "彼を見つめた"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "加える"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "彼を見張る"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "彼の場所"
+    }
+  ],
+  "timestamp": "2026-08-07T13:25:42.683408934Z",
+  "model": "glm-5.2"
+}

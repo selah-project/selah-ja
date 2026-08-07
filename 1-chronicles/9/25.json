@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "彼らの兄弟たち⟨は⟩、彼らの居住地⟨に⟩、七日⟨ごと⟩に来る⟨ため⟩⟨に⟩、時から時まで、これら⟨の者⟩と共に⟨いた⟩。",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "彼らの兄弟たち"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "彼らの居住地"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "七日"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日々"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "時から"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:19.877326624Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "悪から離れ、善を行え。平和を求め、それを追え。",
+  "tokens": [
+    {
+      "surface": "ס֣וּר",
+      "gloss": "離れよ"
+    },
+    {
+      "surface": "מֵ֭רָע",
+      "gloss": "悪から"
+    },
+    {
+      "surface": "וַעֲשֵׂה",
+      "gloss": "そして行え"
+    },
+    {
+      "surface": "ט֑וֹב",
+      "gloss": "善を"
+    },
+    {
+      "surface": "בַּקֵּ֖שׁ",
+      "gloss": "求めよ"
+    },
+    {
+      "surface": "שָׁל֣וֹם",
+      "gloss": "シャロムを"
+    },
+    {
+      "surface": "וְרָדְפֵֽהוּ",
+      "gloss": "そしてそれを追え"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:58.687502835Z",
+  "model": "glm-5.2"
+}

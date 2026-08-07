@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして彼は言った、「それは、あなたが私の手から ⟨את⟩ 七羽の雌羊を受け取るためである。それが私にとってあかしとなるために、私が ⟨את⟩ この井戸を掘ったからである。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "כי",
+      "gloss": "それは〜だから"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "七羽の雌羊"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "雌羊"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "あなたは受け取る"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "私の手から"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "それはなる"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私にとって"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "あかしとして"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "私が掘った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この井戸"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "井戸"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:13.034726950Z",
+  "model": "glm-5.2"
+}

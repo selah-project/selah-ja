@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "草は乾き、花はしぼむ — ヤハウェの息がその上に吹くからだ。まことに、この民は草だ。",
+  "tokens": [
+    {
+      "surface": "יָבֵ֤שׁ",
+      "gloss": "乾く"
+    },
+    {
+      "surface": "חָצִיר֙",
+      "gloss": "草"
+    },
+    {
+      "surface": "נָ֣בֵֽל",
+      "gloss": "しぼむ"
+    },
+    {
+      "surface": "צִ֔יץ",
+      "gloss": "花"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "ר֥וּחַ",
+      "gloss": "…の息\/風"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "נָ֣שְׁבָה",
+      "gloss": "吹く"
+    },
+    {
+      "surface": "בּ֑וֹ",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "אָכֵ֥ן",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "חָצִ֖יר",
+      "gloss": "草"
+    },
+    {
+      "surface": "הָעָֽם",
+      "gloss": "この民"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:39.710294347Z",
+  "model": "glm-5.2"
+}

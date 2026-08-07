@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてアハロンは⟨את⟩そのやぎを、その上にヤハウェのくじが上ったものを、近づけ、それを贖罪の捧げ物とする。",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "そして近づける"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "そのやぎ"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "そのやぎ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜もの"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上った"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "くじ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェのために"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "そしてそれを〜とする"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "贖罪の捧げ物"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:46.066912844Z",
+  "model": "glm-5.2"
+}

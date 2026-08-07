@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 45:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "そしてその声がパロの家で聞かれた。「ヨセフの兄弟たちが来た」と。それはパロの目にも、パロのしもべたちの目にも良かった。",
+  "tokens": [
+    {
+      "surface": "והקל",
+      "gloss": "そしてその声が"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "聞かれた"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家で"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "「…と言って」"
+    },
+    {
+      "surface": "באו",
+      "gloss": "来た"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "兄弟たちが"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフの"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "そして良かった"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "目に"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "そして目にも"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "彼のしもべたちの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:10:44.436841269Z",
+  "model": "glm-5.2"
+}

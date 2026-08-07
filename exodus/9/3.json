@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "見よ、ヤハウェの御手が、野にいるあなたの家畜の〈上に〉臨もうとしている——馬、ろば、らくだ、牛、そして羊の〈上に〉——非常に重い疫病が。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "…の手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "…臨もうとしている"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "あなたの家畜…に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "野に"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "馬に"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "ろばに"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "らくだに"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "牛に"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "そして羊に"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "疫病"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "重い"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:24.243654215Z",
+  "model": "glm-5.2"
+}

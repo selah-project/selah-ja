@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "罪人を災いは追い払い、⟨את⟩正しい者たちには善が報いられる。",
+  "tokens": [
+    {
+      "surface": "חַ֭טָּאִים",
+      "gloss": "罪人たち"
+    },
+    {
+      "surface": "תְּרַדֵּ֣ף",
+      "gloss": "追い払う"
+    },
+    {
+      "surface": "רָעָ֑ה",
+      "gloss": "災い"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "正しい者たち"
+    },
+    {
+      "surface": "צַ֝דִּיקִ֗ים",
+      "gloss": "正しい者たち"
+    },
+    {
+      "surface": "יְשַׁלֶּם",
+      "gloss": "報いる"
+    },
+    {
+      "surface": "טֽוֹב",
+      "gloss": "善"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:09.523866065Z",
+  "model": "glm-5.2"
+}

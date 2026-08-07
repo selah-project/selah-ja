@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そしてヤアコブは自分の道を歩いた。エロヒムの使いたちが彼に出会った。",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "そしてヤアコブは"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "歩いた"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "自分の道を"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "そして…出会った"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "…の使いたち"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:36.998058281Z",
+  "model": "glm-5.2"
+}

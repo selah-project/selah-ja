@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてイェホナタンの子はメリブ・バアル。メリブ・バアルは⟨את⟩ミカを生んだ。",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "そして子"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "イェホナタンの"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "メリブ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "バアル"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "そしてメリブ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "バアルは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ミカ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ミカ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:01.394986498Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "私のヘセドのエロヒムは私に先立って来られる。エロヒムは私の敵どもの中に私を見させてくださる。",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "〜のエロヒム"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "私のヘセド"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "私に先立って来られる"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "私に見させてくださる"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "私の敵どもの中に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:47:58.218691514Z",
+  "model": "glm-5.2"
+}

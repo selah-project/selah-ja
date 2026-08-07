@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 17:2",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そして彼はヤハウェの目に悪を行った。ただし、彼より先にいたイスラエルの王たちのようでは⟨なかった⟩。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…の目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "כמלכי",
+      "gloss": "…の王たちのように"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であった"
+    },
+    {
+      "surface": "היו",
+      "gloss": "いた"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "彼より先に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:19.815228942Z",
+  "model": "glm-5.2"
+}

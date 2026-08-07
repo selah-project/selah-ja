@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そして彼は使いたちをアハブ、イスラエルの王のもと、その市⟨の内⟩に遣わした。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして彼は遣わした"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使いたちを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のもとに"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "アハブ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "市へ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:41.955281512Z",
+  "model": "glm-5.2"
+}

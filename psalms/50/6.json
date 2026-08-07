@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "天々は⟨彼の⟩義を告げる。エロヒムこそ裁き主であるから。セラ。",
+  "tokens": [
+    {
+      "surface": "וַיַּגִּ֣ידוּ",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "שָׁמַ֣יִם",
+      "gloss": "天々は"
+    },
+    {
+      "surface": "צִדְק֑וֹ",
+      "gloss": "⟨彼の⟩義を"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אֱלֹהִ֓ים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "שֹׁפֵ֖ט",
+      "gloss": "裁き主"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "⟨彼自身⟩である"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:53.286122252Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "エルリの息子たちはベリヤアルの子らであった。彼らは⟨את⟩ ヤハウェを知らなかった。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "息子たちは"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "エルリの"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らであった"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ベリヤアルの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知ら"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェを"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:02.440604959Z",
+  "model": "glm-5.2"
+}

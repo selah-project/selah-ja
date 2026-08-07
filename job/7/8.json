@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "私を見る者の目は私をもう見ることはない。あなたの目は私の上にあり、しかし私はもはやいない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "私を見ることは"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目は"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "私を見る者の"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "あなたの目は"
+    },
+    {
+      "surface": "בי",
+      "gloss": "私の上にあり"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "そして私はもはやいない"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:23.197517430Z",
+  "model": "glm-5.2"
+}

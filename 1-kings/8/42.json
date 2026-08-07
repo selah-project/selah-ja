@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "—彼らがあなたの大いなる御名と、あなたの強い御手と、伸ばされた御腕を聞くからであり、彼が来てこの家に向かって祈る〈とき〉—",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "彼らは聞く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの御名"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの御名"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの御手"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの御手"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "強い"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "そしてあなたの御腕"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "伸ばされた"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "そして来る"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "そして祈る"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:56.211848931Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 88,
+  "translation": "あなたの奇しいわざは闇の中で知られるであろうか。あなたの義は忘却の地で⟨知られるであろうか⟩。",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "知られるであろうか"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "闇の中で"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "あなたの奇しいわざ"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "あなたの義"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地で"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "忘却の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:54:49.864397928Z",
+  "model": "glm-5.2"
+}

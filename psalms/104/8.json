@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "山々は上り、谷々は下った ― あなたが彼らのために定めた場所へ。",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "上り"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山々は"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "下った"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "谷々は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "場所"
+    },
+    {
+      "surface": "זה",
+      "gloss": "この"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "あなたが定めた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らのために"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:55.299433499Z",
+  "model": "glm-5.2"
+}

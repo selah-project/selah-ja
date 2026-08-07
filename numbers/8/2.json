@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "「アハロンに語り、彼に言いなさい——あなたが⟨את⟩ともしびを上げるとき、メノラーの表面に向かって、七つのともしびは光を放つであろう」と。",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "語りなさい"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "そして言いなさい"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "あなたが…上げるとき"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ともしび"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "ともしび"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ向かって"
+    },
+    {
+      "surface": "מול",
+      "gloss": "の正面"
+    },
+    {
+      "surface": "פני",
+      "gloss": "の表面"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "メノラーの"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "光を放つ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七つの"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "ともしびは"
+    }
+  ],
+  "timestamp": "2026-08-07T09:53:51.668657550Z",
+  "model": "glm-5.2"
+}

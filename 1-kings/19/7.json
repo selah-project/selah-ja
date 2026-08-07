@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "ヤハウェの御使いが二度目に戻り、⟨彼に⟩触れ、言った。「起きて食べよ。旅路はあなたにとって大きすぎるから。」",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "戻った"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "御使い"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "二度目に"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "そして触れた"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "קום",
+      "gloss": "起きよ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食べよ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大きすぎる"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "あなたにとって"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "その旅路は"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:15.945568906Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 77,
+  "translation": "私はエロヒムを思い出し、呻く。私は思い巡らし、そして私のルーアハは⟨力なく⟩衰える。セラ",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "私は思い出す"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムを"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "そして呻く"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "私は思い巡らす"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "そして衰える"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "私のルーアハは"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:15.112322325Z",
+  "model": "glm-5.2"
+}

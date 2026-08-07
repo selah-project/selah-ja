@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "ヒズキヤフは顔を壁のほうに向け、ヤハウェに祈った。",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "そして⋯向けた"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ヒズキヤフ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "彼の顔を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⋯のほうに"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "その壁"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "そして⋯祈った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⋯に向かって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:29:25.284363631Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてアキシュは自分のしもべたちに言った。「見よ、あなたがたは見る、狂っている男を。なぜあなたがたは⟨את⟩彼を私のところに連れて来たのか。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "アキシュ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "自分のしもべたち"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "あなたがたは見る"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "狂っている"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "あなたがたは連れて来た"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のところに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:51.415110355Z",
+  "model": "glm-5.2"
+}

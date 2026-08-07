@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして⟨そこに⟩一人の貧しい者が見出された、知恵ある者が。そして彼はその知恵によって⟨את⟩その町を救い出した。しかし人は覚えなかった—⟨את⟩その貧しい者、その人を。",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "そして見出された"
+    },
+    {
+      "surface": "בה",
+      "gloss": "その中に"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一人の者"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "貧しい"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "知恵ある"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "そして救い出した"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その町"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町を"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "その知恵によって"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "しかし人は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "覚えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その貧しい者"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その者を"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "貧しい"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:32.232961027Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 26:50",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "これらはナフタリの氏族であり、その氏族に属する。彼らの登録数は五万四千四百人である。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これら"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "氏族"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ナフタリの"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "その氏族に属する"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "彼らの登録数"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    }
+  ],
+  "timestamp": "2026-08-07T10:01:38.473892454Z",
+  "model": "glm-5.2"
+}

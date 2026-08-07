@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "そして彼らは⟨את⟩彼らの穀物を自分たちのろばの上に積み込み、そこから出発した。",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "そして積み込んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの穀物"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "彼らの穀物"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "自分たちのろば"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "そして出発した"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:43.372974840Z",
+  "model": "glm-5.2"
+}

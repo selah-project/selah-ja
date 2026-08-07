@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "彼らの心は脂肪のように肥え鈍った — 私はあなたのトーラーを味わい楽しむ。",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "肥え鈍った"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "脂肪のように"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "彼らの心は"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "あなたのトーラーを"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "味わい楽しむ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:02.925205774Z",
+  "model": "glm-5.2"
+}

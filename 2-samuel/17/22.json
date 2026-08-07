@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 17:22",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "ダビドは立ち上がり、彼と共にいた民はすべて ⟨⟨立ち上がった⟩⟩、そして彼らは ⟨את⟩ ヨルダンを渡った。夜明けの光に至るまで、 ⟨את⟩ ヨルダンを渡らなかった者は一人も欠けることがなかった。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして…は立ち上がった"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビド"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "…すべて"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "彼らは渡った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨルダン"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルダン"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…に至るまで"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "欠けることがなかった"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…であるところの"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "渡らなかった"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨルダン"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ヨルダン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:54:39.237495125Z",
+  "model": "glm-5.2"
+}

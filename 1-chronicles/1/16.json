@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして⟨את⟩アルワド人、そして⟨את⟩ツェマリ人、そして⟨את⟩ハマテ人を。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アルワド人"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "アルワド人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ツェマリ人"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ツェマリ人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ハマテ人"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ハマテ人"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:15.557344355Z",
+  "model": "glm-5.2"
+}

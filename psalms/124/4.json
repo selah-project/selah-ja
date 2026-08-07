@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 124,
+  "translation": "そのとき水が私たちを押し流したであろう、奔流が私たちの命の上を越えて行ったであろう、",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "そのとき"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水が"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "私たちを押し流したであろう"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "奔流が"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "越えて行ったであろう"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上を"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "私たちの命"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:59.576881376Z",
+  "model": "glm-5.2"
+}

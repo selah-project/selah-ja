@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 25:34",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして彼らの町々の共有地の野外は売られてはならない。それは彼らへの永遠の所有だからである。",
+  "tokens": [
+    {
+      "surface": "ושדה",
+      "gloss": "そして野"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "共有地"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "彼らの町々"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "売られる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "所有"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠の"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らへの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:43:30.977359101Z",
+  "model": "glm-5.2"
+}

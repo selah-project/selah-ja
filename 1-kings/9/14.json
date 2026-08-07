@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてヒラムは王に金百二十タラントを送った。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして彼は送った"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ヒラム"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王に"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "と二十"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "タラント"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:04.606548467Z",
+  "model": "glm-5.2"
+}

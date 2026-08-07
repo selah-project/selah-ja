@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "ヤハウェは⟨ご自身を⟩知らせられた、裁きをなされた、悪者はその手の業に絡め捕られた。ヒッガヨン。セラ。",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "知らせられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "裁きを"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "なされた"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "業に"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "その手の"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "絡め捕られた"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者は"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ヒッガヨン"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:22.386486037Z",
+  "model": "glm-5.2"
+}

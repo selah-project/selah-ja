@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてヤハウェ・エロヒムは言われた。「人が独りでいるのは良くない。わたしは彼のために、彼に相応しい助け手を造ろう。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "・エロヒムは"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良く"
+    },
+    {
+      "surface": "היות",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人が"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "独りでいるの"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "わたしは造ろう"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "助け手"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "彼に相応しい"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:18.559780695Z",
+  "model": "glm-5.2"
+}

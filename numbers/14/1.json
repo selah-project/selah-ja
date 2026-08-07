@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして全会衆は⟨彼らの⟩声を上げ、民はその夜、泣いた。",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "そして上げた"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "会衆"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "そして彼らは与えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの声"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "彼らの声"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "そして泣いた"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "夜に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    }
+  ],
+  "timestamp": "2026-08-07T09:56:02.088407427Z",
+  "model": "glm-5.2"
+}

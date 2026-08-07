@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 7:25",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "十二頭の牛の上に立っていた — 三頭は北を向き、三頭は西を向き、三頭は南を向き、三頭は東を向いていた — そして海はそれらの上に、上方にあった。また彼らの後ろの部分はすべて内側に⟨向けられていた⟩。",
+  "tokens": [
+    {
+      "surface": "עמד",
+      "gloss": "立っていた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三頭"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "向いていた"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "北に"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "と三頭"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "向いていた"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "西に"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "と三頭"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "向いていた"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "南に"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "と三頭"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "向いていた"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "東に"
+    },
+    {
+      "surface": "והים",
+      "gloss": "そして海は"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "それらの上に"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "上方に"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "彼らの後ろの部分"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "内側に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:34.910575240Z",
+  "model": "glm-5.2"
+}

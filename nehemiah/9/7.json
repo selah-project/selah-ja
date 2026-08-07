@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 9:7",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "あなたこそ、ヤハウェ、エロヒム。あなたはアブラムを選び、彼をカルデアのウルから連れ出し、その名をアブラハムとされた。」",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "こそ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…方"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "選ばれた"
+    },
+    {
+      "surface": "באברם",
+      "gloss": "アブラムを"
+    },
+    {
+      "surface": "והוצאתו",
+      "gloss": "そして彼を連れ出し"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ウルから"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "カルデアの"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "そして…とされた"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "その名を"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    }
+  ],
+  "timestamp": "2026-08-07T13:57:53.010087798Z",
+  "model": "glm-5.2"
+}

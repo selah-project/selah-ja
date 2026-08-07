@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "モーセとアロンは会見の天幕の前に来た。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "アロン"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の"
+    },
+    {
+      "surface": "פני",
+      "gloss": "前に"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:57:47.987459578Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "われらのエロヒムは来られ、沈黙してはならない —火が⟨彼の⟩前にあって食らい尽くし、⟨彼の⟩周囲で激しく荒れ狂う。",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "来られる"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "われらのエロヒムは"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜してはならない"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "沈黙"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火が"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "⟨彼の⟩前にあって"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食らい尽くし"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "そして⟨彼の⟩周囲で"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "荒れ狂う"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "激しく"
+    }
+  ],
+  "timestamp": "2026-08-07T12:47:36.263396873Z",
+  "model": "glm-5.2"
+}

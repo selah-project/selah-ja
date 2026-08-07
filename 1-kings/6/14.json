@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "シャロモは⟨את⟩その家を建て、これを完成した。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シャロモ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その家"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "完成した"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:13.987494140Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "裕かな者たちがミツライムから来るであろう。クシュはエロヒムに向かってその両手を走らせる。セル。",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "彼らは来るであろう"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "裕かな者たちが"
+    },
+    {
+      "surface": "מני",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "クシュは"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "走らせる"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "その両手を"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "エロヒムに向かって"
+    }
+  ],
+  "timestamp": "2026-08-07T12:51:15.618487369Z",
+  "model": "glm-5.2"
+}

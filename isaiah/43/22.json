@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "そして、あなたはわたしを呼ばなかった、ヤアコブよ。あなたはわたしに疲れた、イスラエルよ。",
+  "tokens": [
+    {
+      "surface": "וְלֹא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "אֹתִי",
+      "gloss": "⟨את⟩",
+      "marks": "わたしを"
+    },
+    {
+      "surface": "קָרָאתָ",
+      "gloss": "あなたは呼んだ"
+    },
+    {
+      "surface": "יַֽעֲקֹב",
+      "gloss": "ヤアコブよ"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "（あなたは）"
+    },
+    {
+      "surface": "יָגַעְתָּ",
+      "gloss": "疲れた"
+    },
+    {
+      "surface": "בִּי",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "イスラエルよ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:56.973077679Z",
+  "model": "glm-5.2"
+}

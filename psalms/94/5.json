@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "あなたの民を、ヤハウェよ、彼らは打ち砕き、あなたの受け継ぐものを苦しめる。",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "あなたの民を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "彼らは打ち砕き"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "そしてあなたの受け継ぐものを"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "苦しめる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:15.095604314Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "彼は⟨את⟩二十アンマを建てた — その家の後部に、杉の板で、床から壁まで。彼は内側にこれを建てた、デビルのために、至聖所のために。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "二十アンマ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "後部の"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家の"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "板で"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "杉の"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "床"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "壁"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "内側に"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "デビルのために"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "聖所の"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "至聖"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:13.987712889Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてエベルに二人の息子が生まれた。一人の名はペレグ、彼の日々に地が分けられたからであり、その兄弟の名はヨクタンであった。",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "そしてエベルに"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生まれた"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二人の"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一人の"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ペレグ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "彼の日々に"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "分けられた"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そして⋯の名"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "その兄弟"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "ヨクタン"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:49.371096126Z",
+  "model": "glm-5.2"
+}

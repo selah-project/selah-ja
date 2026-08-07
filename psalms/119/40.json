@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "見よ、あなたの戒めを私は慕う。あなたの義において私を生かせ。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "私は慕う"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "あなたの戒めを"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "あなたの義において"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "私を生かせ"
+    }
+  ],
+  "timestamp": "2026-08-07T17:22:21.768649727Z",
+  "model": "glm-5.2"
+}

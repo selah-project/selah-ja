@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "祝福は正しい者の頭の上に、悪者たちの口は暴力を覆う。",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "祝福は"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "頭の上に"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "正しい者の"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "そして口は"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たちの"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "覆う"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "暴力を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:12.387730630Z",
+  "model": "glm-5.2"
+}

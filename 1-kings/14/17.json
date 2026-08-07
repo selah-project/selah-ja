@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 14:17",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "ヤラブアムの妻は立ち、行って、ティルツァに着いた。彼女が家の敷居に入ったとき、若者は死んだ。",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "立ち"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ヤラブアムの"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "行って"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "着いた"
+    },
+    {
+      "surface": "תרצתה",
+      "gloss": "ティルツァに"
+    },
+    {
+      "surface": "היא",
+      "gloss": "彼女"
+    },
+    {
+      "surface": "באה",
+      "gloss": "入ったとき"
+    },
+    {
+      "surface": "בסף",
+      "gloss": "敷居に"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家の"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "若者は"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:06:28.984716818Z",
+  "model": "glm-5.2"
+}

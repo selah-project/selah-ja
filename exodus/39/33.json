@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "彼らは幕屋をモシェのところに携え来った — ⟨את⟩幕屋と、⟨את⟩天幕と、そのすべての器具、その留め金、その枠、その差し棒、その柱、そしてその台座を。",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "彼らは携え来った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "幕屋"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところに"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "天幕"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "すべての"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "その器具"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "その留め金"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "その枠"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "その差し棒"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "その柱"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "その台座"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:58.372490488Z",
+  "model": "glm-5.2"
+}

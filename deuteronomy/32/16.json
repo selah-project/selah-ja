@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "彼らは寄るべなき神々で彼を嫉嶚させ、忌むべきもので彼の怒りを燃やした。",
+  "tokens": [
+    {
+      "surface": "יַקְנִאֻהוּ",
+      "gloss": "彼らは彼を嫉妬させた"
+    },
+    {
+      "surface": "בְּזָרִים",
+      "gloss": "寄るべなき者たちで"
+    },
+    {
+      "surface": "בְּתוֹעֵבֹת",
+      "gloss": "忌むべきもので"
+    },
+    {
+      "surface": "יַכְעִיסֻהוּ",
+      "gloss": "彼らは彼の怒りを燃やした"
+    }
+  ],
+  "timestamp": "2026-08-07T10:21:34.696316658Z",
+  "model": "glm-5.2"
+}

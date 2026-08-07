@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 32:16",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "なおも彼のしもべたちは、ヤハウェなるエロヒム、およびそのしもへゼキヤについて語り続けた。",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "なおも"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "語り続けた"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "彼のしもべたちは"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "なるエロヒム"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "および〜について"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ヒゼキヤ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "そのしもべ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:19:03.756813411Z",
+  "model": "glm-5.2"
+}

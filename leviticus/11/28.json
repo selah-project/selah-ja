@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "また、それらの死骸を運ぶ者は⟨את⟩自分の衣服を洗い、夕方まで汚れる。それらはあなたがたにとって汚れたものである。",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "また運ぶ者"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "それらの死骸を"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "それらの死骸"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "洗う"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "自分の衣服を"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "そして汚れる"
+    },
+    {
+      "surface": "עד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "夕方"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "汚れたもの"
+    },
+    {
+      "surface": "המה",
+      "gloss": "それらは"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたにとって"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:27.157483283Z",
+  "model": "glm-5.2"
+}

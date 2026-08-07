@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 14:2",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "彼らの嗣業の割り当てによる。ヤハウェがモーセの手によって命じたとおり、九つの部族と半個の部族のため⟨に⟩。",
+  "tokens": [
+    {
+      "surface": "בגורל",
+      "gloss": "割り当てによる"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "彼らの嗣業の"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜したとおり"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "〜の手によって"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "九つの"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "部族"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "および半個の"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "部族"
+    }
+  ],
+  "timestamp": "2026-08-07T10:27:49.599810233Z",
+  "model": "glm-5.2"
+}

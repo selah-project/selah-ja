@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "讃めよ、イェルシャライムよ、⟨את⟩ ヤハウェを。ほめたたえよ、お前のエロヒムを、ツィヨンよ",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "讃めよ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ほめたたえよ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "お前のエロヒムを"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨンよ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:37.475666468Z",
+  "model": "glm-5.2"
+}

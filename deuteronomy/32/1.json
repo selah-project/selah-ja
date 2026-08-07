@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "耳を傾けよ、天々よ、そしてわたしは語ろう、地は聞け、わたしの口の言葉を。",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "耳を傾けよ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天々よ"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "そしてわたしは語ろう"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "言葉を"
+    },
+    {
+      "surface": "פי",
+      "gloss": "わたしの口の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:22:04.130634231Z",
+  "model": "glm-5.2"
+}

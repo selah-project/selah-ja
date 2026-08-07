@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 6:24",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "あなたを守るためだ ― ⟨悪い⟩女から、滑らかな異国の舌から。",
+  "tokens": [
+    {
+      "surface": "לִ֭שְׁמָרְךָ",
+      "gloss": "あなたを守るため"
+    },
+    {
+      "surface": "מֵאֵ֣שֶׁת",
+      "gloss": "〜という女から"
+    },
+    {
+      "surface": "רָ֑ע",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "מֵֽ֝חֶלְקַ֗ת",
+      "gloss": "滑らかな"
+    },
+    {
+      "surface": "לָשׁ֥וֹן",
+      "gloss": "舌"
+    },
+    {
+      "surface": "נָכְרִיָּֽה",
+      "gloss": "異国の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:39.992475252Z",
+  "model": "glm-5.2"
+}

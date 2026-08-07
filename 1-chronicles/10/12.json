@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてすべての勇士が立ち上がり、⟨את⟩シャウルの遺体と⟨את⟩彼の子らの遺体を運び、それらをヤベシュに運び込み、⟨את⟩彼らの骨をヤベシュのテレビンの木の下に葬り、七日間断食した。",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "立ち上がり"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "運び"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シャウルの遺体"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "遺体"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼の子らの遺体"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "遺体"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "彼の子らの"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "それらを運び込み"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "ヤベシュに"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "葬り"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの骨"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "彼らの骨"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下に"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "テレビンの木の"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "ヤベシュの"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "断食した"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:47.811026902Z",
+  "model": "glm-5.2"
+}

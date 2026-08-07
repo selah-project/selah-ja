@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして女はその二人の者を取って隠し、こう言った。「そうです、あの者たちは私のところに来ました。しかし私は彼らがどこから来たか知りません。",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "そして彼女は…取った"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "二人の者"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二人の"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "あの者を"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "そして彼女は彼らを隠した"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "そして彼女は言った"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そうです"
+    },
+    {
+      "surface": "באו",
+      "gloss": "来ました"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のところに"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "あの者たちは"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし…ない"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "私は知りません"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "どこから"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼らが"
+    }
+  ],
+  "timestamp": "2026-08-07T10:24:09.501145887Z",
+  "model": "glm-5.2"
+}

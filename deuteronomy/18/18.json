@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 18:18",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "預言者を彼らのために立てる —— 彼らの同胞の真ん中から、あなたのような者を。そして私の言葉を彼の口に置き、彼は彼らに語る —— ⟨את⟩ すべて、私が彼に命じることを。",
+  "tokens": [
+    {
+      "surface": "נביא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "私は立てる"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らのために"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "〜の真ん中から"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "彼らの同胞"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "あなたのような"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "そして私は置く"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "私の言葉を"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "彼の口に"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "そして彼は語る"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "私が彼に命じる"
+    }
+  ],
+  "timestamp": "2026-08-07T10:14:56.030188021Z",
+  "model": "glm-5.2"
+}

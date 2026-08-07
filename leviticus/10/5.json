@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "彼らは近づき、彼らをその着物のまま宿営の外へ運び出した。モーセが語ったとおりに。",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "彼らは近づいた"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "そして彼らを運んだ"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "彼らの着物のままで"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外へ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "宿営の"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のとおりに"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセが"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:39.317324064Z",
+  "model": "glm-5.2"
+}

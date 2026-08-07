@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 40:3",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "彼は私をそこへ連れて来た。見よ、一人の人が ⟨いた⟩。その姿は青銅の姿のようであり、彼の手に麻の糸と測量の杖 ⟨があった⟩。彼は門の中に立っていた。",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "そして彼は連れて来た"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "私を"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこへ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人が"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "その姿は"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "〜の姿のよう"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅の"
+    },
+    {
+      "surface": "ופתיל",
+      "gloss": "そして糸"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "麻の"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "彼の手に"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "そして杖"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "測量の"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そして彼は"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "立っていた"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "門の中に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:15:02.276253792Z",
+  "model": "glm-5.2"
+}

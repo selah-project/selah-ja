@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "そして彼らをまっすぐな道に導き、住まいの町へ歩ませた。",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "そして彼らを導いた"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道に"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "まっすぐな"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "歩むために"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "住まいの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:26.976666898Z",
+  "model": "glm-5.2"
+}

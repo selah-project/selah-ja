@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "義は完全な者の道を守る。しかし悪は罪を覆い隠す。",
+  "tokens": [
+    {
+      "surface": "צְ֭דָקָה",
+      "gloss": "義は"
+    },
+    {
+      "surface": "תִּצֹּ֣ר",
+      "gloss": "守る"
+    },
+    {
+      "surface": "תָּם",
+      "gloss": "完全な者の"
+    },
+    {
+      "surface": "דָּ֑רֶךְ",
+      "gloss": "道を"
+    },
+    {
+      "surface": "וְ֝רִשְׁעָ֗ה",
+      "gloss": "しかし悪は"
+    },
+    {
+      "surface": "תְּסַלֵּ֥ף",
+      "gloss": "覆い隠す"
+    },
+    {
+      "surface": "חַטָּֽאת",
+      "gloss": "罪を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:06.403269815Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 16:10",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "エシャイは七人の息子たちをシェムエルの前に通らせた。そしてシェムエルはエシャイに言った、「ヤハウェはこれらの者たちを選ばなかった。」",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "通らせた"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "エシャイは"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七人の"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "息子たちを"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シェムエル"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シェムエルは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "エシャイ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "選んだ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "これらの者たちを"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:44.419245246Z",
+  "model": "glm-5.2"
+}

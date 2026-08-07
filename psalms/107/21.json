@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "ヤハウェのヘセドを告白せよ、そして人々の子らへの⟨彼の⟩奇跡を。",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "告白せよ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ヘセド"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "そして奇跡"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…の子らに"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:27.358402444Z",
+  "model": "glm-5.2"
+}

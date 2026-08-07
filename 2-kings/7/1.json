@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 7:1",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "エリシャは言った。「ヤハウェのことばを聞け。ヤハウェはこう言われる。明日のこの時刻、シャマヤンの門で、一サアの上等粉が一シェケル、二サアの大麦が一シェケル⟨となる⟩。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "エリシャは"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことばを"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "この時刻"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "明日の"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "一サアの"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "上等粉が"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "一シェケルで"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "二サアの"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "大麦が"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "一シェケルで"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "門で"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "シャマヤンの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:12:28.727653137Z",
+  "model": "glm-5.2"
+}

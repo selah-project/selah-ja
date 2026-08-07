@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 115,
+  "translation": "ヤハウェは私たちを覚えておられた。祝福する、祝福しよう ⟨את⟩イスラエルの家を、祝福しよう ⟨את⟩アハロンの家を。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "私たちを覚えておられた"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "祝福する"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "祝福しよう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "祝福しよう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アハロンの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:49.330576446Z",
+  "model": "glm-5.2"
+}

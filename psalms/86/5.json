@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 86,
+  "translation": "あなたアドナイは良く、かつ赦す方、そしてあなたを呼ぶすべての人に豊かなヘセドがある。",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "אֲדֹנָ֣י",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "ט֣וֹב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "וְסַלָּ֑ח",
+      "gloss": "そして赦す"
+    },
+    {
+      "surface": "וְרַב",
+      "gloss": "そして豊かな"
+    },
+    {
+      "surface": "חֶ֝֗סֶד",
+      "gloss": "ヘセド"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "〜のすべてに"
+    },
+    {
+      "surface": "קֹרְאֶֽיךָ",
+      "gloss": "あなたを呼ぶ者"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:05.622638103Z",
+  "model": "glm-5.2"
+}

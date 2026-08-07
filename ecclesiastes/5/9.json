@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "銀を愛する者は銀に満足することはなく、豊かさを愛する者は⟨そこから⟩収益⟨を得ることは⟩ない。これもまたヘブル。",
+  "tokens": [
+    {
+      "surface": "אֹהֵ֥ב",
+      "gloss": "愛する者は"
+    },
+    {
+      "surface": "כֶּ֨סֶף֙",
+      "gloss": "銀を"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִשְׂבַּ֣ע",
+      "gloss": "満足する"
+    },
+    {
+      "surface": "כֶּ֔סֶף",
+      "gloss": "銀に"
+    },
+    {
+      "surface": "וּמִֽי",
+      "gloss": "そして〜者"
+    },
+    {
+      "surface": "אֹהֵ֥ב",
+      "gloss": "愛する"
+    },
+    {
+      "surface": "בֶּהָמ֖וֹן",
+      "gloss": "豊かさを"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תְבוּאָ֑ה",
+      "gloss": "収益"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "また"
+    },
+    {
+      "surface": "זֶ֖ה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "הָֽבֶל",
+      "gloss": "ヘブル"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:53.098193835Z",
+  "model": "glm-5.2"
+}

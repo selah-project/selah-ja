@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "害悪を彼は自分の寝床の上に企む。彼自身を良くない道の上に据える。悪を拒まない。",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "害悪"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "彼は企む"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "自分の寝床"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "彼は据える"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "彼は拒む"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:32.267382542Z",
+  "model": "glm-5.2"
+}

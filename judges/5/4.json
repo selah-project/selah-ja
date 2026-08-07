@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 5:4",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ヤハウェよ、あなたがセイルから出て行かれたとき、エドムの野から歩みを進められたとき、地は揺れ動いた。天からも滴り落ちた。雲からも水が滴り落ちた。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "あなたが…出て行かれたとき"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "セイルから"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "あなたが…歩みを進められたとき"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "野から"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドムの"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "揺れ動いた"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…からも"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "滴り落ちた"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…からも"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "雲"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "滴り落ちた"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水が"
+    }
+  ],
+  "timestamp": "2026-08-07T10:32:56.593809594Z",
+  "model": "glm-5.2"
+}

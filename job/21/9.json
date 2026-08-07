@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 21:9",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "彼らの家は平安で、恐れがなく、エルの杖は彼らの上にない。",
+  "tokens": [
+    {
+      "surface": "בָּתֵּיהֶ֣ם",
+      "gloss": "彼らの家は"
+    },
+    {
+      "surface": "שָׁל֣וֹם",
+      "gloss": "平安で"
+    },
+    {
+      "surface": "מִפָּ֑חַד",
+      "gloss": "恐れがなく"
+    },
+    {
+      "surface": "וְלֹ֤א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שֵׁ֖בֶט",
+      "gloss": "杖は"
+    },
+    {
+      "surface": "אֱל֣וֹהַּ",
+      "gloss": "エルの"
+    },
+    {
+      "surface": "עֲלֵיהֶֽם",
+      "gloss": "彼らの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:25:06.938495059Z",
+  "model": "glm-5.2"
+}

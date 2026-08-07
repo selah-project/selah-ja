@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 27:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "その日、ヤハウェは⟨其の⟩硬く、大いなる、強き剣をもって、逃げ去る蛇なるリヴヤタンを、そして歪み曲がれる蛇なるリヴヤタンを罰しに来られ、海にいる⟨את⟩竜を殺される。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "罰しに来られる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בחרבו",
+      "gloss": "その剣で"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "硬き"
+    },
+    {
+      "surface": "והגדולה",
+      "gloss": "そして大いなる"
+    },
+    {
+      "surface": "והחזקה",
+      "gloss": "そして強き"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "リヴヤタン"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "逃げ去る"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "リヴヤタン"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "עקלתון",
+      "gloss": "歪み曲がれる"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "そして殺される"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "竜"
+    },
+    {
+      "surface": "התנין",
+      "gloss": "竜"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "בים",
+      "gloss": "海に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:10.439148104Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてあなたは来て、レビ人の祭司たちのところへ、またその日々のうちにいるであろう裁き人のもとへ行き、尋ね求めよ。そうすれば彼らはあなたに⟨את⟩裁きのことばを告げ知らせるであろう。",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "そしてあなたは来て"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たちの"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人の"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "および〜へ"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "裁き人の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "いるであろう"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "日々のうちに"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "その"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "そしてあなたは尋ね求めよ"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "そして彼らは告げ知らせるであろう"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "裁きのことば"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "裁きの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:14:52.166055825Z",
+  "model": "glm-5.2"
+}

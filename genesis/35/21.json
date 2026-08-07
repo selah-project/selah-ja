@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "イスラエルは旅立ち、ミグダル・エデル（群れの塔）の向こうに天幕を張った。",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "旅立ち"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "張った"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "天幕を"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "向こうに"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "ミグダル・"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "エデル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:39.014272318Z",
+  "model": "glm-5.2"
+}

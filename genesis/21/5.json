@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてアブラハムは百歳であった——彼に⟨את⟩息子イツハクが生まれたとき。",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "そしてアブラハムは"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の息子"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歳"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "…が生まれたとき"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イツハク"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イツハク"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "彼の息子"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:40.819151441Z",
+  "model": "glm-5.2"
+}

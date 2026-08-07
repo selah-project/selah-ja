@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "もし女性⟨なら⟩、あなたの評価は三十シェケルである、",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "נְקֵבָ֖ה",
+      "gloss": "女性"
+    },
+    {
+      "surface": "הִ֑וא",
+      "gloss": "…である"
+    },
+    {
+      "surface": "וְהָיָ֥ה",
+      "gloss": "そして…である"
+    },
+    {
+      "surface": "עֶרְכְּךָ֖",
+      "gloss": "あなたの評価"
+    },
+    {
+      "surface": "שְׁלֹשִׁ֥ים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "שָֽׁקֶל",
+      "gloss": "シェケル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:45:02.075843864Z",
+  "model": "glm-5.2"
+}

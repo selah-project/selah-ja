@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして祭司はそれらを祭壇の上で焚いて献げなければならない。それは火による供え物のパン、安抚の香りである。すべての脂肪はヤハウェのものだからである。",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "そしてそれらを焚いて献げる"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "祭壇の上で"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火による供え物の"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "香り"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "安抚の"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェのもの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:31:00.289134083Z",
+  "model": "glm-5.2"
+}

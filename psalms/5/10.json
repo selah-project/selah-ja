@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "彼らの口には確かなものがなく、彼らの内なるものは滅び、彼らの喉は開いた墓、彼らの舌は滑らかにするからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "אין",
+      "gloss": "〜がない"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "彼らの口に"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "確かなもの"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "彼らの内なるもの"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "滅び"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "墓"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "開いた"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "彼らの喉"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "彼らの舌"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "滑らかにする"
+    }
+  ],
+  "timestamp": "2026-08-07T12:33:56.486718771Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 144,
+  "translation": "その口はむなしさを語り、その右の手は偽りの右の手である⟨者たち⟩。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "その口は"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語り"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "むなしさを"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "その右の手は"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "右の手"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:00.899889928Z",
+  "model": "glm-5.2"
+}

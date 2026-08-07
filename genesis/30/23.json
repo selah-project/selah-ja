@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "彼女は身ごもり、息子を産んだ。そして言った。「エロヒムは⟨私の⟩恥辱を取り去られた。」",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "身ごもり"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "取り去られた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の恥辱"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "私の恥辱"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:42.510753116Z",
+  "model": "glm-5.2"
+}

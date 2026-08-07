@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 29:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "ああ、アリエル、アリエル、ダヴィデが宿営した町。年を年の上に加えよ。祭りが巡り回るように。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ああ"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "アリエル"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "アリエル"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "…の町"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "宿営した"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィデ"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "加えよ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "חגים",
+      "gloss": "祭りが"
+    },
+    {
+      "surface": "ינקפו",
+      "gloss": "巡り回る"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:36.295568462Z",
+  "model": "glm-5.2"
+}

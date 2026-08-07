@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 17:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "その日 ⟨に⟩ となり、ヤアコブの栄光は薄れ、その身の豊かさはやせる。",
+  "tokens": [
+    {
+      "surface": "וְהָיָה֙",
+      "gloss": "となり"
+    },
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "日 ⟨に⟩"
+    },
+    {
+      "surface": "הַה֔וּא",
+      "gloss": "その"
+    },
+    {
+      "surface": "יִדַּ֖ל",
+      "gloss": "薄れ"
+    },
+    {
+      "surface": "כְּב֣וֹד",
+      "gloss": "栄光は"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "ヤアコブの"
+    },
+    {
+      "surface": "וּמִשְׁמַ֥ן",
+      "gloss": "豊かさは"
+    },
+    {
+      "surface": "בְּשָׂר֖וֹ",
+      "gloss": "その身の"
+    },
+    {
+      "surface": "יֵרָזֶֽה",
+      "gloss": "やせる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:24:20.897500774Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 25:23",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "あなたはアカシア材の表を造らなければならない — 長さ二アーマ、その幅一アーマ、その高さ一アーマ半。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "あなたは造る"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "表"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "材"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "アカシア"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "二アーマ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "その長さ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "一アーマ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "その幅"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "一アーマ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "半"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "その高さ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:22:29.190814396Z",
+  "model": "glm-5.2"
+}

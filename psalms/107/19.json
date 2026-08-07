@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "そして彼らは苦難の中でヤハウェに向かって叫び、彼らの苦悩から ⟨彼らを⟩ 救い出された。",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "そして彼らは叫んだ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "苦難の中で"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らの"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "彼らの苦悩から"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "彼を救い出した"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:36.354233169Z",
+  "model": "glm-5.2"
+}

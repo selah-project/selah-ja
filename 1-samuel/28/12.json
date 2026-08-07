@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そして女は⟨את⟩シュムエルを見、大声で叫んだ。そして女はシャウルに向かって言った。「なぜ私を欺いたのか。あなたはシャウルだ。」",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "そして…見た"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シュムエル"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエルを"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "そして…叫んだ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "声で"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大きな"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に向かって"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "私を欺いたのか"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルだ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:17.518595756Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "ただし、⟨את⟩これを食べてはならない――反芻するもののうちから、また蹄の割れるもののうちから。⟨את⟩らくだは、反芻はするものの、蹄が割れていないので、あなたがたには汚れている。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "食べてはならない"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "反芻するもののうちから"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "反芻"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "また蹄の割れるもののうちから"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "蹄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "らくだ"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "らくだ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "――"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "反芻はする"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "反芻"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ものの"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "また蹄が"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "割れていない"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "割れていない"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れている"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "――"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたには"
+    }
+  ],
+  "timestamp": "2026-08-07T16:30:25.051414431Z",
+  "model": "glm-5.2"
+}

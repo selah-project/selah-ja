@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ケハトの子らは、アムラム、イツハル、ヘブロン、ウジエル。",
+  "tokens": [
+    {
+      "surface": "וּבְנֵ֖י",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "קְהָ֑ת",
+      "gloss": "ケハト"
+    },
+    {
+      "surface": "עַמְרָ֣ם",
+      "gloss": "アムラム"
+    },
+    {
+      "surface": "וְיִצְהָ֔ר",
+      "gloss": "イツハル"
+    },
+    {
+      "surface": "וְחֶבְר֖וֹן",
+      "gloss": "ヘブロン"
+    },
+    {
+      "surface": "וְעֻזִּיאֵֽל",
+      "gloss": "ウジエル"
+    }
+  ],
+  "timestamp": "2026-08-07T17:35:41.926159197Z",
+  "model": "glm-5.2"
+}

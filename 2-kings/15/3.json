@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 15:3",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして彼はヤハウェの目に⟨是⟩と⟨される⟩ことを行った。彼の父アマツヤが行ったすべてのことに⟨等しく⟩。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして……行った"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "是"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "……の目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "すべてのことに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……ところの"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行った"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "アマツヤ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    }
+  ],
+  "timestamp": "2026-08-07T14:27:43.223236165Z",
+  "model": "glm-5.2"
+}

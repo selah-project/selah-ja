@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 48:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": " ⟨彼女⟩の防壁に ⟨あなたがた⟩の心を向けよ、彼女の宮殿をよく見よ、それは ⟨あなたがた⟩が後の世代に語り告げるためである。",
+  "tokens": [
+    {
+      "surface": "שיתו",
+      "gloss": "置け"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "あなたがたの心"
+    },
+    {
+      "surface": "לחילה",
+      "gloss": "彼女の防壁に"
+    },
+    {
+      "surface": "פסגו",
+      "gloss": "よく見よ"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "彼女の宮殿"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜のため"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "あなたがたは語り告げる"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "世代に"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "後の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:36.588018799Z",
+  "model": "glm-5.2"
+}

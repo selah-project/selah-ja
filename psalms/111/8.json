@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 111,
+  "translation": "永遠に、とこしえに支えられている。真実と直きをもって造られている。",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "支えられている"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "造られている"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "真実をもって"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "と直き"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:50.378901343Z",
+  "model": "glm-5.2"
+}

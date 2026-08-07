@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして彼らはイゼベルに人を遣わして言った。「ナボテは石打ちにされ、死んだ。」",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "そして彼らは…遣わした"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "イゼベルに"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "こう言って"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "石打ちにされ"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ナボテは"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:13.831453513Z",
+  "model": "glm-5.2"
+}

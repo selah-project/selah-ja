@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして彼は手紙に次のように書いた。「ウリヤを激しい戦いの正面に置き、彼の後ろから引き返せ。そうすれば彼は打たれて死ぬであろう。」",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "そして彼は書いた"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "手紙に"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "次のように言う"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "置け"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ウリヤ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ウリヤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "正面"
+    },
+    {
+      "surface": "פני",
+      "gloss": "〜の"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戦い"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "激しい"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "そしてあなたたちは引き返せ"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "彼の後ろから"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "そして彼は打たれる"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "そして死ぬ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:26:55.201982003Z",
+  "model": "glm-5.2"
+}

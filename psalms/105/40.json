@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "彼らが求めたところ、⟨彼は⟩ウズラを携え、天のパンで彼らを満ち足らせた。",
+  "tokens": [
+    {
+      "surface": "שָׁאַ֣ל",
+      "gloss": "求めた"
+    },
+    {
+      "surface": "וַיָּבֵ֣א",
+      "gloss": "携えた"
+    },
+    {
+      "surface": "שְׂלָ֑ו",
+      "gloss": "ウズラ"
+    },
+    {
+      "surface": "וְלֶ֥חֶם",
+      "gloss": "そしてパン"
+    },
+    {
+      "surface": "שָׁמַ֗יִם",
+      "gloss": "天の"
+    },
+    {
+      "surface": "יַשְׂבִּיעֵֽם",
+      "gloss": "彼らを満ち足らせた"
+    }
+  ],
+  "timestamp": "2026-08-07T17:21:28.972021279Z",
+  "model": "glm-5.2"
+}

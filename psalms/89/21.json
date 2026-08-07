@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "わたしはダビドわがしもべを見いだした、わたしの聖なる油で彼に油を注いだ",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "わたしは…見いだした"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビド"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "わがしもべ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "…で…油"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "わたしの聖なる"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "わたしは彼に油を注いだ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:25.640226859Z",
+  "model": "glm-5.2"
+}

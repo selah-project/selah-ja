@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 31:31",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "彼女の手の実から彼女に与えよ。そして彼女のわざは門々で彼女を讃めよ。",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "与えよ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "〜の実から"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "彼女の手の"
+    },
+    {
+      "surface": "ויהללוה",
+      "gloss": "そして〜を讃めよ"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "門々で"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "彼女のわざ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:18:28.583032633Z",
+  "model": "glm-5.2"
+}

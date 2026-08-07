@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "義なる者の口は知恵を 口ずさみ、その舌は公正を語る。",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "口"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義なる者の"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "口ずさむ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵を"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "そしてその舌は"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "語る"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公正を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:23.367486863Z",
+  "model": "glm-5.2"
+}

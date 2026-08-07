@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ヨエルの子らは次の通りであった。その子シェマヤ、その子ゴグ、その子シムイ。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ヨエル"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "シェマヤ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "ゴグ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "シムイ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "その子"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:29.114745879Z",
+  "model": "glm-5.2"
+}

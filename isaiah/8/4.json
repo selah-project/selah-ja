@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "その子供が「私の父、私の母」と呼ぶことを知る前に、ダマシクの富と ⟨את⟩ ショムロンの略奪品がアッシュルの王の前に運び去られるからである。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "…する前に"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "その子供が"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼ぶことを"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "私の父"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "そして私の母"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "運び去られる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダマシクの富"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "富"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ダマシクの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ショムロンの略奪品"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "略奪品"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ショムロンの"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前に"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アッシュル"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:12.808713999Z",
+  "model": "glm-5.2"
+}

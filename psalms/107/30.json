@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "そして彼らは喜んだ、波が静まったからである。そしてヤハウェは彼らを望みの港へ導かれた。",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "そして彼らは喜んだ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "静まったから"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "そして導かれた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "港に"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "彼らの望みの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:44.839692470Z",
+  "model": "glm-5.2"
+}

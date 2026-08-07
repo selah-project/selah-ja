@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "肉のいのちは癒やしの心、そして骨の腐れはねたみ。",
+  "tokens": [
+    {
+      "surface": "חַיֵּ֣י",
+      "gloss": "いのち"
+    },
+    {
+      "surface": "בְ֭שָׂרִים",
+      "gloss": "肉"
+    },
+    {
+      "surface": "לֵ֣ב",
+      "gloss": "心"
+    },
+    {
+      "surface": "מַרְפֵּ֑א",
+      "gloss": "癒やし"
+    },
+    {
+      "surface": "וּרְקַ֖ב",
+      "gloss": "そして腐れ"
+    },
+    {
+      "surface": "עֲצָמ֣וֹת",
+      "gloss": "骨"
+    },
+    {
+      "surface": "קִנְאָֽה",
+      "gloss": "ねたみ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:36.203218154Z",
+  "model": "glm-5.2"
+}

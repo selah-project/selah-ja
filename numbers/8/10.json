@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてあなたは ⟨את⟩ レヴィムを ヤハウェの前に近づけ、イスラエルの子らは ⟨את⟩ 自分たちの手を レヴィムの上に置かなければならない。",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "そしてあなたは近づけ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レヴィム"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レヴィム"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "そして彼らは置かなければならない"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分たちの手"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "自分たちの手"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レヴィム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:53:56.223035105Z",
+  "model": "glm-5.2"
+}

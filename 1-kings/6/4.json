@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして彼は家のために窓を作った—シュクフィーム、アトゥミーム。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は作った"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "家のために"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "窓を"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "シュクフィーム"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "アトゥミーム"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:28.916676685Z",
+  "model": "glm-5.2"
+}

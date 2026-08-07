@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして⟨彼は⟩ ⟨את⟩ 柱の廊下を作った — 五十アーマがその長さ、三十アーマがその幅。そして廊下がそれらの前に⟨あり⟩、柱と梁がそれらの前に⟨あった⟩。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "柱の廊下"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "廊下"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "柱の"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "作った"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "アーマ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "その長さ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "と三十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "アーマ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "その幅"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "そして廊下"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "それらの前"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "と柱"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "と梁"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "それらの前"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:24.540178997Z",
+  "model": "glm-5.2"
+}

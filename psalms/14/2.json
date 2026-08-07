@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "ヤハウェは天から見下ろされた — 人の子らの上に — 見るために、知恵ある者が⟨いる⟩か、エロヒムを⟨את⟩尋ね求める者が⟨いる⟩かを。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "天から"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "見下ろされた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見るために"
+    },
+    {
+      "surface": "היש",
+      "gloss": "いるか"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "知恵ある者が"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "尋ね求める者が"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エロヒムを"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:59.170088181Z",
+  "model": "glm-5.2"
+}

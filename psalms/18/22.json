@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "私がヤハウェの道を守り、私のエロヒムから悪を行って離れなかったからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "私が守った"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "道を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "私が悪を行った"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "私のエロヒムから"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:34.305521960Z",
+  "model": "glm-5.2"
+}

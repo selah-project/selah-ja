@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 6:20",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "その肉に触れるすべてのものは聖別される。その血の一部が衣の上に飛び散ったなら、その飛び散った箇所を聖なる場所で洗わなければならない。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ものは"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "触れる"
+    },
+    {
+      "surface": "בבשרה",
+      "gloss": "その肉に"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "聖別される"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "そして〜なら"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "飛び散る"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "その血から"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "その衣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "飛び散った"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "洗え"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "…の場所で"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:46.311558869Z",
+  "model": "glm-5.2"
+}

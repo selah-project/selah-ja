@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして、祭司たちが聖所から出ると、雲が⟨את⟩ヤハウェの家に満ちた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "出ると"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たちが"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "雲が"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "満ちた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:44.368265937Z",
+  "model": "glm-5.2"
+}

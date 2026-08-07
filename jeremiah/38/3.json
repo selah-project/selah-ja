@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 38:3",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "ヤハウェはこう仰る：この町は必ずバビロンの王の軍勢の手に渡され、彼はそれを捕える。」",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "仰る"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "必ず…渡される"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "渡される"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…の手に"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍勢"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロン"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "そして彼はそれを捕える"
+    }
+  ],
+  "timestamp": "2026-08-07T11:53:58.961283809Z",
+  "model": "glm-5.2"
+}

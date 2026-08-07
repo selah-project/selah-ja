@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": " потому что ⟨耳⟩ ⟨は⟩ 言葉を試す、そして口蓋は 食べるために味わう。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "言葉を"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "試す"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "そして口蓋は"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "味わう"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "食べるために"
+    }
+  ],
+  "timestamp": "2026-08-07T13:28:55.478085561Z",
+  "model": "glm-5.2"
+}

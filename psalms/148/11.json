@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 148,
+  "translation": "地の王たち、そしてすべての国々、君たち、そしてすべての地の裁き人、",
+  "tokens": [
+    {
+      "surface": "מַלְכֵי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "אֶ֭רֶץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "לְאֻמִּ֑ים",
+      "gloss": "国々"
+    },
+    {
+      "surface": "שָׂ֝רִ֗ים",
+      "gloss": "君たち"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "שֹׁ֥פְטֵי",
+      "gloss": "裁き人"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:35.267276550Z",
+  "model": "glm-5.2"
+}

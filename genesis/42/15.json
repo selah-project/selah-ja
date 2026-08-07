@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 42:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "これによってあなたがたは試される。パロの命にかけて、あなたがたの末の兄弟がここに来ることなしに、あなたがたがここから出ることはない。」",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "これによって"
+    },
+    {
+      "surface": "תבחנו",
+      "gloss": "あなたがたは試される"
+    },
+    {
+      "surface": "חי",
+      "gloss": "〜の命にかけて"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "あなたがたが出る"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ここから"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜とは"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜以外"
+    },
+    {
+      "surface": "בבוא",
+      "gloss": "来ること"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "あなたがたの兄弟"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "末の"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ここに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:18.059633506Z",
+  "model": "glm-5.2"
+}

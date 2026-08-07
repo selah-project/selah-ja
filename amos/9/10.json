@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 9:10",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "剣によって死ぬ、わたしの民の罪びとたちのすべてが——彼らは言う者たち、「それは近づかない、またわれわれに先立っては来ない」と。",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "剣によって"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "死ぬ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "〜のすべて"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "罪びとたち"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民の"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "言う者たち"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תגיש",
+      "gloss": "近づかない"
+    },
+    {
+      "surface": "ותקדים",
+      "gloss": "先立っては来ない"
+    },
+    {
+      "surface": "בעדינו",
+      "gloss": "われわれに"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "それは"
+    }
+  ],
+  "timestamp": "2026-08-07T12:23:29.101829109Z",
+  "model": "glm-5.2"
+}

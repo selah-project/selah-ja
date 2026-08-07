@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "どうか民の耳に語れ。そして彼らは尋ねるよう — 男はその友から、女はその友から、銀の器と金の器を。",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "〜の耳に"
+    },
+    {
+      "surface": "העם",
+      "gloss": "その民"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "そして彼らは尋ねる"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男は"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "その友"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "そして女は"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "その友"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "および器"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:53.892662447Z",
+  "model": "glm-5.2"
+}

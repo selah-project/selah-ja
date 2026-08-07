@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼女は再加えて産んだ、彼の兄弟を⟨את⟩、ヘベルを⟨את⟩。そしてヘベルは羊の群れの牧者となり、カインは土を耕す者であった。",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "そして加えた"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "産むことに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の兄弟"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄弟"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヘベル"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ヘベル"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ヘベル"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "牧する者"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊の群れ"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "そしてカインは"
+    },
+    {
+      "surface": "היה",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "耕す者"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "土"
+    }
+  ],
+  "timestamp": "2026-08-07T16:22:01.845582282Z",
+  "model": "glm-5.2"
+}

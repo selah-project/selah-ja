@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 75,
+  "translation": "あなたたちの角を高く挙げるな。傲慢な首で語るな。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜するな"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "挙げるな"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "高く"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "あなたたちの角を"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "語るな"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "首で"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "傲慢な"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:20.952578760Z",
+  "model": "glm-5.2"
+}

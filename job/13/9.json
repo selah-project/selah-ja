@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "それはあなたがたにとって良いことなのか、⟨彼が⟩あなたがたを探り究めるときは。人が嘲るように、あなたがたは⟨彼⟩を嘲るのか。",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "良いことなのか"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜の時"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "探り究めるとき"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがた"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜なのか"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "嘲るように"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "人"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "あなたがたは嘲る"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼"
+    }
+  ],
+  "timestamp": "2026-08-07T13:23:04.895955873Z",
+  "model": "glm-5.2"
+}

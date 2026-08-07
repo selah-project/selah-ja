@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 40:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "パロの杯が私の手にあり、私は⟨את⟩ぶどうを取り、それをパロの杯に搾り入れ、私は⟨את⟩その杯をパロの手のひらに置いた。」",
+  "tokens": [
+    {
+      "surface": "וכוס",
+      "gloss": "そして杯"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "私の手に"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "そして私は取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ぶどう"
+    },
+    {
+      "surface": "הענבים",
+      "gloss": "ぶどう"
+    },
+    {
+      "surface": "ואשחט",
+      "gloss": "そして私は搾り入れた"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "それを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の中へ"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "杯"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "そして私は置いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その杯"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "その杯"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כף",
+      "gloss": "手のひら"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:43.809470023Z",
+  "model": "glm-5.2"
+}

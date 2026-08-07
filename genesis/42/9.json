@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "ヨセフは⟨את⟩夢を思い出した、彼らについて見た夢を。そして彼らに言った、「あなたたちは密偵である。地の裸を ⟨את⟩ 見に来たのだ」と。",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "と思い出した"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "夢"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "夢"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "見た"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らについて"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "密偵"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたたちは"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地の裸"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "裸"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "来た"
+    }
+  ],
+  "timestamp": "2026-08-07T09:08:06.354970101Z",
+  "model": "glm-5.2"
+}

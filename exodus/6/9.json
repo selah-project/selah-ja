@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "モーセはイスラエルの子らにそのように語ったが、彼らはモーセに聞き従わなかった。霊の短さと、過酷な労働のゆえに。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセは"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜なかった"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聞き従った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "短さのゆえに"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊の"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "そして労働のゆえに"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "過酷な"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:12.846961030Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "思慮を守るため、そして知識があなたの唇によって守られるために。",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "守るため"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "思慮を"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "そして知識が"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "あなたの唇によって"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "守られる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:09:00.622997513Z",
+  "model": "glm-5.2"
+}

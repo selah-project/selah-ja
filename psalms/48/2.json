@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "大いなる方はヤハウェ、極めて讃えられる方、われらのエロヒムの都のうちに、⟨すなわち⟩⟨彼の⟩聖なる山に。",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "讃えられる"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極めて"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "都のうちに"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "われらのエロヒム"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "⟨彼の⟩聖なる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:10.927447378Z",
+  "model": "glm-5.2"
+}

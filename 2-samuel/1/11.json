@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ダビデは自分の衣服を捕まえ、それを引き裂いた。また、彼とともにいたすべての人々も同様であった。",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "そして彼は固くつかんだ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "自分の衣服を"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "そしてそれを引き裂いた"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "また"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "人々も"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼とともにいた"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:26.903276206Z",
+  "model": "glm-5.2"
+}

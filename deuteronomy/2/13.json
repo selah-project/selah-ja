@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "「今、立って、あなたがた自身のために⟨את⟩ナハル・ゼレドを渡りなさい。」そして私たちは⟨את⟩ナハル・ゼレドを渡った。",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "立って"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "渡りなさい"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがた自身のために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナハル・ゼレド"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ナハル（渓谷）"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ゼレド"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "そして私たちは渡った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ナハル・ゼレド"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ナハル（渓谷）"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ゼレド"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:34.521428450Z",
+  "model": "glm-5.2"
+}

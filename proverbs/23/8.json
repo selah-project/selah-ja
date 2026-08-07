@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "あなたが食べた一口を、あなたは吐き出す。あなたの快い言葉を無駄にする。",
+  "tokens": [
+    {
+      "surface": "פתך",
+      "gloss": "あなたの…一口"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "あなたが食べた"
+    },
+    {
+      "surface": "תקיאנה",
+      "gloss": "あなたは吐き出す"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "無駄にする"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "あなたの…言葉を"
+    },
+    {
+      "surface": "הנעימים",
+      "gloss": "快い"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:17.928773164Z",
+  "model": "glm-5.2"
+}

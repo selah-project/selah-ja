@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 38:5",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "行って、ヒズキヤに言え。ヤハウェ、あなたの父ダビデのエロヒムはこう言われる。わたしはあなたの祈りを聞いた、⟨את⟩ あなたの涙を見た。見よ、わたしはあなたの日々に十五年を加える。",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "行って"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "そして言え"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ヒズキヤ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "〜のエロヒム"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "わたしは聞いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの祈り"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "あなたの祈り"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "わたしは見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの涙"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "あなたの涙"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "わたしは加える"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "あなたの日々"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "と十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-08-07T11:29:26.921392934Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてゴエルはボアズに言った——「あなた ⟨自身⟩ が買え。」そして彼は ⟨自分の⟩ 靴を脱いだ。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "ゴエルは"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "ボアズに"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "買え"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "そして脱いだ"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "自分の靴を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:35:15.622179055Z",
+  "model": "glm-5.2"
+}

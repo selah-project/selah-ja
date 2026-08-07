@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 22:15",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "矢を送り出して⟨彼ら⟩を散らし、稲妻で⟨彼ら⟩を乱された。",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁלַ֥ח",
+      "gloss": "送り出して"
+    },
+    {
+      "surface": "חִצִּ֖ים",
+      "gloss": "矢を"
+    },
+    {
+      "surface": "וַיְפִיצֵ֑ם",
+      "gloss": "⟨彼ら⟩を散らし"
+    },
+    {
+      "surface": "בָּרָ֖ק",
+      "gloss": "稲妻で"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "⟨彼ら⟩を乱された"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:50.018174098Z",
+  "model": "glm-5.2"
+}

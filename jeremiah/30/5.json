@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "こうしてヤハウェは告げられる——私たちは恐怖の声を聞いた、恐怖⟨が⟩、そしてシャロム⟨が⟩ない。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こうして"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "告げられる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "恐怖"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "私たちは聞いた"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "恐怖"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "シャロム"
+    }
+  ],
+  "timestamp": "2026-08-07T11:50:55.386742795Z",
+  "model": "glm-5.2"
+}

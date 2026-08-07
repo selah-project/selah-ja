@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 8:20",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "見よ、エルは全き者を退けず、悪を行う者たちの手を固く握りはしない。",
+  "tokens": [
+    {
+      "surface": "הֶן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אֵ֭ל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יִמְאַס",
+      "gloss": "退ける"
+    },
+    {
+      "surface": "תָּ֑ם",
+      "gloss": "全き者"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יַ֝חֲזִ֗יק",
+      "gloss": "固く握る"
+    },
+    {
+      "surface": "בְּיַד",
+      "gloss": "手を"
+    },
+    {
+      "surface": "מְרֵעִֽים",
+      "gloss": "悪を行う者たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:21:54.770676424Z",
+  "model": "glm-5.2"
+}

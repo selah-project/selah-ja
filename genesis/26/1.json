@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 26:1",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そして地に飢饉があった — アブラハムの日にあった最初の飢饉とは別の⟨飢饉であった⟩。そしてイツハクはペリシュティ人（ペリシテ人）の王アビメレクの⟨ところ⟩へ、ゲラルへと向かった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜があった"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "飢饉"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "〜とは別の"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "その飢饉"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "最初の"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜た"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして向かった"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イツハク"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "アビメレク"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシュティ人（ペリシテ人）の"
+    },
+    {
+      "surface": "גררה",
+      "gloss": "ゲラルへ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:59:05.975700397Z",
+  "model": "glm-5.2"
+}

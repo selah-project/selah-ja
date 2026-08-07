@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "地に ⟨彼の⟩ 言葉を遣わす方、 ⟨その⟩ み言葉は速やかに走る。",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "遣わす方"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "⟨彼の⟩ 言葉"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地に"
+    },
+    {
+      "surface": "עד",
+      "gloss": "―"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "速やかに"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "走る"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "⟨その⟩ み言葉"
+    }
+  ],
+  "timestamp": "2026-08-07T17:23:58.203401044Z",
+  "model": "glm-5.2"
+}

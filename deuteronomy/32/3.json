@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "わたしはヤハウェの名を唱える — わたしたちのエロヒムに偉大さを帰せよ。",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "שֵׁ֥ם",
+      "gloss": "名"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֶקְרָ֑א",
+      "gloss": "わたしは唱える"
+    },
+    {
+      "surface": "הָב֥וּ",
+      "gloss": "帰せよ"
+    },
+    {
+      "surface": "גֹ֖דֶל",
+      "gloss": "偉大さ"
+    },
+    {
+      "surface": "לֵאלֹהֵֽינוּ",
+      "gloss": "わたしたちのエロヒムに"
+    }
+  ],
+  "timestamp": "2026-08-07T16:38:46.011779218Z",
+  "model": "glm-5.2"
+}

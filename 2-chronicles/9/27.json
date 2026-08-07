@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 9:27",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして王はイェルシャライムで⟨את⟩銀を石のようにし、⟨את⟩杉を低地にあるシクモレの木のように、数多く与えた。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして…与えた"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "銀"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライムで"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "石のように"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "杉"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "杉"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "シクモレの木のように"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "低地に"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "数多く"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:08.261785480Z",
+  "model": "glm-5.2"
+}

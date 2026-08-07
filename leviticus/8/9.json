@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 8:9",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして⟨彼は⟩⟨את⟩ターバンをその頭の上に置き、ターバンの上の、その顔の正面に⟨את⟩金の花飾り、聖なる奉献の冠を置いた。ヤハウェが⟨את⟩モーセに命じたとおりに。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "そして置いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ターバン"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ターバン"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "その頭"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "そして置いた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上の"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ターバン"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "מול",
+      "gloss": "正面に"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "その顔の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "金の花飾り"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "花飾り"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "冠"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖なる奉献の"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のとおりに"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モーセ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:39.826411958Z",
+  "model": "glm-5.2"
+}

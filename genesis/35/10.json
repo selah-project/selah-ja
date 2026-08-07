@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そしてエロヒムは彼に言った、「あなたの名はヤアコブ。あなたの名はもはやヤアコブと呼ばれることはない。まさか、イスラエルがあなたの名となる⟨から⟩だ」。そして彼は⟨את⟩彼の名をイスラエルと呼んだ。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの名は"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "呼ばれる"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの名は"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨から⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "まさか"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの名"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして彼は呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の名を"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の名を"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T16:25:17.617053239Z",
+  "model": "glm-5.2"
+}

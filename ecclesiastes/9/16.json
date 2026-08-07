@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そして私は言った、知恵は力よりも優れている、と。しかし貧しい者の知恵は蔑まれ、その言葉は聞かれない。",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "そして私は言った"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "優れている"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "知恵は"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "力よりも"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "しかし〜の知恵は"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "貧しい者"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "蔑まれ"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "そしてその言葉は"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "聞かれ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:32.233156209Z",
+  "model": "glm-5.2"
+}

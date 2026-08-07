@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "および⟨את⟩ 十の台座、および⟨את⟩ その台座の上の十の水盤、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "台座"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "台座"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "水盤"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "水盤"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "台座"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:06.845502450Z",
+  "model": "glm-5.2"
+}

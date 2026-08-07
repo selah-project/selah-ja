@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "⟨彼は⟩諸民を私たちの下に従わせ、国々を私たちの足の下に置かれる。",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "従わせる"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "諸民を"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "私たちの下に"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "そして国々を"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "私たちの足"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:16.729230721Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "マッサ、幻の谷。それであなたにどうしたというのか、あなたは皆、屋上に上ってしまったのか。",
+  "tokens": [
+    {
+      "surface": "מַשָּׂ֖א",
+      "gloss": "マッサ"
+    },
+    {
+      "surface": "גֵּ֣יא",
+      "gloss": "谷"
+    },
+    {
+      "surface": "חִזָּי֑וֹן",
+      "gloss": "幻の"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "何が"
+    },
+    {
+      "surface": "לָּ֣ךְ",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "אֵפ֔וֹא",
+      "gloss": "それで"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "〜のか"
+    },
+    {
+      "surface": "עָלִ֥ית",
+      "gloss": "上った"
+    },
+    {
+      "surface": "כֻּלָּ֖ךְ",
+      "gloss": "あなたは皆"
+    },
+    {
+      "surface": "לַגַּגּֽוֹת",
+      "gloss": "屋上に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:22.883594364Z",
+  "model": "glm-5.2"
+}

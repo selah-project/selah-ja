@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "鉄と青銅が ⟨あなたの⟩ 閂 ⟨となる⟩、そして ⟨あなたの⟩ 日のように ⟨あなたの⟩ 静けさ ⟨がある⟩。",
+  "tokens": [
+    {
+      "surface": "בַּרְזֶ֥ל",
+      "gloss": "鉄"
+    },
+    {
+      "surface": "וּנְחֹ֖שֶׁת",
+      "gloss": "と青銅"
+    },
+    {
+      "surface": "מִנְעָלֶ֑יךָ",
+      "gloss": "あなたの閂"
+    },
+    {
+      "surface": "וּכְיָמֶ֖יךָ",
+      "gloss": "そしてあなたの日のように"
+    },
+    {
+      "surface": "דָּבְאֶֽךָ",
+      "gloss": "あなたの静けさ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:22:18.474037539Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 13:30",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして祭司は ⟨את⟩ 災患を見る — 見よ、その外観は皮より深く、そのうちに黄色く細い毛がある。 тогда祭司は彼を汚れたと宣告する：それは湿疹であり、頭または顎のツァラアトである。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "そして…見る"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "災患"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "災患"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "その外観"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "深い"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜より"
+    },
+    {
+      "surface": "העור",
+      "gloss": "皮"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "そのうちに"
+    },
+    {
+      "surface": "שער",
+      "gloss": "毛"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "黄色い"
+    },
+    {
+      "surface": "דק",
+      "gloss": "細い"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "そして…汚れたと宣告する"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 彼",
+      "marks": "祭司"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "湿疹"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それ…である"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ツァラアト"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "頭の"
+    },
+    {
+      "surface": "או",
+      "gloss": "または"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "顎の"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "…である"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:22.265646701Z",
+  "model": "glm-5.2"
+}

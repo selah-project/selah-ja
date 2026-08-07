@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "わたしは言った、「わたしは彼らを吹き散らす、人類の中から彼らの記憶を絶やそう」と。",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "わたしは言った"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "わたしは彼らを吹き散らす"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "わたしは絶やそう"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "人類の中から"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "彼らの記憶を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:21:27.232726994Z",
+  "model": "glm-5.2"
+}

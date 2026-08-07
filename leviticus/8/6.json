@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてモーシェは⟨את⟩アハロンと⟨את⟩その息子たちを近づけ、彼らを水で洗った。",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "そして近づけた"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アハロン"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "その息子たち"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "その息子たち"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "そして洗った"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "彼らを"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:00.536429888Z",
+  "model": "glm-5.2"
+}

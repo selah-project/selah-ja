@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "ヤハウェは言われた、わたしのしもべイェシャヤフが裸と裸足で歩いたように、三年間、ミツライムとクシュに対するしるしと不思議として。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "…は言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…のように"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "歩いた"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "わたしのしもべ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "イェシャヤフが"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "裸で"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "裸足で"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年間"
+    },
+    {
+      "surface": "אות",
+      "gloss": "しるし"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "と不思議"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に対する"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "および…に対する"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "クシュ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:10.432882582Z",
+  "model": "glm-5.2"
+}

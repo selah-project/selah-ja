@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 52,
+  "translation": "まことに、ヤハウェはこう言われる ― あなたたちはただで売られ、銀によらず贖われる ⟨だろう⟩。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ただで"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "あなたたちは売られた"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…ず"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "銀によらず"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "贖われる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:14.242303835Z",
+  "model": "glm-5.2"
+}

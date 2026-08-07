@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてわたしは、イスラエルの子らのうちのすべての初子の代わりに、レビ人を⟨את⟩取った。",
+  "tokens": [
+    {
+      "surface": "וָאֶקַּח",
+      "gloss": "そしてわたしは取った"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "レビ人"
+    },
+    {
+      "surface": "הַלְוִיִּם",
+      "gloss": "レビ人"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "〜の代わりに"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בְּכוֹר",
+      "gloss": "初子"
+    },
+    {
+      "surface": "בִּבְנֵי",
+      "gloss": "〜の子らのうちの"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:54:43.608190740Z",
+  "model": "glm-5.2"
+}

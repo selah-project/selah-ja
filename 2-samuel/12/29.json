@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "ダヴィデはすべての民を集め、ラバへ進み、⟨את⟩それに向かって戦い、これを攻め取った。",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "集めた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィデは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "進んだ"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "ラバへ"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "戦い"
+    },
+    {
+      "surface": "בה",
+      "gloss": "それに向かって"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "これを攻め取った"
+    }
+  ],
+  "timestamp": "2026-08-07T10:52:45.657592914Z",
+  "model": "glm-5.2"
+}

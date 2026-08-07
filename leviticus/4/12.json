@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして彼は⟨את⟩雄牛の全体を宿営の外へ、灰を捨てる場所へ、清い場所へ運び出し、薪の上で火をもってそれを焼く。灰を捨てる場所でそれは焼かれる。",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "そして彼は運び出す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雄牛の全体"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全体"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "雄牛の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "宿営の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "場所"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清い"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "捨てる場所"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "灰の"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "そして彼は焼く"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "それを",
+      "marks": "雄牛"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "薪"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火をもって"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜で"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "捨てる場所"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "灰の"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "それは焼かれる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:54.744929370Z",
+  "model": "glm-5.2"
+}

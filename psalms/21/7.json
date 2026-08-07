@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "あなたが彼を祝福として置かれるゆえ、とこしえに。あなたは彼を喜びで喜ばせる、⟨את⟩あなたの御顔の⟨前で⟩。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ゆえ"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "あなたが彼を置かれる"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "祝福として"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "あなたは彼を喜ばせる"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "喜びで"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの御顔の"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの御顔の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:27.299935338Z",
+  "model": "glm-5.2"
+}

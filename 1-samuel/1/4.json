@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "その日になり、エルカナがいけにえを献げたとき、彼は妻ペニンナと、そのすべての息子や娘たちに分け前を与えた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "～になった"
+    },
+    {
+      "surface": "היום",
+      "gloss": "その日に"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "そして献げた"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "エルカナは"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "そして与えた"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "ペニンナに"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "彼の妻"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "彼女の息子"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "と彼女の娘たちに"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "分け前を"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:19.388001906Z",
+  "model": "glm-5.2"
+}

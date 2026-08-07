@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 38:26",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そしてユダ⟨は⟩認めて言った。「彼女⟨は⟩私よりも正しい。私がシェラ⟨の⟩息子に彼女を与えなかったからである。」そして彼⟨は⟩彼女を再び知ることを加えなかった。",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "そして認めた"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "正しい"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私よりも"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのこと"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נתתיה",
+      "gloss": "私は彼女を与えた"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "シェラに"
+    },
+    {
+      "surface": "בני",
+      "gloss": "私の息子"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "加えた"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "לדעתה",
+      "gloss": "彼女を知ることを"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:51.033185067Z",
+  "model": "glm-5.2"
+}

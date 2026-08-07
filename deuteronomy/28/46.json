@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そしてそれらはあなたのうちにしるしとなり、また奇跡となり、あなたの子孫のうちにあってとこしえまで続くであろう。",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "そしてそれらは〜となるであろう"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたのうちに"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "しるしとして"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "また奇跡として"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "そしてあなたの子孫のうちに"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "とこしえ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:19.871792285Z",
+  "model": "glm-5.2"
+}

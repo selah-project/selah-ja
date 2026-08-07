@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "そして彼は思い出した — 彼らは肉である、通り過ぎる風であり、そして戻らないことを。",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "そして彼は思い出した"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜こと（を）"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼らは〜である"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "通り過ぎる"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "戻る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:46.646767403Z",
+  "model": "glm-5.2"
+}

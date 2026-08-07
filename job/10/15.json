@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "もし私が悪を行ったなら — わざわい私に！そして私が義を行ったなら、私は頭を上げられない。恥に飽き足り、私の苦難を見よ。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "私が悪を行ったなら"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "わざわい"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "そして私が義を行ったなら"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "私は上げられ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "頭を"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "飽き足り"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "恥に"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "私の苦難を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:48.667782198Z",
+  "model": "glm-5.2"
+}

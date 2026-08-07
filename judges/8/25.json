@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 8:25",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "彼らは言った、「進んで渡そう」。そして彼らは⟨את⟩外套を広げ、おのおの自分の分捕り物の鼻輪をそこに投げ入れた。",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして彼らは言った"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "進んで"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "渡そう"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "そして彼らは広げた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "外套"
+    },
+    {
+      "surface": "השמלה",
+      "gloss": "外套"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "そして彼らは投げ入れた"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "鼻輪"
+    },
+    {
+      "surface": "שללו",
+      "gloss": "彼の分捕り物の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:34:48.015572270Z",
+  "model": "glm-5.2"
+}

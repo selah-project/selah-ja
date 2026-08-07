@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "私は憎んだ、悪を行う者の集まりを、そして悪者たちと共に座ることはしない。",
+  "tokens": [
+    {
+      "surface": "שָׂ֭נֵאתִי",
+      "gloss": "私は憎んだ"
+    },
+    {
+      "surface": "קְהַ֣ל",
+      "gloss": "集まりを"
+    },
+    {
+      "surface": "מְרֵעִ֑ים",
+      "gloss": "悪を行う者の"
+    },
+    {
+      "surface": "וְעִם",
+      "gloss": "そして〜と共に"
+    },
+    {
+      "surface": "רְ֝שָׁעִ֗ים",
+      "gloss": "悪者たち"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אֵשֵֽׁב",
+      "gloss": "私は座る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:06.974640091Z",
+  "model": "glm-5.2"
+}

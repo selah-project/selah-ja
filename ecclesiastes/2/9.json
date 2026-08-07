@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "こうして私は大いなる者となり、イェルシャライムで私以前に⟨あった⟩すべての者を越えて増し加わった。さらに、私の知恵も私とともに⟨立って⟩いた。",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "そして私は大いなる者となった"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "そして増し加わった"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "〜すべてよりも"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "⟨あった⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "私以前に"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライムで"
+    },
+    {
+      "surface": "אף",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "私の知恵も"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "立っていた"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私とともに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:42:21.651783424Z",
+  "model": "glm-5.2"
+}

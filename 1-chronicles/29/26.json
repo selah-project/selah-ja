@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてダヴィド、イシャイの子は、全イスラエルの上に王として治めた。",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "そしてダヴィド"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "イシャイ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王として治めた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:09:34.231657163Z",
+  "model": "glm-5.2"
+}

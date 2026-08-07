@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "石を移す者はそれによって傷つき、木を割る者はそれによって危険にさらされる。",
+  "tokens": [
+    {
+      "surface": "מַסִּיעַ",
+      "gloss": "移す者は"
+    },
+    {
+      "surface": "אֲבָנִים",
+      "gloss": "石を"
+    },
+    {
+      "surface": "יֵעָצֵב",
+      "gloss": "傷つき"
+    },
+    {
+      "surface": "בָּהֶם",
+      "gloss": "それによって"
+    },
+    {
+      "surface": "בּוֹקֵעַ",
+      "gloss": "割る者は"
+    },
+    {
+      "surface": "עֵצִים",
+      "gloss": "木を"
+    },
+    {
+      "surface": "יִסָּכֶן",
+      "gloss": "危険にさらされる"
+    },
+    {
+      "surface": "בָּם",
+      "gloss": "それによって"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:52.012526967Z",
+  "model": "glm-5.2"
+}

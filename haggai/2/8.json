@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "わたしのものは銀、そしてわたしのものは金、とヤハウェ・ツヴァオトの御宣り。」",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "わたしのものは"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "そしてわたしのものは"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御宣り"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ツヴァオト"
+    }
+  ],
+  "timestamp": "2026-08-07T12:30:12.964880945Z",
+  "model": "glm-5.2"
+}

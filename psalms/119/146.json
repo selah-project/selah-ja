@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 146,
+  "ref": "psalms 119:146",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "わたしはあなたを呼び求めた—救ってください—そしてあなたの証しを守る。",
+  "tokens": [
+    {
+      "surface": "קראתיך",
+      "gloss": "わたしはあなたを呼び求めた"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "救ってください"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "そして守る"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "あなたの証しを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:47.272580151Z",
+  "model": "glm-5.2"
+}

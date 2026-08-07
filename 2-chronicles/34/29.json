@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そして王は人を遣わし、⟨את⟩ユダとエルシャライムのすべての長老たちを集めた。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして……人を遣わした"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "そして……集めた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ユダとエルシャライムのすべての長老たち"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老たち"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "とエルシャライムの"
+    }
+  ],
+  "timestamp": "2026-08-07T17:41:24.985106882Z",
+  "model": "glm-5.2"
+}

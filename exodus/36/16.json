@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そして彼は五つの幕を別に⟨את⟩合わせ、そして六つの幕を別に⟨את⟩合わせた。",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "そして彼は…合わせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "五つの幕を"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "幕"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "別に"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "六つの幕を"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "幕"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "別に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:19.295543748Z",
+  "model": "glm-5.2"
+}

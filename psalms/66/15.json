@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "肥えたものの全焼のささげ物を私はあなたに上らせます、雄羊の香と共に、雄牛を雄山羊と共に私は作ります。セラ",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "全焼のささげ物を"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "肥えたものの"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "私は上らせる"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香を"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "雄羊の"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "私は作る"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "雄牛を"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "雄山羊"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:52.380090095Z",
+  "model": "glm-5.2"
+}

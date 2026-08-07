@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてモシェの義父イテロは ⟨את⟩ ツィポラを — モシェの妻を — 彼女が去らされた後に取った。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして…取った"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "イテロは"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "義父"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ツィポラを"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "ツィポラを"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェの"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "…の後に"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "彼女が去らされた（こと）"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:14.253008371Z",
+  "model": "glm-5.2"
+}

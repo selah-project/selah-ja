@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "あなたがたの主人の息子たちの中から、良くて正しい者を見て、彼をその父の玉座に据え、あなたがたの主人の家のために戦え。」",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "見て"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "正しい者"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "〜の息子たちの中から"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "あなたがたの主人の"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "据えよ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "玉座"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父の"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "戦え"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のために"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "あなたがたの主人の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:13:40.530007095Z",
+  "model": "glm-5.2"
+}

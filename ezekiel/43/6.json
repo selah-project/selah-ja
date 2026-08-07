@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 43,
+  "translation": "私は、家の中から私に語りかける⟨声⟩を聞いた。そして一人の人が私のそばに立っていた。",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "そして私は聞いた"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "語りかける者"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "家の中から"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "そして一人の人が"
+    },
+    {
+      "surface": "היה",
+      "gloss": "いた"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "立って"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "私のそばに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:15:19.924138375Z",
+  "model": "glm-5.2"
+}

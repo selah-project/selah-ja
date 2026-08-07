@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして戦争は長引き、シャウルの家とダビデの家の間で⟨続いた⟩。ダビドは進んで強くなり、シャウルの家は進んで弱くなった。",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "そして…あった"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戦争"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "長く"
+    },
+    {
+      "surface": "בין",
+      "gloss": "〜の間で"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と〜の間で"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビド"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "そしてダビドは"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "進んで"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "強くなった"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "そして…家は"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "進んで"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "弱くなった"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:24.631882650Z",
+  "model": "glm-5.2"
+}

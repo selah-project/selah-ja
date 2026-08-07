@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ヤハウェは良い、⟨את⟩待つ者たちにとって、⟨アレ⟩⟨を⟩求める ⟨נפש⟩にとって。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "⟨את⟩待つ者たちにとって",
+      "marks": "待つ者たち"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "⟨נפש⟩にとって"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "⟨アレ⟩⟨を⟩求める"
+    }
+  ],
+  "timestamp": "2026-08-07T18:43:25.749577872Z",
+  "model": "glm-5.2"
+}

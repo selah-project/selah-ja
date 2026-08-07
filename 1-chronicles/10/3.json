@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "戦いはシャウルの上に重くのしかかり、弓を持つ者たちが彼を見つけ、彼は射る者たちによって苦しめられた。",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "そして重くのしかかった"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戦いは"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "そして彼を見つけた"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "弓を持つ者たちが"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "弓で"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "そして苦しめられた"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜によって"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "射る者たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:40.230307892Z",
+  "model": "glm-5.2"
+}

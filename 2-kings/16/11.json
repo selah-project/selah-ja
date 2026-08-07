@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 16:11",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "祭司ウリヤは⟨את⟩祭壇を建てた。アハズ王がダマセクから送ったすべてのものに従って。祭司ウリヤはそのようにした。アハズ王がダマセクから来るまでに。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ウリヤ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "すべての〜に従って"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "送った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "アハズ"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "ダマセクから"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "した"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ウリヤ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜までに"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "アハズ"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "ダマセクから"
+    }
+  ],
+  "timestamp": "2026-08-07T11:15:56.447013216Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 39:11",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そしてネブカドレツァル、バビルの王は、エレミヤについて、ネブザルアダン、虐殺者たちの長の手によって命じた、言って。",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "そして命じた"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "ネブカドレツァル"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビル"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "エレミヤ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "〜の手によって"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "ネブザルアダン"
+    },
+    {
+      "surface": "רב",
+      "gloss": "長"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "虐殺者たち"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    }
+  ],
+  "timestamp": "2026-08-07T17:05:31.190767416Z",
+  "model": "glm-5.2"
+}

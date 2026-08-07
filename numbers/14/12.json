@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "疫病で彼らを打とう。そして私は彼らを相続地から追い払い、あなたを彼らよりも大きく強い国民にしよう。」",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "私が彼らを打つ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "疫病で"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "そして私は彼らを追い払う"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "そして私は…にする"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "あなたを"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "国民に"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大きい"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "そして強い"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "彼らよりも"
+    }
+  ],
+  "timestamp": "2026-08-07T09:56:26.237227926Z",
+  "model": "glm-5.2"
+}

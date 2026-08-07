@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 20:30",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてイスラエルの子らは三日目にベニヤミンの子らの〈ところへ〉上り、度々と同じくギブアに向かって陣を敷いた。",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "そして上った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "の子らは"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "の子ら"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ベニヤミン"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "三番目の"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "そして陣を敷いた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "ギブア"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "度々"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "と同じく"
+    }
+  ],
+  "timestamp": "2026-08-07T10:38:46.926616565Z",
+  "model": "glm-5.2"
+}

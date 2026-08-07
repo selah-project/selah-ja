@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "全心でヤハウェに信頼せよ、⟨そして⟩あなたの理解力に頼ってはならない。",
+  "tokens": [
+    {
+      "surface": "בְּטַ֣ח",
+      "gloss": "信頼せよ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "全"
+    },
+    {
+      "surface": "לִבֶּ֑ךָ",
+      "gloss": "あなたの心で"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "בִּֽ֝ינָתְךָ֗",
+      "gloss": "あなたの理解力"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תִּשָּׁעֵֽן",
+      "gloss": "頼っては"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:19.130389866Z",
+  "model": "glm-5.2"
+}

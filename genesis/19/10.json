@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "しかし、かの者たちは手を伸ばし、ロトを ⟨את⟩ 家の中の自分たちのところに引き入れた。そして ⟨את⟩ 扉を閉めた。",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "そして彼らは伸ばした"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "かの男たちは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "手を"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "彼らの手を"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "そして引き入れた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ロトを"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ロトを"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らのところに"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "家の中へ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "扉を"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "扉を"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "閉めた"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:28.439404177Z",
+  "model": "glm-5.2"
+}

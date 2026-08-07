@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "私はヤハウェを絶えず私の前に据えた。私の右に⟨おられる⟩から、私は揺り動かされることがない。",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "私は…据えた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "私の前に"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "絶えず"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…から"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "私の右に"
+    },
+    {
+      "surface": "בל",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "私は揺り動かされる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:15.249275734Z",
+  "model": "glm-5.2"
+}

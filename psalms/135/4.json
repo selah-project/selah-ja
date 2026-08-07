@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 135,
+  "translation": "ヤハはヤアコブを御自分のために選ばれたからだ。イスラエルを特別な所有として。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブを"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "選ばれた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "御自分のために"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハは"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルを"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "特別な所有として"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:41.197517066Z",
+  "model": "glm-5.2"
+}

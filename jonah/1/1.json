@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてヤハウェのことばがヨナ —— アミタイの子 —— にあった⟨のは⟩、こうであった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして……があった"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "……に"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ヨナ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "……の子"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "アミタイ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "こうであった"
+    }
+  ],
+  "timestamp": "2026-08-07T12:24:20.935244045Z",
+  "model": "glm-5.2"
+}

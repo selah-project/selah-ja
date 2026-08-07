@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 19:9",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてヤハウェからの悪い霊がシャウルの上に〈来た〉。彼は自分の家に座っており、彼の槍は彼の手の中にあり、ダビドは手で〈琴を〉弾いていた。",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "そして～となった"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～の上に"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そして彼は"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "自分の家に"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "座っている"
+    },
+    {
+      "surface": "וחניתו",
+      "gloss": "そして彼の槍"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "彼の手の中に"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "そしてダビド"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "弾いている"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:44.776734399Z",
+  "model": "glm-5.2"
+}

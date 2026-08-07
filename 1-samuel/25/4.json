@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてダヴィドは荒野で聞いた — ナバルが自分の羊を刈り込んでいることを、⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "そして聞いた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野で"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということ"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "刈り込んでいる"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ナバル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の羊"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "彼の羊"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:17.936760167Z",
+  "model": "glm-5.2"
+}

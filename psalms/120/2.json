@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 120,
+  "translation": "ヤハウェ、⟨私の⟩命を偽りの唇から、欺く舌から救い出してください。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "救い出してください"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨私の⟩命"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "〜から唇"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽り"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "〜から舌"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "欺く"
+    }
+  ],
+  "timestamp": "2026-08-07T17:22:51.255630247Z",
+  "model": "glm-5.2"
+}

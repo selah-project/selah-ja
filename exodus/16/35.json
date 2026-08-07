@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 16:35",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてイスラエルの子らはマン⟨את⟩を四十年間食べた。彼らが住む地に着くまで。彼らはマン⟨את⟩を、カナンの地の果てに着くまで食べた。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "そして〜の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "食べた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "マン"
+    },
+    {
+      "surface": "המן",
+      "gloss": "そのマン"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年間"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "באם",
+      "gloss": "彼らが着く"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "נושבת",
+      "gloss": "住む"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "マン"
+    },
+    {
+      "surface": "המן",
+      "gloss": "そのマン"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "食べた"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "באם",
+      "gloss": "彼らが着く"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "果て"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "カナン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:43.077651806Z",
+  "model": "glm-5.2"
+}

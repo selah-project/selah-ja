@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "愚かになった、ツォアンの君たちは。騙された、ノフの君たちは。⟨彼らは⟩ミツライムを迷わせた、⟨את⟩ — その部族の角柱が。",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "愚かになった"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "…の君たちは"
+    },
+    {
+      "surface": "צען",
+      "gloss": "ツォアン"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "騙された"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "…の君たちは"
+    },
+    {
+      "surface": "נף",
+      "gloss": "ノフ"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "迷わせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ミツライム"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "角柱"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "その部族の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:24:57.676391586Z",
+  "model": "glm-5.2"
+}

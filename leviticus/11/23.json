@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして、飛ぶ群がるもののうち、四つの足を持つすべてのものは、あなたがたにとって忌むべきものである。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "群がるもの"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "飛ぶもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるもの"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それに"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "足"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "忌むべきもの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたがたにとって"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:45.656632068Z",
+  "model": "glm-5.2"
+}

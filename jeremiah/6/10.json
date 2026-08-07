@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 6:10",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "誰に向かって私が語り、誰に私が警告して聞かせるのか。見よ、彼らの耳は包皮があり、聞き返すことができない。見よ、ヤハウェのことばは彼らにとってそしりとなった、彼らはそれを喜ばない。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "⟨向かって⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰に"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "私が語り"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "私が警告して"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "聞かせるのか"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "ערלה",
+      "gloss": "包皮がある"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "彼らの耳は"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜できない"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "彼らは〜ことが"
+    },
+    {
+      "surface": "להקשיב",
+      "gloss": "聞き返す"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "היה",
+      "gloss": "〜となった"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らにとって"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "そしりと"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "彼らは喜ぶ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:41:35.299286513Z",
+  "model": "glm-5.2"
+}

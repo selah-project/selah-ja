@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 9:14",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "彼らは町へ上って行った。彼らが町の中に入って来た時、見よ、シェムエルが彼らを迎えるために出て来た。高き所へ上るために。",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "上って行った"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町へ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "באים",
+      "gloss": "入って来た"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "〜の中に"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町の"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シェムエルが"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出て来た"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "彼らを迎えるために"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "上るために"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "高き所へ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:42:38.840172863Z",
+  "model": "glm-5.2"
+}

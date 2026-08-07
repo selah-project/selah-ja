@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして王は答えて言った。「生きている産み子を彼女に与えよ。そして死んだ者——彼を殺してはならない。彼女こそがその母である。」",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "そして答えて"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "与えよ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "生きている産み子を"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "産み子を"
+    },
+    {
+      "surface": "החי",
+      "gloss": "生きている"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "そして死んだ者は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "彼を殺すな"
+    },
+    {
+      "surface": "היא",
+      "gloss": "彼女こそ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "その母である"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:04.291053565Z",
+  "model": "glm-5.2"
+}

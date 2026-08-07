@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "東風で ⟨あなたは⟩ タルシシュの船を打ち砕く。",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "風で"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "あなたは打ち砕く"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "船を"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "タルシシュの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:44.067231062Z",
+  "model": "glm-5.2"
+}

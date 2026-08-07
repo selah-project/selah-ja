@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "これらは⟨の⟩ディシャンの子らである：ウツ、およびアラン。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "ディシャン"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ウツ"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "およびアラン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:06:50.118646999Z",
+  "model": "glm-5.2"
+}

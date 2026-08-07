@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そしてあなたたちはわたしを尋ね求め、⟨את⟩わたしを見出す。あなたたちがすべての心でわたしを求めるからだ。",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "そしてあなたたちは尋ね求める"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "わたし"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "そして見出す"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "あなたたちはわたしを求める"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "あなたたちの心で"
+    }
+  ],
+  "timestamp": "2026-08-07T11:50:31.897093200Z",
+  "model": "glm-5.2"
+}

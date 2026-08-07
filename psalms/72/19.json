@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 72,
+  "translation": "また、ほむべきかな、栄光のその名よ、とこしえまで。そして ⟨彼の⟩ 栄光が ⟨את⟩ 全地を満たすように。アーメン、そしてアーメン。",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "また、ほむべきかな"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "彼の栄光の"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえまで"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "そして満たすように"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "彼の栄光が"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "アーメン"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "そしてアーメン"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:19.695323949Z",
+  "model": "glm-5.2"
+}

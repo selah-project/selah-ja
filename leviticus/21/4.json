@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "夫たる者は——その民の間で——自分を汚してはならない。⟨そうして⟩自らを損なうためである。」",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "彼は汚れては"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "夫たる者"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "その民の間で"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "自らを損なうために"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:08.286595580Z",
+  "model": "glm-5.2"
+}

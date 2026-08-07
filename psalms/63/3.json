@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 63,
+  "translation": "それゆえ、聖所で私はあなたを見た、あなたの力とあなたの栄光を見るために。",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "聖所で"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "私はあなたを見た"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見るために"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "あなたの力"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "あなたの栄光"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:40.752766723Z",
+  "model": "glm-5.2"
+}

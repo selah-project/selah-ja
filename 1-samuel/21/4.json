@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "だから今、あなたの手の下に何があるか。五つのパンを私の手に与えてほしい。あるいは見つかるものを。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "だから今"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何が"
+    },
+    {
+      "surface": "יש",
+      "gloss": "あるか"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手の"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五つの"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "与えてほしい"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "私の手に"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "見つかるもの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:46.513485711Z",
+  "model": "glm-5.2"
+}

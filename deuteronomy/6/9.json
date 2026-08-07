@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてそれをあなたの家の門柱と、あなたの門に書き记しなさい。",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "そして書き记しなさい"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "門柱"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "あなたの家の"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "そしてあなたの門に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:09:12.781300982Z",
+  "model": "glm-5.2"
+}

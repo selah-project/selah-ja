@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 11:19",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "このように義はいのち〈に至る〉。そして悪を追う者は——それを自分の死〈に至るまで〉。",
+  "tokens": [
+    {
+      "surface": "כֵּן",
+      "gloss": "このように"
+    },
+    {
+      "surface": "צְדָקָ֥ה",
+      "gloss": "義は"
+    },
+    {
+      "surface": "לְחַיִּ֑ים",
+      "gloss": "いのちに"
+    },
+    {
+      "surface": "וּמְרַדֵּ֖ף",
+      "gloss": "そして追う者"
+    },
+    {
+      "surface": "רָעָ֣ה",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "לְמוֹתֽוֹ",
+      "gloss": "自分の死に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:51.515421860Z",
+  "model": "glm-5.2"
+}

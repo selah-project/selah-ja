@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "⟨彼は⟩あなたの境界に平和を置き、小麦の脂肪であなたを飽き足らせる方",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "⟨彼は⟩置く"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "あなたの境界に"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平和"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "脂肪"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "小麦の"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "あなたを飽き足らせる"
+    }
+  ],
+  "timestamp": "2026-08-07T17:23:59.204236498Z",
+  "model": "glm-5.2"
+}

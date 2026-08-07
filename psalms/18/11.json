@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして⟨彼は⟩ケルブに乗り、飛んだ。そして⟨彼は⟩風の翼の上を舞い飛んだ。",
+  "tokens": [
+    {
+      "surface": "וַיִּרְכַּ֣ב",
+      "gloss": "そして⟨彼は⟩…に乗った"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "כְּרוּב",
+      "gloss": "ケルブ"
+    },
+    {
+      "surface": "וַיָּעֹ֑ף",
+      "gloss": "そして飛んだ"
+    },
+    {
+      "surface": "וַיֵּ֗דֶא",
+      "gloss": "そして舞い飛んだ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…の上を"
+    },
+    {
+      "surface": "כַּנְפֵי",
+      "gloss": "…の翼"
+    },
+    {
+      "surface": "רֽוּחַ",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:57.971398632Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 19:17",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そして⟨次のようになる⟩ — ハザエルの剣から逃れた者を、イエフが殺し、イエフの剣から逃れた者を、エリシャが殺すであろう。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "そして〜になる"
+    },
+    {
+      "surface": "הנמלט",
+      "gloss": "逃れた者"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "剣から"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "ハザエル"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "殺す"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "イエフ"
+    },
+    {
+      "surface": "והנמלט",
+      "gloss": "そして逃れた者"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "剣から"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "イエフ"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "殺す"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "エリシャ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:49.531384892Z",
+  "model": "glm-5.2"
+}

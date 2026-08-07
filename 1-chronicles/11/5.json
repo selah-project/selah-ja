@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてエブスの住民はダヴィドに言った、「あなたはここには入れない」。しかしダヴィドは⟨את⟩ツィヨンの要塞を捕えた―それはダヴィドの町である。",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "…の住民"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "エブス"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ダヴィドに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "あなたは入れない"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ここに"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "しかし…捕えた"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ツィヨンの要塞"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "要塞"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨンの"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィドの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:42.863523688Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "デケルの子、マカツにおいて、シャアルビムにおいて、およびベテ・シェメシュにおいて、ならびにエロン・ベテ・ハナン",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "デケル"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "マカツにおいて"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "およびシャアルビムにおいて"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "およびベテ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "シェメシュ"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "ならびにエロン"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベテ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ハナン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:58:12.404694007Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "モーシェは言った。「いま脇にそれて、⟨את⟩この大いなる光景を見よう。なぜこの茨は燃えないのか。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "脇にそれよう"
+    },
+    {
+      "surface": "נא",
+      "gloss": "いま"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "そして見よう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この大いなる光景"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "光景"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ないのか"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "燃え"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "この茨は"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:09.674542945Z",
+  "model": "glm-5.2"
+}

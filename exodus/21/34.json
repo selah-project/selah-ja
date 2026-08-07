@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 21:34",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "穴の所有者は償う。銀をその所有者に返さなければならない。そして死んだ⟨獣⟩は彼のものとなる。",
+  "tokens": [
+    {
+      "surface": "בעל",
+      "gloss": "所有者は"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "穴の"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "償う"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀を"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "返す"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "その所有者に"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "そして死んだものは"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のものに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:24.687645872Z",
+  "model": "glm-5.2"
+}

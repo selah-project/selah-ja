@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼は言った。「⟨את⟩あなたの声を私は聞いた、園で。そして私は恐れた、裸であるから。そして私は隠れた。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの声"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "あなたの声"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "私は聞いた"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "園で"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "そして私は恐れた"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "裸で"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私は"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "そして私は隠れた"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:49.827259756Z",
+  "model": "glm-5.2"
+}

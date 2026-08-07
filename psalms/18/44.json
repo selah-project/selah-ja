@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 18:44",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "あなたは私を民の争いから救い出し、私を国々の頭として置かれる。私が知らなかった民が私に仕える。",
+  "tokens": [
+    {
+      "surface": "תפלטני",
+      "gloss": "あなたは私を救い出し"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "の争いから"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "あなたは私を置かれる"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "頭として"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "国々の"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "私が知ら"
+    },
+    {
+      "surface": "יעבדוני",
+      "gloss": "が私に仕える"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:08.452470116Z",
+  "model": "glm-5.2"
+}

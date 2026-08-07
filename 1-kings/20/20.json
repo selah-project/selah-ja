@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そして彼らはおのおの自分の相手を打った。そしてアラムは逃げ、イスラエルは彼らを追った。そしてアラムの王ベン・ハダドは馬に乗り、騎兵とともに逃れた。",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "そして彼らは打った"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "自分の相手"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "そして…逃げた"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラム"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "そして…追った"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "そして…逃れた"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ベン"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "・ハダド"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラム"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に乗り"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "そして騎兵"
+    }
+  ],
+  "timestamp": "2026-08-07T11:08:46.587762882Z",
+  "model": "glm-5.2"
+}

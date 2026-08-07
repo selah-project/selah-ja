@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてすべての死んだ⟨命⟩のそばにも、入ってはならない。彼の父のためにも、彼の母のためにも、汚れてはならない。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "そして…の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "命"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死んだ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "入る"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "彼の父のため"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "そして彼の母のため"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "汚れる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:27.756741215Z",
+  "model": "glm-5.2"
+}

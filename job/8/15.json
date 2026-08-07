@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "彼は自分の家に寄りかかるが、それは立たず、彼はそれにすがりつくが、それは立ち上がらない。",
+  "tokens": [
+    {
+      "surface": "יִשָּׁעֵן",
+      "gloss": "寄りかかる"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "בֵּיתוֹ",
+      "gloss": "自分の家"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "יַעֲמֹד",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "יַחֲזִיק",
+      "gloss": "すがりつく"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "それに"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "しかし〜ない"
+    },
+    {
+      "surface": "יָקוּם",
+      "gloss": "立ち上がる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:21:53.258954188Z",
+  "model": "glm-5.2"
+}

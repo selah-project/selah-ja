@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nahum 2:5",
+  "book": "nahum",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "広場で戦車は狂い暴れる、大通りで猛烈に走り回る、その姿は松明のよう、稲妻のように走り疾る。",
+  "tokens": [
+    {
+      "surface": "בחוצות",
+      "gloss": "広場で"
+    },
+    {
+      "surface": "יתהוללו",
+      "gloss": "狂い暴れる"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "戦車は"
+    },
+    {
+      "surface": "ישתקשקון",
+      "gloss": "猛烈に走り回る"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "大通りで"
+    },
+    {
+      "surface": "מראיהן",
+      "gloss": "その姿は"
+    },
+    {
+      "surface": "כלפידם",
+      "gloss": "松明のよう"
+    },
+    {
+      "surface": "כברקים",
+      "gloss": "稲妻のように"
+    },
+    {
+      "surface": "ירוצצו",
+      "gloss": "走り疾る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:27:29.118243462Z",
+  "model": "glm-5.2"
+}

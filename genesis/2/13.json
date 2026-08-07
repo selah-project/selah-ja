@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そして第二の川の名はギホン、それは⟨את⟩クシュの全土を巡る者である。",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "そして…の名は"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "川"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二の"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "ギホン"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "巡る者"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "クシュの全土"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "クシュ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:10.689049685Z",
+  "model": "glm-5.2"
+}

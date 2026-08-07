@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 59,
+  "translation": "彼らは夕暮れに戻り、犬のように鳴き、町を巡り歩く。",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "彼らは戻る"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "夕暮れに"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "鳴き声を上げる"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "犬のように"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "彼らは巡り歩く"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:48.275678731Z",
+  "model": "glm-5.2"
+}

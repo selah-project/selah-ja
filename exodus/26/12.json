@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 26:12",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そして天幕の幕の余り⟨部分⟩が伸びる — 余りの幕の半分が住幕の背面に伸びる。",
+  "tokens": [
+    {
+      "surface": "וְסֶ֨רַח֙",
+      "gloss": "そして伸びる"
+    },
+    {
+      "surface": "הָעֹדֵ֔ף",
+      "gloss": "余り"
+    },
+    {
+      "surface": "בִּירִיעֹ֖ת",
+      "gloss": "幕の"
+    },
+    {
+      "surface": "הָאֹ֑הֶל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "חֲצִ֤י",
+      "gloss": "半分"
+    },
+    {
+      "surface": "הַיְרִיעָה֙",
+      "gloss": "幕"
+    },
+    {
+      "surface": "הָעֹדֶ֔פֶת",
+      "gloss": "余りの"
+    },
+    {
+      "surface": "תִּסְרַ֕ח",
+      "gloss": "伸びる"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "אֲחֹרֵ֥י",
+      "gloss": "背面に"
+    },
+    {
+      "surface": "הַמִּשְׁכָּֽן",
+      "gloss": "住幕"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:28.579389792Z",
+  "model": "glm-5.2"
+}

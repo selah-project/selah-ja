@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "光を ⟨衣服⟩ のように ⟨まとわれる⟩ 方、天を幕のように張り出される方。",
+  "tokens": [
+    {
+      "surface": "עֹֽטֶה",
+      "gloss": "まとわれる"
+    },
+    {
+      "surface": "א֭וֹר",
+      "gloss": "光"
+    },
+    {
+      "surface": "כַּשַּׂלְמָ֑ה",
+      "gloss": "を⟨衣服⟩のように"
+    },
+    {
+      "surface": "נוֹטֶ֥ה",
+      "gloss": "張り出される"
+    },
+    {
+      "surface": "שָׁ֝מַ֗יִם",
+      "gloss": "天"
+    },
+    {
+      "surface": "כַּיְרִיעָֽה",
+      "gloss": "を幕のように"
+    }
+  ],
+  "timestamp": "2026-08-07T12:59:10.411539427Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "残りの者は帰る、ヤアコブの残りの者は、エル・ギボール（力強きエル）へ。」",
+  "tokens": [
+    {
+      "surface": "שְׁאָ֥ר",
+      "gloss": "残りの者は"
+    },
+    {
+      "surface": "יָשׁ֖וּב",
+      "gloss": "帰る"
+    },
+    {
+      "surface": "שְׁאָ֣ר",
+      "gloss": "残りの者"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "ヤアコブの"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "へ"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "גִּבּֽוֹר",
+      "gloss": "力強き"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:10.169714281Z",
+  "model": "glm-5.2"
+}

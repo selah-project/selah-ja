@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "ダビデは、アマレクが奪ったすべてのものを取り戻した。また、⟨את⟩彼の二人の妻をもダビデは救い出した。",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "救い出した"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アマレクが奪ったすべてのもの"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "奪った"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "アマレク"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼の二人の妻"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "二人の"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "彼の妻"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "救い出した"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:02.441198126Z",
+  "model": "glm-5.2"
+}

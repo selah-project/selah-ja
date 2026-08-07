@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 16:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "喜びと歓喜は集められ去る、果樹園から。そしてぶどう園では歌う者はいない、叫ぶ者もいない。酒は酒槽の中で、踏む者は踏まない。歓呼を、わたしはやめさせた。",
+  "tokens": [
+    {
+      "surface": "ונאסף",
+      "gloss": "そして集められ去る"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "喜び"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "と歓喜"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "果樹園"
+    },
+    {
+      "surface": "ובכרמים",
+      "gloss": "そしてぶどう園では"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ירנן",
+      "gloss": "歌う者は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ירעע",
+      "gloss": "叫ぶ者も"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒は"
+    },
+    {
+      "surface": "ביקבים",
+      "gloss": "酒槽の中で"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "踏む者は"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "踏まない"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "歓呼を"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "わたしはやめさせた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:24:41.663041415Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして彼らは⟨את⟩ヤハウェの箱を車の上に置き、⟨את⟩その箱と、⟨את⟩金のねずみと、⟨את⟩彼らの腫物の像を⟨置いた⟩。",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "そして彼らは置いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの箱を"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "車"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その箱"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "その箱"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "金のねずみ"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "ねずみ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの腫物の像"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "像"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "彼らの腫物の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:30.496449121Z",
+  "model": "glm-5.2"
+}

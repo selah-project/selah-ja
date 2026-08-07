@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 44:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "そして彼は捜した。長子から始め、末子まで終えて、杯がベニヤミンの袋の中に見つかった。",
+  "tokens": [
+    {
+      "surface": "ויחפש",
+      "gloss": "そして彼は捜した"
+    },
+    {
+      "surface": "בגדול",
+      "gloss": "長子において"
+    },
+    {
+      "surface": "החל",
+      "gloss": "始め"
+    },
+    {
+      "surface": "ובקטן",
+      "gloss": "末子において"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "終えて"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "そして見つかった"
+    },
+    {
+      "surface": "הגביע",
+      "gloss": "杯"
+    },
+    {
+      "surface": "באמתחת",
+      "gloss": "袋の中に"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ベニヤミンの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:07.261868094Z",
+  "model": "glm-5.2"
+}

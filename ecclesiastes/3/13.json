@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてまた、すべての人、すなわち食べて飲み、そのすべての労苦の中に良いものを見る者⟨にとって⟩、それはエロヒムの賜物である。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "飲む"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "見る"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良いもの"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "そのすべての"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "労苦の中に"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "賜物"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それは〜である"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:33.331938708Z",
+  "model": "glm-5.2"
+}

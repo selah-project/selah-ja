@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "モシェは⟨את⟩自分の手を天に向かって伸ばした。そして濃密な闇がミツライム（エジプト）の全土に三日間あった。",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "そして伸ばした"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の手を"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "自分の手を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜があった"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "闇が"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "濃密な"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全〜に"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム（エジプト）の"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:37.349886021Z",
+  "model": "glm-5.2"
+}

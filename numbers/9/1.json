@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 9:1",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてヤハウェはシナイの荒野で、エジプトの地から出て二年目の、第一の月に、モーセに語りかけて言われた、",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして…語った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "…の荒野で"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "シナイ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "…年に"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "第二の"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "彼らが出て"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "…の地から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "…の月に"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "第一の"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言う"
+    }
+  ],
+  "timestamp": "2026-08-07T09:53:54.744310667Z",
+  "model": "glm-5.2"
+}

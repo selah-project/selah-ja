@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "慎重な者の知恵は自分の道を理解すること、愚かな者たちの愚かさは欺きだ。",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "知恵は"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "慎重な者の"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "理解すること"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "自分の道を"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "そして愚かさは"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "愚かな者たちの"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "欺き"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:07.824841644Z",
+  "model": "glm-5.2"
+}

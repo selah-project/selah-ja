@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 83,
+  "translation": "あなたの民⟨に⟩対して 彼らは巧みな 密議を 巡らし、 あなたの隠された者たち⟨に⟩対して 相談した。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "あなたの民"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "彼らは巧みに"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "密議を"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "そして相談した"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "あなたの隠された者たち"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:51.454848077Z",
+  "model": "glm-5.2"
+}

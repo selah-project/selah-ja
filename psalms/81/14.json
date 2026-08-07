@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 81,
+  "translation": "ああ、わたしの民がわたしに聞き従い、イスラエルがわたしの道において歩んでくれたなら。",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ああ〜であれば"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民が"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞き従い"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルが"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "わたしの道において"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "歩んでくれたなら"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:25.696723317Z",
+  "model": "glm-5.2"
+}

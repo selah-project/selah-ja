@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "「まことにヤハウェの御手はこの山の上に安息し、モアブはその足元に踏みつけられる — マドメナの水の中で藁が踏みつけられるように。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "安息する"
+    },
+    {
+      "surface": "יד",
+      "gloss": "御手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "〜の山の上に"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "そして踏みつけられる"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブは"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "その足元に"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "〜のように踏みつけられる"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "藁が"
+    },
+    {
+      "surface": "במי",
+      "gloss": "〜の水の中で"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "マドメナの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:41.787358440Z",
+  "model": "glm-5.2"
+}

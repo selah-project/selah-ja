@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "あなたを畏れる者たちが私を見て、喜ぶように。あなたのことばに私は希望を置いたからです。",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "あなたを畏れる者たちが"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "私を見て"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "喜ぶように"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "あなたのことばに"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "私は希望を置いた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:56.850725083Z",
+  "model": "glm-5.2"
+}

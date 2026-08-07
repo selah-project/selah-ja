@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "彼らはわたしの食物に毒草を置いた。わたしの渇きに、彼らはわたしに酢を飲ませた。",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "彼らは置いた"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "わたしの食物に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "毒草を"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "わたしの渇きに"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "彼らはわたしに飲ませた"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "酢を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:21.094528841Z",
+  "model": "glm-5.2"
+}

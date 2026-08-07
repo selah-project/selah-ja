@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "⟨彼は⟩海を乾いた地に変え、川を徒歩で渡った——そこで私たちは⟨彼に⟩喜びを覚えた。",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "変えた"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海を"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "乾いた地に"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "川を"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "渡った"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "徒歩で"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "私たちは喜びを覚えた"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨彼に⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:49:00.142399876Z",
+  "model": "glm-5.2"
+}

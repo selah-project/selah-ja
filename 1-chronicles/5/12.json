@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ヨエルがかしであり、シャファムが第二であり、ヤアナイとシャファト〈が〉バシャンに〈いた〉。",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "ヨエル"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "かし"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "そしてシャファム"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "第二"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "そしてヤアナイ"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "そしてシャファト"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "バシャンに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:10.814354191Z",
+  "model": "glm-5.2"
+}

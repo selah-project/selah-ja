@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "彼らが多くなるにしたがって、そのようにわたしに対して罪を犯した。わたしは彼らの栄光を恥に変える。",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "彼らが多くなるにしたがって"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "罪を犯した"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしに対して"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "彼らの栄光"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "恥"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "変える"
+    }
+  ],
+  "timestamp": "2026-08-07T12:18:00.287274803Z",
+  "model": "glm-5.2"
+}

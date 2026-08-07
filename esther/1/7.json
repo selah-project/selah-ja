@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 1:7",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして彼らは金の器で飲ませ、器は器ごとに異なり、王の腕にふさわしく、王のぶどう酒が豊かに⟨あった⟩。",
+  "tokens": [
+    {
+      "surface": "והשקות",
+      "gloss": "そして…飲ませ"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "…の器で"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "器は"
+    },
+    {
+      "surface": "מכלים",
+      "gloss": "器ごとに"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "異なり"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "そして…ぶどう酒"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "王の"
+    },
+    {
+      "surface": "רב",
+      "gloss": "豊かに"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "…の腕にふさわしく"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:49.856487636Z",
+  "model": "glm-5.2"
+}

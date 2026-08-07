@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "アヒトブは⟨את⟩ツァドクを生み、ツァドクは⟨את⟩アヒマアツを生んだ。",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "そしてアヒトブは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ツァドク"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ツァドク"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "そしてツァドクは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アヒマアツ"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "アヒマアツ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:19.625273986Z",
+  "model": "glm-5.2"
+}

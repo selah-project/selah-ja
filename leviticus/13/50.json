@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして祭司はその病変を⟨את⟩見て、その病変を⟨את⟩七日間隔離しなければならない。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "そして…は見る"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その病変"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "その病変"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "そして…を隔離する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その病変"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "その病変"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:08.690113367Z",
+  "model": "glm-5.2"
+}

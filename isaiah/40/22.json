@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 40:22",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "地の円穹に座し、その住民を⟨犹如⟩イナゴのように⟨見なす⟩方、天を薄い布のように張り出し、住むための天幕のようにこれを広げる方。",
+  "tokens": [
+    {
+      "surface": "הישב",
+      "gloss": "座する方"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "円穹"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "その住民を"
+    },
+    {
+      "surface": "כחגבים",
+      "gloss": "イナゴのように"
+    },
+    {
+      "surface": "הנוטה",
+      "gloss": "張り出す方"
+    },
+    {
+      "surface": "כדק",
+      "gloss": "薄い布のように"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天を"
+    },
+    {
+      "surface": "וימתחם",
+      "gloss": "これを広げる"
+    },
+    {
+      "surface": "כאהל",
+      "gloss": "天幕のように"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "住むために"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:12.677142258Z",
+  "model": "glm-5.2"
+}

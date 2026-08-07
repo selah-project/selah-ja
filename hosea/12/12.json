@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 12:12",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "もしギルアドが不義であれば、まことに彼らは虚しくなった。ギルガルで雄牛をほふりいけにえ、彼らの祭壇は畑のうねの上の石積みのようになる。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ギルアドが"
+    },
+    {
+      "surface": "און",
+      "gloss": "不義であれば"
+    },
+    {
+      "surface": "אך",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "虚しく"
+    },
+    {
+      "surface": "היו",
+      "gloss": "彼らは…なった"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ギルガルで"
+    },
+    {
+      "surface": "שורים",
+      "gloss": "雄牛を"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "彼らはほふりいけにえとして"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "彼らの祭壇は"
+    },
+    {
+      "surface": "כגלים",
+      "gloss": "石積みのようになる"
+    },
+    {
+      "surface": "על",
+      "gloss": "～の上に"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "うねの"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "畑の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:15.851269680Z",
+  "model": "glm-5.2"
+}

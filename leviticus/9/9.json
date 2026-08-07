@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 9:9",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "アハロンの子らは⟨את⟩血を彼のもとに近づけた。彼は指を血に浸し、⟨それ⟩を祭壇の角の上に置き、⟨את⟩血は祭壇の土台に注いだ。",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "近づけた"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロンの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼のもとに"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "浸し"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "指を"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "血に"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "置き"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "角の"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "注いだ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "土台"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:22.655653374Z",
+  "model": "glm-5.2"
+}

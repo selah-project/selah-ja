@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "それらは金よりも、そう、多量の純金よりも慕わしい。蜜よりも、蜜蜂の巣の滴りよりも甘い。",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "慕わしい"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "金よりも"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "純金よりも"
+    },
+    {
+      "surface": "רב",
+      "gloss": "多量の"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "甘い"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "蜜よりも"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "滴りよりも"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "蜜蜂の巣の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:56.924781045Z",
+  "model": "glm-5.2"
+}

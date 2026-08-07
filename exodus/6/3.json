@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "私はアヴラハムに、イツハクに、そしてヤアコブに、エル・シャッダイとして現れた。だが私の名ヤハウェによっては、私は彼らに知られなかった。",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "そして…現れた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アヴラハム"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イツハク"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜に"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "באל",
+      "gloss": "〜として"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "シャッダイ"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "しかし私の名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "私は知られなかった"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:48.329558914Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 7:10",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして彼らは来て、町の門番に呼びかけ、彼らに告げて言った、「私たちはアラムの陣営に行った。すると見よ、そこには人がいず、人の声もなかった。ただ馬がつながれ、ろばがつながれ、天幕はもとのままであった」。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "そして彼らは来た"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "そして呼びかけた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門番"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町の"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "私たちは行った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "陣営"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラムの"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "すると見よ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "そして声も"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜のみ"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "つながれ"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "そしてろば"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "つながれ"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "そして天幕"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のままで"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼らは"
+    }
+  ],
+  "timestamp": "2026-08-07T11:12:53.500455041Z",
+  "model": "glm-5.2"
+}

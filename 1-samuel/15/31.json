@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そしてサムエルはサウルの後について戻り、サウルはヤハウェに伏し拝いた。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして戻った"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "サムエルは"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "〜の後について"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウル"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "そして伏し拝いた"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "サウルは"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:45.016784226Z",
+  "model": "glm-5.2"
+}

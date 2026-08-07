@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "わたしは彼の面前から彼の敵を打ち砕き、彼を憎む者どもを打ち倒す",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "わたしは…打ち砕き"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "彼の面前から"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "彼の敵"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "彼を憎む者どもを"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "打ち倒す"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:25.640641640Z",
+  "model": "glm-5.2"
+}

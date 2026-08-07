@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "あなたの悪は大きくないのか。あなたの咎々には終わりがないのではないか。",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "あなたの悪は"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "大きく"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "終わりが"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "あなたの咎々には"
+    }
+  ],
+  "timestamp": "2026-08-07T13:25:08.994974863Z",
+  "model": "glm-5.2"
+}

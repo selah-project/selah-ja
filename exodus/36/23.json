@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そして彼は⟨את⟩幕屋の板を作った — 南側、南の方に向かって二十枚の板を。",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַשׂ",
+      "gloss": "そして彼は…作った"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "幕屋の板"
+    },
+    {
+      "surface": "הַקְּרָשִׁ֖ים",
+      "gloss": "板"
+    },
+    {
+      "surface": "לַמִּשְׁכָּ֑ן",
+      "gloss": "幕屋の"
+    },
+    {
+      "surface": "עֶשְׂרִ֣ים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "קְרָשִׁ֔ים",
+      "gloss": "板"
+    },
+    {
+      "surface": "לִפְאַ֖ת",
+      "gloss": "〜の側に"
+    },
+    {
+      "surface": "נֶ֥גֶב",
+      "gloss": "南"
+    },
+    {
+      "surface": "תֵּימָֽנָה",
+      "gloss": "南の方に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:58.177301395Z",
+  "model": "glm-5.2"
+}

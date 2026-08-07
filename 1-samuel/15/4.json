@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そしてシャウルは民に告げ知らせ、彼らを点検した — テライムで。二十万の歩兵、そしてユダの人々 ⟨את⟩一万。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "そして告げ知らせた"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "そして点検した"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "テライムで"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "二百"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "歩兵"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "そして十"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ユダの人々"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人々"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:25.468601547Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして私はあなたがたに言った、恐れさせてはならない、彼らを恐れてはならない、と。",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "そして私は言った"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "あなたがたに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "恐れさせてはならない"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "また〜ない"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "恐れてはならない"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "彼らを"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:57.098981382Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼は自分の手をその供物の頭の上に置き、会見の天幕の前でそれを屠らなければならない。そしてアハロンの子らはその血を祭壇の周りに振りかけなければならない。",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "そして…置かなければならない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の手"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "彼の供物の"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "そして…屠らなければならない"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…の前で"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "会見の"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "そして…振りかけなければならない"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その血"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "その血"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周りに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:31:01.899380905Z",
+  "model": "glm-5.2"
+}

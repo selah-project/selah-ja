@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "昼は雲によって彼らを導き、夜のすべての時間を火の光において⟨過ごさせた⟩。",
+  "tokens": [
+    {
+      "surface": "וַיַּנְחֵ֣ם",
+      "gloss": "導き"
+    },
+    {
+      "surface": "בֶּעָנָ֣ן",
+      "gloss": "雲によって"
+    },
+    {
+      "surface": "יוֹמָ֑ם",
+      "gloss": "昼"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הַ֝לַּיְלָה",
+      "gloss": "夜の"
+    },
+    {
+      "surface": "בְּא֣וֹר",
+      "gloss": "光において"
+    },
+    {
+      "surface": "אֵֽשׁ",
+      "gloss": "火の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:54:31.621632325Z",
+  "model": "glm-5.2"
+}

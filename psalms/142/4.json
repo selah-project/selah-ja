@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 142,
+  "translation": "私の霊が私の上に覆いかかるとき、あなたは私の道を知っておられる。私が歩むこの道に、彼らは私のために罠を隠した。",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "覆いかかるとき"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "私の上に"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "私の霊が"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "そしてあなたは"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "知っておられる"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "私の道を"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "道において"
+    },
+    {
+      "surface": "זו",
+      "gloss": "この"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "私が歩む"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "彼らは隠した"
+    },
+    {
+      "surface": "פח",
+      "gloss": "罠を"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:25.182428816Z",
+  "model": "glm-5.2"
+}

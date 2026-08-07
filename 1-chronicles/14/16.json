@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてダビデはエロヒムが彼に命じたとおりに行い、彼らは⟨את⟩ペリシテ人の宿営をギブオンからゲゼルまで打った。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…とおりに"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "彼に命じた"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムが"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "そして…打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "宿営"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "宿営を"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人の"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "ギブオンから"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "ゲゼル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:33.037184316Z",
+  "model": "glm-5.2"
+}

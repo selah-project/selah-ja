@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 3:4",
+  "book": "zephaniah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "その預言者たちは浮薄な者、裏切りの人々、その祭司たちは聖なるものを汚し、トーラーに暴行を働いた。",
+  "tokens": [
+    {
+      "surface": "נביאיה",
+      "gloss": "その預言者たちは"
+    },
+    {
+      "surface": "פחזים",
+      "gloss": "浮薄な者"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "人々"
+    },
+    {
+      "surface": "בגדות",
+      "gloss": "裏切りの"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "その祭司たちは"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "汚し"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なるもの"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "暴行を働いた"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "トーラー"
+    }
+  ],
+  "timestamp": "2026-08-07T12:29:50.558655727Z",
+  "model": "glm-5.2"
+}

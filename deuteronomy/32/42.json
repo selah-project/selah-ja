@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 32:42",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "わたしはわたしの矢を血で酔わせ、わたしのつるぎは肉を食らう — 刺し貫かれた者の血と捕虜から、敵の長たちの頭に至るまで。",
+  "tokens": [
+    {
+      "surface": "אשכיר",
+      "gloss": "わたしは酔わせる"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "わたしの矢を"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "血で"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "そしてわたしのつるぎは"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食らう"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉を"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "…の血から"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "刺し貫かれた者の"
+    },
+    {
+      "surface": "ושביה",
+      "gloss": "そして捕虜の"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "…の頭から"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "長たちの"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "敵の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:21:30.455905133Z",
+  "model": "glm-5.2"
+}

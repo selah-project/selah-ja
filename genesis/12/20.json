@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてパロは彼について人々に命じ、彼を送り出した。⟨את⟩彼の妻と、⟨את⟩彼のすべてのものと一緒に。",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "そして……命じた"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼について"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロは"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人々に"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "そして彼らは送り出した"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "彼の妻"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "彼の妻"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "彼のすべてのもの"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……のもの"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼にある"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:34.247017829Z",
+  "model": "glm-5.2"
+}

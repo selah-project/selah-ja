@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 72,
+  "translation": "そして彼が治める、海から海まで、そして川から地の果てまで。",
+  "tokens": [
+    {
+      "surface": "ומנהר",
+      "gloss": "そして川から"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "果て"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:57.082181859Z",
+  "model": "glm-5.2"
+}

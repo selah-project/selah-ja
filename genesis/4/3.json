@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして日々の終わりに ⟨なった⟩、カインが土の産物のうちからミンハーをヤハウェの⟨ために⟩持って来た。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして⟨なった⟩"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "終わりに"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々の"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "持って来た"
+    },
+    {
+      "surface": "קין",
+      "gloss": "カインが"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "産物のうちから"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土の"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ミンハーを"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェの⟨ために⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T17:42:29.650427066Z",
+  "model": "glm-5.2"
+}

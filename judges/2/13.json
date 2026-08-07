@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "彼らは⟨את⟩ヤハウェを捨てて、バアルとアシュタロテに仕えた。",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "そして彼らは捨てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "そして彼らは仕えた"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "バアルに"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "そしてアシュタロテに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:31:52.513938794Z",
+  "model": "glm-5.2"
+}

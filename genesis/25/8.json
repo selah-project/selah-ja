@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてアブラハムは息を引き取り、満ちたりた老いをもって死んだ。老人として、満足して。そして彼の民のもとに集められた。",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "そして息を引き取り"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "…死んだ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハムは"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "老いをもって"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "満ちたりた"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "老人として"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "そして満足して"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "そして集められた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…のもとに"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "彼の民"
+    }
+  ],
+  "timestamp": "2026-08-07T08:58:23.872744898Z",
+  "model": "glm-5.2"
+}

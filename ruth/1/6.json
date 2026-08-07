@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 1:6",
+  "book": "ruth",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "すると彼女は立ち上がり、ふたりの嫁たちと共に、モアブの野から戻ろうとした。彼女がモアブの野で聞いたからである――ヤハウェが⟨את⟩民を顧みて、彼らにパンを与えられたことを。",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "すると…立ち上がり"
+    },
+    {
+      "surface": "היא",
+      "gloss": "彼女は"
+    },
+    {
+      "surface": "וכלתיה",
+      "gloss": "と…嫁たち"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "…戻った"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "…から…の野"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "…聞いた"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "…で…の野"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ということを"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "…顧みた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "民を"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "…与えるために"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンを"
+    }
+  ],
+  "timestamp": "2026-08-07T13:34:54.848674688Z",
+  "model": "glm-5.2"
+}

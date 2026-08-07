@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 18:28",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "彼らは大声で呼ばわり、彼らの慣習にしたがって剣や槍で身を切り刻んだ。血が彼らの上に流れ出るまで。",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "そして呼ばわった"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "声で"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大きな"
+    },
+    {
+      "surface": "ויתגדדו",
+      "gloss": "そして身を切り刻んだ"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "彼らの慣習にしたがって"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "剣や"
+    },
+    {
+      "surface": "וברמחים",
+      "gloss": "槍で"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "流れ出る"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血が"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "彼らの上に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:07.518039600Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "誰が私のために悪をなす者たちと共に立つか。誰が私のために不義を行う者たちと共に立ち向かうか。",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "יק֣וּם",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "לִ֭י",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "מְרֵעִ֑ים",
+      "gloss": "悪をなす者たち"
+    },
+    {
+      "surface": "מִֽי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "יִתְיַצֵּ֥ב",
+      "gloss": "立ちはだかる"
+    },
+    {
+      "surface": "לִ֝י",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "פֹּ֥עֲלֵי",
+      "gloss": "行う者たち"
+    },
+    {
+      "surface": "אָֽוֶן",
+      "gloss": "不義"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:22.215801238Z",
+  "model": "glm-5.2"
+}

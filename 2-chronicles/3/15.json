@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "彼は家の前に二本の柱を作った。長さは三十五アンマ、そしてその頂上にある柱頭は五アンマであった。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は作った"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "柱を"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二本の"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "および五"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長さ"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "そしてその柱頭を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜は"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "その頂上"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    }
+  ],
+  "timestamp": "2026-08-07T14:10:24.787160599Z",
+  "model": "glm-5.2"
+}

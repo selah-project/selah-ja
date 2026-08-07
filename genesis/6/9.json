@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "これこそノアの系図。ノアは義なる人、彼の世代において全き者であった。ノアは⟨את⟩エロヒムと共に歩んだ。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "系図"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノアの"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノアは"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義なる"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "全き者"
+    },
+    {
+      "surface": "היה",
+      "gloss": "であった"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "彼の世代において"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エロヒム"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "歩んだ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノアは"
+    }
+  ],
+  "timestamp": "2026-08-07T08:48:41.659673663Z",
+  "model": "glm-5.2"
+}

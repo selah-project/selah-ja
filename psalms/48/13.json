@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "ツィヨンを巡れ、そして⟨彼女⟩を囲め、彼女の塔を数えよ。",
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "巡れ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ツィヨン"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "そして⟨彼女⟩を囲め"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "数えよ"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "彼女の塔"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:36.587750915Z",
+  "model": "glm-5.2"
+}

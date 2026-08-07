@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "私の皮と私の肉に、骨がへばりついた。私は歯の皮で逃れを得た。",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "私の皮に"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "そして私の肉に"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "へばりついた"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "私の骨が"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "私は逃れを得た"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "〜の皮で"
+    },
+    {
+      "surface": "שני",
+      "gloss": "歯の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:25:07.792176714Z",
+  "model": "glm-5.2"
+}

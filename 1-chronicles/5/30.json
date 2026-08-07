@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "エルアザルは⟨את⟩ピンハスを生み、ピンハスは⟨את⟩アビシュアを生んだ。",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "エルアザル"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "…を生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ピンハス"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ピンハス"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ピンハス"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "…を生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アビシュア"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "アビシュア"
+    }
+  ],
+  "timestamp": "2026-08-07T14:01:21.850489461Z",
+  "model": "glm-5.2"
+}

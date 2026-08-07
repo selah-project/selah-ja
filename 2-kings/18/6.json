@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 18:6",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "彼はヤハウェにすがりつき、ヤハウェの後から離れず、ヤハウェがモシェに命じられた ⟨את⟩ 命令を守った。",
+  "tokens": [
+    {
+      "surface": "וידבק",
+      "gloss": "すがりつき"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ず"
+    },
+    {
+      "surface": "סר",
+      "gloss": "離れ"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "ヤハウェの後から"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "守った"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "命令を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…を"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モシェ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:03.912492126Z",
+  "model": "glm-5.2"
+}

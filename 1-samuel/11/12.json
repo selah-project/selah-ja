@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして民はシュムエルに言った——「シャウルが我々の上に王となる、と言った者はだれか。その男たちを引き渡せ。我々は彼らを殺す」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエル"
+    },
+    {
+      "surface": "מי",
+      "gloss": "だれか"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "言った（者は）"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "王となる"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "我々の上に"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "引き渡せ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "その男たちを"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "そして我々は殺す"
+    }
+  ],
+  "timestamp": "2026-08-07T10:42:16.800086845Z",
+  "model": "glm-5.2"
+}

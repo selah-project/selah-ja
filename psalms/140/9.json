@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 140,
+  "translation": "与えないでください、ヤハウェ、悪者の欲望を。その企てを成功させないでください、彼らが高ぶる〈ことのない〉ように。セラ",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "与えないでください"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "欲望を"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者の"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "その企てを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "成功させないでください"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "彼らが高ぶる"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:11.696227510Z",
+  "model": "glm-5.2"
+}

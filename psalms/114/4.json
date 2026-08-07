@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 114,
+  "translation": "山々は雄羊のように踊った、丘々は群れの子のように、",
+  "tokens": [
+    {
+      "surface": "הֶֽ֭הָרִים",
+      "gloss": "山々は"
+    },
+    {
+      "surface": "רָקְד֣וּ",
+      "gloss": "踊った"
+    },
+    {
+      "surface": "כְאֵילִ֑ים",
+      "gloss": "雄羊のように"
+    },
+    {
+      "surface": "גְּ֝בָע֗וֹת",
+      "gloss": "丘々は"
+    },
+    {
+      "surface": "כִּבְנֵי",
+      "gloss": "…の子のように"
+    },
+    {
+      "surface": "צֹֽאן",
+      "gloss": "群れ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:33.418517147Z",
+  "model": "glm-5.2"
+}

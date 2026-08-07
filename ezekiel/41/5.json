@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "そして彼は⟨その⟩家の壁を測った。六アンマであり、そして側室の幅は四アンマで、家の周囲にぐるりと回っていた。",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "そして彼は測った"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "壁"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "その家の"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "そして幅"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "その側室の"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲に"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ぐるりと"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "その家の"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "回って"
+    }
+  ],
+  "timestamp": "2026-08-07T17:10:43.953516818Z",
+  "model": "glm-5.2"
+}

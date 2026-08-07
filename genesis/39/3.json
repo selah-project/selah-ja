@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "彼の主人は見た、ヤハウェが彼と共におられることを。そして彼が行うすべてのことを、ヤハウェはその手において成功させておられる、と。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "彼の主人は"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行う"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "成功させておられる"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "彼の手において"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:46.547683114Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてベニヤミンとユダの子らの中から、ダビデのもと、要塞まで来た。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜の中から"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ベニヤミン"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "とユダ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "要塞へ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ダビデのもとへ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:31.302111169Z",
+  "model": "glm-5.2"
+}

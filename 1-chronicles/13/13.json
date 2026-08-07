@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてダビデは ⟨את⟩ 箱を自分のところへ、ダビデの町へ移さなかった。しかしそれをガテ人 オベデ・エドムの家へ向けさせた。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "移した"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "箱を"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "箱を"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "自分のところへ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "向かわせた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "オベデ・"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "エドムの"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "ガテ人の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:04.669068866Z",
+  "model": "glm-5.2"
+}

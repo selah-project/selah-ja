@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "死者のために泣くな、また彼のために揺り動かされるな、むしろ去って行く者のために激しく泣け、彼は決して戻らず、⟨もはや⟩ ⟨את⟩ 自分の生誕の地を見ない〈からだ〉。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "泣く"
+    },
+    {
+      "surface": "למת",
+      "gloss": "死者のために"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜な"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "揺り動かされる"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "泣け"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "泣け"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "去って行く者のために"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも\/だから"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "戻る"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "そして見る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "自分の生誕の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:47:42.935659866Z",
+  "model": "glm-5.2"
+}

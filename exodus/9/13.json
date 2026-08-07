@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 9:13",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてヤハウェはモーセに言われた――朝早く立ち、パロの前に立って、彼に言え。「こう言われる、ヘブライ人のエロヒム、ヤハウェは。⟨את⟩私の民を去らせ、彼らが私に仕えるように」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "早く立ち"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "והתיצב",
+      "gloss": "そして立て"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "そして言え"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "〜のエロヒム"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ヘブライ人"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "去らせよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の民"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "私の民"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "そして彼らは私に仕える"
+    }
+  ],
+  "timestamp": "2026-08-07T09:16:27.376712390Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "私は生きている——アドナイ・ヤハウェの御告げ——あなたたちがイスラエルの中でこのたとえを再用する⟨こと⟩は、もはやない。",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "生きている"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⋯である"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちに"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや⋯ない"
+    },
+    {
+      "surface": "משל",
+      "gloss": "たとえる"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "たとえ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルの中で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:05:29.487961774Z",
+  "model": "glm-5.2"
+}

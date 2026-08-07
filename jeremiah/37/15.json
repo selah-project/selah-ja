@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 37:15",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そして長官たちはエレミヤに向かって怒り、彼を打ち、彼を獄屋に置いた — 書記ヨナタンの家に。彼らがそれを獄屋としていたからである。",
+  "tokens": [
+    {
+      "surface": "ויקצפו",
+      "gloss": "そして…は怒った"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "長官たちは"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に向かって"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "エレミヤ"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "そして打った"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼（エレミヤ）を"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "そして置いた"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "彼（エレミヤ）を"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家に"
+    },
+    {
+      "surface": "האסור",
+      "gloss": "拘留"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ヨナタン"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "書記"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…だから"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "それ（家）を"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "彼らは…とした"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…の家として"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "監獄"
+    }
+  ],
+  "timestamp": "2026-08-07T11:53:21.227584258Z",
+  "model": "glm-5.2"
+}

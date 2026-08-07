@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "世代 — ⟨その⟩歯は剣、⟨その⟩臼歯はナイフ、地の苦しむ者を、人の中の乏しき者を食らうために。",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "剣"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "歯は"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "ナイフ"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "臼歯は"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "食らうために"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "苦しむ者を"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "乏しき者を"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "人の中の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:16.097281094Z",
+  "model": "glm-5.2"
+}

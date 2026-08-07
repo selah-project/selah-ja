@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "歌は私のものとなった、あなたの定めは、私の寄留の家で。",
+  "tokens": [
+    {
+      "surface": "זְ֭מִרוֹת",
+      "gloss": "歌は"
+    },
+    {
+      "surface": "הָֽיוּ",
+      "gloss": "なった"
+    },
+    {
+      "surface": "לִ֥י",
+      "gloss": "私のものに"
+    },
+    {
+      "surface": "חֻקֶּ֗יךָ",
+      "gloss": "あなたの定めは"
+    },
+    {
+      "surface": "בְּבֵ֣ית",
+      "gloss": "〜の家で"
+    },
+    {
+      "surface": "מְגוּרָֽי",
+      "gloss": "私の寄留"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:36.224018179Z",
+  "model": "glm-5.2"
+}

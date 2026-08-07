@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてヤハウェはヨシュアに告げて言われた、",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "יְהוֹשֻׁעַ",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "告げて言う"
+    }
+  ],
+  "timestamp": "2026-08-07T10:30:02.110013464Z",
+  "model": "glm-5.2"
+}

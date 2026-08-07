@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてあなたの同胞の妻の⟨ところ⟩へ — あなたの性交の種を与えてはならない、彼女によって汚れるために。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "そして〜へ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "あなたの同胞"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "与えては"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "あなたの性交"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "種のために"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "汚れのために"
+    },
+    {
+      "surface": "בה",
+      "gloss": "彼女によって"
+    }
+  ],
+  "timestamp": "2026-08-07T16:30:56.110501537Z",
+  "model": "glm-5.2"
+}

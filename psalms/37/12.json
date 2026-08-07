@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "悪者は義者に対して謀り、彼に対して歯をギリギリと軋らせる。",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "謀り"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者は"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "義者に対して"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "ギリギリと軋らせる"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼に対して"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "歯を"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:36.547104851Z",
+  "model": "glm-5.2"
+}

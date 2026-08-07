@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして彼の後、エローン・ハ・ゼブローニが⟨את⟩イスラエルを裁いた。そして彼は十年間⟨את⟩イスラエルを裁いた。",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "そして…は裁いた"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "彼の後"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルを"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "エローン"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "ゼブルン人"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "そして彼は裁いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルを"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-08-07T10:35:33.746528239Z",
+  "model": "glm-5.2"
+}

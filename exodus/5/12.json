@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "こうして民はミツライム（エジプト）の全土に散らされた。藁の代わりに藁くずを集めるために。",
+  "tokens": [
+    {
+      "surface": "וַיָּפֶץ",
+      "gloss": "散らされた"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "全"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "〜の地"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "ミツライム（エジプト）の"
+    },
+    {
+      "surface": "לְקֹשֵׁשׁ",
+      "gloss": "集めるために"
+    },
+    {
+      "surface": "קַשׁ",
+      "gloss": "藁くずを"
+    },
+    {
+      "surface": "לַתֶּבֶן",
+      "gloss": "藁の代わりに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:52.239126157Z",
+  "model": "glm-5.2"
+}

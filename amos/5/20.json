@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ヤハウェの日、それは闇ではなく光ではないか。闇黒であって、そこに輝きはないのか。",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "〜ではないか"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "闇"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ではなく"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "そして闇黒"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ではなく"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "輝き"
+    },
+    {
+      "surface": "לו",
+      "gloss": "そこに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:23:09.816467194Z",
+  "model": "glm-5.2"
+}

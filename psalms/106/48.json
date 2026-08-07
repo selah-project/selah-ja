@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "ほむべきかな、ヤハウェ、イスラエルのエロヒム、とこしえからとこしへまで。そしてすべての民は言うように、アーメン。ハレル・ヤハ。",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ほむべきかな"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "〜のエロヒム"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "とこしえ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "そして〜まで"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "とこしへ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "そして言うように"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "アーメン"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ハレル（ほめよ）"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:21.980786566Z",
+  "model": "glm-5.2"
+}

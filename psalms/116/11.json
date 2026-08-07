@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 116,
+  "translation": "私は言った、私の狼狽において、「すべての人は偽り者だ」と。",
+  "tokens": [
+    {
+      "surface": "אֲנִ֗י",
+      "gloss": "私は"
+    },
+    {
+      "surface": "אָמַ֣רְתִּי",
+      "gloss": "言った"
+    },
+    {
+      "surface": "בְחָפְזִ֑י",
+      "gloss": "私の狼狽において"
+    },
+    {
+      "surface": "כָּֽל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הָאָדָ֥ם",
+      "gloss": "人は"
+    },
+    {
+      "surface": "כֹּזֵֽב",
+      "gloss": "偽り者だ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:10.257635079Z",
+  "model": "glm-5.2"
+}

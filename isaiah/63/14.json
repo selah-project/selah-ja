@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 63:14",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 63,
+  "translation": "谷に下る家畜のように、ヤハウェの霊が彼に安息を与えた。そのようにあなたは御自分の民を導き、御自分のために栄光の御名を作られた。",
+  "tokens": [
+    {
+      "surface": "כבהמה",
+      "gloss": "家畜のように"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "谷に"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "下る"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "תניחנו",
+      "gloss": "安息を与えた"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "נהגת",
+      "gloss": "あなたは導いた"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "御自分の民を"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "作るために"
+    },
+    {
+      "surface": "לך",
+      "gloss": "御自分の"
+    },
+    {
+      "surface": "שם",
+      "gloss": "御名を"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "栄光の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:38:01.257752864Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 106,
+  "translation": "そして彼らの敵が彼らを圧迫し、彼らは彼らの手の下に屈した。",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "そして圧迫した"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "彼らの敵が"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "屈した"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の下に"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "彼らの手の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:13.944073598Z",
+  "model": "glm-5.2"
+}

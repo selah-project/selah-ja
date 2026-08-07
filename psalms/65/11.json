@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 65:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 65,
+  "translation": "その畦に水をたっぷりと与え、その溝を沈み込ませる。大雨でこれを柔らかくし、その若芽を祝福する。",
+  "tokens": [
+    {
+      "surface": "תלמיה",
+      "gloss": "その畦を"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "あなたは潤す"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "あなたは沈み込ませる"
+    },
+    {
+      "surface": "גדודיה",
+      "gloss": "その溝を"
+    },
+    {
+      "surface": "ברביבים",
+      "gloss": "大雨で"
+    },
+    {
+      "surface": "תמגגנה",
+      "gloss": "あなたはこれを柔らかくする"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "その若芽を"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "あなたは祝福する"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:26.815854769Z",
+  "model": "glm-5.2"
+}

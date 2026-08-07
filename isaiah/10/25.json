@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "まだほんのわずかな時、そして憤りは終わり、わたしの怒りは⟨彼らの⟩滅びの上に⟨向く⟩。",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "ע֖וֹד",
+      "gloss": "まだ"
+    },
+    {
+      "surface": "מְעַ֣ט",
+      "gloss": "わずかな時"
+    },
+    {
+      "surface": "מִזְעָ֑ר",
+      "gloss": "極めて小さい"
+    },
+    {
+      "surface": "וְכָ֣לָה",
+      "gloss": "そして終わる"
+    },
+    {
+      "surface": "זַ֔עַם",
+      "gloss": "憤り"
+    },
+    {
+      "surface": "וְאַפִּ֖י",
+      "gloss": "わたしの怒り"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "תַּבְלִיתָֽם",
+      "gloss": "彼らの滅び"
+    }
+  ],
+  "timestamp": "2026-08-07T11:22:51.938753872Z",
+  "model": "glm-5.2"
+}

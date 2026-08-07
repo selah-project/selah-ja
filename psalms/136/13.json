@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 136,
+  "translation": "スーフの海を二つに切り分けた方に⟨向かって⟩ — まことに、とこしえに〈終わることのない〉彼のヘセドはある。",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "切り分けた方に"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海を"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "スーフの"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "二つに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "彼のヘセドは"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:09.638864584Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "知者は恐れ、悪から離れる。愚か者は突き進み、確信する。",
+  "tokens": [
+    {
+      "surface": "חָכָם",
+      "gloss": "知者"
+    },
+    {
+      "surface": "יָרֵא",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "וְסָר",
+      "gloss": "離れる"
+    },
+    {
+      "surface": "מֵרָע",
+      "gloss": "悪から"
+    },
+    {
+      "surface": "וּכְסִיל",
+      "gloss": "愚か者"
+    },
+    {
+      "surface": "מִתְעַבֵּר",
+      "gloss": "突き進む"
+    },
+    {
+      "surface": "וּבוֹטֵחַ",
+      "gloss": "確信する"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:23.519414762Z",
+  "model": "glm-5.2"
+}

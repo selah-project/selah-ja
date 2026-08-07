@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "指揮者へ。歌、楽器編曲の詩。エロヒムに向かって声を上げよ、全地よ。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揬者へ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "楽器編曲の詩"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "声を上げよ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "エロヒムに向かって"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地よ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:58.381661321Z",
+  "model": "glm-5.2"
+}

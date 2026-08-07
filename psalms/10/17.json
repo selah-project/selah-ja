@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "苦しみ人の願いを、あなたは聞かれた、ヤハウェ。あなたは彼らの心を整え、あなたの耳を傾けられる。",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "願いを"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "苦しみ人の"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "あなたは聞かれた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "あなたは整え"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "彼らの心を"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "あなたは傾けられる"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "あなたの耳を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:27.505152824Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 14:29",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "ヨナタンは言った。「父は⟨את⟩この地をかき乱した。どうかご覧ください。私がこの蜜を少し味わったので、私の目が輝いたことを。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ヨナタンは"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "かき乱した"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "父は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "この地を"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ご覧ください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "ארו",
+      "gloss": "輝いた"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "私の目が"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ので"
+    },
+    {
+      "surface": "טעמתי",
+      "gloss": "私が味わった"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "少し"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "蜜を"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:14.605542090Z",
+  "model": "glm-5.2"
+}

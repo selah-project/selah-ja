@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 20:11",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "預言者イェシャヤフはヤハウェに呼ばわった。そして彼は、アハズの階の上を下っていった階において、⟨את⟩影を十段の階、後ろに戻らせた。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "そして…呼ばわった"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "イェシャヤフ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "そして…戻らせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "影"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "影を"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "階の上において"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "下っていった"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "階において"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "アハズ"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "後ろに"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "段の階"
+    }
+  ],
+  "timestamp": "2026-08-07T11:17:20.723368605Z",
+  "model": "glm-5.2"
+}

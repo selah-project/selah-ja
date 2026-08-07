@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 14:24",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "朝の見張りの刻となった。ヤハウェは火と雲の柱の中からミツライムの宿営を御覧になり、ミツライムの宿営をかき乱した。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "となった"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "見張りの刻"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "朝の"
+    },
+    {
+      "surface": "וישקף",
+      "gloss": "御覧になり"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "宿営"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "柱の中から"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "ויהם",
+      "gloss": "かき乱した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ミツライムの宿営"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "宿営"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:25.097296706Z",
+  "model": "glm-5.2"
+}

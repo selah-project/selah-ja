@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "仮庵の中に七日間座さなければならない。イスラエルに生まれたすべての者は仮庵の中に座さなければならない。",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "仮庵の中に"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "あなたがたは座さなければならない"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "生まれた者"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "イスラエルに"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "座さなければならない"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "仮庵の中に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:38.066190533Z",
+  "model": "glm-5.2"
+}

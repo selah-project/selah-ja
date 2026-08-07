@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そしてイスラエルの子らの全会衆はモシェの前から出て行った。",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "そして…出て行った"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "会衆"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "…の前から"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:28.061684030Z",
+  "model": "glm-5.2"
+}

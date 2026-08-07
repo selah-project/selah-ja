@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 57,
+  "translation": "私は呼び叫ぶ、エロヒム・至高者に。私のために成し遂げるエルに。",
+  "tokens": [
+    {
+      "surface": "אֶקְרָא",
+      "gloss": "私は呼び叫ぶ"
+    },
+    {
+      "surface": "לֵאלֹהִים",
+      "gloss": "エロヒムに"
+    },
+    {
+      "surface": "עֶלְיוֹן",
+      "gloss": "至高者"
+    },
+    {
+      "surface": "לָאֵל",
+      "gloss": "エルに"
+    },
+    {
+      "surface": "גֹּמֵר",
+      "gloss": "成し遂げる"
+    },
+    {
+      "surface": "עָלָי",
+      "gloss": "私のために"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:25.692344589Z",
+  "model": "glm-5.2"
+}

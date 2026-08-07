@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "剣から私の〈נפש〉を救い出せ、犬の手から私の唯一のものを。",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "救い出せ"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "剣から"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私の〈נפש〉"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "手から"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "犬の"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "私の唯一のもの"
+    }
+  ],
+  "timestamp": "2026-08-07T19:13:06.776057143Z",
+  "model": "glm-5.2"
+}

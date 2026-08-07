@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "ウタイ——アミフドの子、オムリの子、イムリの子、バニの子、ペレツの子ら、ユダの子のうちの⟨者⟩。",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "ウタイ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "アミフド"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "オムリ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "イムリ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "バニ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ペレツ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:33.435509474Z",
+  "model": "glm-5.2"
+}

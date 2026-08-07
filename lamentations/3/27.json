@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "人が若い頃に軛を負うことは、良いことである。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "人にとって"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことは"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "負う"
+    },
+    {
+      "surface": "על",
+      "gloss": "軛"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "彼の若い頃に"
+    }
+  ],
+  "timestamp": "2026-08-07T17:29:42.977300045Z",
+  "model": "glm-5.2"
+}

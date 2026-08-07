@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてヒラムはツォル（ツロ）から出て、シュロモ（ソロモン）が彼に与えた町々を見るために来たが、それらは彼の目に正しくなかった。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "そして出た"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ヒラムは"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ツォル（ツロ）から"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見るために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "町々"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "町々を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモ（ソロモン）は"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "正しく"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "彼の目に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:01:20.147127298Z",
+  "model": "glm-5.2"
+}

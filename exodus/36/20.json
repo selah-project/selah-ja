@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そして彼は、幕屋のために、立ち上がるアカシア材の木板を⟨את⟩作った。",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַשׂ",
+      "gloss": "そして彼は作った"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "木板"
+    },
+    {
+      "surface": "הַקְּרָשִׁ֖ים",
+      "gloss": "木板"
+    },
+    {
+      "surface": "לַמִּשְׁכָּ֑ן",
+      "gloss": "幕屋のために"
+    },
+    {
+      "surface": "עֲצֵ֥י",
+      "gloss": "材の"
+    },
+    {
+      "surface": "שִׁטִּ֖ים",
+      "gloss": "アカシア"
+    },
+    {
+      "surface": "עֹמְדִֽים",
+      "gloss": "立ち上がる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:21.684725675Z",
+  "model": "glm-5.2"
+}

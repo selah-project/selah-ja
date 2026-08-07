@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてモーシェは ⟨את⟩ ⟨自分の⟩ 義父を送り出した。そして彼は ⟨自分の⟩ 道を進み、⟨自分の⟩ 地へ⟨と⟩ 去った。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして送り出した"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の義父"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "義父"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして彼は去った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨自分の⟩道を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "彼の地"
+    }
+  ],
+  "timestamp": "2026-08-07T09:19:05.804129088Z",
+  "model": "glm-5.2"
+}

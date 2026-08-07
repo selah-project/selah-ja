@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そして私は取った——⟨את⟩購入の書類を、すなわち⟨את⟩封印されたもの、規定と定め、および⟨את⟩開封されたものを。",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "そして私は取った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "購入の書類"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "書類"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "購入の"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "封印されたもの"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "封印されたもの"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "規定"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "と定め"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "開封されたもの"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "開封されたもの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:51:36.952050552Z",
+  "model": "glm-5.2"
+}

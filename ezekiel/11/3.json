@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "「近くはない、家々を建てよ」と言う者たち。「これは鍋、そして私たちは肉である。」",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "…と言う者たち"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "近くに"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "建てよ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "家々を"
+    },
+    {
+      "surface": "היא",
+      "gloss": "これは"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "鍋"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "そして私たちは"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "肉"
+    }
+  ],
+  "timestamp": "2026-08-07T12:03:25.634461319Z",
+  "model": "glm-5.2"
+}

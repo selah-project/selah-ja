@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "ドマの重荷。セイルから私に呼ばれる者が⟨ある⟩。「見張りよ、夜の⟨残りは⟩何か。見張りよ、夜の⟨残りは⟩何か。」",
+  "tokens": [
+    {
+      "surface": "מַשָּׂ֖א",
+      "gloss": "重荷"
+    },
+    {
+      "surface": "דּוּמָ֑ה",
+      "gloss": "ドマの"
+    },
+    {
+      "surface": "אֵלַי֙",
+      "gloss": "私に"
+    },
+    {
+      "surface": "קֹרֵ֣א",
+      "gloss": "呼ばれる者が"
+    },
+    {
+      "surface": "מִשֵּׂעִ֔יר",
+      "gloss": "セイルから"
+    },
+    {
+      "surface": "שֹׁמֵר֙",
+      "gloss": "見張りよ"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "何か"
+    },
+    {
+      "surface": "מִלַּ֔יְלָה",
+      "gloss": "夜の"
+    },
+    {
+      "surface": "שֹׁמֵ֖ר",
+      "gloss": "見張りよ"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "何か"
+    },
+    {
+      "surface": "מִלֵּֽיל",
+      "gloss": "夜の"
+    }
+  ],
+  "timestamp": "2026-08-07T16:56:41.864058608Z",
+  "model": "glm-5.2"
+}

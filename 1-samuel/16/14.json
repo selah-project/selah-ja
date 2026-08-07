@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "そしてヤハウェの霊はシャウルから離れた。そしてヤハウェからの悪い霊が彼を恐怖させた。",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "そして霊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "離れた"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "そして彼を恐怖させた"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "霊"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜からの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:32.262163969Z",
+  "model": "glm-5.2"
+}

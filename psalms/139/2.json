@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 139,
+  "translation": "あなたは私の座ることと立つこととを知っておられ、私の思いを遠くから見分けておられる。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "知っておられる"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "私の座ること"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "と立つこと"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "見分けておられる"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "私の思いを"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "遠くから"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:16.510661594Z",
+  "model": "glm-5.2"
+}

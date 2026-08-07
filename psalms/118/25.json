@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 118,
+  "translation": "どうか、ヤハウェ、救ってください、お願いします。どうか、ヤハウェ、栄えさせてください、お願いします。",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "救ってください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "お願いします"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "栄えさせてください"
+    },
+    {
+      "surface": "נא",
+      "gloss": "お願いします"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:32.809221621Z",
+  "model": "glm-5.2"
+}

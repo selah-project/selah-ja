@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "バアシャのうちで町で死ぬ者は犬たちが食らい、野で死ぬ者は天の空の鳥が食らう。」",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "死ぬ者は"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "バアシャのうちで"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町で"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "…が食らう"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "犬たちは"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "そして死ぬ者は"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のものの"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "野で"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "…が食らう"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "鳥が"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:22.112886855Z",
+  "model": "glm-5.2"
+}

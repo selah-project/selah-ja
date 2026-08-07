@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "モーシェは ⟨את⟩ 杖を取った、ヤハウェの御前から、彼に命じられたように。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "取った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "杖"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "杖"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "〜の御前から"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "彼に命じられた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:59:06.859599307Z",
+  "model": "glm-5.2"
+}

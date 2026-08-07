@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 90,
+  "translation": "山々が生まれる前に、あなたが地と世界を生み出す前から、永遠から永遠まで、あなたはエル。",
+  "tokens": [
+    {
+      "surface": "בְּטֶרֶם",
+      "gloss": "前に"
+    },
+    {
+      "surface": "הָרִים",
+      "gloss": "山々が"
+    },
+    {
+      "surface": "יֻלָּדוּ",
+      "gloss": "生まれる"
+    },
+    {
+      "surface": "וַתְּחוֹלֵל",
+      "gloss": "あなたが生み出す"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "地と"
+    },
+    {
+      "surface": "וְתֵבֵל",
+      "gloss": "世界を"
+    },
+    {
+      "surface": "וּמֵעוֹלָם",
+      "gloss": "永遠から"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "עוֹלָם",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "エル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:22.292782498Z",
+  "model": "glm-5.2"
+}

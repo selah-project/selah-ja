@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "わたしはツォルの城壁に火を送る。それはその宮殿を食い尽くす。",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "わたしは送る"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火を"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "城壁に"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ツォルの"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "それは食い尽くす"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "その宮殿"
+    }
+  ],
+  "timestamp": "2026-08-07T12:20:43.516609705Z",
+  "model": "glm-5.2"
+}

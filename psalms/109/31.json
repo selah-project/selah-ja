@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 109,
+  "translation": "ヤハウェが乏しき者の右に立って、彼を、彼の性命を裁く者たちから救い出すからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〜因为"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ヤハウェは立つ"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "〜の右に"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "乏しき者の"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "救い出すために"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "〜を裁く者たちから"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "彼の性命を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:11.605602841Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 121,
+  "translation": "ヤハウェはあなたを守る方、ヤハウェはあなたの右の手のかたわらにあるあなたの影。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "あなたを守る方"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "あなたの影"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "あなたの右の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:52.477228979Z",
+  "model": "glm-5.2"
+}

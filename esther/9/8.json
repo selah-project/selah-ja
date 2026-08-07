@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "⟨את⟩ ポラタ、⟨את⟩ アダルヤ、⟨את⟩ アリダタを、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ポラタ"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "ポラタ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アダルヤ"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "アダルヤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アリダタ"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "アリダタ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:36.420386443Z",
+  "model": "glm-5.2"
+}

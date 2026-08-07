@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "あなたは⟨את⟩レビ人をアハロンとその子らに与えよ。彼らは完全に彼に与えられた者、イスラエルの子らから⟨彼に⟩。",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "あなたは与える"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レビ人"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "アハロンに"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "その子らに"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "与えられた"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "与えられた"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T09:49:30.817393777Z",
+  "model": "glm-5.2"
+}

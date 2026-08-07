@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "荒野に呼ばわる者の声：「荒野にヤハウェの道を整えよ、平地にわれらのエロヒムの大路を平らにせよ。」",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "呼ばわる者の"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野に"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "整えよ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "〜の道"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "平らにせよ"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "平地に"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "大路"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "われらのエロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:15.324541325Z",
+  "model": "glm-5.2"
+}

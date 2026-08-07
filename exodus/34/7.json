@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 34:7",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "ヘセドを数千⟨の世代⟩まで守り、咎とそむきと罪を担い、完全に免じることはしない⟨方⟩。父祖たちの咎を子らの上に、子らの子らの上に、第三代および第四代にまで尋ねられる。",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "守り"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ヘセドを"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "数千"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "担ぎ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "咎"
+    },
+    {
+      "surface": "ופשע",
+      "gloss": "とそむき"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "と罪を"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "そして免じる"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "完全に"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "尋ねられる"
+    },
+    {
+      "surface": "עון",
+      "gloss": "咎を"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "父祖たちの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "および〜の上に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子らの"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "第三代"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "および〜に"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "第四代"
+    }
+  ],
+  "timestamp": "2026-08-07T09:27:43.847850847Z",
+  "model": "glm-5.2"
+}

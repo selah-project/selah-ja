@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 108,
+  "translation": "誰がわたしを導き入れるのか、要害の都市に。誰がわたしを導くのか、エドムまで。",
+  "tokens": [
+    {
+      "surface": "מִ֣י",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "יֹ֭בִלֵנִי",
+      "gloss": "わたしを導き入れるのか"
+    },
+    {
+      "surface": "עִ֣יר",
+      "gloss": "都市"
+    },
+    {
+      "surface": "מִבְצָ֑ר",
+      "gloss": "要害の"
+    },
+    {
+      "surface": "מִ֖י",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "נָחַ֣נִי",
+      "gloss": "わたしを導くのか"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "אֱדֽוֹם",
+      "gloss": "エドム"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:53.814474216Z",
+  "model": "glm-5.2"
+}

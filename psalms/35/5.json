@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "彼らが風の前のもみがらとなるように、ヤハウェの御使いが ⟨彼らを⟩ 追い散らすように。",
+  "tokens": [
+    {
+      "surface": "יִֽהְי֗וּ",
+      "gloss": "彼らが〜となるように"
+    },
+    {
+      "surface": "כְּמֹ֥ץ",
+      "gloss": "もみがら"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "ר֑וּחַ",
+      "gloss": "風"
+    },
+    {
+      "surface": "וּמַלְאַ֖ךְ",
+      "gloss": "御使いが"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "דּוֹחֶֽה",
+      "gloss": "追い散らす"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:48.126732109Z",
+  "model": "glm-5.2"
+}

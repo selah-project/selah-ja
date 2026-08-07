@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 116,
+  "translation": "私の誓いをヤハウェに私は果たす、否や、 ⟨彼の⟩すべての民の面前で。",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "私の誓いを"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "私は果たす"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "⋯の面前で"
+    },
+    {
+      "surface": "נא",
+      "gloss": "否や"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨彼の⟩民"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:15.999973534Z",
+  "model": "glm-5.2"
+}

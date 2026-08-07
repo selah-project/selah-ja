@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そしてヤハウェはモシェに言った——なぜわたしに向かって叫ぶのか。イスラエルの子らに語れ、そして彼らは旅立て。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "あなたは叫ぶのか"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "わたしに向かって"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "そして彼らは旅立て"
+    }
+  ],
+  "timestamp": "2026-08-07T09:18:17.561274260Z",
+  "model": "glm-5.2"
+}

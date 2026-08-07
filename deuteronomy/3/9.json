@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "ツィドニムはそれをレバノンの頂としてシリヨンと呼び、エモリはそれをシュニルと呼んだ。（ヘルモンを）",
+  "tokens": [
+    {
+      "surface": "צִידֹנִ֛ים",
+      "gloss": "ツィドニム"
+    },
+    {
+      "surface": "יִקְרְא֥וּ",
+      "gloss": "呼んだ"
+    },
+    {
+      "surface": "לְחֶרְמ֖וֹן",
+      "gloss": "ヘルモンを"
+    },
+    {
+      "surface": "שִׂרְיֹ֑ן",
+      "gloss": "シリヨン"
+    },
+    {
+      "surface": "וְהָ֣אֱמֹרִ֔י",
+      "gloss": "そしてエモリは"
+    },
+    {
+      "surface": "יִקְרְא֥וּ",
+      "gloss": "呼んだ"
+    },
+    {
+      "surface": "ל֖וֹ",
+      "gloss": "それを"
+    },
+    {
+      "surface": "שְׂנִֽיר",
+      "gloss": "シュニル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:12.129257011Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "知恵ある子 ― 父の訓戒、そしてあざける者は叱責を聞かない。",
+  "tokens": [
+    {
+      "surface": "בֵּן",
+      "gloss": "子"
+    },
+    {
+      "surface": "חָכָם",
+      "gloss": "知恵ある"
+    },
+    {
+      "surface": "מוּסַר",
+      "gloss": "訓戒"
+    },
+    {
+      "surface": "אָב",
+      "gloss": "父の"
+    },
+    {
+      "surface": "וְלֵץ",
+      "gloss": "そしてあざける者は"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שָׁמַע",
+      "gloss": "聞く"
+    },
+    {
+      "surface": "גְּעָרָה",
+      "gloss": "叱責"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:19.917181773Z",
+  "model": "glm-5.2"
+}

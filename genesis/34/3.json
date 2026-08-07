@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そして彼のネフェシュは、ヤアコブの娘ディナに固く付いた。そして彼は⟨את⟩その若い女を愛した。そして彼はその若い女の心に語りかけた。",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "そして…付いた"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "彼のネフェシュ"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "ディナに"
+    },
+    {
+      "surface": "בת",
+      "gloss": "…の娘"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "そして…愛した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その若い女"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "その若い女"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "そして…語りかけた"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "その若い女の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:34.083257054Z",
+  "model": "glm-5.2"
+}

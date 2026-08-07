@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そしてユダの全民众がウジヤを取り、彼は十六歳であった。彼らは彼を父アマツヤの代わりに王に就かせた。",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "そして…取った"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民众"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ウジヤ"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "ウジヤ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子（＝歳）"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "そして…王に就かせた"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "…の代わりに"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "アマツヤ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:16:39.498342211Z",
+  "model": "glm-5.2"
+}

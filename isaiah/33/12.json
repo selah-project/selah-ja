@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そして諸国の民は石灰の燃焼となり、切り倒された茨のように、火で燃やされる。",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "諸国の民は"
+    },
+    {
+      "surface": "משרפות",
+      "gloss": "燃焼"
+    },
+    {
+      "surface": "שיד",
+      "gloss": "石灰の"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "茨"
+    },
+    {
+      "surface": "כסוחים",
+      "gloss": "切り倒された"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    },
+    {
+      "surface": "יצתו",
+      "gloss": "燃やされる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:40.793665021Z",
+  "model": "glm-5.2"
+}

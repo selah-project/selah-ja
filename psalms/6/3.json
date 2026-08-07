@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ヤハウェよ、私を恵んでください。私が弱っているからです。ヤハウェよ、私を癒してください。私の骨々が恐れ惑っているからです。",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "私を恵んでください"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "弱っている"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "私を癒してください"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "恐れ惑っている"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "私の骨々が"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:35.429942596Z",
+  "model": "glm-5.2"
+}

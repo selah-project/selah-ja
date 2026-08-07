@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 12:1",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてこれらは、祭司たちとレビ人たちである — ゼルバベル、シェアルティエルの子、およびイェシュアと共に上った者たち — シェルヤ、イルミヤ、エズラ。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たち"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "とレビ人たち"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である者たち"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "上った"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…と共に"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "ゼルバベル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "シェアルティエル"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "およびイェシュア"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "シェルヤ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "イルミヤ"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "エズラ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:57:55.752403828Z",
+  "model": "glm-5.2"
+}

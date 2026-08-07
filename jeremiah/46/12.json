@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 46:12",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "諸国は聞いた、お前の恥を。お前の叫びが地を満たした。勇士が勇士に対してつまずき、ふたりとも共に倒れたから。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聞いた"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "諸国は"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "お前の恥を"
+    },
+    {
+      "surface": "וצוחתך",
+      "gloss": "お前の叫びが"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "満たした"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士が"
+    },
+    {
+      "surface": "בגבור",
+      "gloss": "勇士に対して"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "つまずき"
+    },
+    {
+      "surface": "יחדיו",
+      "gloss": "共に"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "倒れた"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ふたりとも"
+    }
+  ],
+  "timestamp": "2026-08-07T11:56:44.588906871Z",
+  "model": "glm-5.2"
+}

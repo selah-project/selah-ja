@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてヤハウェあなたのエロヒムがそれをあなたの手に渡されると、あなたは剣の刃をもって⟨את⟩そのすべての男性を打たなければならない。",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "そして…渡される"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "あなたの手に"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "あなたは打たなければならない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "そのすべての男性"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "男性"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "刃をもって"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:26.237592097Z",
+  "model": "glm-5.2"
+}

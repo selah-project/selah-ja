@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ハダドが死に、エドムの首長たちが⟨いた⟩。ティムナの首長、アルヴァの首長、イェテトの首長。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "～が死に"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ハダド"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "～が⟨いた⟩"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "～の首長たち"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドム"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "首長"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ティムナ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "首長"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "アルヴァ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "首長"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "イェテト"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:16.915108937Z",
+  "model": "glm-5.2"
+}

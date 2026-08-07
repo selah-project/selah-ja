@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "正しい者の唇は多くの者を養う — しかし愚かな者たちは理解の欠如によって死ぬ。",
+  "tokens": [
+    {
+      "surface": "שִׂפְתֵ֣י",
+      "gloss": "唇は"
+    },
+    {
+      "surface": "צַ֭דִּיק",
+      "gloss": "正しい者の"
+    },
+    {
+      "surface": "יִרְע֣וּ",
+      "gloss": "養う"
+    },
+    {
+      "surface": "רַבִּ֑ים",
+      "gloss": "多くの者を"
+    },
+    {
+      "surface": "וֶֽ֝אֱוִילִ֗ים",
+      "gloss": "しかし愚かな者たちは"
+    },
+    {
+      "surface": "בַּחֲסַר",
+      "gloss": "〜の欠如によって"
+    },
+    {
+      "surface": "לֵ֥ב",
+      "gloss": "心"
+    },
+    {
+      "surface": "יָמֽוּתוּ",
+      "gloss": "死ぬ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:32.765915621Z",
+  "model": "glm-5.2"
+}

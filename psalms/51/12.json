@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "きよい心を私のうちに創造してください、エロヒムよ。そして確かな霊を私の内なる私に新たにしてください。",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "心を"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "きよい"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "創造してください"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "そして霊を"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "確かな"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新たにしてください"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "私の内なる私に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:56.377112149Z",
+  "model": "glm-5.2"
+}

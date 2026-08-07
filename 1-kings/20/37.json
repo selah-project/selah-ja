@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 20:37",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "すると⟨彼は⟩ほかの者を見つけ、その男に「どうか私を打ってくれ」と言った。その男が打つと、打って傷つけた。",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "すると…見つけた"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ほかの"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "הכיני",
+      "gloss": "私を打ってくれ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "すると彼は…打った"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "その男は"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "打って"
+    },
+    {
+      "surface": "ופצע",
+      "gloss": "そして傷つけた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:15.191351514Z",
+  "model": "glm-5.2"
+}

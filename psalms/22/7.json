@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして私は蛆、人間ではない。人のそしり、民の侮りである。",
+  "tokens": [
+    {
+      "surface": "וְאָנֹכִ֣י",
+      "gloss": "そして私は"
+    },
+    {
+      "surface": "תוֹלַ֣עַת",
+      "gloss": "蛆"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אִ֑ישׁ",
+      "gloss": "人間"
+    },
+    {
+      "surface": "חֶרְפַּ֥ת",
+      "gloss": "そしり"
+    },
+    {
+      "surface": "אָ֝דָ֗ם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "וּבְז֥וּי",
+      "gloss": "侮り"
+    },
+    {
+      "surface": "עָֽם",
+      "gloss": "民の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:15.303915562Z",
+  "model": "glm-5.2"
+}

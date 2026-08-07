@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "夜半に私は起き上がり、あなたの義の裁きゆえにあなたに感謝をささげる。",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "夜半に"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "私は起き上がり"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "感謝をささげる"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "על",
+      "gloss": "ゆえに"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "裁き"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "あなたの義の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:44.441609644Z",
+  "model": "glm-5.2"
+}

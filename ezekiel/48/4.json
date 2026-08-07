@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "そしてナフタリの境界に沿って、東側から海側まで、メナシェ、一つ。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "そして〜に沿って"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ナフタリの"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "側から"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "東のほう"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "側"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "海のほう"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "メナシェ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:18:49.748250584Z",
+  "model": "glm-5.2"
+}

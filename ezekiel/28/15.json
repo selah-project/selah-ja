@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 28:15",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "全き者、あなた、あなたの道において。あなたの創造された日から、不義があなたのうちに見いだされるまで。",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "全き者"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなた"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "あなたの道において"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "〜の日から"
+    },
+    {
+      "surface": "הבראך",
+      "gloss": "あなたの創造された"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "見いだされる"
+    },
+    {
+      "surface": "עולתה",
+      "gloss": "不義"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたのうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:10:20.337506870Z",
+  "model": "glm-5.2"
+}

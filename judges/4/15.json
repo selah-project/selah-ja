@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 4:15",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてヤハウェは⟨את⟩シセラと⟨את⟩すべての戦車と⟨את⟩すべての陣営を、バラクの前で、剣の口によってかき乱された。そしてシセラは戦車から降りて、足で逃げた。",
+  "tokens": [
+    {
+      "surface": "ויהם",
+      "gloss": "そしてかき乱された"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シセラ"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "シセラ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "すべての"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "その戦車"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "すべての"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "その陣営"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "〜の口によって"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前で"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "バラク"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "そして降りた"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "シセラ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜の上から"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "その戦車"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "そして逃げた"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "彼の足で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:33:03.374984480Z",
+  "model": "glm-5.2"
+}

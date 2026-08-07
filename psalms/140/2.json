@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 140,
+  "translation": "私を引き出してください、ヤハウェ、悪い人々から。暴力の人から私を守ってください。",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "私を引き出してください"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "人々から"
+    },
+    {
+      "surface": "רע",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "人から"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "暴力の"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "私を守ってください"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:28.728818182Z",
+  "model": "glm-5.2"
+}

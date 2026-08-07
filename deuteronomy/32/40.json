@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "まことに、わたしは天に向かってわたしの手を上げ、言う、わたしは永遠に生きると。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "わたしは…上げる"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に向かって"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "わたしの手"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "そして言う"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生きる"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "わたし"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "永遠に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:20:39.337398834Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして彼は言った。「恐れるな。私たちとともにいる者の方が、彼らとともにいる者よりも多いのだから。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "恐れるな"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…のだから"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多い"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…者"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "私たちとともに"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "…よりも"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "彼らとともにいる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:12:02.612482419Z",
+  "model": "glm-5.2"
+}

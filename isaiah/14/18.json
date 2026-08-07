@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "諸国の民の王は、彼らすべてが栄光のうちに眠り、おのおの⟨自分の⟩家に臥している。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מַלְכֵ֥י",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "גוֹיִ֖ם",
+      "gloss": "諸国の民の"
+    },
+    {
+      "surface": "כֻּלָּ֑ם",
+      "gloss": "彼らすべて"
+    },
+    {
+      "surface": "שָׁכְב֥וּ",
+      "gloss": "臥している"
+    },
+    {
+      "surface": "בְכָב֖וֹד",
+      "gloss": "栄光のうちに"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "בְּבֵיתֽוֹ",
+      "gloss": "彼の家に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:59.118841550Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてあなたがたは第八の年に ⟨את⟩ ⟨その⟩年を蒔き、第九の年に入るまで、その収穫が入って来るまで、古いものを食べるであろう。",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "そしてあなたがたは蒔く"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "年"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "第八の"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "そしてあなたがたは食べる"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "収穫"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "古いもの"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "第九の"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "その収穫"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたがたは食べる"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "古いものを"
+    }
+  ],
+  "timestamp": "2026-08-07T09:43:02.017282807Z",
+  "model": "glm-5.2"
+}

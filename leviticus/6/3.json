@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 6:3",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そして祭司は亜麻の衣を着け、亜麻の下穿きをその肌の上に着け、全焼の供え物を祭壇の上で食べる火が作り出す灰を取り上げ、それを祭壇のそばに置く。",
+  "tokens": [
+    {
+      "surface": "ולבש",
+      "gloss": "そして着る"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מדו",
+      "gloss": "その衣"
+    },
+    {
+      "surface": "בד",
+      "gloss": "亜麻の"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "そして下穿き"
+    },
+    {
+      "surface": "בד",
+      "gloss": "亜麻の"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "着る"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "その肌"
+    },
+    {
+      "surface": "והרים",
+      "gloss": "そして取り上げる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "灰"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "灰"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜が"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全焼の供え物"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の供え物"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "そして置く"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "〜のそばに"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    }
+  ],
+  "timestamp": "2026-08-07T09:34:03.837331689Z",
+  "model": "glm-5.2"
+}

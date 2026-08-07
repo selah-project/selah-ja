@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "イスラエルはヤハウェによって救われた、永遠の救い ⟨によって⟩。あなたたちは恥じることはない、また恥辱を受けることはない、永遠の世々に至るまで。",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "救われた"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェによって"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "救い"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "永遠の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "あなたたちは恥じる"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "また〜ない"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "恥辱を受ける"
+    },
+    {
+      "surface": "עד",
+      "gloss": "に至るまで"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "永遠の世々"
+    },
+    {
+      "surface": "עד",
+      "gloss": "に至るまで"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:19.178161629Z",
+  "model": "glm-5.2"
+}

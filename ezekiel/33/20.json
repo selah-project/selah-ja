@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "あなたたちは言う、「アドナイの道は釣り合っていない」と。各人はその道に従って、わたしはあなたたちを裁く、イスラエルの家よ。",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "そしてあなたたちは言う"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "釣り合っている"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "…の道"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "その道に従って"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "わたしは裁く"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたたち（イスラエルの家）"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:11:56.155170918Z",
+  "model": "glm-5.2"
+}

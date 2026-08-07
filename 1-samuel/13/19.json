@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 13:19",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして鍛冶はイスラエルの全地で見つからなかった。ペリシテ人が言ったからである、「〜ないように、ヘブライ人が剣や槍を作らないように」と。",
+  "tokens": [
+    {
+      "surface": "וחרש",
+      "gloss": "そして鍛冶は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "見つからなかった"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地で"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だからである"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人が"
+    },
+    {
+      "surface": "פן",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "作らない"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ヘブライ人が"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "או",
+      "gloss": "や"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "槍"
+    }
+  ],
+  "timestamp": "2026-08-07T10:42:55.371292704Z",
+  "model": "glm-5.2"
+}

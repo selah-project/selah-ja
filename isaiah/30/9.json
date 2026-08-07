@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "それは反逆する民、偽りの子ら、ヤハウェのトーラを聞くことを望まない子ら⟨だから⟩。",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "それは…だから"
+    },
+    {
+      "surface": "עַ֤ם",
+      "gloss": "民"
+    },
+    {
+      "surface": "מְרִי֙",
+      "gloss": "反逆する"
+    },
+    {
+      "surface": "ה֔וּא",
+      "gloss": "（強調）"
+    },
+    {
+      "surface": "בָּנִ֖ים",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "כֶּחָשִׁ֑ים",
+      "gloss": "偽りの"
+    },
+    {
+      "surface": "בָּנִ֕ים",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "אָב֥וּ",
+      "gloss": "望んだ"
+    },
+    {
+      "surface": "שְׁמ֖וֹעַ",
+      "gloss": "聞くことを"
+    },
+    {
+      "surface": "תּוֹרַ֥ת",
+      "gloss": "トーラ"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:27:04.272912315Z",
+  "model": "glm-5.2"
+}

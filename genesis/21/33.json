@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして⟨彼は⟩ベエル・シェバにエシェルを植え、そこでヤハウェの御名を、エル・オラム（永遠のエル）として呼んだ。",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "そして…植えた"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "エシェル（タマリスクの木）"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "…ベエルに"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "シェバ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして…呼んだ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "…御名において"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "オラム（永遠）"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:16.604833057Z",
+  "model": "glm-5.2"
+}

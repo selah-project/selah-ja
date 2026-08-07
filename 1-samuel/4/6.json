@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "ペリシテ人は歓呼の声を聞いた。そして彼らは言った。「この大いなる歓呼の声は、ヘブライ人の宿営で ⟨何⟩ か。」そして彼らは、ヤハウェの箱が宿営に来たことを知った。",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "聞いた"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "歓呼の声"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声を"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "歓呼の"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "彼らは言った"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "歓呼の"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "宿営で"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ヘブライ人の"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "知った"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱が"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "宿営に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:18.278048251Z",
+  "model": "glm-5.2"
+}

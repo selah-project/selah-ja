@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 33:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そして彼自身が彼らの前を通り、地に伏して七回拝した。彼の兄弟のところに近づくまでに。",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "そして彼自身"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "通り"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "彼らの前を"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "拝した"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地に伏して"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "回"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜までに"
+    },
+    {
+      "surface": "גשתו",
+      "gloss": "彼の近づく"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄弟"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:39.500769960Z",
+  "model": "glm-5.2"
+}

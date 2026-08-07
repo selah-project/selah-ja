@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "ヤハウェの戒めはまっすぐ、心を喜ばせる。ヤハウェのミツワは純粋、目を照らす。",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "戒めは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "まっすぐ"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "喜ばせる"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心を"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ミツワは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "純粋"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "照らす"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "目を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:56.924498894Z",
+  "model": "glm-5.2"
+}

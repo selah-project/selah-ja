@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "彼らの剣は彼らの心臓に入り、彼らの弓は折られる。",
+  "tokens": [
+    {
+      "surface": "חַ֭רְבָּם",
+      "gloss": "彼らの剣は"
+    },
+    {
+      "surface": "תָּב֣וֹא",
+      "gloss": "入る"
+    },
+    {
+      "surface": "בְלִבָּ֑ם",
+      "gloss": "彼らの心臓に"
+    },
+    {
+      "surface": "וְ֝קַשְּׁתוֹתָ֗ם",
+      "gloss": "そして彼らの弓は"
+    },
+    {
+      "surface": "תִּשָּׁבַֽרְנָה",
+      "gloss": "折られる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:17.749622396Z",
+  "model": "glm-5.2"
+}

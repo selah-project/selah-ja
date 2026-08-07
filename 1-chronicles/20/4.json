@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 20:4",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "これらの後、戦いがゲゼルでペリシュティ人と ⟨起こった⟩。その時、シブカイ・ハフシャティは ⟨את⟩ シッパイを打った — レファイムから生まれた者。そして彼らは屈服した。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…になった"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…の後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "起こった"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦いが"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "ゲゼルで"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…と"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシュティ人"
+    },
+    {
+      "surface": "אז",
+      "gloss": "その時"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "打った"
+    },
+    {
+      "surface": "סבכי",
+      "gloss": "シブカイ"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "ハフシャティは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "シッパイ"
+    },
+    {
+      "surface": "ספי",
+      "gloss": "シッパイを"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "…から生まれた者"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "レファイム"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "彼らは屈服した"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:04.122119153Z",
+  "model": "glm-5.2"
+}

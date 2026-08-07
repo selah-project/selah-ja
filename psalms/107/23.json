@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "船で海に下る者々、多くの水で業をする者々。",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "…下る者々"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "船で"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "…する者々"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "業"
+    },
+    {
+      "surface": "במים",
+      "gloss": "…で水"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多くの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:27.358734113Z",
+  "model": "glm-5.2"
+}

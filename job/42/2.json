@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 42,
+  "translation": "わたしは知っている、あなたがすべてをできることを。そして、あなたからどんな計画も阻まれることはないことを。",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "わたしは…知っている"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ことを"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべてを"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "あなたは…できる"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "阻まれる"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "あなたから"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "計画"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:11.425646894Z",
+  "model": "glm-5.2"
+}

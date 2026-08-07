@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 73,
+  "translation": "私がエルの聖所に来るまで —— そのとき私は彼らの終わりを悟った。",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "〜するまで"
+    },
+    {
+      "surface": "אָ֭בוֹא",
+      "gloss": "私が来る"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "מִקְדְּשֵׁי",
+      "gloss": "聖所の"
+    },
+    {
+      "surface": "אֵ֑ל",
+      "gloss": "エルの"
+    },
+    {
+      "surface": "אָ֝בִ֗ינָה",
+      "gloss": "私は悟った"
+    },
+    {
+      "surface": "לְאַחֲרִיתָֽם",
+      "gloss": "彼らの終わりを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:13.687080753Z",
+  "model": "glm-5.2"
+}

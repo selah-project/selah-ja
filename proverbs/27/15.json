@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "雨の日に絶えず滴る漏りと、争い好きな女は同一視される。",
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "滴り"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "絶えず"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "激しい雨の"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "そして〜の女"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "争い"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "同一視される"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:34.091651183Z",
+  "model": "glm-5.2"
+}

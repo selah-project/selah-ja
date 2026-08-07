@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "顔の猛き国民で、老人に顔を上げることなく、若者に恵みを示さない。",
+  "tokens": [
+    {
+      "surface": "גּ֖וֹי",
+      "gloss": "国民"
+    },
+    {
+      "surface": "עַ֣ז",
+      "gloss": "猛き"
+    },
+    {
+      "surface": "פָּנִ֑ים",
+      "gloss": "顔の"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "יִשָּׂ֤א",
+      "gloss": "上げる"
+    },
+    {
+      "surface": "פָנִים֙",
+      "gloss": "顔を"
+    },
+    {
+      "surface": "לְזָקֵ֔ן",
+      "gloss": "老人に"
+    },
+    {
+      "surface": "וְנַ֖עַר",
+      "gloss": "若者に"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "יָחֹֽן",
+      "gloss": "恵みを示す"
+    }
+  ],
+  "timestamp": "2026-08-07T10:20:19.477469211Z",
+  "model": "glm-5.2"
+}

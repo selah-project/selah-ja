@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "イスラエルの子らに語り、彼らに言いなさい。あなたたちのうちのだれかがヤハウェへの供え物を近づけて献げる場合、家畜から――牛の群れから、あるいは羊の群れから――あなたたちは⟨自分たちの⟩供え物を⟨את⟩献げなさい。",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "語りなさい"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "そして…言いなさい"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…の場合"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "…献げる"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "あなたたちのうちから"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "供え物"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェへの"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…から"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "牛の群れ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "そして…から"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊の群れ"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "…献げなさい"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたたちの供え物"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "あなたたちの供え物"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:55.737779538Z",
+  "model": "glm-5.2"
+}

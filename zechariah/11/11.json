@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 11:11",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてそれはその日に破棄された。そして羊の苦しみ、私を守る人々は、それ⟨は⟩ヤハウェのことばであることを知った。",
+  "tokens": [
+    {
+      "surface": "ותפר",
+      "gloss": "そしてそれは破棄された"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "その日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "そして彼らは知った"
+    },
+    {
+      "surface": "כן",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "〜の苦しみ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "守る人々"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩私を",
+      "marks": "私を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜であることを"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨それは⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T12:32:14.668416313Z",
+  "model": "glm-5.2"
+}

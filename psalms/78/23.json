@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "それでも⟨彼は⟩上方の雲に命じ、天の扉を開いた。",
+  "tokens": [
+    {
+      "surface": "וַיְצַ֣ו",
+      "gloss": "命じ"
+    },
+    {
+      "surface": "שְׁחָקִ֣ים",
+      "gloss": "雲に"
+    },
+    {
+      "surface": "מִמָּ֑עַל",
+      "gloss": "上方の"
+    },
+    {
+      "surface": "וְדַלְתֵ֖י",
+      "gloss": "扉を"
+    },
+    {
+      "surface": "שָׁמַ֣יִם",
+      "gloss": "天の"
+    },
+    {
+      "surface": "פָּתָֽח",
+      "gloss": "開いた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:27.528472940Z",
+  "model": "glm-5.2"
+}

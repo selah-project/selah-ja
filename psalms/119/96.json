@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "すべての完全なものに、私は終わりを見た。あなたの戒めはきわめて広い。",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "完全なものに"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "終わりを"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "広い"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "あなたの戒めは"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "きわめて"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:40.052871507Z",
+  "model": "glm-5.2"
+}

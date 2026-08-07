@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 146,
+  "translation": "天と地を造る方、⟨את⟩海と、⟨את⟩その中のすべてを ⟨造る方⟩。真実をとこしえまで守る方。",
+  "tokens": [
+    {
+      "surface": "עֹשֶׂ֤ה",
+      "gloss": "造る方"
+    },
+    {
+      "surface": "שָׁ֘מַ֤יִם",
+      "gloss": "天"
+    },
+    {
+      "surface": "וָאָ֗רֶץ",
+      "gloss": "と地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "海"
+    },
+    {
+      "surface": "הַיָּ֥ם",
+      "gloss": "海"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "その中のすべて"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "…の"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "その中に"
+    },
+    {
+      "surface": "הַשֹּׁמֵ֖ר",
+      "gloss": "守る方"
+    },
+    {
+      "surface": "אֱמֶ֣ת",
+      "gloss": "真実"
+    },
+    {
+      "surface": "לְעוֹלָֽם",
+      "gloss": "とこしえまで"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:34.352400299Z",
+  "model": "glm-5.2"
+}

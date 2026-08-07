@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "獣と寝るすべての者は、必ず殺されなければならない。",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "שֹׁכֵ֥ב",
+      "gloss": "寝る者"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "בְּהֵמָ֖ה",
+      "gloss": "獣"
+    },
+    {
+      "surface": "מ֥וֹת",
+      "gloss": "死"
+    },
+    {
+      "surface": "יוּמָֽת",
+      "gloss": "殺される"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:22.576598934Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして今、行け。私はあなたの口とともにあり、あなたの語るべきことを教える。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "לך",
+      "gloss": "行け"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "そして私は"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "〜であるだろう"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "あなたの口"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "そして私は教える"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところのことを"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "あなたが語る"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:01.476829826Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 30:19",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "彼は私を泥の中に投げ入れ、私は塵と灰のようになった。",
+  "tokens": [
+    {
+      "surface": "הרני",
+      "gloss": "彼は私を投げ入れられた"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "泥の中に"
+    },
+    {
+      "surface": "ואתמשל",
+      "gloss": "私は〜のようになった"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "塵のように"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "そして灰のように"
+    }
+  ],
+  "timestamp": "2026-08-07T13:27:58.820401659Z",
+  "model": "glm-5.2"
+}

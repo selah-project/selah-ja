@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 36:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そしてティムナはエサウの息子エリファズの側室であった。彼女はエリファズに⟨את⟩アマレクを産んだ。これらはエサウの妻アダの息子たちである。",
+  "tokens": [
+    {
+      "surface": "ותמנע",
+      "gloss": "そしてティムナ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "側室"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "エリファズの"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "そして彼女は産んだ"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "エリファズに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アマレク"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "アマレク"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "בני",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "アダ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:50.027368775Z",
+  "model": "glm-5.2"
+}

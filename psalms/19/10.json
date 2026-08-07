@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "ヤハウェへの恐れはきよく、とこしえに立つ。ヤハウェのミシュパティは真実、ともに義である。",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "恐れは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェへの"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "きよく"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ミシュパティは"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真実"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "義である"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ともに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:56.924699325Z",
+  "model": "glm-5.2"
+}

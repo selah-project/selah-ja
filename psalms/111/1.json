@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 111,
+  "translation": "ハレル・ヤハ。私は全き心でヤハウェに感謝する、まっすぐな人々の秘密の集会と会衆⟨において⟩。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "賛美せよ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "私は感謝する"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全き"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心で"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "〜の秘密の集会において"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "まっすぐな人々の"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "と会衆"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:52.950273256Z",
+  "model": "glm-5.2"
+}

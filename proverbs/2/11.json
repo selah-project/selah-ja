@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "思慮があなたを守り、分別があなたを保つであろう。",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "思慮"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "…が守る"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたを"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "分別"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "あなたを保つ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:45.066885843Z",
+  "model": "glm-5.2"
+}

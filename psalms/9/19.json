@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "まことに、永遠にではない、乏しき者は忘れられず、苦しむ者の希望は永遠に滅びることがない⟨ことはない⟩。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "忘れられ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "乏しき者は"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "希望は"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "苦しむ者の"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "滅びる"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "永遠に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:35:22.386805812Z",
+  "model": "glm-5.2"
+}

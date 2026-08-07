@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そしてわたしの敵は生きて ⟨いる⟩、力強く ⟨なった⟩。そしてわたしを憎む者たち、偽りによって、増え ⟨た⟩。",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "そしてわたしの敵は"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "生きて"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "力強く"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "そして増えた"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "わたしを憎む者たち"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "偽りによって"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:51.280536249Z",
+  "model": "glm-5.2"
+}

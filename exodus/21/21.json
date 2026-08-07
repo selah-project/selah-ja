@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "ただし、もし⟨彼が⟩一日ないし二日生き続けるなら、罰せられない。彼は彼の銀⟨だから⟩である。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "או",
+      "gloss": "ないし"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "二日"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "生き続ける"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "罰せられる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "彼の銀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼のもの⟨だ⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:23.842951610Z",
+  "model": "glm-5.2"
+}

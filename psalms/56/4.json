@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 56,
+  "translation": "恐れる日に、私は、あなたに信頼する。",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "日に"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "私は恐れる"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "信頼する"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:44.637269664Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "そしてヨセフは百十歳で死んだ。彼らは ⟨את⟩ 彼を香料で防腐処理し、彼を箱に納めた — ミツライム（エジプト）で。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフは"
+    },
+    {
+      "surface": "בן",
+      "gloss": "歳で"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "と十"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "彼らは防腐処理した"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 彼を",
+      "marks": "彼（ヨセフ）"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "そして納めた"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "箱に"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ミツライムで"
+    }
+  ],
+  "timestamp": "2026-08-07T09:11:35.519838970Z",
+  "model": "glm-5.2"
+}

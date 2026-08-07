@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてヤハウェは私に言われた、「彼らに言え。上ってはならない。戦ってはならない。私があなたたちの中にいないからである。あなたたちの敵の前で打ち破られてはならない」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言え"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "あなたたちは上っては"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "あなたたちは戦っては"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "私は〜ない"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "あなたたちの中に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そうでなければ〜だろう"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "あなたたちは打ち破られて"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前で"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "あなたたちの敵"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:10.263046758Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 5:8",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "肥え太った馬々、浅ましく彷徨う者たち。彼らはおのおのその隣人の妻に向かっていななきを上げた。",
+  "tokens": [
+    {
+      "surface": "סוסים",
+      "gloss": "馬々"
+    },
+    {
+      "surface": "מיזנים",
+      "gloss": "肥え太った"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "浅ましく彷徨う者たち"
+    },
+    {
+      "surface": "היו",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "妻"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "その隣人の"
+    },
+    {
+      "surface": "יצהלו",
+      "gloss": "いななきを上げた"
+    }
+  ],
+  "timestamp": "2026-08-07T14:31:51.369672392Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 12:12",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてゼブルン人エローンは死に、ゼブルンの地のアヤロンに葬られた。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして…は死んだ"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "エローン"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "ゼブルン人"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "そして…は葬られた"
+    },
+    {
+      "surface": "באילון",
+      "gloss": "アヤロンに"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "…の地に"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ゼブルン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:35:33.746607323Z",
+  "model": "glm-5.2"
+}

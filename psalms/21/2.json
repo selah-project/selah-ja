@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "ヤハウェ、あなたの力において王は喜び、あなたの救いにおいて彼はいかばかり大いに楽しむか。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "あなたの力において"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "喜び"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "あなたの救いにおいて"
+    },
+    {
+      "surface": "מה",
+      "gloss": "いかばかり"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "楽しむか"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大いに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:31.765760161Z",
+  "model": "glm-5.2"
+}

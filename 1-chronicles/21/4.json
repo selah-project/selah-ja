@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "しかし王の言葉はヨアブに対して強くなった。そしてヨアブは出て行き、全イスラエルを巡り歩いて、イェルシャライムに来た。",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "しかし…言葉は"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "強くなった"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "そして出て行き"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブは"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "巡り歩いた"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルを"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:25.108938046Z",
+  "model": "glm-5.2"
+}

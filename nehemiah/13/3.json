@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして彼らが⟨את⟩トーラーを聞いたとき、彼らは混じり集団のすべてをイスラエルから切り離した。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "彼らが聞いたとき"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "トーラーを"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "そのトーラーを"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "彼らは切り離した"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "混じり集団を"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "イスラエルから"
+    }
+  ],
+  "timestamp": "2026-08-07T13:58:02.548701797Z",
+  "model": "glm-5.2"
+}

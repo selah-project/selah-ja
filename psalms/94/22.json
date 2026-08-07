@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "そしてヤハウェは私の高きやぐらとなり、私のエロヒムは私の避け所の岩となった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜となった"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私の"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "高きやぐらとして"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "そして私のエロヒムは"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "岩として"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "私の避け所の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:57.293678914Z",
+  "model": "glm-5.2"
+}

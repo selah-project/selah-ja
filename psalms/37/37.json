@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "全き者を守り、正しき者を見よ。平和の人の終わりは⟨あるから⟩。",
+  "tokens": [
+    {
+      "surface": "שְׁמָר",
+      "gloss": "守れ"
+    },
+    {
+      "surface": "תָּ֭ם",
+      "gloss": "全き者を"
+    },
+    {
+      "surface": "וּרְאֵ֣ה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "יָשָׁ֑ר",
+      "gloss": "正しき者を"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "אַחֲרִ֖ית",
+      "gloss": "終わりが"
+    },
+    {
+      "surface": "לְאִ֣ישׁ",
+      "gloss": "〜の人に"
+    },
+    {
+      "surface": "שָׁלֽוֹם",
+      "gloss": "平和"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:33.451855306Z",
+  "model": "glm-5.2"
+}

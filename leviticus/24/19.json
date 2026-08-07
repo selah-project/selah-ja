@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして人が、もし同族人に欠陥を与えるなら、彼がしたとおり、そのように彼にされるであろう。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "そして人は"
+    },
+    {
+      "surface": "כי",
+      "gloss": "もし"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "מום",
+      "gloss": "欠陥を"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "同族人に"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜したとおり"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "彼が"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "されるであろう"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:35.475541251Z",
+  "model": "glm-5.2"
+}

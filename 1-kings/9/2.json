@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "ヤハウェがシェロモに二度目に現れた — ギブオンで彼に現れたように。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "現れた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "二度目に"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "現れた"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "ギブオンで"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:11.305564421Z",
+  "model": "glm-5.2"
+}

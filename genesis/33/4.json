@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そしてエサウは彼を出迎えるために走り、彼を抱きしめ、彼の首に倒れかかり、彼に口づけし、そして彼らは泣いた。",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "走った"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "彼を出迎えるために"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "彼を抱きしめ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "倒れかかり"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "彼の首"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "彼に口づけし"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "彼らは泣いた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:39.500882341Z",
+  "model": "glm-5.2"
+}

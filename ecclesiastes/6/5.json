@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "また太陽さえも見なかったし、また知らなかった — ⟨これ⟩には⟨あれ⟩よりも休息がある。",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "また"
+    },
+    {
+      "surface": "שֶׁ֥מֶשׁ",
+      "gloss": "太陽"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "רָאָ֖ה",
+      "gloss": "見た"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יָדָ֑ע",
+      "gloss": "知った"
+    },
+    {
+      "surface": "נַ֥חַת",
+      "gloss": "休息"
+    },
+    {
+      "surface": "לָזֶ֖ה",
+      "gloss": "これに"
+    },
+    {
+      "surface": "מִזֶּֽה",
+      "gloss": "あれよりも"
+    }
+  ],
+  "timestamp": "2026-08-07T13:40:02.269110032Z",
+  "model": "glm-5.2"
+}

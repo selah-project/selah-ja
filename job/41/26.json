@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "彼は⟨את⟩すべての高き者を見る、彼はすべての高ぶりの子らの上の王である」",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての高き者"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "高き者"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "見る"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上の"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "高ぶり"
+    }
+  ],
+  "timestamp": "2026-08-07T13:32:39.792914310Z",
+  "model": "glm-5.2"
+}

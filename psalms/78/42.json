@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "彼らは⟨את⟩御手を思い出さなかった、敵から贖い出された日を。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "彼らは思い出し"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "御手"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "御手"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜の"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "贖い出された"
+    },
+    {
+      "surface": "מני",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "צר",
+      "gloss": "敵"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:44.299634327Z",
+  "model": "glm-5.2"
+}

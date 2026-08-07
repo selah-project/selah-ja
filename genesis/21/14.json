@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 21:14",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "アブラハムは朝早く起き、パンと水の皮袋を取った。それをハガルに与え、彼女の肩に載せ、⟨את⟩ 子供も〈与え〉、彼女を去らせた。彼女は去って、ベエル・シェバの荒野で迷った。",
+  "tokens": [
+    {
+      "surface": "ושכם",
+      "gloss": "そして彼は早く起きた"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "朝に"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして彼は取った"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パン"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "と皮袋"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水の"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして彼は与えた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ハガル"
+    },
+    {
+      "surface": "שם",
+      "gloss": "彼は置いた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "彼女の肩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "子供"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "子供"
+    },
+    {
+      "surface": "וישלחה",
+      "gloss": "そして彼は彼女を去らせた"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "そして彼女は行った"
+    },
+    {
+      "surface": "ותתע",
+      "gloss": "そして彼女は迷った"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野で"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ベエル"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "・シェバの"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:02.997860697Z",
+  "model": "glm-5.2"
+}

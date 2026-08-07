@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "荒野を水の池とし、乾いた地を水の源とされる。",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "⟨彼は⟩…とされる"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "荒野を"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "…の池とし"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "地を"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "乾いた"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "…の源と"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:41.173308510Z",
+  "model": "glm-5.2"
+}

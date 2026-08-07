@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "万軍のヤハウェはこう言われる — あなたがたの道の上に、あなたがたの心を置け。",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "万軍の"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "置け"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "あなたがたの心を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "あなたがたの道"
+    }
+  ],
+  "timestamp": "2026-08-07T12:29:53.115140008Z",
+  "model": "glm-5.2"
+}

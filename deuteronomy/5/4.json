@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "顔から顔へ、ヤハウェはあなたがたと語られた。山の ⟨中⟩から、火の ⟨中⟩から。",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "顔"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "顔に向かって"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "あなたがたと"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山で"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "…の真ん中から"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    }
+  ],
+  "timestamp": "2026-08-07T10:08:26.110719800Z",
+  "model": "glm-5.2"
+}

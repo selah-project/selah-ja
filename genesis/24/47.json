@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 24:47",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "わたしは彼女に尋ねて ⟨את⟩、言った。「あなたはだれの娘ですか。」そして ⟨את⟩、彼女は答えた。「ベトエルの娘です。ナホルの子で、マルカが彼に産んだ者の。」わたしは鼻飾りを彼女の鼻に、腕輪を彼女の手に付けた。",
+  "tokens": [
+    {
+      "surface": "ואשאל",
+      "gloss": "わたしは尋ねた"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "彼女に"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "מי",
+      "gloss": "だれの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたは"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "そして彼女は言った"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "ベトエル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ナホル"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜の者"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "産んだ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "マルカ"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "わたしは付けた"
+    },
+    {
+      "surface": "הנזם",
+      "gloss": "鼻飾り"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "彼女の鼻"
+    },
+    {
+      "surface": "והצמידים",
+      "gloss": "そして腕輪"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "彼女の手"
+    }
+  ],
+  "timestamp": "2026-08-07T16:24:14.448907004Z",
+  "model": "glm-5.2"
+}

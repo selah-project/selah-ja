@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして⟨את⟩ベイト・ツルと⟨את⟩ソコと⟨את⟩アドラム⟨を建てた⟩。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ベイト・ツル"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ベイト"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ツル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "ソコ"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "ソコ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "アドラム"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "アドラム"
+    }
+  ],
+  "timestamp": "2026-08-07T14:11:58.433941663Z",
+  "model": "glm-5.2"
+}

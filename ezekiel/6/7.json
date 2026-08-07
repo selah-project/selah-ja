@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "刺し殺された者があなたがたの真中に倒れ、あなたがたはわたしがヤハウェであることを知るであろう。」",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "倒れ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "刺し殺された者が"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "あなたがたの真中に"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "あなたがたは知るであろう"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:01:03.770135506Z",
+  "model": "glm-5.2"
+}

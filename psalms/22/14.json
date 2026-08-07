@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "彼らは私に向かって口を開いた。引き裂くほえる獅子のように。",
+  "tokens": [
+    {
+      "surface": "פָּצ֣וּ",
+      "gloss": "開いた"
+    },
+    {
+      "surface": "עָלַ֣י",
+      "gloss": "私に向かって"
+    },
+    {
+      "surface": "פִּיהֶ֑ם",
+      "gloss": "彼らの口"
+    },
+    {
+      "surface": "אַ֝רְיֵ֗ה",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "טֹרֵ֥ף",
+      "gloss": "引き裂く"
+    },
+    {
+      "surface": "וְשֹׁאֵֽג",
+      "gloss": "ほえる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:23.631216725Z",
+  "model": "glm-5.2"
+}

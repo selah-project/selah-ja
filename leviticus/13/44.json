@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "ツァラアトに冒された男である。彼は汚れている。祭司は彼を汚れていると宣告する。彼の病変は頭にある。",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "男"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "ツァラアトに冒された"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れている"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れていると"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "宣告する"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司は…彼を"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "彼の頭に"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "彼の病変は…ある"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:15.033539738Z",
+  "model": "glm-5.2"
+}

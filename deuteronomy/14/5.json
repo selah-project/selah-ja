@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "鹿、かもしか、ヤマジカ、野ヤギ、ディション、野牛、およびシャモア",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "鹿"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "かもしか"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "ヤマジカ"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "野ヤギ"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ディション"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "野牛"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "シャモア"
+    }
+  ],
+  "timestamp": "2026-08-07T14:24:53.463291210Z",
+  "model": "glm-5.2"
+}

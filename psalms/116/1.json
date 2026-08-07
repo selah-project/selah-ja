@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 116,
+  "translation": "わたしは愛した、まことにヤハウェは聞いてくださったから、⟨את⟩わたしの声、わたしの嘆願を。",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "わたしは愛した"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに〜だから"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "聞いてくださった"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの声、わたしの嘆願"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "わたしの声"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "わたしの嘆願"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:09.613654320Z",
+  "model": "glm-5.2"
+}

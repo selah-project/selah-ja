@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてレハブアムはシェケムへ行った。シェケムに全イスラエルが彼を王にするために来ていたからである。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして…行った"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "レハブアム"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "シェケムへ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "シェケムに"
+    },
+    {
+      "surface": "באו",
+      "gloss": "来ていた"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "王にするために"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩彼を",
+      "marks": "彼を"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:34.527297309Z",
+  "model": "glm-5.2"
+}

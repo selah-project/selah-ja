@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "ヤハウェは低い者を支え、悪者を地の果てまで引き下げる。",
+  "tokens": [
+    {
+      "surface": "מְעוֹדֵ֣ד",
+      "gloss": "支える"
+    },
+    {
+      "surface": "עֲנָוִ֣ים",
+      "gloss": "低い者たちを"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "מַשְׁפִּ֖יל",
+      "gloss": "引き下げる"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "悪者たちを"
+    },
+    {
+      "surface": "עֲדֵי",
+      "gloss": "〜の果てまで"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T17:24:00.057700111Z",
+  "model": "glm-5.2"
+}

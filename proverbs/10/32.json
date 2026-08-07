@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "正しい者の唇は恵みを知る。しかし、悪者たちの口は曲がっている。",
+  "tokens": [
+    {
+      "surface": "שִׂפְתֵ֣י",
+      "gloss": "〜の唇は"
+    },
+    {
+      "surface": "צַ֭דִּיק",
+      "gloss": "正しい者"
+    },
+    {
+      "surface": "יֵדְע֣וּן",
+      "gloss": "知る"
+    },
+    {
+      "surface": "רָצ֑וֹן",
+      "gloss": "恵み（好意）を"
+    },
+    {
+      "surface": "וּפִ֥י",
+      "gloss": "しかし〜の口は"
+    },
+    {
+      "surface": "רְ֝שָׁעִ֗ים",
+      "gloss": "悪者たち"
+    },
+    {
+      "surface": "תַּהְפֻכֽוֹת",
+      "gloss": "曲がっている（転倒の）"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:29.706910629Z",
+  "model": "glm-5.2"
+}

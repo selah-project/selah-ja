@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "リアは言った、「幸いが来た」。そして ⟨את⟩ その名をガドと呼んだ。",
+  "tokens": [
+    {
+      "surface": "וַתֹּ֥אמֶר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לֵאָ֖ה",
+      "gloss": "リア"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "幸いが来た"
+    },
+    {
+      "surface": "וַתִּקְרָ֥א",
+      "gloss": "そして呼んだ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "その名"
+    },
+    {
+      "surface": "שְׁמ֖וֹ",
+      "gloss": "その名を"
+    },
+    {
+      "surface": "גָּֽד",
+      "gloss": "ガド"
+    }
+  ],
+  "timestamp": "2026-08-07T09:01:06.014647337Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてパロは今回も ⟨את⟩ 自分の心を重くし、 ⟨את⟩ 民を去らせなかった。",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "そして重くした"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の心"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "彼の心"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜もまた"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "〜の回に"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "去らせた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:30.377690845Z",
+  "model": "glm-5.2"
+}

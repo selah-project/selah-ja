@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "人間の愚かさ ⟨は⟩ 彼の道を歪める、そしてヤハウェに対して彼の心 ⟨は⟩ 憤る。",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "愚かさ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人間の"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "歪める"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "彼の道"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜に対して"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "憤る"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "彼の心"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:03.095207081Z",
+  "model": "glm-5.2"
+}

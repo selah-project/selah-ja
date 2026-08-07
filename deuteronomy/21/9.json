@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "あなたはあなたのうちから無実の血を除き去る。あなたがヤハウェの目に正しいことを行うためである。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "そしてあなたは"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "除き去る"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血を"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "無実の"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "あなたのうちから"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "あなたは行う"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "正しいことを"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "〜の目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:37.575762184Z",
+  "model": "glm-5.2"
+}

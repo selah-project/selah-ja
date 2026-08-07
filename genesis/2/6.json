@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "しかし霧が地から上り、 ⟨את⟩土の全面を潤していた。",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "霧が"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "上り"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "潤していた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全面を"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:06.438053478Z",
+  "model": "glm-5.2"
+}

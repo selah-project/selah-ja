@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 6:12",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "彼らの家々は他の人々のものに回され、畑も妻たちも共に。 ибо 私は⟨את⟩ 私の手を地の住民の⟨上に⟩ 伸べる、ヤハウェの御告げ。〈笔误：ибо→因为〉",
+  "tokens": [
+    {
+      "surface": "ונסבו",
+      "gloss": "回され"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "彼らの家々"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "他の人々のものに"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "畑も"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "妻たちも"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "共に"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "אטה",
+      "gloss": "私が伸べる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私の手"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "私の手を"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨上に⟩"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "住民の"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:41:35.299490041Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "指揮者へ、ギティトに合わせて。ダヴィデのミズモル。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者へ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に合わせて"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ギティト"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ミズモル"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダヴィデの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:53.170974942Z",
+  "model": "glm-5.2"
+}

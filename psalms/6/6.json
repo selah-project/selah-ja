@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "死のうちにはあなたの記憶がなく、シャオルにおいて、あなたに感謝をささげるのは誰か。",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "～だから"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "～がない"
+    },
+    {
+      "surface": "בַּמָּ֣וֶת",
+      "gloss": "死のうちに"
+    },
+    {
+      "surface": "זִכְרֶ֑ךָ",
+      "gloss": "あなたの記憶"
+    },
+    {
+      "surface": "בִּ֝שְׁא֗וֹל",
+      "gloss": "シャオルにおいて"
+    },
+    {
+      "surface": "מִ֣י",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "יֽוֹדֶה",
+      "gloss": "感謝をささげる"
+    },
+    {
+      "surface": "לָּֽךְ",
+      "gloss": "あなたに"
+    }
+  ],
+  "timestamp": "2026-08-07T17:16:35.128819778Z",
+  "model": "glm-5.2"
+}

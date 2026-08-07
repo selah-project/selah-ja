@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 14:28",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "三年の終わりに、あなたはその年のあなたの収穫の十分の一をすべて ⟨את⟩ 持ち出し、あなたの門のうちに置かなければならない。",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "〜の終わりに"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "あなたは持ち出す"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの収穫の十分の一のすべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "十分の一"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "あなたの収穫"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "年に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "והנחת",
+      "gloss": "そしてあなたは置く"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "あなたの門のうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:13:15.710988053Z",
+  "model": "glm-5.2"
+}

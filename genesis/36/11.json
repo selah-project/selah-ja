@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そしてエリファズの息子たちは⟨次のとおりで⟩あった — テマン、オマル、ツェフォ、ガタム、そしてケナズ。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "そして〜はあった"
+    },
+    {
+      "surface": "בני",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "エリファズ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "テマン"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "オマル"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "ツェフォ"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "とガタム"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "とケナズ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:50.027231024Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "彼らが生の書から塗り消され、義人たちと共に書き記されないように。",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "塗り消される"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "書から"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "生の"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人たち"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "書き記される"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:35.806058907Z",
+  "model": "glm-5.2"
+}

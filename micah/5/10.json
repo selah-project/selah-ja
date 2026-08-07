@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 5:10",
+  "book": "micah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "わたしはあなたの地の町々を断ち切り、あなたのすべての要塞を打ち壊す。",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "わたしは断ち切る"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "町々"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "あなたの地の"
+    },
+    {
+      "surface": "והרסתי",
+      "gloss": "わたしは打ち壊す"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "あなたの要塞"
+    }
+  ],
+  "timestamp": "2026-08-07T12:23:59.511619044Z",
+  "model": "glm-5.2"
+}

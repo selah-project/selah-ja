@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "私にあなたの救いの喜びを返してください。そして寛大な霊で私を支えてください。",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "返してください"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "喜びを"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "あなたの救いの"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "そして霊で"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "寛大な"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "私を支えてください"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:56.027700977Z",
+  "model": "glm-5.2"
+}

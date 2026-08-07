@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "薪が尽きれば火は消え、中傷者がいなければ争いは静まる。",
+  "tokens": [
+    {
+      "surface": "בְּאֶ֣פֶס",
+      "gloss": "〜が尽きれば"
+    },
+    {
+      "surface": "עֵ֭צִים",
+      "gloss": "薪が"
+    },
+    {
+      "surface": "תִּכְבֶּה",
+      "gloss": "消える"
+    },
+    {
+      "surface": "אֵ֑שׁ",
+      "gloss": "火は"
+    },
+    {
+      "surface": "וּבְאֵ֥ין",
+      "gloss": "〜がいなければ"
+    },
+    {
+      "surface": "נִ֝רְגָּ֗ן",
+      "gloss": "中傷者が"
+    },
+    {
+      "surface": "יִשְׁתֹּ֥ק",
+      "gloss": "静まる"
+    },
+    {
+      "surface": "מָדֽוֹן",
+      "gloss": "争いは"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:12.683647364Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 1:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして地は芽生えを出した、草を、種を蒔くものを、その種類にしたがって、そして木を、果を実らすものを、その種が⟨その中に⟩あるものを、その種類にしたがって。そしてエロヒムは見た、それは良い、と。",
+  "tokens": [
+    {
+      "surface": "ותוצא",
+      "gloss": "そして出した"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "芽生えを"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草を"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "種を蒔く"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "種を"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "その種類にしたがって"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "そして木を"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "実らす"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "その"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "種が"
+    },
+    {
+      "surface": "בו",
+      "gloss": "その中に"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "その種類にしたがって"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "～であること"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "良い"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:07.955555784Z",
+  "model": "glm-5.2"
+}

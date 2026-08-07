@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そしてガドの子らは建てた — ⟨את⟩ ディボンと、⟨את⟩ アタロトと、⟨את⟩ アロエルを。",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "そして彼らは建てた"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ガド"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ディボン"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "ディボン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アタロト"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "アタロト"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アロエル"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "アロエル"
+    }
+  ],
+  "timestamp": "2026-08-07T14:44:38.722508096Z",
+  "model": "glm-5.2"
+}

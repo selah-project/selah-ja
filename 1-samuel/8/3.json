@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼の息子たちは彼の道に歩まず、利得の後に向かってそれた。そして彼らは賄賂を取り、裁きを曲げた。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "歩んだ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "彼の息子たちは"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "彼の道に"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "そしてそれた"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "〜の後に"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "利得"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "そして彼らは取った"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "賄賂を"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "そして曲げた"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "裁きを"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:00.518514265Z",
+  "model": "glm-5.2"
+}

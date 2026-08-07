@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "彼らはその悪をもって王を喜ばせ、その偽りをもって君主たちを⟨喜ばせる⟩。",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "彼らの悪をもって"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "彼らは喜ばせる"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王を"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "彼らの偽りをもって"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "君主たちを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:18:39.862959730Z",
+  "model": "glm-5.2"
+}

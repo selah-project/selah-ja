@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "十一番目はエルヤシブ、十二番目はヤキム。",
+  "tokens": [
+    {
+      "surface": "לְאֶלְיָשִׁיב֙",
+      "gloss": "エルヤシブに"
+    },
+    {
+      "surface": "עַשְׁתֵּ֣י",
+      "gloss": "十一"
+    },
+    {
+      "surface": "עָשָׂ֔ר",
+      "gloss": "番目"
+    },
+    {
+      "surface": "לְיָקִ֖ים",
+      "gloss": "ヤキムに"
+    },
+    {
+      "surface": "שְׁנֵ֥ים",
+      "gloss": "十二"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "番目"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:32.458619849Z",
+  "model": "glm-5.2"
+}

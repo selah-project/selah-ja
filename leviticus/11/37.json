@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして彼らの死骸から⟨何か⟩が落ちても、種として蒔かれるすべての種の上に⟨落ちた⟩なら、それは清い。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "落ちる"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "彼らの死骸から"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "種"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "蒔かれるもの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "蒔かれる"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清い"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:03.917520448Z",
+  "model": "glm-5.2"
+}

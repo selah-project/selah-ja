@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 75,
+  "translation": "まことに、エロヒムは裁く方。⟨この者⟩を低くし、⟨あの者⟩を高くする。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "裁く方（である）"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨この者⟩"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "低くし"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "そして⟨あの者⟩を"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "高くする"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:20.952771708Z",
+  "model": "glm-5.2"
+}

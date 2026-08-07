@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "彼らはヤハウェの後に ⟨从う⟩。 ⟨彼⟩は獅子のように ⟨吼える⟩。まことに ⟨彼⟩が ⟨吼える⟩とき、子らは西から ⟨震える⟩。",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "…の後に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "彼らは歩む"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "獅子のように"
+    },
+    {
+      "surface": "י שאג",
+      "gloss": "彼は吼える"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "吼える"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "そして彼らは震える"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子らは"
+    },
+    {
+      "surface": "מים",
+      "gloss": "海（西）から"
+    }
+  ],
+  "timestamp": "2026-08-07T12:19:18.994797096Z",
+  "model": "glm-5.2"
+}

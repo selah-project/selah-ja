@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 81,
+  "translation": "あなたの中に⟨は⟩異なるエルがあってはならない。異邦のエルにひれ伏してはならない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "あってはならない"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたの中に"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エルが"
+    },
+    {
+      "surface": "זר",
+      "gloss": "異なる"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ひれ伏しては"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "エルに"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "異邦の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:09.589223986Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 94,
+  "translation": "そして彼らは言う、ヤハは見ない、と。そしてエロヒム、ヤアコブの、は悟らない、と。",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "そして彼らは言う"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "見"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "悟る"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "エロヒム、〜の"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコブ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:15.095846188Z",
+  "model": "glm-5.2"
+}

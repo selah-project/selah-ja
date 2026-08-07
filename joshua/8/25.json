@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてその日 ⟨に⟩ 倒れた者はすべて、男から女に至るまで一万二千人、すなわちハアイのすべての人々であった。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…であった"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "倒れた者"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…の日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "男から"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…に至るまで"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…の人々"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ハアイ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:25:10.965303359Z",
+  "model": "glm-5.2"
+}

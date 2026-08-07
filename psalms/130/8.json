@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 130,
+  "translation": "そして彼は贖い出すであろう ⟨את⟩ イスラエルを、そのすべての咎から。",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "そして彼は"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "贖い出すであろう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "そのすべての〜から"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "咎"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:33.829446867Z",
+  "model": "glm-5.2"
+}

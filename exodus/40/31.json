@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そしてそこからモーシェとアハロンとその子らが、⟨את⟩自分たちの手と⟨את⟩自分たちの足を洗った。",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "そして洗った"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェと"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "アハロンと"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "その子らが"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分たちの手"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "自分たちの手"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "自分たちの足"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "自分たちの足"
+    }
+  ],
+  "timestamp": "2026-08-07T09:30:21.806933742Z",
+  "model": "glm-5.2"
+}

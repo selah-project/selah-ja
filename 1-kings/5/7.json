@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "これらの站立する者たち⟨は⟩⟨את⟩王シェロモ、また⟨את⟩王シェロモの食卓に近づくすべての者を養い、おのおのその月に、何一つ欠かすことはなかった。",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "養い"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "站立する者たち"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王シェロモ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "また⟨את⟩",
+      "marks": "すべての者"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "近づく者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "食卓"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモの"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "その月に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "欠かす"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "何一つ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:48.388873576Z",
+  "model": "glm-5.2"
+}

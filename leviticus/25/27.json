@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "彼は売った年数を計算し、買い手に残額を返還しなければならず、そうして自分の所有地に戻る。",
+  "tokens": [
+    {
+      "surface": "וְחִשַּׁב֙",
+      "gloss": "そして計算し"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "売った年数"
+    },
+    {
+      "surface": "שְׁנֵ֣י",
+      "gloss": "年数"
+    },
+    {
+      "surface": "מִמְכָּר֔וֹ",
+      "gloss": "その売った"
+    },
+    {
+      "surface": "וְהֵשִׁיב֙",
+      "gloss": "そして返還する"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "残額"
+    },
+    {
+      "surface": "הָ֣עֹדֵ֔ף",
+      "gloss": "残額"
+    },
+    {
+      "surface": "לָאִ֖ישׁ",
+      "gloss": "その人に"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "מָֽכַר",
+      "gloss": "売った"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "וְשָׁ֖ב",
+      "gloss": "そして戻る"
+    },
+    {
+      "surface": "לַאֲחֻזָּתֽוֹ",
+      "gloss": "その所有地に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:43:36.717368844Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "だから今、行け、働け。藁はおまえたちに与えられない。それでもおまえたちはレンガの規定量を出さなければならない。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "だから今"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "行け"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "働け"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "藁は"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "与えられない"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "おまえたちに"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "それでも〜規定量"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "レンガの"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "出さなければならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:11.345751217Z",
+  "model": "glm-5.2"
+}

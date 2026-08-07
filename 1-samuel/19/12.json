@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてミカルは⟨את⟩ダビドを窓から降ろした。彼は行き、逃げ、脱出した。",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "そして彼女は降ろした"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ミカル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダビド"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビドを"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "～を通って"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "その窓"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして彼は行った"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "そして逃げた"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "そして脱出した"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:44.777667525Z",
+  "model": "glm-5.2"
+}

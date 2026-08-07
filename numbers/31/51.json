@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 31:51",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "そしてモーシェと祭司エルアザルは、彼らから ⟨את⟩ 金を受け取った — すべての細工された器具を。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "そして受け取った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "そしてエルアザルは"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "金"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金を"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "彼らから"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具を"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "細工された"
+    }
+  ],
+  "timestamp": "2026-08-07T10:03:31.701672664Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "そして彼らを安全に導かれた。彼らは恐れなかった。しかし海は ⟨את⟩ 彼らの敵を覆われた。",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "そして彼らを導かれた"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安全に"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "彼らは恐れた"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "彼らの敵"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "彼らの敵"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "覆われた"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海が"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:54.293852687Z",
+  "model": "glm-5.2"
+}

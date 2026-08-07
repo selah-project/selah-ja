@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして私たちのエロヒムの箱を私たちのもとに運び戻そう。私たちはシャウルの日々に ⟨את⟩それを求めなかったからである。」",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "そして私たちは運び戻そう"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "私たちのエロヒムの箱"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "私たちのエロヒムの"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "私たちのもとに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "私たちは求めた"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "日々に"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウルの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:57.015676016Z",
+  "model": "glm-5.2"
+}

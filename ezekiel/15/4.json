@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 15:4",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "見よ、それは火に与えられ、燃料とされた。⟨את⟩その両端を火が食らい、その中は焦げた。それは仕事のために適している⟨のか⟩。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "火に"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えられた"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "燃料として"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その両端"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "その両端"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "食らった"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ותוכו",
+      "gloss": "そしてその中"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "焦げた"
+    },
+    {
+      "surface": "היצלח",
+      "gloss": "適しているのか"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "仕事のために"
+    }
+  ],
+  "timestamp": "2026-08-07T12:04:21.249111402Z",
+  "model": "glm-5.2"
+}

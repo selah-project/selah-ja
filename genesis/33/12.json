@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そして ⟨彼は⟩ 言った。「旅立って行こう、そして行こう。私はあなたの前を歩こう。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "旅立って行こう"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "そして行こう"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "そして私は歩こう"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "あなたの前を"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:14.431791097Z",
+  "model": "glm-5.2"
+}

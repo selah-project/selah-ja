@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてシュロモは彼女に告げた。⟨את⟩彼女のすべての言葉を。そしてシュロモから隠された事は何もなかった — 彼が彼女に告げなかった事は。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "そして…告げた"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女に"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シュロモは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての言葉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "彼女の言葉"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…なかった"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "隠された"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事は"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "シュロモから"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…事"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…なかった"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "告げ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼女に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:16.805640808Z",
+  "model": "glm-5.2"
+}

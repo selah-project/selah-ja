@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 80,
+  "translation": "また、あなたの右の手が植えたもの、そしてあなたがご自身のために強められた子を。",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "そして…母株を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "植えた"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "あなたの右の手が"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして…の上に"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子を"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "あなたは強められた"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなた自身のために"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:17.023090374Z",
+  "model": "glm-5.2"
+}

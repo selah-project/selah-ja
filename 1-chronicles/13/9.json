@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして彼らはキドンの打場まで来た。ウザは⟨את⟩自分の手を伸ばし、⟨את⟩箱を掴もうとした。牛がよろけたからである。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "そして彼らは来た"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "打場"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "キドンの"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "そして伸ばした"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ウザは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の手"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "自分の手"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "掴むために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "箱"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "よろけた"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "牛が"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:36.532572184Z",
+  "model": "glm-5.2"
+}

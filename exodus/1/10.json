@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 1:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "来い、彼らに対して賢く振る舞おう。彼らが増え、戦争が起こった時、彼らもまた我々を憎む者たちに加わり、我々と戦い、この地から上って行くことのないように。",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "来い"
+    },
+    {
+      "surface": "נתחכמה",
+      "gloss": "賢く振る舞おう"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼らに対して"
+    },
+    {
+      "surface": "פן",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "増える"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜時"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "起こる"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦争"
+    },
+    {
+      "surface": "ונוסף",
+      "gloss": "そして加わる"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼ら"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "שנאינו",
+      "gloss": "我々を憎む者たち"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "そして戦う"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "我々と"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "そして上って行く"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "この地"
+    }
+  ],
+  "timestamp": "2026-08-07T16:26:53.087169213Z",
+  "model": "glm-5.2"
+}

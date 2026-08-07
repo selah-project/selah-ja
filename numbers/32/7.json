@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 32,
+  "translation": "そしてなぜあなたたちはイスラエルの子らの心を⟨את⟩退けて、ヤハウェが彼らに与えられた地へ渡らないようにするのか。",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "そしてなぜ"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "あなたたちは退けるのか"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "心"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子らの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "渡らないように"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "与えられた"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:03:28.745272538Z",
+  "model": "glm-5.2"
+}

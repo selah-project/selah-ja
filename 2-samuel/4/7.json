@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 4:7",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "彼らは家に入った。彼は寝床の間の自分の寝台の上に横たわっていた。彼らは彼を打ち、彼を殺し、⟨את⟩彼の首を取り除き、⟨את⟩彼の首を取って、アラバの道を通って夜通し歩いた。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "彼らは…入った"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "そして彼は"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "横たわっていた"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "自分の寝台"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "…の間に"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "寝床"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "彼らは彼を打ち"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "彼を殺し"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "…取り除き"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の首"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "彼の首"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "…取って"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の首"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "彼の首"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "…歩いた"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "…の道"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "アラバ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "…通して"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "夜"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:22.674196128Z",
+  "model": "glm-5.2"
+}

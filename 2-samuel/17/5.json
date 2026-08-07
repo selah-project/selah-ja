@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 17:5",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "アブシャロムは言った。「フシャイ・ハアルキも呼んでくれ。そうすれば彼の口に何があるか、彼もまた聞こう。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "アブシャロム"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "呼んでくれ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "どうか"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "לחושי",
+      "gloss": "フシャイに"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "ハアルキ（の）"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "そうすれば聞こう"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何が"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "彼の口にあるか"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    }
+  ],
+  "timestamp": "2026-08-07T10:54:31.220591060Z",
+  "model": "glm-5.2"
+}

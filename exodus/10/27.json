@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてヤハウェはパロの心⟨את⟩を強められたが、⟨彼⟩は彼らを去らせることを承知しなかった。",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "そして…強められた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "心"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "承意した"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "彼らを去らせることを"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:56.535940674Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてヤハウェは天で雷をとどろかせ、いと高き方は⟨御⟩声を出された — 雹と火の燃えさし。",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "そして雷をとどろかせた"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "天で"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "そしていと高き方は"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "出された"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "⟨御⟩声を"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "雹"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "と燃えさし"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火の"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:34.681239692Z",
+  "model": "glm-5.2"
+}

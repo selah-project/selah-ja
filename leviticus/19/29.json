@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "あなたの娘を汚してはならない、⟨את⟩彼女を売春させるために。そうすれば地は売春を行なわず、地は邪悪な企てで満ちることはない。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜するな"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "汚してはならない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの娘"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "あなたの娘"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "彼女を売春させるために"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "売春を行なう"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "満ちる"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "邪悪な企て"
+    }
+  ],
+  "timestamp": "2026-08-07T09:40:52.823736429Z",
+  "model": "glm-5.2"
+}

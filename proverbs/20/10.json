@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "異なる重り石と異なる重り石、異なるエパと異なるエパ、ふたつともヤハウェの憎むべきものである。",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "重り石"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "と重り石"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "エパ"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "とエパ"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "憎むべきものである"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "גם",
+      "gloss": "も"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ふたつとも"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:14.065663612Z",
+  "model": "glm-5.2"
+}

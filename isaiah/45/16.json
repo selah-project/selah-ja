@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 45:16",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "彼らは恥じ、さらに恥辱を受けよう、彼らは全員。共に歩き、恥辱のうちに[進む]、偶像の彫刻師たちが。",
+  "tokens": [
+    {
+      "surface": "בושו",
+      "gloss": "恥じ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "נכלמו",
+      "gloss": "恥辱を受けよう"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "彼ら全員"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "共に"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "歩き"
+    },
+    {
+      "surface": "בכלמה",
+      "gloss": "恥辱のうちに"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "彫刻師たち"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "偶像の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:32:15.724572830Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 18:10",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてケナアナの子ツィドキヤウは彼のために鉄の角を作り、言った。「ヤハウェはこう仰せられる。『これらをもって ⟨את⟩ アラムを角突きし、彼らを滅し尽くすまでせよ。』」",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして…作った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のために"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ツィドキヤウ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "ケナアナ"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "…の角"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鉄"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "仰せられる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "これらをもって"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "角突きし"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アラム"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラム"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…まで"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "彼らを滅し尽くす"
+    }
+  ],
+  "timestamp": "2026-08-07T14:14:31.415137006Z",
+  "model": "glm-5.2"
+}

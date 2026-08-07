@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてこれらはイツハク、アブラハムの息子の系図である。アブラハムは⟨את⟩イツハクを生んだ。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "そしてこれらは"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "系図"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イツハクの"
+    },
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "アブラハム"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "…を生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イツハク"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イツハク"
+    }
+  ],
+  "timestamp": "2026-08-07T08:58:33.870039542Z",
+  "model": "glm-5.2"
+}

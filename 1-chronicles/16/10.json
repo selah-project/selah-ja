@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "〈彼の〉聖なる名において誇れ、ヤハウェを尋ね求める者たちの〈心は〉喜べ。",
+  "tokens": [
+    {
+      "surface": "הִֽתְהַֽלְלוּ֙",
+      "gloss": "誇れ"
+    },
+    {
+      "surface": "בְּשֵׁ֣ם",
+      "gloss": "〈彼の〉…名において"
+    },
+    {
+      "surface": "קָדְשׁ֔וֹ",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "יִשְׂמַ֕ח",
+      "gloss": "喜べ"
+    },
+    {
+      "surface": "לֵ֖ב",
+      "gloss": "〈心は〉"
+    },
+    {
+      "surface": "מְבַקְשֵׁ֥י",
+      "gloss": "…尋ね求める者たちの"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ヤハウェを"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:17.070801518Z",
+  "model": "glm-5.2"
+}

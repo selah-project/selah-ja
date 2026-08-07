@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 98,
+  "translation": "ラッパと角笛の音で〈鳴らせ〉、王ヤハウェの前に〈歓声を〉。",
+  "tokens": [
+    {
+      "surface": "בַּחֲצֹצְרוֹת",
+      "gloss": "ラッパで"
+    },
+    {
+      "surface": "וְקוֹל",
+      "gloss": "声"
+    },
+    {
+      "surface": "שׁוֹפָר",
+      "gloss": "角笛"
+    },
+    {
+      "surface": "הָרִיעוּ",
+      "gloss": "鳴らせ"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "前に"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:58:24.294587170Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてギデオンはヨルダン川に来た——彼と共にいる三百人が、彼自身渡りながら、疲れ果て、なお追いかけて。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして彼は来た"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ギデオンは"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "ヨルダン川へ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "渡った"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼自身"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "そして三百の"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "疲れ果て"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "そして追いかけて"
+    }
+  ],
+  "timestamp": "2026-08-07T10:34:18.511659064Z",
+  "model": "glm-5.2"
+}

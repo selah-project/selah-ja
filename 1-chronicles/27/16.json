@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 27:16",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "そしてイスラエルの部族たちについては、ルベニ人には長官エリエゼル・ゼフリの子、シメオニ人にはシェファテヤフ・マアカの子。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "そして〜については"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "部族たち"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "ルベニ人には"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "長官"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "エリエゼル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ゼフリ"
+    },
+    {
+      "surface": "לשמעוני",
+      "gloss": "シメオニ人には"
+    },
+    {
+      "surface": "שפטיהו",
+      "gloss": "シェファテヤフ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "マアカ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:09:08.374419169Z",
+  "model": "glm-5.2"
+}

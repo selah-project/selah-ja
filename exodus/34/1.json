@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 34:1",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そしてヤハウェはモーセに告げた。あなた自身のために二つの石の板を彫り刻め。初めのものと同じように。そしてわたしはその板の上に、あなたが打ち砕いた初めの板の上にあった⟨את⟩ことばを書き記そう。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "彫り刻め"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなた自身のために"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二つの"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "板を"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石の"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "初めのものと同じように"
+    },
+    {
+      "surface": "וכתבתי",
+      "gloss": "そしてわたしは書き記そう"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "その板"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ことば"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "היו",
+      "gloss": "あった"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "その板"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "初めの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "あなたが打ち砕いた"
+    }
+  ],
+  "timestamp": "2026-08-07T16:28:59.764797162Z",
+  "model": "glm-5.2"
+}

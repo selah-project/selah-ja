@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 57,
+  "translation": "網を私の歩みのために設えた、私の nefesh は弯えられた、彼らは私の前に坑を掘った、⟨彼らは⟩その中に落ちた セラ",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "網を"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "設えた"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "私の歩みのために"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "弯えられた"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私の nefesh は"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "掘った"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "私の前に"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "坑を"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "落ちた"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "その中に"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T18:40:18.286110847Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 38:9",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "「わが主、王よ、この人々は、預言者イェルミヤフに対して行なったすべての事において悪を為しました。⟨את⟩ 彼らが彼を穴の中に投げ込んだことを — 彼は自分の下で、飢えのゆえに死なんとしています。パンがもはや都にないからです。」",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "わが主"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王よ"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "悪を為しました"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "この人々は"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜事において"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "行なった"
+    },
+    {
+      "surface": "לירמיהו",
+      "gloss": "イェルミヤフに対して"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "〜事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "彼らが投げ込んだ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の中に"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "穴"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "そして彼は死なんとしている"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "自分の下で"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "飢え"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "パンが"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "都に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:54:00.995797770Z",
+  "model": "glm-5.2"
+}

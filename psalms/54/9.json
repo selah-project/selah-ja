@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 54,
+  "translation": "すべての苦しみから ⟨彼は⟩私を救い出されたからである。私の敵を私の目は見た。",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "מִכָּל",
+      "gloss": "すべての〜から"
+    },
+    {
+      "surface": "צָ֭רָה",
+      "gloss": "苦しみ"
+    },
+    {
+      "surface": "הִצִּילָ֑נִי",
+      "gloss": "私を救い出された"
+    },
+    {
+      "surface": "וּ֝בְאֹיְבַ֗י",
+      "gloss": "そして私の敵を"
+    },
+    {
+      "surface": "רָאֲתָ֥ה",
+      "gloss": "見た"
+    },
+    {
+      "surface": "עֵינִֽי",
+      "gloss": "私の目は"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:37.318370032Z",
+  "model": "glm-5.2"
+}

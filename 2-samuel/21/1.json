@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 21:1",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてダビデの日々に飢饉があった。三年、年が年のあとに⟨続いた⟩。ダビドはヤハウェの顔を⟨את⟩求めた。そしてヤハウェは言った。「シャウルと血の家のゆえである。彼がギブオン人を⟨את⟩殺したためである。」",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして〜があった"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "飢饉"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "〜の日々に"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "〜のあとに"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "そして求めた"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの顔"
+    },
+    {
+      "surface": "פני",
+      "gloss": "顔"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に対して"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "および〜に対して"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "血の"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であるところの"
+    },
+    {
+      "surface": "המית",
+      "gloss": "殺した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ギブオン人"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "ギブオン人"
+    }
+  ],
+  "timestamp": "2026-08-07T10:55:59.754867519Z",
+  "model": "glm-5.2"
+}

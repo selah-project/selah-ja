@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 12:24",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "ダビデはその妻バト・シェバを慰め、彼女のところへ入り、彼女と共に寝た。彼女は男の子を産み、彼は⟨את⟩その名をシェロモと呼んだ。そしてヤハウェは彼を愛された。",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "慰め"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "バト・シェバ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "バト"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "シェバ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "その妻"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入り"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "彼女のところへ"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "寝た"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "彼女と共に"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "産み"
+    },
+    {
+      "surface": "בן",
+      "gloss": "男の子を"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "彼は…呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "その名を"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "シェロモと"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "彼を愛された"
+    }
+  ],
+  "timestamp": "2026-08-07T18:29:53.025259967Z",
+  "model": "glm-5.2"
+}

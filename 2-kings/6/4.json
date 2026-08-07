@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "こうして彼は⟨את⟩彼らと共に行き、彼らがユルダン川に来たとき、彼らは木を切り倒した。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして行った"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "ユルダン川に"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "そして切り倒した"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "木々を"
+    }
+  ],
+  "timestamp": "2026-08-07T11:12:16.929186120Z",
+  "model": "glm-5.2"
+}

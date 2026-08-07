@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "ヤハウェが⟨彼を⟩守り、生かしてくださる。地の上で幸いにされる。そして⟨彼を⟩その敵たちの欲望に渡さないでほしい。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "守り"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "生かしてくださる"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "幸いにされる"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地の上で"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "〜ないでほしい"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "渡さない"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "欲望に"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "敵たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:14.030326999Z",
+  "model": "glm-5.2"
+}

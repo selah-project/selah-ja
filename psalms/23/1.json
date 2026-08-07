@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "ダビデの ⟨賛歌⟩。ヤハウェ ⟨は⟩ わたしを牧する ⟨方⟩、わたし ⟨は⟩ 欠けることなく。",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "賛歌"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "רֹעִי",
+      "gloss": "わたしを牧する方"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אֶחְסָר",
+      "gloss": "欠ける"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:38.213218256Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "ダビデはアビシャイに言った。「彼を滅ぼしてはならない。ヤハウェのマシアхに手を伸ばした者が、だれあって無罪でありえようか。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "アビシャイ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "彼を滅ぼしては"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "מי",
+      "gloss": "だれが"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "伸ばした"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "手を"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "マシアхに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "無罪であろうか"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:10.431641214Z",
+  "model": "glm-5.2"
+}

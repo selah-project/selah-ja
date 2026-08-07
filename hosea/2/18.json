@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "hosea 2:18",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "その日になると——ヤハウェの御告げ——あなたはわたしを「イシ（わたしの夫）」と呼び、もはやわたしを「バアリ（わたしの主人）」とは呼ばない。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "〜となる"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "その日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "תקראי",
+      "gloss": "あなたは呼ぶ"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "イシ（わたしの夫）"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תקראי",
+      "gloss": "あなたは呼ぶ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしを"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "バアリ（わたしの主人）"
+    }
+  ],
+  "timestamp": "2026-08-07T14:36:40.267178725Z",
+  "model": "glm-5.2"
+}

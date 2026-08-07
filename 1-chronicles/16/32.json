@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 16:32",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "海は鳴りどよめけ、そしてその満ちるもの。野は躍れ、そしてそのうちにあるすべてのもの。",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "鳴りどよめけ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海は"
+    },
+    {
+      "surface": "ומלואו",
+      "gloss": "そしてその満ちるもの"
+    },
+    {
+      "surface": "יעלץ",
+      "gloss": "躍れ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "野は"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "בו",
+      "gloss": "そのうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:06:32.686126051Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そしてヨナは立って、ヤハウェのことばのとおりニネベへ行った。さてニネベは、エロヒム ⟨にとって⟩大いなる都 ⟨であった⟩ — 三日 ⟨の⟩道のり ⟨であった⟩。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして彼は立った"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ヨナ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "そして彼は行った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ニネベ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "…のことばのとおり"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "そしてニネベ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "…であった"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "都"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "エロヒムにとって"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "道のり"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三…の"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-08-07T12:26:03.773674491Z",
+  "model": "glm-5.2"
+}

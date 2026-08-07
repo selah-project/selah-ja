@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "あなたが苦難の日に気力を緩めたなら、⟨あなたの⟩力は狭い。",
+  "tokens": [
+    {
+      "surface": "הִתְרַפִּיתָ",
+      "gloss": "あなたが気力を緩めたなら"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "צָרָה",
+      "gloss": "苦難"
+    },
+    {
+      "surface": "צַר",
+      "gloss": "狭い"
+    },
+    {
+      "surface": "כֹּחֶכָה",
+      "gloss": "あなたの力"
+    }
+  ],
+  "timestamp": "2026-08-07T13:16:55.203743036Z",
+  "model": "glm-5.2"
+}

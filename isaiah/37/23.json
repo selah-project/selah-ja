@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 37:23",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "あなたは⟨את⟩ 誰をそしり、あざけったのか。あなたは誰に向かって声を高く上げ、高く目を上げたのか。イスラエルの聖なる方に向かって！」",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "誰"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "あなたはそしった"
+    },
+    {
+      "surface": "וגדפת",
+      "gloss": "そしてあざけった"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして…に向かって"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰"
+    },
+    {
+      "surface": "הרימותה",
+      "gloss": "あなたは高く上げた"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声を"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "そしてあなたは上げた"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "高く"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "あなたの目を"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に向かって"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖なる方"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:29:08.386263968Z",
+  "model": "glm-5.2"
+}

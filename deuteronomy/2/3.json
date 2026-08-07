@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "「お前たちには十分だ。この山を回ることは。お前たち自身は北へ向かえ。」",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "十分だ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "お前たちには"
+    },
+    {
+      "surface": "סב",
+      "gloss": "回ることは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この山を"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山を"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "向かえ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "お前たち自身は"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "北へ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:07:40.482074728Z",
+  "model": "glm-5.2"
+}

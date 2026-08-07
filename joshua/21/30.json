@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてアシェル部族から、⟨את⟩ ミシュアルと⟨את⟩ その牧草地、⟨את⟩ アブドンと⟨את⟩ その牧草地を〈与えた〉。",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "そして〜部族から"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "アシェル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ミシュアル"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "ミシュアル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "その牧草地"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "その牧草地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アブドン"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "アブドン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "その牧草地"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "その牧草地"
+    }
+  ],
+  "timestamp": "2026-08-07T10:30:01.388064018Z",
+  "model": "glm-5.2"
+}

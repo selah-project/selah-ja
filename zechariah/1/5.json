@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "あなたたちの父祖たち、どこに⟨彼らは⟩いるのか。そして預言者たち、彼らはとこしえに生きるのか。",
+  "tokens": [
+    {
+      "surface": "אֲבוֹתֵיכֶם",
+      "gloss": "あなたたちの父祖たち"
+    },
+    {
+      "surface": "אַיֵּה",
+      "gloss": "どこに"
+    },
+    {
+      "surface": "הֵם",
+      "gloss": "彼ら"
+    },
+    {
+      "surface": "וְהַנְּבִאִים",
+      "gloss": "そして預言者たち"
+    },
+    {
+      "surface": "הַלְעוֹלָם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "יִחְיוּ",
+      "gloss": "生きるのか"
+    }
+  ],
+  "timestamp": "2026-08-07T12:30:34.790655915Z",
+  "model": "glm-5.2"
+}

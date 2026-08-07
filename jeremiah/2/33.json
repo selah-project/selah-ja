@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 2:33",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "何とお前は自分の道を美しく飾ることか、愛を求めようと。それゆえ、お前はまた ⟨את⟩ 悪しきことさえ、お前の道々に教え込んだ。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "何と"
+    },
+    {
+      "surface": "תיטבי",
+      "gloss": "美しく飾る"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "お前の道を"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "求めようと"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "愛を"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "また"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "悪しきこと"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "悪しきこと"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "教え込んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "お前の道々に"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "お前の道々に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:39:38.896302817Z",
+  "model": "glm-5.2"
+}

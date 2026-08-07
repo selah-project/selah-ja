@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "あなたは ⟨これ⟩ を昔から知っているのか。人が地の上に置かれて ⟨から⟩ の ⟨こと⟩ を。",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "これ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "あなたは知っている"
+    },
+    {
+      "surface": "מני",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "עד",
+      "gloss": "昔から"
+    },
+    {
+      "surface": "מני",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "שים",
+      "gloss": "置かれて"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人が"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:25:52.483401898Z",
+  "model": "glm-5.2"
+}

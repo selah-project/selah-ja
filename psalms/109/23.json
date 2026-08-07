@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 109,
+  "translation": "傾く影のように私は歩き、私はいなごのように揺り落とされた。",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "影のように"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "それが傾く（伸びる）"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "私は歩いた"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "私は揺り落とされた"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "いなごのように"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:25.188037876Z",
+  "model": "glm-5.2"
+}

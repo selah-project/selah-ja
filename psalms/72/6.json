@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 72,
+  "translation": "彼は刈り取られた草の上に雨のように降り、大地を潤す豊かな雨のように降る。",
+  "tokens": [
+    {
+      "surface": "יֵ֭רֵד",
+      "gloss": "彼は降る"
+    },
+    {
+      "surface": "כְּמָטָ֣ר",
+      "gloss": "雨のように"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "גֵּ֑ז",
+      "gloss": "刈り取られた草"
+    },
+    {
+      "surface": "כִּ֝רְבִיבִ֗ים",
+      "gloss": "豊かな雨のように"
+    },
+    {
+      "surface": "זַרְזִ֥יף",
+      "gloss": "降り注ぐ"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "大地"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:01.798218626Z",
+  "model": "glm-5.2"
+}

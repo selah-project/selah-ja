@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 11:34",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "食べられるすべての食物のうち、その上に水が来るものは汚れる。またすべての器の中で飲まれるすべての飲み物は汚れる。",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "〜のすべての"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "食物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べられる"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "来る"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "汚れる"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "飲み物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "飲まれる"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "〜のすべてのの中で"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "汚れる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:07.836250122Z",
+  "model": "glm-5.2"
+}

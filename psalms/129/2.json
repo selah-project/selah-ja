@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 129,
+  "translation": "度重なる敵が私を若い頃から苦しめた — けれども彼らは私に打ち勝てなかった。",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "度重なる"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "彼らは私を苦しめた"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "私の若い頃から"
+    },
+    {
+      "surface": "גם",
+      "gloss": "けれども"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "彼らは打ち勝つことができ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に対して"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:22.186326891Z",
+  "model": "glm-5.2"
+}

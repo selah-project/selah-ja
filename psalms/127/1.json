@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 127,
+  "translation": "上りの歌、シェロモに〈より〉。ヤハウェが家を建てるのでなければ、その建てる者たちが無駄に労したことになる。ヤハウェが町を守るのでなければ、守る者の見張りは無駄である。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上りの"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "シェロモに〈より〉"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし〜でなければ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "建てる"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家を"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "無駄に"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "労した"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "その建てる者たちが"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それを"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし〜でなければ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "守る"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町を"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "無駄に"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "見張った"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "守る者は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:59.815950976Z",
+  "model": "glm-5.2"
+}

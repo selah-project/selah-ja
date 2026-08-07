@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてエロヒムはノアに、また彼と共にいるその息子たちに語って言った、",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…語った"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ノア"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "また…に"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "彼の息子たち"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言うために"
+    }
+  ],
+  "timestamp": "2026-08-07T14:20:47.995354992Z",
+  "model": "glm-5.2"
+}

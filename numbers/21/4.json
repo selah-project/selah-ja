@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そして彼らはホル山から旅立ち、葦の海への道を通って、⟨את⟩エドムの地を回り込むため⟨に⟩進んだ。すると民のナフシュは道のゆえに短くなった。",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "そして彼らは旅立った"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ホル山から"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "その山"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道を通って"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "葦の"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "回り込むため"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エドムの地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドムの"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "そして短くなった"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ナフシュ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "道のゆえに"
+    }
+  ],
+  "timestamp": "2026-08-07T18:27:18.342379154Z",
+  "model": "glm-5.2"
+}

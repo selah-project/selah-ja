@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 84,
+  "translation": "幸福なるかな、その力があなたにある者、彼らの心には街道がある⟨者⟩は。",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֣י",
+      "gloss": "幸福なるかな"
+    },
+    {
+      "surface": "אָ֭דָם",
+      "gloss": "人"
+    },
+    {
+      "surface": "עֽוֹז",
+      "gloss": "力"
+    },
+    {
+      "surface": "ל֥וֹ",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בָ֑ךְ",
+      "gloss": "あなたにある"
+    },
+    {
+      "surface": "מְסִלּ֗וֹת",
+      "gloss": "街道"
+    },
+    {
+      "surface": "בִּלְבָבָֽם",
+      "gloss": "彼らの心には"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:10.440725408Z",
+  "model": "glm-5.2"
+}

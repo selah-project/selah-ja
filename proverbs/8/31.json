@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "⟨彼の⟩地の住みかに戯れ、わたしの喜びは⟨את⟩人の子らと共にあった。",
+  "tokens": [
+    {
+      "surface": "מְשַׂחֶקֶת",
+      "gloss": "戯れ"
+    },
+    {
+      "surface": "בְּתֵבֵ֣ל",
+      "gloss": "…の住みかに"
+    },
+    {
+      "surface": "אַרְצ֑וֹ",
+      "gloss": "⟨彼の⟩地の"
+    },
+    {
+      "surface": "וְ֝שַׁעֲשֻׁעַ֗י",
+      "gloss": "そしてわたしの喜びは"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "人の子ら"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:07.897868701Z",
+  "model": "glm-5.2"
+}

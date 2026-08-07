@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "わたしはあなたを祝福する者を祝福し、あなたを侮る者を呇う。地のすべての氏族はあなたによって祝福される。」",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "わたしは祝福する"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "あなたを祝福する者を"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "あなたを侮る者を"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "呇う"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "祝福される"
+    },
+    {
+      "surface": "בך",
+      "gloss": "あなたによって"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "氏族"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:21:15.869801121Z",
+  "model": "glm-5.2"
+}

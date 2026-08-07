@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてサラは否認して言った。「私は笑っていない。」恐れたからである。すると⟨彼⟩は言われた。「いや、あなたは確かに笑んだ。」",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "そして否認した"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "サラは"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "私は笑った"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "恐れた"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "לא",
+      "gloss": "いや"
+    },
+    {
+      "surface": "כי",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "あなたは笑んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:25.662714951Z",
+  "model": "glm-5.2"
+}

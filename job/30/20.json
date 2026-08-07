@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "私はあなたに叫ぶが、あなたは答えられない。私は立ち、あなたは私を眺めておられる。",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "私は叫ぶ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "あなたは私に答え"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "私は立ち"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "あなたは眺めておられる"
+    },
+    {
+      "surface": "בי",
+      "gloss": "私を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:27:58.820500973Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてペレグは三十歳で⟨生き⟩、⟨את⟩ レウを⟨生んだ⟩。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "そして⟨生き⟩"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ペレグ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "そして⟨生んだ⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レウ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "レウ"
+    }
+  ],
+  "timestamp": "2026-08-07T16:23:05.256069193Z",
+  "model": "glm-5.2"
+}

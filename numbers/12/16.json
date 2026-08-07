@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "その後、民はハツェロトから旅立ち、パランの荒野に宿営した。",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "その後"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "旅立った"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "ハツェロトから"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "そして宿営した"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野に"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "パランの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:55:38.897583893Z",
+  "model": "glm-5.2"
+}

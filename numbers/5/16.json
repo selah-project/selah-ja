@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そして祭司は彼女を⟨את⟩近づかせ、彼女をヤハウェの前に立たせる。",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "そして近づかせる"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "彼女"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "その祭司"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "そして立たせる"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:51:17.807891676Z",
+  "model": "glm-5.2"
+}

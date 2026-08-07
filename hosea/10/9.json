@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 10:9",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "イスラエルよ、ギブアの日々からあなたは罪を犯した。そこに彼らは立った。ギブアで、のろわれた者たちの子らに戦いが⟨彼らに⟩追いつくことはない。",
+  "tokens": [
+    {
+      "surface": "מימי",
+      "gloss": "…の日々から"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "ギブア"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "あなたは罪を犯した"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルよ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこに"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "彼らは立った"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "תשיגם",
+      "gloss": "追いつくことは"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "ギブアで"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦いが"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "のろわれた者"
+    }
+  ],
+  "timestamp": "2026-08-07T12:20:05.535065987Z",
+  "model": "glm-5.2"
+}

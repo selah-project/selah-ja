@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "そしてわたしの誠実さとわたしのヘセドは彼と共にあり、わたしの名において彼の角は高められる。",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "そしてわたしの誠実さ"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "とわたしのヘセド"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "そしてわたしの名において"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "高められる"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "彼の角"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:24.666296698Z",
+  "model": "glm-5.2"
+}

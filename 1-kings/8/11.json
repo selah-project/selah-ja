@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "祭司たちは雲のゆえに立って仕えることができなかった。ヤハウェの栄光が⟨את⟩ヤハウェの家に満ちていたからである。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "…なかった"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ことができ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司たちは"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "立って"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "仕える"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "のゆえに"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…であるから"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "満ちていた"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "栄光"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:00:44.368376654Z",
+  "model": "glm-5.2"
+}

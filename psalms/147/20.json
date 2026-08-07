@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "どの国々にもそのようにはされなかった。⟨御⟩裁きを、彼らは知らなかった。ヤハを賛美せよ。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "され"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのようには"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "どの〜にも"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "国々"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "⟨御⟩裁き"
+    },
+    {
+      "surface": "בל",
+      "gloss": "全く〜ない"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "彼らは知らなかった"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "賛美せよ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:53.701741628Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "「私は私の愛する者のもの、そして私の愛する者は私のもの。百合の中で牧する⟨方⟩。」",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "私の愛する者のもの"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "そして私の愛する者は"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のもの"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "牧する方"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "百合の中で"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:15.151638217Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "地は酔いどれのように揺れ、小屋のように揺り動かされ、その背きがその上に重くのしかかり、地は倒れ、もはや立ち上がらない。",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "揺れ"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "揺れる"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "酔いどれのように"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "そして揺り動かされ"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "小屋のように"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "そして重く"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "背きが"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "そして倒れ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "もはや〜ない"
+    },
+    {
+      "surface": "קום",
+      "gloss": "立ち上がる"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:16.833132712Z",
+  "model": "glm-5.2"
+}

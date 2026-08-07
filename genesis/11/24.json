@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "ナホルは二十九年生き、テラχを⟨את⟩生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ナホル"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "九"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "と二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "テラχ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "テラχ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:50:45.573167977Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そしてヨルダンは⟨それ⟩を東の方向に境とした。これが周囲の境界についてのベニヤミンの子らの相続地、彼らの氏族に従って ⟨ある⟩。",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "そしてヨルダンは"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "境とした"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "東の方向"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "〜の方向に"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "東の"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これが"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "相続地"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子らの"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ベニヤミン"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "その境界についての"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "周囲の"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "彼らの氏族に従って"
+    }
+  ],
+  "timestamp": "2026-08-07T10:28:52.277912302Z",
+  "model": "glm-5.2"
+}

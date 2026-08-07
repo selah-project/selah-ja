@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 58,
+  "translation": "悪者どもは胎から離れ去り、母の腹から迷い出る、偽りを語る者たち。",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "離れ去り"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者どもは"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "胎から"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "迷い出る"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "母の腹から"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "語る者たち"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "偽りを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:53.457384848Z",
+  "model": "glm-5.2"
+}

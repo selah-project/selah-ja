@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そしてあなたは⟨את⟩エポデの上着を、青紫色全一で作らなければならない。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "そしてあなたは…作らなければならない"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エポデの上着"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "上着"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "エポデの"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "全一で"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "青紫色"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:51.368579712Z",
+  "model": "glm-5.2"
+}

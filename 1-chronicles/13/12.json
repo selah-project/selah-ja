@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そしてダビデはその日、エロヒムを恐れた。言って、「どうして私のところにエロヒムの箱を ⟨את⟩ 持って来ることができようか」と。",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "そして恐れた"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エロヒム"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムを"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "その日に"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "その"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "היך",
+      "gloss": "どうして"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "持って来ることができようか"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のところに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エロヒムの箱"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:36.532934163Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "ヨアブは立ち上がり、ゲシュルへ行き、⟨את⟩ アブシャロムをイェルシャライムに連れて来た。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "立ち上がり"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブは"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "行き"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "ゲシュルへ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "連れて来た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アブシャロム"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "アブシャロムを"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライムに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:27:05.024300665Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "そして彼は⟨את⟩女奴隷たちと⟨את⟩その子供たちを先頭に置き、そして⟨את⟩レアとその子供たちを後ろに、そして⟨את⟩ラケルと⟨את⟩ヨセフを最後に⟨置いた⟩。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "置いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "女奴隷たち"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "女奴隷たち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その子供たち"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "その子供たち"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "先頭に"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "レア"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "レア"
+    },
+    {
+      "surface": "ולדיה",
+      "gloss": "その子供たち"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "後ろに"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ラケル"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ラケル"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ヨセフ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "最後に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:03:39.500654443Z",
+  "model": "glm-5.2"
+}

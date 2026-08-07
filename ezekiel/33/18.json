@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 33:18",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 33,
+  "translation": "義人が自分の義から立ち返り、不正を行うとき — 彼はそれらによって死ぬ。",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "…が立ち返るとき"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "מצדקתו",
+      "gloss": "自分の義から"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "そして行う"
+    },
+    {
+      "surface": "עול",
+      "gloss": "不正"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "そして死ぬ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "それらによって"
+    }
+  ],
+  "timestamp": "2026-08-07T12:11:56.154947109Z",
+  "model": "glm-5.2"
+}

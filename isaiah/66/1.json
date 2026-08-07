@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 66:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 66,
+  "translation": "次のようにヤハウェは言われる。天は⟨わたしの⟩玉座、地は⟨わたしの⟩足台である。お前たちがわたしのために建てる家はどこにあるのか。わたしの安息の場所はどこなのか。",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "次のように"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言われる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天は"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "わたしの玉座"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "地は"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "足台"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "わたしの足の"
+    },
+    {
+      "surface": "אי",
+      "gloss": "どこに"
+    },
+    {
+      "surface": "זה",
+      "gloss": "あるのか"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "תבנו",
+      "gloss": "お前たちが建てる"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしのために"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "そしてどこに"
+    },
+    {
+      "surface": "זה",
+      "gloss": "あるのか"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "場所は"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "わたしの安息の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:39:47.251766270Z",
+  "model": "glm-5.2"
+}

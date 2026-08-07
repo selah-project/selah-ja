@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "あなたの心に従ってあなたに与えてくださるように。そしてあなたのすべての計画を成し遂げてくださるように。",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "与えてくださるように"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "あなたの心に従って"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてあなたのすべての"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "計画"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "成し遂げてくださるように"
+    }
+  ],
+  "timestamp": "2026-08-07T12:37:11.955443886Z",
+  "model": "glm-5.2"
+}

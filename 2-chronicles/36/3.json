@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "そして彼を退位させた、ミツライムの王が、エルシャライムで。そして⟨את⟩その地に罰金を課した：銀百タラントと金一タラント。",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "そして彼を退位させた"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…の王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライム"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "エルシャライムで"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "そして罰した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "その地"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "タラント"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "と一タラント"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    }
+  ],
+  "timestamp": "2026-08-07T14:19:53.355717207Z",
+  "model": "glm-5.2"
+}

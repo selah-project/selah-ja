@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 139,
+  "translation": "奇なる知識、それは私には及ばぬ。高く置かれている、私はそれに及ぶことができない。",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "奇なる"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私には"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "高く置かれている"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "私は及ぶことができる"
+    },
+    {
+      "surface": "לה",
+      "gloss": "それに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:26.891960032Z",
+  "model": "glm-5.2"
+}

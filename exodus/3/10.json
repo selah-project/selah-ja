@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして今、行け。わたしはあなたをパロのもとに遣わす。そしてわたしの民、イスラエルの子らをミツライムから連れ出せ。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "行け"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "わたしはあなたを遣わす"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜のもとに"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "そして連れ出せ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしの民"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ミツライムから"
+    }
+  ],
+  "timestamp": "2026-08-07T09:13:52.544117483Z",
+  "model": "glm-5.2"
+}

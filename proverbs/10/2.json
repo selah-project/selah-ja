@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "悪の宝は役に立たない、しかしツェダカーは死から救い出す。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "役に立つ"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "宝は"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪の"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "しかしツェダカーは"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "救い出す"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "死から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:17.465015608Z",
+  "model": "glm-5.2"
+}

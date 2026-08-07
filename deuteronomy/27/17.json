@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "呪われよ、隣人の境を移す者は。そして民は皆「アーメン」と言う。",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "呪われよ"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "移す者"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "隣人の"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "そして言う"
+    },
+    {
+      "surface": "כל",
+      "gloss": "皆"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "アーメン"
+    }
+  ],
+  "timestamp": "2026-08-07T16:38:06.610876570Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 6:45",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "そしてベニヤミンの部族から⟨את⟩ゲバとその放牧地、そして⟨את⟩アレメトとその放牧地、そして⟨את⟩アナトテとその放牧地を。彼らのすべての都市は十三の都市、彼らの氏族において。",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "そして…の部族から"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ベニヤミン"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ゲバ"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "ゲバ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その放牧地"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "その放牧地"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アレメト"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "アレメト"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その放牧地"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "その放牧地"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アナトテ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "アナトテ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その放牧地"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "その放牧地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "彼らの都市"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "都市"
+    },
+    {
+      "surface": "במשפחותיהם",
+      "gloss": "彼らの氏族において"
+    }
+  ],
+  "timestamp": "2026-08-07T14:03:14.188634305Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 15:12",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして太陽が沈もうとしたとき、深い眠りがアブラムの上に臨んだ。そして見よ、大いなる暗黒の恐怖が彼の上に落ちていた。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてあった"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽が"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "沈もうと"
+    },
+    {
+      "surface": "ותרדמה",
+      "gloss": "そして深い眠りが"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "臨んだ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "アブラム"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "恐怖が"
+    },
+    {
+      "surface": "חשכה",
+      "gloss": "暗黒の"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "נפלת",
+      "gloss": "落ちていた"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼の上に"
+    }
+  ],
+  "timestamp": "2026-08-07T08:53:43.764076127Z",
+  "model": "glm-5.2"
+}

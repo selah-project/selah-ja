@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして、彼女が産む初子は死んだ兄弟の名の上に立つ。こうして彼の名はイスラエルから消し去られない。",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֗ה",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "הַבְּכוֹר֙",
+      "gloss": "初子"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "〜する"
+    },
+    {
+      "surface": "תֵּלֵ֔ד",
+      "gloss": "彼女が産む"
+    },
+    {
+      "surface": "יָק֕וּם",
+      "gloss": "立つ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "שֵׁ֥ם",
+      "gloss": "名"
+    },
+    {
+      "surface": "אָחִ֖יו",
+      "gloss": "彼の兄弟の"
+    },
+    {
+      "surface": "הַמֵּ֑ת",
+      "gloss": "死んだ"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יִמָּחֶ֥ה",
+      "gloss": "消し去られる"
+    },
+    {
+      "surface": "שְׁמ֖וֹ",
+      "gloss": "彼の名"
+    },
+    {
+      "surface": "מִיִּשְׂרָאֵֽל",
+      "gloss": "イスラエルから"
+    }
+  ],
+  "timestamp": "2026-08-07T10:18:58.602507604Z",
+  "model": "glm-5.2"
+}

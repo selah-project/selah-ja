@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 12:3",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "頭はアヒエゼル、そしてヨアシュ、シマアの子ら、ハギブア人。イジエルとペレト、アズマウテの子ら。そしてベラカ、そしてイフー、ハアナトテ人。",
+  "tokens": [
+    {
+      "surface": "הראש",
+      "gloss": "頭は"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "アヒエゼル"
+    },
+    {
+      "surface": "ויואש",
+      "gloss": "そしてヨアシュ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "シマアの"
+    },
+    {
+      "surface": "הגבעתי",
+      "gloss": "ハギブア人"
+    },
+    {
+      "surface": "ויזואל",
+      "gloss": "そしてイジエル"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "とペレト"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "アズマウテ"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "そしてベラカ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "そしてイフー"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "ハアナトテ人"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:02.610769614Z",
+  "model": "glm-5.2"
+}

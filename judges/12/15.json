@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 12:15",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてエブドンすなわちヒッレルの子、ピルアトニは死に、エフライムの地、アマレキ人の山地にあるピルアトンに葬られた。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "そして死んだ"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "エブドン"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "ヒッレル"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "ピルアトニ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "そして葬られた"
+    },
+    {
+      "surface": "בפרעתון",
+      "gloss": "ピルアトンに"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "…の地に"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライム"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "…の山地に"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "アマレキ人の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:35:36.412753805Z",
+  "model": "glm-5.2"
+}

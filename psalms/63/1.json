@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 63,
+  "translation": "賛歌、ダヴィデの。彼がユダの荒野にいたときに。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "賛歌"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダヴィデの"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "彼が〜いたときに"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野に"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:40.752466235Z",
+  "model": "glm-5.2"
+}

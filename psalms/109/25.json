@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 109,
+  "translation": "そして私は彼らの恥辱となった — 私を見ると、彼らは首を振る。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "そして私は"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "なった"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "恥辱"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らの"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "私を見ると"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "彼らは揺する"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "彼らの首を"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:09.399148188Z",
+  "model": "glm-5.2"
+}

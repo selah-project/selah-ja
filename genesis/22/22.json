@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そして⟨את⟩ ケセドを、そして⟨את⟩ ハゾを、そして⟨את⟩ ピルダシュを、そして⟨את⟩ ディドラフを、そして⟨את⟩ ベトエルを。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ケセド"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "ケセド"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ハゾ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ハゾ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ピルダシュ"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "ピルダシュ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ディドラフ"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "ディドラフ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "ベトエル"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "ベトエル"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:23.521678725Z",
+  "model": "glm-5.2"
+}

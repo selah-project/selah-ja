@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 8:11",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "ギデオンは天幕に住む者たちの道、東方からノバフとヨグベハへと上って行き、宿営を打った。その宿営は安全であった。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "そして上って行った"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ギデオンは"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道を"
+    },
+    {
+      "surface": "השכוני",
+      "gloss": "住む者たちの"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "天幕に"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "東方から"
+    },
+    {
+      "surface": "לנבח",
+      "gloss": "ノバフへ"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "とヨグベハへ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "そして打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "宿営を"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "宿営"
+    },
+    {
+      "surface": "והמחנה",
+      "gloss": "そしてその宿営"
+    },
+    {
+      "surface": "היה",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "安全"
+    }
+  ],
+  "timestamp": "2026-08-07T10:34:52.168325508Z",
+  "model": "glm-5.2"
+}

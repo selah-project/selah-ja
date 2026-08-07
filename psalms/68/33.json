@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 68,
+  "translation": "地の王国たちよ、エロヒムに向かって歌え。アドナイに向かって奏でよ。セラ。",
+  "tokens": [
+    {
+      "surface": "מַמְלְכ֣וֹת",
+      "gloss": "王国たちよ"
+    },
+    {
+      "surface": "הָ֭אָרֶץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "שִׁ֣ירוּ",
+      "gloss": "歌え"
+    },
+    {
+      "surface": "לֵאלֹהִ֑ים",
+      "gloss": "エロヒムに向かって"
+    },
+    {
+      "surface": "זַמְּר֖וּ",
+      "gloss": "奏でよ"
+    },
+    {
+      "surface": "אֲדֹנָ֣י",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "セラ"
+    }
+  ],
+  "timestamp": "2026-08-07T14:39:01.595780096Z",
+  "model": "glm-5.2"
+}

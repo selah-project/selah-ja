@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてシャルムは⟨את⟩エカミヤを生み、エカミヤは⟨את⟩エリシャマを生んだ。",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "そしてシャルムは"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エカミヤ"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "エカミヤ"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "そしてエカミヤは"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エリシャマ"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "エリシャマ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:59:36.249866399Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "混沌の都市は打ち砕かれた、すべての家は入り口から閉ざされた。",
+  "tokens": [
+    {
+      "surface": "נִשְׁבְּרָ֖ה",
+      "gloss": "打ち砕かれた"
+    },
+    {
+      "surface": "קִרְיַת",
+      "gloss": "都市は"
+    },
+    {
+      "surface": "תֹּ֑הוּ",
+      "gloss": "混沌の"
+    },
+    {
+      "surface": "סֻגַּ֥ר",
+      "gloss": "閉ざされた"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "בַּ֖יִת",
+      "gloss": "家は"
+    },
+    {
+      "surface": "מִבּֽוֹא",
+      "gloss": "入り口から"
+    }
+  ],
+  "timestamp": "2026-08-07T11:26:07.216131017Z",
+  "model": "glm-5.2"
+}

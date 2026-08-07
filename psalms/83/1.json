@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 83,
+  "translation": "歌、 楽器の詩、 アサフのために。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "楽器の詩"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "アサフのために"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:51.454450068Z",
+  "model": "glm-5.2"
+}

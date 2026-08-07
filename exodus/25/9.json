@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "私があなたに示すすべてのものに従って――⟨את⟩幕屋の型、および⟨את⟩そのすべての器具の型を、そのようにあなたたちは作らなければならない。",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "…のすべてに従って"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私が"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "示す"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "幕屋の型"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "型"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "幕屋の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "および⟨את⟩",
+      "marks": "そのすべての器具の型"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "型"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "その器具の"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "あなたたちは作らなければならない"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:17.615340811Z",
+  "model": "glm-5.2"
+}

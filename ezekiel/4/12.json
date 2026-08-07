@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 4:12",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして大麦のパンを、あなたはそれを彼らの目の前で、人の出る排泄物で焼いて食べること。",
+  "tokens": [
+    {
+      "surface": "ועגת",
+      "gloss": "そしてパン"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "大麦の"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "あなたはそれを食べること"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "そしてそれは"
+    },
+    {
+      "surface": "בגללי",
+      "gloss": "～の塊で"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "出る"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "תעגנה",
+      "gloss": "焼くこと"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "彼らの目の前で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:01:34.233622023Z",
+  "model": "glm-5.2"
+}

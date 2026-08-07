@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 132,
+  "translation": "上りの歌。ヤハウェよ、ダビデのために、⟨את⟩ すべての苦しみを覚えてください。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上りの"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "覚えてください"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデのために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべての苦しみ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "苦しみ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:27.633891265Z",
+  "model": "glm-5.2"
+}

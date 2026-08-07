@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "人を誘拐し、⟨彼を⟩ 売り、そして ⟨彼が⟩ その手のうちに見いだされるなら、死によって死ななければならない。",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "誘拐する者"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "売る"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "見いだされる"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "その手のうちに"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "死なされる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:22:40.699210964Z",
+  "model": "glm-5.2"
+}

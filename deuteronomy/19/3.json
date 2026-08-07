@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "あなたは道を整え、ヤハウェ・あなたのエロヒムがあなたに継承させる地の ⟨את⟩ 境界を三つに分けなければならない。そしてそれはすべての殺人者が逃げ込むためのものである。",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "あなたは整える"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "そしてあなたは三つに分ける"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "境界"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "あなたの地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "あなたに継承させる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "そしてそれは〜である"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "逃げるため"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "そこへ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "殺人者"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:24.393396674Z",
+  "model": "glm-5.2"
+}

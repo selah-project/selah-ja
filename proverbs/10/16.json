@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "義者の業は命のため、悪者の収穫は罪のため。",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "業は"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義者の"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "命のため"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "収穫は"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "悪者の"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "罪のため"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:32.084901785Z",
+  "model": "glm-5.2"
+}

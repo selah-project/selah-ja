@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "見つけられるすべての者は刺し殺され、捕らえられるすべての者は剣によって倒れる。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "見つけられる者は"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "刺し殺される"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "捕らえられる者は"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "倒れる"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "剣によって"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:37.132173598Z",
+  "model": "glm-5.2"
+}

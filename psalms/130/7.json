@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 130,
+  "translation": "望みを置け、イスラエルよ、ヤハウェに。ヤハウェとともに ⟨の⟩ ヘセド があり、彼とともに豊かな贖いがあるのだから。",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "望みを置け"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルよ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "のだから"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜とともに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "ヘセド"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "そして豊かな"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼とともに"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "贖い"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:33.829350047Z",
+  "model": "glm-5.2"
+}

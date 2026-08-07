@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 18:17",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "東風のように、わたしは彼らを敵の前で散らす。わたしは災いの日に、彼らに背を——顔ではなく——示す。」",
+  "tokens": [
+    {
+      "surface": "כרוח",
+      "gloss": "風のように"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東"
+    },
+    {
+      "surface": "אפיצם",
+      "gloss": "わたしは彼らを散らす"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "敵"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "背を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ではなく"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "顔を"
+    },
+    {
+      "surface": "אראם",
+      "gloss": "わたしは彼らに示す"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "彼らの災い"
+    }
+  ],
+  "timestamp": "2026-08-07T11:47:16.937421503Z",
+  "model": "glm-5.2"
+}

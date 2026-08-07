@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "指揮者へ、弦楽器によって。ダヴィデのミズモル。",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֥חַ",
+      "gloss": "指揮者へ"
+    },
+    {
+      "surface": "בִּנְגִינ֗וֹת",
+      "gloss": "弦楽器によって"
+    },
+    {
+      "surface": "מִזְמ֥וֹר",
+      "gloss": "ミズモル"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "ダヴィデの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:10.621578219Z",
+  "model": "glm-5.2"
+}

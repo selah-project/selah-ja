@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてペリシティ人⟨は⟩近づいた、朝早くまた夕暮れに。そして彼⟨は⟩四十日⟨の間⟩立ちはだかった。",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "そして近づいた"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "そのペリシティ人は"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "朝早く"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "そして夕暮れに"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "そして立ちはだかった"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-08-07T10:44:55.318826386Z",
+  "model": "glm-5.2"
+}

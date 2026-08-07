@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "悪しき目に遭う — 他人の保証人となる者が。そして手を打つ者を憎む者は安心である。",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "悪しき"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "目に遭う"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "保証人となる"
+    },
+    {
+      "surface": "זר",
+      "gloss": "他人の"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "そして憎む"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "手を打つ者"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "安心である"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:54.434842363Z",
+  "model": "glm-5.2"
+}

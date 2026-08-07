@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "また槍を引き出し、私を追う者たちに向かって道を閉ざせ。私の命に向かって、「あなたの救い、それは私だ」と言え。",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "そして引き出せ"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "槍"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "閉ざせ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "〜に向かって"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "私を追う者たち"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言え"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "私の命"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "あなたの救い"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私"
+    }
+  ],
+  "timestamp": "2026-08-07T12:42:50.650669635Z",
+  "model": "glm-5.2"
+}

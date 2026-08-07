@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "祈り、ハバククの、預言者の、⟨その⟩シギヨノトについて。",
+  "tokens": [
+    {
+      "surface": "תְּפִלָּ֖ה",
+      "gloss": "祈り"
+    },
+    {
+      "surface": "לַחֲבַקּ֣וּק",
+      "gloss": "ハバククの"
+    },
+    {
+      "surface": "הַנָּבִ֑יא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "שִׁגְיֹנֽוֹת",
+      "gloss": "シギヨノト"
+    }
+  ],
+  "timestamp": "2026-08-07T14:37:41.885318744Z",
+  "model": "glm-5.2"
+}

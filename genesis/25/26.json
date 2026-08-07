@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 25:26",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてその後、彼の兄弟が出た —その手がエサヴのかかとを掴んでいて— 。そして彼はその名をヤアコヴと呼んだ。そしてイツハクは六十歳で⟨あった⟩、彼らを産んだときに。",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "そして〜の後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "その"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出た"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "彼の兄弟"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "そして彼の手が"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "掴んでいる"
+    },
+    {
+      "surface": "בעקב",
+      "gloss": "かかとを"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサヴの"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして彼は呼んだ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の名を"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤアコヴ"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "そしてイツハクは"
+    },
+    {
+      "surface": "בן",
+      "gloss": "〜の子（〜歳）"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "産んだときに"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼らを"
+    }
+  ],
+  "timestamp": "2026-08-07T08:58:25.153824555Z",
+  "model": "glm-5.2"
+}

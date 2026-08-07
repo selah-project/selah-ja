@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "そしてルベンの境界の上に、東の端から西の端まで、ユダ、一つ⟨の割り当て⟩。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ルベン"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "〜の端から"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "端"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "西"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一つ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:16:56.083836686Z",
+  "model": "glm-5.2"
+}

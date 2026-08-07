@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "純金一タラントで、これを、⟨את⟩すべてのこれらの器具を、作らなければならない。",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "タラント"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純粋な"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "作る"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "これ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべてのこれらの器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "器具"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:59.757041693Z",
+  "model": "glm-5.2"
+}

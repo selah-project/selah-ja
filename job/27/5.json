@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "私にとって断じてあってはならないこと、私があなたがたを正しいとするなど、私が息絶えるまで。私から私の無垢を退けない。",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "断じてあってはならないこと"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私にとって"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜など"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "正しいとする"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "あなたがたを"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "息絶える"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "退ける"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "私の無垢"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:26:55.127619554Z",
+  "model": "glm-5.2"
+}

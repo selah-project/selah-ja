@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 107,
+  "translation": "すべての食物を ⟨彼らの⟩ 喉は忌み嫌い、彼らは死の門にまで至った。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食物を"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "忌み嫌う"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "彼らの喉は"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "そして至った"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜にまで"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "門"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:01:36.354134045Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして蛇は女に言った。「あなたたちは必ずしも死ぬわけではない。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "蛇は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "女"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死ぬ"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "あなたたちは死ぬ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:36.727727578Z",
+  "model": "glm-5.2"
+}

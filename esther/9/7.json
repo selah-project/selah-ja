@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "⟨את⟩ パルシャンダタ、⟨את⟩ ダルフォン、⟨את⟩ アスパタを、",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "パルシャンダタ"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "パルシャンダタ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ダルフォン"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "ダルフォン"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "アスパタ"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "アスパタ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:42:36.420285535Z",
+  "model": "glm-5.2"
+}

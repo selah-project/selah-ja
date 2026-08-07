@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして彼は⟨את⟩レバノンの森の館を建てた。長さ百アンマ、幅五十アンマ、高さ三十アンマ、四つの杉の柱の列の上に、杉の梁がその柱の上に。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レバノンの森の館"
+    },
+    {
+      "surface": "בית",
+      "gloss": "館"
+    },
+    {
+      "surface": "יער",
+      "gloss": "森"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "レバノン"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "長さ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "幅"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "高さ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "列"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "柱"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "杉"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "梁"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "杉"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "柱"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:25.517746828Z",
+  "model": "glm-5.2"
+}

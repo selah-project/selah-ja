@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "すでにあったものは、それすでに⟨ある⟩。そしてこれからあるべきものは、すでにあった。そしてエロヒムは⟨את⟩追い求められるものを尋ね求められる。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "〜ものは"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "すでにあった"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "すでに"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "そして〜ものは"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "これからあるべき"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "すでに"
+    },
+    {
+      "surface": "היה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "そしてエロヒムは"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "尋ね求められる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "追い求められるものを"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "追い求められるもの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:38:33.332316959Z",
+  "model": "glm-5.2"
+}

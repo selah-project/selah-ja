@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ヤハウェの言葉、それがヨエルへ ⟨来た⟩ — ペトエルの子ヨエルへ。",
+  "tokens": [
+    {
+      "surface": "דְּבַר",
+      "gloss": "…の言葉"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "…ところの"
+    },
+    {
+      "surface": "הָיָ֔ה",
+      "gloss": "⟨来た⟩"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "יוֹאֵ֖ל",
+      "gloss": "ヨエル"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "פְּתוּאֵֽל",
+      "gloss": "ペトエル"
+    }
+  ],
+  "timestamp": "2026-08-07T12:20:31.524982410Z",
+  "model": "glm-5.2"
+}

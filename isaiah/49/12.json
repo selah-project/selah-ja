@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "見よ、これらは遠くから来る。そして見よ、これらは北と西から、またこれらはスィニムの地から⟨来る⟩。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "遠くから"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "来る"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "北から"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "と西から"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "またこれらは"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "〜の地から"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "スィニム"
+    }
+  ],
+  "timestamp": "2026-08-07T17:44:20.540382182Z",
+  "model": "glm-5.2"
+}

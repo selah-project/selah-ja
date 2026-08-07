@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ヤハウェの声が町に向かって呼ばわる、そして識別力はあなたの名を畏れる。「杖よ、聞け」、そしてそれを定めた者は誰か。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "町に向かって"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "呼ばわる"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "そして識別力は"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "畏れる"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "あなたの名を"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "杖よ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "そして誰が"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "それを定めたか"
+    }
+  ],
+  "timestamp": "2026-08-07T14:37:19.037514520Z",
+  "model": "glm-5.2"
+}

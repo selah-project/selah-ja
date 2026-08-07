@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "アビシュアの子、ピンハスの子、エルアザルの子、祭司アハロンの子、かしらである。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "アビシュア"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ピンハス"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "エルアザル"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…の子"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "かしら"
+    }
+  ],
+  "timestamp": "2026-08-07T13:51:20.350037474Z",
+  "model": "glm-5.2"
+}

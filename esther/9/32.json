@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてエステルの命令はこれらのプーリムの事を確立した。そしてそれは書に書き記された。",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "そして命令"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "エステルの"
+    },
+    {
+      "surface": "קים",
+      "gloss": "確立した"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "事"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "⟨その⟩プーリムの"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "そして書き記された"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "書に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:43:14.679464170Z",
+  "model": "glm-5.2"
+}

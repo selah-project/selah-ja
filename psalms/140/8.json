@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 140,
+  "translation": "ヤハウェ、アドナイ、私の救いの力よ、あなたは戦いの日に私の頭を覆ってくださった。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "アドナイ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "力"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "私の救いの"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "あなたは覆ってくださった"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "私の頭を"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜の日に"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "戦いの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:06:43.678675439Z",
+  "model": "glm-5.2"
+}

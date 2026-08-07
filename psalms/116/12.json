@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 116,
+  "translation": "何を私はヤハウェに返そうか、そのすべての恵みに対して、私の上にある。",
+  "tokens": [
+    {
+      "surface": "מָֽה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "אָשִׁ֥יב",
+      "gloss": "私は返そうか"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "כָּֽל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "תַּגְמוּל֥וֹהִי",
+      "gloss": "その恵み"
+    },
+    {
+      "surface": "עָלָֽי",
+      "gloss": "私の上にある"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:10.257715697Z",
+  "model": "glm-5.2"
+}

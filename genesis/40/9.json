@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 40:9",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして献杯長は⟨את⟩自分の夢をヨセフに語り、彼に言った。「私の夢に、見よ、一本のぶどうの木が私の前に⟨あった⟩。」",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "そして語った"
+    },
+    {
+      "surface": "שר",
+      "gloss": "長"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "献杯"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の夢"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "自分の夢"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "ヨセフに"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בחלומי",
+      "gloss": "私の夢に"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ぶどうの木"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "私の前に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:43.809185965Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてヤハウェはカインに言われた。「なぜあなたは怒っているのか。そしてなぜあなたの顔は垂れ下がっているのか。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "カイン"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "怒っている"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "そしてなぜ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "垂れ下がっている"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "あなたの顔"
+    }
+  ],
+  "timestamp": "2026-08-07T08:47:58.413822238Z",
+  "model": "glm-5.2"
+}

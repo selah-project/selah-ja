@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "ダビデと全イスラエルの家は、ヤハウェの箱を⟨את⟩歓呼と角笛の音のうちに携え上った。",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ダビデと"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "携え上った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェの箱"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "歓呼と"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "音の"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "角笛の"
+    }
+  ],
+  "timestamp": "2026-08-07T10:51:12.737900375Z",
+  "model": "glm-5.2"
+}

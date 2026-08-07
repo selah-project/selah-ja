@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "アブラムは言った。「見よ、あなたはわたしに子孫をお与えにならなかったので、見よ、わたしの家の者が⟨את⟩わたしを相続することになります。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "アブラム"
+    },
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "あなたはお与えになった"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "者"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "わたしの家の"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "相続する"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "わたし"
+    }
+  ],
+  "timestamp": "2026-08-07T08:52:06.971323507Z",
+  "model": "glm-5.2"
+}

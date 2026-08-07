@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "そしてヤハウェの言葉がティシュビ人エリヤにあった、言うことに、",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そして…あった"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "エリヤ"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "ティシュビ人"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言うことに"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:30.445523829Z",
+  "model": "glm-5.2"
+}

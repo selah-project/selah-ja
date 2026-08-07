@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 62,
+  "translation": "ただエロヒムにおいて、静まっている⟨のは⟩私のネフェシ、私の救いは⟨彼⟩からだ",
+  "tokens": [
+    {
+      "surface": "אַ֣ךְ",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "〜において"
+    },
+    {
+      "surface": "אֱ֭לֹהִים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "דּֽוּמִיָּ֣ה",
+      "gloss": "静まっている"
+    },
+    {
+      "surface": "נַפְשִׁ֑י",
+      "gloss": "私のネフェシ"
+    },
+    {
+      "surface": "מִ֝מֶּ֗נּוּ",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "יְשׁוּעָתִֽי",
+      "gloss": "私の救い"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:05.282859664Z",
+  "model": "glm-5.2"
+}

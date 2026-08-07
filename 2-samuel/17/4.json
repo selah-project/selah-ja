@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 17:4",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてそのことばはアブシャロムの目に、また全イスラエルの長老たちの目に、正しいものとされた。",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "そして…正しいとされた"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "そのことば"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…の目に"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "アブシャロム"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "また…の目に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老たちの"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:54:28.390727967Z",
+  "model": "glm-5.2"
+}

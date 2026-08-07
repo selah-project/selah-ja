@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "そして彼らが自分たちの先祖たちのようにならないように — 反逆する世代、逆らう世代、自分の心を整えず、その霊がエルに対して堅実でなかった世代に。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "彼らが〜となる"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "自分たちの先祖たちのよう"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "反逆する"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "そして逆らう"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "彼は整えた"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "自分の心を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "堅実で"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エル"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エルに対して"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "その霊が"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:23.025275996Z",
+  "model": "glm-5.2"
+}

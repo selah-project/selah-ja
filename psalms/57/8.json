@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 57,
+  "translation": "備えられている、私の心は、エロヒム。備えられている、私の心は。私は歌おう、私はほめ歌おう。",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "備えられている"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "私の心は"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "備えられている"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "私の心は"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "私は歌おう"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "私はほめ歌おう"
+    }
+  ],
+  "timestamp": "2026-08-07T12:46:03.503749371Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "ダビデは再びヤハウェに伺いを立てた。ヤハウェは彼に答えて言った。「立って、ケイラに下れ。わたしが⟨את⟩ペリシテ人をあなたの手に渡すから。」",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "そして加えた"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "さらに"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "伺いを立てることを"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "そして彼に答えられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言われた"
+    },
+    {
+      "surface": "קום",
+      "gloss": "立って"
+    },
+    {
+      "surface": "רד",
+      "gloss": "下れ"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ケイラに"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしが"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "渡している"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ペリシテ人を"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ペリシテ人"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "あなたの手に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:46:52.987961806Z",
+  "model": "glm-5.2"
+}

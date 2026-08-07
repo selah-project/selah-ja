@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "そして⟨彼は⟩ ⟨את⟩ 献膳官の長をその献膳の職に戻し、⟨彼は⟩ ワインの杯をパロの手のひらの上に置いた。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして…戻した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "献膳官の長"
+    },
+    {
+      "surface": "שר",
+      "gloss": "…の長"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "献膳官"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "その献膳の職"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "そして…置いた"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "杯"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "כף",
+      "gloss": "手のひら"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:23.510338175Z",
+  "model": "glm-5.2"
+}

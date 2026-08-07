@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてモーシェは会衆に言った。「これが、行うためにヤハウェが命じたことのことばである。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～に"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "会衆"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これが"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ことば"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～ところの"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命じた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行うために"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:00.536250527Z",
+  "model": "glm-5.2"
+}

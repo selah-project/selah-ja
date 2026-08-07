@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 12:26",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "義人はその友を探り導く、しかし悪者の道は彼らを迷わせる。",
+  "tokens": [
+    {
+      "surface": "יָתֵ֣ר",
+      "gloss": "探り導く"
+    },
+    {
+      "surface": "מֵרֵעֵ֣הוּ",
+      "gloss": "その友を"
+    },
+    {
+      "surface": "צַדִּ֑יק",
+      "gloss": "義人は"
+    },
+    {
+      "surface": "וְדֶ֖רֶךְ",
+      "gloss": "しかし…道は"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "悪者の"
+    },
+    {
+      "surface": "תַּתְעֵֽם",
+      "gloss": "彼らを迷わせる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:27.566581619Z",
+  "model": "glm-5.2"
+}

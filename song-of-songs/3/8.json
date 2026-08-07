@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "彼らは皆、剣を握る者、戦いを学んだ者。おのおのその剣を太ももに、夜の恐怖のゆえに。",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "彼らは皆"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "握る者"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣を"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "学んだ者"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戦いを"
+    },
+    {
+      "surface": "איש",
+      "gloss": "おのおの"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "その剣を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "太もも"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "恐怖のゆえに"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "夜の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:07.541546166Z",
+  "model": "glm-5.2"
+}

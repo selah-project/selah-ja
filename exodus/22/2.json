@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "もし太陽が彼の上に昇っていたなら、彼には血の償いがある。彼は完全に償わなければならない。もし彼に⟨何も⟩ないなら、彼はその盗品のために売られる。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "昇っていたなら"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "太陽が"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "彼の上に"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "血の償い"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼には"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "完全に"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "償わなければならない"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "そして売られる"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "彼の盗品のために"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:29.480745385Z",
+  "model": "glm-5.2"
+}

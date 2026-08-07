@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "骨折りは骨折りの代わり、目は目の代わり、歯は歯の代わり。人が欠陥を与えるとおり、そのように彼に与えられるであろう。",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "骨折りは"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わりに"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "骨折り"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目は"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わりに"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目"
+    },
+    {
+      "surface": "שן",
+      "gloss": "歯は"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "〜の代わりに"
+    },
+    {
+      "surface": "שן",
+      "gloss": "歯"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜するとおり"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "与える"
+    },
+    {
+      "surface": "מום",
+      "gloss": "欠陥を"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "人に"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "与えられるであろう"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:35.475619594Z",
+  "model": "glm-5.2"
+}

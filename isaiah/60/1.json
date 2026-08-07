@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 60,
+  "translation": "立って、光を放て。あなたの光が来たからだ。ヤハウェの栄光があなたの上に輝いた。",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "立って"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "光を放て"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来た"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "あなたの光が"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "そして栄光が"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "あなたの上に"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "輝いた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:37:22.534569766Z",
+  "model": "glm-5.2"
+}

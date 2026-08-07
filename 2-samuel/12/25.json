@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてナタン預言者の手によって遣わし、彼の名を⟨את⟩・イェディデヤと呼んだ。ヤハウェのゆえに。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…遣わした"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…の手によって"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ナタン"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "預言者"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして…呼んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "彼の名を"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "イェディデヤ"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "…のゆえに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T16:46:26.567410353Z",
+  "model": "glm-5.2"
+}

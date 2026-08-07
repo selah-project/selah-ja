@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そしてエロヒムは彼にサタンを立ち上がらせた——⟨את⟩レズン、エルヤダの子を。彼はその主ハダドエゼル、ツォバの王の許から逃げ去った者である。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "そして立ち上がらせた"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムは"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "サタンを"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レズン"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "レズンを"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "エルヤダの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である者"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "逃げ去った"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜の許から"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ハダドエゼル"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ツォバの"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "その主"
+    }
+  ],
+  "timestamp": "2026-08-07T11:03:22.396152238Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 105,
+  "translation": "イスラエルがミツライムに来た、そしてヤアコブはハムの地に寄留した。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして…来た"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルが"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムに"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "そしてヤアコブは"
+    },
+    {
+      "surface": "גר",
+      "gloss": "寄留した"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "…の地に"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ハム"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:38.520453705Z",
+  "model": "glm-5.2"
+}

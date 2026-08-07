@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 10:12",
+  "book": "zechariah",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "わたしは彼らをヤハウェにおいて強くする。そして彼らは⟨彼の⟩御名によって歩む — ヤハウェの御告げ。",
+  "tokens": [
+    {
+      "surface": "וגברתים",
+      "gloss": "わたしは彼らを強くする"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ヤハウェにおいて"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "そして〜の御名によって"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "彼らは歩む"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "御告げ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:32:24.002774920Z",
+  "model": "glm-5.2"
+}

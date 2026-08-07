@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "アブシャロムはフシャイに言った、「これが ⟨את⟩ あなたの友へのあなたのヘセド ⟨である⟩ か。なぜあなたは ⟨את⟩ あなたの友と共に行かなかったのか」。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "アブシャロム"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "フシャイ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これが"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "あなたのヘセド"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの友"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "あなたの友"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "あなたは行かなかった"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの友"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "あなたの友"
+    }
+  ],
+  "timestamp": "2026-08-07T10:54:11.670326117Z",
+  "model": "glm-5.2"
+}

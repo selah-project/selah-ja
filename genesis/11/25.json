@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "ナホルは⟨את⟩テラフを生んでのち、十九年と百年生き、息子たちと娘たちを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ナホル"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "のち"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "彼が生んで"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "テラフ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "テラフ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "九"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "と百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生んだ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "と娘たち"
+    }
+  ],
+  "timestamp": "2026-08-07T08:51:17.511849265Z",
+  "model": "glm-5.2"
+}

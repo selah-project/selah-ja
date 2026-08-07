@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "しかし、もしあなたたちが私に聞き従わず、これらすべての⟨את⟩務めを行わないなら——",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "しかし、もし"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תִשְׁמְע֖וּ",
+      "gloss": "あなたたちは聞き従う"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "私に"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תַעֲשׂ֔וּ",
+      "gloss": "あなたたちは行う"
+    },
+    {
+      "surface": "אֵ֥ת",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "הַמִּצְוֺ֖ת",
+      "gloss": "務めを"
+    },
+    {
+      "surface": "הָאֵֽלֶּה",
+      "gloss": "これらの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:06.917212143Z",
+  "model": "glm-5.2"
+}

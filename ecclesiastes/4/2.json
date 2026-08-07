@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして私は、⟨את⟩死んだ者たち — すでに死んだ者たちを — 称賛する。今なお生きている生者たちよりも。",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "そして私は称賛する"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "死んだ者たち"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "死んだ者たち"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "すでに"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "死んだ者たちを"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜よりも"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "生者たち"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "המה",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "生きている"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "今なお"
+    }
+  ],
+  "timestamp": "2026-08-07T17:30:27.331637625Z",
+  "model": "glm-5.2"
+}

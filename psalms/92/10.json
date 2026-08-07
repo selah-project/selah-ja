@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 92,
+  "translation": "見よ、あなたの敵を、ヤハウェよ、まことに見よ、あなたの敵は滅びうせる。不法をなす者のすべてが散らされる。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "あなたの敵"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェよ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "あなたの敵は"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "滅びうせる"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "散らされる"
+    },
+    {
+      "surface": "כל",
+      "gloss": "〜のすべてが"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "なす者"
+    },
+    {
+      "surface": "און",
+      "gloss": "不法を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:07.158449523Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 40,
+  "translation": "すべての谷は高くされ、すべての山と丘陵は低くされる。そして曲がった所は平らにされ、険しい所は谷となる。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "谷"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "高くされる"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "そして丘陵"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "低くされる"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "曲がった所"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "平らな所と"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "そして険しい所"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "谷と"
+    }
+  ],
+  "timestamp": "2026-08-07T11:30:15.324638665Z",
+  "model": "glm-5.2"
+}

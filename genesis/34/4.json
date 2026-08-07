@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そしてシュケムは父ハモルに語った、こう言って。「私のために⟨את⟩この若い女を取ってくれ。妻として。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…語った"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "シュケム"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ハモル"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "父"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "こう言って"
+    },
+    {
+      "surface": "קח",
+      "gloss": "取ってくれ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私のために"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この若い女"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "この若い女"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "この"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "妻として"
+    }
+  ],
+  "timestamp": "2026-08-07T09:04:34.083376168Z",
+  "model": "glm-5.2"
+}

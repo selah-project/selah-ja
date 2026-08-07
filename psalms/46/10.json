@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "戦いを休ませられる、地の果てまで。弓を折り、槍を断ち切られる。車を火で焼かれる。",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "休ませられる"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "戦いを"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "果て"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地の"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓を"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "折り"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "断ち切られる"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "槍を"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "車を"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "焼かれる"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:02.986728804Z",
+  "model": "glm-5.2"
+}

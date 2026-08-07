@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "そして王はツァドクに言った——エロヒムの箱⟨を⟩町に返せ。もし私がヤハウェの目に恵みを見いだすなら、⟨彼は⟩私を連れ戻し、私に⟨それ⟩と⟨את⟩その住処を見せるだろう。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王は"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "ツァドクに"
+    },
+    {
+      "surface": "השב",
+      "gloss": "返せ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "箱"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "町に"
+    },
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "私が…見いだす"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恵み"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…の目に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "私を連れ戻し"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "私に…見せる"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨それ⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その住処"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "その住処"
+    }
+  ],
+  "timestamp": "2026-08-07T10:54:02.933434495Z",
+  "model": "glm-5.2"
+}

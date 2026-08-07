@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "耳の聞く ⟨こと⟩ において、彼らは私に聞き従う。⟨⟩ 異邦の子弟は私に偽りを示す。",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "聞くことに"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "彼らは聞き従う"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子弟"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "異邦"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "彼らは偽りを示す"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:49.222239302Z",
+  "model": "glm-5.2"
+}

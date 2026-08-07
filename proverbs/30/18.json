@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "三つのもの、それらは ⟨私⟩ を驚かせた。そして四つ、私はそれらを知らない。",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "三つのもの"
+    },
+    {
+      "surface": "המה",
+      "gloss": "それらは"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "驚かせた"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私を"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "そして四つ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "私はそれらを知ら"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:16.399178475Z",
+  "model": "glm-5.2"
+}

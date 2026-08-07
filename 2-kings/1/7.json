@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "彼は彼らに語って言った、「あなたたちに出会いに上って来て、あなたたちに⟨את⟩これらの言葉を語った⟨その⟩人、どんな様子だったか」",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "彼は語って言った"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "מה",
+      "gloss": "どんな"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "様子だったか"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "人は"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…⟨その⟩"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上って来て"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "あなたたちに出会いに"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "…語った"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "あなたたちに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "これらの言葉"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "言葉"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:09:47.834154182Z",
+  "model": "glm-5.2"
+}

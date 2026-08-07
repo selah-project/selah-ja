@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "偽りの唇はヤハウェの忌み嫌うものであり、誠実を行う者たちは⟨ヤハウェの⟩喜びである。",
+  "tokens": [
+    {
+      "surface": "תּוֹעֲבַת",
+      "gloss": "忌み嫌うもの"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "שִׂפְתֵי",
+      "gloss": "唇"
+    },
+    {
+      "surface": "שָׁקֶר",
+      "gloss": "偽り"
+    },
+    {
+      "surface": "וְעֹשֵׂי",
+      "gloss": "行う者たち"
+    },
+    {
+      "surface": "אֱמוּנָה",
+      "gloss": "誠実"
+    },
+    {
+      "surface": "רְצוֹנוֹ",
+      "gloss": "⟨ヤハウェの⟩喜び"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:47.876080640Z",
+  "model": "glm-5.2"
+}

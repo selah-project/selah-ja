@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "それは後の世代が知るため、生まれくる子らが立ち上がり、彼らの子らに語り告げるためである。",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "〜のため"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "彼らが知る"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代が"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "後の"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子らが"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "生まれくる"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "彼らが立ち上がり"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "そして語り告げる"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "彼らの子らに"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:23.025057418Z",
+  "model": "glm-5.2"
+}

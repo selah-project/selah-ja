@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そしてあなたがたが「わたしたちは第七年に何を食べようか。見よ、わたしたちは種を蒔かず、⟨את⟩わたしたちの収穫を集めない」と言うなら —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "あなたがたが言う"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "わたしたちは食べようか"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "〜年に"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "第七"
+    },
+    {
+      "surface": "הן",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "わたしたちは種を蒔く"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "わたしたちは集める"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "わたしたちの収穫を"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "わたしたちの収穫"
+    }
+  ],
+  "timestamp": "2026-08-07T09:43:44.864184136Z",
+  "model": "glm-5.2"
+}

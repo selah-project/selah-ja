@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "水の中で顔が顔に⟨映る⟩ように、人の心は人に⟨映る⟩。",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "水の中で…ように"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "顔が"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "顔に"
+    },
+    {
+      "surface": "כן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心は"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人の"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "人に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:30.115447492Z",
+  "model": "glm-5.2"
+}

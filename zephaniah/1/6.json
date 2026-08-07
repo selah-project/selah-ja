@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして⟨את⟩ヤハウェの後ろから退く者たち、そしてヤハウェを求めず、まして⟨את⟩ヤハウェを問い求めない者たち⟨を⟩。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "退く者たち"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "退く者たち"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "〜の後ろから"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "そして〜という者"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "求めた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "彼を問い求めた"
+    }
+  ],
+  "timestamp": "2026-08-07T12:29:06.999324815Z",
+  "model": "glm-5.2"
+}

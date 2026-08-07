@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 25:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "あなたが貧しい者の堅固の塔、その苦難の中にある乏しき者の堅固の塔となられたからです。嵐からの隠れ場、灼熱からの陰。暴虐な者たちの息が壁に向かう嵐のようだからです。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "היית",
+      "gloss": "あなたは〜となられた"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "堅固の塔"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "貧しい者に"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "堅固の塔"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "乏しき者に"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "苦難の中に"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "隠れ場"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "嵐からの"
+    },
+    {
+      "surface": "צל",
+      "gloss": "陰"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "灼熱からの"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "息"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "暴虐な者たちの"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "嵐のように"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "壁に向かう"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:57.305454372Z",
+  "model": "glm-5.2"
+}

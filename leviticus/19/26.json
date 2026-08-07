@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "あなたがたは血の上に食べてはならない。占いをしてはならない。まじないをしてはならない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "あなたがたは食べては"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "あなたがたは占いをしては"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "あなたがたはまじないをしては"
+    }
+  ],
+  "timestamp": "2026-08-07T09:40:54.591714217Z",
+  "model": "glm-5.2"
+}

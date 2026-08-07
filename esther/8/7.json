@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 8:7",
+  "book": "esther",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして王アハシュエロシュはエステル王妃とユダヤ人モルデカイに言った——「見よ、ハマンの家を私はエステルに与えた。そして彼がユダヤ人に手を伸ばしたので、彼らは彼を⟨את⟩木に吊るした。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "アハシュエロシュ"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "エステルに"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "王妃"
+    },
+    {
+      "surface": "ולמרדכי",
+      "gloss": "そしてモルデカイに"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "ユダヤ人"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ハマンの"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "私は与えた"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "エステルに"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "そして⟨את⟩彼を",
+      "marks": "木"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "彼らは吊るした"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "木"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜ゆえに"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜であること"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "伸ばした"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "彼の手を"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "ユダヤ人に"
+    }
+  ],
+  "timestamp": "2026-08-07T13:43:43.639535716Z",
+  "model": "glm-5.2"
+}

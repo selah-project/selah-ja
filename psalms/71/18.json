@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 71:18",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 71,
+  "translation": "そして老いと白髪に至るまで、エロヒム、私を捨てないでください。私があなたの御腕をこの世代に、あなたの力をこれから来るすべての者に語り告げるまで。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "そしてまた"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "老い"
+    },
+    {
+      "surface": "ושיבה",
+      "gloss": "白髪"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ないで"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "私を捨てて"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "私が語り告げる"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "あなたの御腕を"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "世代に"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての〜に"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "来る者"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "あなたの力を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:16.614203512Z",
+  "model": "glm-5.2"
+}

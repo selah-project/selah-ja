@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 132,
+  "translation": "ヤハウェはダビデに真実をもって誓われた。⟨彼⟩はそれから引き返さない。「あなたの胎の実から、わたしはあなたのために王座に就かせる。」",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "誓われた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデに"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真実をもって"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "引き返す"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "それから"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "〜の実から"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "あなたの胎の"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "わたしは就かせる"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "王座に"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのために"
+    }
+  ],
+  "timestamp": "2026-08-07T13:05:32.156110026Z",
+  "model": "glm-5.2"
+}

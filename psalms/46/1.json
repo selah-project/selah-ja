@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 46,
+  "translation": "聖歌隊の指揮者に向けて、コラフの子らのために、少女⟨の声⟩に合わせて、一首の歌。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "聖歌隊の指揮者に向けて"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "～の子らに"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "コラフ"
+    },
+    {
+      "surface": "על",
+      "gloss": "～に合わせて"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "少女⟨の声⟩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "一首の歌"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:21.620708505Z",
+  "model": "glm-5.2"
+}

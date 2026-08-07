@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 73,
+  "translation": "まことに空しく、わたしは自分の心を清め、無垢のうちに自分の手を洗った。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "まことに"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "空しく"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "わたしは清めた"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "自分の心を"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "そして洗った"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "無垢のうちに"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "自分の手を"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:14.661763128Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "また、亜麻を梳く者たちは恥じ、白麻の織り手たちは⟨色を失う⟩。",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "恥じる"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "働く者たち"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "亜麻を"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "梳ぐ"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "織り手たち"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "白麻の"
+    }
+  ],
+  "timestamp": "2026-08-07T11:24:19.772767004Z",
+  "model": "glm-5.2"
+}

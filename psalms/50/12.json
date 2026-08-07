@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "もしわたしが飢えても、あなたに告げはしない。それは大地とその満ちるものはわたしのものだからだ。",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "אֶרְעַב",
+      "gloss": "わたしが飢えても"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "אֹמַר",
+      "gloss": "わたしは告げる"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "それは～だからだ"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "わたしのもの"
+    },
+    {
+      "surface": "תֵּבֵל",
+      "gloss": "大地は"
+    },
+    {
+      "surface": "וּמְלֹאָהּ",
+      "gloss": "そしてその満ちるものも"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:18.624745932Z",
+  "model": "glm-5.2"
+}

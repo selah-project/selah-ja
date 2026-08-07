@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 147,
+  "translation": "氷を食物のように投げ捨てられる。⟨御⟩冷えの前に、誰が立っていられようか。",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "投げ捨てられる"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "⟨御⟩氷"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "食物のように"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "⟨御⟩冷え"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "立っていられようか"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:53.701376262Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "我が主は⟨את⟩あなたの僕たちに尋ねて言われました。「あなたたちに父がいるか、それとも兄弟がいるか」と。",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "我が主は"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "尋ねて"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの僕たちを"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "あなたの僕たちに"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言われました"
+    },
+    {
+      "surface": "היש",
+      "gloss": "…がいるか"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "あなたたちに"
+    },
+    {
+      "surface": "אב",
+      "gloss": "父が"
+    },
+    {
+      "surface": "או",
+      "gloss": "それとも"
+    },
+    {
+      "surface": "אח",
+      "gloss": "兄弟が"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:34.769688407Z",
+  "model": "glm-5.2"
+}

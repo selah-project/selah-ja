@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 8:28",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そして彼はアハブの子ヨラムと共に、ラモト・ギルアデでアラムの王ハザエルに対する戦いに行った。そしてアラム人はヨラムを打った。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして彼は行った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨラム"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "ヨラム"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "アハブ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "戦いに"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…と共に"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "ハザエル"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "アラム"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "ラモト…で"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ギルアド"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "そして彼らは打った"
+    },
+    {
+      "surface": "ארמים",
+      "gloss": "アラム人は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨラム"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "ヨラムを"
+    }
+  ],
+  "timestamp": "2026-08-07T11:13:09.953703478Z",
+  "model": "glm-5.2"
+}

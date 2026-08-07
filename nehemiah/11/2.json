@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして民は、自ら進んでイェルシャライムに住もうとしたすべての男たちを祝福した。",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "そして…祝福した"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "男たち"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "自ら進んで…する者"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "住むために"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "イェルシャライムに"
+    }
+  ],
+  "timestamp": "2026-08-07T13:58:35.993506608Z",
+  "model": "glm-5.2"
+}

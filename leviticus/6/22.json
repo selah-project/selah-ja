@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "祭司たちの中のすべて男子は⟨את⟩それを食べる。それは聖なるものの聖である。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男子"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "祭司たちの中の"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食べる"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それ（祭物）"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なるものの"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "聖"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "である"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:46.903470557Z",
+  "model": "glm-5.2"
+}

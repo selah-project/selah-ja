@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 15:4",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "いや、あなたは恐れを無効にし、エルの御前の祈りを減らす。",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "いや"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "無効にする"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "恐れを"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "減らす"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "祈りを"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の御前の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "エル"
+    }
+  ],
+  "timestamp": "2026-08-07T13:24:35.209044945Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 3:29",
+  "book": "judges",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼らはその時、⟨את⟩ モアブを打った。およそ一万人、すべての肥えた者とすべての力ある勇士を。そしてひとりも逃げ⟨のこ⟩らなかった。",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "そして彼らは打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "モアブ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "その時に"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "その"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "およそ十"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "肥えた者"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そしてすべての"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "力ある勇士"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして～ない"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "逃げた"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ひとりも"
+    }
+  ],
+  "timestamp": "2026-08-07T10:32:32.702310756Z",
+  "model": "glm-5.2"
+}

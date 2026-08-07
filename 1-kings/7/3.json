@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そして杉で覆われていた、上から、四十五の柱の上にある側室の上に、すなわち十五が一列に。",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "覆われていた"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "杉で"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "上から"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "側室"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上にある"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "柱"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "十五"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "（十）"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "一列に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:59:25.517845561Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして彼らは、その銀を業をする者たちに渡すためにその手に預けたあの人々 ⟨את⟩ と会計しなかった。彼らが忠実に従事していたからである。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "彼らは会計した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あの人々"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "あの人々を"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨人々⟩"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "彼らが渡した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その銀"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "彼らの手"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "渡すために"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "する者たちに"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "業を"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "忠実に"
+    },
+    {
+      "surface": "הם",
+      "gloss": "彼らは"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "従事している"
+    }
+  ],
+  "timestamp": "2026-08-07T11:14:29.116225298Z",
+  "model": "glm-5.2"
+}

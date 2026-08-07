@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 24:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そしてヤハウェの栄光がシナイ山の上に宿り、雲がそれを六日間覆った。そして七日目に、雲の中からモーシェに呼びかけられた。",
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "そして宿った"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "栄光"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "シナイ"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "そしてそれを覆った"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲が"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "六"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "そして呼びかけた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "〜日に"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "〜の中から"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:36.401556376Z",
+  "model": "glm-5.2"
+}

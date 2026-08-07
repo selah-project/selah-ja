@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 92,
+  "translation": "悪者たちが草のように芽吹くとき、不法をなす者たちがみな花を咲かせるとき——永遠にいたるまで滅ぼし尽くされるために。",
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "芽吹くとき"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "悪者たちが"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "のように"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "花を咲かせるとき"
+    },
+    {
+      "surface": "כל",
+      "gloss": "みな"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "をなす者たちが"
+    },
+    {
+      "surface": "און",
+      "gloss": "不法"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "滅ぼし尽くされるために"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "〜にいたるまで"
+    },
+    {
+      "surface": "עד",
+      "gloss": "永遠に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:39.461658886Z",
+  "model": "glm-5.2"
+}

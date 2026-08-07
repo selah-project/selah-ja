@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 35,
+  "translation": "そして⟨את⟩香料、そして⟨את⟩油を — 灯のための、そして聖別の油のための、そして香料の香のための。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "香料"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "香料"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "油"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "灯のための"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "そして油のための"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "聖別の"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "そして香のための"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "香料の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:09.403318199Z",
+  "model": "glm-5.2"
+}

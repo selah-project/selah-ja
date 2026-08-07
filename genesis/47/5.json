@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 47,
+  "translation": "そしてパロはヨセフに向かって言った、すなわち「あなたの父とあなたの兄弟たちはあなたのもとに来た」と。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に向かって"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ヨセフ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "すなわち…と言って"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "あなたの父"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "とあなたの兄弟たちは"
+    },
+    {
+      "surface": "באו",
+      "gloss": "来た"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "あなたのもとに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:44:25.724888862Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "ハノクはエロヒム ⟨את⟩ と共に歩んだ。メトシェラク ⟨את⟩ を生んでのち、三百年のあいだ、そして息子たちと娘たちを生んだ。",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "そして歩んだ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ハノク"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エロヒム"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "〜ののち"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "彼が生んだ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "メトシェラク"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "メトシェラク"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "そして生んだ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "息子たち"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "と娘たち"
+    }
+  ],
+  "timestamp": "2026-08-07T16:21:55.873916126Z",
+  "model": "glm-5.2"
+}

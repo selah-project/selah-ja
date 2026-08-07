@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 50,
+  "translation": "感謝の犠牲を屠る者は私を栄光化する。そして道を定める者に、私はエロヒムの救いを示そう。",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "屠る者は"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "感謝の"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "私を栄光化する"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "そして定める者に"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道を"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "私は示そう"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "〜の救いを"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムの"
+    }
+  ],
+  "timestamp": "2026-08-07T12:45:27.352773359Z",
+  "model": "glm-5.2"
+}

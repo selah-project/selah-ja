@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 113,
+  "translation": "気高い者たちと共に、⟨すなわち⟩その民の気高い者たちと共に、座らせるために。",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "座らせるために"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と共に"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "気高い者たち"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨すなわち⟩〜と共に"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "気高い者たちの"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "その民の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:08.829735999Z",
+  "model": "glm-5.2"
+}

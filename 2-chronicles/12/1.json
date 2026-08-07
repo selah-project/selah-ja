@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そしてこうなった — レハブアムの王権が確立され、彼が強くなったとき、彼は⟨את⟩ヤハウェのトーラを捨てた、および全イスラエルも彼と共に⟨そうした⟩。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうなった"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "確立されるとき"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "王権"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "レハブアム"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "そして彼が強くなったとき"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "捨てた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェのトーラ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "トーラ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "および全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "彼と共に"
+    }
+  ],
+  "timestamp": "2026-08-07T14:12:45.687847804Z",
+  "model": "glm-5.2"
+}

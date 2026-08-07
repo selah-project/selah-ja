@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして⟨あなたは⟩衣服を取り、アハロンに⟨את⟩下衣を着せ、⟨את⟩エフォドの上着と、⟨את⟩エフォドと、⟨את⟩胸当てを着せ、エフォドの巧みな織りの帯で彼に帯を締めよ。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "そして⟨あなたは⟩取る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "衣服"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "衣服"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "そして着せる"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アハロン"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "下衣"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "下衣"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "エフォドの上着"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "上着"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "エフォドの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "エフォド"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "エフォド"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "胸当て"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "胸当て"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "そして帯を締める"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "巧みな織りの帯で"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "エフォドの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:40.594617953Z",
+  "model": "glm-5.2"
+}

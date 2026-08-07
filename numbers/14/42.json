@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "上ってはならない。ヤハウェがあなたたちのうちにいないからである。そうすれば、あなたたちの敵の前で打ち破られない。」",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "上って"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "אין",
+      "gloss": "いない"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "あなたたちのうちに"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "〜ないために"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "打ち破られる"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前で"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "あなたたちの敵の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:55:20.579813658Z",
+  "model": "glm-5.2"
+}

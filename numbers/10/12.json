@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 10:12",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてイスラエルの子らは、彼らの旅程にしたがってシナイの荒野から旅立った。そして雲はパランの荒野に宿った。",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "そして彼らは旅立った"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "彼らの旅程にしたがって"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "…の荒野から"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "シナイ"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "そして…は宿った"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "…の荒野に"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "パラン"
+    }
+  ],
+  "timestamp": "2026-08-07T09:55:49.426907560Z",
+  "model": "glm-5.2"
+}

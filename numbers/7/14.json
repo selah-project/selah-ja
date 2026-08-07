@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "金のさじ一つ、十シェケル、香で満たされたもの。",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "さじ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一つ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "満たされた"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香で"
+    }
+  ],
+  "timestamp": "2026-08-07T09:50:41.133545567Z",
+  "model": "glm-5.2"
+}

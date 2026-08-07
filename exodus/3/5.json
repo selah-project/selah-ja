@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして⟨彼は⟩言った——近づいてはならない、ここへ。あなたの足から履物を脱ぎ捨てよ。あなたがその上に立っている場所、それは聖なる地だからです。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "近づいては"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ここへ"
+    },
+    {
+      "surface": "של",
+      "gloss": "脱ぎ捨てよ"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "あなたの履物を"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "あなたの足の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "その場所"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜ところの"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "立っている"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "地"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖なる"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは〜である"
+    }
+  ],
+  "timestamp": "2026-08-07T09:11:44.650064319Z",
+  "model": "glm-5.2"
+}

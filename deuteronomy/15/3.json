@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "⟨את⟩外国人はあなたは取り立ててよい、しかしあなたの兄弟に対して ⟨את⟩あなたの手は免除する。」",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "外国人"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "外国人は"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "あなたは取り立ててよい"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "しかし〜は"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに対して"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの兄弟"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "免除する"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "あなたの手は"
+    }
+  ],
+  "timestamp": "2026-08-07T14:24:52.546215894Z",
+  "model": "glm-5.2"
+}

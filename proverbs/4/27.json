@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "右に傾いてはならない、左にも⟨倾斜してはならない⟩。あなたの足を悪から遠ざけよ。",
+  "tokens": [
+    {
+      "surface": "אַֽל",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תֵּט",
+      "gloss": "傾いてはならない"
+    },
+    {
+      "surface": "יָמִ֥ין",
+      "gloss": "右に"
+    },
+    {
+      "surface": "וּשְׂמֹ֑אול",
+      "gloss": "そして左にも"
+    },
+    {
+      "surface": "הָסֵ֖ר",
+      "gloss": "遠ざけよ"
+    },
+    {
+      "surface": "רַגְלְךָ֣",
+      "gloss": "あなたの足を"
+    },
+    {
+      "surface": "מֵרָֽע",
+      "gloss": "悪から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:08:16.847454721Z",
+  "model": "glm-5.2"
+}

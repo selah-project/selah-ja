@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 64,
+  "translation": "そしてエロヒムが矢を突然射られる — 彼らの打ち傷となる。",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "そして射られる"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "矢"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "突然"
+    },
+    {
+      "surface": "היו",
+      "gloss": "となる"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "彼らの打ち傷"
+    }
+  ],
+  "timestamp": "2026-08-07T12:48:49.286611982Z",
+  "model": "glm-5.2"
+}

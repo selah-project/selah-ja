@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 96,
+  "translation": "ヤハウェに、⟨御〉名の栄光を帰せよ。供え物を携えて、⟨御〉庭に来い。",
+  "tokens": [
+    {
+      "surface": "הָב֣וּ",
+      "gloss": "帰せよ"
+    },
+    {
+      "surface": "לַ֭יהוָה",
+      "gloss": "ヤハウェに"
+    },
+    {
+      "surface": "כְּב֣וֹד",
+      "gloss": "栄光を"
+    },
+    {
+      "surface": "שְׁמ֑וֹ",
+      "gloss": "⟨御〉名の"
+    },
+    {
+      "surface": "שְׂאֽוּ",
+      "gloss": "携えよ"
+    },
+    {
+      "surface": "מִ֝נְחָ֗ה",
+      "gloss": "供え物を"
+    },
+    {
+      "surface": "וּבֹ֥אוּ",
+      "gloss": "来い"
+    },
+    {
+      "surface": "לְחַצְרוֹתָֽיו",
+      "gloss": "⟨御〉庭に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:56:04.220328665Z",
+  "model": "glm-5.2"
+}

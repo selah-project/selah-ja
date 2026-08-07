@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "「会衆に語って言え。コラフ、ダタン、およびアビラムの住まいの周囲から上れ。」",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "語れ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "会衆"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "上れ"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "〜の周囲から"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "〜の住まい"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "コラフ"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "ダタン"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "およびアビラム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:56:59.070957656Z",
+  "model": "glm-5.2"
+}

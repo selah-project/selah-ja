@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 7:10",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "火の川が流れ、彼の前にから出て来た。千の千が彼に仕え、万の万が彼の前に立った。裁きは座に着き、書物は開かれた。",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "川が"
+    },
+    {
+      "surface": "די",
+      "gloss": "～の"
+    },
+    {
+      "surface": "נור",
+      "gloss": "火"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "流れ"
+    },
+    {
+      "surface": "ונפק",
+      "gloss": "出て来た"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～から"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "彼の前に"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千が"
+    },
+    {
+      "surface": "ישמשונה",
+      "gloss": "彼に仕え"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "万の"
+    },
+    {
+      "surface": "רבון",
+      "gloss": "万が"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "彼の前に"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "立った"
+    },
+    {
+      "surface": "דינא",
+      "gloss": "裁きは"
+    },
+    {
+      "surface": "יתב",
+      "gloss": "座に着き"
+    },
+    {
+      "surface": "וספרין",
+      "gloss": "書物は"
+    },
+    {
+      "surface": "פתיחו",
+      "gloss": "開かれた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:46:03.114286874Z",
+  "model": "glm-5.2"
+}

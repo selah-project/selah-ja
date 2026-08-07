@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "彼は貪り裂くために渇望する獅子のような者、隠れ場に潜む若獅子のようだ。",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "彼の姿は〜のようだ"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "獅子のよう"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "渇望する"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "貪り裂くために"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "そして若獅子のよう"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "潜む"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "隠れ場に"
+    }
+  ],
+  "timestamp": "2026-08-07T12:36:10.325826423Z",
+  "model": "glm-5.2"
+}

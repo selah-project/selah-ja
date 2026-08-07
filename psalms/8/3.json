@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "乳飲み子と幼子たちの口から、あなたは力を据えられた。あなたの敵対者たちのゆえに、敵と復讐する者を沈黙させるために。",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "〜の口から"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "乳飲み子"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "と幼子たちの"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "あなたは設立された"
+    },
+    {
+      "surface": "עז",
+      "gloss": "力を"
+    },
+    {
+      "surface": "למען",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "あなたの敵対者たち"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "沈黙させるために"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "敵と"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "復讐する者"
+    }
+  ],
+  "timestamp": "2026-08-07T12:34:53.171300949Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 4:13",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "ムーサルをしっかりつかめ、放すな。それを守れ、それはあなたの命だから。",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "しっかりつかめ"
+    },
+    {
+      "surface": "במוסר",
+      "gloss": "ムーサルを"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜な"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "放す"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "それを守れ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "だから"
+    },
+    {
+      "surface": "היא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "あなたの命"
+    }
+  ],
+  "timestamp": "2026-08-07T17:24:22.395312212Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "パロは安ぎがあったのを見て、⟨את⟩自分の心を重くした。そして彼らの声に聞き従わなかった、ヤハウェが語った通りに。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして見た"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "パロは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということを"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "あった"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "安ぎが"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "そして重くした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の心"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "自分の心を"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜なかった"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聞き従った"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "彼らの声に"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜通りに"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    }
+  ],
+  "timestamp": "2026-08-07T09:15:38.353388118Z",
+  "model": "glm-5.2"
+}

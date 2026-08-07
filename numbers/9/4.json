@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "そしてモーセはイスラエルの子らに、過越の祭りを行うように語った。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "そして…語った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "…を行うために"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "過越の祭り"
+    }
+  ],
+  "timestamp": "2026-08-07T09:53:54.744733163Z",
+  "model": "glm-5.2"
+}

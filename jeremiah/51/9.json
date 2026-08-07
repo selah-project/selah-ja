@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 51:9",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "私たちはバビロンを癒そうとしたが、⟨彼女⟩は癒されなかった。⟨彼女⟩を見捨てて、それぞれ自分の地へ行こう。その裁きが天にまで届き、雲にまで高く上げられたのだから。",
+  "tokens": [
+    {
+      "surface": "רפאנו",
+      "gloss": "私たちは癒そうとした"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "バビロン"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロン"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜なかった"
+    },
+    {
+      "surface": "נרפתה",
+      "gloss": "癒された"
+    },
+    {
+      "surface": "עזבוה",
+      "gloss": "見捨てよ、⟨彼女⟩を"
+    },
+    {
+      "surface": "ונלך",
+      "gloss": "そして行こう"
+    },
+    {
+      "surface": "איש",
+      "gloss": "それぞれ"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "自分の地へ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "届いた"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へと"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "משפטה",
+      "gloss": "その裁きが"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "そして上げられた"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "雲"
+    }
+  ],
+  "timestamp": "2026-08-07T12:00:29.461658350Z",
+  "model": "glm-5.2"
+}

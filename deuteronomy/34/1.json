@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 34:1",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "モーシェはモアブの草原から、ネボ山へ、すなわちエリコの面するピスガの頂へ上った。そしてヤハウェは彼に⟨את⟩全土を——⟨את⟩ギルアドを、ダンまで——見せられた。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "そして…上った"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェ"
+    },
+    {
+      "surface": "מערבת",
+      "gloss": "草原から"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "モアブ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "へ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ネボ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頂"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "ピスガの"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "すなわち"
+    },
+    {
+      "surface": "על",
+      "gloss": "面する"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…の"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "エリコ"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "そして…見せられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全土"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ギルアド"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ギルアド"
+    },
+    {
+      "surface": "עד",
+      "gloss": "まで"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ダン"
+    }
+  ],
+  "timestamp": "2026-08-07T10:22:16.109499475Z",
+  "model": "glm-5.2"
+}

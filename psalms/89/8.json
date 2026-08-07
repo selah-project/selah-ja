@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "エルは聖なる者たちの秘儀において恐るべく、大いなる方。またすべてその周囲の者に畏れられる方。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "エルは"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "恐るべく"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "〜の秘儀において"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "聖なる者たちの"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "大いなる"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "そして畏れられる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "その周囲の者"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:29.357809212Z",
+  "model": "glm-5.2"
+}

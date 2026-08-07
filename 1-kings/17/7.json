@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そして日々が終わった後、ナハルは乾いた — ただし地に雨がなかったので。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてこうあった"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "終わった後"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日々が"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "乾いた"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ナハルは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのも"
+    },
+    {
+      "surface": "לא",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "היה",
+      "gloss": "〜があった"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "雨"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:07:21.396307653Z",
+  "model": "glm-5.2"
+}

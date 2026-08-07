@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして使者は行き、来て、ダビデに、ヨアブが彼を遣わしたことのすべてを告げた。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして…は行った"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "使者"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "そして告げた"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ダビデに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ことの"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "彼を遣わした"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブが"
+    }
+  ],
+  "timestamp": "2026-08-07T10:52:00.261776966Z",
+  "model": "glm-5.2"
+}

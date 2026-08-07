@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そして彼らは偶像に仕えた——ヤハウェが彼らに告げたことについて、「あなたたちは ⟨את⟩ この事を行ってはならない。」",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "そして彼らは仕えた"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "偶像に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜について"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "あなたたちは行っては"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "この事"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    }
+  ],
+  "timestamp": "2026-08-07T11:16:15.245582082Z",
+  "model": "glm-5.2"
+}

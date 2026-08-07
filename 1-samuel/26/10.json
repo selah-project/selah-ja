@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "ダビデは言った。「ヤハウェは生きておられる。ヤハウェが彼を打たれるか、あるいは彼の日が来て彼が死ぬか、あるいは戦いに下って行って滅びるか。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデは"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生きておられる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜である限り"
+    },
+    {
+      "surface": "אם",
+      "gloss": "〜か"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "彼を打たれる"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "彼の日"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "来て"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "死ぬ"
+    },
+    {
+      "surface": "או",
+      "gloss": "あるいは"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "戦いに"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "下って行って"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "滅びる"
+    }
+  ],
+  "timestamp": "2026-08-07T10:48:10.431836718Z",
+  "model": "glm-5.2"
+}

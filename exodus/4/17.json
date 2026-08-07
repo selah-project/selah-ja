@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして⟨あなたは⟩この杖を⟨あなたの⟩手に取れ。あなたがそれによって行う⟨את⟩しるしを⟨。⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "この杖"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "杖"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "あなたの手に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは〜である(ところの)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "あなたが行う"
+    },
+    {
+      "surface": "בו",
+      "gloss": "それによって"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "しるしを"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "しるし"
+    }
+  ],
+  "timestamp": "2026-08-07T09:14:21.434649600Z",
+  "model": "glm-5.2"
+}

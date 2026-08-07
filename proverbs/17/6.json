@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "老人の冠は孫たち、子らの栄光は⟨彼らの⟩父たちである。",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "冠"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "老人の"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "そして栄光"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子らの"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "⟨彼らの⟩父たち"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:21.037220016Z",
+  "model": "glm-5.2"
+}

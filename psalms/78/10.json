@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 78,
+  "translation": "彼らはエロヒムの契約を守らず、⟨また⟩そのみおしえに従って歩むことを拒んだ。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "守らなかった"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "契約"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "そしてそのみおしえにおいて"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "拒んだ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "歩むことを"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:32.813876885Z",
+  "model": "glm-5.2"
+}

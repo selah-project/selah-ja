@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "彼らはヤハウェの地に住まない。エフライムはミツライムに戻り、アシュルにおいて汚れたものを食べる。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "彼らは住ま"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "〜の地に"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "戻り"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライムは"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムに"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "アシュルにおいて"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "汚れたものを"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "食べる"
+    }
+  ],
+  "timestamp": "2026-08-07T12:20:12.207908039Z",
+  "model": "glm-5.2"
+}

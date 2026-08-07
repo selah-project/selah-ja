@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "彼らは遠くから⟨את⟩彼を見た。彼が彼らに近づく前に、彼らは⟨את⟩彼を欺いて死なせようと謀った。",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "そして…見た"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "遠くから"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "…する前に"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "近づく"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "そして…謀った"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "死なせようと"
+    }
+  ],
+  "timestamp": "2026-08-07T09:05:16.851469241Z",
+  "model": "glm-5.2"
+}

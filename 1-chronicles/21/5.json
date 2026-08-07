@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 21:5",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "ヨアブは⟨את⟩民の数え上げの数をダビデに渡した。全イスラエルは剣を抜く者百十万、ユダは剣を抜く者四十七万であった。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "渡した"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民の数え上げの数"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "数"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "数え上げの"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "〜であった"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "と百"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "抜く"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "と七十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "抜く"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "剣"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:16.412538679Z",
+  "model": "glm-5.2"
+}

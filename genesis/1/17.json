@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてエロヒムは⟨את⟩それらを天の大空に置き、地の上を照らすためとした。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "そして置いた"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "それら（二つの大きな光）"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "大空に"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "照らすため"
+    },
+    {
+      "surface": "על",
+      "gloss": "の上を"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:37.468223814Z",
+  "model": "glm-5.2"
+}

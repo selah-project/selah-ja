@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 23:16",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "竪琴を取れ、町を巡れ、忘れられた遊女よ。良く弾け、歌を多くせよ。それはあなたが思い出されるためだ。",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "取れ"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "竪琴を"
+    },
+    {
+      "surface": "סבי",
+      "gloss": "巡れ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "町を"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "遊女よ"
+    },
+    {
+      "surface": "נשכחה",
+      "gloss": "忘れられた"
+    },
+    {
+      "surface": "היטיבי",
+      "gloss": "良く弾け"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "弾く"
+    },
+    {
+      "surface": "הרבי",
+      "gloss": "多くせよ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌を"
+    },
+    {
+      "surface": "למען",
+      "gloss": "～のためだ"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "あなたが思い出される"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:45.992123085Z",
+  "model": "glm-5.2"
+}

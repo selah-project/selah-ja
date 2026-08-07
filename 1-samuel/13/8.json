@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして彼は、シュムエルが定めた定めの日のために七日間待ったが、シュムエルはギルガルに来ず、民は彼のもとから散っていった。",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "そして待った"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "定めの日に"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "それは"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエルが"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "しかし〜なかった"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "シュムエルは"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ギルガルに"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "そして散った"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "彼のもとから"
+    }
+  ],
+  "timestamp": "2026-08-07T10:42:37.449363167Z",
+  "model": "glm-5.2"
+}

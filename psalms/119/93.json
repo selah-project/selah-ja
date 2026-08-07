@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "とこしえに、私はあなたの戒めを忘れない。あなたがそれによって私を生かされたからだ。",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "とこしえに"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "私は忘れる"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "あなたの戒めを"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "בם",
+      "gloss": "それによって"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "あなたは私を生かされた"
+    }
+  ],
+  "timestamp": "2026-08-07T13:03:40.052500200Z",
+  "model": "glm-5.2"
+}

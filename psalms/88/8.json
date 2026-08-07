@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 88,
+  "translation": "私の上にあなたの激怒がのしかかり、あなたの全ての波が私を苦しめた。セルァ。",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "私の上に"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "のしかかり"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "あなたの激怒が"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "そして全ての"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "あなたの波が"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "私を苦しめた"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "セルァ"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:04.248153088Z",
+  "model": "glm-5.2"
+}

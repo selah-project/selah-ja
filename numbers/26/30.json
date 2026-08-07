@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "これらがギルアデの子らである：イエゼル、イエズリ家族⟨の⟩；ヘレクに⟨属する⟩、ヘレキ家族⟨の⟩；",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "これらが"
+    },
+    {
+      "surface": "בני",
+      "gloss": "〜の子ら"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ギルアデ"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "イエゼル"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "イエズリの"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "ヘレクに"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "ヘレキの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:01:34.914471394Z",
+  "model": "glm-5.2"
+}

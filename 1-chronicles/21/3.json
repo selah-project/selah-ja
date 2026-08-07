@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 21:3",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 21,
+  "translation": "ヨアブは言った。「ヤハウェが⟨その⟩民を今の百倍に増やされますように。わが主、王よ、彼らは皆、わが主の僕ではありませんか。なぜわが主はこれを求めるのですか。なぜイスラエルに罪過をもたらすようになるのですか。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ヨアブは"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "増やされますように"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨その⟩民を"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "彼らのように"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "百"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "倍"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "〜ではないですか"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "わが主よ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "彼らは皆"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "わが主の"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "僕として"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "求めるのですか"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "これを"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "わが主は"
+    },
+    {
+      "surface": "למה",
+      "gloss": "なぜ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "もたらすのですか"
+    },
+    {
+      "surface": "לאשמה",
+      "gloss": "罪過として"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "イスラエルに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:25.108809224Z",
+  "model": "glm-5.2"
+}

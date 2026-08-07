@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "正しい者たちの全きことは彼らを導き、裏切り者たちの曲がりは彼らを滅ぼす。",
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "全きことは"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正しい者たちの"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "彼らを導き"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "そして曲がりは"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "裏切り者たちの"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "彼らを滅ぼす"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:56.402584195Z",
+  "model": "glm-5.2"
+}

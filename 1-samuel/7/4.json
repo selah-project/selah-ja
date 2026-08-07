@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "そしてイスラエルの子らは ⟨את⟩ バアルたちと ⟨את⟩ アシュタロテを取り除き、ヤハウェに ⟨את⟩ 単独で仕えた。",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "そして…取り除いた"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "バアルたち"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "そのバアルたち"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "アシュタロテ"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "そのアシュタロテ"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "そして…仕えた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "単独で"
+    }
+  ],
+  "timestamp": "2026-08-07T10:41:51.954601333Z",
+  "model": "glm-5.2"
+}

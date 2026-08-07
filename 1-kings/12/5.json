@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "そして彼は彼らに言った——去って、なお三日⟨過ぎて⟩、私のもとに帰れ。そして民は去った。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして彼は言った"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "去れ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "なお"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "そして帰れ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "私のもとに"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "そして去った"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    }
+  ],
+  "timestamp": "2026-08-07T11:02:46.816706830Z",
+  "model": "glm-5.2"
+}

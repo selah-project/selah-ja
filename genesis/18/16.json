@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 18:16",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "そして⟨その⟩人々はそこから立ち上がり、ソドムのほうを見下ろした。そしてアブラハムは彼らを送るために彼らと共に歩いていた。",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "そして立ち上がった"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "人々は"
+    },
+    {
+      "surface": "וישקפו",
+      "gloss": "見下ろした"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "פני",
+      "gloss": "〜の面"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ソドムの"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "そしてアブラハムは"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "歩いていた"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "彼らと共に"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "彼らを送るために"
+    }
+  ],
+  "timestamp": "2026-08-07T08:54:25.662837541Z",
+  "model": "glm-5.2"
+}

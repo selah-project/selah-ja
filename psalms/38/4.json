@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "あなたの憤りのゆえに、私の肉に健全さはなく、私の罪のゆえに、私の骨に平安はない",
+  "tokens": [
+    {
+      "surface": "אֵין",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "מְתֹם",
+      "gloss": "健全さは"
+    },
+    {
+      "surface": "בְּבְשָׂרִי",
+      "gloss": "私の肉に"
+    },
+    {
+      "surface": "מִפְּנֵי",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "זַעְמֶךָ",
+      "gloss": "あなたの憤り"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שָׁלוֹם",
+      "gloss": "平安"
+    },
+    {
+      "surface": "בַּעֲצָמַי",
+      "gloss": "私の骨に"
+    },
+    {
+      "surface": "מִפְּנֵי",
+      "gloss": "〜のゆえに"
+    },
+    {
+      "surface": "חַטָּאתִי",
+      "gloss": "私の罪"
+    }
+  ],
+  "timestamp": "2026-08-07T12:43:54.684338218Z",
+  "model": "glm-5.2"
+}

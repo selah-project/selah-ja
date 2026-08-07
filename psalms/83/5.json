@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 83,
+  "translation": "彼らは言った、「来い、彼らを国民⟨から⟩根絶やしにしよう。そしてイスラエルの名はもう覚えられないように」。",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "彼らは言った"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "来い"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "そして彼らを根絶やしにしよう"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "国民⟨から⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "覚えられよう"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もう"
+    }
+  ],
+  "timestamp": "2026-08-07T12:53:43.105596716Z",
+  "model": "glm-5.2"
+}

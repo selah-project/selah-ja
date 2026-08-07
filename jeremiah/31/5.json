@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 31:5",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "なお、あなたはシャマロンの山々にぶどう園を植える。植える者たちが植え、そして⟨その実を⟩味わう。",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "なお"
+    },
+    {
+      "surface": "תטעי",
+      "gloss": "あなたは植える"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ぶどう園を"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "…の山々に"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "シャマロン"
+    },
+    {
+      "surface": "נטעו",
+      "gloss": "植える者たちが"
+    },
+    {
+      "surface": "נטעים",
+      "gloss": "植える"
+    },
+    {
+      "surface": "וחללו",
+      "gloss": "そして味わう"
+    }
+  ],
+  "timestamp": "2026-08-07T11:51:19.217410157Z",
+  "model": "glm-5.2"
+}

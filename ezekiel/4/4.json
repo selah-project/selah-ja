@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 4:4",
+  "book": "ezekiel",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そしてあなた、あなたの左の脇に横たわり、イスラエルの家の ⟨את⟩ 不義をその上に置け — あなたがその上に横たわる日数の間、あなたは ⟨את⟩ 彼らの不義を負う者となる。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "そしてあなた"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "横たわれ"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "צדך",
+      "gloss": "あなたの脇"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "左の"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "そして置け"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "不義"
+    },
+    {
+      "surface": "עון",
+      "gloss": "不義"
+    },
+    {
+      "surface": "בית",
+      "gloss": "〜の家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "数"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜の（間）"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "あなたが横たわる"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "その上に"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "あなたは負う"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの不義"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "彼らの不義"
+    }
+  ],
+  "timestamp": "2026-08-07T12:02:01.234587850Z",
+  "model": "glm-5.2"
+}

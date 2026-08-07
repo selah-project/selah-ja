@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "小さな町、そこにいる人は少なく、大きな王がそれに向かって来て、これを囲み、これに向かって大きな攻城囲いを築いた。",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "町"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "小さな"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "そして人々は"
+    },
+    {
+      "surface": "בה",
+      "gloss": "その中に"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "少なく"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "そして来た"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "それに向かって"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王が"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大きな"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "そして囲んだ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "それ"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "そして築いた"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "それに向かって"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "攻城囲いを"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "大きな"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:32.232754162Z",
+  "model": "glm-5.2"
+}

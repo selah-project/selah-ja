@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "エドムは⟨את⟩イスラエルが彼の領域を通過することを許すことを拒んだ。そしてイスラエルは彼から遠ざかった。",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "そして…拒んだ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "エドムは"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "許すこと"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエル"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "通過すること"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "彼の領域を"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "そして…遠ざかった"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルは"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "彼から"
+    }
+  ],
+  "timestamp": "2026-08-07T09:59:08.088623166Z",
+  "model": "glm-5.2"
+}

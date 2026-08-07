@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 53,
+  "translation": "誰が私たちの聞くところを信じたか。ヤハウェの腕は、誰に示されたのか。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "信じたか"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "私たちの聞くところを"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "そして腕は"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰に"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "示されたのか"
+    }
+  ],
+  "timestamp": "2026-08-07T11:35:38.419988859Z",
+  "model": "glm-5.2"
+}

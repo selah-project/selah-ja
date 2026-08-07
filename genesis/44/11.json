@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 44,
+  "translation": "そして彼らは急ぎ、それぞれ自分の袋を ⟨את⟩ 地に降ろし、それぞれ自分の袋を開けた。",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "そして急いだ"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "降ろした"
+    },
+    {
+      "surface": "איש",
+      "gloss": "それぞれ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分の袋を"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "自分の袋"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地に"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "そして開けた"
+    },
+    {
+      "surface": "איש",
+      "gloss": "それぞれ"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "自分の袋"
+    }
+  ],
+  "timestamp": "2026-08-07T09:09:07.261790582Z",
+  "model": "glm-5.2"
+}

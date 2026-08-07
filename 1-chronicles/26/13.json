@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 26:13",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そして彼らはくじを落とし、小なる者も大なる者も同様に、彼らの父祖の家にしたがい、門と門のために⟨くじを引いた⟩。",
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "そして彼らは落とした"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "くじを"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "小なる者のように"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "大なる者のように"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "〜の家にしたがい"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "彼らの父祖の"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "門のために"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "そして門の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:07:37.357032893Z",
+  "model": "glm-5.2"
+}

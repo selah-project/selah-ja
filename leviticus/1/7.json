@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてアハロンの子ら、⟨すなわち⟩祭司は祭壇の上に火を置き、火の上に薪を並べる。",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "そして…置く"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "そして…並べる"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "薪"
+    },
+    {
+      "surface": "על",
+      "gloss": "…の上に"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    }
+  ],
+  "timestamp": "2026-08-07T09:32:42.039079439Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そして今、見よ、アドニヤが王となりました。そして今、わが主、王よ、あなたはこれを知られていません。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "アドニヤ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王となった"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "わが主"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לא",
+      "gloss": "～ない"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "あなたは知っておられる"
+    }
+  ],
+  "timestamp": "2026-08-07T10:57:41.133190868Z",
+  "model": "glm-5.2"
+}

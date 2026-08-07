@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "一アーマがその長さ、一アーマがその幅。四角形である。二アーマがその高さ。その角はそれ自身から⟨出る⟩。",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "一アーマ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "その長さ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "そして一アーマ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "その幅"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "四角形"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "である"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "そして二アーマ"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "その高さ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "それから"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "その角"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:08.240346895Z",
+  "model": "glm-5.2"
+}

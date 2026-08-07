@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "そして全イスラエルはダヴィドのもとにヘブロンに集まり、言った。「見よ、あなたの骨、あなたの肉、それらは私たち⟨だ⟩。」",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "そして…集まった"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィド"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "ヘブロンに"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "あなたの骨"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "あなたの肉"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "私たち"
+    }
+  ],
+  "timestamp": "2026-08-07T14:04:07.857466779Z",
+  "model": "glm-5.2"
+}

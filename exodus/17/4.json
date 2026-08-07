@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてモーセはヤハウェに向かって叫び、言った。「私はこの民に何をすべきでしょうか。あと少しで彼らは私を石で打ち殺そうとします。」",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "そして叫んだ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーセは"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に向かって"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言って"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何を"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "私はすべきでしょうか"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "…に"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "この"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "まだ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "少しで"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "そして彼らは私を石で打ち殺そうとします"
+    }
+  ],
+  "timestamp": "2026-08-07T09:20:04.588530545Z",
+  "model": "glm-5.2"
+}

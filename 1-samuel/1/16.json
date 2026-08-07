@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "あなたのはしためを、ベルヤアルの娘のように御前に置かないでください。なぜなら私の思い嘆きの多さのゆえに、私は今に至るまで語ったのです。」",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "〜ないでください"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "置かないで（与えないで）"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたのはしため"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "あなたのはしため"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ベルヤアル"
+    },
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "〜の多さのゆえに"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "私の思い嘆き"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "そして私の怒り"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "私は語った"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "今ここに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:40:04.820577174Z",
+  "model": "glm-5.2"
+}

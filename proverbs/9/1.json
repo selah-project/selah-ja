@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 9,
+  "translation": "知恵は ⟨彼女の⟩ 家を建てた。 ⟨彼女は⟩ ⟨彼女の⟩ 七本の柱を削り出した。",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "知恵は"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "建てた"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "家を"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "削り出した"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "柱を"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七本の"
+    }
+  ],
+  "timestamp": "2026-08-07T13:12:13.648549731Z",
+  "model": "glm-5.2"
+}

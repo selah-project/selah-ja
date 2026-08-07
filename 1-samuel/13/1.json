@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "一歳の⟨息子⟩⟨であった⟩シャウルが⟨王位に就いた時⟩、そして二年間彼はイスラエルの上に王として君臨した。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "息子"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "一歳の"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "王位に就いた時"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "そして二年間"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王として君臨した"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T10:43:05.045151773Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 39,
+  "translation": "そして彼は⟨את⟩エフォドを造った。金、青色、紫、緋色の虫、そして撚り細麻から。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "そして彼は造った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "エフォドを"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "エフォドを"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "青色"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "紫"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "〜の虫"
+    },
+    {
+      "surface": "שני",
+      "gloss": "緋色"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "そして細麻"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "撚りの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:29:39.610673055Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 34:10",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "そして彼らはそれを、ヤハウェの家で任命されている務めの作業人の手に渡した。作業人たちはそれを、ヤハウェの家で作業をする者たちに渡し、家を点検し、そして補強するためであった。",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "そして彼らは渡した"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "する者"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "務め"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "任命されている"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "家で"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "そして彼らは渡した"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "それを",
+      "marks": "作業人たち"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "する者たち"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "務めを"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "作業をする"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "家で"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "לבדוק",
+      "gloss": "点検するため"
+    },
+    {
+      "surface": "ולחזק",
+      "gloss": "そして補強するため"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "家"
+    }
+  ],
+  "timestamp": "2026-08-07T14:19:48.080889410Z",
+  "model": "glm-5.2"
+}

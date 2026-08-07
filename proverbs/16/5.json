@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 16,
+  "translation": "高ぶる心のすべての者は ヤハウェ ⟨にとって⟩ 忌むべきものである — 手が手に⟨結ばれて⟩も ⟨彼⟩は罰を免れない。",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "忌むべきもの"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "高ぶる"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心の"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手が"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "手に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "罰を免れる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:14:04.793318651Z",
+  "model": "glm-5.2"
+}

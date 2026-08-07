@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 71,
+  "translation": "あなたの義も、エロヒムよ、高地に及ぶ。あなたが大いなる事をなされたからだ。エロヒムよ、誰があなたに似ていようか。",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "そしてあなたの義"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜にまで"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "高地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "あなたが"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "なされた"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "大いなる事を"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒムよ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "誰が"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "あなたに似ていようか"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:16.614321733Z",
+  "model": "glm-5.2"
+}

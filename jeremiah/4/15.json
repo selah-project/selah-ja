@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 4:15",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "なぜならダンから告げる者の声⟨が⟩、そしてエフライムの山から害悪を聞かせる者⟨が⟩。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "קול",
+      "gloss": "声"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "告げる者の"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ダンから"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "そして…聞かせる者"
+    },
+    {
+      "surface": "און",
+      "gloss": "害悪を"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "山から"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "エフライムの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:40:43.146905570Z",
+  "model": "glm-5.2"
+}

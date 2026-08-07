@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "王国をシャウルの家から移し、⟨את⟩ダビデの王座をイスラエルの上、そしてユダの上に立てるため、ダンからベル・シェバにおいてまで——」",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "移すため"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "王国を"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "〜の家から"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "シャウル"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "そして立てるため"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ダビデの王座"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "王座"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ユダ"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ダンから"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "そして〜まで"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ベル"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "シェバ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:50:05.784668023Z",
+  "model": "glm-5.2"
+}

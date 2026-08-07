@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "そしてこれが、書き記されたその文字である。マネ、マネ、テケル、ウ・パルスィン。",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "そしてこれが"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "文字"
+    },
+    {
+      "surface": "די",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "書き記された"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "マネ"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "マネ"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "テケル"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "ウ・パルスィン"
+    }
+  ],
+  "timestamp": "2026-08-07T13:44:53.193231170Z",
+  "model": "glm-5.2"
+}

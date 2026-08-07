@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "祝福される、あなたは—町において。祝福される、あなたは—野において。",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "祝福される"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "町において"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "そして祝福される"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "あなたは"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "野において"
+    }
+  ],
+  "timestamp": "2026-08-07T10:19:47.973452103Z",
+  "model": "glm-5.2"
+}

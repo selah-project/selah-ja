@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 48,
+  "translation": "というのは、この方がエロヒム、⟨彼⟩が私たちのエロヒム、永遠に、とこしえまで。 ⟨彼⟩が死に至るまで私たちを導かれるからである。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "זה",
+      "gloss": "この"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "私たちのエロヒム"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠に"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "とこしえまで"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "私たちを導かれる"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に至るまで"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:36.588110649Z",
+  "model": "glm-5.2"
+}

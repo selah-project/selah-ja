@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 49:17",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "ダンは道の上の蛇、小道の上の角蝮 ⟨となろう⟩。馬のかかとを噛む者、その騎手は後ろへ倒れる。",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "〜となろう"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ダンは"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "〜の上の"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道"
+    },
+    {
+      "surface": "שפיפן",
+      "gloss": "角蝮"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "〜の上の"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "小道"
+    },
+    {
+      "surface": "הנשך",
+      "gloss": "噛む者"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "かかと"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "馬の"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "倒れる"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "その騎手は"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "後ろへ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:12:47.348270314Z",
+  "model": "glm-5.2"
+}

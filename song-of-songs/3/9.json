@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "駕籠を、シュロモ王は⟨自分の⟩ために作った、レバノンの木材から。",
+  "tokens": [
+    {
+      "surface": "אַפִּרְיֹון",
+      "gloss": "駕籠"
+    },
+    {
+      "surface": "עָשָׂה",
+      "gloss": "作った"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "⟨自分の⟩ために"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "王"
+    },
+    {
+      "surface": "שְׁלֹמֹה",
+      "gloss": "シュロモ"
+    },
+    {
+      "surface": "מֵעֲצֵי",
+      "gloss": "木材から"
+    },
+    {
+      "surface": "הַלְּבָנֹון",
+      "gloss": "レバノンの"
+    }
+  ],
+  "timestamp": "2026-08-07T13:33:08.563868384Z",
+  "model": "glm-5.2"
+}

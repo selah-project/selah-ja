@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "ja",
+  "chapter": 3,
+  "translation": "そして彼女は打穀場に下って行き、彼女のしゅうとめが命じたすべてのとおりに行なった。",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "そして彼女は下って行った"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "打穀場に"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "そして彼女は行なった"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "すべてのことに従って"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜を"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "彼女が命じた"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "彼女のしゅうとめ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:34:49.571748345Z",
+  "model": "glm-5.2"
+}

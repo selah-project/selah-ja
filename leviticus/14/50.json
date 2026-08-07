@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 14,
+  "translation": "そして陶器の器の中の生きた水の上で、その一羽の鳥を屠る。",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "そして屠る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "その鳥を"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "その鳥"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一羽の"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜の中で"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "陶器の"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上で"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "生きた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:36.084150490Z",
+  "model": "glm-5.2"
+}

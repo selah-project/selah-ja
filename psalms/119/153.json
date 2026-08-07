@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 119,
+  "translation": "見よ、私の苦しみを、そして私を救い出してください。あなたのトーラーを、私は忘れなかったので。",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "私の苦しみを"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "そして私を救い出してください"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜なので"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "あなたのトーラーを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "私は忘れなかった"
+    }
+  ],
+  "timestamp": "2026-08-07T13:04:09.736594072Z",
+  "model": "glm-5.2"
+}

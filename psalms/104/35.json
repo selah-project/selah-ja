@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 104,
+  "translation": "罪ある者たちが地から絶たれるように。そして悪しき者たちが、もはや ⟨いなく⟩ なるように。私のナフシュよ、ヤハウェをほめよ。⟨את⟩ ヤハウェ。ハレルヤ。",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "絶たれるように"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "罪ある者たちが"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "そして悪しき者たちが"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "いない"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ほめよ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "私のナフシュよ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ほめよ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ヤハ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:00:37.539615215Z",
+  "model": "glm-5.2"
+}

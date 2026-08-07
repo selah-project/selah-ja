@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "また、自分のおばと寝る男、おじの裸を露わにした。彼らは自分たちの罪を負う。彼らは子なく死ぬ。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "また男"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～ところの者"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "寝る"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "自分のおば"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "自分のおば"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "裸"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "おじの"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "彼は露わにした"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "彼らの罪"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "彼らは負う"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "子なく"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "彼らは死ぬ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:42:07.052038384Z",
+  "model": "glm-5.2"
+}

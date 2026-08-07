@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 4,
+  "translation": "そして祭司は指で罪祭の血を取り、全焼の祭壇の角の上に置き、⟨את⟩その血を全焼の祭壇の土台に向けて注ぎ出す。",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "そして取る"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司は"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "〜の血から"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "罪祭の"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "彼の指で"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "そして置く"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "角の"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇の"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "その血"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "その血を"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "注ぎ出す"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に向けて"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "土台に"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇の"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "全焼の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:33:19.283412263Z",
+  "model": "glm-5.2"
+}

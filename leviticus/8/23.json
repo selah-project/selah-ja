@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 8:23",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてほふり、モーシェはその血を取って、アハロンの右の耳の先に、またその右の手の親指に、またその右の足の親指につけた。",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ほふり"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "取って"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モーシェは"
+    },
+    {
+      "surface": "מדמו",
+      "gloss": "その血を"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "つけた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "先"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロンの"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右の"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "また〜に"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "親指"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "その手の"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右の"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "また〜に"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "親指"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "その足の"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右の"
+    }
+  ],
+  "timestamp": "2026-08-07T09:35:49.274090776Z",
+  "model": "glm-5.2"
+}

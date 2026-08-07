@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "これらは⟨ガテ⟩の⟨ラパ⟩に生まれた者たちであり、ダビデの手と彼のしもべたちの手によって倒れた。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "これらは"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "生まれた者たちであり"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "ラパに"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ガテの"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "倒れた"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手によって"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダビデの"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "手と"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "彼のしもべたちの"
+    }
+  ],
+  "timestamp": "2026-08-07T17:36:08.720293928Z",
+  "model": "glm-5.2"
+}

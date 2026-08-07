@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 26:64",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "そしてこれらの中には、モシェと祭司アハロンがシナイの荒野で⟨את⟩ イスラエルの子らを調査登録した〈時〉の調査登録者の中から、一人の男もいなかった。",
+  "tokens": [
+    {
+      "surface": "ובאלה",
+      "gloss": "そしてこれらの中に"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜なかった"
+    },
+    {
+      "surface": "היה",
+      "gloss": "いた"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一人の男"
+    },
+    {
+      "surface": "מפקודי",
+      "gloss": "調査登録者の中から"
+    },
+    {
+      "surface": "משה",
+      "gloss": "モシェ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "とアハロン"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜した（時の）"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "彼らは調査登録した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの子ら"
+    },
+    {
+      "surface": "בני",
+      "gloss": "の子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "〜の荒野で"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "シナイ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:02:05.076599068Z",
+  "model": "glm-5.2"
+}

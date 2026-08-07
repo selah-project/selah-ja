@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 8:13",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてあなたは⟨את⟩レビ人をアハロンの前、そして⟨彼の⟩子らの前に立たせ、あなたは彼らをヤハウェへの揺りの献げ物として揺り動かす。",
+  "tokens": [
+    {
+      "surface": "והעמדת",
+      "gloss": "そしてあなたは立たせ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レビ人"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "〜の前に"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "アハロン"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "そして〜の前に"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "⟨彼の⟩子ら"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "そしてあなたは揺り動かす"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "彼ら"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "揺りの献げ物"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ヤハウェへ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:54:15.498854742Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "愚か者たちの労苦は彼を疲れさせる — 彼が町へ行く道を知らない⟨ほどに⟩。",
+  "tokens": [
+    {
+      "surface": "עֲמַ֥ל",
+      "gloss": "労苦"
+    },
+    {
+      "surface": "הַכְּסִילִ֖ים",
+      "gloss": "愚か者たちの"
+    },
+    {
+      "surface": "תְּיַגְּעֶ֑נּוּ",
+      "gloss": "彼を疲れさせる"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "〜というほど"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ない"
+    },
+    {
+      "surface": "יָדַ֖ע",
+      "gloss": "知る"
+    },
+    {
+      "surface": "לָלֶ֥כֶת",
+      "gloss": "行くことを"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "へ"
+    },
+    {
+      "surface": "עִֽיר",
+      "gloss": "町"
+    }
+  ],
+  "timestamp": "2026-08-07T13:39:07.566039028Z",
+  "model": "glm-5.2"
+}

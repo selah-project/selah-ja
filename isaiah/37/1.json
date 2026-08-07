@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "そしてそうなった — 王ヒゼキヤが⟨それを⟩聞いたとき、彼は⟨自分の⟩衣を引き裂き、荒布を⟨まと⟩い、ヤハウェの家に入った。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "そしてそうなった"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "聞いたとき"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ヒゼキヤ"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "引き裂いた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "衣"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "彼の衣"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "覆われた"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "荒布を"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入った"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:28:32.224984620Z",
+  "model": "glm-5.2"
+}

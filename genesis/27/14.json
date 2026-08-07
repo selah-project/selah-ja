@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 27,
+  "translation": "彼は行き、⟨それらを⟩ 取り、彼の母のところに持って来た。すると彼の母は、彼の父が愛した美味しい料理を作った。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "そして彼は行った"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして取った"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "そして持って来た"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "彼の母のところに"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "そして作った"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "彼の母"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "美味しい料理"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛した"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "彼の父"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:22.700130501Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 15,
+  "translation": "道を捨てる者への訓戒は⟨苦しい⟩、戒めを憎む者は死ぬ。",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "訓戒"
+    },
+    {
+      "surface": "רע",
+      "gloss": "苦しい"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "捨てる者への"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "道を"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "憎む者"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "戒めを"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死ぬ"
+    }
+  ],
+  "timestamp": "2026-08-07T13:13:40.151120683Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "青色、紫色、緋色の羊毛、亜麻、そしてやぎの毛、",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "と青色（テケレト）"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "と紫色（アルガマン）"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "と…虫（染料）"
+    },
+    {
+      "surface": "שני",
+      "gloss": "緋色の"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "と亜麻（シェシュ）"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "とやぎ（の毛）"
+    }
+  ],
+  "timestamp": "2026-08-07T09:24:18.657790946Z",
+  "model": "glm-5.2"
+}

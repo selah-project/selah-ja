@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 19:8",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてもしヤハウェ あなたのエロヒム が、⟨את⟩ あなたの領土を広げてくださるなら — ⟨父祖⟩たちに誓ったように — そしてあなたに ⟨את⟩ すべての地を与えるなら、⟨父祖⟩たちに与えると約束された地を。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "広げる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "あなたのエロヒム"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "あなたの領土"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "あなたの領土"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "〜のように"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "誓った"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "父祖たちに"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "そして与える"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "すべて"
+    },
+    {
+      "surface": "כל",
+      "gloss": "すべて"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜である"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "語った"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "与えるために"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "父祖たちに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:15:42.155694502Z",
+  "model": "glm-5.2"
+}

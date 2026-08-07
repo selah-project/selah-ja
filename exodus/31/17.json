@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 31,
+  "translation": "わたしとイスラエルの子らとの間の〈それは〉永遠のしるしである。六日間、ヤハウェは⟨את⟩天と⟨את⟩地を造り、第七日には休んで、息を整えられたからである。」",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "わたしと…の間に"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "と…の間に"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "אות",
+      "gloss": "しるし"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "永遠の"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "六の"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日間"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造られた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "天"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "…の日に"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "休んで"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "息を整えられた"
+    }
+  ],
+  "timestamp": "2026-08-07T09:26:25.130331151Z",
+  "model": "glm-5.2"
+}

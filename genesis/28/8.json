@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 28,
+  "translation": "そしてエサウは、カナンの娘たちが父イツハクの目に悪いことを見た。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "そして…は見た"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "エサウ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ということを"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "悪い"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "娘たち"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "カナンの"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…の目に"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "イツハク"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "父"
+    }
+  ],
+  "timestamp": "2026-08-07T09:00:45.273586156Z",
+  "model": "glm-5.2"
+}

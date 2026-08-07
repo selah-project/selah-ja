@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 51,
+  "translation": "わたしに耳を傾けよ、わたしの民、わたしの国よ。わたしに聴け。訓えはわたしから出て行き、わたしの裁きは諸民の光として安らぎを与える。",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "耳を傾けよ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "わたしの民"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "わたしの国"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "わたしに"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "聴け"
+    },
+    {
+      "surface": "כי",
+      "gloss": "というのは"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "訓え"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "わたしから"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "出て行く"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "そしてわたしの裁き"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "光として"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "諸民の"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "安らぎを与える"
+    }
+  ],
+  "timestamp": "2026-08-07T11:36:03.711427443Z",
+  "model": "glm-5.2"
+}

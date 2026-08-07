@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 36:22",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 36,
+  "translation": "王は第九の月に冬の家に座していたが、⟨את⟩火鉢が彼の前に燃えていた。",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "そして王は"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "座していた"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…の家"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "冬"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "…の月に"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "第九"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "火鉢"
+    },
+    {
+      "surface": "האח",
+      "gloss": "火鉢"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "彼の前に"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "燃えていた"
+    }
+  ],
+  "timestamp": "2026-08-07T11:53:44.285934441Z",
+  "model": "glm-5.2"
+}

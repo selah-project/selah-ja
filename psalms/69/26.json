@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 69,
+  "translation": "彼らの砦は荒れ果てよ、彼らの天幕には住む者がいないように。",
+  "tokens": [
+    {
+      "surface": "תְּהִי",
+      "gloss": "〜であれ"
+    },
+    {
+      "surface": "טִֽירָתָ֥ם",
+      "gloss": "彼らの砦"
+    },
+    {
+      "surface": "נְשַׁמָּ֑ה",
+      "gloss": "荒れ果て"
+    },
+    {
+      "surface": "בְּ֝אָהֳלֵיהֶ֗ם",
+      "gloss": "彼らの天幕には"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "〜ないように"
+    },
+    {
+      "surface": "יְהִ֥י",
+      "gloss": "あるように"
+    },
+    {
+      "surface": "יֹשֵֽׁב",
+      "gloss": "住む者が"
+    }
+  ],
+  "timestamp": "2026-08-07T12:50:29.601511036Z",
+  "model": "glm-5.2"
+}

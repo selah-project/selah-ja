@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 109,
+  "translation": "彼の子らはさすらい、さすらい歩き、物乞いをし、彼らの廃墟から⟨パンを⟩求めよ。",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "そしてさすらえ"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "さすらい歩き"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "彼の子らは"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "物乞いをし"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "求めよ"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "彼らの廃墟から"
+    }
+  ],
+  "timestamp": "2026-08-07T13:02:10.883935008Z",
+  "model": "glm-5.2"
+}

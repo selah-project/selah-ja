@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "喜びと歓喜と共に導かれ、彼女たちは入る、王の宮殿に。",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "導かれる"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "喜びと共に"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "歓喜と"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "入る"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "宮殿に"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:59.237798264Z",
+  "model": "glm-5.2"
+}

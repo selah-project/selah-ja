@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 18,
+  "translation": "一人の男が見て、ヨアブに告げ、「見よ、私は ⟨את⟩ アブシャロムがエラに吊るされているのを見た」と言った。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "見た"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一人の男が"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ある"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "告げた"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "ヨアブに"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "私は見た"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "アブシャロム"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "アブシャロムが"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "吊るされている"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "エラに"
+    }
+  ],
+  "timestamp": "2026-08-07T10:54:56.586579459Z",
+  "model": "glm-5.2"
+}

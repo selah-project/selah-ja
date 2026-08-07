@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "確かに、ヤハウェ、アシュルの王たちは⟨את⟩諸国と⟨את⟩彼らの地を荒廃させました。",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "確かに"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "荒廃させました"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王たち"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "アシュルの"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸国"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "諸国"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "と⟨את⟩",
+      "marks": "彼らの地"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "彼らの地"
+    }
+  ],
+  "timestamp": "2026-08-07T11:17:40.096716146Z",
+  "model": "glm-5.2"
+}

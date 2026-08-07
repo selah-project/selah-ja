@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 22:18",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "私の強い敵から、私を憎む者たちから私を救い出された。彼らは私より強かったからである。",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "私を救い出された"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "私の敵から"
+    },
+    {
+      "surface": "עז",
+      "gloss": "強い"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "私を憎む者たちから"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "彼らは強かった"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "私より"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:49.364519971Z",
+  "model": "glm-5.2"
+}

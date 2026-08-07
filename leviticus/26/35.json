@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 26,
+  "translation": "荒廃の全日数の間、それは安息する。あなたがたがその上に住んでいたとき、あなたがたの安息の日にそれが安息しなかった⟨את⟩そのものを。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日数の間"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "荒廃の"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "それは安息する"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "そのものを"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "〜そのものを"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "それが安息した"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "あなたがたの安息の日に"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "あなたがたが住んでいたとき"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "その上に"
+    }
+  ],
+  "timestamp": "2026-08-07T09:44:16.700607768Z",
+  "model": "glm-5.2"
+}

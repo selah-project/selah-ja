@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 41,
+  "translation": "そして、もし彼が私を見舞う⟨ために⟩来るなら、偽りを語る。彼の心は不義を集める。外に出て行くと、彼は語る。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "そしてもし"
+    },
+    {
+      "surface": "בא",
+      "gloss": "来るなら"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "見舞う（ために）"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "偽り"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "語る"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "彼の心は"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "集める"
+    },
+    {
+      "surface": "און",
+      "gloss": "不義"
+    },
+    {
+      "surface": "לו",
+      "gloss": "自分のために"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出て行くと"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "外へ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "語る"
+    }
+  ],
+  "timestamp": "2026-08-07T12:44:26.984140568Z",
+  "model": "glm-5.2"
+}

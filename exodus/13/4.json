@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "今日、あなたがたはアビブの月に出て行くのである。」",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "今日"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "あなたがたは"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "出て行く"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "〜の月に"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "アビブ"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:33.585852200Z",
+  "model": "glm-5.2"
+}

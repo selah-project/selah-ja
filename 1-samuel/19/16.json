@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 19:16",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "使いが入って来ると、見よ、テラフィムが寝床に、山羊の毛の編み物がその頭元にあった。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "そして入って来た"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "使いが"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "そして見よ"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "テラフィムが"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜に"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "寝床"
+    },
+    {
+      "surface": "וכביר",
+      "gloss": "そして編み物"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "山羊の"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "その頭元に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:45.651276981Z",
+  "model": "glm-5.2"
+}

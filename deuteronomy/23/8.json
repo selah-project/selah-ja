@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "あなたはエドム人を忌み嫌ってはならない。彼はあなたの兄弟だからである。あなたはミツライム人を忌み嫌ってはならない。あなたは彼の地において寄留者であったからである。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜てはならない"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "忌み嫌っては"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "エドム人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "あなたの兄弟"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼は〜である"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜てはならない"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "忌み嫌っては"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "ミツライム人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "גר",
+      "gloss": "寄留者"
+    },
+    {
+      "surface": "היית",
+      "gloss": "あなたは〜であった"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "彼の地において"
+    }
+  ],
+  "timestamp": "2026-08-07T10:17:55.058203601Z",
+  "model": "glm-5.2"
+}

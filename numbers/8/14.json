@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "そしてあなたは⟨את⟩レビ人をイスラエルの子らの真中から区別し、レビ人はわたしのものとなる。",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "そしてあなたは区別し"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "レビ人"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "〜の真中から"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "そして〜となる"
+    },
+    {
+      "surface": "לי",
+      "gloss": "わたしのものに"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "レビ人"
+    }
+  ],
+  "timestamp": "2026-08-07T09:54:15.499045154Z",
+  "model": "glm-5.2"
+}

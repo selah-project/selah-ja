@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして祭司は七日目に ⟨את⟩ 災患を見る — 見よ、湿疹は広がっておらず、そのうちに黄色い毛がなく、そして湿疹の外観は皮より深くない。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "そして…見る"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "災患"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "災患"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…目に"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "七"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "広がる"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "湿疹"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "そして…ない"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ある"
+    },
+    {
+      "surface": "בו",
+      "gloss": "そのうちに"
+    },
+    {
+      "surface": "שער",
+      "gloss": "毛"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "黄色い"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "そして…の外観"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "湿疹"
+    },
+    {
+      "surface": "אין",
+      "gloss": "…ない"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "深い"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜より"
+    },
+    {
+      "surface": "העור",
+      "gloss": "皮"
+    }
+  ],
+  "timestamp": "2026-08-07T09:37:22.265893810Z",
+  "model": "glm-5.2"
+}

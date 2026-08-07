@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "そしてアブネルは自分のうしろを振り向いて言った、「あなたはアサエルか」。そして彼は言った、「私です」。",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "そして振り向いた"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "アブネルは"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "自分のうしろを"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "あなたは〜か"
+    },
+    {
+      "surface": "זה",
+      "gloss": "これ"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "アサエル"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私です"
+    }
+  ],
+  "timestamp": "2026-08-07T10:49:31.588490013Z",
+  "model": "glm-5.2"
+}

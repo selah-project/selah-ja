@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 75,
+  "translation": "時に、私が定めの集会を捉えるなら、この私が、まっすぐに裁きます。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "時に"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "私が捉える"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "定めの集会を"
+    },
+    {
+      "surface": "אני",
+      "gloss": "この私が"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "まっすぐに"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "裁きます"
+    }
+  ],
+  "timestamp": "2026-08-07T12:52:24.636214529Z",
+  "model": "glm-5.2"
+}

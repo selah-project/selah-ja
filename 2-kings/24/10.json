@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "その時、バビルの王ネブカドネツァルのしもべたちがイェルシャライムに上って来た。そして、その町は包囲⟨さ⟩れた。",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "時に"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "その"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上って来た"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "しもべたち"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "ネブカドネツァル"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビル"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "イェルシャライム"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "そして～は入った"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "その町"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "包囲の中に"
+    }
+  ],
+  "timestamp": "2026-08-07T11:19:48.659030457Z",
+  "model": "glm-5.2"
+}

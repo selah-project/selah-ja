@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして民はヨシュアに言った。いいえ。⟨私たちが⟩⟨את⟩ ヤハウェに仕えるのだから。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言った"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民は"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "לא",
+      "gloss": "いいえ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…のだから"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "私たちが仕える"
+    }
+  ],
+  "timestamp": "2026-08-07T16:41:38.278688391Z",
+  "model": "glm-5.2"
+}

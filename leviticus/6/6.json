@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "絶えず燃える火が祭壇の上に、消えてはならない。",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "火が"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "絶えず"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "燃える"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "消えては"
+    }
+  ],
+  "timestamp": "2026-08-07T09:33:16.476086479Z",
+  "model": "glm-5.2"
+}

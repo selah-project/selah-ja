@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "ダヴィドは千人隊の長たち、および百人隊の長たち、すべての指導者と相談した。",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "そして相談した"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィドは"
+    },
+    {
+      "surface": "עם",
+      "gloss": "〜と"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "長たち"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "千人隊の"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "および百人隊の"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "指導者"
+    }
+  ],
+  "timestamp": "2026-08-07T14:05:57.015318356Z",
+  "model": "glm-5.2"
+}

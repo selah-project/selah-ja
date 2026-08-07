@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 23,
+  "translation": "あなたの地を川のように渡れ、タルシシュの娘よ、もはや帯はない。",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "渡れ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "あなたの地を"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "川のように"
+    },
+    {
+      "surface": "בת",
+      "gloss": "娘よ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "タルシシュの"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ない"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "帯"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "もはや"
+    }
+  ],
+  "timestamp": "2026-08-07T11:25:36.557889621Z",
+  "model": "glm-5.2"
+}

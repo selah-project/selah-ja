@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 5:27",
+  "book": "jeremiah",
+  "lang": "ja",
+  "chapter": 5,
+  "translation": "鳥籠が鳥で満ちているように、彼らの家は欺きで満ちている。それゆえ彼らは大きくなり、富んだ。",
+  "tokens": [
+    {
+      "surface": "כִּכְלוּב֙",
+      "gloss": "鸟笼が"
+    },
+    {
+      "surface": "מָ֣לֵא",
+      "gloss": "满ちている"
+    },
+    {
+      "surface": "ע֔וֹף",
+      "gloss": "鸟で"
+    },
+    {
+      "surface": "כֵּ֥ן",
+      "gloss": "そのように"
+    },
+    {
+      "surface": "בָּתֵּיהֶ֖ם",
+      "gloss": "彼らの家は"
+    },
+    {
+      "surface": "מְלֵאִ֣ים",
+      "gloss": "满ちている"
+    },
+    {
+      "surface": "מִרְמָ֑ה",
+      "gloss": "欺きで"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "—"
+    },
+    {
+      "surface": "כֵּ֥ן",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "גָּדְל֖וּ",
+      "gloss": "大きくなった"
+    },
+    {
+      "surface": "וַֽיַּעֲשִֽׁירוּ",
+      "gloss": "富んだ"
+    }
+  ],
+  "timestamp": "2026-08-07T11:41:09.454880500Z",
+  "model": "glm-5.2"
+}

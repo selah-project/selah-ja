@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "乏しい者をしのぎ落として自分のものを増やそうとする者、富む者に贈る者は − 欠乏 ⟨だけのために⟩。",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "しのぎ落として"
+    },
+    {
+      "surface": "דל",
+      "gloss": "乏しい者を"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "増やそうとする"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼のものを"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "贈る者"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "富む者に"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ただ"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "欠乏"
+    }
+  ],
+  "timestamp": "2026-08-07T13:15:54.323289411Z",
+  "model": "glm-5.2"
+}

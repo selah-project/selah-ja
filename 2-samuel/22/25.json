@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "そしてヤハウェは私の義にしたがって私に報いられた。私の潔さにしたがって、⟨彼の⟩目の前に⟨ある⟩ように。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "そして報いられた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "私の義にしたがって"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "私の潔さにしたがって"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "目の前に"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "⟨彼の⟩目"
+    }
+  ],
+  "timestamp": "2026-08-07T10:56:33.366293369Z",
+  "model": "glm-5.2"
+}

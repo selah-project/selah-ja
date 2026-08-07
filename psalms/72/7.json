@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 72,
+  "translation": "彼の日々に義人が花ひらき、豊かなシャロームが⟨ある⟩、月のなくなるまで。",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "花ひらき"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "彼の日々に"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人が"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "豊かな"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "シャロームが"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "なくなる"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "月の"
+    }
+  ],
+  "timestamp": "2026-08-07T14:38:57.081960455Z",
+  "model": "glm-5.2"
+}

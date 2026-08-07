@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 149,
+  "translation": "諸国の民のうちに復讐を行い、諸民族のうちに責めの言葉を⟨届けるため⟩。",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "行うため"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "復讐"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "諸国の民のうちに"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "責めの言葉"
+    },
+    {
+      "surface": "בל",
+      "gloss": "諸民族のうちに"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "諸民族"
+    }
+  ],
+  "timestamp": "2026-08-07T13:07:40.350179739Z",
+  "model": "glm-5.2"
+}

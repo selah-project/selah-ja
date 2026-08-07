@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 20,
+  "translation": "そしてあなたたちは自ら聖別し、聖なる者となれ。すなわちわたしこそあなたたちのエロヒム、ヤハウェだからである。",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "あなたたちは自ら聖別し"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "あなたたちは～となる"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "聖なる者"
+    },
+    {
+      "surface": "כי",
+      "gloss": "すなわち"
+    },
+    {
+      "surface": "אני",
+      "gloss": "わたしこそ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "あなたたちのエロヒム"
+    }
+  ],
+  "timestamp": "2026-08-07T09:41:37.340067884Z",
+  "model": "glm-5.2"
+}

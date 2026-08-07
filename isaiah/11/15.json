@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 11:15",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 11,
+  "translation": "ヤハウェは ⟨את⟩ ミツライムの海の舌を全滅させ、ご自分の激しい風で川の上に手を振り、これを打って七つの谷川とし、履物を履いて渡らせる。",
+  "tokens": [
+    {
+      "surface": "והחרים",
+      "gloss": "そして全滅させる"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ミツライムの海の舌を"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海の"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ミツライムの"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "そして振る"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ご自分の手を"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "川"
+    },
+    {
+      "surface": "בעים",
+      "gloss": "激しい"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ご自分の風で"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "そしてこれを打つ"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "七つに"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "谷川"
+    },
+    {
+      "surface": "והדריך",
+      "gloss": "そして渡らせる"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "履物を履いて"
+    }
+  ],
+  "timestamp": "2026-08-07T11:23:40.720955078Z",
+  "model": "glm-5.2"
+}

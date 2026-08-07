@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-samuel 17:49",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 17,
+  "translation": "そしてダビデは⟨自分の⟩手を⟨⟨את⟩⟩袋に伸ばし、そこから石を一つ取って投げ石で放ち、ペリシテ人をその額に打った。すると石は彼の額にめり込み、彼は地にうつぶせに倒れた。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "そして…伸ばした"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ダビデ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼の手"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "手"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…へ"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "袋"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "そして…取った"
+    },
+    {
+      "surface": "משם",
+      "gloss": "そこから"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石を"
+    },
+    {
+      "surface": "ויקלע",
+      "gloss": "そして…放った"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "そして…打った"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ペリシテ人"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ペリシテ人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…に"
+    },
+    {
+      "surface": "מצחו",
+      "gloss": "額"
+    },
+    {
+      "surface": "ותטבע",
+      "gloss": "そして…めり込んだ"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "石は"
+    },
+    {
+      "surface": "במצחו",
+      "gloss": "額に"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "そして…倒れた"
+    },
+    {
+      "surface": "על",
+      "gloss": "…に"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "うつぶせに"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地に"
+    }
+  ],
+  "timestamp": "2026-08-07T10:45:53.606432051Z",
+  "model": "glm-5.2"
+}

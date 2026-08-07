@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 30,
+  "translation": "しもべが王となる〈こと〉、そして愚か者がパンで満たされる〈こと〉。",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "〜の〈こと〉"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "しもべが"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜するとき"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "王となる"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "そして愚か者が"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜するとき"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "満たされる"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "パンで"
+    }
+  ],
+  "timestamp": "2026-08-07T13:17:11.195662819Z",
+  "model": "glm-5.2"
+}

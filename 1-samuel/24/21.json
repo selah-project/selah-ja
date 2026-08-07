@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 24:21",
+  "book": "1-samuel",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして今、見よ、私は知っている。あなたが確かに王となり、イスラエルの王国があなたの手に立つことを。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "そして今"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "見よ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "私は知っている"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王となる"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "あなたは確かに治める"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "そして立つ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "あなたの手に"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "王国"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:47:00.355997105Z",
+  "model": "glm-5.2"
+}

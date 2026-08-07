@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "彼らに言った、「ヘブライ人です、私⟨は⟩。そして私は ⟨את⟩ ヤハウェ、天のエロヒムを恐れる⟨者である⟩――⟨彼が⟩ ⟨את⟩ 海と ⟨את⟩ 乾いた地を造られた⟨かたを⟩。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "彼らに"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ヘブライ人"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "私"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…のエロヒム"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    },
+    {
+      "surface": "אני",
+      "gloss": "私は"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "恐れる"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…である⟨かた⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造られた"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "乾いた地"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "乾いた地"
+    }
+  ],
+  "timestamp": "2026-08-07T14:37:15.800686920Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "ja",
+  "chapter": 10,
+  "translation": "そしてヨシュアは、⟨את⟩これらの全王国と⟨את⟩彼らの地を一度に捕らえた。ヤハウェ、イスラエルのエロヒムがイスラエルのために戦われたからである。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "これらの全王国"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "王国たち"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "これらの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼らの地"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "彼らの地"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "捕らえた"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ヨシュア"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "度"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…のエロヒム"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエル"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "戦われた"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "イスラエルのために"
+    }
+  ],
+  "timestamp": "2026-08-07T10:26:32.352673753Z",
+  "model": "glm-5.2"
+}

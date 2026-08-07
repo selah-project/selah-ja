@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 2:14",
+  "book": "nehemiah",
+  "lang": "ja",
+  "chapter": 2,
+  "translation": "泉の門を通り過ぎ、王の貯水池へ向かった。しかし、私の下にいる家畜が通り過ぎるための場所がなかった。",
+  "tokens": [
+    {
+      "surface": "ואעבר",
+      "gloss": "通り過ぎ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "העין",
+      "gloss": "泉の"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "そして〜へ"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "貯水池"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王の"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "なかった"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "場所が"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "家畜にとって"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "通り過ぎるための"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "私の下にいる"
+    }
+  ],
+  "timestamp": "2026-08-07T13:55:32.772180385Z",
+  "model": "glm-5.2"
+}

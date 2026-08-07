@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "確かに建てた、私は一つの家を、あなたのための住処を、あなたのとこしえの住まいの定所を。",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "確かに建てた"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "私は建てた"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家を"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "住処を"
+    },
+    {
+      "surface": "לך",
+      "gloss": "あなたのための"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "定所を"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "あなたの住まいの"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "とこしえの"
+    }
+  ],
+  "timestamp": "2026-08-07T11:01:23.499690764Z",
+  "model": "glm-5.2"
+}

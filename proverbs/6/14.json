@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 6:14",
+  "book": "proverbs",
+  "lang": "ja",
+  "chapter": 6,
+  "translation": "彼の心には欺きがあり、常に悪を企て、争いを送り出す。",
+  "tokens": [
+    {
+      "surface": "תַּֽהְפֻּכ֨וֹת",
+      "gloss": "欺き（歪み）"
+    },
+    {
+      "surface": "בְּלִבּ֗וֹ",
+      "gloss": "彼の心に"
+    },
+    {
+      "surface": "חֹרֵ֣שׁ",
+      "gloss": "企てる"
+    },
+    {
+      "surface": "רָ֣ע",
+      "gloss": "悪を"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "עֵ֑ת",
+      "gloss": "時に（常に）"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "争いを"
+    },
+    {
+      "surface": "יְשַׁלֵּֽחַ",
+      "gloss": "送り出す"
+    }
+  ],
+  "timestamp": "2026-08-07T13:11:44.766084488Z",
+  "model": "glm-5.2"
+}

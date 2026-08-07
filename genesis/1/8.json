@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "そしてエロヒムは大空を「天」と呼ばれた。そして夕となり、朝となった。第二の日である。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "そして…呼んだ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "エロヒム"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "大空を"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "「天」"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "夕"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "そして…となった"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "朝"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "שני",
+      "gloss": "第二の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:46:39.883203927Z",
+  "model": "glm-5.2"
+}

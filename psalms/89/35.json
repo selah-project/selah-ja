@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 89,
+  "translation": "わたしの契約を汚すことはなく、わたしの唇から出たものを変えることはない。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "汚す"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "わたしの契約を"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "そして〜の出口"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "わたしの唇の"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "変える"
+    }
+  ],
+  "timestamp": "2026-08-07T12:55:40.109151116Z",
+  "model": "glm-5.2"
+}

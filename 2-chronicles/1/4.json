@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 1:4",
+  "book": "2-chronicles",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "ただし、ダヴィドはエロヒムの箱をキルヤト・エアリムから上らせていた — ダヴィドがそのために備えた ⟨場所⟩ へ。彼がエルシャライム（エルサレム）にそれのために天幕を張ったからである。",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "ただし"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "箱"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "エロヒムの"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "上らせていた"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィドは"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "キルヤト・エアリム"
+    },
+    {
+      "surface": "בהכין",
+      "gloss": "備えた"
+    },
+    {
+      "surface": "לו",
+      "gloss": "そのために"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ダヴィドが"
+    },
+    {
+      "surface": "כי",
+      "gloss": "〜だから"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "張った"
+    },
+    {
+      "surface": "לו",
+      "gloss": "それのために"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "天幕を"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "エルシャライムに"
+    }
+  ],
+  "timestamp": "2026-08-07T14:09:23.168413986Z",
+  "model": "glm-5.2"
+}

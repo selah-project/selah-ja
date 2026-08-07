@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 22,
+  "translation": "もしその父が彼女を彼に与えることを頑なに拒むなら、彼は銀を処女たちの結納金に相当するだけ量らなければならない。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "頑なに"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "拒むなら"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "その父が"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "彼女を与えることを"
+    },
+    {
+      "surface": "לו",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀を"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "量らなければならない"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "結納金に相当する"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "処女たちの"
+    }
+  ],
+  "timestamp": "2026-08-07T09:23:04.780613904Z",
+  "model": "glm-5.2"
+}

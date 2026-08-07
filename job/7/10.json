@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 7,
+  "translation": "彼は二度と⟨自分の⟩家に帰らず、彼の場所は彼を二度と認めない。",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "יָשׁ֣וּב",
+      "gloss": "帰る"
+    },
+    {
+      "surface": "ע֣וֹד",
+      "gloss": "二度と"
+    },
+    {
+      "surface": "לְבֵית֑וֹ",
+      "gloss": "家に"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "そして〜ない"
+    },
+    {
+      "surface": "יַכִּירֶ֖נּוּ",
+      "gloss": "認めない"
+    },
+    {
+      "surface": "ע֣וֹד",
+      "gloss": "二度と"
+    },
+    {
+      "surface": "מְקֹמֽוֹ",
+      "gloss": "彼の場所は"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:20.458018868Z",
+  "model": "glm-5.2"
+}

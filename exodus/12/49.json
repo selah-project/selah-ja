@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 12,
+  "translation": "一つのトーラーが、在地の者にも、そしてあなたたちのうちに寄留する寄留者にも〈ある〉であろう。",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "トーラー"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "〜であろう"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "在地の者に"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "そして寄留者に"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "寄留する"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "あなたたちのうちに"
+    }
+  ],
+  "timestamp": "2026-08-07T09:17:01.391826003Z",
+  "model": "glm-5.2"
+}

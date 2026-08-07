@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "ja",
+  "chapter": 49,
+  "translation": "聞け、これを、すべての民たちよ。耳を傾けよ、この世に住むすべての者よ。",
+  "tokens": [
+    {
+      "surface": "שִׁמְעוּ",
+      "gloss": "聞け"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "これを"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "הָעַמִּים",
+      "gloss": "民たちよ"
+    },
+    {
+      "surface": "הַאֲזִינוּ",
+      "gloss": "耳を傾けよ"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "יֹשְׁבֵי",
+      "gloss": "住む"
+    },
+    {
+      "surface": "חָלֶד",
+      "gloss": "この世に"
+    }
+  ],
+  "timestamp": "2026-08-07T17:19:09.097738860Z",
+  "model": "glm-5.2"
+}

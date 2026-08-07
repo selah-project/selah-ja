@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "垂れ幕は十五アンマ、⟨その⟩柱は三本、⟨その⟩台座は三つであった。",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "垂れ幕"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "アンマ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜へ"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "その側"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "⟨その⟩柱"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "と⟨その⟩台座"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    }
+  ],
+  "timestamp": "2026-08-07T09:28:47.151208507Z",
+  "model": "glm-5.2"
+}

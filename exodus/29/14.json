@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "ja",
+  "chapter": 29,
+  "translation": "そして⟨את⟩雄牛の肉と、⟨את⟩その皮と、⟨את⟩その糞を、あなたは宿営の外で火で焼き尽くさなければならない。それは罪の捧げである。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "雄牛の肉"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "雄牛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その皮"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "その皮"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その糞"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "その糞"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "あなたは焼き尽くさなければならない"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火で"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外で"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "宿営の"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪の捧げ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "それは〜である"
+    }
+  ],
+  "timestamp": "2026-08-07T09:25:08.046488410Z",
+  "model": "glm-5.2"
+}

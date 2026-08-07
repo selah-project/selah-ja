@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "ja",
+  "chapter": 45,
+  "translation": "ヤハウェにおいて義とされ、誇る、イスラエルのすべての種は。",
+  "tokens": [
+    {
+      "surface": "בַּיהוָ֛ה",
+      "gloss": "ヤハウェにおいて"
+    },
+    {
+      "surface": "יִצְדְּק֥וּ",
+      "gloss": "義とされ"
+    },
+    {
+      "surface": "וְיִֽתְהַלְל֖וּ",
+      "gloss": "誇る"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "すべての"
+    },
+    {
+      "surface": "זֶ֥רַע",
+      "gloss": "種"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "イスラエル"
+    }
+  ],
+  "timestamp": "2026-08-07T16:58:45.044072330Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 24:19",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 24,
+  "translation": "そして彼は飲み終えると、彼女は言った——あなたのらくだのためにも、皆飲み終えるまで水を汲みましょう。",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "終えると"
+    },
+    {
+      "surface": "להשקתו",
+      "gloss": "彼に飲ませるのを"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "גם",
+      "gloss": "〜も"
+    },
+    {
+      "surface": "לגמליך",
+      "gloss": "あなたのらくだのために"
+    },
+    {
+      "surface": "אשאב",
+      "gloss": "汲みましょう"
+    },
+    {
+      "surface": "עד",
+      "gloss": "〜まで"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨〜するか⟩"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "終える"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "飲むのを"
+    }
+  ],
+  "timestamp": "2026-08-07T08:56:58.136784220Z",
+  "model": "glm-5.2"
+}

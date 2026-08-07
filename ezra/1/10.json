@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "ja",
+  "chapter": 1,
+  "translation": "金の鉢三十、銀の鉢二級品四百十、その他の器一千。",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "鉢"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金の"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "鉢"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀の"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "二級品の"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "と十"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "器"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "その他の"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    }
+  ],
+  "timestamp": "2026-08-07T13:50:01.881323896Z",
+  "model": "glm-5.2"
+}

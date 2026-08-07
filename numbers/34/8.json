@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 34:8",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 34,
+  "translation": "ホル山からハマテの入口まで指し示し、そして境界の出口はツェダダとなる。",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "ホル山から"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "その山"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "指し示せ"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "…の入口（に入る）"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ハマテ"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "そして…となる"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "出口"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "その境界の"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "ツェダダ"
+    }
+  ],
+  "timestamp": "2026-08-07T10:04:59.734214251Z",
+  "model": "glm-5.2"
+}

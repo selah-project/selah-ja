@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 19,
+  "translation": "そしてヤハウェは、硫黄と火を、天から、ヤハウェの⟨ところ⟩から、セドムとアモラの上に降らせた。",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "そしてヤハウェは"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "降らせた"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜の上に"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "セドム"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "そして〜の上に"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "アモラ"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "硫黄を"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "と火を"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜のそばから"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "〜から"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天の"
+    }
+  ],
+  "timestamp": "2026-08-07T08:55:10.423181482Z",
+  "model": "glm-5.2"
+}

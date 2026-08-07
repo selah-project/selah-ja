@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 38,
+  "translation": "そしてヤハウェは嵐の中から⟨את⟩ヨブに答え、こう言われた。",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "そして…答えた"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェは"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ヨブ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ヨブ"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "…から"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "嵐の中"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして…言われた"
+    }
+  ],
+  "timestamp": "2026-08-07T17:28:24.456666923Z",
+  "model": "glm-5.2"
+}

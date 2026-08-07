@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "ja",
+  "chapter": 8,
+  "translation": "もしあなたの息子たちが⟨彼に⟩罪を犯したのなら、彼は彼らをその反逆の手の中に送った。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "もし"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "あなたの息子たち"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "罪を犯した"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨彼に⟩"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "そして彼は彼らを送った"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "〜の手の中に"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "彼らの反逆"
+    }
+  ],
+  "timestamp": "2026-08-07T13:22:03.183247776Z",
+  "model": "glm-5.2"
+}

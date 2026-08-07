@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 37:21",
+  "book": "genesis",
+  "lang": "ja",
+  "chapter": 37,
+  "translation": "ルベンはこれを聞き、彼らの手から彼を救い出した。そして言った。「נָֽפֶשׁ ⟨נפש⟩を打ってはならない。」",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聞いた"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ルベン"
+    },
+    {
+      "surface": "ויצלהו",
+      "gloss": "彼を救い出した"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "彼らの手から"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "そして言った"
+    },
+    {
+      "surface": "לא",
+      "gloss": "〜ない"
+    },
+    {
+      "surface": "נכנו",
+      "gloss": "打っては"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "נָֽפֶשׁ"
+    }
+  ],
+  "timestamp": "2026-08-07T18:25:49.967246876Z",
+  "model": "glm-5.2"
+}

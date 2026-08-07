@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 25:8",
+  "book": "numbers",
+  "lang": "ja",
+  "chapter": 25,
+  "translation": "そして彼はイスラエルの男の後ろから⟨その⟩奥に入って行き、⟨את⟩ふたりを突き刺した——⟨את⟩イスラエルの男と、⟨את⟩その女を、その腹に。そして疫病はイスラエルの人々から止められた。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "そして入って行った"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "～の後ろに"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～へ"
+    },
+    {
+      "surface": "הקבה",
+      "gloss": "その奥"
+    },
+    {
+      "surface": "וידקר",
+      "gloss": "そして突き刺した"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ふたり"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ふたり"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "イスラエルの男"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "そして⟨את⟩",
+      "marks": "その女"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "その女"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～へ"
+    },
+    {
+      "surface": "קבתה",
+      "gloss": "その腹"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "そして止められた"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "その疫病"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "～から"
+    },
+    {
+      "surface": "בני",
+      "gloss": "～の人々"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-07T10:00:58.500732771Z",
+  "model": "glm-5.2"
+}

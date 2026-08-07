@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "ja",
+  "chapter": 13,
+  "translation": "そして生きた肉が彼の中に見える日に、彼は汚れる。",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "そして〜日に"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "見られる"
+    },
+    {
+      "surface": "בו",
+      "gloss": "彼の中に"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉が"
+    },
+    {
+      "surface": "חי",
+      "gloss": "生きた"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "彼は汚れる"
+    }
+  ],
+  "timestamp": "2026-08-07T09:36:13.262457559Z",
+  "model": "glm-5.2"
+}
