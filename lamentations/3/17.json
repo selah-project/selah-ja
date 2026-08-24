@@ -5,29 +5,29 @@
   "book": "lamentations",
   "lang": "ja",
   "chapter": 3,
-  "translation": "そして平和から私の nefesh は遠くへ投げ出された、私は良いものを忘れた。",
+  "translation": "そして私のたましいは平和から遠く離れされた、私は良いものを忘れた。",
   "tokens": [
     {
-      "surface": "וַתִּזְנַח",
-      "gloss": "そして遠くへ投げ出された"
+      "surface": "ותזנח",
+      "gloss": "そして離れされた"
     },
     {
-      "surface": "מִשָּׁלוֹם",
+      "surface": "משלום",
       "gloss": "平和から"
     },
     {
-      "surface": "נַפְשִׁי",
-      "gloss": "私の nefesh は"
+      "surface": "נפשי",
+      "gloss": "私のたましい"
     },
     {
-      "surface": "נָשִׁיתִי",
+      "surface": "נשיתי",
       "gloss": "私は忘れた"
     },
     {
-      "surface": "טוֹבָה",
-      "gloss": "良いものを"
+      "surface": "טובה",
+      "gloss": "良いもの"
     }
   ],
-  "timestamp": "2026-08-07T18:43:26.287783988Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:17:12.760568207Z",
+  "model": "glm-5.3"
 }

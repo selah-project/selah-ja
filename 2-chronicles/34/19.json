@@ -5,28 +5,28 @@
   "book": "2-chronicles",
   "lang": "ja",
   "chapter": 34,
-  "translation": "そして王がトーラーのことばを聞いたとき、王は⟨⟨自分の衣を引き裂いた。",
+  "translation": "王がトーラーの言葉を⟨את⟩聞くと、彼は自分の衣を⟨את⟩引き裂いた。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "そして起こった"
+      "gloss": "…すると"
     },
     {
       "surface": "כשמע",
-      "gloss": "聞いたとき"
+      "gloss": "聞くと"
     },
     {
       "surface": "המלך",
-      "gloss": "王が"
+      "gloss": "王"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "トーラーのことば"
+      "marks": "トーラーの言葉"
     },
     {
       "surface": "דברי",
-      "gloss": "ことばを"
+      "gloss": "言葉"
     },
     {
       "surface": "התורה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ויקרע",
-      "gloss": "彼は引き裂いた"
+      "gloss": "引き裂いた"
     },
     {
       "surface": "את",
@@ -43,9 +43,9 @@
     },
     {
       "surface": "בגדיו",
-      "gloss": "自分の衣を"
+      "gloss": "自分の衣"
     }
   ],
-  "timestamp": "2026-08-07T14:20:12.066801072Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:17:44.199222143Z",
+  "model": "glm-5.3"
 }

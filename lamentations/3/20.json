@@ -5,29 +5,29 @@
   "book": "lamentations",
   "lang": "ja",
   "chapter": 3,
-  "translation": "覚えよ、必ず覚えよ、そして私の⟨נפשי⟩は私の上に沈み下る。",
+  "translation": "必ず思い出す、思い返すと、私のנפש（魂）は私のうちで沈み込む。",
   "tokens": [
     {
-      "surface": "זָכ֣וֹר",
-      "gloss": "覚えよ"
+      "surface": "זכור",
+      "gloss": "必ず思い出す"
     },
     {
-      "surface": "תִּזְכּ֔וֹר",
-      "gloss": "必ず覚えよ"
+      "surface": "תזכור",
+      "gloss": "思い返す"
     },
     {
       "surface": "ותשיח",
-      "gloss": "そして沈み下る"
+      "gloss": "そして沈み込む"
     },
     {
-      "surface": "עָלַ֖י",
-      "gloss": "私の上に"
+      "surface": "עלי",
+      "gloss": "私のうちに"
     },
     {
-      "surface": "נַפְשִֽׁי",
-      "gloss": "私のנפשי"
+      "surface": "נפשי",
+      "gloss": "私のネフェシュ"
     }
   ],
-  "timestamp": "2026-08-07T18:43:25.593706071Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:17:10.708570488Z",
+  "model": "glm-5.3"
 }

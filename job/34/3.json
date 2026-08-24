@@ -5,15 +5,15 @@
   "book": "job",
   "lang": "ja",
   "chapter": 34,
-  "translation": " потому что ⟨耳⟩ ⟨は⟩ 言葉を試す、そして口蓋は 食べるために味わう。",
+  "translation": "というのも、耳は言葉を吟味し、口蓋は食べ物を味わうからだ。",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "なぜなら"
+      "gloss": "というのも"
     },
     {
       "surface": "אזן",
-      "gloss": "耳"
+      "gloss": "耳は"
     },
     {
       "surface": "מלין",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "תבחן",
-      "gloss": "試す"
+      "gloss": "吟味し"
     },
     {
       "surface": "וחך",
-      "gloss": "そして口蓋は"
+      "gloss": "口蓋は"
     },
     {
       "surface": "יטעם",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "לאכל",
-      "gloss": "食べるために"
+      "gloss": "食べ物を"
     }
   ],
-  "timestamp": "2026-08-07T13:28:55.478085561Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:17:21.351165220Z",
+  "model": "glm-5.3"
 }

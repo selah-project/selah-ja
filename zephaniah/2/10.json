@@ -5,53 +5,53 @@
   "book": "zephaniah",
   "lang": "ja",
   "chapter": 2,
-  "translation": "これは彼らの高ぶりのゆえに彼らに ⟨与えられる⟩。彼らがヤハウェ・ツェヴァオトの民に対してそしり、おごり高ぶったからである。",
+  "translation": "これは彼らの高ぶりの報いとして⟨彼らに⟩臨む。彼らがヤハウェ・ツェバオトの民に向かって嘲り、おごり高ぶったからである。",
   "tokens": [
     {
-      "surface": "זֹאת",
+      "surface": "זאת",
       "gloss": "これは"
     },
     {
-      "surface": "לָהֶם",
+      "surface": "להם",
       "gloss": "彼らに"
     },
     {
-      "surface": "תַּחַת",
-      "gloss": "⟨ゆえに⟩"
+      "surface": "תחת",
+      "gloss": "～の報いとして"
     },
     {
-      "surface": "גְּאוֹנָם",
+      "surface": "גאונם",
       "gloss": "彼らの高ぶり"
     },
     {
-      "surface": "כִּי",
-      "gloss": " потому что"
+      "surface": "כי",
+      "gloss": "因为"
     },
     {
-      "surface": "חֵרְפוּ",
-      "gloss": "彼らがそしった"
+      "surface": "חרפו",
+      "gloss": "嘲り"
     },
     {
-      "surface": "וַיַּגְדִּילוּ",
-      "gloss": "そしておごり高ぶった"
+      "surface": "ויגדלו",
+      "gloss": "おごり高ぶった"
     },
     {
-      "surface": "עַל",
-      "gloss": "〜に対して"
+      "surface": "על",
+      "gloss": "～に向かって"
     },
     {
-      "surface": "עַם",
+      "surface": "עם",
       "gloss": "民"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "ヤハウェ"
     },
     {
-      "surface": "צְבָאוֹת",
-      "gloss": "ツェヴァオト"
+      "surface": "צבאות",
+      "gloss": "ツェバオト（万軍）"
     }
   ],
-  "timestamp": "2026-08-07T17:15:20.190914892Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:15:10.043685296Z",
+  "model": "glm-5.3"
 }

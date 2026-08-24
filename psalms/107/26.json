@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 107,
-  "translation": "彼らは天に上り、淵に下る。彼らのנפשは苦難の中で溶けゆく。",
+  "translation": "彼らは天に昇り、深淵に降る。彼らの〈נפשם〉（いのち）は悪しさの中で溶け果てる。",
   "tokens": [
     {
-      "surface": "יַעֲל֣וּ",
-      "gloss": "彼らは上る"
+      "surface": "יעלו",
+      "gloss": "彼らは昇る"
     },
     {
-      "surface": "שָׁ֭מַיִם",
+      "surface": "שמים",
       "gloss": "天に"
     },
     {
-      "surface": "יֵרְד֣וּ",
-      "gloss": "彼らは下る"
+      "surface": "ירדו",
+      "gloss": "彼らは降りる"
     },
     {
-      "surface": "תְהוֹמ֑וֹת",
-      "gloss": "淵に"
+      "surface": "תהומות",
+      "gloss": "深淵に"
     },
     {
-      "surface": "נַ֝פְשָׁ֗ם",
-      "gloss": "彼らのנפשは"
+      "surface": "נפשם",
+      "gloss": "彼らのנפש（いのち）は"
     },
     {
-      "surface": "בְּרָעָ֥ה",
-      "gloss": "苦難の中で"
+      "surface": "ברעה",
+      "gloss": "悪しさの中で"
     },
     {
-      "surface": "תִתְמוֹגָֽג",
-      "gloss": "溶けゆく"
+      "surface": "תתמוגג",
+      "gloss": "溶け果てる"
     }
   ],
-  "timestamp": "2026-08-07T18:41:21.011596278Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:19.256032866Z",
+  "model": "glm-5.3"
 }

@@ -5,43 +5,43 @@
   "book": "deuteronomy",
   "lang": "ja",
   "chapter": 14,
-  "translation": "そして⟨את⟩ダチョウ、および⟨את⟩タフマス、および⟨את‬‬ שׁחף、および⟨את⟩タカを、その種類にしたがって。",
+  "translation": "また⟨את⟩雌のダチョウ、また⟨את⟩ヨタカ、また⟨את⟩カモメ、また⟨את⟩その種類にしたがうタカを。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "そして⟨את⟩",
-      "marks": "ダチョウ"
+      "gloss": "⟨את⟩",
+      "marks": "雌のダチョウ"
     },
     {
       "surface": "בת",
-      "gloss": "ダチョウ"
+      "gloss": "雌の"
     },
     {
       "surface": "היענה",
-      "gloss": "（ヤアナ）"
+      "gloss": "ダチョウ"
     },
     {
       "surface": "ואת",
-      "gloss": "および⟨את⟩",
-      "marks": "タフマス"
+      "gloss": "⟨את⟩",
+      "marks": "ヨタカ"
     },
     {
       "surface": "התחמס",
-      "gloss": "タフマス"
+      "gloss": "ヨタカ"
     },
     {
       "surface": "ואת",
-      "gloss": "および⟨את⟩",
-      "marks": "シャハフ"
+      "gloss": "⟨את⟩",
+      "marks": "カモメ"
     },
     {
       "surface": "השחף",
-      "gloss": "シャハフ"
+      "gloss": "カモメ"
     },
     {
       "surface": "ואת",
-      "gloss": "および⟨את⟩",
-      "marks": "タカ"
+      "gloss": "⟨את⟩",
+      "marks": "その種類にしたがうタカ"
     },
     {
       "surface": "הנץ",
@@ -52,6 +52,6 @@
       "gloss": "その種類にしたがって"
     }
   ],
-  "timestamp": "2026-08-07T18:28:01.447039483Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:10:56.201564619Z",
+  "model": "glm-5.3"
 }

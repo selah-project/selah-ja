@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ja",
   "chapter": 21,
-  "translation": "ダビデは上って行った。ガドの言葉により、ヤハウェの名において語った〔言葉により〕。",
+  "translation": "そしてダビデは、ガドがヤハウェの名によって語った言葉のとおりに、上って行った。",
   "tokens": [
     {
       "surface": "ויעל",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "דויד",
-      "gloss": "ダビデは"
+      "gloss": "ダビデ"
     },
     {
       "surface": "בדבר",
-      "gloss": "〜の言葉により"
+      "gloss": "…の言葉によって"
     },
     {
       "surface": "גד",
-      "gloss": "ガドの"
+      "gloss": "ガド"
     },
     {
       "surface": "אשר",
-      "gloss": "〜が"
+      "gloss": "…が"
     },
     {
       "surface": "דבר",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "בשם",
-      "gloss": "〜の名において"
+      "gloss": "名において"
     },
     {
       "surface": "יהוה",
-      "gloss": "ヤハウェの"
+      "gloss": "ヤハウェ"
     }
   ],
-  "timestamp": "2026-08-07T14:07:20.056485195Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:17:57.806563776Z",
+  "model": "glm-5.3"
 }

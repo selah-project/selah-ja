@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 123,
-  "translation": "私たちを憐れんでください、ヤハウェ、私たちを憐れんでください。 vì chúng tôi đã quá no mutableListOf disgusting với ⟨sự⟩ khinh miệt.",
+  "translation": "私たちを恵んでください、ヤハウェよ、私たちを恵んでください。私たちが飽きるほどに満たされたのは、そしり〈による〉からです。",
   "tokens": [
     {
-      "surface": "חָנֵּ֣נוּ",
-      "gloss": "私たちを憐れんでください"
+      "surface": "חננו",
+      "gloss": "私たちを恵んでください"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "ヤハウェ"
     },
     {
-      "surface": "חָנֵּ֑נוּ",
-      "gloss": "私たちを憐れんでください"
+      "surface": "חננו",
+      "gloss": "私たちを恵んでください"
     },
     {
-      "surface": "כִּֽי",
-      "gloss": "因为"
+      "surface": "כי",
+      "gloss": "…のは…からです"
     },
     {
-      "surface": "רַ֝֗ב",
-      "gloss": "豊かに"
+      "surface": "רב",
+      "gloss": "飽きるほどに"
     },
     {
-      "surface": "שָׂבַ֥עְנוּ",
-      "gloss": "饱足了"
+      "surface": "שבענו",
+      "gloss": "満たされた"
     },
     {
-      "surface": "בֽוּז",
-      "gloss": "轻蔑"
+      "surface": "בוז",
+      "gloss": "そしり"
     }
   ],
-  "timestamp": "2026-08-07T18:41:36.213129183Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:42.746683509Z",
+  "model": "glm-5.3"
 }

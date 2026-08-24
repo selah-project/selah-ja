@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 18,
-  "translation": "愚か者の口は自分の破滅、彼の唇は自分の ⟨נפש⟩ の罠。",
+  "translation": "愚か者の口は彼自身の破滅、彼の唇は彼の命の罠である。",
   "tokens": [
     {
-      "surface": "פִּֽי",
+      "surface": "פי",
       "gloss": "口"
     },
     {
-      "surface": "כְ֭סִיל",
-      "gloss": "愚か者の"
+      "surface": "כסיל",
+      "gloss": "愚か者"
     },
     {
-      "surface": "מְחִתָּה",
+      "surface": "מחתה",
       "gloss": "破滅"
     },
     {
-      "surface": "ל֑וֹ",
-      "gloss": "彼の"
+      "surface": "לו",
+      "gloss": "彼自身の"
     },
     {
-      "surface": "וּ֝שְׂפָתָ֗יו",
-      "gloss": "そして彼の唇は"
+      "surface": "ושפתיו",
+      "gloss": "そして彼の唇"
     },
     {
-      "surface": "מוֹקֵ֥שׁ",
+      "surface": "מוקש",
       "gloss": "罠"
     },
     {
-      "surface": "נַפְשֽׁוֹ",
-      "gloss": "彼の⟨נפש⟩の"
+      "surface": "נפשו",
+      "gloss": "彼の命"
     }
   ],
-  "timestamp": "2026-08-07T18:42:14.617600347Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:47.258231674Z",
+  "model": "glm-5.3"
 }

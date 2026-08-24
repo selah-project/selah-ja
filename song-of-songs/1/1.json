@@ -5,25 +5,25 @@
   "book": "song-of-songs",
   "lang": "ja",
   "chapter": 1,
-  "translation": "שירのשירの集、אשרはשלמהのものである。",
+  "translation": "諸歌の歌、それはשלמה（シェロモ\/ソロモン）のもの⟨である⟩。",
   "tokens": [
     {
-      "surface": "שִׁ֥יר",
+      "surface": "שיר",
       "gloss": "歌"
     },
     {
-      "surface": "הַשִּׁירִ֖ים",
-      "gloss": "歌の"
+      "surface": "השירים",
+      "gloss": "諸歌の"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
-      "gloss": "それは〜である"
+      "surface": "אשר",
+      "gloss": "それは…のもの"
     },
     {
-      "surface": "לִשְׁלֹמֹֽה",
-      "gloss": "שלמהのものである"
+      "surface": "לשלמה",
+      "gloss": "שלמה（シェロモ）に属する"
     }
   ],
-  "timestamp": "2026-08-07T18:43:15.907042654Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:17:09.685084446Z",
+  "model": "glm-5.3"
 }

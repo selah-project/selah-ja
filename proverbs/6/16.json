@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 6,
-  "translation": "六つのものがある、ヤハウェはそれらを憎む、七つは⟨彼の⟩ nephesh にとって忌むべきもの⟨である⟩。",
+  "translation": "六つのことがあって、ヤハウェはそれを憎む。七つのことは彼のネフェシュにとって忌み嫌われるものである。",
   "tokens": [
     {
-      "surface": "שֶׁשׁ",
-      "gloss": "六つの"
+      "surface": "שש",
+      "gloss": "六つのこと"
     },
     {
-      "surface": "הֵ֭נָּה",
-      "gloss": "ものがある"
+      "surface": "הנה",
+      "gloss": "それら"
     },
     {
-      "surface": "שָׂנֵ֣א",
+      "surface": "שנא",
       "gloss": "憎む"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "gloss": "ヤハウェ"
     },
     {
-      "surface": "וְ֝שֶׁ֗בַע",
-      "gloss": "七つ"
+      "surface": "ושבע",
+      "gloss": "七つのこと"
     },
     {
       "surface": "תועבות",
-      "gloss": "忌むべきもの"
+      "gloss": "忌み嫌われるもの"
     },
     {
-      "surface": "נַפְשֽׁוֹ",
-      "gloss": "nephesh"
+      "surface": "נפשו",
+      "gloss": "彼のネフェシュ"
     }
   ],
-  "timestamp": "2026-08-07T18:41:55.552272670Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:30.525131348Z",
+  "model": "glm-5.3"
 }

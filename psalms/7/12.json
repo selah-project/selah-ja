@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 7,
-  "translation": "エロヒムは義なる裁き手、怒るエル、すべての日⟨⟨である⟩⟩。",
+  "translation": "エロヒムは正しい裁き手、エルは日ごとに怒る方である。",
   "tokens": [
     {
       "surface": "אלהים",
-      "gloss": "エロヒムは"
+      "gloss": "エロヒム"
     },
     {
       "surface": "שופט",
-      "gloss": "裁き手"
+      "gloss": "裁く"
     },
     {
       "surface": "צדיק",
-      "gloss": "義なる"
+      "gloss": "正しい"
     },
     {
       "surface": "ואל",
-      "gloss": "エル"
+      "gloss": "エルも"
     },
     {
       "surface": "זעם",
@@ -36,6 +36,6 @@
       "gloss": "日"
     }
   ],
-  "timestamp": "2026-08-07T12:34:29.107089143Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:15:30.487462021Z",
+  "model": "glm-5.3"
 }

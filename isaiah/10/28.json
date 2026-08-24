@@ -5,23 +5,23 @@
   "book": "isaiah",
   "lang": "ja",
   "chapter": 10,
-  "translation": "彼はアイヤト ⟨על⟩来たり、ミグロンを通り過ぎ、ミフマシュで ⟨彼の⟩器具を預け置く。",
+  "translation": "アヤテに来たり、ミグロンを通り過ぎ、ミクマシにおいてその器財を預け置く。",
   "tokens": [
     {
       "surface": "בא",
-      "gloss": "来た"
+      "gloss": "来たり"
     },
     {
       "surface": "על",
-      "gloss": "⟨על⟩"
+      "gloss": "〜に"
     },
     {
       "surface": "עית",
-      "gloss": "アイヤト"
+      "gloss": "アヤテ"
     },
     {
       "surface": "עבר",
-      "gloss": "通り過ぎた"
+      "gloss": "通り過ぎ"
     },
     {
       "surface": "במגרון",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "למכמש",
-      "gloss": "ミフマシュで"
+      "gloss": "ミクマシにおいて"
     },
     {
       "surface": "יפקיד",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "כליו",
-      "gloss": "彼の器具を"
+      "gloss": "その器財を"
     }
   ],
-  "timestamp": "2026-08-07T18:33:44.366349441Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:13:09.496859435Z",
+  "model": "glm-5.3"
 }

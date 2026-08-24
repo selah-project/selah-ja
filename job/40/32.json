@@ -5,37 +5,37 @@
   "book": "job",
   "lang": "ja",
   "chapter": 40,
-  "translation": "あなたの手のひらを彼の上に置け。戦いを思い出せ — もはや⟨続けるな>。",
+  "translation": "あなたの手のひらを彼の上に置け。戦いを思い出せ、再び増し加えるな。",
   "tokens": [
     {
-      "surface": "שִׂים",
+      "surface": "שים",
       "gloss": "置け"
     },
     {
-      "surface": "עָלָ֥יו",
+      "surface": "עליו",
       "gloss": "彼の上に"
     },
     {
-      "surface": "כַּפֶּ֑ךָ",
+      "surface": "כפך",
       "gloss": "あなたの手のひらを"
     },
     {
-      "surface": "זְכֹ֥ר",
+      "surface": "זכר",
       "gloss": "思い出せ"
     },
     {
-      "surface": "מִ֝לְחָמָ֗ה",
+      "surface": "מלחמה",
       "gloss": "戦いを"
     },
     {
-      "surface": "אַל",
-      "gloss": "〜な"
+      "surface": "אל",
+      "gloss": "〜するな"
     },
     {
-      "surface": "תּוֹסַֽף",
-      "gloss": "加える"
+      "surface": "תוסף",
+      "gloss": "増し加える"
     }
   ],
-  "timestamp": "2026-08-07T13:32:26.011570104Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:17:25.386480063Z",
+  "model": "glm-5.3"
 }

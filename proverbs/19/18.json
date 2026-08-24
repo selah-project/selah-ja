@@ -5,49 +5,49 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 19,
-  "translation": "あなたの息子を懲らしめよ、そこに希望があるから。しかし、彼を死なせることへ、あなたの nefesh を引き込めてはならない。",
+  "translation": "あなたの息子を懲らしめよ。望みが⟨ある⟩からだ。しかし、彼を死なせ⟨ること⟩に⟨向かって⟩、あなたの nephesh（命）を高く挙げてはならない。",
   "tokens": [
     {
-      "surface": "יַסֵּ֣ר",
+      "surface": "יסר",
       "gloss": "懲らしめよ"
     },
     {
-      "surface": "בִּ֭נְךָ",
+      "surface": "בנך",
       "gloss": "あなたの息子を"
     },
     {
-      "surface": "כִּי",
-      "gloss": "〜だから"
+      "surface": "כי",
+      "gloss": "…だから"
     },
     {
-      "surface": "יֵ֣שׁ",
-      "gloss": "ある"
+      "surface": "יש",
+      "gloss": "⟨ある⟩"
     },
     {
-      "surface": "תִּקְוָ֑ה",
-      "gloss": "希望"
+      "surface": "תקוה",
+      "gloss": "望みが"
     },
     {
-      "surface": "וְאֶל",
-      "gloss": "しかし〜へ"
+      "surface": "ואל",
+      "gloss": "しかし…に向かって"
     },
     {
-      "surface": "הֲמִית֗וֹ",
+      "surface": "המיתו",
       "gloss": "彼を死なせること"
     },
     {
-      "surface": "אַל",
-      "gloss": "〜な"
+      "surface": "אל",
+      "gloss": "…してはならない"
     },
     {
-      "surface": "תִּשָּׂ֥א",
-      "gloss": "引き込めては"
+      "surface": "תשא",
+      "gloss": "挙げては"
     },
     {
-      "surface": "נַפְשֶֽׁךָ",
-      "gloss": "あなたの nefesh"
+      "surface": "נפשך",
+      "gloss": "あなたの命を"
     }
   ],
-  "timestamp": "2026-08-07T18:42:16.787659621Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:44.936298748Z",
+  "model": "glm-5.3"
 }

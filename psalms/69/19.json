@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 69,
-  "translation": "私のנַפְשִׁי（いのち）に近づき、それを贖ってください — 私の敵のゆえに、私を ransom してください。",
+  "translation": "近くにお寄せください、私のネフェシュに。それを贖ってください。私の敵のゆえに、私を身請けしてください。",
   "tokens": [
     {
-      "surface": "קָרְבָ֣ה",
-      "gloss": "近づいてください"
+      "surface": "קרבה",
+      "gloss": "近くにお寄せください"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "〜に"
     },
     {
-      "surface": "נַפְשִׁ֣י",
-      "gloss": "私のנַפְשִׁי（いのち）"
+      "surface": "נפשי",
+      "gloss": "私のネフェシュ"
     },
     {
-      "surface": "גְאָלָ֑הּ",
+      "surface": "גאלה",
       "gloss": "それを贖ってください"
     },
     {
-      "surface": "לְמַ֖עַן",
+      "surface": "למען",
       "gloss": "〜のゆえに"
     },
     {
-      "surface": "אֹיְבַ֣י",
+      "surface": "איבי",
       "gloss": "私の敵"
     },
     {
-      "surface": "פְּדֵֽנִי",
-      "gloss": "私を ransom してください"
+      "surface": "פדני",
+      "gloss": "私を身請けしてください"
     }
   ],
-  "timestamp": "2026-08-07T18:40:39.727611879Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:15:31.040108635Z",
+  "model": "glm-5.3"
 }

@@ -5,86 +5,86 @@
   "book": "jeremiah",
   "lang": "ja",
   "chapter": 2,
-  "translation": "わたしの民は二つの悪を行った。⟨את⟩わたしを、生ける水の泉であるわたしを捨て、彼ら自身のために貯水池を掘ったのだから――壊れた貯水池を。水を保てない〔貯水池を〕。",
+  "translation": "なぜなら私の民は二つの悪を行ったからだ。彼らは私を、生ける水の源である⟨את⟩私を見捨て、自分たちのために、水を保つことのできない壊れた貯水池、貯水池を掘り抜いた。",
   "tokens": [
     {
-      "surface": "כִּֽי",
-      "gloss": "…のだから"
+      "surface": "כי",
+      "gloss": "なぜなら"
     },
     {
-      "surface": "שְׁתַּ֥יִם",
+      "surface": "שתים",
       "gloss": "二つの"
     },
     {
-      "surface": "רָע֖וֹת",
+      "surface": "רעות",
       "gloss": "悪"
     },
     {
-      "surface": "עָשָׂ֣ה",
+      "surface": "עשה",
       "gloss": "行った"
     },
     {
-      "surface": "עַמִּ֑י",
-      "gloss": "わたしの民は"
+      "surface": "עמי",
+      "gloss": "私の民"
     },
     {
-      "surface": "אֹתִ֨י",
+      "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "わたしを"
+      "marks": "私"
     },
     {
-      "surface": "עָזְב֜וּ",
-      "gloss": "捨て"
+      "surface": "עזבו",
+      "gloss": "見捨て"
     },
     {
-      "surface": "מְק֣וֹר",
-      "gloss": "泉"
+      "surface": "מקור",
+      "gloss": "源"
     },
     {
-      "surface": "מַ֣יִם",
+      "surface": "מים",
       "gloss": "水の"
     },
     {
-      "surface": "חַיִּ֗ים",
+      "surface": "חיים",
       "gloss": "生ける"
     },
     {
-      "surface": "לַחְצֹ֤ב",
-      "gloss": "掘った"
+      "surface": "לחצב",
+      "gloss": "掘り抜くために"
     },
     {
-      "surface": "לָהֶם֙",
-      "gloss": "彼ら自身のために"
+      "surface": "להם",
+      "gloss": "自分たちのために"
     },
     {
-      "surface": "בֹּאר֔וֹת",
-      "gloss": "貯水池を"
-    },
-    {
-      "surface": "בֹּארֹת֙",
+      "surface": "בארות",
       "gloss": "貯水池"
     },
     {
-      "surface": "נִשְׁבָּרִ֔ים",
+      "surface": "בארת",
+      "gloss": "貯水池"
+    },
+    {
+      "surface": "נשברים",
       "gloss": "壊れた"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
-      "gloss": "…ない"
+      "surface": "אשר",
+      "gloss": "それは"
     },
     {
-      "surface": "לֹא",
-      "gloss": "…ない"
+      "surface": "לא",
+      "gloss": "～ない"
     },
     {
-      "surface": "יָכִ֖לוּ",
-      "gloss": "保て"
+      "surface": "יכלו",
+      "gloss": "保つことができる"
     },
     {
-      "surface": "הַמָּֽיִם",
+      "surface": "המים",
       "gloss": "水を"
     }
   ],
-  "timestamp": "2026-08-07T11:38:34.174144881Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:13:45.147020529Z",
+  "model": "glm-5.3"
 }

@@ -5,55 +5,55 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 116,
-  "translation": "あなたは私のנפש（いのち）を死から引き出されたからだ、⟨את⟩私の目を涙から、⟨את⟩私の足をつまずきから。",
+  "translation": "あなたは私のנפש（命）を死から引き上げ、私の目を⟨את⟩涙から、私の足を⟨את⟩つまずきから救い出されたからです。",
   "tokens": [
     {
-      "surface": "כִּ֤י",
-      "gloss": "因为"
+      "surface": "כי",
+      "gloss": "…だから"
     },
     {
-      "surface": "חִלַּ֥צְתָּ",
-      "gloss": "あなたは引き出された"
+      "surface": "חלצת",
+      "gloss": "引き上げられた"
     },
     {
-      "surface": "נַפְשִׁ֗י",
-      "gloss": "私の nefesh"
+      "surface": "נפשי",
+      "gloss": "私のネフェシ（命）"
     },
     {
-      "surface": "מִ֫מָּ֥וֶת",
+      "surface": "ממות",
       "gloss": "死から"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "私の目"
     },
     {
-      "surface": "עֵינִ֥י",
+      "surface": "עיני",
       "gloss": "私の目"
     },
     {
-      "surface": "מִן",
-      "gloss": "〜から"
+      "surface": "מן",
+      "gloss": "…から"
     },
     {
-      "surface": "דִּמְעָ֑ה",
+      "surface": "דמעה",
       "gloss": "涙"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "私の足"
     },
     {
-      "surface": "רַגְלִ֥י",
+      "surface": "רגלי",
       "gloss": "私の足"
     },
     {
-      "surface": "מִדֶּֽחִי",
-      "gloss": "つまずきから"
+      "surface": "מדחי",
+      "gloss": "つまずき"
     }
   ],
-  "timestamp": "2026-08-07T19:13:22.602436890Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:03.754546555Z",
+  "model": "glm-5.3"
 }

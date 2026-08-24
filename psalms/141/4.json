@@ -5,70 +5,70 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 141,
-  "translation": "私の心を悪い事に傾けないでください — 悪をもって悪事を為すことに ⟨⟨את⟩⟩ 搾取を働く者たちと共に。そして私は彼らの美味を食べてはなりません。",
+  "translation": "私の心を悪しき事へ傾けないでください。不義のもとで悪しき業を働くために、害悪をなす働き手である人々⟨את⟩と共に。また私は彼らのご馳走を味わうことのないように。」",
   "tokens": [
     {
-      "surface": "אַל",
+      "surface": "אל",
       "gloss": "〜ないでください"
     },
     {
-      "surface": "תַּט",
+      "surface": "תט",
       "gloss": "傾けないで"
     },
     {
-      "surface": "לִבִּ֨י",
-      "gloss": "私の心を"
+      "surface": "לבי",
+      "gloss": "私の心"
     },
     {
-      "surface": "לְדָבָ֨ר",
-      "gloss": "事に"
+      "surface": "לדבר",
+      "gloss": "事へ"
     },
     {
-      "surface": "רָ֡ע",
-      "gloss": "悪い"
+      "surface": "רע",
+      "gloss": "悪しき"
     },
     {
-      "surface": "לְהִתְעוֹלֵ֤ל",
-      "gloss": "為すことに"
+      "surface": "להתעולל",
+      "gloss": "働くために"
     },
     {
-      "surface": "עֲלִיל֨וֹת",
-      "gloss": "悪事を"
+      "surface": "עללות",
+      "gloss": "悪しき業"
     },
     {
-      "surface": "בְּרֶ֗שַׁע",
-      "gloss": "悪をもって"
+      "surface": "ברשע",
+      "gloss": "不義のもとで"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "搾取を働く者たちと"
+      "marks": "人々と共に"
     },
     {
-      "surface": "אִישִׁ֥ים",
+      "surface": "אישים",
       "gloss": "人々"
     },
     {
-      "surface": "פֹּֽעֲלֵ֣י",
-      "gloss": "働く"
+      "surface": "פעלי",
+      "gloss": "働き手である"
     },
     {
-      "surface": "אָ֑וֶן",
-      "gloss": "搾取を"
+      "surface": "און",
+      "gloss": "害悪"
     },
     {
-      "surface": "וּבַל",
-      "gloss": "そして〜ない"
+      "surface": "ובל",
+      "gloss": "また〜ないように"
     },
     {
-      "surface": "אֶלְחַ֗ם",
-      "gloss": "私は食べては"
+      "surface": "אלחם",
+      "gloss": "味わう"
     },
     {
-      "surface": "בְּמַנְעַמֵּיהֶֽם",
-      "gloss": "彼らの美味を"
+      "surface": "במנעמיהם",
+      "gloss": "彼らのご馳走を"
     }
   ],
-  "timestamp": "2026-08-07T13:06:45.074820098Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:59.802404863Z",
+  "model": "glm-5.3"
 }

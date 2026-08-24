@@ -5,163 +5,42 @@
   "book": "jeremiah",
   "lang": "ja",
   "chapter": 30,
-  "translation": "הַדָּבָר אֲשֶׁר הָיָה אֶל יִרְמְיָהוּ מֵאֵת יְהוָה לֵאמֹר",
+  "translation": "エレミヤに臨んだ言葉、すなわちヤハウェから⟨את⟩のゆえに臨んだもの — こう述べて寄越されたもの、すなわち〈ヤハウェから〉〈エレミヤに〉臨んだ〈言葉〉、〈述べるために〉。",
   "tokens": [
     {
-      "surface": "הַדָּבָר",
-      "gloss": "言葉",
-      "morphology": {
-        "pos": "noun",
-        "stem": "common",
-        "pattern": "ה־ָ־ָ",
-        "root": "דבר",
-        "features": {
-          "gender": "masculine",
-          "number": "singular",
-          "state": "absolute",
-          "determination": "definite"
-        }
-      },
-      "syntax": {
-        "role": "subject",
-        "head": null,
-        "dependents": [
-          "אֲשֶׁר"
-        ]
-      }
+      "surface": "הדבר",
+      "gloss": "言葉"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "関係代名詞",
-      "morphology": {
-        "pos": "relative_pronoun",
-        "stem": null,
-        "pattern": null,
-        "root": "אשר",
-        "features": {}
-      },
-      "syntax": {
-        "role": "relative_marker",
-        "head": "הַדָּבָר",
-        "dependents": [
-          "הָיָה"
-        ]
-      }
+      "surface": "אשר",
+      "gloss": "〜の（関係詞）"
     },
     {
-      "surface": "הָיָה",
-      "gloss": "あった",
-      "morphology": {
-        "pos": "verb",
-        "stem": "qal",
-        "pattern": "ָ־ָ־",
-        "root": "היה",
-        "features": {
-          "tense": "perfect",
-          "person": "3",
-          "gender": "masculine",
-          "number": "singular"
-        }
-      },
-      "syntax": {
-        "role": "predicate",
-        "head": "הַדָּבָר",
-        "dependents": [
-          "אֶל"
-        ]
-      }
+      "surface": "היה",
+      "gloss": "臨んだ"
     },
     {
-      "surface": "אֶל",
-      "gloss": "〜に",
-      "morphology": {
-        "pos": "preposition",
-        "stem": null,
-        "pattern": null,
-        "root": "אל",
-        "features": {}
-      },
-      "syntax": {
-        "role": "preposition",
-        "head": "הָיָה",
-        "dependents": [
-          "יִרְמְיָהוּ"
-        ]
-      }
+      "surface": "אל",
+      "gloss": "〜に"
     },
     {
-      "surface": "יִרְמְיָהוּ",
-      "gloss": "ירミヤ",
-      "morphology": {
-        "pos": "proper_noun",
-        "stem": null,
-        "pattern": null,
-        "root": "רמה",
-        "features": {
-          "gender": "masculine",
-          "number": "singular"
-        }
-      },
-      "syntax": {
-        "role": "object_of_preposition",
-        "head": "אֶל",
-        "dependents": []
-      }
+      "surface": "ירמיהו",
+      "gloss": "エレミヤ"
     },
     {
-      "surface": "מֵאֵת",
-      "gloss": "〜から",
-      "morphology": {
-        "pos": "preposition",
-        "stem": null,
-        "pattern": "מ־ֵ־",
-        "root": "את",
-        "features": {}
-      },
-      "syntax": {
-        "role": "preposition",
-        "head": "הָיָה",
-        "dependents": [
-          "יְהוָה"
-        ]
-      }
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェ"
     },
     {
-      "surface": "יְהוָה",
-      "gloss": "ヤハウェ",
-      "morphology": {
-        "pos": "proper_noun",
-        "stem": null,
-        "pattern": null,
-        "root": "יהוה",
-        "features": {
-          "gender": "masculine",
-          "number": "singular"
-        }
-      },
-      "syntax": {
-        "role": "object_of_preposition",
-        "head": "מֵאֵת",
-        "dependents": []
-      }
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
     },
     {
-      "surface": "לֵאמֹר",
-      "gloss": "言って",
-      "morphology": {
-        "pos": "infinitive_construct",
-        "stem": "qal",
-        "pattern": "לֵ־ֹ",
-        "root": "אמר",
-        "features": {}
-      },
-      "syntax": {
-        "role": "infinitive",
-        "head": "הָיָה",
-        "dependents": []
-      }
+      "surface": "לאמר",
+      "gloss": "述べるために"
     }
   ],
-  "timestamp": "2026-08-07T18:35:53.599409587Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:13:52.835096424Z",
+  "model": "glm-5.3"
 }

@@ -5,85 +5,85 @@
   "book": "isaiah",
   "lang": "ja",
   "chapter": 54,
-  "translation": "כִּי מֵי נֹחַ זֹאת לִי אֲשֶׁר נִשְׁבַּעְתִּי מֵעֲבֹר מֵי נֹחַ עוֹד עַל הָאָרֶץ כֵּן נִשְׁבַּעְתִּי מִקְּצֹף עָלַיִךְ וּמִגְּעָר בָּךְ",
+  "translation": "これはわたしにとってノアの水のようなものである。ノアの水が再び地の上を越えないようにと、わたしは誓った。同様に、あなたに怒らず、あなたを責めないようにと、わたしは誓った。",
   "tokens": [
     {
-      "surface": "כִּי",
-      "gloss": "…だから"
+      "surface": "כי",
+      "gloss": "というのは"
     },
     {
-      "surface": "מֵי",
-      "gloss": "…の水は"
+      "surface": "מי",
+      "gloss": "水"
     },
     {
-      "surface": "נֹחַ",
-      "gloss": "ノア"
+      "surface": "נח",
+      "gloss": "ノアの"
     },
     {
-      "surface": "זֹאת",
+      "surface": "זאת",
       "gloss": "これは"
     },
     {
-      "surface": "לִי",
+      "surface": "לי",
       "gloss": "わたしにとって"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "…こと（それは）"
+      "surface": "אשר",
+      "gloss": "～のように"
     },
     {
-      "surface": "נִשְׁבַּעְתִּי",
+      "surface": "נשבעתי",
       "gloss": "わたしは誓った"
     },
     {
-      "surface": "מֵעֲבֹר",
-      "gloss": "…が再び渡らないようにと"
+      "surface": "מעבר",
+      "gloss": "越えることがないようにと"
     },
     {
-      "surface": "מֵי",
-      "gloss": "…の水が"
+      "surface": "מי",
+      "gloss": "水"
     },
     {
-      "surface": "נֹחַ",
-      "gloss": "ノア"
+      "surface": "נח",
+      "gloss": "ノアの"
     },
     {
-      "surface": "עוֹד",
-      "gloss": "もはや…ない"
+      "surface": "עוד",
+      "gloss": "再び"
     },
     {
-      "surface": "עַל",
-      "gloss": "…の上に"
+      "surface": "על",
+      "gloss": "の上を"
     },
     {
-      "surface": "הָאָרֶץ",
+      "surface": "הארץ",
       "gloss": "地"
     },
     {
-      "surface": "כֵּן",
+      "surface": "כן",
       "gloss": "同様に"
     },
     {
-      "surface": "נִשְׁבַּעְתִּי",
+      "surface": "נשבעתי",
       "gloss": "わたしは誓った"
     },
     {
-      "surface": "מִקְּצֹף",
-      "gloss": "…怒らないことを"
+      "surface": "מקצף",
+      "gloss": "怒らないようにと"
     },
     {
-      "surface": "עָלַיִךְ",
-      "gloss": "あなたに対して"
+      "surface": "עליך",
+      "gloss": "あなたに"
     },
     {
-      "surface": "וּמִגְּעָר",
-      "gloss": "また…叱らないことを"
+      "surface": "ומגער",
+      "gloss": "そして責めないようにと"
     },
     {
-      "surface": "בָּךְ",
+      "surface": "בך",
       "gloss": "あなたを"
     }
   ],
-  "timestamp": "2026-08-07T18:34:26.373112706Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:13:22.456130135Z",
+  "model": "glm-5.3"
 }

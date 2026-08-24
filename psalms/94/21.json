@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 94,
-  "translation": "彼らは正しい者の⟨נפש⟩に逆って集結し、無垢の血を罪ありと宣告する。",
+  "translation": "彼らは正しい者の命に群がって取り囲み、無垢の血を罪あると宣告する。",
   "tokens": [
     {
-      "surface": "יָ֭גוֹדּוּ",
-      "gloss": "彼らは集結する"
+      "surface": "יגודו",
+      "gloss": "群がって取り囲む"
     },
     {
-      "surface": "עַל",
-      "gloss": "〜に逆って"
+      "surface": "על",
+      "gloss": "…に向かって"
     },
     {
-      "surface": "נֶ֣פֶשׁ",
-      "gloss": "נפש"
+      "surface": "נפש",
+      "gloss": "命"
     },
     {
-      "surface": "צַדִּ֑יק",
+      "surface": "צדיק",
       "gloss": "正しい者の"
     },
     {
-      "surface": "וְדָ֖ם",
-      "gloss": "そして血を"
+      "surface": "ודם",
+      "gloss": "そして血"
     },
     {
-      "surface": "נָקִ֣י",
+      "surface": "נקי",
       "gloss": "無垢の"
     },
     {
-      "surface": "יַרְשִֽׁיעוּ",
-      "gloss": "罪ありと宣告する"
+      "surface": "ירשיעו",
+      "gloss": "罪あると宣告する"
     }
   ],
-  "timestamp": "2026-08-07T18:41:10.565754252Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:00.508360969Z",
+  "model": "glm-5.3"
 }

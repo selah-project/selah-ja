@@ -5,61 +5,61 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 13,
-  "translation": "いつまで ⟨私は⟩ 私の nefesh の中に 計らうのか、心の中に 悩みを ⟨抱いて⟩ 日々。いつまで 私の敵は 私の上に 高く上がるのか",
+  "translation": "いつまで私のנפש（命）に助言を置き、心に悲しみを日ごとに宿すのか。いつまで私の敵は私の上に高く上がるのか。「いつまで」",
   "tokens": [
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "いつまで"
     },
     {
-      "surface": "אָ֨נָה",
-      "gloss": ""
-    },
-    {
-      "surface": "אָשִׁ֪ית",
-      "gloss": "私は置く"
-    },
-    {
-      "surface": "עֵצ֡וֹת",
-      "gloss": "計らい"
-    },
-    {
-      "surface": "בְּנַפְשִׁ֗י",
-      "gloss": "私の nefesh の中に"
-    },
-    {
-      "surface": "יָג֣וֹן",
-      "gloss": "悩み"
-    },
-    {
-      "surface": "בִּלְבָבִ֣י",
-      "gloss": "私の心の中に"
-    },
-    {
-      "surface": "יוֹמָ֑ם",
-      "gloss": "日々"
-    },
-    {
-      "surface": "עַד",
+      "surface": "אנה",
       "gloss": "いつまで"
     },
     {
-      "surface": "אָ֓נָה",
-      "gloss": ""
+      "surface": "אשית",
+      "gloss": "置く"
     },
     {
-      "surface": "יָר֖וּם",
+      "surface": "עצות",
+      "gloss": "助言を"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "私のנפש（命）に"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "悲しみ"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "私の心に"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "日ごとに"
+    },
+    {
+      "surface": "עד",
+      "gloss": "いつまで"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "いつまで"
+    },
+    {
+      "surface": "ירום",
       "gloss": "高く上がる"
     },
     {
-      "surface": "אֹיְבִ֣י",
-      "gloss": "私の敵"
+      "surface": "איבי",
+      "gloss": "私の敵は"
     },
     {
-      "surface": "עָלָֽי",
+      "surface": "עלי",
       "gloss": "私の上に"
     }
   ],
-  "timestamp": "2026-08-07T18:39:21.583064081Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:15:31.942801449Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ja",
   "chapter": 10,
-  "translation": "シェムの子らは、エラム、アシュル、アルパクシャド、ルド、アルам。",
+  "translation": "シェムの子らは、エーラーム、アッシュール、アルパフシャド、ルド、アルamである。",
   "tokens": [
     {
       "surface": "בני",
@@ -13,29 +13,29 @@
     },
     {
       "surface": "שם",
-      "gloss": "シェム"
+      "gloss": "シェムの"
     },
     {
       "surface": "עילם",
-      "gloss": "エラム"
+      "gloss": "エーラーム"
     },
     {
-      "surface": "ואשור",
-      "gloss": "アシュル"
+      "surface": "וְאַשּׁוּר",
+      "gloss": "アッシュール"
     },
     {
-      "surface": "וארפכשד",
-      "gloss": "アルパクシャド"
+      "surface": "וְאַרְפַּכְשַׁד",
+      "gloss": "アルパフシャド"
     },
     {
-      "surface": "ולוד",
+      "surface": "וְלוּד",
       "gloss": "ルド"
     },
     {
-      "surface": "וארם",
-      "gloss": "アルам"
+      "surface": "וַאֲרָם",
+      "gloss": "アルam"
     }
   ],
-  "timestamp": "2026-08-07T16:22:37.582548271Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:10:22.763739055Z",
+  "model": "glm-5.3"
 }

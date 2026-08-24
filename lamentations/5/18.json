@@ -5,37 +5,37 @@
   "book": "lamentations",
   "lang": "ja",
   "chapter": 5,
-  "translation": "צִיּוֹן֙の山の上に ——荒れ果てて、ジャッカルたちがその上を歩いたから。",
+  "translation": "シオンの山のゆえに — それ⟨は⟩荒れ果て、ジャッカルたちがその上を歩き回っているから。",
   "tokens": [
     {
-      "surface": "עַ֤ל",
-      "gloss": "〜の上に"
+      "surface": "על",
+      "gloss": "…のゆえに"
     },
     {
       "surface": "הַר",
       "gloss": "山"
     },
     {
-      "surface": "צִיּוֹן֙",
-      "gloss": "צִיּוֹן֙"
+      "surface": "ציון",
+      "gloss": "ツィヨン（シオン）"
     },
     {
-      "surface": "שֶׁשָּׁמֵ֔ם",
-      "gloss": "荒れ果てて"
+      "surface": "ששמם",
+      "gloss": "荒れ果て"
     },
     {
-      "surface": "שׁוּעָלִ֖ים",
+      "surface": "שועלים",
       "gloss": "ジャッカルたち"
     },
     {
-      "surface": "הִלְּכוּ",
-      "gloss": "歩いた"
+      "surface": "הלכו",
+      "gloss": "歩き回っている"
     },
     {
-      "surface": "בֽוֹ",
+      "surface": "בו",
       "gloss": "その上を"
     }
   ],
-  "timestamp": "2026-08-07T18:43:37.367392517Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:17:18.215108585Z",
+  "model": "glm-5.3"
 }

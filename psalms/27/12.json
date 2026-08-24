@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 27,
-  "translation": "私を、私を圧迫する者たちの・ nefesh に渡さないでください。偽りの証人たちが私に向かって立ち上がり、暴力を吐き出しているからです。",
+  "translation": "私を敵の desires ⟨את⟩私を渡さないでください。偽りの証人たちが私に立ち上がり、暴虐を吐き出しているからです。",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "〜ないでください"
+      "gloss": "～ないで"
     },
     {
       "surface": "תתנני",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "בנפש",
-      "gloss": "〜の・ nefesh に"
+      "gloss": " nefesh（ desires ）に"
     },
     {
       "surface": "צרי",
-      "gloss": "私を圧迫する者たちの"
+      "gloss": "私の敵の"
     },
     {
       "surface": "כי",
-      "gloss": "というのは"
+      "gloss": "なぜなら"
     },
     {
       "surface": "קמו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "עדי",
-      "gloss": "証人たちが"
+      "gloss": "証人たち"
     },
     {
       "surface": "שקר",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "חמס",
-      "gloss": "暴力を"
+      "gloss": "暴虐を"
     }
   ],
-  "timestamp": "2026-08-07T18:39:30.999059396Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:15:47.915581150Z",
+  "model": "glm-5.3"
 }

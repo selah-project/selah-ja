@@ -5,33 +5,33 @@
   "book": "job",
   "lang": "ja",
   "chapter": 6,
-  "translation": "私のנפשが触れるのを拒むもの、それらは私の病める食物のようだ。",
+  "translation": "私のネフェシュは触れるのを拒む。それらは私の病んだ食物のようだ。",
   "tokens": [
     {
-      "surface": "מֵאֲנָ֣ה",
+      "surface": "מאנה",
       "gloss": "拒む"
     },
     {
-      "surface": "לִנְגּ֣וֹעַ",
+      "surface": "לנגוע",
       "gloss": "触れるのを"
     },
     {
-      "surface": "נַפְשִׁ֑י",
-      "gloss": "私のנפש"
+      "surface": "נפשי",
+      "gloss": "私のネフェシュは"
     },
     {
-      "surface": "הֵ֝֗מָּה",
+      "surface": "המה",
       "gloss": "それらは"
     },
     {
-      "surface": "כִּדְוֵ֥י",
-      "gloss": "〜のようだ"
+      "surface": "כדוי",
+      "gloss": "病んだ…のようだ"
     },
     {
-      "surface": "לַחְמִֽי",
+      "surface": "לחמי",
       "gloss": "私の食物"
     }
   ],
-  "timestamp": "2026-08-07T18:42:40.361827098Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:30.907537467Z",
+  "model": "glm-5.3"
 }

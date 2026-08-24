@@ -5,49 +5,49 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 25,
-  "translation": "刈り入れの日に雪の冷たしきごとく、遣わす者たちへの忠実なる使者は、その主たちの⟨נפש⟩を_REFRESHさせる。",
+  "translation": "刈り入れの日に雪の冷たさのようなもの、そう、遣わした者にとっての忠実な使者は⟨彼の⟩主人たちの nefesh（魂）を回復させる。",
   "tokens": [
     {
-      "surface": "כְּצִנַּת",
-      "gloss": "…のごとく／冷たさ"
+      "surface": "כצנת",
+      "gloss": "〜の冷たさのようなもの"
     },
     {
-      "surface": "שֶׁ֨לֶג",
+      "surface": "שלג",
       "gloss": "雪の"
     },
     {
-      "surface": "בְּי֬וֹם",
-      "gloss": "…の日に"
+      "surface": "ביום",
+      "gloss": "日に"
     },
     {
-      "surface": "קָצִ֗יר",
-      "gloss": "刈り入れ"
+      "surface": "קציר",
+      "gloss": "刈り入れの"
     },
     {
-      "surface": "צִיר",
-      "gloss": "使者"
+      "surface": "ציר",
+      "gloss": "使者は"
     },
     {
-      "surface": "נֶ֭אֱמָן",
-      "gloss": "忠実なる"
+      "surface": "נאמן",
+      "gloss": "忠実な"
     },
     {
-      "surface": "לְשֹׁלְחָ֑יו",
-      "gloss": "彼を遣わす者たちへの"
+      "surface": "לשלחיו",
+      "gloss": "彼を遣わした者にとっての"
     },
     {
-      "surface": "וְנֶ֖פֶשׁ",
-      "gloss": "そして…のנפשを"
+      "surface": "ונפש",
+      "gloss": "そして nefesh（魂）を"
     },
     {
-      "surface": "אֲדֹנָ֣יו",
-      "gloss": "彼の主たちの"
+      "surface": "אדניו",
+      "gloss": "彼の主人たちの"
     },
     {
-      "surface": "יָשִֽׁיב",
+      "surface": "ישיב",
       "gloss": "回復させる"
     }
   ],
-  "timestamp": "2026-08-07T18:42:28.998845273Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:52.300437987Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ja",
   "chapter": 46,
-  "translation": "これらはジルパの子らである — ラバンがその娘レアに与えた者たち — 彼女は⟨את⟩これらをヤコブのために産んだ：十六の nefesh。",
+  "translation": "これらはジルパの子らである。ラバンがその娘レアに与えたものである。彼女はこれらをヤアコブに産んだ — 十六の nefesh。",
   "tokens": [
     {
       "surface": "אלה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "〜を"
     },
     {
       "surface": "נתן",
@@ -46,15 +46,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "これらを"
+      "marks": "これら"
     },
     {
       "surface": "אלה",
-      "gloss": "これらを"
+      "gloss": "これら"
     },
     {
       "surface": "ליעקב",
-      "gloss": "ヤコブのために"
+      "gloss": "ヤアコブに"
     },
     {
       "surface": "שש",
@@ -69,6 +69,6 @@
       "gloss": "nefesh"
     }
   ],
-  "timestamp": "2026-08-07T18:26:02.079788231Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:10:35.626306988Z",
+  "model": "glm-5.3"
 }

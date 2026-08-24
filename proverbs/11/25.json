@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 11,
-  "translation": "祝福するנפשは肥やされ、潤す者もまた彼自身潤される。",
+  "translation": "祝福する〈霊魂〉は肥やされ、潤す者もまた自ら潤されます〈される〉。",
   "tokens": [
     {
-      "surface": "נֶֽפֶשׁ",
-      "gloss": "נפש"
+      "surface": "נפש",
+      "gloss": "〈霊魂〉"
     },
     {
-      "surface": "בְּרָכָ֥ה",
+      "surface": "ברכה",
       "gloss": "祝福する"
     },
     {
-      "surface": "תְדֻשָּׁ֑ן",
-      "gloss": "肥やされる"
+      "surface": "תדשן",
+      "gloss": "肥やされ"
     },
     {
-      "surface": "וּ֝מַרְוֶ֗ה",
-      "gloss": "潤す者も"
+      "surface": "ומרוה",
+      "gloss": "潤す者"
     },
     {
-      "surface": "גַּם",
-      "gloss": "また"
+      "surface": "גם",
+      "gloss": "もまた"
     },
     {
-      "surface": "ה֥וּא",
-      "gloss": "彼自身"
+      "surface": "הוא",
+      "gloss": "自ら"
     },
     {
-      "surface": "יוֹרֶֽא",
+      "surface": "יורא",
       "gloss": "潤される"
     }
   ],
-  "timestamp": "2026-08-07T18:42:07.400245145Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:18:09.538187341Z",
+  "model": "glm-5.3"
 }

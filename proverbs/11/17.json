@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 11,
-  "translation": "人は自らの nefesh に ヘセド を報いる、そして自らの身内を苦しめる者は残忍である",
+  "translation": "恵み深い者は自分のネフェシュにヘセドを報いる。しかし自分の肉を悩ます者は残酷である。",
   "tokens": [
     {
-      "surface": "גֹּמֵ֣ל",
+      "surface": "גמל",
       "gloss": "報いる"
     },
     {
-      "surface": "נַ֭פְשׁוֹ",
-      "gloss": "自らの nefesh に"
+      "surface": "נפשו",
+      "gloss": "自分のネフェシュ"
     },
     {
-      "surface": "אִ֣ישׁ",
-      "gloss": "人は"
+      "surface": "איש",
+      "gloss": "者"
     },
     {
-      "surface": "חָ֑סֶד",
-      "gloss": "ヘセド を"
+      "surface": "חסד",
+      "gloss": "ヘセド"
     },
     {
-      "surface": "וְעֹכֵ֥ר",
-      "gloss": "そして…苦しめる者"
+      "surface": "ועכר",
+      "gloss": "しかし…悩ます"
     },
     {
-      "surface": "שְׁאֵר֗וֹ",
-      "gloss": "自らの身内を"
+      "surface": "שארו",
+      "gloss": "自分の肉"
     },
     {
-      "surface": "אַכְזָרִֽי",
-      "gloss": "残忍である"
+      "surface": "אכזרי",
+      "gloss": "残酷である"
     }
   ],
-  "timestamp": "2026-08-07T18:42:08.058978782Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:32.202837381Z",
+  "model": "glm-5.3"
 }

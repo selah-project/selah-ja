@@ -5,19 +5,19 @@
   "book": "job",
   "lang": "ja",
   "chapter": 15,
-  "translation": "彼らだけに ⟨その⟩地は与えられた、そして外国人は彼らのうちを通らなかった。〕",
+  "translation": "彼らだけに、ただ彼らのみに地は与えられ、よそ者は彼らの中を通り過ぎなかった。",
   "tokens": [
     {
       "surface": "להם",
-      "gloss": "彼らに"
+      "gloss": "彼らだけに"
     },
     {
       "surface": "לבדם",
-      "gloss": "だけに"
+      "gloss": "ただ彼らのみに"
     },
     {
       "surface": "נתנה",
-      "gloss": "与えられた"
+      "gloss": "与えられ"
     },
     {
       "surface": "הארץ",
@@ -25,21 +25,21 @@
     },
     {
       "surface": "ולא",
-      "gloss": "そして〜なかった"
+      "gloss": "～なかった"
     },
     {
       "surface": "עבר",
-      "gloss": "通らなかった"
+      "gloss": "通り過ぎ"
     },
     {
       "surface": "זר",
-      "gloss": "外国人"
+      "gloss": "よそ者"
     },
     {
       "surface": "בתוכם",
-      "gloss": "彼らのうちを"
+      "gloss": "彼らの中を"
     }
   ],
-  "timestamp": "2026-08-07T13:24:41.372457225Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:17:14.722522023Z",
+  "model": "glm-5.3"
 }

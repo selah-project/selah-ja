@@ -5,65 +5,65 @@
   "book": "ezekiel",
   "lang": "ja",
   "chapter": 42,
-  "translation": "כִּי אֹרֶךְ הַלְּשָׁכֹות אֲשֶׁר לֶחָצֵר הַחִיצֹונָה חֲמִשִּׁים אַמָּה, וְהִנֵּה עַל פְּנֵי הֵיכָל מֵאָה אַמָּה.",
+  "translation": "外庭に属する部屋の長さは五十アンマであり、見よ、宮の正面は百アンマであった。",
   "tokens": [
     {
-      "surface": "כִּי",
-      "gloss": "なぜなら"
+      "surface": "כי",
+      "gloss": "というのは"
     },
     {
-      "surface": "אֹרֶךְ",
+      "surface": "ארך",
       "gloss": "長さ"
     },
     {
-      "surface": "הַלְּשָׁכוֹת",
-      "gloss": "その部屋群の"
+      "surface": "הלשכות",
+      "gloss": "部屋の"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "それは〜のもの"
+      "surface": "אשר",
+      "gloss": "…に属するもの"
     },
     {
-      "surface": "לֶחָצֵר",
-      "gloss": "外庭に"
+      "surface": "לחצר",
+      "gloss": "外庭"
     },
     {
-      "surface": "הַחִצוֹנָה",
-      "gloss": "その外側の"
+      "surface": "החצונה",
+      "gloss": "外の"
     },
     {
-      "surface": "חֲמִשִּׁים",
+      "surface": "חמשים",
       "gloss": "五十"
     },
     {
-      "surface": "אַמָּה",
-      "gloss": "アマ"
+      "surface": "אמה",
+      "gloss": "アンマ"
     },
     {
-      "surface": "וְהִנֵּה",
-      "gloss": "そして見よ"
+      "surface": "והנה",
+      "gloss": "見よ"
     },
     {
-      "surface": "עַל",
-      "gloss": "〜の前に"
+      "surface": "על",
+      "gloss": "…の上に"
     },
     {
-      "surface": "פְּנֵי",
+      "surface": "פני",
       "gloss": "正面"
     },
     {
-      "surface": "הַהֵיכָל",
-      "gloss": "その神殿の"
+      "surface": "ההיכל",
+      "gloss": "宮の"
     },
     {
-      "surface": "מֵאָה",
+      "surface": "מאה",
       "gloss": "百"
     },
     {
-      "surface": "אַמָּה",
-      "gloss": "アマ"
+      "surface": "אמה",
+      "gloss": "アンマ"
     }
   ],
-  "timestamp": "2026-08-07T18:37:54.469654703Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:14:43.757517821Z",
+  "model": "glm-5.3"
 }

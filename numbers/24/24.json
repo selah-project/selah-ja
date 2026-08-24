@@ -5,53 +5,53 @@
   "book": "numbers",
   "lang": "ja",
   "chapter": 24,
-  "translation": "そして船々がキティムの手から来る。彼らはアッシュルを苦しめ、彼らはエベルを苦しめる。しかしその者⟨も⟩また滅びの終わり〔にある〕。",
+  "translation": "船（צים）はキティムの岸から来て、アッシュールを苦しめ、エベルを苦しめるが、彼もまたついに滅びうせる。",
   "tokens": [
     {
-      "surface": "וְצִים",
-      "gloss": "そして船々は"
+      "surface": "וצים",
+      "gloss": "船（צים）は"
     },
     {
-      "surface": "מִיַּד",
-      "gloss": "〜の手から"
+      "surface": "מיד",
+      "gloss": "…の岸から"
     },
     {
-      "surface": "כִּתִּים",
+      "surface": "כתים",
       "gloss": "キティム"
     },
     {
-      "surface": "וְעִנּוּ",
-      "gloss": "そして彼らは苦しめる"
+      "surface": "וענו",
+      "gloss": "苦しめ"
     },
     {
-      "surface": "אַשּׁוּר",
-      "gloss": "アッシュルを"
+      "surface": "אשור",
+      "gloss": "アッシュール"
     },
     {
-      "surface": "וְעִנּוּ",
-      "gloss": "そして彼らは苦しめる"
+      "surface": "וענו",
+      "gloss": "苦しめる"
     },
     {
-      "surface": "עֵבֶר",
-      "gloss": "エベルを"
+      "surface": "עבר",
+      "gloss": "エベル"
     },
     {
-      "surface": "וְגַם",
-      "gloss": "しかしその者⟨も⟩"
+      "surface": "וגם",
+      "gloss": "しかし…もまた"
     },
     {
-      "surface": "הוּא",
-      "gloss": "また"
+      "surface": "הוא",
+      "gloss": "彼"
     },
     {
-      "surface": "עֲדֵי",
-      "gloss": "終わりに"
+      "surface": "עדי",
+      "gloss": "ついに"
     },
     {
-      "surface": "אֹבֵד",
-      "gloss": "滅びの"
+      "surface": "אבד",
+      "gloss": "滅びうせる"
     }
   ],
-  "timestamp": "2026-08-07T10:00:20.862474119Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:11:16.919263017Z",
+  "model": "glm-5.3"
 }

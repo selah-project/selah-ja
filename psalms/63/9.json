@@ -5,33 +5,33 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 63,
-  "translation": "私の〈נפשׁ〉はあなたに付き従った、あなたの右の手が私を支えたから。",
+  "translation": "私のネフェシュはあなたにしがみつきます。あなたの右の手が私を支えてくださるからです。",
   "tokens": [
     {
-      "surface": "דָּבְקָ֣ה",
-      "gloss": "付き従った"
+      "surface": "דבקה",
+      "gloss": "しがみつきます"
     },
     {
-      "surface": "נַפְשִׁ֣י",
-      "gloss": "私の〈נפשׁ〉は"
+      "surface": "נפשי",
+      "gloss": "私のネフェシュ"
     },
     {
-      "surface": "אַחֲרֶ֑יךָ",
+      "surface": "אחריך",
       "gloss": "あなたに"
     },
     {
-      "surface": "בִּ֝֗י",
+      "surface": "בי",
       "gloss": "私を"
     },
     {
-      "surface": "תָּמְכָ֥ה",
-      "gloss": "支えた"
+      "surface": "תמכה",
+      "gloss": "支えてくださる"
     },
     {
-      "surface": "יְמִינֶֽךָ",
+      "surface": "ימינך",
       "gloss": "あなたの右の手が"
     }
   ],
-  "timestamp": "2026-08-07T18:40:27.049904028Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:15:56.456414202Z",
+  "model": "glm-5.3"
 }

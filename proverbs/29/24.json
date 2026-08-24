@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 29,
-  "translation": "盗人と分かち合う者は自分の nefesh を憎む。彼は呪いの誓いを聞いても、それを告げない。",
+  "translation": "盗人と分け前を分ける者は自分のネフェシュを憎む。彼は呪いの誓い⟨を⟩聞いても、それを告げ出さない。",
   "tokens": [
     {
       "surface": "חולק",
-      "gloss": "分かち合う者"
+      "gloss": "分け前を分ける者は"
     },
     {
       "surface": "עם",
-      "gloss": "〜と"
+      "gloss": "…と（共に）"
     },
     {
       "surface": "גנב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נפשו",
-      "gloss": "自分の nefesh"
+      "gloss": "自分のネフェシュ"
     },
     {
       "surface": "אלה",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "ישמע",
-      "gloss": "聞く"
+      "gloss": "聞いても"
     },
     {
       "surface": "ולא",
-      "gloss": "〜ない"
+      "gloss": "…ない"
     },
     {
       "surface": "יגיד",
-      "gloss": "告げる"
+      "gloss": "告げ出さない"
     }
   ],
-  "timestamp": "2026-08-07T18:42:23.142848082Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:42.971082766Z",
+  "model": "glm-5.3"
 }

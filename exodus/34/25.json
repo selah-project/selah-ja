@@ -5,57 +5,57 @@
   "book": "exodus",
   "lang": "ja",
   "chapter": 34,
-  "translation": "חמץ ⟨על⟩ דם זבחי לא תשחט, ולא ילין לבקר זבח חג הפסח.",
+  "translation": "酵母物を添えて⟨את⟩わたしの犠牲の血を屠ってはならない。過越の祭の犠牲は朝まで残してはならない。",
   "tokens": [
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "〜ない"
     },
     {
-      "surface": "תִשְׁחַ֥ט",
-      "gloss": "屠る"
+      "surface": "תשחט",
+      "gloss": "屠ってはならない"
     },
     {
-      "surface": "עַל",
-      "gloss": "〜の上に"
+      "surface": "על",
+      "gloss": "を添えて"
     },
     {
-      "surface": "חָמֵ֖ץ",
-      "gloss": "パン種"
+      "surface": "חמץ",
+      "gloss": "酵母物"
     },
     {
-      "surface": "דַּם",
+      "surface": "דם",
       "gloss": "血"
     },
     {
-      "surface": "זִבְחִ֑י",
-      "gloss": "わたしの犠牲の"
+      "surface": "זבחי",
+      "gloss": "わたしの犠牲"
     },
     {
-      "surface": "וְלֹא",
-      "gloss": "そして〜ない"
+      "surface": "ולא",
+      "gloss": "また〜ない"
     },
     {
-      "surface": "יָלִ֣ין",
-      "gloss": "夜を過ごす"
+      "surface": "ילין",
+      "gloss": "残してはならない"
     },
     {
-      "surface": "לַבֹּ֔קֶר",
+      "surface": "לבקר",
       "gloss": "朝まで"
     },
     {
-      "surface": "זֶ֖בַח",
+      "surface": "זבח",
       "gloss": "犠牲"
     },
     {
-      "surface": "חַ֥ג",
-      "gloss": "祭りの"
+      "surface": "חג",
+      "gloss": "祭"
     },
     {
-      "surface": "הַפָּֽסַח",
-      "gloss": "ペサハの"
+      "surface": "הפסח",
+      "gloss": "過越の"
     }
   ],
-  "timestamp": "2026-08-07T18:26:26.905997522Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:10:45.374921077Z",
+  "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 1,
-  "translation": "巧みさを⟨与える>単純な者に、知識と慎みを若者に",
+  "translation": "素朴な者（ペタウィーム）に抜け目なさを与え、若者に知識と慎重さを得させるために。",
   "tokens": [
     {
       "surface": "לתת",
-      "gloss": "与える"
+      "gloss": "与えるために"
     },
     {
       "surface": "לפתאים",
-      "gloss": "単純な者に"
+      "gloss": "素朴な者たちに"
     },
     {
       "surface": "ערמה",
-      "gloss": "巧みさを"
+      "gloss": "抜け目なさ"
     },
     {
       "surface": "לנער",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "דעת",
-      "gloss": "知識と"
+      "gloss": "知識"
     },
     {
       "surface": "ומזמה",
-      "gloss": "慎みを"
+      "gloss": "そして慎重さ"
     }
   ],
-  "timestamp": "2026-08-07T13:07:55.805048603Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:31.375717843Z",
+  "model": "glm-5.3"
 }

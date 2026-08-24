@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 2,
-  "translation": "知恵があなたの心に入るとき、そして知識があなたの⟨נפש⟩に快いものとなるとき、",
+  "translation": "知恵があなたの心に入るとき、知識があなたのנפש（命）に快く思われるとき —",
   "tokens": [
     {
-      "surface": "כִּֽי",
-      "gloss": "〜するとき"
+      "surface": "כי",
+      "gloss": "とき（そうすると）"
     },
     {
-      "surface": "תָב֣וֹא",
-      "gloss": "入る"
+      "surface": "תבוא",
+      "gloss": "入ると"
     },
     {
-      "surface": "חָכְמָ֣ה",
-      "gloss": "知恵が"
+      "surface": "חכמה",
+      "gloss": "知恵"
     },
     {
-      "surface": "בְלִבֶּ֑ךָ",
+      "surface": "בלבך",
       "gloss": "あなたの心に"
     },
     {
-      "surface": "וְ֝דַ֗עַת",
-      "gloss": "そして知識が"
+      "surface": "ודעת",
+      "gloss": "そして知識"
     },
     {
-      "surface": "לְֽנַפְשְׁךָ֥",
-      "gloss": "あなたの⟨נפש⟩に"
+      "surface": "לנפשך",
+      "gloss": "あなたのנפש（命）に"
     },
     {
-      "surface": "יִנְעָֽם",
-      "gloss": "快いものとなる"
+      "surface": "ינעם",
+      "gloss": "快く思われる"
     }
   ],
-  "timestamp": "2026-08-07T18:41:56.270566997Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:31.459548225Z",
+  "model": "glm-5.3"
 }

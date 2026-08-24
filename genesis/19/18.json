@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "ja",
   "chapter": 19,
-  "translation": "ロットは⟨彼らに⟩言った。「どうか、アドナイ、そう〔なさらないでください〕。",
+  "translation": "そしてロトは彼らに言った、「どうかそうではないでください、アドナイよ。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "…は言った"
+      "gloss": "そして…言った"
     },
     {
       "surface": "לוט",
-      "gloss": "ロット"
+      "gloss": "ロト"
     },
     {
       "surface": "אלהם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "…ではない"
+      "gloss": "…ないで"
     },
     {
       "surface": "נא",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "אדני",
-      "gloss": "アドナイ"
+      "gloss": "アドナイよ"
     }
   ],
-  "timestamp": "2026-08-07T08:54:35.917231287Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:10:35.308432385Z",
+  "model": "glm-5.3"
 }

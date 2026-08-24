@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "ja",
   "chapter": 27,
-  "translation": "のろわれる者是、父と母を軽んじる者。そして全⟨the⟩民は言う、アーメン。",
+  "translation": "「呪われよ、父と母を軽んじる者は。」そして全会衆は「アーメン」と言う。",
   "tokens": [
     {
       "surface": "ארור",
-      "gloss": "のろわれる"
+      "gloss": "呪われよ"
     },
     {
       "surface": "מקלה",
-      "gloss": "軽んじる者"
+      "gloss": "軽んじる"
     },
     {
       "surface": "אביו",
@@ -25,21 +25,21 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "そして言う"
+      "gloss": "そして…は言う"
     },
     {
       "surface": "כל",
-      "gloss": "全"
+      "gloss": "すべての"
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩民"
+      "gloss": "会衆"
     },
     {
       "surface": "אמן",
       "gloss": "アーメン"
     }
   ],
-  "timestamp": "2026-08-07T18:28:11.874501247Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:12:00.506664086Z",
+  "model": "glm-5.3"
 }

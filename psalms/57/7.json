@@ -5,43 +5,43 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 57,
-  "translation": "網を私の歩みのために設えた、私の nefesh は弯えられた、彼らは私の前に坑を掘った、⟨彼らは⟩その中に落ちた セラ",
+  "translation": "彼らはわたしの足のために網を仕掛けた。わたしのנפש（ネフェシュ）はかがめられた。彼らはわたしの前に穴を掘った。彼ら自身がその中に落ちた。סלה（セラ）",
   "tokens": [
     {
       "surface": "רשת",
-      "gloss": "網を"
+      "gloss": "網"
     },
     {
       "surface": "הכינו",
-      "gloss": "設えた"
+      "gloss": "彼らは仕掛けた"
     },
     {
       "surface": "לפעמי",
-      "gloss": "私の歩みのために"
+      "gloss": "わたしの足のために"
     },
     {
       "surface": "כפף",
-      "gloss": "弯えられた"
+      "gloss": "かがめられた"
     },
     {
       "surface": "נפשי",
-      "gloss": "私の nefesh は"
+      "gloss": "わたしのנפש（ネフェシュ）は"
     },
     {
       "surface": "כרו",
-      "gloss": "掘った"
+      "gloss": "彼らは掘った"
     },
     {
       "surface": "לפני",
-      "gloss": "私の前に"
+      "gloss": "わたしの前に"
     },
     {
       "surface": "שיחה",
-      "gloss": "坑を"
+      "gloss": "穴"
     },
     {
       "surface": "נפלו",
-      "gloss": "落ちた"
+      "gloss": "彼らは落ちた"
     },
     {
       "surface": "בתוכה",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "סלה",
-      "gloss": "セラ"
+      "gloss": "סלה（セラ）"
     }
   ],
-  "timestamp": "2026-08-07T18:40:18.286110847Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:15:39.345858286Z",
+  "model": "glm-5.3"
 }

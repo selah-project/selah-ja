@@ -5,69 +5,69 @@
   "book": "ezekiel",
   "lang": "ja",
   "chapter": 18,
-  "translation": "見よ、すべての nefashot はわたしのもの、これらはわたしのもの。父の nefesh のように、また子の nefesh のように、これらはわたしのもの。罪を犯す nefesh、それ⟨こそ⟩死ぬ。",
+  "translation": "見よ、すべてのネフェシュはわたしのもの、実にそうだ。父のネフェシュと同じく子のネフェシュもわたしのもの、実にそうだ。罪を犯すそのネフェシュ、それ⟨が⟩死ぬ。",
   "tokens": [
     {
-      "surface": "הֵ֤ן",
+      "surface": "הן",
       "gloss": "見よ"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "すべての"
     },
     {
-      "surface": "הַנְּפָשׁוֹת֙",
-      "gloss": "nefashot"
+      "surface": "הנפשות",
+      "gloss": "ネフェシュら"
     },
     {
-      "surface": "לִ֣י",
+      "surface": "לי",
       "gloss": "わたしのもの"
     },
     {
-      "surface": "הֵ֔נָּה",
-      "gloss": "これらは"
+      "surface": "הנה",
+      "gloss": "実にそうだ"
     },
     {
-      "surface": "כְּנֶ֧פֶשׁ",
-      "gloss": "〜のnefeshのように"
+      "surface": "כנפש",
+      "gloss": "〜のネフェシュと同じく"
     },
     {
-      "surface": "הָאָ֛ב",
+      "surface": "האב",
       "gloss": "父"
     },
     {
-      "surface": "וּכְנֶ֥פֶשׁ",
-      "gloss": "また〜のnefeshのように"
+      "surface": "וכנפש",
+      "gloss": "そして〜のネフェシュも"
     },
     {
-      "surface": "הַבֵּ֖ן",
+      "surface": "הבן",
       "gloss": "子"
     },
     {
-      "surface": "לִ֑י",
+      "surface": "לי",
       "gloss": "わたしのもの"
     },
     {
-      "surface": "הֵ֑נָּה",
-      "gloss": "これらは"
+      "surface": "הנה",
+      "gloss": "実にそうだ"
     },
     {
-      "surface": "הַנֶּ֥פֶשׁ",
-      "gloss": "nefesh"
+      "surface": "הנפש",
+      "gloss": "そのネフェシュ"
     },
     {
-      "surface": "הַחֹטֵ֖את",
+      "surface": "החטאת",
       "gloss": "罪を犯す"
     },
     {
-      "surface": "הִ֥יא",
+      "surface": "היא",
       "gloss": "それ"
     },
     {
-      "surface": "תָמֽוּת",
+      "surface": "תמות",
       "gloss": "死ぬ"
     }
   ],
-  "timestamp": "2026-08-07T18:37:19.050263254Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:13:45.311978546Z",
+  "model": "glm-5.3"
 }

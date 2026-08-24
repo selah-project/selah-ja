@@ -5,33 +5,33 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 30,
-  "translation": "שְׂמָמִית ⟨を⟩二つの手で捕まえられるのに、彼女は王の宮殿に⟨いる⟩。",
+  "translation": "シュマミト（トカゲ）は二本の手で捕まえられるのに、その身は王の宮殿にいる。",
   "tokens": [
     {
-      "surface": "שְׂמָמִית",
-      "gloss": "שְׂמָמִית（トカゲ）"
+      "surface": "שממית",
+      "gloss": "シュマミト（トカゲ）"
     },
     {
-      "surface": "בְּיָדַיִם",
-      "gloss": "二つの手で"
+      "surface": "בידים",
+      "gloss": "二本の手で"
     },
     {
-      "surface": "תְּתַפֵּשׂ",
+      "surface": "תתפש",
       "gloss": "捕まえられる"
     },
     {
-      "surface": "וְהִיא",
-      "gloss": "彼女は"
+      "surface": "והיא",
+      "gloss": "その身は"
     },
     {
-      "surface": "בְּהֵיכְלֵי",
+      "surface": "בהיכלי",
       "gloss": "宮殿に"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "王の"
     }
   ],
-  "timestamp": "2026-08-07T18:42:37.593656944Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:46.083200415Z",
+  "model": "glm-5.3"
 }

@@ -5,49 +5,49 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 10,
-  "translation": "悪しき者は自分の nefesh の欲望を誇り、利益を得る者は⟨それを⟩祝福し、ヤハウェを侮る。",
+  "translation": "悪者はその喉の渇望を誇り、利を貪る者は〈自分を〉祝福し、ヤハウェを辱める。",
   "tokens": [
     {
-      "surface": "כִּֽי",
-      "gloss": "（というのは）"
+      "surface": "כי",
+      "gloss": "というのは"
     },
     {
-      "surface": "הִלֵּ֣ל",
+      "surface": "הלל",
       "gloss": "誇る"
     },
     {
-      "surface": "רָ֭שָׁע",
-      "gloss": "悪しき者"
+      "surface": "רשע",
+      "gloss": "悪者は"
     },
     {
-      "surface": "עַל",
-      "gloss": "〜について"
+      "surface": "על",
+      "gloss": "…について"
     },
     {
-      "surface": "תַּאֲוַ֣ת",
-      "gloss": "欲望"
+      "surface": "תאות",
+      "gloss": "渇望を"
     },
     {
-      "surface": "נַפְשׁ֑וֹ",
-      "gloss": "自分の nefesh"
+      "surface": "נפשו",
+      "gloss": "その喉の"
     },
     {
-      "surface": "וּבֹצֵ֥עַ",
-      "gloss": "利益を得る者は"
+      "surface": "ובצע",
+      "gloss": "利を貪る者は"
     },
     {
-      "surface": "בֵּ֝רֵ֗ךְ",
+      "surface": "ברך",
       "gloss": "祝福し"
     },
     {
-      "surface": "נִ֘אֵ֥ץ",
-      "gloss": "侮る"
+      "surface": "נאץ",
+      "gloss": "辱める"
     },
     {
-      "surface": "יְהוָֽה",
-      "gloss": "ヤハウェ"
+      "surface": "יהוה",
+      "gloss": "ヤハウェを"
     }
   ],
-  "timestamp": "2026-08-07T18:39:10.414777385Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:15:33.869927983Z",
+  "model": "glm-5.3"
 }

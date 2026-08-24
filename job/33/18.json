@@ -5,37 +5,37 @@
   "book": "job",
   "lang": "ja",
   "chapter": 33,
-  "translation": "彼のנפשを穴から引き戻し、彼の命が剣を通って過ぎ去らないようにする。",
+  "translation": "彼のנפש（いのち）を破滅の穴から守り、彼の命が剣によって過ぎ去らないようにと。",
   "tokens": [
     {
-      "surface": "יַחְשֹׂ֣ךְ",
-      "gloss": "引き戻す"
+      "surface": "יחשך",
+      "gloss": "守り back"
     },
     {
-      "surface": "נַ֭פְשׁוֹ",
-      "gloss": "彼のנפשを"
+      "surface": "נפשו",
+      "gloss": "彼のנפש（いのち）"
     },
     {
-      "surface": "מִנִּי",
+      "surface": "מני",
       "gloss": "〜から"
     },
     {
-      "surface": "שָׁ֑חַת",
-      "gloss": "穴"
+      "surface": "שחת",
+      "gloss": "破滅の穴"
     },
     {
-      "surface": "וְ֝חַיָּת֗וֹ",
-      "gloss": "そして彼の命を"
+      "surface": "וחיתו",
+      "gloss": "そして彼の命"
     },
     {
-      "surface": "מֵעֲבֹ֥ר",
-      "gloss": "過ぎ去ることから"
+      "surface": "מעבר",
+      "gloss": "過ぎ去らないように"
     },
     {
-      "surface": "בַּשָּֽׁלַח",
-      "gloss": "剣を"
+      "surface": "בשלח",
+      "gloss": "剣によって"
     }
   ],
-  "timestamp": "2026-08-07T18:43:09.103526800Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:17:17.032924880Z",
+  "model": "glm-5.3"
 }

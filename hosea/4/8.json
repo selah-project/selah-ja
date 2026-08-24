@@ -5,37 +5,37 @@
   "book": "hosea",
   "lang": "ja",
   "chapter": 4,
-  "translation": "彼らはわたしの民の罪を食らい、その咎に向かって彼の⟨נפשׁ⟩を高く上げる。",
+  "translation": "彼らはわたしの民の罪祭物（חטאת）を食らい、その咎（עון）に向かって彼のנפשを高く上げる。",
   "tokens": [
     {
-      "surface": "חַטַּ֥את",
-      "gloss": "罪"
+      "surface": "חטאת",
+      "gloss": "罪祭物"
     },
     {
-      "surface": "עַמִּ֖י",
+      "surface": "עמי",
       "gloss": "わたしの民の"
     },
     {
-      "surface": "יֹאכֵ֑לוּ",
-      "gloss": "彼らは食らう"
+      "surface": "יאכלו",
+      "gloss": "彼らは食らい"
     },
     {
-      "surface": "וְאֶל",
-      "gloss": "〜に向かって"
+      "surface": "ואל",
+      "gloss": "そして…に向かって"
     },
     {
-      "surface": "עֲוֺנָ֖ם",
-      "gloss": "その咎"
+      "surface": "עונם",
+      "gloss": "彼らの咎"
     },
     {
-      "surface": "יִשְׂא֥וּ",
+      "surface": "ישאו",
       "gloss": "高く上げる"
     },
     {
-      "surface": "נַפְשֽׁוֹ",
-      "gloss": "彼の⟨נפשׁ⟩"
+      "surface": "נפשו",
+      "gloss": "彼のנפש（魂・欲）を"
     }
   ],
-  "timestamp": "2026-08-07T18:38:04.682619803Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:14:44.794561322Z",
+  "model": "glm-5.3"
 }

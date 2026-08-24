@@ -5,29 +5,29 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 119,
-  "translation": "ちりに clingeth ⟨is⟩ my ネフェシュ — make me live, according to your word.",
+  "translation": "私のネフェシュは塵に付きまとっています。あなたの言葉のとおりに、私を生き返らせてください。",
   "tokens": [
     {
-      "surface": "דָּֽבְקָ֣ה",
-      "gloss": "clingeth"
+      "surface": "דבקה",
+      "gloss": "付きまとっています"
     },
     {
-      "surface": "לֶעָפָ֣ר",
-      "gloss": "to the dust"
+      "surface": "לעפר",
+      "gloss": "塵に"
     },
     {
-      "surface": "נַפְשִׁ֑י",
-      "gloss": "my ネフェシュ"
+      "surface": "נפשי",
+      "gloss": "私のネフェシュ"
     },
     {
-      "surface": "חַ֝יֵּ֗נִי",
-      "gloss": "make me live"
+      "surface": "חיני",
+      "gloss": "生き返らせてください"
     },
     {
-      "surface": "כִּדְבָרֶֽךָ",
-      "gloss": "according to your word"
+      "surface": "כדברך",
+      "gloss": "あなたの言葉のとおりに"
     }
   ],
-  "timestamp": "2026-08-07T18:41:28.107217608Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:01.075897794Z",
+  "model": "glm-5.3"
 }

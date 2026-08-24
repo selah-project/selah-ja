@@ -5,86 +5,86 @@
   "book": "deuteronomy",
   "lang": "ja",
   "chapter": 30,
-  "translation": "私はあなたがたに告げた、今日、まことに滅び失うあなたがたは、日々を長くしない、その地の上で、あなたが⟨את⟩ヨルダンを渡ってそこへ入ってこれを所有するために〔行く〕。",
+  "translation": "私はきょう、あなたがたに告げる。あなたがたは必ず滅び失う。あなたがたは、あなたが⟨את⟩ヨルダンを渡ってそこへ入り、それを所有しようとしているその地の上に、日々を長く延ばすことはない。",
   "tokens": [
     {
-      "surface": "הִגַּ֤דְתִּי",
-      "gloss": "私は告げた"
+      "surface": "הגדתי",
+      "gloss": "私は告げる"
     },
     {
-      "surface": "לָכֶם֙",
+      "surface": "לכם",
       "gloss": "あなたがたに"
     },
     {
-      "surface": "הַיּ֔וֹם",
-      "gloss": "今日"
+      "surface": "היום",
+      "gloss": "きょう"
     },
     {
-      "surface": "כִּ֥י",
-      "gloss": "まことに"
+      "surface": "כי",
+      "gloss": "…ということ"
     },
     {
-      "surface": "אָבֹ֖ד",
-      "gloss": "滅び失う"
+      "surface": "אבד",
+      "gloss": "必ず滅び"
     },
     {
-      "surface": "תֹּאבֵד֑וּן",
-      "gloss": "あなたがたは"
+      "surface": "תאבדון",
+      "gloss": "失う"
     },
     {
-      "surface": "לֹא",
-      "gloss": "〜ない"
+      "surface": "לא",
+      "gloss": "…ない"
     },
     {
-      "surface": "תַאֲרִיכֻ֤ן",
-      "gloss": "長くする"
+      "surface": "תאריכן",
+      "gloss": "延ばす"
     },
     {
-      "surface": "יָמִים֙",
+      "surface": "ימים",
       "gloss": "日々を"
     },
     {
-      "surface": "עַל",
-      "gloss": "〜の上で"
+      "surface": "על",
+      "gloss": "…の上に"
     },
     {
-      "surface": "הָ֣אֲדָמָ֔ה",
+      "surface": "האדמה",
       "gloss": "その地"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
-      "gloss": "そこへ"
+      "surface": "אשר",
+      "gloss": "それは"
     },
     {
-      "surface": "אַתָּ֤ה",
-      "gloss": "あなたは"
+      "surface": "אתה",
+      "gloss": "あなたが"
     },
     {
-      "surface": "עֹבֵר֙",
+      "surface": "עבר",
       "gloss": "渡って"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ヨルダン"
     },
     {
-      "surface": "הַיַּרְדֵּ֔ן",
+      "surface": "הירדן",
       "gloss": "ヨルダン"
     },
     {
-      "surface": "לָבֹ֥א",
+      "surface": "לבא",
       "gloss": "入るために"
     },
     {
-      "surface": "שָׁ֖מָּה",
+      "surface": "שמה",
       "gloss": "そこへ"
     },
     {
-      "surface": "לְרִשְׁתָּֽהּ",
-      "gloss": "これを所有するために"
+      "surface": "לרשתה",
+      "gloss": "それを所有するために"
     }
   ],
-  "timestamp": "2026-08-07T18:28:28.319080548Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:18:11.732944486Z",
+  "model": "glm-5.3"
 }

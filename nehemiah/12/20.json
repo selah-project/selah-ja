@@ -5,25 +5,25 @@
   "book": "nehemiah",
   "lang": "ja",
   "chapter": 12,
-  "translation": "サライ⟨の>、カライ。アモク⟨の>、エベル。",
+  "translation": "サライ⟨家⟩にはカライ、アモク⟨家⟩にはエベル。",
   "tokens": [
     {
-      "surface": "לְסַלַּ֥י",
-      "gloss": "サライ⟨の>"
+      "surface": "לסלי",
+      "gloss": "サライ⟨家⟩には"
     },
     {
-      "surface": "קַלָּ֖י",
+      "surface": "קלי",
       "gloss": "カライ"
     },
     {
-      "surface": "לְעָמ֥וֹק",
-      "gloss": "アモク⟨の>"
+      "surface": "לעמוק",
+      "gloss": "アモク⟨家⟩には"
     },
     {
-      "surface": "עֵֽבֶר",
+      "surface": "עבר",
       "gloss": "エベル"
     }
   ],
-  "timestamp": "2026-08-07T13:58:17.457960464Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:17:58.834867555Z",
+  "model": "glm-5.3"
 }

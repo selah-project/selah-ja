@@ -5,45 +5,45 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 89,
-  "translation": "天の雲の中で、誰がヤハウェに比びえよう。神々の子らの中で、誰がヤハウェに似ていようか。",
+  "translation": "天において、誰がヤハウェに並び得ようか。エルのたちの中で、誰がヤハウェに似ていようか。",
   "tokens": [
     {
-      "surface": "כִּ֤י",
-      "gloss": " ведь "
+      "surface": "כי",
+      "gloss": "というのは（疑問の導入）"
     },
     {
-      "surface": "מִ֣י",
-      "gloss": " кто "
+      "surface": "מי",
+      "gloss": "誰が"
     },
     {
-      "surface": "בַ֭שַּׁחַק",
-      "gloss": " в небесах "
+      "surface": "בשחק",
+      "gloss": "天において"
     },
     {
-      "surface": "יַעֲרֹ֣ךְ",
-      "gloss": " сравнится "
+      "surface": "יערך",
+      "gloss": "並び得ようか"
     },
     {
-      "surface": "לַיהוָ֑ה",
-      "gloss": " с Яхве "
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
     },
     {
-      "surface": "יִדְמֶ֥ה",
-      "gloss": " уподобится "
+      "surface": "ידמה",
+      "gloss": "似ていようか"
     },
     {
-      "surface": "לַ֝יהוָ֗ה",
-      "gloss": " Яхве "
+      "surface": "ליהוה",
+      "gloss": "ヤハウェに"
     },
     {
-      "surface": "בִּבְנֵ֥י",
-      "gloss": " среди сынов "
+      "surface": "בבני",
+      "gloss": "…のたちの中で"
     },
     {
-      "surface": "אֵלִים",
-      "gloss": " божественных "
+      "surface": "אלים",
+      "gloss": "エルたち"
     }
   ],
-  "timestamp": "2026-08-07T18:40:59.424580797Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:20.105391949Z",
+  "model": "glm-5.3"
 }

@@ -5,61 +5,61 @@
   "book": "haggai",
   "lang": "ja",
   "chapter": 2,
-  "translation": "ハガイは言った。「人が死体によって汚れた ⟨נפש⟩ が、これらすべてに触れるなら、それは汚れる ⟨היטמא⟩ か。」祭司たちは答えて言った。「汚れる。」",
+  "translation": "そしてハガイは言った。「もし汚れた ネフェシュ がこれらすべてに触れるなら、それは汚れるのか。」祭司たちは答えて言った。「汚れます。」",
   "tokens": [
     {
-      "surface": "וַיֹּאמֶר",
+      "surface": "ויאמר",
       "gloss": "そして言った"
     },
     {
-      "surface": "חַגַּי",
+      "surface": "חגי",
       "gloss": "ハガイ"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "もし"
     },
     {
-      "surface": "יִגַּע",
-      "gloss": "触れる"
+      "surface": "יגע",
+      "gloss": "触れるなら"
     },
     {
-      "surface": "טְמֵא",
+      "surface": "טמא",
       "gloss": "汚れた"
     },
     {
-      "surface": "נֶפֶשׁ",
-      "gloss": "死体"
+      "surface": "נפש",
+      "gloss": "ネフェシュ"
     },
     {
-      "surface": "בְּכָל",
-      "gloss": "〜のすべて"
+      "surface": "בכל",
+      "gloss": "〜のすべてに"
     },
     {
-      "surface": "אֵלֶּה",
+      "surface": "אלה",
       "gloss": "これら"
     },
     {
-      "surface": "הֲיִטְמָא",
-      "gloss": "それは汚れるか"
+      "surface": "היטמא",
+      "gloss": "汚れるのか"
     },
     {
-      "surface": "וַיַּעֲנוּ",
-      "gloss": "そして答えた"
+      "surface": "ויענו",
+      "gloss": "答えて"
     },
     {
-      "surface": "הַכֹּהֲנִים",
-      "gloss": "祭司たちは"
+      "surface": "הכהנים",
+      "gloss": "祭司たち"
     },
     {
-      "surface": "וַיֹּאמְרוּ",
-      "gloss": "そして言った"
+      "surface": "ויאמרו",
+      "gloss": "言った"
     },
     {
-      "surface": "יִטְמָא",
-      "gloss": "汚れる"
+      "surface": "יטמא",
+      "gloss": "汚れます"
     }
   ],
-  "timestamp": "2026-08-07T18:38:45.380715047Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:14:45.168955633Z",
+  "model": "glm-5.3"
 }

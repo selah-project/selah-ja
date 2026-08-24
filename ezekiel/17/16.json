@@ -5,104 +5,105 @@
   "book": "ezekiel",
   "lang": "ja",
   "chapter": 17,
-  "translation": "わたしは生きている、アドナイ ヤハウェの御告げ——〔その誓いを侮り、その契約を破った〕王が彼を王に立てた、その王のいる所で、彼はバビロンのただ中で死ぬのでないとは言えない。⟨את⟩ 彼を王に立てた者と共に、バビロンのただ中で彼は死ぬ。",
+  "translation": "「わたしは生きている、アドナイ・ヤハウェの仰せ〈なる〉——あの王のところで、彼を王に立てた〈その〉王の〈もとで〉、その王の誓いを彼が卑しめ、その契約を破ったのだから、彼はバビロンのただ中で死ぬ、もし違えば〈そうでないなら〉。」",
   "tokens": [
     {
-      "surface": "חַי",
+      "surface": "חי",
       "gloss": "生きている"
     },
     {
-      "surface": "אָ֗נִי",
+      "surface": "אני",
       "gloss": "わたしは"
     },
     {
-      "surface": "נְאֻם֮",
-      "gloss": "御告げ"
+      "surface": "נאם",
+      "gloss": "仰せ"
     },
     {
-      "surface": "אֲדֹנָ֣י",
+      "surface": "אדני",
       "gloss": "アドナイ"
     },
     {
-      "surface": "יְהוִה֒",
+      "surface": "יהוה",
       "gloss": "ヤハウェ"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "もし"
     },
     {
-      "surface": "לֹ֗א",
-      "gloss": "ない"
+      "surface": "לא",
+      "gloss": "違えば（〜ではない）"
     },
     {
-      "surface": "בִּמְקוֹם֙",
-      "gloss": "〜の所で"
+      "surface": "במקום",
+      "gloss": "〜のところで"
     },
     {
-      "surface": "הַמֶּ֨לֶךְ֙",
+      "surface": "המלך",
       "gloss": "王"
     },
     {
-      "surface": "הַמַּמְלִ֣יךְ",
-      "gloss": "王に立てた者"
+      "surface": "הממליך",
+      "gloss": "王に立てた"
     },
     {
-      "surface": "אֹת֔וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "彼（ツィドキヤ）"
+      "marks": "彼"
     },
     {
-      "surface": "אֲשֶׁ֤ר",
-      "gloss": "〜である"
+      "surface": "אשר",
+      "gloss": "その"
     },
     {
-      "surface": "בָּזָה֙",
-      "gloss": "侮った"
+      "surface": "בזה",
+      "gloss": "卑しめた"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "彼の呪い"
+      "marks": "その誓い"
     },
     {
-      "surface": "אָ֣לָת֔וֹ",
-      "gloss": "彼の呪い"
+      "surface": "אלתו",
+      "gloss": "その誓い"
     },
     {
-      "surface": "וַאֲשֶׁ֥ר",
-      "gloss": "そして〜である"
+      "surface": "ואשר",
+      "gloss": "そしてその"
     },
     {
-      "surface": "הֵפֵ֖ר",
+      "surface": "הפר",
       "gloss": "破った"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "彼の契約"
+      "marks": "その契約"
     },
     {
-      "surface": "בְּרִית֑וֹ",
-      "gloss": "彼の契約"
+      "surface": "בריתו",
+      "gloss": "その契約"
     },
     {
-      "surface": "אִתּ֥וֹ",
-      "gloss": "彼と共に"
+      "surface": "אתו",
+      "gloss": "⟨את⟩彼とともに",
+      "marks": "彼"
     },
     {
-      "surface": "בְתוֹךְ",
-      "gloss": "〜のただ中で"
+      "surface": "בתוך",
+      "gloss": "ただ中で"
     },
     {
-      "surface": "בָּבֶ֖ל",
+      "surface": "בבל",
       "gloss": "バビロン"
     },
     {
-      "surface": "יָמֽוּת",
+      "surface": "ימות",
       "gloss": "死ぬ"
     }
   ],
-  "timestamp": "2026-08-07T17:08:52.887664774Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:14:18.609970415Z",
+  "model": "glm-5.3"
 }

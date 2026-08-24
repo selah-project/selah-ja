@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "ja",
   "chapter": 13,
-  "translation": "יְהוֹנָדָב said to him, «Lie on your bed and feign illness, and your father will come to see you, and you shall say to him, ‘Please let תָּמָר my sister come and feed me לֶחֶם, and let her prepare before my eyes ⟨את⟩ הַבִּרְיָה, so that I may see and eat from her hand.’»",
+  "translation": "ヨナダブは彼に言った。「あなたの寝床に身を横たえ、病気を装いなさい。あなたの父があなたを見に来たら、父にこう言いなさい——どうか、わたしの妹タマルに来てもらい、わたしのためにパンを焼いてもらってください。そして彼女がわたしの目の前で⟨את⟩その料理をこしらえるのを、わたしが見て、彼女の手から食べたいのです。」",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "そして言った"
+      "gloss": "言った"
     },
     {
       "surface": "לו",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "יהונדב",
-      "gloss": "יְהוֹנָדָב"
+      "gloss": "ヨナダブ"
     },
     {
       "surface": "שכב",
-      "gloss": "横たわれ"
+      "gloss": "横たわりなさい"
     },
     {
       "surface": "על",
-      "gloss": "～の上に"
+      "gloss": "…の上に"
     },
     {
       "surface": "משכבך",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "והתחל",
-      "gloss": "病のふりをせよ"
+      "gloss": "病気を装いなさい"
     },
     {
       "surface": "ובא",
-      "gloss": "そして来るだろう"
+      "gloss": "来たら"
     },
     {
       "surface": "אביך",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "לראותך",
-      "gloss": "あなたを見るために"
+      "gloss": "あなたを見に"
     },
     {
       "surface": "ואמרת",
-      "gloss": "あなたは言え"
+      "gloss": "言いなさい"
     },
     {
       "surface": "אליו",
-      "gloss": "彼に"
+      "gloss": "父に"
     },
     {
       "surface": "תבא",
-      "gloss": "来てほしい"
+      "gloss": "来て"
     },
     {
       "surface": "נא",
@@ -65,32 +65,32 @@
     },
     {
       "surface": "תמר",
-      "gloss": "תָּמָר"
+      "gloss": "タマル"
     },
     {
       "surface": "אחותי",
-      "gloss": "私の姉妹"
+      "gloss": "わたしの妹"
     },
     {
       "surface": "ותברני",
-      "gloss": "そして私に食事を施し"
+      "gloss": "わたしのためにパンを焼いて"
     },
     {
       "surface": "לחם",
-      "gloss": "לֶחֶם"
+      "gloss": "パン"
     },
     {
       "surface": "ועשתה",
-      "gloss": "そして彼女は作るように"
+      "gloss": "そして彼女はこしらえる"
     },
     {
       "surface": "לעיני",
-      "gloss": "私の目の前で"
+      "gloss": "わたしの目の前で"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הַבִּרְיָה（その料理）"
+      "marks": "その料理"
     },
     {
       "surface": "הבריה",
@@ -98,25 +98,25 @@
     },
     {
       "surface": "למען",
-      "gloss": "～のために"
+      "gloss": "…のために"
     },
     {
       "surface": "אשר",
-      "gloss": "それは"
+      "gloss": "…するのを"
     },
     {
       "surface": "אראה",
-      "gloss": "私が見る"
+      "gloss": "わたしが見て"
     },
     {
       "surface": "ואכלתי",
-      "gloss": "そして私が食べる"
+      "gloss": "食べたい"
     },
     {
       "surface": "מידה",
       "gloss": "彼女の手から"
     }
   ],
-  "timestamp": "2026-08-07T19:12:46.706417062Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:12:36.765385792Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ja",
   "chapter": 22,
-  "translation": "そして⟨その⟩若い女に対しては何もしてはならない。⟨その⟩若い女には死に値する罪⟨は⟩ない。人がその隣人に立ち向かい、⟨その⟩נפשを殺すのと同じように、この事柄はそのよう⟨である⟩。",
+  "translation": "そして⟨その⟩少女には何こともしてはならない。その少女には死に値する罪が⟨ない⟩。人が自分の隣人に立ち向かい、彼を殺して命を取るのと同様に、この件もそうだからである。",
   "tokens": [
     {
       "surface": "ולנער",
-      "gloss": "そしてその若い女に対しては"
+      "gloss": "そして⟨その⟩少女には"
     },
     {
       "surface": "לא",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "しては"
+      "gloss": "してはならない"
     },
     {
       "surface": "דבר",
-      "gloss": "何も"
+      "gloss": "何こと"
     },
     {
       "surface": "אין",
-      "gloss": "ない"
+      "gloss": "⟨ない⟩"
     },
     {
       "surface": "לנער",
-      "gloss": "その若い女には"
+      "gloss": "その少女には"
     },
     {
       "surface": "חטא",
@@ -41,49 +41,49 @@
     },
     {
       "surface": "כי",
-      "gloss": "〜だから"
+      "gloss": "because"
     },
     {
       "surface": "כאשר",
-      "gloss": "〜のように"
+      "gloss": "as"
     },
     {
       "surface": "יקום",
-      "gloss": "立ち向かい"
+      "gloss": "stands up against"
     },
     {
       "surface": "איש",
-      "gloss": "人が"
+      "gloss": "a man"
     },
     {
       "surface": "על",
-      "gloss": "〜に"
+      "gloss": "against"
     },
     {
       "surface": "רעהו",
-      "gloss": "その隣人"
+      "gloss": "his neighbor"
     },
     {
       "surface": "ורצחו",
-      "gloss": "そして殺す"
+      "gloss": "and murders him"
     },
     {
       "surface": "נפש",
-      "gloss": "נפשを"
+      "gloss": "the life"
     },
     {
       "surface": "כן",
-      "gloss": "そのよう"
+      "gloss": "so"
     },
     {
       "surface": "הדבר",
-      "gloss": "この事柄"
+      "gloss": "this matter"
     },
     {
       "surface": "הזה",
-      "gloss": "これは"
+      "gloss": "this"
     }
   ],
-  "timestamp": "2026-08-07T18:28:03.624865895Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:11:54.286623808Z",
+  "model": "glm-5.3"
 }

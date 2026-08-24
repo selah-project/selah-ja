@@ -5,45 +5,46 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 109,
-  "translation": "これがヤハウェから ⟨の⟩ 私を訴える者たちへの報いであり、私の nefesh について悪を語る者たちへの ⟨報いである⟩。",
+  "translation": "これが、ヤハウェからの ⟨מאת⟩ 私を訴える者たちへの報いとなるように — 私のנפש（命）に悪を語る者たちにも。",
   "tokens": [
     {
-      "surface": "זֹ֤את",
+      "surface": "זאת",
       "gloss": "これが"
     },
     {
-      "surface": "פְּעֻלַּ֣ת",
-      "gloss": "報い"
+      "surface": "פעלת",
+      "gloss": "報い（仕業の結果）"
     },
     {
-      "surface": "שֹׂ֭טְנַי",
-      "gloss": "私を訴える者たち"
+      "surface": "שטני",
+      "gloss": "私を訴える者たちの"
     },
     {
-      "surface": "מֵאֵ֣ת",
-      "gloss": "から"
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ヤハウェから（の出所標識）"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "gloss": "ヤハウェ"
     },
     {
-      "surface": "וְהַדֹּבְרִ֥ים",
-      "gloss": "語る者たち"
+      "surface": "והדברים",
+      "gloss": "そして語る者たち"
     },
     {
-      "surface": "רָ֝֗ע",
+      "surface": "רע",
       "gloss": "悪"
     },
     {
-      "surface": "עַֽל",
-      "gloss": "について"
+      "surface": "על",
+      "gloss": "…に向かって（against）"
     },
     {
-      "surface": "נַפְשִֽׁי",
-      "gloss": "私の nefesh"
+      "surface": "נפשי",
+      "gloss": "私のנפש（命）"
     }
   ],
-  "timestamp": "2026-08-07T18:41:19.309137235Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:17.489822270Z",
+  "model": "glm-5.3"
 }

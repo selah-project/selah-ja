@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 44,
-  "translation": "わたしたちのנƤשׁは塵に沈んだ、わたしたちの腹は地に貼りついた。",
+  "translation": "私たちのネフェシュは塵にまで沈み、私たちの腹は地にへばりついているからです。",
   "tokens": [
     {
-      "surface": "כִּ֤י",
-      "gloss": "因为"
+      "surface": "כי",
+      "gloss": "…だからです"
     },
     {
-      "surface": "שָׁ֣חָה",
-      "gloss": "沈んだ"
+      "surface": "שחה",
+      "gloss": "沈み"
     },
     {
-      "surface": "לֶעָפָ֣ר",
-      "gloss": "塵に"
+      "surface": "לעפר",
+      "gloss": "塵にまで"
     },
     {
-      "surface": "נַפְשֵׁ֑נוּ",
-      "gloss": "わたしたちの nefesh"
+      "surface": "נפשנו",
+      "gloss": "私たちのネフェシュは"
     },
     {
-      "surface": "דָּבְקָ֖ה",
-      "gloss": "貼りついた"
+      "surface": "דבקה",
+      "gloss": "へばりついている"
     },
     {
-      "surface": "לָאָ֣רֶץ",
+      "surface": "לארץ",
       "gloss": "地に"
     },
     {
-      "surface": "בִּטְנֵֽנוּ",
-      "gloss": "わたしたちの腹"
+      "surface": "בטננו",
+      "gloss": "私たちの腹は"
     }
   ],
-  "timestamp": "2026-08-07T18:40:01.503654917Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:15:39.938375852Z",
+  "model": "glm-5.3"
 }

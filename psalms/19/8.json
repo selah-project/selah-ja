@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 19,
-  "translation": "ヤハウェのトーラーは完全、 nephesh を回復させる。ヤハウェの証しは確か、 pethi を知恵ある者とする。",
+  "translation": "ヤハウェのトーラーは全く、〈魂〉を立ち返らせる。ヤハウェの証しは確かで、素朴な者を知恵ある者とする。",
   "tokens": [
     {
       "surface": "תורת",
-      "gloss": "トーラー（指示）は"
+      "gloss": "トーラーは"
     },
     {
       "surface": "יהוה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "תמימה",
-      "gloss": "完全"
+      "gloss": "全く"
     },
     {
       "surface": "משיבת",
-      "gloss": "回復させる"
+      "gloss": "立ち返らせる"
     },
     {
       "surface": "נפש",
-      "gloss": "נפש"
+      "gloss": "〈魂〉を"
     },
     {
       "surface": "עדות",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "נאמנה",
-      "gloss": "確か"
+      "gloss": "確かで"
     },
     {
       "surface": "מחכימת",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "פתי",
-      "gloss": "pethi（単純な者）"
+      "gloss": "素朴な者を"
     }
   ],
-  "timestamp": "2026-08-07T18:39:21.575766856Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:15:46.164690535Z",
+  "model": "glm-5.3"
 }

@@ -5,41 +5,41 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 4,
-  "translation": "わたしはあなたがたに良い教えを与えた。わたしのトルァーを捨てるな。",
+  "translation": "良いレカフ（教え）をあなたがたに与えたのだから、私のトーラーを捨ててはならない。",
   "tokens": [
     {
-      "surface": "כִּ֤י",
-      "gloss": " ибо\/因为"
+      "surface": "כי",
+      "gloss": "…のだから"
     },
     {
-      "surface": "לֶ֣קַח",
-      "gloss": "教え"
+      "surface": "לקח",
+      "gloss": "レカフ（教え）"
     },
     {
-      "surface": "ט֭וֹב",
+      "surface": "טוב",
       "gloss": "良い"
     },
     {
-      "surface": "נָתַ֣תִּי",
-      "gloss": "わたしは与えた"
+      "surface": "נתתי",
+      "gloss": "私は与えた"
     },
     {
-      "surface": "לָכֶ֑ם",
+      "surface": "לכם",
       "gloss": "あなたがたに"
     },
     {
-      "surface": "תּֽ֝וֹרָתִ֗י",
-      "gloss": "わたしのトルァー"
+      "surface": "תורתי",
+      "gloss": "私のトーラー"
     },
     {
-      "surface": "אַֽל",
-      "gloss": "〜するな"
+      "surface": "אל",
+      "gloss": "…してはならない"
     },
     {
-      "surface": "תַּעֲזֹֽבוּ",
-      "gloss": "捨てては"
+      "surface": "תעזבו",
+      "gloss": "捨てる"
     }
   ],
-  "timestamp": "2026-08-07T17:24:21.961732328Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:38.293371968Z",
+  "model": "glm-5.3"
 }

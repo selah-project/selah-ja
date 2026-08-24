@@ -5,65 +5,65 @@
   "book": "leviticus",
   "lang": "ja",
   "chapter": 4,
-  "translation": "אֲשֶׁר נָשִׂיא יֶחֱטָא וְעָשָׂה אַחַת מִכֹּל מִצְוֺת יְהוָה אֱלֹהָיו אֲשֶׁר לֹא תֵעָשֶׂינָה בִּשְׁגָגָה וְאָשֵׁם",
+  "translation": "民の指導者が罪を犯し、ヤハウェ・その神の戒めの一つを過って行い、行ってはならないことをして咎を負うとき —",
   "tokens": [
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "～時に"
+      "surface": "אשר",
+      "gloss": "〜とき"
     },
     {
-      "surface": "נָשִׂיא",
-      "gloss": "君主"
+      "surface": "נשיא",
+      "gloss": "指導者"
     },
     {
-      "surface": "יֶחֱטָא",
-      "gloss": "罪を犯す"
+      "surface": "יחטא",
+      "gloss": "罪を犯し"
     },
     {
-      "surface": "וְעָשָׂה",
-      "gloss": "そして行う"
+      "surface": "ועשה",
+      "gloss": "行い"
     },
     {
-      "surface": "אַחַת",
-      "gloss": "一つの"
+      "surface": "אחת",
+      "gloss": "一つ"
     },
     {
-      "surface": "מִכֹּל",
-      "gloss": "～すべてのうちから"
+      "surface": "מכל",
+      "gloss": "すべてのうちの"
     },
     {
-      "surface": "מִצְוֺת",
-      "gloss": "命令"
+      "surface": "מצות",
+      "gloss": "戒め"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "ヤハウェ"
     },
     {
-      "surface": "אֱלֹהָיו",
-      "gloss": "彼のエロヒム"
+      "surface": "אלהיו",
+      "gloss": "その神の"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "～ところの"
+      "surface": "אשר",
+      "gloss": "〜の"
     },
     {
-      "surface": "לֹא",
-      "gloss": "～てはならない"
+      "surface": "לא",
+      "gloss": "〜してはならない"
     },
     {
-      "surface": "תֵעָשֶׂינָה",
-      "gloss": "行われる"
+      "surface": "תעשינה",
+      "gloss": "行ってはならないこと"
     },
     {
-      "surface": "בִּשְׁגָגָה",
-      "gloss": "過失で"
+      "surface": "בשגגה",
+      "gloss": "過って"
     },
     {
-      "surface": "וְאָשֵׁם",
-      "gloss": "そして罪を負う"
+      "surface": "ואשם",
+      "gloss": "咎を負う"
     }
   ],
-  "timestamp": "2026-08-07T18:26:28.681388500Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:10:49.741286812Z",
+  "model": "glm-5.3"
 }

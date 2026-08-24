@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 13,
-  "translation": "正しい者は食べて、自分のネフェシュの満ち足りるまで⟨⟨至る⟩⟩。しかし悪者たちの腹は欠ける。",
+  "translation": "義人は食べて、その命（ネフェシュ）は飽き足りる。しかし悪者の腹は欠ける。",
   "tokens": [
     {
-      "surface": "צַדִּיק",
-      "gloss": "正しい者は"
+      "surface": "צדיק",
+      "gloss": "義人"
     },
     {
-      "surface": "אֹכֵל",
-      "gloss": "食べて"
+      "surface": "אכל",
+      "gloss": "食べる"
     },
     {
-      "surface": "לְשֹׂבַע",
-      "gloss": "満ち足りるまで"
+      "surface": "לשבע",
+      "gloss": "飽き足りるまで"
     },
     {
-      "surface": "נַפְשׁוֹ",
-      "gloss": "自分のネフェシュの"
+      "surface": "נפשו",
+      "gloss": "その命（ネフェシュ）"
     },
     {
-      "surface": "וּבֶטֶן",
-      "gloss": "しかし…腹は"
+      "surface": "ובטן",
+      "gloss": "しかし…腹"
     },
     {
-      "surface": "רְשָׁעִים",
+      "surface": "רשעים",
       "gloss": "悪者たちの"
     },
     {
-      "surface": "תֶּחְסָר",
+      "surface": "תחסר",
       "gloss": "欠ける"
     }
   ],
-  "timestamp": "2026-08-07T13:12:42.670475447Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:43.714449192Z",
+  "model": "glm-5.3"
 }

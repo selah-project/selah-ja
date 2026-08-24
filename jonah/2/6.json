@@ -5,45 +5,45 @@
   "book": "jonah",
   "lang": "ja",
   "chapter": 2,
-  "translation": "水々が私を取り囲んだ、⟨ nephesh ⟩ に至るまで。深淵が私を囲んだ、藻が私の頭に巻きついた。",
+  "translation": "水々は私を取り囲み、ネフェシュにまで及んだ。深淵は私を囲み、スーフ（海草）は私の頭に巻き付いた。",
   "tokens": [
     {
-      "surface": "אֲפָפ֤וּנִי",
-      "gloss": "取り囲んだ"
+      "surface": "אפפוני",
+      "gloss": "取り囲み"
     },
     {
-      "surface": "מַ֨יִם֙",
-      "gloss": "水々が"
+      "surface": "מים",
+      "gloss": "水々"
     },
     {
-      "surface": "עַד",
-      "gloss": "〜に至るまで"
+      "surface": "עד",
+      "gloss": "にまで及んだ"
     },
     {
-      "surface": "נֶ֔פֶשׁ",
-      "gloss": "⟨ nephesh ⟩"
+      "surface": "נפש",
+      "gloss": "ネフェシュ"
     },
     {
-      "surface": "תְּה֖וֹם",
-      "gloss": "深淵が"
+      "surface": "תהום",
+      "gloss": "深淵"
     },
     {
-      "surface": "יְסֹבְבֵ֑נִי",
-      "gloss": "囲んだ"
+      "surface": "יסבבני",
+      "gloss": "私を囲み"
     },
     {
-      "surface": "ס֖וּף",
-      "gloss": "藻が"
+      "surface": "סוף",
+      "gloss": "スーフ（海草）"
     },
     {
-      "surface": "חָב֥וּשׁ",
-      "gloss": "巻きついた"
+      "surface": "חבוש",
+      "gloss": "巻き付いた"
     },
     {
-      "surface": "לְרֹאשִֽׁי",
+      "surface": "לראשי",
       "gloss": "私の頭に"
     }
   ],
-  "timestamp": "2026-08-07T18:38:20.819998930Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:14:53.641459714Z",
+  "model": "glm-5.3"
 }

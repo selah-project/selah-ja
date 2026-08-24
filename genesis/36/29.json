@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "ja",
   "chapter": 36,
-  "translation": "これらが⟨the⟩ホリ人の首長たち、ロタン⟨the chief⟩の首長、ショバル⟨the chief⟩の首長、ツィブオン⟨the chief⟩の首長、アナ⟨the chief⟩の首長。",
+  "translation": "これらはホリ人⟨の⟩首長たちである — 首長ロタン、首長ショバル、首長ツィブオン、首長アナ。",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "これらが"
+      "gloss": "これらは"
     },
     {
       "surface": "אלופי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "החרי",
-      "gloss": "ホリ人の"
+      "gloss": "ホリ人"
     },
     {
       "surface": "אלוף",
@@ -52,6 +52,6 @@
       "gloss": "アナ"
     }
   ],
-  "timestamp": "2026-08-07T18:25:34.139425070Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:10:23.181447182Z",
+  "model": "glm-5.3"
 }

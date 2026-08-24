@@ -5,45 +5,45 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 26,
-  "translation": "愚かな者に答えるな、彼の愚かさに応じて。あなたもまた彼と同じになって〔しまう〕から。",
+  "translation": "愚か者を、その愚かさに従って答えるな。さもないと、あなたも彼と同じようになる〈ほど〉だ。",
   "tokens": [
     {
-      "surface": "אַל",
-      "gloss": "〜な"
+      "surface": "אל",
+      "gloss": "〜するな"
     },
     {
-      "surface": "תַּ֣עַן",
+      "surface": "תען",
       "gloss": "答える"
     },
     {
-      "surface": "כְּ׭ִיל",
-      "gloss": "愚かな者に"
+      "surface": "כסיל",
+      "gloss": "愚か者"
     },
     {
-      "surface": "כְּאִוַּלְתּ֑וֹ",
-      "gloss": "彼の愚かさに応じて"
+      "surface": "כאולתו",
+      "gloss": "その愚かさに従って"
     },
     {
-      "surface": "פֶּֽן",
-      "gloss": "〜から"
+      "surface": "פן",
+      "gloss": "さもないと"
     },
     {
-      "surface": "תִּשְׁוֶה",
-      "gloss": "同じになって"
+      "surface": "תשוה",
+      "gloss": "同じようになる"
     },
     {
-      "surface": "לּ֥וֹ",
+      "surface": "לו",
       "gloss": "彼と"
     },
     {
-      "surface": "גַם",
-      "gloss": "また"
+      "surface": "גם",
+      "gloss": "あなたも"
     },
     {
-      "surface": "אָֽתָּה",
-      "gloss": "あなたも"
+      "surface": "אתה",
+      "gloss": "あなた"
     }
   ],
-  "timestamp": "2026-08-07T13:16:57.222401022Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:49.486706153Z",
+  "model": "glm-5.3"
 }

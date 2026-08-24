@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 14,
-  "translation": "貧しい人は、その隣人にさえ憎まれる。富む者を愛する者は多い。",
+  "translation": "貧しい者は自分の隣人にさえ憎まれる、しかし富める者を愛する者は多い。",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": " даже"
+      "gloss": "さえ"
     },
     {
       "surface": "לרעהו",
-      "gloss": "その隣人に"
+      "gloss": "自分の隣人に"
     },
     {
       "surface": "ישנא",
@@ -21,21 +21,21 @@
     },
     {
       "surface": "רש",
-      "gloss": "貧しい人"
+      "gloss": "貧しい者"
     },
     {
       "surface": "ואהבי",
-      "gloss": "そして…を愛する者たち"
+      "gloss": "しかし…を愛する者"
     },
     {
       "surface": "עשיר",
-      "gloss": "富む者"
+      "gloss": "富める者"
     },
     {
       "surface": "רבים",
       "gloss": "多い"
     }
   ],
-  "timestamp": "2026-08-07T13:13:18.058452518Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:36.380338099Z",
+  "model": "glm-5.3"
 }

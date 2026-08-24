@@ -5,33 +5,33 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 25,
-  "translation": "lest ⟨the one who⟩ hears shame you, and your悪名 turn not away.",
+  "translation": "聞く者があなたを辱めることのないように、あなたの噂が立ち去らないことのないように。",
   "tokens": [
     {
-      "surface": "פֶּֽן",
-      "gloss": "lest"
+      "surface": "פן",
+      "gloss": "～ないように"
     },
     {
-      "surface": "יְחַסֶּדְךָ֥",
-      "gloss": "shames you"
+      "surface": "יחסדך",
+      "gloss": "あなたを辱める"
     },
     {
-      "surface": "שֹׁמֵ֑עַ",
-      "gloss": "hears"
+      "surface": "שמע",
+      "gloss": "聞く者"
     },
     {
-      "surface": "וְ֝דִבָּתְךָ֗",
-      "gloss": "and your悪名"
+      "surface": "ודבתך",
+      "gloss": "あなたの噂"
     },
     {
-      "surface": "לֹ֣א",
-      "gloss": "not"
+      "surface": "לא",
+      "gloss": "～ない"
     },
     {
-      "surface": "תָשֽׁוּב",
-      "gloss": "turn away"
+      "surface": "תשוב",
+      "gloss": "立ち去る"
     }
   ],
-  "timestamp": "2026-08-07T18:42:14.729025049Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:38.262040279Z",
+  "model": "glm-5.3"
 }

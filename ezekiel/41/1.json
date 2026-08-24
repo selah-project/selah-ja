@@ -5,74 +5,74 @@
   "book": "ezekiel",
   "lang": "ja",
   "chapter": 41,
-  "translation": "そして彼は私を⟨ההיכל⟩の聖殿に連れて来た。そして彼は⟨את⟩控え壁を測った — こちら側に幅六アンマ、そしてあちら側に幅六アンマ。それは天幕の幅であった。",
+  "translation": "そして彼は私をההיכל（聖なる宮殿）に導き入れ、את⟨האילים⟩（側柱）を測った — こちらの側で幅六アンマ、そしてあちらの側で幅六アンマ — אוהל（天幕）の幅である。",
   "tokens": [
     {
-      "surface": "וַיְבִיאֵ֖נִי",
-      "gloss": "そして彼は私を連れて来た"
+      "surface": "ויביאני",
+      "gloss": "そして彼は私を導き入れ"
     },
     {
-      "surface": "אֶל",
-      "gloss": "〜へ"
+      "surface": "אל",
+      "gloss": "〜の中へ"
     },
     {
-      "surface": "הַהֵיכָ֑ל",
-      "gloss": "聖殿"
+      "surface": "ההיכל",
+      "gloss": "ההיכל（聖なる宮殿）"
     },
     {
-      "surface": "וַיָּ֣מָד",
+      "surface": "וימד",
       "gloss": "そして彼は測った"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "控え壁"
+      "marks": "האילים（側柱）"
     },
     {
-      "surface": "הָאֵילִ֗ים",
-      "gloss": "控え壁"
+      "surface": "האילים",
+      "gloss": "側柱"
     },
     {
-      "surface": "שֵׁשׁ",
+      "surface": "שש",
       "gloss": "六"
     },
     {
-      "surface": "אַמּ֨וֹת",
+      "surface": "אמות",
       "gloss": "アンマ"
     },
     {
-      "surface": "רֹ֧חַב",
+      "surface": "רחב",
       "gloss": "幅"
     },
     {
-      "surface": "מִפּ֛וֹ",
-      "gloss": "こちら側に"
+      "surface": "מפו",
+      "gloss": "こちらの側で"
     },
     {
-      "surface": "וְשֵׁשׁ",
+      "surface": "ושש",
       "gloss": "そして六"
     },
     {
-      "surface": "אַמּֽוֹת",
+      "surface": "אמות",
       "gloss": "アンマ"
     },
     {
-      "surface": "רֹ֥חַב",
+      "surface": "רחב",
       "gloss": "幅"
     },
     {
-      "surface": "מִפּ֖וֹ",
-      "gloss": "あちら側に"
+      "surface": "מפו",
+      "gloss": "あちらの側で"
     },
     {
-      "surface": "רֹ֥חַב",
+      "surface": "רחב",
       "gloss": "幅"
     },
     {
-      "surface": "הָאֹֽהֶל",
-      "gloss": "天幕"
+      "surface": "האהל",
+      "gloss": "אוהל（天幕）"
     }
   ],
-  "timestamp": "2026-08-07T18:37:43.170283762Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:14:54.931196156Z",
+  "model": "glm-5.3"
 }

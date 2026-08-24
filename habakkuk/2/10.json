@@ -5,41 +5,41 @@
   "book": "habakkuk",
   "lang": "ja",
   "chapter": 2,
-  "translation": "あなたは自分の家のために恥を謀った ⟨⋯⟩ 多くの民を断ち切ることによって、そしてあなたのנפשは罪を犯している。",
+  "translation": "あなたは自分の家のために恥を企てた。多くの民を断ち切って ⟨あなたの⟩ 命に罪を犯した。",
   "tokens": [
     {
-      "surface": "יָעַ֥צְתָּ",
-      "gloss": "あなたは謀った"
+      "surface": "יעצת",
+      "gloss": "あなたは企てた"
     },
     {
-      "surface": "בֹּ֖שֶׁת",
-      "gloss": "恥を"
+      "surface": "בשת",
+      "gloss": "恥"
     },
     {
-      "surface": "לְבֵיתֶ֑ךָ",
-      "gloss": "自分の家のために"
+      "surface": "לביתך",
+      "gloss": "あなたの家のために"
     },
     {
-      "surface": "קְצוֹת",
-      "gloss": "断ち切ること"
+      "surface": "קצות",
+      "gloss": "断ち切って"
     },
     {
-      "surface": "עַמִּ֥ים",
-      "gloss": "民を"
+      "surface": "עמים",
+      "gloss": "民"
     },
     {
-      "surface": "רַבִּ֖ים",
+      "surface": "רבים",
       "gloss": "多くの"
     },
     {
-      "surface": "וְחוֹטֵ֥א",
-      "gloss": "そして罪を犯している"
+      "surface": "וחוטא",
+      "gloss": "そして罪を犯した"
     },
     {
-      "surface": "נַפְשֶֽׁךָ",
-      "gloss": "あなたのנפש"
+      "surface": "נפשך",
+      "gloss": "あなたの命"
     }
   ],
-  "timestamp": "2026-08-07T18:38:33.788335289Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:14:42.840725962Z",
+  "model": "glm-5.3"
 }

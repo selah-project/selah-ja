@@ -5,45 +5,45 @@
   "book": "ezekiel",
   "lang": "ja",
   "chapter": 41,
-  "translation": "地から扉の上方まで、ケルビムと palm trees が造られ、 ⟨そして⟩神殿の壁 ⟨にも⟩。",
+  "translation": "地から入口の上まで、ケルビムと棕櫚の彫刻が作られ、⟨それは⟩神殿の壁⟨に施されていた⟩。",
   "tokens": [
     {
-      "surface": "מהארץ",
+      "surface": "מֵהָאָ֨רֶץ֙",
       "gloss": "地から"
     },
     {
-      "surface": "עד",
-      "gloss": "〜まで"
+      "surface": "עַד",
+      "gloss": "…まで"
     },
     {
-      "surface": "מעל",
-      "gloss": "上方"
+      "surface": "מֵעַ֣ל",
+      "gloss": "…の上方"
     },
     {
-      "surface": "הפתח",
-      "gloss": "扉の"
+      "surface": "הַפֶּ֔תַח",
+      "gloss": "入口の"
     },
     {
-      "surface": "הכרובים",
-      "gloss": "ケルビムと"
+      "surface": "הַכְּרוּבִ֥ים",
+      "gloss": "ケルビム"
     },
     {
-      "surface": "והתמרים",
-      "gloss": "palm trees が"
+      "surface": "וְהַתִּֽמֹרִ֖ים",
+      "gloss": "棕櫚の彫刻"
     },
     {
-      "surface": "עשוים",
-      "gloss": "造られ"
+      "surface": "עֲשׂוּיִ֑ם",
+      "gloss": "作られた"
     },
     {
-      "surface": "וקיר",
-      "gloss": "⟨そして⟩…の壁"
+      "surface": "וְקִ֖יר",
+      "gloss": "…の壁"
     },
     {
-      "surface": "ההיכל",
-      "gloss": "神殿の"
+      "surface": "הַהֵיכָֽל",
+      "gloss": "神殿"
     }
   ],
-  "timestamp": "2026-08-07T18:37:51.966408721Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:15:24.996437005Z",
+  "model": "glm-5.3"
 }

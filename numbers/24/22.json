@@ -5,45 +5,45 @@
   "book": "numbers",
   "lang": "ja",
   "chapter": 24,
-  "translation": "それでもカインは焼き払われるべきとなる〔まで〕。いつまでか？ アッシュルがあなたを捕囚とする。",
+  "translation": "けれども、カインが焼き払〈られる〉まで――いつ〈まで〉、アシュルはあなたを捕囚に連れて行くのか。",
   "tokens": [
     {
-      "surface": "כִּי",
-      "gloss": "それでも"
+      "surface": "כי",
+      "gloss": "けれども"
     },
     {
-      "surface": "אִם",
-      "gloss": "〜とはいえ"
+      "surface": "אם",
+      "gloss": "（条件強調）"
     },
     {
-      "surface": "יִהְיֶה",
-      "gloss": "なる"
+      "surface": "יהיה",
+      "gloss": "〈られる〉であろう"
     },
     {
-      "surface": "לְבָעֵר",
-      "gloss": "焼き払われるべき"
+      "surface": "לבער",
+      "gloss": "焼き払"
     },
     {
-      "surface": "קָיִן",
+      "surface": "קין",
       "gloss": "カイン"
     },
     {
-      "surface": "עַד",
-      "gloss": "〜〔まで〕"
+      "surface": "עד",
+      "gloss": "まで"
     },
     {
-      "surface": "מָה",
-      "gloss": "いつまでか"
+      "surface": "מה",
+      "gloss": "いつ〈まで〉"
     },
     {
-      "surface": "אַשּׁוּר",
-      "gloss": "アッシュル"
+      "surface": "אשור",
+      "gloss": "アシュル"
     },
     {
-      "surface": "תִּשְׁבֶּֽךָּ",
-      "gloss": "あなたを捕囚とする"
+      "surface": "תשבך",
+      "gloss": "あなたを捕囚に連れて行く"
     }
   ],
-  "timestamp": "2026-08-07T10:00:20.862290601Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:11:07.367830105Z",
+  "model": "glm-5.3"
 }

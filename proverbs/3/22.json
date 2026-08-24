@@ -5,29 +5,29 @@
   "book": "proverbs",
   "lang": "ja",
   "chapter": 3,
-  "translation": "そうして、それらはあなたの nefesh のいのちとなり、あなたの首飾りとしての恵みとなる。",
+  "translation": "そしてそれはあなたのネフェシュにとって命となり、あなたの首にとっても恵みとなる。",
   "tokens": [
     {
-      "surface": "וְיִֽהְי֣וּ",
-      "gloss": "そうして…となる"
+      "surface": "ויהיו",
+      "gloss": "そしてそれは…となる"
     },
     {
-      "surface": "חַיִּ֣ים",
-      "gloss": "いのち"
+      "surface": "חיים",
+      "gloss": "命"
     },
     {
-      "surface": "לְנַפְשֶׁ֑ךָ",
-      "gloss": "あなたの nefesh の"
+      "surface": "לנפשך",
+      "gloss": "あなたのネフェシュにとって"
     },
     {
-      "surface": "וְ֝חֵ֗ן",
+      "surface": "וחן",
       "gloss": "そして恵み"
     },
     {
-      "surface": "לְגַרְגְּרֹתֶֽיךָ",
-      "gloss": "あなたの首飾りとしての"
+      "surface": "לגרגרתיך",
+      "gloss": "あなたの首にとって"
     }
   ],
-  "timestamp": "2026-08-07T18:41:55.312018693Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:47.017814929Z",
+  "model": "glm-5.3"
 }

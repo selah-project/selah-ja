@@ -5,37 +5,38 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 118,
-  "translation": "מאת יהוה הָ֣יְתָה זֹּאת；הִיא נִפְלָאת ⟨היא⟩ בְּעֵינֵֽינוּ。",
+  "translation": "ヤハウェからの〈ものとして〉⟨את⟩ — これはヤハウェから来た。それは私たちの目に驚くべきことである。",
   "tokens": [
     {
-      "surface": "מֵאֵת",
-      "gloss": "〜から"
+      "surface": "מאת",
+      "gloss": "⟨את⟩から",
+      "marks": "これ（出来事）"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "ヤハウェ"
     },
     {
-      "surface": "הָיְתָה",
-      "gloss": "あった"
+      "surface": "היתה",
+      "gloss": "来た・生じた"
     },
     {
-      "surface": "זֹּאת",
+      "surface": "זאת",
       "gloss": "これは"
     },
     {
-      "surface": "הִיא",
+      "surface": "היא",
       "gloss": "それは"
     },
     {
-      "surface": "נִפְלָאת",
+      "surface": "נפלאת",
       "gloss": "驚くべきこと"
     },
     {
-      "surface": "בְּעֵינֵינוּ",
+      "surface": "בעינינו",
       "gloss": "私たちの目に"
     }
   ],
-  "timestamp": "2026-08-07T18:41:27.026322397Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:16:10.852055569Z",
+  "model": "glm-5.3"
 }

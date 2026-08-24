@@ -5,49 +5,49 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 16,
-  "translation": "あなたは私のネフeshをシェオルに見捨てず、あなたのヘセドに従う者に穴を見させないからである。",
+  "translation": "あなたは私のנפש（命）をシェオルに見捨てず、あなたのハシードに Pit（滅びの穴）を見させられないからである。",
   "tokens": [
     {
-      "surface": "כִּ֤י",
-      "gloss": "というのも\/だから"
+      "surface": "כי",
+      "gloss": "〜だから"
     },
     {
-      "surface": "לֹא",
-      "gloss": "ない"
+      "surface": "לא",
+      "gloss": "〜ない"
     },
     {
-      "surface": "תַעֲזֹ֣ב",
-      "gloss": "あなたは見捨てない"
+      "surface": "תעזב",
+      "gloss": "見捨てる"
     },
     {
-      "surface": "נַפְשִׁ֣י",
-      "gloss": "私のネフesh"
+      "surface": "נפשי",
+      "gloss": "私のネフェシュ"
     },
     {
-      "surface": "לִשְׁא֑וֹל",
+      "surface": "לשאול",
       "gloss": "シェオルに"
     },
     {
-      "surface": "לֹֽא",
-      "gloss": "ない"
+      "surface": "לא",
+      "gloss": "〜ない"
     },
     {
-      "surface": "תִתֵּ֥ן",
-      "gloss": "あなたは与えない"
+      "surface": "תתן",
+      "gloss": "与えさせる／させられる"
     },
     {
-      "surface": "חֲ֝סִידְךָ֗",
-      "gloss": "あなたのヘセドに従う者"
+      "surface": "חסידך",
+      "gloss": "あなたのハシード（敬虔な者）"
     },
     {
-      "surface": "לִרְא֥וֹת",
-      "gloss": "見ることを"
+      "surface": "לראות",
+      "gloss": "見ること"
     },
     {
-      "surface": "שָֽׁחַת",
-      "gloss": "穴"
+      "surface": "שחת",
+      "gloss": "破滅の穴"
     }
   ],
-  "timestamp": "2026-08-07T18:39:23.003846617Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:15:49.240828557Z",
+  "model": "glm-5.3"
 }

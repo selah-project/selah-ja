@@ -5,94 +5,94 @@
   "book": "genesis",
   "lang": "ja",
   "chapter": 1,
-  "translation": "そして地のすべての獣、そして天のすべての鳥、そして地の上を這うすべての〈もの〉、その中に生きるנפשがあるすべての〈もの⟩に、食物として ⟨את⟩ すべての緑の草を与えた。そしてそのようになった。",
+  "translation": "また地のすべての獣、天のすべての鳥、そして地の上を這うすべてのもの、そのうちに生けるנפש（命の息）のあるすべてのものに、⟨את⟩すべての青草を食物として与えた。そのようになった。",
   "tokens": [
     {
-      "surface": "וּֽלְכָל",
-      "gloss": "そしてすべての"
+      "surface": "ולכל",
+      "gloss": "また…のすべての"
     },
     {
-      "surface": "חַיַּ֣ת",
+      "surface": "חית",
       "gloss": "獣"
     },
     {
-      "surface": "הָ֠אָרֶץ",
+      "surface": "הארץ",
       "gloss": "地の"
     },
     {
-      "surface": "וּלְכָל",
-      "gloss": "そしてすべての"
+      "surface": "ולכל",
+      "gloss": "また…のすべての"
     },
     {
-      "surface": "ע֨וֹף",
+      "surface": "עוף",
       "gloss": "鳥"
     },
     {
-      "surface": "הַשָּׁמַ֜יִם",
+      "surface": "השמים",
       "gloss": "天の"
     },
     {
-      "surface": "וּלְכֹ֣ל",
-      "gloss": "そしてすべての"
+      "surface": "ולכל",
+      "gloss": "また…のすべての"
     },
     {
-      "surface": "רוֹמֵ֣שׂ",
+      "surface": "רומש",
       "gloss": "這うもの"
     },
     {
-      "surface": "עַל",
-      "gloss": "〜の上を"
+      "surface": "על",
+      "gloss": "…の上を"
     },
     {
-      "surface": "הָאָ֗רֶץ",
+      "surface": "הארץ",
       "gloss": "地の"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "その中に"
+      "surface": "אשר",
+      "gloss": "…であるところの"
     },
     {
-      "surface": "בּוֹ֙",
-      "gloss": "それの"
+      "surface": "בו",
+      "gloss": "そのうちに"
     },
     {
-      "surface": "נֶ֣פֶשׁ",
-      "gloss": "נפש"
+      "surface": "נפש",
+      "gloss": "נפש（命の息）"
     },
     {
-      "surface": "חַיָּ֔ה",
-      "gloss": "生きる"
+      "surface": "חיה",
+      "gloss": "生ける"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "すべての緑の草"
+      "marks": "すべての青草"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "すべての"
     },
     {
-      "surface": "יֶ֥רֶק",
-      "gloss": "緑の"
+      "surface": "ירק",
+      "gloss": "青い"
     },
     {
-      "surface": "עֵ֖שֶׂב",
+      "surface": "עשב",
       "gloss": "草"
     },
     {
-      "surface": "לְאָכְלָ֑ה",
+      "surface": "לאכלה",
       "gloss": "食物として"
     },
     {
-      "surface": "וַֽיְהִי",
-      "gloss": "そして〜になった"
+      "surface": "ויהי",
+      "gloss": "そして…なった"
     },
     {
-      "surface": "כֵֽן",
-      "gloss": "そのよう"
+      "surface": "כן",
+      "gloss": "そのように"
     }
   ],
-  "timestamp": "2026-08-07T18:25:12.208522747Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:10:28.174917873Z",
+  "model": "glm-5.3"
 }

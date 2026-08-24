@@ -5,33 +5,33 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 35,
-  "translation": "彼らは悪をもって善に⟨代えて⟩私に報いた — ⟨את⟩私のנפשにとっての喪失⟨として⟩。",
+  "translation": "彼らは善の代わりに悪をもって私に報い、私のネフェシュには喪失が⟨臨んだ⟩。",
   "tokens": [
     {
-      "surface": "יְשַׁלְּמ֣וּנִי",
-      "gloss": "彼らは私に報いた"
+      "surface": "ישלמוני",
+      "gloss": "彼らは私に報いる"
     },
     {
-      "surface": "רָ֭עָה",
+      "surface": "רעה",
       "gloss": "悪"
     },
     {
-      "surface": "תַּ֥חַת",
-      "gloss": "〜に代えて"
+      "surface": "תחת",
+      "gloss": "の代わりに"
     },
     {
-      "surface": "טוֹבָ֗ה",
+      "surface": "טובה",
       "gloss": "善"
     },
     {
-      "surface": "שְׁכ֣וֹל",
+      "surface": "שכול",
       "gloss": "喪失"
     },
     {
-      "surface": "לְנַפְשִֽׁי",
-      "gloss": "私のנפשにとっての"
+      "surface": "לנפשי",
+      "gloss": "私のネフェシュには"
     }
   ],
-  "timestamp": "2026-08-07T18:39:37.280083226Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:15:49.078855643Z",
+  "model": "glm-5.3"
 }

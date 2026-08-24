@@ -5,53 +5,53 @@
   "book": "leviticus",
   "lang": "ja",
   "chapter": 23,
-  "translation": "なぜなら ⟨הנפש⟩ のすべて — すなわち、まさにこの日のうちに苦しみを受けない ⟨הנפש⟩ は — その民々から断たれるからである。",
+  "translation": "すべてのנפש（命）のうち、まさにこの日のうちに身を苦しめない者は、だれでもその民の間から断たれる。",
   "tokens": [
     {
-      "surface": "כִּ֤י",
-      "gloss": "なぜなら"
+      "surface": "כי",
+      "gloss": "…のだから"
     },
     {
-      "surface": "כָל",
+      "surface": "כל",
       "gloss": "すべての"
     },
     {
-      "surface": "הַנֶּ֨פֶשׁ֙",
-      "gloss": "נפש"
+      "surface": "הנפש",
+      "gloss": "נפש（命ある者）"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
-      "gloss": "〜であるところの"
+      "surface": "אשר",
+      "gloss": "…ところの"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "〜ない"
     },
     {
-      "surface": "תְעֻנֶּ֔ה",
-      "gloss": "苦しみを受ける"
+      "surface": "תענה",
+      "gloss": "身を苦しめ"
     },
     {
-      "surface": "בְּעֶ֖צֶם",
-      "gloss": "まさに〜の"
+      "surface": "בעצם",
+      "gloss": "まさに…のうちに"
     },
     {
-      "surface": "הַיּ֣וֹם",
-      "gloss": "日"
+      "surface": "היום",
+      "gloss": "この日"
     },
     {
-      "surface": "הַזֶּ֑ה",
+      "surface": "הזה",
       "gloss": "この"
     },
     {
-      "surface": "וְנִכְרְתָ֖ה",
+      "surface": "ונכרתה",
       "gloss": "断たれる"
     },
     {
-      "surface": "מֵֽעַמֶּֽיהָ",
-      "gloss": "その民々から"
+      "surface": "מעמיה",
+      "gloss": "その民の間から"
     }
   ],
-  "timestamp": "2026-08-07T18:26:50.020236806Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:11:02.048020673Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ja",
   "chapter": 22,
-  "translation": "剣から私の〈נפש〉を救い出せ、犬の手から私の唯一のものを。",
+  "translation": "剣から私のネフェシュを救い出してください。犬の手から私のただひとりを。",
   "tokens": [
     {
       "surface": "הצילה",
-      "gloss": "救い出せ"
+      "gloss": "救い出してください"
     },
     {
       "surface": "מחרב",
@@ -17,21 +17,21 @@
     },
     {
       "surface": "נפשי",
-      "gloss": "私の〈נפש〉"
+      "gloss": "私のネフェシュ"
     },
     {
       "surface": "מיד",
-      "gloss": "手から"
+      "gloss": "〜の手から"
     },
     {
       "surface": "כלב",
-      "gloss": "犬の"
+      "gloss": "犬"
     },
     {
       "surface": "יחידתי",
-      "gloss": "私の唯一のもの"
+      "gloss": "私のただひとり"
     }
   ],
-  "timestamp": "2026-08-07T19:13:06.776057143Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:15:30.254603998Z",
+  "model": "glm-5.3"
 }

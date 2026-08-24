@@ -5,78 +5,78 @@
   "book": "1-kings",
   "lang": "ja",
   "chapter": 13,
-  "translation": "そして預言者は⟨את⟩エロヒムの男の死骸を担ぎ上げ、ろばに乗せて連れ帰り、老預言者の都市に来て、悼み、彼を葬るために⟨⟨彼⟩⟩を⟨そこに⟩置いた。",
+  "translation": "預言者はエロヒムの者の死骸を⟨את⟩担ぎ上げ、それをろばに載せて連れ帰り、年老いた預言者の町に入って、嘆き、彼を葬るために来た。",
   "tokens": [
     {
-      "surface": "וַיִּשָּׂ֨א",
-      "gloss": "そして担ぎ上げた"
+      "surface": "וישא",
+      "gloss": "担ぎ上げた"
     },
     {
-      "surface": "הַנָּבִ֜יא",
-      "gloss": "その預言者は"
+      "surface": "הנביא",
+      "gloss": "預言者は"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "エロヒムの男の死骸"
+      "marks": "エロヒムの者の死骸"
     },
     {
-      "surface": "נִבְלַ֧ת",
+      "surface": "נבלת",
       "gloss": "死骸"
     },
     {
-      "surface": "אִישׁ",
-      "gloss": "男"
+      "surface": "איש",
+      "gloss": "者の"
     },
     {
-      "surface": "הָאֱלֹהִ֛ים",
+      "surface": "האלהים",
       "gloss": "エロヒムの"
     },
     {
-      "surface": "וַיַּנִּחֵ֥הוּ",
-      "gloss": "そして彼を乗せた"
+      "surface": "וינחהו",
+      "gloss": "それを載せて"
     },
     {
-      "surface": "אֶֽל",
-      "gloss": "〜の上に"
+      "surface": "אל",
+      "gloss": "…の上に"
     },
     {
-      "surface": "הַחֲמ֖וֹר",
-      "gloss": "そのろば"
+      "surface": "החמור",
+      "gloss": "ろば"
     },
     {
-      "surface": "וַיְשִׁיבֵ֑הוּ",
-      "gloss": "そして彼を連れ帰った"
+      "surface": "וישיבהו",
+      "gloss": "それを連れ帰った"
     },
     {
-      "surface": "וַיָּבֹ֗א",
-      "gloss": "そして来た"
+      "surface": "ויבא",
+      "gloss": "入った"
     },
     {
-      "surface": "אֶל",
-      "gloss": "〜へ"
+      "surface": "אל",
+      "gloss": "…へ"
     },
     {
-      "surface": "עִיר֙",
-      "gloss": "都市"
+      "surface": "עיר",
+      "gloss": "町"
     },
     {
-      "surface": "הַנָּבִ֣יא",
-      "gloss": "預言者"
+      "surface": "הנביא",
+      "gloss": "預言者の"
     },
     {
-      "surface": "הַזָּקֵ֔ן",
-      "gloss": "その老"
+      "surface": "הזקן",
+      "gloss": "年老いた"
     },
     {
-      "surface": "לִסְפֹּ֖ד",
-      "gloss": "悼むために"
+      "surface": "לספד",
+      "gloss": "嘆くために"
     },
     {
-      "surface": "וּלְקָבְרֽוֹ",
-      "gloss": "そして彼を葬るために"
+      "surface": "ולקברו",
+      "gloss": "彼を葬るために"
     }
   ],
-  "timestamp": "2026-08-07T11:04:01.682632247Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:12:46.012234941Z",
+  "model": "glm-5.3"
 }

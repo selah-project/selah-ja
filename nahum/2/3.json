@@ -5,62 +5,62 @@
   "book": "nahum",
   "lang": "ja",
   "chapter": 2,
-  "translation": "ヤハウェは⟨回復された⟩、⟨את⟩ヤコブの誇りを、イスラエルの誇りのように。emptiersが彼らをemptied-outしたからである、そして彼らのvine-branchesを彼らはruined。",
+  "translation": "ヤハウェはヤコブの誇りを回復された、イスラエルの誇りのように。 emptier（空にする者）たちが彼らを空にしたからである、彼らの葡萄の枝を損なったからである。",
   "tokens": [
     {
-      "surface": "כִּ֣י",
-      "gloss": "​​"
+      "surface": "כי",
+      "gloss": "…だから"
     },
     {
-      "surface": "שָׁ֤ב",
+      "surface": "שב",
       "gloss": "回復された"
     },
     {
-      "surface": "יְהוָה֙",
-      "gloss": "ヤハウェは"
+      "surface": "יהוה",
+      "gloss": "ヤハウェ"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "ヤコブの誇り"
     },
     {
-      "surface": "גְּא֣וֹן",
+      "surface": "גאון",
       "gloss": "誇り"
     },
     {
-      "surface": "יַעֲקֹ֔ב",
-      "gloss": "ヤコブの"
+      "surface": "יעקב",
+      "gloss": "ヤコブ"
     },
     {
-      "surface": "כִּגְא֖וֹן",
-      "gloss": "…の誇りのように"
+      "surface": "כגאון",
+      "gloss": "誇りのように"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "gloss": "イスラエル"
     },
     {
-      "surface": "כִּ֤י",
+      "surface": "כי",
       "gloss": "…だから"
     },
     {
-      "surface": "בְקָקוּם֙",
-      "gloss": "彼らをemptied-outした"
+      "surface": "בקקום",
+      "gloss": "空にしたからである"
     },
     {
-      "surface": "בֹּֽקְקִ֔ים",
-      "gloss": "emptiersが"
+      "surface": "בקקים",
+      "gloss": "空にする者たち"
     },
     {
-      "surface": "וּזְמֹרֵיהֶ֖ם",
-      "gloss": "彼らのvine-branchesを"
+      "surface": "וזמריהם",
+      "gloss": "彼らの葡萄の枝を"
     },
     {
-      "surface": "שִׁחֵֽתוּ",
-      "gloss": "ruined"
+      "surface": "שחתו",
+      "gloss": "損なった"
     }
   ],
-  "timestamp": "2026-08-07T18:38:35.827517409Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:14:52.964330105Z",
+  "model": "glm-5.3"
 }
