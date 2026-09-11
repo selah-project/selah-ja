@@ -57,3 +57,8 @@ Git の履歴が公的な記録と帰属を保持します。維持チームは�
 イ語・規約・典拠・整列と照合し、受理・共同改訂・追加根拠の待機・
 理由を添えた不受理のいずれかを行います。読みを批評し、人を批評
 しないでください。
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
